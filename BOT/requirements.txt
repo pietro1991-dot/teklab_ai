@@ -1,0 +1,19 @@
+# =========================================
+# SPIRITUALITY AI - DIPENDENZE (100% LOCALE)
+# =========================================
+
+# Core ML
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Llama Locale (NO API online)
+accelerate>=0.20.0
+bitsandbytes>=0.41.0  # Quantization 4-bit/8-bit
+peft>=0.4.0  # LoRA/QLoRA fine-tuning
+huggingface-hub>=0.16.0  # Solo per download iniziale
+
+# Utilities
+tqdm>=4.65.0

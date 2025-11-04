@@ -1,0 +1,24 @@
+Electro optic systems and liquid level sensors
+This section contains some useful information to deepen and better understand:
+
+some of the features integrated in our products which are premium devices with high technological content
+some of the benefits of using our products
+some application notes
+When only air is present in the object to be sensed, all the light emitted is reflected internally by the dome of the probe and returned to the receiver. When there is liquid, a large amount of rays emitted is absorbed / refracted by the liquid.
+As the amount of rays picked up by the receiver reduces when liquid is present, the IR sensor senses the presence of liquid.
+The response time of these sensors is very fast, almost instantaneous and detection accuracy is +/- 2 mm.
+
+IR sensors can be mounted in any angle and top, side or bottom fitted.
+They can be used for a variety of liquids including water, oil, CO2 etc. They have long life and are reliable.
+They can withstand extreme temperatures, pressures, vibrations and shocks.
+
+They can have different output types.
+They can be directly connected to a PLC system for further processing of the output signal.
+They have a wide operating temperature range from – 40 deg C to +125 deg C.
+
+The IR sensors are not affected by the liquid hardness or conductivity and hence can be used in any geographical area without any alteration.
+They do not require recalibration.
+
+They can sense the levels of clear, translucent, reflective, as well as opaque liquids.
+These liquid level sensors have a programmable timer inside for delaying the output switching. It increases the reliability of the output and takes care of any transients in the input like waves, bubble, foams etc.
+

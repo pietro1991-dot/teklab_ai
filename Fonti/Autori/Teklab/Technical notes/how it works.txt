@@ -1,0 +1,18 @@
+HOW IT WORKS
+The oil level is maintained at desired levels by specially designed control systems. Modern oil level controllers use electronic circuits
+to achieve the objective. A typical electronic oil level controller that performs both functions of oil level monitoring and oil level
+balancing is described below.
+
+The system is compatible with most refrigerants like HFC, HCFC, and CO2.
+
+The mounting onto the compressor is simplified by the dual pitch flange design. In case of different compressors fittings some
+adapters are available to allow a quick and easy installation.
+
+The electronic Oil Level Controller monitor the oil level in the compressors crankcase, and in case of oil lack is capable of directly try
+to restore the oil or give an output signal.
+They have been designed to be mounted directly onto various types of compressors.
+The optical sensor monitors the level of the liquid by electro-optic infrared technology.
+
+The electronics is designed to control the oil level of the compressor by activating a solenoid valve for automatic oil filling and
+integrates also a separate alarm contact.
+The oil level controller can be customized to function with various brands of compressors available worldwide.

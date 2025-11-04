@@ -1,0 +1,13 @@
+# Backend API Requirements
+# Dipendenze specifiche per il backend Flask
+
+# Web framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Production server (opzionale per locale, necessario per deploy)
+gunicorn==21.2.0
+
+# Le altre dipendenze (torch, transformers, ecc.) 
+# sono già installate nel progetto principale
+# Vedi: BOT/requirements.txt

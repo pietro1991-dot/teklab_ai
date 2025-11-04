@@ -1,0 +1,15 @@
+{
+  "total_samples": 4572,
+  "train_samples": 3657,
+  "validation_samples": 457,
+  "test_samples": 458,
+  "original_qa_pairs": 1143,
+  "augmentation_factor": 4.0,
+  "total_chunks": 580,
+  "authors": [
+    "Pietro Giacobazzi",
+    "Valdo Vaccaro"
+  ],
+  "format": "messages",
+  "includes_system_prompt": true
+}

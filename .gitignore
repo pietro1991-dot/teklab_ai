@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# File di ambiente con token sensibili
+.env
+.env.local
+.env.production
+.env.staging
+
+# Token e credenziali
+*.token
+*.key
+credentials.json
+config/secrets.py
+
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model checkpoints (troppo grandi per GitHub)
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Cache files
+embeddings_cache.pkl
+*.cache
+.cache/
+
+# Logs
+*.log
+logs/
+tensorboard_logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurazioni sensibili
+Configurazioni/groq_config.txt
+*.env
+.env.*
+
+# Temporary files
+temp/
+tmp/
+*.tmp

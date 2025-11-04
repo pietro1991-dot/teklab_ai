@@ -1,0 +1,548 @@
+================================================================================
+📦 INSTRUCTIONS FOR COPILOT - CREATING RAG CHUNKS IN COMPLETE FORMAT
+================================================================================
+
+OBJECTIVE:
+Create chunks in conversation format (messages: system/user/assistant) with 
+extended metadata for training Spirituality AI RAG chatbot.
+
+IMPORTANT:
+- Each chunk is a COMPLETE conversation ready for training
+- Each chunk is SELF-CONTAINED: messages + ALL metadata embedded in 1 JSON file
+- LANGUAGE: Write EVERYTHING in ENGLISH (user content, assistant response, metadata)
+- NO author citations in the response (use knowledge as if it were yours)
+- IDENTICAL system prompt in all chunks (copied from Prompt/prompts_config.py)
+- Extended metadata for robustness and training quality
+- Separate files (metadata/keywords/quotes) AGGREGATE info from chunks, DON'T duplicate
+- COMPLETE SESSION: When you receive files in chat, create EVERYTHING (chunks + aggregated files) without interruptions
+
+================================================================================
+📁 FOLDER STRUCTURE - CRITICAL RULES
+================================================================================
+
+⚠️ PYRAMID COURSE SPECIFIC STRUCTURE:
+
+ROOT PATH: 
+Fonti/Autori/Mathias de Stefano/Processati/Pyramid Course/
+
+CORRECT STRUCTURE:
+```
+Pyramid Course/
+│
+├── chunks/                                    ← Root for all chunks
+│   ├── day01/                                ← Separate folder per day
+│   │   ├── day01_chunk_001_tema.json
+│   │   ├── day01_chunk_002_tema.json
+│   │   └── day01_chunk_003_tema.json
+│   │
+│   ├── day02/                                ← NEW folder for day 2
+│   │   ├── day02_chunk_001_tema.json
+│   │   └── day02_chunk_002_tema.json
+│   │
+│   └── day03/                                ← NEW folder for day 3
+│       └── day03_chunk_001_tema.json
+│
+├── metadata/                                  ← SIBLING folder to chunks/ (NOT inside!)
+│   ├── day01_metadata.json
+│   ├── day02_metadata.json
+│   └── day03_metadata.json
+│
+├── keywords/                                  ← SIBLING folder to chunks/ (NOT inside!)
+│   ├── day01_keywords.json
+│   └── day02_keywords.json
+│
+├── quotes/                                    ← SIBLING folder to chunks/ (NOT inside!)
+│   ├── day01_quotes.json
+│   └── day02_quotes.json
+│
+└── qa_pairs/                                  ← SIBLING folder to chunks/ (NOT inside!)
+    ├── day01_qa.json
+    └── day02_qa.json
+```
+
+🚨 CRITICAL PATH RULES:
+
+1. ✅ Each day gets OWN folder: chunks/dayXX/
+   - Day 2 chunks go in: chunks/day02/ NOT chunks/day01/ ❌
+   
+2. ✅ Aggregated folders are SIBLINGS to chunks/, NOT subfolders
+   - Correct: metadata/day03_metadata.json ✅
+   - Wrong: chunks/day03/metadata/day03_metadata.json ❌
+   
+3. ✅ Aggregated files are FLAT (no day subfolders)
+   - Correct: keywords/day03_keywords.json ✅
+   - Wrong: keywords/day03/day03_keywords.json ❌
+
+================================================================================
+📁 FILE STRUCTURE AND ORGANIZATION
+================================================================================
+
+🎯 SELF-CONTAINED CHUNKS (PRIMARY - ALWAYS CREATE):
+
+File name: dayXX_chunk_NNN_descriptive_title.json
+           or fileXX_chunk_NNN_descriptive_title.json
+
+Location examples:
+- Pyramid Course: chunks/day03/day03_chunk_001_tema.json
+- Other works: chunks/file09/file09_chunk_004_ankles_feet_destiny.json
+
+Each chunk contains ALREADY inside:
+✅ messages (system/user/assistant conversation)
+✅ complete metadata (base + extended)
+✅ keywords_primary/synonyms/relations
+✅ iconic_quotes
+✅ key_formulas
+✅ negative_examples
+✅ follow_up_questions
+✅ chain_of_thought
+✅ prerequisites, natural_followup
+✅ difficulty_level, tone, sentiment, question_type, user_intent
+✅ importance, relevance
+
+📋 AGGREGATED FILES (SECONDARY - CREATE AFTER CHUNKS):
+
+These files DON'T duplicate chunk data, but AGGREGATE and ENRICH:
+
+1. metadata/dayXX_metadata.json (or fileXX_metadata.json)
+   → OVERVIEW of day/file: practices, affirmations, themes, sacred geometry
+   → Info that crosses all chunks of the file
+
+2. keywords/fileXX_keywords.json
+   → ALL keywords from all file chunks aggregated
+   → Organized by theme for efficient retrieval
+
+3. quotes/fileXX_quotes.json
+   → ALL quotes from all file chunks aggregated
+   → Organized by theme with context
+
+4. qa_pairs/fileXX_qa.json (IMPORTANT!)
+   → ADDITIONAL Q&A that are NOT in the chunks
+   → Enrich training dataset with extra questions
+
+================================================================================
+🎯 COMPLETE JSON FORMAT
+================================================================================
+
+{
+  "id": "file09_chunk_004_ankles_feet_destiny",
+  
+  "messages": [
+    {
+      "role": "system",
+      "content": "[COPY ENTIRE SYSTEM PROMPT FROM Prompt/prompts_config.py - DON'T MODIFY]"
+    },
+    {
+      "role": "user",
+      "content": "Informative context (DON'T cite authors in response):\n\n[CHUNK] - [Section Title]\nConcepts: [list of key concepts]\n📌 Quote: \"[iconic quote if present]\"\n\nComplete text: [Original chunk text reworked for clarity]\n\n---\n\nQuestion: [Natural question a user would ask about this theme]\n\nRespond as an expert spiritual guide:\n- Wise and illuminating\n- Explain spiritual principles accessibly\n- Give concrete practices with specific exercises/meditations\n- NO author citations (use info as if it were yours)\n- Focus on TRANSFORMING the person's consciousness"
+    },
+    {
+      "role": "assistant",
+      "content": "[ARTICULATED RESPONSE]\n\n[1. DIRECT ANSWER (1-2 sentences answering immediately)]\n\n[2. SPIRITUAL PRINCIPLE (clear and deep explanation)]\n\n[3. CONCRETE PRACTICES]\n\n1. [PRACTICE 1] (duration)\n   • Step 1\n   • Step 2\n   • Step 3\n\n2. [PRACTICE 2]\n   • Step 1\n   • Step 2\n\n3. [PRACTICE 3]\n   • ...\n\n[4. KEY UNDERSTANDING / BENEFITS]\n\n[5. SIGNS / INDICATORS]\n\n[6. REMEMBER (final empowering message)]"
+    }
+  ],
+  
+  "metadata": {
+    "chunk_id": "file09_chunk_004_ankles_feet_destiny",
+    "file_number": 9,                    // or "chapter_number": 1
+    "file_title": "Ankles - Mind Week",  // or "chapter_title": "..."
+    "chunk_number": 4,
+    "chunk_title": "Ankles and Feet: The Destiny We Choose",
+    "author": "Mathias de Stefano",     // Author name
+    "work": "Pyramid Course - 42 Days Initiation",
+    
+    "key_concepts": [
+      "Concept 1 clearly formulated",
+      "Concept 2 with specific detail",
+      "Concept 3 practical action",
+      "Concept 4 deep understanding",
+      "Concept 5 expected result"
+      // 5-10 concepts
+    ],
+    
+    "keywords_primary": [
+      "primary keyword 1",
+      "primary keyword 2",
+      "primary keyword 3"
+      // 5-8 keywords
+    ],
+    
+    "keywords_synonyms": {
+      "term1": ["synonym1", "synonym2", "synonym3"],
+      "term2": ["variant1", "variant2"],
+      "term3": ["alternative1", "alternative2"]
+      // For each primary keyword, list 3-5 synonyms/variants
+    },
+    
+    "keywords_relations": {
+      "keyword1": ["relation1", "relation2", "relation3"],
+      "keyword2": ["connection1", "connection2"]
+      // Semantic connections between concepts
+    },
+    
+    "iconic_quotes": [
+      "Memorable quote 1 from original text",
+      "Key quote 2 that synthesizes principle",
+      "Impactful phrase 3 that inspires"
+      // 2-4 quotes
+    ],
+    
+    "key_formulas": [
+      "Formula 1 = Concept A > Concept B",
+      "Formula 2 = Input × Action → Output",
+      "Principle 3: Condition → Result"
+      // 3-5 synthetic formulas/principles
+    ],
+    
+    "negative_examples": {
+      "question": "How can I [chunk theme]?",
+      "answers_to_avoid": [
+        "❌ Wrong answer 1 (why it's wrong)",
+        "❌ Wrong answer 2 (why it's wrong)",
+        "❌ Wrong answer 3 (why it's wrong)"
+      ],
+      "correct_answer": "Summary of correct answer with key elements"
+    },
+    
+    "follow_up_questions": [
+      "Natural follow-up question 1?",
+      "Deepening question 2?",
+      "Common doubt 3?",
+      "Practical application 4?",
+      "Specific case 5?"
+      // 5-7 questions user might ask after
+    ],
+    
+    "chain_of_thought": {
+      "question": "Why [key principle of chunk]?",
+      "reasoning": [
+        "Step 1: Initial premise → logical consequence",
+        "Step 2: From previous consequence → new deduction",
+        "Step 3: Connection with practical experience",
+        "Step 4: Integration with other principles",
+        "Conclusion: Final synthesis answering the question"
+      ]
+    },
+    
+    "prerequisites": [
+      "file08_chunk_003_preparatory_theme",
+      "chap01_base_concept"
+      // Chunks/chapters better to read before (if applicable)
+    ],
+    
+    "natural_followup": [
+      "file10_chunk_001_next_theme",
+      "chap03_deepening"
+      // Related chunks/chapters to explore after
+    ],
+    
+    "difficulty_level": "beginner",  // or "intermediate", "advanced"
+    "tone": ["illuminating", "practical", "compassionate"],
+    "sentiment": "empowering",  // or "liberating", "grounding", "challenging"
+    
+    "question_type": "practical-philosophical",  // or "theoretical", "emotional", "meditative"
+    "user_intent": [
+      "concept understanding",
+      "daily practices",
+      "personal transformation"
+      // What user really seeks
+    ],
+    
+    "importance": 0.92,  // 0-1 (how central is this chunk)
+    "relevance": 10,     // 1-10 (how useful for average user)
+    "language": "en"     // 🌍 MULTILINGUAL: "en", "it", "es" - language of the chunk content
+  }
+}
+
+🌍 IMPORTANT - LANGUAGE FIELD:
+================================================================================
+ALWAYS include "language" field in metadata:
+
+• "en" = English content
+• "it" = Italian content  
+• "es" = Spanish content
+
+EXAMPLES:
+
+✅ ENGLISH CHUNK:
+"metadata": {
+  "chunk_id": "day01_chunk_001_crown_chakra",
+  "language": "en",
+  ...
+}
+
+✅ ITALIAN CHUNK:
+"metadata": {
+  "chunk_id": "giorno01_chunk_001_chakra_corona",
+  "language": "it",
+  ...
+}
+
+✅ SPANISH CHUNK:
+"metadata": {
+  "chunk_id": "dia01_chunk_001_chakra_corona",
+  "language": "es",
+  ...
+}
+
+⚠️ MANTRAS AND SACRED SOUNDS:
+Keep mantras/sounds in ORIGINAL form regardless of chunk language:
+• "I CAN" (not "IO POSSO" or "YO PUEDO")
+• "MA" vibration (not "MA" in other languages)
+• "OM" / "AUM" (universal Sanskrit)
+• Bija mantras (LAM, VAM, RAM, YAM, HAM, OM)
+
+The system will automatically translate responses to user's query language while 
+preserving mantras in their original sacred form.
+
+================================================================================
+
+================================================================================
+📝 CONTENT WRITING GUIDELINES
+================================================================================
+
+SYSTEM PROMPT:
+• Copy ENTIRE system prompt from Prompt/prompts_config.py
+• DON'T modify anything
+• Includes few-shot examples to teach response format
+
+USER CONTENT:
+• Structure: Context + Concepts + Quote + Question
+• Context must be CLEAR and SELF-CONTAINED
+• Key concepts listed to guide response
+• Question formulated as a real user would ask it
+• 🌍 WRITE IN ENGLISH (all user content in English)
+
+ASSISTANT CONTENT (the response):
+• Max 200-300 words (can reach 400 if complex guided practice)
+• 🌍 WRITE IN ENGLISH (entire response in English)
+• Structure ALWAYS:
+  1. Direct answer (1-2 sentences)
+  2. Spiritual principle explained
+  3. Concrete STEP-BY-STEP practices
+  4. Benefits/Key understanding
+  5. Final empowering message
+• NO author citations (e.g.: "According to X...", "In the book Y...")
+• YES universal expressions (e.g.: "Spiritual traditions teach...")
+• Speak in FIRST PERSON as guide: "I invite you to...", "It's essential..."
+• Always PRACTICAL + DEEP (not just theory, not just practice)
+
+GENERAL TONE:
+✅ Wise but accessible
+✅ Compassionate and non-judgmental
+✅ Inspiring and empowering
+✅ Direct and clear (no beating around the bush)
+✅ Focus on real TRANSFORMATION
+
+❌ NOT academic or detached
+❌ NOT vague or generic
+❌ NOT judgmental or prescriptive
+❌ NOT author citations in response body
+
+================================================================================
+🔧 METADATA - HOW TO FILL THEM
+================================================================================
+
+KEY_CONCEPTS:
+• Formulate as COMPLETE SENTENCES not single words
+• 🌍 IN ENGLISH
+• GOOD example: "Feet contain information about direction and chosen destiny"
+• BAD example: "feet, destiny, direction"
+• 5-10 concepts capturing chunk essence
+
+KEYWORDS_PRIMARY:
+• Terms/phrases a user would use to search for this content
+• 🌍 IN ENGLISH
+• 2-4 words per keyword
+• 5-8 keywords total
+• Example: "ankles destiny portal", "core earth meditation"
+
+KEYWORDS_SYNONYMS:
+• For EACH primary keyword, list 3-5 variants/synonyms
+• 🌍 IN ENGLISH
+• Include: direct synonyms, related terms, different ways of saying
+• Example: "destiny": ["direction", "purpose", "path", "life journey"]
+
+KEYWORDS_RELATIONS:
+• Semantic connections between concepts
+• What naturally connects to what
+• Example: "meditation": ["breath", "silence", "observation"]
+
+ICONIC_QUOTES:
+• MEMORABLE phrases from original text
+• That synthesize a key principle
+• That inspire and stay in mind
+• 2-4 quotes (no more)
+
+KEY_FORMULAS:
+• Principles synthesized in formula/equation format
+• Example: "Destiny = Intention × Present Action"
+• Example: "Presence in steps > Speed of arrival"
+• 3-5 formulas
+
+NEGATIVE_EXAMPLES:
+• What NOT to say / common wrong approaches
+• Serves to TEACH the model what to avoid
+• 3-4 examples of wrong answers + explanation why
+• Always include the CORRECT answer
+
+FOLLOW_UP_QUESTIONS:
+• Questions user would naturally ask after
+• Common doubts
+• Clarification requests
+• Practical deepenings
+• 5-7 questions
+
+CHAIN_OF_THOUGHT:
+• Only for COMPLEX concepts requiring reasoning
+• Shows the logical PATH step-by-step
+• Teaches the model how to ARGUE
+• 4-6 reasoning steps
+
+PREREQUISITES / NATURAL_FOLLOWUP:
+• Connections with other chunks of course/book
+• Prerequisites: what's better to know before
+• Followup: what to explore after to continue
+• Use chunk_id of other chunks
+
+DIFFICULTY_LEVEL:
+• beginner: base concepts, accessible to all
+• intermediate: requires understanding base principles
+• advanced: deep concepts, intense practices
+
+TONE:
+• List 2-4 adjectives describing the tone
+• Example: ["illuminating", "practical", "compassionate"]
+• Other: "transformative", "grounding", "empowering", "ritual"
+
+QUESTION_TYPE:
+• What type of query is it
+• practical: "how do I..."
+• philosophical: "why/what does it mean..."
+• emotional: "how to manage feelings..."
+• meditative: "guided practice..."
+
+USER_INTENT:
+• What user REALLY seeks behind the question
+• Example: "understanding destiny", "daily practices", "overcoming block"
+
+IMPORTANCE / RELEVANCE:
+• importance (0-1): how central in corpus (0.9+ = fundamental)
+• relevance (1-10): how useful for average user (10 = everyone must know)
+
+================================================================================
+✅ CHECKLIST BEFORE SAVING
+================================================================================
+
+CONTENT:
+[ ] System prompt copied complete from prompts_config.py
+[ ] User content with context + concepts + quote + question
+[ ] Assistant content 200-300 words, 5-part structure
+[ ] NO author citations in response
+[ ] Concrete step-by-step practices present
+[ ] Wise, compassionate, practical tone
+
+BASE METADATA:
+[ ] Unique and descriptive chunk_id
+[ ] Correct file/chapter_number
+[ ] Author and work filled
+[ ] 5-10 key_concepts (complete sentences)
+[ ] 5-8 keywords_primary
+[ ] 2-4 iconic_quotes
+[ ] 3-5 key_formulas
+[ ] Importance and relevance assigned
+
+EXTENDED METADATA:
+[ ] keywords_synonyms for each primary keyword (3-5 synonyms)
+[ ] keywords_relations between concepts
+[ ] negative_examples with 3-4 wrong answers + correct
+[ ] follow_up_questions (5-7 natural questions)
+[ ] chain_of_thought if complex concept
+[ ] prerequisites and natural_followup if applicable
+[ ] difficulty_level, tone, sentiment, question_type
+[ ] user_intent what user seeks
+
+VALID JSON:
+[ ] Correct JSON syntax (commas, brackets, quotes)
+[ ] No trailing comma in last element of array/object
+[ ] Multiline strings with \n escaped
+[ ] Tested with online JSON validator if uncertain
+
+================================================================================
+🚀 CHUNK CREATION WORKFLOW
+================================================================================
+
+⚡ IMPORTANT: COMPLETE EVERYTHING IN ONE SESSION!
+
+When you receive shared files in chat (transcript/original text from a file):
+→ You must create EVERYTHING in the same session without interruptions:
+  • PHASE 1: All chunks of the file (4-7 chunks)
+  • PHASE 2: All aggregated files (metadata, keywords, quotes, qa_pairs)
+
+DON'T stop after 1-2 chunks asking for confirmation!
+Proceed until total completion of the file.
+
+---
+
+PHASE 1: CREATING SELF-CONTAINED CHUNKS (PRIORITY)
+
+1. READ transcript/original text of file/chapter
+2. IDENTIFY 4-7 main themes
+3. For EACH theme:
+   a. Create 1 SELF-CONTAINED chunk with complete structure
+   b. Write system/user/assistant conversation IN ENGLISH
+   c. Fill ALL base + extended metadata INSIDE the chunk
+   d. Verify valid JSON
+   e. SAVE in: Fonti/Autori/[Author]/Processati/[Work]/chunks/fileXX/
+
+✅ At this point you have COMPLETE chunks ready for training!
+
+PHASE 2: CREATING AGGREGATED FILES (AFTER all file chunks ready)
+
+4. Create metadata/fileXX_metadata.json
+   → File overview with practices, affirmations, cross-cutting themes
+   → DON'T duplicate chunk metadata, AGGREGATE higher-level info
+
+5. Create keywords/fileXX_keywords.json
+   → COLLECT all keywords_primary from all file chunks
+   → Organize by theme for efficient retrieval
+
+6. Create quotes/fileXX_quotes.json
+   → COLLECT all iconic_quotes from all file chunks
+   → Organize by theme with application context
+
+7. Create qa_pairs/fileXX_qa.json (IMPORTANT!)
+   → ADDITIONAL Q&A that are NOT covered by chunks
+   → Alternative questions, edge cases, deepenings
+   → These enrich training dataset
+
+✅ ONLY AFTER completing PHASE 2 the file is ready!
+
+================================================================================
+💡 FINAL TIPS
+================================================================================
+
+• Fast system: Copy existing chunk template (e.g.: file09_chunk_004) and modify
+• SELF-CONTAINED chunk: must work standalone without external files
+• CLEAR user content: complete context without dependencies
+• PRACTICAL assistant: always give concrete steps not just theory
+• Rich metadata INSIDE chunk: more embedded info = better training
+• Valid JSON: use online validator if uncertain
+• Final test: ask copilot "explain this chunk" to verify clarity
+• 🌍 EVERYTHING IN ENGLISH: user content, assistant response, metadata
+• ⚡ COMPLETE SESSION: When you receive files in chat, complete EVERYTHING before stopping
+
+REMEMBER:
+✅ Messages format (system/user/assistant) NOT old question/answer format
+✅ IDENTICAL system prompt in all chunks
+✅ NO author citations in assistant response
+✅ YES concrete step-by-step practices
+✅ Extended metadata not optional - essential for training
+✅ Each chunk is SELF-CONTAINED - all metadata embedded inside
+✅ Separate files (metadata/keywords/quotes/qa) AGGREGATE, DON'T duplicate
+✅ Training reads 1 file per chunk → maximum efficiency
+✅ 🌍 ENGLISH LANGUAGE for all content (user/assistant/metadata)
+✅ ⚡ COMPLETE PHASE 1 + PHASE 2 in one session when you receive files in chat
+
+================================================================================
+End of instructions. Use this as reference every time you create new chunks!
+================================================================================
