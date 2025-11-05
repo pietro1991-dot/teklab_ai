@@ -31,7 +31,7 @@ sys.path.insert(0, str(PROJECT_ROOT / "ai_system" / "src"))
 sys.path.insert(0, str(PROJECT_ROOT / "Prompt"))
 
 try:
-    from prompts_config import SYSTEM_PROMPT
+    from prompts_config import SYSTEM_PROMPT, build_rag_prompt, build_simple_prompt
 except ImportError as e:
     print(f"❌ Errore import moduli: {e}")
     print("Assicurati che ai_system/src/ e Prompt/ esistano")
@@ -301,7 +301,7 @@ class TeklabAIChatbotOllama:
         
         # Retrieve RAG context - Ottimizzato per assistenza clienti professionale
         start_retrieval = time.time()
-        rag_context, retrieved_chunks = self.retrieve_context(user_message, top_k=5, min_similarity=0.28)
+        rag_context, retrieved_chunks = self.retrieve_context(user_message, top_k=3, min_similarity=0.28)  # ⚡ top_k=3 per velocità
         retrieval_time = time.time() - start_retrieval
         
         # DEBUG: Stampa chunk recuperati
@@ -324,69 +324,96 @@ class TeklabAIChatbotOllama:
         history_context = self._get_conversation_context()
         
         if rag_context:
-            # AUMENTATO LIMITE: I chunk Teklab sono tecnici e lunghi (3000-8000 chars)
-            # Per assistenza clienti professionale, serve contesto completo
-            max_context_length = 4000  # Supporta 1-2 chunk completi
+            # ⚡ OTTIMIZZATO: Ridotto per velocità (3 chunk @ 800 chars = ~2400)
+            # Con top_k=3 chunks, context più compatto e veloce
+            max_context_length = 2500  # ⚡ Allineato a backend_api (era 4000)
             if len(rag_context) > max_context_length:
                 rag_context = rag_context[:max_context_length] + "\n\n[... Additional technical details available on request ...]"
             
-            # PROMPT OTTIMIZZATO per assistenza clienti B2B Teklab
-            full_prompt = f"""You are a TEKLAB TECHNICAL SALES ASSISTANT. Use the product documentation below to answer the customer's question.
-
-TEKLAB PRODUCT DOCUMENTATION:
-{rag_context}
-
----
-
-CUSTOMER QUESTION: {user_message}
-
-RESPONSE GUIDELINES:
-1. LANGUAGE: Respond in the SAME language as the customer's question (Italian/English/Spanish/German)
-2. ACCURACY: Use ONLY information from the documentation above - cite specific models, specs, pressure ratings
-3. PRACTICAL: Focus on the customer's application - recommend the RIGHT product with technical justification
-4. COMPLETE: Include key specs (pressure, temp range, refrigerants, outputs, certifications)
-5. PROFESSIONAL: Be consultative but concise (aim for 150-250 words)
-6. HONEST: If documentation doesn't cover the question fully, say "I recommend contacting Teklab support for detailed specs on..."
-
-{history_context}
-
-TEKLAB ASSISTANT RESPONSE:"""
+            # 🎯 USA TEMPLATE CENTRALIZZATO da prompts_config.py
+            full_prompt = build_rag_prompt(rag_context, user_message)
+            
+            # Aggiungi cronologia conversazione se presente
+            if history_context:
+                full_prompt = full_prompt.replace("TEKLAB ASSISTANT RESPONSE:", f"{history_context}\n\nTEKLAB ASSISTANT RESPONSE:")
         else:
-            full_prompt = f"{history_context}\n\nUser: {user_message}\n\nAssistant:"
+            # Nessun RAG context - prompt semplice
+            full_prompt = build_simple_prompt(user_message)
+            if history_context:
+                full_prompt = f"{history_context}\n\n{full_prompt}"
         
         # Genera risposta con Ollama
         try:
             print("⏳ Generazione in corso (Ollama)...", flush=True)
-            
             start_generation = time.time()
             
-            payload = {
-                "model": self.OLLAMA_MODEL,
-                "prompt": full_prompt,
-                "system": SYSTEM_PROMPT,
-                "stream": False,
-                "options": {
-                    "temperature": 0.7,
-                    "top_p": 0.9,
-                    "top_k": 50,
-                    "num_predict": 1024,  # ✅ Aumentato per risposte complete (no troncamento)
-                    "repeat_penalty": 1.1
+            # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 400 → 800 → 1200 → 1600
+            # CONTINUE MODE: ogni retry CONTINUA da dove si era fermato (no re-generazione)
+            num_predict_levels = [400, 400, 400, 400]  # Ogni livello aggiunge 400 token
+            current_level = 0
+            assistant_message = ""
+            
+            while current_level < len(num_predict_levels):
+                num_predict = num_predict_levels[current_level]
+                
+                if current_level > 0:
+                    print(f" [continua livello {current_level + 1}/4...]", end="", flush=True)
+                
+                # CONTINUE MODE: CRITICAL FIX
+                # Formato corretto: mostra risposta parziale come già scritta dall'assistente
+                if current_level > 0 and assistant_message:
+                    continue_prompt = f"""{full_prompt}
+
+TEKLAB ASSISTANT RESPONSE:
+{assistant_message}"""
+                    # Il modello vede la risposta parziale e continua naturalmente
+                else:
+                    continue_prompt = full_prompt
+                
+                payload = {
+                    "model": self.OLLAMA_MODEL,
+                    "prompt": continue_prompt,
+                    "system": SYSTEM_PROMPT,
+                    "stream": False,
+                    "options": {
+                        "temperature": 0.6,
+                        "num_predict": num_predict,  # 🔄 ADATTIVO: sempre 400 per livello
+                        "top_p": 0.85,
+                        "num_ctx": 4096,  # ⚡ AUMENTATO da 2048 - supporta RAG context più lunghi
+                        "repeat_penalty": 1.1,
+                        "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
+                    }
                 }
-            }
-            
-            # Aumentato timeout a 10 minuti per query complesse
-            response = requests.post(self.OLLAMA_URL, json=payload, timeout=600)
-            response.raise_for_status()
-            
-            result = response.json()
-            assistant_message = result.get('response', '').strip()
-            
-            # Avvisa se risposta potrebbe essere troncata
-            if result.get('done_reason') == 'length':
-                assistant_message += "\n\n⚠️ [Risposta troncata - limite token raggiunto]"
+                
+                # Aumentato timeout per livelli alti
+                timeout = 180 + (current_level * 60)  # 180s, 240s, 300s, 360s
+                response = requests.post(self.OLLAMA_URL, json=payload, timeout=timeout)
+                response.raise_for_status()
+                
+                result = response.json()
+                chunk_response = result.get('response', '').strip()
+                done_reason = result.get('done_reason', 'stop')
+                
+                # APPEND alla risposta completa
+                assistant_message += chunk_response
+                
+                # Check se troncato
+                if done_reason == 'length' and current_level < len(num_predict_levels) - 1:
+                    # Troncato! CONTINUA al livello successivo
+                    current_level += 1
+                    continue
+                else:
+                    # Completato o ultimo livello raggiunto
+                    if current_level > 0:
+                        total_tokens = sum(num_predict_levels[:current_level + 1])
+                        print(f"\n✅ Risposta completa: {total_tokens} token (livello {current_level + 1}/4)")
+                    break
             
             generation_time = time.time() - start_generation
             total_time = time.time() - start_total
+            
+            # Calcola token totali usati
+            total_tokens_used = sum(num_predict_levels[:current_level + 1])
             
             # Salva in conversazione
             self.conversation_history.append({
@@ -399,6 +426,13 @@ TEKLAB ASSISTANT RESPONSE:"""
                     "retrieval_time": round(retrieval_time, 3),
                     "generation_time": round(generation_time, 3),
                     "total_time": round(total_time, 3)
+                },
+                "adaptive_generation": {
+                    "num_predict_used": total_tokens_used,
+                    "level_reached": current_level + 1,
+                    "max_levels": len(num_predict_levels),
+                    "retries": current_level,
+                    "mode": "continue"  # Indica modalità CONTINUE (vs RETRY)
                 },
                 "engine": "ollama"
             })
@@ -494,8 +528,19 @@ TEKLAB ASSISTANT RESPONSE:"""
                             
                             # Display compatto: [num] Product | Category | sim
                             print(f"      {i}. {product} | {category} | sim={sim:.3f}")
+                    
+                    # Metriche generazione adattiva
+                    adaptive = last_turn.get('adaptive_generation', {})
+                    num_predict_used = adaptive.get('num_predict_used', 0)
+                    level = adaptive.get('level_reached', 1)
+                    retries = adaptive.get('retries', 0)
+                    
+                    adaptive_info = f"livello {level}/4 ({num_predict_used} token)"
+                    if retries > 0:
+                        adaptive_info += f" 🔄 +{retries} retry"
+                    
                     print(f"   • Timing: retrieval {timing.get('retrieval_time', 0):.2f}s + generation {timing.get('generation_time', 0):.2f}s = {timing.get('total_time', 0):.2f}s")
-                    print(f"   • Engine: Ollama (llama.cpp)")
+                    print(f"   • Engine: Ollama (llama.cpp) - {adaptive_info}")
                 
                 print("\n" + "-" * 70 + "\n")
         

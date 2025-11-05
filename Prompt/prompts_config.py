@@ -192,3 +192,63 @@ def get_commands_help():
 def get_test_questions():
     """Restituisce le domande di test"""
     return TEST_QUESTIONS
+
+
+# ============================================================
+# RAG PROMPT TEMPLATE - Per chatbot con retrieval
+# ============================================================
+
+def build_rag_prompt(rag_context: str, user_message: str) -> str:
+    """
+    Costruisce il prompt completo per RAG chatbot.
+    
+    Args:
+        rag_context: Contesto recuperato da RAG (chunks rilevanti)
+        user_message: Domanda dell'utente
+    
+    Returns:
+        Prompt formattato pronto per Ollama/LLM
+    """
+    return f"""You are a TEKLAB TECHNICAL SALES ASSISTANT. Use the product documentation below to answer the customer's question.
+
+TEKLAB PRODUCT DOCUMENTATION:
+{rag_context}
+
+---
+
+CUSTOMER QUESTION: {user_message}
+
+RESPONSE GUIDELINES:
+1. LANGUAGE: Respond in the SAME language as the customer's question (Italian/English/Spanish/German)
+2. ACCURACY: Use ONLY information from the documentation above - cite specific models, specs, pressure ratings
+3. PRACTICAL: Focus on the customer's application - recommend the RIGHT product with technical justification
+4. CONCISE: Aim for 150-250 words MAX - be direct and technical, avoid verbose explanations
+5. **FORMATTING (MANDATORY)**: Use **Markdown** formatting:
+   - **Bold** for product models and key specs (e.g., **TK3+**, **0-600 bar**)
+   - Bullet points (`*` or `-`) for feature lists
+   - Numbered lists (`1.`, `2.`) for steps or comparisons
+   - `Code formatting` for technical codes (e.g., `MODBUS RS485`)
+   - Headings (`##`) for section titles if needed
+6. HONEST: If documentation doesn't cover the question fully, say "I recommend contacting Teklab support for detailed specs on..."
+
+TEKLAB ASSISTANT RESPONSE:"""
+
+
+def build_simple_prompt(user_message: str) -> str:
+    """
+    Costruisce prompt senza RAG context (fallback).
+    
+    Args:
+        user_message: Domanda dell'utente
+    
+    Returns:
+        Prompt semplice senza context
+    """
+    return f"""CUSTOMER QUESTION: {user_message}
+
+You are a Teklab technical assistant. The customer is asking about industrial sensors.
+Available products: TK series (TK1+, TK3+, TK4), LC series (LC-PS, LC-XP, LC-XT), ATEX sensors.
+
+Provide a brief, professional answer. If you need specific technical details, ask the customer to clarify their application.
+
+ANSWER:"""

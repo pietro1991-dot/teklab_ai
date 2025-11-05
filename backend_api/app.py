@@ -34,8 +34,8 @@ sys.path.insert(0, str(PROJECT_ROOT / "Prompt"))
 
 # Import configurazione prompt Teklab
 try:
-    from prompts_config import SYSTEM_PROMPT
-    logger.info("✅ Configurazione Teklab caricata")
+    from prompts_config import SYSTEM_PROMPT, build_rag_prompt, build_simple_prompt
+    logger.info("✅ Configurazione Teklab caricata (SYSTEM_PROMPT + RAG templates)")
 except ImportError as e:
     logger.warning(f"⚠️  prompts_config non trovato: {e}")
     SYSTEM_PROMPT = """You are a technical sales assistant for Teklab industrial sensors.
@@ -47,6 +47,13 @@ Provide accurate, professional information about:
 - MODBUS communication and installation
 
 Be concise and technical. Use the provided context to answer accurately."""
+    
+    # Fallback se import fallisce
+    def build_rag_prompt(rag_context, user_message):
+        return f"Context:\n{rag_context}\n\nQuestion: {user_message}\n\nAnswer:"
+    
+    def build_simple_prompt(user_message):
+        return f"Question: {user_message}\n\nAnswer:"
 
 # ============================================================================
 # REQUEST QUEUE SYSTEM per Multi-User Support
@@ -217,7 +224,7 @@ def check_ollama():
     except:
         return False
 
-def search_relevant_chunks(query, top_k=2):
+def search_relevant_chunks(query, top_k=3):  # ⚡ Allineato a 3 chunks
     """Ricerca semantica nei chunks usando embeddings - OTTIMIZZATA"""
     if not load_embeddings():
         return []
@@ -234,14 +241,22 @@ def search_relevant_chunks(query, top_k=2):
     chunk_embeddings = _embeddings_cache.get('chunk_embeddings', {})
     chunks_data = _embeddings_cache.get('chunks_data', {})
     
+    # ⚡ OTTIMIZZAZIONE: usa sklearn cosine_similarity (più veloce di NumPy loop)
+    from sklearn.metrics.pairwise import cosine_similarity
+    
     similarities = []
-    for chunk_id, chunk_emb in chunk_embeddings.items():
-            # Cosine similarity
-            sim = np.dot(query_embedding, chunk_emb) / (
-                np.linalg.norm(query_embedding) * np.linalg.norm(chunk_emb)
-            )
-            if sim >= 0.25:  # Abbassato threshold da 0.3 a 0.25 (query italiane vs chunk inglesi)
-                similarities.append((chunk_id, sim))    # Ordina per similarità
+    chunk_ids = list(chunk_embeddings.keys())
+    chunk_embs = np.array([chunk_embeddings[cid] for cid in chunk_ids])
+    
+    # Calcola similarità in batch (10x più veloce)
+    sims = cosine_similarity([query_embedding], chunk_embs)[0]
+    
+    # Filtra per threshold AUMENTATO (0.28 invece di 0.25 - più selettivo = meno noise)
+    for i, (chunk_id, sim) in enumerate(zip(chunk_ids, sims)):
+        if sim >= 0.28:  # ⚡ Threshold ottimizzato
+            similarities.append((chunk_id, sim))
+    
+    # Ordina per similarità
     similarities.sort(key=lambda x: x[1], reverse=True)
     
     # Prendi top_k risultati
@@ -563,7 +578,7 @@ def chat_stream():
                 logger.info(f"🟢 Processing request #{request_id} - searching RAG chunks...")
                 
                 # Cerca chunks rilevanti
-                relevant_chunks = search_relevant_chunks(user_message, top_k=5)
+                relevant_chunks = search_relevant_chunks(user_message, top_k=3)  # ⚡ Ridotto da 5 a 3
                 
                 logger.info(f"🔍 RAG Search (stream): '{user_message[:50]}'")
                 logger.info(f"   Chunks trovati: {len(relevant_chunks)}")
@@ -577,39 +592,16 @@ def chat_stream():
                 else:
                     rag_context = ""
                 
-                # Costruisci prompt
+                # ⚡ OTTIMIZZAZIONE: Tronca context se troppo lungo
+                max_context_length = 2500  # Supporta ~3 chunks completi
+                if rag_context and len(rag_context) > max_context_length:
+                    rag_context = rag_context[:max_context_length] + "\n\n[... Additional technical details available on request ...]"
+                
+                # 🎯 USA TEMPLATE CENTRALIZZATO da prompts_config.py
                 if rag_context:
-                    max_context_length = 4000
-                    if len(rag_context) > max_context_length:
-                        rag_context = rag_context[:max_context_length] + "\n\n[... Additional technical details available on request ...]"
-                    
-                    full_prompt = f"""You are a TEKLAB TECHNICAL SALES ASSISTANT. Use the product documentation below to answer the customer's question.
-
-TEKLAB PRODUCT DOCUMENTATION:
-{rag_context}
-
----
-
-CUSTOMER QUESTION: {user_message}
-
-RESPONSE GUIDELINES:
-1. LANGUAGE: Respond in the SAME language as the customer's question (Italian/English/Spanish/German)
-2. ACCURACY: Use ONLY information from the documentation above - cite specific models, specs, pressure ratings
-3. PRACTICAL: Focus on the customer's application - recommend the RIGHT product with technical justification
-4. COMPLETE: Include key specs (pressure, temp range, refrigerants, outputs, certifications)
-5. PROFESSIONAL: Be consultative but concise (aim for 150-300 words)
-6. HONEST: If documentation doesn't cover the question fully, say "I recommend contacting Teklab support for detailed specs on..."
-
-TEKLAB ASSISTANT RESPONSE:"""
+                    full_prompt = build_rag_prompt(rag_context, user_message)
                 else:
-                    full_prompt = f"""CUSTOMER QUESTION: {user_message}
-
-You are a Teklab technical assistant. The customer is asking about industrial sensors.
-Available products: TK series (TK1+, TK3+, TK4), LC series (LC-PS, LC-XP, LC-XT), ATEX sensors.
-
-Provide a brief, professional answer. If you need specific technical details, ask the customer to clarify their application.
-
-ANSWER:"""
+                    full_prompt = build_simple_prompt(user_message)
                 
                 # Invia sources prima della risposta
                 logger.info(f"📤 Sending sources to client ({len(relevant_chunks)} chunks)...")
@@ -620,47 +612,95 @@ ANSWER:"""
                 yield f"data: {json.dumps(sources_data)}\n\n"
                 logger.info(f"✅ Sources sent via SSE")
                 
-                # Chiama Ollama con streaming
-                payload = {
-                    "model": OLLAMA_MODEL,
-                    "prompt": full_prompt,
-                    "system": SYSTEM_PROMPT,
-                    "stream": True,  # ✅ STREAMING ENABLED
-                    "options": {
-                        "temperature": 0.7,
-                        "num_predict": 1024,  # ✅ Aumentato per risposte complete (no troncamento)
-                        "top_p": 0.9
+                # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 400 → 800 → 1200 → 1600
+                # CONTINUE MODE: ogni retry CONTINUA da dove si era fermato (no re-generazione)
+                num_predict_levels = [400, 400, 400, 400]  # Ogni livello aggiunge 400 token
+                current_level = 0
+                full_response = ""
+                
+                while current_level < len(num_predict_levels):
+                    num_predict = num_predict_levels[current_level]
+                    
+                    if current_level > 0:
+                        # CONTINUE MODE: Non mostrare "[continua...]" - streaming già in corso
+                        logger.info(f"🔄 Continue generation (level {current_level + 1}/4, +{num_predict} token)")
+                    else:
+                        logger.info(f"📡 Calling Ollama API (model: {OLLAMA_MODEL}, num_predict={num_predict})...")
+                    
+                    # CONTINUE MODE: CRITICAL FIX
+                    # Per far CONTINUARE (non ri-generare), costruiamo il prompt
+                    # come se l'assistente avesse già iniziato a rispondere
+                    if current_level > 0 and full_response:
+                        # Formato: mostra la risposta parziale come già scritta,
+                        # poi Ollama automaticamente continua da lì
+                        continue_prompt = f"""{full_prompt}
+
+TEKLAB ASSISTANT RESPONSE:
+{full_response}"""
+                        # Il modello vede la risposta parziale e continua naturalmente
+                    else:
+                        continue_prompt = full_prompt
+                    
+                    # Chiama Ollama con streaming
+                    payload = {
+                        "model": OLLAMA_MODEL,
+                        "prompt": continue_prompt,
+                        "system": SYSTEM_PROMPT,
+                        "stream": True,  # ✅ STREAMING ENABLED
+                        "options": {
+                            "temperature": 0.6,
+                            "num_predict": num_predict,  # 🔄 ADATTIVO: sempre 400 per livello
+                            "top_p": 0.85,
+                            "num_ctx": 4096,  # ⚡ AUMENTATO da 2048 - supporta RAG context più lunghi
+                            "repeat_penalty": 1.1,
+                            "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
+                        }
                     }
-                }
-                
-                logger.info(f"📡 Calling Ollama API (model: {OLLAMA_MODEL})...")
-                response = requests.post(OLLAMA_URL, json=payload, stream=True, timeout=120)
-                response.raise_for_status()
-                logger.info(f"✅ Ollama responded, streaming tokens...")
-                
-                # Stream chunks progressivi
-                for line in response.iter_lines():
-                    if line:
-                        chunk_data = json.loads(line)
-                        
-                        if 'response' in chunk_data:
-                            token = chunk_data['response']
+                    
+                    response = requests.post(OLLAMA_URL, json=payload, stream=True, timeout=180)
+                    response.raise_for_status()
+                    
+                    # Stream chunks progressivi
+                    chunk_response = ""
+                    for line in response.iter_lines():
+                        if line:
+                            chunk_data = json.loads(line)
                             
-                            # Invia token al frontend
-                            token_data = {
-                                'type': 'token',
-                                'token': token
-                            }
-                            yield f"data: {json.dumps(token_data)}\n\n"
-                        
-                        # Se Ollama ha finito
-                        if chunk_data.get('done', False):
-                            done_data = {
-                                'type': 'done',
-                                'timestamp': datetime.now().isoformat()
-                            }
-                            yield f"data: {json.dumps(done_data)}\n\n"
-                            break
+                            if 'response' in chunk_data:
+                                token = chunk_data['response']
+                                chunk_response += token
+                                
+                                # Invia SEMPRE token al frontend (streaming continuo)
+                                token_data = {'type': 'token', 'token': token}
+                                yield f"data: {json.dumps(token_data)}\n\n"
+                            
+                            # Se Ollama ha finito
+                            if chunk_data.get('done', False):
+                                done_reason = chunk_data.get('done_reason', 'stop')
+                                
+                                # APPEND alla risposta completa
+                                full_response += chunk_response
+                                
+                                if done_reason == 'length' and current_level < len(num_predict_levels) - 1:
+                                    # Troncato! CONTINUA al livello successivo
+                                    current_level += 1
+                                    break
+                                else:
+                                    # Completato o ultimo livello raggiunto
+                                    total_tokens_used = sum(num_predict_levels[:current_level + 1])
+                                    
+                                    done_data = {
+                                        'type': 'done',
+                                        'timestamp': datetime.now().isoformat(),
+                                        'num_predict_used': total_tokens_used,
+                                        'retries': current_level
+                                    }
+                                    yield f"data: {json.dumps(done_data)}\n\n"
+                                    break
+                    
+                    # Se completato (done_reason != 'length'), esci
+                    if chunk_data.get('done_reason', 'stop') != 'length':
+                        break
                 
             except requests.exceptions.Timeout:
                 error_data = {

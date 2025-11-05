@@ -396,6 +396,31 @@ body {
     word-wrap: break-word;
 }
 
+/* Markdown formatting styles */
+.message-text h1,
+.message-text h2,
+.message-text h3,
+.message-text h4 {
+    margin-top: var(--spacing-lg);
+    margin-bottom: var(--spacing-md);
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.message-text h1 { font-size: 1.5em; }
+.message-text h2 { font-size: 1.3em; }
+.message-text h3 { font-size: 1.15em; }
+.message-text h4 { font-size: 1em; }
+
+.message-text strong {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.message-text em {
+    font-style: italic;
+}
+
 .message-text p {
     margin-bottom: var(--spacing-md);
 }
@@ -408,10 +433,34 @@ body {
 .message-text ol {
     margin-left: var(--spacing-lg);
     margin-bottom: var(--spacing-md);
+    padding-left: var(--spacing-sm);
+}
+
+.message-text ul {
+    list-style-type: disc;
+}
+
+.message-text ol {
+    list-style-type: decimal;
 }
 
 .message-text li {
     margin-bottom: var(--spacing-xs);
+    line-height: 1.6;
+}
+
+.message-text li > ul,
+.message-text li > ol {
+    margin-top: var(--spacing-xs);
+    margin-bottom: var(--spacing-xs);
+}
+
+.message-text blockquote {
+    border-left: 3px solid var(--accent-primary);
+    padding-left: var(--spacing-md);
+    margin: var(--spacing-md) 0;
+    color: var(--text-secondary);
+    font-style: italic;
 }
 
 .message-text code {
@@ -428,6 +477,36 @@ body {
     border-radius: 8px;
     overflow-x: auto;
     margin-bottom: var(--spacing-md);
+}
+
+.message-text pre code {
+    background: transparent;
+    padding: 0;
+    border-radius: 0;
+}
+
+/* Tables (Markdown tables support) */
+.message-text table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: var(--spacing-md) 0;
+    font-size: var(--font-size-sm);
+}
+
+.message-text th,
+.message-text td {
+    border: 1px solid var(--border-color);
+    padding: var(--spacing-sm);
+    text-align: left;
+}
+
+.message-text th {
+    background-color: var(--bg-secondary);
+    font-weight: 600;
+}
+
+.message-text tr:nth-child(even) {
+    background-color: var(--bg-tertiary);
 }
 
 .message-actions {
@@ -705,4 +784,31 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--text-tertiary);
+}
+
+/* ==================== THINKING ANIMATION ==================== */
+@keyframes thinking-pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
+
+.message.bot .message-content:has(:first-child:contains("Sto pensando")) {
+    animation: thinking-pulse 2s ease-in-out infinite;
+}
+
+.thinking-indicator {
+    color: var(--text-secondary);
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.thinking-indicator::before {
+    content: "🧠";
+    animation: thinking-pulse 1.5s ease-in-out infinite;
 }

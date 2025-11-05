@@ -39,6 +39,18 @@ class TeklabAI {
     async init() {
         console.log('🔧 Teklab AI initializing...');
 
+        // Configura marked.js per Markdown rendering
+        if (window.marked) {
+            marked.setOptions({
+                breaks: true,        // Converte \n in <br>
+                gfm: true,          // GitHub Flavored Markdown
+                headerIds: false,   // No ID sugli heading
+                mangle: false,      // No mangling email
+                sanitize: false     // Permetti HTML (sicuro perché controlliamo source)
+            });
+            console.log('✅ Markdown renderer configured');
+        }
+
         // Load saved data
         this.loadSavedData();
 
@@ -231,6 +243,21 @@ class TeklabAI {
         // Nascondi typing indicator (streaming lo sostituisce)
         this.hideTypingIndicator();
 
+        // 🧠 MOSTRA "Sto pensando..." SUBITO (prima della chiamata API)
+        let dots = '';
+        botMessage.content = '🧠 Sto pensando...';
+        this.updateMessageContent(botMessageElement, botMessage.content);
+        this.scrollToBottom();
+        
+        const thinkingInterval = setInterval(() => {
+            dots = dots.length >= 3 ? '' : dots + '.';
+            botMessage.content = `🧠 Sto pensando${dots}`;
+            this.updateMessageContent(botMessageElement, botMessage.content);
+        }, 500);
+        
+        // Salva interval per cancellarlo dopo
+        botMessage.thinkingInterval = thinkingInterval;
+
         // ⏱️ START TIMER
         const startTime = Date.now();
         let queueStartTime = null;
@@ -242,6 +269,12 @@ class TeklabAI {
             onQueue: (position, message) => {
                 if (!queueStartTime) queueStartTime = Date.now();
                 const queueTime = ((Date.now() - startTime) / 1000).toFixed(1);
+                
+                // Cancella "Sto pensando..." se in coda
+                if (botMessage.thinkingInterval) {
+                    clearInterval(botMessage.thinkingInterval);
+                    delete botMessage.thinkingInterval;
+                }
                 
                 // Mostra in header
                 this.updateQueueStatus(position, queueTime);
@@ -263,9 +296,19 @@ class TeklabAI {
                     botMessage.content = '';
                 }
                 
-                // Mostra tempo attesa se c'era coda
-                if (queueStartTime) {
-                    botMessage.content = `⏱️ Attesa in coda: ${queueTime}s\n🔄 Elaborazione in corso...\n\n`;
+                // 🧠 Aggiorna "Sto pensando..." con info fonti
+                if (botMessage.thinkingInterval) {
+                    clearInterval(botMessage.thinkingInterval);
+                    
+                    // Riavvia con info fonti
+                    let dots = '';
+                    const thinkingInterval = setInterval(() => {
+                        dots = dots.length >= 3 ? '' : dots + '.';
+                        botMessage.content = `🧠 Sto pensando${dots}\n💡 ${sources.length} fonti trovate`;
+                        this.updateMessageContent(botMessageElement, botMessage.content);
+                    }, 500);
+                    
+                    botMessage.thinkingInterval = thinkingInterval;
                 }
                 
                 botMessage.sources = sources;
@@ -274,18 +317,42 @@ class TeklabAI {
 
             // Callback per ogni token (word-by-word rendering)
             onToken: (token) => {
+                // Cancella "Sto pensando..." al primo token
+                if (botMessage.thinkingInterval) {
+                    clearInterval(botMessage.thinkingInterval);
+                    delete botMessage.thinkingInterval;
+                    botMessage.content = ''; // Pulisci "Sto pensando..."
+                    
+                    // Mostra tempo attesa se c'era coda
+                    if (queueStartTime) {
+                        const queueTime = ((processingStartTime - queueStartTime) / 1000).toFixed(1);
+                        botMessage.content = `⏱️ Attesa in coda: ${queueTime}s\n\n`;
+                    }
+                }
+                
                 botMessage.content += token;
                 this.updateMessageContent(botMessageElement, botMessage.content);
                 this.scrollToBottom();
             },
 
             // Callback quando completato
-            onDone: () => {
+            onDone: (doneData) => {
                 const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
                 const processingTime = processingStartTime ? ((Date.now() - processingStartTime) / 1000).toFixed(1) : totalTime;
                 
+                // Info generazione adattiva (se disponibile)
+                let adaptiveInfo = '';
+                if (doneData && doneData.num_predict_used) {
+                    const totalTokens = doneData.num_predict_used;
+                    const level = doneData.retries + 1; // retries=0 → L1, retries=1 → L2, etc
+                    adaptiveInfo = ` | Token: ${totalTokens} (L${level}/4)`;
+                    if (doneData.retries > 0) {
+                        adaptiveInfo += ` 🔄×${doneData.retries}`;
+                    }
+                }
+                
                 // Aggiungi timer finale al messaggio
-                botMessage.content += `\n\n---\n⏱️ Tempo totale: ${totalTime}s | Elaborazione: ${processingTime}s`;
+                botMessage.content += `\n\n---\n⏱️ Tempo totale: ${totalTime}s | Elaborazione: ${processingTime}s${adaptiveInfo}`;
                 this.updateMessageContent(botMessageElement, botMessage.content);
                 
                 // Nascondi queue status in header
@@ -297,11 +364,17 @@ class TeklabAI {
                 this.renderConversations();
                 this.scrollToBottom();
                 
-                console.log(`✅ Response completed in ${totalTime}s (queue: ${queueStartTime ? ((processingStartTime - queueStartTime) / 1000).toFixed(1) : 0}s, processing: ${processingTime}s)`);
+                console.log(`✅ Response completed in ${totalTime}s (queue: ${queueStartTime ? ((processingStartTime - queueStartTime) / 1000).toFixed(1) : 0}s, processing: ${processingTime}s)${adaptiveInfo}`);
             },
 
             // Callback errore
             onError: (error) => {
+                // Cancella "Sto pensando..." se attivo
+                if (botMessage.thinkingInterval) {
+                    clearInterval(botMessage.thinkingInterval);
+                    delete botMessage.thinkingInterval;
+                }
+                
                 this.isTyping = false;
                 this.hideTypingIndicator();
                 this.showToast(`Error: ${error}`, 'error', 5000);

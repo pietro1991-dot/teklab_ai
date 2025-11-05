@@ -184,7 +184,8 @@ const API = {
                                     break;
 
                                 case 'done':
-                                    if (onDone) onDone();
+                                    // Passa doneData con metriche adaptive generation
+                                    if (onDone) onDone(data);
                                     return { success: true, timestamp: data.timestamp };
 
                                 case 'error':
