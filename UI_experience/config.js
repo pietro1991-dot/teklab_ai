@@ -12,7 +12,7 @@ const CONFIG = {
     // Backend API endpoint
     // Auto-detect: Cloudflare se su GitHub Pages, localhost se locale
     API_URL: window.location.hostname.includes('github.io')
-        ? 'https://yorkshire-maintaining-opening-projector.trycloudflare.com'  // ✅ Tunnel attivo
+        ? 'https://mrna-checklist-move-talent.trycloudflare.com'  // ✅ Tunnel attivo
         : 'http://localhost:5000',
     
     // Bot name
