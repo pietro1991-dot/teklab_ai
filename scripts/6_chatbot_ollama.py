@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Chatbot RAG con Ollama (VELOCE - 100% Locale)
+Chatbot RAG con Ollama (VELOCE - 100% Locale) - TEKLAB B2B
 ==============================================
 
 Usa Ollama + llama.cpp per inferenza VELOCE (30-90 secondi vs 6-8 minuti)
@@ -46,8 +46,8 @@ except ImportError:
     print("⚠️  requests non disponibile - installa con: pip install requests")
 
 
-class SpiritualityAIChatbotOllama:
-    """Chatbot RAG Ollama completamente locale (VELOCE)"""
+class TeklabAIChatbotOllama:
+    """Chatbot RAG Ollama completamente locale (VELOCE) - Teklab B2B"""
     
     # Context window management
     MAX_HISTORY_TOKENS = 6000
@@ -59,7 +59,7 @@ class SpiritualityAIChatbotOllama:
     
     def __init__(self):
         print("\n" + "="*70)
-        print("🦙 SPIRITUALITY AI - CHATBOT OLLAMA RAG (VELOCE)")
+        print("🔧 TEKLAB B2B AI - CHATBOT OLLAMA RAG (VELOCE)")
         print("="*70)
         
         # Verifica Ollama
@@ -136,11 +136,12 @@ class SpiritualityAIChatbotOllama:
             self.chunks_data = cache.get('chunks_data', {})
             self.summaries_data = cache.get('summaries_data', {})
             
-            # Carica modello embeddings
+            # Carica modello embeddings (FORZA CPU)
             from sentence_transformers import SentenceTransformer
             model_name = cache.get('model', 'all-MiniLM-L6-v2')
             print(f"   • Modello embeddings: {model_name}")
-            self.embedding_model = SentenceTransformer(model_name)
+            print(f"   • Device: CPU (GPU riservata per Llama)")
+            self.embedding_model = SentenceTransformer(model_name, device='cpu')
             
             total = len(self.chunk_embeddings) + len(self.qa_embeddings) + len(self.summary_embeddings)
             print(f"✅ Caricati {total} embeddings RAG")
@@ -168,6 +169,17 @@ class SpiritualityAIChatbotOllama:
                 sim = cosine_similarity([query_emb], [chunk_emb])[0][0]
                 similarities.append((chunk_id, sim, 'chunk'))
             
+            # DEBUG: Stampa top 5 similarities PRIMA del filtro
+            print(f"\n🔍 DEBUG retrieve_context:")
+            print(f"   Query: '{query[:50]}'")
+            print(f"   min_similarity: {min_similarity}")
+            print(f"   top_k: {top_k}")
+            similarities_sorted = sorted(similarities, key=lambda x: x[1], reverse=True)
+            print(f"   Top 5 similarities BEFORE filter:")
+            for i, (cid, sim, _) in enumerate(similarities_sorted[:5], 1):
+                ok = "✅" if sim >= min_similarity else "❌"
+                print(f"      {ok} [{i}] sim={sim:.4f} - {cid[:50]}")
+            
             if include_summaries and self.summary_embeddings:
                 for summary_id, summary_emb in self.summary_embeddings.items():
                     sim = cosine_similarity([query_emb], [summary_emb])[0][0]
@@ -175,8 +187,9 @@ class SpiritualityAIChatbotOllama:
             
             similarities.sort(key=lambda x: x[1], reverse=True)
             
-            # Filtra per similarity threshold
-            top_items = [(item_id, score, item_type) for item_id, score, item_type in similarities[:top_k] if score >= min_similarity]
+            # Filtra per similarity threshold PRIMA, poi prendi top_k
+            filtered = [(item_id, score, item_type) for item_id, score, item_type in similarities if score >= min_similarity]
+            top_items = filtered[:top_k]
             
             if not top_items:
                 print(f"⚠️  Nessun chunk rilevante (tutti <{min_similarity:.2f} similarity)")
@@ -188,26 +201,49 @@ class SpiritualityAIChatbotOllama:
             for item_id, score, item_type in top_items:
                 if item_type == 'chunk':
                     chunk_data = self.chunks_data.get(item_id, {})
-                    chunk_text = chunk_data.get('original_text', chunk_data.get('testo', ''))
+                    
+                    # ARCHITETTURA TEKLAB OTTIMIZZATA: usa messages[2] (assistant formatted)
+                    # messages[0] = system prompt template
+                    # messages[1] = user prompt (SEMANTIC CONCEPT)
+                    # messages[2] = assistant (FORMATTED RESPONSE) ← QUESTO è il contenuto da usare
+                    chunk_text = ''
+                    if 'messages' in chunk_data:
+                        # Priorità: assistant message (formatted response)
+                        if len(chunk_data['messages']) > 2:
+                            chunk_text = chunk_data['messages'][2].get('content', '')
+                        # Fallback: user content (raw prompt) se manca assistant
+                        elif len(chunk_data['messages']) > 1:
+                            chunk_text = chunk_data['messages'][1].get('content', '')
+                    
+                    # Fallback per vecchi chunk (libri meditazione)
+                    if not chunk_text:
+                        chunk_text = chunk_data.get('original_text', chunk_data.get('testo', ''))
                     
                     if chunk_text:
                         metadata = chunk_data.get('metadata', {})
-                        author = metadata.get('author', metadata.get('autore', 'Unknown'))
-                        # Usa file_title (es. "Day 11") invece di work generico
-                        file_title = metadata.get('file_title', '')
-                        work = file_title if file_title else metadata.get('work', metadata.get('opera', metadata.get('libro', 'Unknown')))
-                        chunk_title = metadata.get('chunk_title', metadata.get('titolo_capitolo', ''))
                         
-                        source_info = item_id.split('|')[0] if '|' in item_id else "Unknown"
-                        context_parts.append(f"[Source: {source_info}]\n{chunk_text}\n")
+                        # ARCHITETTURA TEKLAB: metadata.product_model + category separato
+                        product_model = metadata.get('product_model', 'Unknown')
+                        category = chunk_data.get('category', 'unknown')
+                        chunk_type = metadata.get('chunk_type', 'unknown')
+                        
+                        # Fallback per vecchi chunk libri meditazione (se presenti)
+                        if product_model == 'Unknown':
+                            author = metadata.get('author', metadata.get('autore', 'Unknown'))
+                            file_title = metadata.get('file_title', '')
+                            work = file_title if file_title else metadata.get('work', metadata.get('opera', metadata.get('libro', 'Unknown')))
+                            product_model = f"{author} - {work}"
+                        
+                        source_info = chunk_data.get('source', item_id.split('/')[0] if '/' in item_id else 'Unknown')
+                        context_parts.append(f"[Product: {product_model}]\n{chunk_text}\n")
                         
                         retrieved_metadata.append({
                             "chunk_id": item_id,
                             "similarity_score": round(float(score), 4),
                             "source": source_info,
-                            "author": author,
-                            "work": work,
-                            "title": chunk_title,
+                            "product": product_model,
+                            "category": category,
+                            "chunk_type": chunk_type,
                             "type": "chunk"
                         })
                 
@@ -263,21 +299,58 @@ class SpiritualityAIChatbotOllama:
         
         start_total = time.time()
         
-        # Retrieve RAG context
+        # Retrieve RAG context - Ottimizzato per assistenza clienti professionale
         start_retrieval = time.time()
-        rag_context, retrieved_chunks = self.retrieve_context(user_message)
+        rag_context, retrieved_chunks = self.retrieve_context(user_message, top_k=5, min_similarity=0.28)
         retrieval_time = time.time() - start_retrieval
         
-        # Costruisci prompt con cronologia
+        # DEBUG: Stampa chunk recuperati
+        print(f"🔍 RAG Search: '{user_message[:50]}'")
+        print(f"   Chunks trovati: {len(retrieved_chunks)}")
+        for i, chunk_meta in enumerate(retrieved_chunks[:3]):
+            # Recupera chunk_id dal metadata
+            chunk_id = chunk_meta.get('chunk_id', 'Unknown')
+            # Recupera chunk_data completo per leggere metadata
+            chunk_data = self.chunks_data.get(chunk_id, {})
+            metadata = chunk_data.get('metadata', {})
+            
+            # Per chunk Teklab: metadata.product_model + category separato
+            product = metadata.get('product_model', metadata.get('product', 'Unknown'))
+            category = chunk_data.get('category', 'unknown')
+            sim = chunk_meta.get('similarity_score', 0)
+            print(f"   [{i+1}] {product:25s} | {category:12s} | sim={sim:.3f}")
+        
+        # Costruisci prompt con cronologia LIMITATA
         history_context = self._get_conversation_context()
         
         if rag_context:
-            context_message = f"""Informative context (DON'T cite authors in response):
+            # AUMENTATO LIMITE: I chunk Teklab sono tecnici e lunghi (3000-8000 chars)
+            # Per assistenza clienti professionale, serve contesto completo
+            max_context_length = 4000  # Supporta 1-2 chunk completi
+            if len(rag_context) > max_context_length:
+                rag_context = rag_context[:max_context_length] + "\n\n[... Additional technical details available on request ...]"
+            
+            # PROMPT OTTIMIZZATO per assistenza clienti B2B Teklab
+            full_prompt = f"""You are a TEKLAB TECHNICAL SALES ASSISTANT. Use the product documentation below to answer the customer's question.
 
+TEKLAB PRODUCT DOCUMENTATION:
 {rag_context}
 
----"""
-            full_prompt = f"{context_message}\n\n{history_context}\n\nUser: {user_message}\n\nAssistant:"
+---
+
+CUSTOMER QUESTION: {user_message}
+
+RESPONSE GUIDELINES:
+1. LANGUAGE: Respond in the SAME language as the customer's question (Italian/English/Spanish/German)
+2. ACCURACY: Use ONLY information from the documentation above - cite specific models, specs, pressure ratings
+3. PRACTICAL: Focus on the customer's application - recommend the RIGHT product with technical justification
+4. COMPLETE: Include key specs (pressure, temp range, refrigerants, outputs, certifications)
+5. PROFESSIONAL: Be consultative but concise (aim for 150-250 words)
+6. HONEST: If documentation doesn't cover the question fully, say "I recommend contacting Teklab support for detailed specs on..."
+
+{history_context}
+
+TEKLAB ASSISTANT RESPONSE:"""
         else:
             full_prompt = f"{history_context}\n\nUser: {user_message}\n\nAssistant:"
         
@@ -296,12 +369,13 @@ class SpiritualityAIChatbotOllama:
                     "temperature": 0.7,
                     "top_p": 0.9,
                     "top_k": 50,
-                    "num_predict": 512,  # max_new_tokens - aumentato per evitare troncamento
+                    "num_predict": 1024,  # ✅ Aumentato per risposte complete (no troncamento)
                     "repeat_penalty": 1.1
                 }
             }
             
-            response = requests.post(self.OLLAMA_URL, json=payload, timeout=300)
+            # Aumentato timeout a 10 minuti per query complesse
+            response = requests.post(self.OLLAMA_URL, json=payload, timeout=600)
             response.raise_for_status()
             
             result = response.json()
@@ -411,16 +485,15 @@ class SpiritualityAIChatbotOllama:
                     print(f"   • Chunk recuperati: {len(chunks)}")
                     if chunks:
                         for i, chunk in enumerate(chunks, 1):
-                            author = chunk.get('author', 'Unknown')
-                            work = chunk.get('work', 'Unknown')
-                            title = chunk.get('title', '')
+                            # ARCHITETTURA TEKLAB: usa product + category invece di author/work
+                            product = chunk.get('product', 'Unknown')
+                            category = chunk.get('category', 'unknown')
+                            chunk_id = chunk.get('chunk_id', 'unknown')
                             sim = chunk['similarity_score']
                             item_type = chunk.get('type', 'chunk')
                             
-                            print(f"      {i}. 📚 {author} - {work}")
-                            if title:
-                                type_indicator = " [SUMMARY]" if item_type == "summary" else ""
-                                print(f"         📄 {title}{type_indicator} (sim: {sim:.3f})")
+                            # Display compatto: [num] Product | Category | sim
+                            print(f"      {i}. {product} | {category} | sim={sim:.3f}")
                     print(f"   • Timing: retrieval {timing.get('retrieval_time', 0):.2f}s + generation {timing.get('generation_time', 0):.2f}s = {timing.get('total_time', 0):.2f}s")
                     print(f"   • Engine: Ollama (llama.cpp)")
                 
@@ -437,7 +510,7 @@ class SpiritualityAIChatbotOllama:
 def main():
     """Entry point"""
     print("\n" + "="*70)
-    print("🦙 OLLAMA RAG CHATBOT - Spirituality AI (VELOCE)")
+    print("🔧 OLLAMA RAG CHATBOT - Teklab B2B AI (VELOCE)")
     print("="*70)
     print()
     print("Modalità: Ollama + llama.cpp (30-90 secondi per risposta)")
@@ -455,7 +528,7 @@ def main():
     print()
     print("="*70 + "\n")
     
-    chatbot = SpiritualityAIChatbotOllama()
+    chatbot = TeklabAIChatbotOllama()
     chatbot.run()
 
 

@@ -1,0 +1,191 @@
+{
+  "chunk_id": "app_002",
+  "chunk_type": "application_guide",
+  "application_name": "ATEX Explosive Atmosphere Applications",
+  "category": "Specialized Applications",
+  "language": "en",
+  "author": "Teklab Technical Team",
+  "creation_date": "2025-11-04",
+  "last_updated": "2025-11-04",
+  "version": "1.0",
+  
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a technical sales assistant for Teklab industrial sensors. Provide accurate, detailed technical information about Teklab products for refrigeration and HVAC applications. Focus on practical benefits, proper product selection, and real-world applications. Be precise with technical specifications and always consider customer's specific requirements (pressure rating, refrigerant type, integration needs)."
+    },
+    {
+      "role": "user",
+      "content": "We're designing a large ammonia refrigeration system for a food processing plant. The engineers say we need ATEX-rated equipment in the compressor room. What do we need to know about using Teklab sensors in this environment, and how do we ensure we're compliant with all the regulations?"
+    },
+    {
+      "role": "assistant",
+      "content": "ATEX compliance for ammonia refrigeration systems is critical - both legally required and safety-essential. Let me guide you through proper Teklab sensor selection and installation for your food processing plant.\n\n**Understanding ATEX Requirements for Ammonia Systems:**\n\n**Why Ammonia Requires ATEX:**\n- **Ammonia (NH3) is flammable** (explosive range: 15-28% in air)\n- Potential leak sources create explosive atmosphere risk\n- **ATEX compliance legally mandatory** in EU (and many other countries)\n- Food processing plants have additional safety requirements\n\n**ATEX Zone Classification - Ammonia Compressor Rooms:**\n\n**Zone 0** (rare in ammonia systems):\n- Explosive atmosphere present continuously (> 1,000 hrs/year)\n- Typically not applicable to compressor rooms\n- Would require Ex ia (intrinsically safe) equipment\n\n**Zone 1** (high-risk areas):\n- Explosive atmosphere likely during normal operation (10-1,000 hrs/year)\n- Areas near ammonia leak sources (compressor seals, valve packing)\n- Poorly ventilated spaces\n- **Requires Ex d IIC sensors minimum**\n\n**Zone 2** (most common for compressor rooms):\n- Explosive atmosphere unlikely, brief if occurs (< 10 hrs/year)\n- Well-ventilated compressor rooms\n- Areas adjacent to Zone 1\n- **Requires Ex d or Ex nA sensors**\n\n**Your Teklab Solution: ATEX Metallic IR Sensors**\n\n**Product Specification:**\n- **ATEX certification: II 2G Ex d IIC T6 Gb**\n- Suitable for Zone 1 and Zone 2 (gas atmospheres)\n- Flameproof enclosure (Ex d)\n- Gas group IIC (includes ammonia, hydrogen, acetylene)\n- Temperature class T6 (surface temp ≤ 85°C)\n\n**Key Features:**\n\n**Safety:**\n- Flameproof metallic housing (contains internal explosion)\n- Certified cable glands (prevent flame transmission)\n- Maximum surface temperature ≤ 85°C (safe for ammonia vapor)\n- No ignition source (optical IR detection inherently safe)\n\n**Performance:**\n- Same ±2mm IR accuracy as standard sensors\n- Automatic oil level control (TK3+/TK4 models)\n- 10+ year lifespan even in harsh ammonia environments\n- IP66/IP67 protection (superior sealing)\n\n**Material Compatibility:**\n- Stainless steel 316 wetted parts (ammonia-resistant)\n- Ammonia-compatible elastomer seals (EPDM, Viton)\n- Corrosion-resistant housing (aluminum or stainless steel)\n\n**Food Processing Plant - Complete System Design:**\n\n**Typical Layout:**\n\n**Compressor Room (Zone 2):**\n- 8-12 ammonia compressors\n- Well-ventilated (forced air circulation)\n- Ammonia detectors (safety requirement)\n- **All sensors must be ATEX Ex d IIC certified**\n\n**Sensor Requirements:**\n\n**Oil Level Monitoring:**\n- **8-12× ATEX TK3+ or TK4 sensors** (one per compressor)\n- Pressure rating: 46 bar typical (ammonia low-temp systems 10-25 bar)\n- Output: Relay + 4-20mA to central PLC/SCADA\n- Timer setting: 7-10 seconds (ammonia POE oil can foam)\n\n**Control Room (Non-Classified Zone):**\n- Separate building or well-isolated room\n- PLC/SCADA for centralized monitoring\n- **Standard equipment acceptable** (not in classified zone)\n\n**Installation Compliance Requirements:**\n\n**1. Equipment Selection:**\n✅ **Verify ATEX certification**\n- Check ATEX marking on sensor: \"II 2G Ex d IIC T6 Gb\"\n- Verify EC Declaration of Conformity (keep on site)\n- Ensure certification matches zone classification\n\n✅ **Match zone requirements**\n- Zone 1 → Ex d IIC minimum\n- Zone 2 → Ex d or Ex nA acceptable\n- **Use Ex d for both zones (most common)**\n\n**2. Cable Glands (Critical for ATEX Compliance):**\n✅ **Use only ATEX-certified cable glands**\n- Ex d or Ex e certification required\n- Proper thread engagement (consult gland specs)\n- Maintains flameproof integrity\n- **Non-certified glands VOID ATEX certification**\n\n**3. Grounding/Earthing:**\n✅ **Equipotential bonding required**\n- Connect all metallic equipment to common earth\n- Prevents static electricity accumulation\n- Required by ATEX installation standards (IEC 60079)\n- **Grounding continuity must be verified**\n\n**4. Installation by Qualified Personnel:**\n✅ **ATEX training mandatory**\n- Installers must be ATEX-certified\n- Follow manufacturer installation manual exactly\n- **Any deviation voids ATEX certification**\n\n**5. Documentation:**\n✅ **Keep on site:**\n- EC Declaration of Conformity (for each sensor)\n- ATEX certificates\n- Installation records (as-built drawings)\n- Maintenance logs\n- **Required for regulatory inspections**\n\n**Food Processing Specific Considerations:**\n\n**Additional Safety Requirements:**\n\n**Ammonia Detection System:**\n- NH3 detectors throughout compressor room\n- Alarm thresholds: 25 ppm (low), 150 ppm (high)\n- Automatic ventilation increase on detection\n- **Sensor placement per IIAR standards**\n\n**Emergency Shutdown:**\n- Integrate oil level sensors with emergency shutdown\n- Low oil → compressor shutdown sequence\n- Prevent compressor failure during evacuation\n- **Critical for food safety (prevent prolonged outage)**\n\n**Hygiene Considerations:**\n- Stainless steel sensors (easy cleaning)\n- IP66/IP67 protection (washdown compatible)\n- Smooth surfaces (no contamination harboring)\n\n**System Architecture Example:**\n\n**12-Compressor Ammonia Rack (Food Processing Plant):**\n\n```\nCompressor Room (Zone 2):\n  12× ATEX TK4 MODBUS 46 bar sensors\n  ↓ (one per compressor)\n  RS485 MODBUS network (ATEX-certified cable)\n  ↓\n  ATEX-rated RS485-to-Ethernet gateway\n  ↓\n  Ethernet (fiber optic, Zone 2 → Control Room)\n  ↓\nControl Room (Non-Classified):\n  PLC/SCADA system\n  - Monitor all 12 oil levels\n  - Temperature monitoring\n  - Alarm management\n  - Integration with ammonia detection\n  - Building automation system (BAS)\n```\n\n**Why TK4 MODBUS for This Application:**\n\n✅ **Centralized monitoring**\n- 12 compressors monitored via single network\n- Reduced wiring in classified zone\n- Real-time oil level + temperature data\n\n✅ **Predictive maintenance**\n- Track oil consumption patterns\n- Detect oil migration issues early\n- Schedule maintenance proactively\n- **Minimize unplanned downtime (critical for food processing)**\n\n✅ **Integration with safety systems**\n- Oil level → emergency shutdown logic\n- Temperature → compressor protection\n- NH3 detection → coordinated response\n\n**Installation Process:**\n\n**Pre-Installation:**\n1. **Obtain hazardous area classification drawings**\n   - Identify Zone 1 and Zone 2 boundaries\n   - Verify sensor locations within zones\n   - Consult with safety engineer\n\n2. **Verify sensor specifications**\n   - ATEX Ex d IIC T6 certification\n   - Pressure rating (46 bar for typical ammonia)\n   - Ammonia material compatibility confirmed\n\n3. **Prepare installation team**\n   - ATEX-certified installers\n   - ATEX-certified cable glands available\n   - Proper tools (torque wrenches, grounding equipment)\n\n**Installation:**\n1. **Mount sensors on compressors**\n   - Use ammonia-compatible adapters (Rotalock or threaded)\n   - Verify pressure rating adequate (add 30% margin)\n   - Mount at 1/4 to 1/3 up oil sight glass\n\n2. **Install certified cable glands**\n   - Use Ex d certified cable glands\n   - Proper thread engagement (5+ threads minimum)\n   - Check flameproof gap dimensions\n   - **Do not use sealants** (can affect certification)\n\n3. **Establish grounding**\n   - Connect each sensor to equipotential bonding bar\n   - Verify earth continuity (< 0.1Ω)\n   - Label grounding points\n\n4. **Wire connections**\n   - Power: 24V DC (from ATEX-certified supply or intrinsically safe barrier)\n   - MODBUS: RS485 twisted-pair shielded\n   - Follow color codes, maintain polarity\n   - Verify termination resistors (120Ω at ends)\n\n5. **Configuration**\n   - Set MODBUS addresses (1-12 for 12 compressors)\n   - Adjust timer delay: 7-10 seconds (ammonia POE oil)\n   - Test communication\n   - Verify relay outputs\n\n**Post-Installation:**\n1. **Inspection and testing**\n   - Visual inspection (cable glands, grounding)\n   - Continuity testing\n   - Functional testing (simulate low oil)\n   - MODBUS communication verification\n\n2. **Documentation**\n   - As-built drawings\n   - ATEX certificate copies\n   - Installation records\n   - Training logs\n\n3. **Commissioning**\n   - Integrate with PLC/SCADA\n   - Test alarm sequences\n   - Emergency shutdown testing\n   - Operator training\n\n**Regulatory Compliance Checklist:**\n\n✅ **Equipment:**\n- [ ] ATEX Ex d IIC T6 sensors verified\n- [ ] EC Declaration of Conformity on file\n- [ ] ATEX-certified cable glands used\n- [ ] Pressure rating adequate (+ 30% margin)\n- [ ] Ammonia material compatibility confirmed\n\n✅ **Installation:**\n- [ ] ATEX-trained installers\n- [ ] Proper cable gland installation\n- [ ] Equipotential bonding established\n- [ ] Grounding continuity verified\n- [ ] No unauthorized modifications\n\n✅ **Documentation:**\n- [ ] ATEX certificates on site\n- [ ] Installation manual followed\n- [ ] As-built drawings completed\n- [ ] Maintenance procedures established\n- [ ] Inspection schedule defined\n\n✅ **Safety Integration:**\n- [ ] NH3 detectors installed (per IIAR)\n- [ ] Emergency shutdown tested\n- [ ] Alarm sequences verified\n- [ ] Operator training completed\n\n**Maintenance in ATEX Zones:**\n\n**Ongoing Compliance:**\n\n✅ **Regular inspections**\n- Visual inspection: quarterly\n- Cable gland integrity: annually\n- Grounding continuity: annually\n- Functional testing: semi-annually\n\n✅ **Repairs and modifications**\n- **NEVER modify ATEX-certified equipment** (voids certification)\n- Replacement parts must be identical (certified)\n- Repairs by qualified personnel only\n- Document all maintenance\n\n✅ **Record keeping**\n- Maintenance logs (required by ATEX)\n- Inspection reports\n- Repair records\n- Training updates\n\n**Cost Considerations:**\n\n**ATEX Sensor Premium:**\n- Standard TK4: $500-600\n- ATEX TK4: $800-1,200 (60-100% more)\n\n**12-Compressor System:**\n- Standard (non-ATEX): $6,000-7,200\n- ATEX-certified: $9,600-14,400\n- **Premium: $3,600-7,200 for compliance**\n\n**Is It Worth It?**\n- **Not optional - legally required**\n- Safety critical (explosion prevention)\n- Insurance requirement (non-compliance voids coverage)\n- Regulatory compliance (avoid fines, shutdown)\n- **No choice for ammonia systems in ATEX zones**\n\n**Common Mistakes to Avoid:**\n\n❌ **Using standard sensors in ATEX zones**\n- Illegal, dangerous, insurance void\n- **Use ATEX-certified sensors only**\n\n❌ **Non-certified cable glands**\n- Breaks flameproof integrity\n- **Use Ex d or Ex e certified glands**\n\n❌ **Inadequate grounding**\n- Static electricity risk\n- **Establish equipotential bonding**\n\n❌ **Unauthorized modifications**\n- Voids ATEX certification\n- **No modifications - replace with identical parts**\n\n❌ **Insufficient documentation**\n- Regulatory non-compliance\n- **Keep all certificates and records on site**\n\n**Bottom Line - ATEX Compliance for Food Processing:**\n\nFor your ammonia refrigeration system in a food processing plant:\n\n1. **ATEX Ex d IIC T6 sensors MANDATORY** in compressor room (Zone 2)\n2. **Material compatibility critical** (stainless steel, ammonia-resistant seals)\n3. **Proper installation essential** (certified cable glands, grounding, trained installers)\n4. **Documentation required** (EC Declarations, certificates, maintenance logs)\n5. **Integration with safety systems** (NH3 detection, emergency shutdown)\n\n**Teklab ATEX Metallic IR Sensors** provide:\n- Legal compliance (ATEX 2014/34/EU)\n- Safety (flameproof, no ignition source)\n- Reliability (10+ year lifespan, ±2mm accuracy)\n- Food-grade hygiene (stainless steel, IP66/IP67)\n- Professional monitoring (MODBUS integration)\n\nThe 60-100% cost premium over standard sensors is non-negotiable for regulatory compliance, safety, and insurance requirements. Work with ATEX-certified installers and Teklab technical support to ensure proper specification and installation."
+    }
+  ],
+  
+  "metadata": {
+    "primary_topic": "ATEX compliance for ammonia refrigeration in food processing plants",
+    "secondary_topics": [
+      "ATEX zone classification and sensor selection",
+      "Installation requirements for explosive atmospheres",
+      "Regulatory compliance checklist",
+      "Food processing plant safety integration"
+    ],
+    
+    "atex_requirements": {
+      "mandatory_for": [
+        "Ammonia (NH3) refrigeration systems",
+        "Flammable refrigerants (propane, R1234yf)",
+        "ATEX Zone 1 and Zone 2 classified areas",
+        "EU installations (ATEX Directive 2014/34/EU)",
+        "Many international jurisdictions"
+      ],
+      "sensor_certification": "II 2G Ex d IIC T6 Gb",
+      "zone_1_requirement": "Ex d IIC minimum",
+      "zone_2_requirement": "Ex d or Ex nA acceptable (Ex d most common)",
+      "cable_glands": "Ex d or Ex e certified",
+      "grounding": "Equipotential bonding mandatory",
+      "installation": "ATEX-trained personnel required",
+      "documentation": "EC Declaration of Conformity on site"
+    },
+    
+    "ammonia_system_specifics": {
+      "refrigerant": "Ammonia (NH3) - flammable, explosive 15-28% in air",
+      "typical_zone_classification": "Zone 2 (compressor room with adequate ventilation)",
+      "typical_pressure": "10-40 bar (low to medium-temp systems)",
+      "oil_type": "POE (polyolester) or mineral oil",
+      "sensor_recommendation": "ATEX TK4 MODBUS 46 bar (for most applications)",
+      "timer_setting": "7-10 seconds (ammonia POE oil foaming)",
+      "material_compatibility": "Stainless steel 316, ammonia-resistant seals"
+    },
+    
+    "food_processing_requirements": {
+      "additional_safety": [
+        "NH3 detectors (25 ppm low alarm, 150 ppm high alarm)",
+        "Emergency shutdown integration",
+        "Automatic ventilation increase on detection",
+        "Evacuation procedures (employee safety)"
+      ],
+      "hygiene_considerations": [
+        "Stainless steel sensors (easy cleaning)",
+        "IP66/IP67 protection (washdown compatible)",
+        "Smooth surfaces (no contamination harboring)",
+        "Food-grade materials (where applicable)"
+      ],
+      "reliability_critical": "Minimize downtime to prevent product loss and maintain food safety"
+    },
+    
+    "system_architecture_12_compressor_example": {
+      "compressor_room_zone_2": {
+        "sensors": "12× ATEX TK4 MODBUS 46 bar",
+        "communication": "RS485 MODBUS network (ATEX-certified cable)",
+        "gateway": "ATEX RS485-to-Ethernet converter",
+        "link_to_control_room": "Fiber optic (Zone 2 to non-classified)"
+      },
+      "control_room_non_classified": {
+        "plc_scada": "Centralized monitoring and control",
+        "integration": "NH3 detection, emergency shutdown, BAS",
+        "operator_interface": "HMI for all 12 compressors"
+      },
+      "benefits": [
+        "Centralized monitoring (all 12 oil levels + temperatures)",
+        "Reduced wiring in classified zone",
+        "Predictive maintenance (trend analysis)",
+        "Safety integration (oil level + NH3 detection)"
+      ]
+    },
+    
+    "installation_checklist": [
+      "Obtain hazardous area classification drawings",
+      "Verify ATEX Ex d IIC T6 certification on sensors",
+      "Confirm ammonia material compatibility",
+      "Use ATEX-certified cable glands (Ex d or Ex e)",
+      "Establish equipotential bonding (all sensors grounded)",
+      "Install by ATEX-trained certified personnel",
+      "Verify 5+ thread engagement on cable glands",
+      "Test grounding continuity (< 0.1Ω)",
+      "Set timer delay 7-10 seconds (ammonia oil)",
+      "Configure MODBUS addresses (unique per sensor)",
+      "Test communication and alarm sequences",
+      "Document installation (as-built drawings)",
+      "Keep EC Declarations on site",
+      "Train operators on system operation"
+    ],
+    
+    "maintenance_requirements": {
+      "inspections": {
+        "visual_inspection": "Quarterly",
+        "cable_gland_integrity": "Annually",
+        "grounding_continuity": "Annually",
+        "functional_testing": "Semi-annually"
+      },
+      "repairs": {
+        "no_modifications": "NEVER modify ATEX equipment (voids certification)",
+        "identical_parts_only": "Replacements must be certified identical",
+        "qualified_personnel": "Repairs by ATEX-trained technicians only",
+        "documentation": "Log all maintenance activities"
+      },
+      "record_keeping": [
+        "Maintenance logs (required by ATEX)",
+        "Inspection reports",
+        "Repair records",
+        "Training updates"
+      ]
+    },
+    
+    "cost_analysis_12_compressor_system": {
+      "standard_sensors_illegal": "$6,000-7,200 (12× $500-600) - NOT PERMITTED",
+      "atex_sensors_required": "$9,600-14,400 (12× $800-1,200) - MANDATORY",
+      "premium_for_compliance": "$3,600-7,200",
+      "justification": [
+        "Legally required (ATEX Directive)",
+        "Safety critical (explosion prevention)",
+        "Insurance requirement (non-compliance voids coverage)",
+        "Regulatory compliance (avoid fines, shutdown)",
+        "No alternative for ammonia in ATEX zones"
+      ]
+    },
+    
+    "common_mistakes": [
+      "Using standard (non-ATEX) sensors in classified zones → illegal, dangerous",
+      "Non-certified cable glands → breaks flameproof integrity",
+      "Inadequate grounding → static electricity ignition risk",
+      "Unauthorized modifications → voids ATEX certification",
+      "Insufficient documentation → regulatory non-compliance",
+      "Installation by non-trained personnel → improper installation",
+      "Ignoring zone boundaries → sensors in wrong location"
+    ],
+    
+    "keywords": [
+      "ATEX ammonia",
+      "explosive atmosphere",
+      "food processing refrigeration",
+      "Zone 2 sensors",
+      "Ex d IIC T6",
+      "ammonia compressor room",
+      "ATEX compliance",
+      "flameproof sensors",
+      "NH3 refrigeration",
+      "IIAR standards"
+    ],
+    
+    "related_products": [
+      "ATEX Metallic IR Sensor (TK3+, TK4 variants)",
+      "ATEX MODBUS sensors (centralized monitoring)",
+      "NH3 detectors (safety integration)",
+      "ATEX-certified cable glands"
+    ],
+    
+    "target_audience": [
+      "Food processing plant engineers",
+      "Ammonia refrigeration designers",
+      "ATEX compliance officers",
+      "Industrial refrigeration contractors",
+      "Safety engineers",
+      "Facility managers (food industry)"
+    ],
+    
+    "complexity": "advanced"
+  }
+}

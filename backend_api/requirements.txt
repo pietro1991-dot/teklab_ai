@@ -5,6 +5,10 @@
 flask==3.0.0
 flask-cors==4.0.0
 
+# Queue & concurrency management
+flask-limiter==3.5.0
+redis==5.0.1
+
 # Production server (opzionale per locale, necessario per deploy)
 gunicorn==21.2.0
 

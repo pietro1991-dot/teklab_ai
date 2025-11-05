@@ -1,5 +1,5 @@
 /**
- * Configurazione API Spirituality AI
+ * Configurazione API Teklab B2B AI
  * 
  * LOCALE (sviluppo):
  *   API_URL = 'http://localhost:5000'
@@ -11,6 +11,12 @@
 const CONFIG = {
     // Backend API endpoint
     API_URL: 'http://localhost:5000',
+    
+    // Bot name
+    BOT_NAME: 'Teklab Assistant',
+    
+    // Bot description
+    BOT_DESCRIPTION: 'Technical Sales Assistant for Industrial Sensors',
     
     // Timeout richieste (ms)
     REQUEST_TIMEOUT: 120000, // 2 minuti

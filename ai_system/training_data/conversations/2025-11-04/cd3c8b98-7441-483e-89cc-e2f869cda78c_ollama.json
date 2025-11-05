@@ -1,0 +1,21 @@
+{
+  "session_id": "cd3c8b98-7441-483e-89cc-e2f869cda78c",
+  "timestamp": "2025-11-04T18:43:22.071148",
+  "total_turns": 1,
+  "engine": "ollama",
+  "turns": [
+    {
+      "timestamp": "2025-11-04T18:42:41.635055",
+      "user": "cosa sai del tk3?",
+      "assistant": "Per il tuo sistema con TK3, ti consiglio di utilizzare la versione \"TK3+\". Questa versione è caratterizzata da un sensore a infrarossi electro-optico (IR) che offre una velocità risposta ridotta (tutto tra i 1-10 ms). \n\nLa capacità di rilevamento del TK3+ è stata progettata per garantire una grande precisione, con una deviazione dal livello massimo di ±2mm. Questo rende il TK3+ ideale per applicazioni che richiedono un alto grado di affidabilità e stabilità.\n\nLa temperatura operativa del TK3+ è compresa tra -40°C e +125°C, garantendo una compatibilità con un'ampia gamma di ambienti industriali. Inoltre, il TK3+ è anche adatto per l'utilizzo in ambienti esposti a condizioni atmosferiche estreme (ATEX).",
+      "rag_context": "",
+      "retrieved_chunks": [],
+      "timing_metrics": {
+        "retrieval_time": 0.123,
+        "generation_time": 11.4,
+        "total_time": 11.524
+      },
+      "engine": "ollama"
+    }
+  ]
+}

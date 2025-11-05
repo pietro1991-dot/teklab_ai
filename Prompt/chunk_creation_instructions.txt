@@ -1,77 +1,100 @@
 ================================================================================
-📦 INSTRUCTIONS FOR COPILOT - CREATING RAG CHUNKS IN COMPLETE FORMAT
+📦 INSTRUCTIONS FOR COPILOT - CREATING RAG CHUNKS FOR TEKLAB B2B CHATBOT
 ================================================================================
 
 OBJECTIVE:
 Create chunks in conversation format (messages: system/user/assistant) with 
-extended metadata for training Spirituality AI RAG chatbot.
+extended metadata for training Teklab Technical Support AI chatbot.
 
 IMPORTANT:
 - Each chunk is a COMPLETE conversation ready for training
 - Each chunk is SELF-CONTAINED: messages + ALL metadata embedded in 1 JSON file
 - LANGUAGE: Write EVERYTHING in ENGLISH (user content, assistant response, metadata)
-- NO author citations in the response (use knowledge as if it were yours)
+- NO vague language in responses (precise technical specifications required)
 - IDENTICAL system prompt in all chunks (copied from Prompt/prompts_config.py)
-- Extended metadata for robustness and training quality
-- Separate files (metadata/keywords/quotes) AGGREGATE info from chunks, DON'T duplicate
+- Extended metadata for technical accuracy and product knowledge
+- Separate files (metadata/keywords/qa) AGGREGATE info from chunks, DON'T duplicate
 - COMPLETE SESSION: When you receive files in chat, create EVERYTHING (chunks + aggregated files) without interruptions
 
 ================================================================================
 📁 FOLDER STRUCTURE - CRITICAL RULES
 ================================================================================
 
-⚠️ PYRAMID COURSE SPECIFIC STRUCTURE:
+⚠️ TEKLAB PRODUCT CATALOG STRUCTURE:
 
 ROOT PATH: 
-Fonti/Autori/Mathias de Stefano/Processati/Pyramid Course/
+Fonti/Autori/Teklab/Processati/
 
 CORRECT STRUCTURE:
 ```
-Pyramid Course/
+Processati/
 │
 ├── chunks/                                    ← Root for all chunks
-│   ├── day01/                                ← Separate folder per day
-│   │   ├── day01_chunk_001_tema.json
-│   │   ├── day01_chunk_002_tema.json
-│   │   └── day01_chunk_003_tema.json
+│   ├── products/                             ← Product-specific chunks
+│   │   ├── tk1_plus_oil_level_switch.json
+│   │   ├── tk3_plus_46bar_version.json
+│   │   ├── tk3_plus_80bar_version.json
+│   │   ├── tk3_plus_130bar_version.json
+│   │   ├── tk4_46bar_version.json
+│   │   ├── tk4_modbus_46bar.json
+│   │   ├── lc_ps_level_switch.json
+│   │   ├── lc_ph_level_switch_120bar.json
+│   │   ├── lc_xp_level_switch_120bar.json
+│   │   ├── lc_xt_level_switch.json
+│   │   ├── atex_metallic_ir_sensor.json
+│   │   └── k25_4_20ma_level_switch.json
 │   │
-│   ├── day02/                                ← NEW folder for day 2
-│   │   ├── day02_chunk_001_tema.json
-│   │   └── day02_chunk_002_tema.json
+│   ├── technology/                           ← Technical principles chunks
+│   │   ├── ir_technology_how_it_works.json
+│   │   ├── electro_optic_principles.json
+│   │   ├── ir_vs_mechanical_floats.json
+│   │   ├── ir_vs_capacitive_sensors.json
+│   │   └── installation_best_practices.json
 │   │
-│   └── day03/                                ← NEW folder for day 3
-│       └── day03_chunk_001_tema.json
+│   ├── applications/                         ← Use case chunks
+│   │   ├── refrigeration_systems.json
+│   │   ├── compressor_oil_management.json
+│   │   ├── atex_explosive_environments.json
+│   │   ├── co2_refrigeration_systems.json
+│   │   └── high_pressure_applications.json
+│   │
+│   └── support/                              ← Troubleshooting/FAQ chunks
+│       ├── product_selection_guide.json
+│       ├── pressure_rating_selection.json
+│       ├── refrigerant_compatibility.json
+│       ├── common_troubleshooting.json
+│       ├── modbus_vs_standard_output.json
+│       └── adapter_flange_selection.json
 │
 ├── metadata/                                  ← SIBLING folder to chunks/ (NOT inside!)
-│   ├── day01_metadata.json
-│   ├── day02_metadata.json
-│   └── day03_metadata.json
+│   ├── products_metadata.json
+│   ├── technology_metadata.json
+│   ├── applications_metadata.json
+│   └── support_metadata.json
 │
 ├── keywords/                                  ← SIBLING folder to chunks/ (NOT inside!)
-│   ├── day01_keywords.json
-│   └── day02_keywords.json
-│
-├── quotes/                                    ← SIBLING folder to chunks/ (NOT inside!)
-│   ├── day01_quotes.json
-│   └── day02_quotes.json
+│   └── teklab_keywords.json
 │
 └── qa_pairs/                                  ← SIBLING folder to chunks/ (NOT inside!)
-    ├── day01_qa.json
-    └── day02_qa.json
+    └── teklab_qa.json
 ```
 
 🚨 CRITICAL PATH RULES:
 
-1. ✅ Each day gets OWN folder: chunks/dayXX/
-   - Day 2 chunks go in: chunks/day02/ NOT chunks/day01/ ❌
+1. ✅ Chunks organized by CATEGORY (products/technology/applications/support)
+   - Product chunks: specific product models with full specs
+   - Technology chunks: how IR sensors work, competitive advantages
+   - Application chunks: industry use cases and solutions
+   - Support chunks: selection guides, troubleshooting, FAQ
    
 2. ✅ Aggregated folders are SIBLINGS to chunks/, NOT subfolders
-   - Correct: metadata/day03_metadata.json ✅
-   - Wrong: chunks/day03/metadata/day03_metadata.json ❌
+   - Correct: metadata/products_metadata.json ✅
+   - Wrong: chunks/products/metadata/products_metadata.json ❌
    
-3. ✅ Aggregated files are FLAT (no day subfolders)
-   - Correct: keywords/day03_keywords.json ✅
-   - Wrong: keywords/day03/day03_keywords.json ❌
+3. ✅ Aggregated files CONSOLIDATE cross-cutting information
+   - keywords/teklab_keywords.json: ALL technical terms from all chunks
+   - qa_pairs/teklab_qa.json: Additional Q&A not in chunks
+   - metadata files: Overview and cross-references
 
 ================================================================================
 📁 FILE STRUCTURE AND ORGANIZATION
@@ -79,52 +102,75 @@ Pyramid Course/
 
 🎯 SELF-CONTAINED CHUNKS (PRIMARY - ALWAYS CREATE):
 
-File name: dayXX_chunk_NNN_descriptive_title.json
-           or fileXX_chunk_NNN_descriptive_title.json
+File naming conventions:
+- Products: {model_name}_{pressure_rating}.json
+  Example: tk3_plus_46bar_version.json, lc_ps_level_switch.json
+  
+- Technology: {technology_aspect}.json
+  Example: ir_technology_how_it_works.json, installation_best_practices.json
+  
+- Applications: {industry_usecase}.json
+  Example: refrigeration_systems.json, atex_explosive_environments.json
+  
+- Support: {support_topic}.json
+  Example: product_selection_guide.json, common_troubleshooting.json
 
 Location examples:
-- Pyramid Course: chunks/day03/day03_chunk_001_tema.json
-- Other works: chunks/file09/file09_chunk_004_ankles_feet_destiny.json
+- chunks/products/tk3_plus_46bar_version.json
+- chunks/technology/ir_technology_how_it_works.json
+- chunks/applications/compressor_oil_management.json
+- chunks/support/pressure_rating_selection.json
 
 Each chunk contains ALREADY inside:
 ✅ messages (system/user/assistant conversation)
-✅ complete metadata (base + extended)
+✅ complete metadata (technical specs + extended info)
+✅ technical_specs (pressure, temperature, outputs, refrigerants)
+✅ key_features and competitive_advantages
+✅ applications and target_audience
 ✅ keywords_primary/synonyms/relations
-✅ iconic_quotes
-✅ key_formulas
-✅ negative_examples
+✅ related_products and alternative_solutions
+✅ installation_notes and configuration_tips
+✅ common_issues and troubleshooting_hints
 ✅ follow_up_questions
-✅ chain_of_thought
-✅ prerequisites, natural_followup
-✅ difficulty_level, tone, sentiment, question_type, user_intent
+✅ prerequisites, related_topics
+✅ difficulty_level, question_type, user_intent
 ✅ importance, relevance
 
 📋 AGGREGATED FILES (SECONDARY - CREATE AFTER CHUNKS):
 
 These files DON'T duplicate chunk data, but AGGREGATE and ENRICH:
 
-1. metadata/dayXX_metadata.json (or fileXX_metadata.json)
-   → OVERVIEW of day/file: practices, affirmations, themes, sacred geometry
-   → Info that crosses all chunks of the file
+1. metadata/products_metadata.json
+   → OVERVIEW of product catalog: families, pressure ranges, feature matrix
+   → Comparison tables, compatibility charts
+   → Info that crosses all product chunks
 
-2. keywords/fileXX_keywords.json
-   → ALL keywords from all file chunks aggregated
-   → Organized by theme for efficient retrieval
+2. metadata/technology_metadata.json
+   → IR sensor technology overview
+   → Competitive advantages summary
+   → Installation best practices library
 
-3. quotes/fileXX_quotes.json
-   → ALL quotes from all file chunks aggregated
-   → Organized by theme with context
+3. metadata/applications_metadata.json
+   → Industry use cases overview
+   → Application selection criteria
+   → Success stories and case studies
 
-4. qa_pairs/fileXX_qa.json (IMPORTANT!)
+4. keywords/teklab_keywords.json
+   → ALL technical terms from all chunks aggregated
+   → Organized by category (products, specs, applications)
+   → Includes synonyms and abbreviations
+
+5. qa_pairs/teklab_qa.json (IMPORTANT!)
    → ADDITIONAL Q&A that are NOT in the chunks
-   → Enrich training dataset with extra questions
+   → Enrich training dataset with edge cases
+   → Common customer questions from support tickets
 
 ================================================================================
 🎯 COMPLETE JSON FORMAT
 ================================================================================
 
 {
-  "id": "file09_chunk_004_ankles_feet_destiny",
+  "id": "tk3_plus_46bar_oil_level_controller",
   
   "messages": [
     {
@@ -133,123 +179,180 @@ These files DON'T duplicate chunk data, but AGGREGATE and ENRICH:
     },
     {
       "role": "user",
-      "content": "Informative context (DON'T cite authors in response):\n\n[CHUNK] - [Section Title]\nConcepts: [list of key concepts]\n📌 Quote: \"[iconic quote if present]\"\n\nComplete text: [Original chunk text reworked for clarity]\n\n---\n\nQuestion: [Natural question a user would ask about this theme]\n\nRespond as an expert spiritual guide:\n- Wise and illuminating\n- Explain spiritual principles accessibly\n- Give concrete practices with specific exercises/meditations\n- NO author citations (use info as if it were yours)\n- Focus on TRANSFORMING the person's consciousness"
+      "content": "Technical context:\n\n[PRODUCT/TECHNOLOGY DESCRIPTION]\nKey specifications:\n• Specification 1\n• Specification 2\n• Specification 3\n\n� Application: [Typical use case]\n\nComplete details: [Technical information from source material]\n\n---\n\nQuestion: [Realistic customer question about this product/topic]\n\nRespond as Teklab technical sales expert:\n- Precise and data-driven (cite specifications)\n- Consultative approach (help customer find right solution)\n- Highlight competitive advantages (IR technology benefits)\n- Provide installation/configuration guidance when relevant"
     },
     {
       "role": "assistant",
-      "content": "[ARTICULATED RESPONSE]\n\n[1. DIRECT ANSWER (1-2 sentences answering immediately)]\n\n[2. SPIRITUAL PRINCIPLE (clear and deep explanation)]\n\n[3. CONCRETE PRACTICES]\n\n1. [PRACTICE 1] (duration)\n   • Step 1\n   • Step 2\n   • Step 3\n\n2. [PRACTICE 2]\n   • Step 1\n   • Step 2\n\n3. [PRACTICE 3]\n   • ...\n\n[4. KEY UNDERSTANDING / BENEFITS]\n\n[5. SIGNS / INDICATORS]\n\n[6. REMEMBER (final empowering message)]"
+      "content": "[TECHNICAL RESPONSE]\n\n[1. DIRECT RECOMMENDATION/ANSWER (1-2 sentences)]\n\n[2. TECHNICAL JUSTIFICATION]\nWhy this is the right choice:\n• Reason 1 (technical fit)\n• Reason 2 (specification match)\n• Reason 3 (competitive advantage)\n\n[3. KEY SPECIFICATIONS]\n• Pressure rating: X bar\n• Temperature range: -X°C to +X°C\n• Output type: relay/4-20mA/MODBUS\n• Compatible refrigerants: HFC, HCFC, CO2\n• Detection accuracy: ±2mm\n\n[4. INSTALLATION/CONFIGURATION NOTES]\n1. Mounting: [specific guidance]\n2. Wiring: [connection details]\n3. Configuration: [parameter settings]\n\n[5. COMPETITIVE ADVANTAGES]\n• Advantage 1 vs alternative technology\n• Advantage 2 for this application\n\n[6. FOLLOW-UP CONSIDERATIONS]\n[Relevant questions to ask customer or next steps]"
     }
   ],
   
   "metadata": {
-    "chunk_id": "file09_chunk_004_ankles_feet_destiny",
-    "file_number": 9,                    // or "chapter_number": 1
-    "file_title": "Ankles - Mind Week",  // or "chapter_title": "..."
-    "chunk_number": 4,
-    "chunk_title": "Ankles and Feet: The Destiny We Choose",
-    "author": "Mathias de Stefano",     // Author name
-    "work": "Pyramid Course - 42 Days Initiation",
+    "chunk_id": "tk3_plus_46bar_oil_level_controller",
+    "product_category": "Oil Level Controllers",        // Main category
+    "product_model": "TK3+ 46bar",                      // Specific model
+    "product_family": "TK Series",                      // Product family
+    "chunk_type": "product",  // or "technology", "application", "support"
     
-    "key_concepts": [
-      "Concept 1 clearly formulated",
-      "Concept 2 with specific detail",
-      "Concept 3 practical action",
-      "Concept 4 deep understanding",
-      "Concept 5 expected result"
-      // 5-10 concepts
+    "technical_specs": {
+      "max_pressure": "46 bar",
+      "temperature_range": "-40°C to +125°C",
+      "output_types": ["relay", "4-20mA"],              // Array of available outputs
+      "detection_accuracy": "±2mm",
+      "response_time": "instantaneous",
+      "refrigerants_compatible": ["HFC", "HCFC", "CO2"],
+      "mounting_type": "direct flange (dual pitch)",
+      "power_supply": "24V DC",
+      "ip_rating": "IP65",                              // If applicable
+      "certifications": ["CE"],                         // e.g., ATEX, CE, UL
+      "material": "metallic",                           // or "plastic"
+      "connection_type": "Rotalock"                     // If applicable
+    },
+    
+    "key_features": [
+      "Electro-optic infrared (IR) detection technology",
+      "Fast response time - instantaneous detection",
+      "High accuracy - ±2mm detection precision",
+      "Programmable timer for transient filtering (foam, bubbles, waves)",
+      "Dual pitch flange for easy installation on various compressors",
+      "Wide operating temperature range (-40°C to +125°C)",
+      "Compatible with HFC, HCFC, CO2 refrigerants"
+      // 5-8 key features
+    ],
+    
+    "competitive_advantages": [
+      "vs Mechanical floats: No moving parts, higher reliability, no recalibration needed",
+      "vs Capacitive sensors: Not affected by liquid hardness/conductivity, works in any geography",
+      "IR technology: Works with clear, translucent, reflective, and opaque liquids",
+      "Durability: Withstands extreme temperatures, pressures, vibrations, shocks"
+      // 3-5 competitive advantages
+    ],
+    
+    "applications": [
+      "Industrial refrigeration systems",
+      "Compressor oil level monitoring and control",
+      "Automatic oil balancing systems",
+      "Oil separators in refrigeration plants"
+      // 3-6 typical applications
+    ],
+    
+    "target_audience": [
+      "Refrigeration technicians",
+      "Maintenance engineers",
+      "System integrators",
+      "HVAC contractors",
+      "OEM compressor manufacturers"
+      // 3-5 user profiles
     ],
     
     "keywords_primary": [
-      "primary keyword 1",
-      "primary keyword 2",
-      "primary keyword 3"
+      "oil level controller",
+      "infrared sensor",
+      "compressor monitoring",
+      "refrigeration oil management",
+      "electro-optic level sensor"
       // 5-8 keywords
     ],
     
     "keywords_synonyms": {
-      "term1": ["synonym1", "synonym2", "synonym3"],
-      "term2": ["variant1", "variant2"],
-      "term3": ["alternative1", "alternative2"]
+      "oil level controller": ["oil level sensor", "oil level switch", "oil monitor", "oil management system"],
+      "infrared sensor": ["IR sensor", "electro-optic sensor", "optical level sensor"],
+      "compressor": ["refrigeration compressor", "scroll compressor", "screw compressor"]
       // For each primary keyword, list 3-5 synonyms/variants
     },
     
     "keywords_relations": {
-      "keyword1": ["relation1", "relation2", "relation3"],
-      "keyword2": ["connection1", "connection2"]
+      "oil level controller": ["compressor", "oil separator", "refrigeration system"],
+      "infrared technology": ["electro-optic", "optical detection", "IR beam"],
+      "46 bar pressure": ["medium pressure", "HFC systems", "R134a applications"]
       // Semantic connections between concepts
     },
     
-    "iconic_quotes": [
-      "Memorable quote 1 from original text",
-      "Key quote 2 that synthesizes principle",
-      "Impactful phrase 3 that inspires"
-      // 2-4 quotes
+    "related_products": [
+      "tk3_plus_80bar_version",        // Higher pressure variant
+      "tk3_plus_130bar_version",       // Highest pressure variant
+      "tk4_46bar_version",             // Advanced model with more features
+      "tk4_modbus_46bar"               // MODBUS version for PLC integration
+      // Related/alternative products (chunk_ids)
     ],
     
-    "key_formulas": [
-      "Formula 1 = Concept A > Concept B",
-      "Formula 2 = Input × Action → Output",
-      "Principle 3: Condition → Result"
-      // 3-5 synthetic formulas/principles
+    "alternative_solutions": {
+      "higher_pressure": "tk3_plus_80bar_version (for systems >46 bar)",
+      "plc_integration": "tk4_modbus_46bar (MODBUS RTU communication)",
+      "basic_needs": "tk1_plus_oil_level_switch (cost-effective option)",
+      "atex_required": "atex_metallic_ir_sensor (explosive environments)"
+      // When to choose other products instead
+    },
+    
+    "installation_notes": [
+      "Direct mounting on compressor crankcase via dual pitch flange",
+      "Adapters available for different compressor brands (Bitzer, Copeland, Carrier, etc.)",
+      "Ensure proper sensor orientation (can be top, side, or bottom fitted)",
+      "Connect power supply 24V DC and output relay/signal to control system"
+      // 3-5 installation tips
     ],
     
-    "negative_examples": {
-      "question": "How can I [chunk theme]?",
-      "answers_to_avoid": [
-        "❌ Wrong answer 1 (why it's wrong)",
-        "❌ Wrong answer 2 (why it's wrong)",
-        "❌ Wrong answer 3 (why it's wrong)"
-      ],
-      "correct_answer": "Summary of correct answer with key elements"
+    "configuration_tips": [
+      "Set programmable timer to filter transients (recommended 3-5 seconds for oil applications)",
+      "Adjust alarm threshold based on compressor oil capacity",
+      "Configure relay output for solenoid valve control (automatic oil filling)",
+      "Test sensor detection by manually changing oil level during commissioning"
+      // 3-5 configuration best practices
+    ],
+    
+    "common_issues": [
+      "False alarms: Increase timer delay to filter foam/bubbles",
+      "No detection: Verify sensor dome is clean (oil residue can affect detection)",
+      "Intermittent signals: Check mounting stability (vibrations can cause issues)",
+      "Output not switching: Verify wiring and power supply voltage"
+      // 3-5 common problems with hints
+    ],
+    
+    "troubleshooting_hints": {
+      "sensor_not_detecting": "Clean sensor dome with appropriate solvent, verify power supply 24V DC",
+      "false_alarms": "Increase programmable timer delay (3-10 seconds), check for excessive foam",
+      "output_relay_stuck": "Test relay manually, verify load current within specs",
+      "communication_errors": "For MODBUS versions: check baud rate, address, cable shielding"
+      // Problem: solution pairs
     },
     
     "follow_up_questions": [
-      "Natural follow-up question 1?",
-      "Deepening question 2?",
-      "Common doubt 3?",
-      "Practical application 4?",
-      "Specific case 5?"
-      // 5-7 questions user might ask after
+      "What is the exact pressure rating of your refrigeration system?",
+      "Which compressor brand and model are you using?",
+      "Do you need PLC integration (MODBUS) or simple relay output?",
+      "Is the installation in an ATEX-classified explosive environment?",
+      "What refrigerant type are you using (HFC, HCFC, CO2, other)?",
+      "Do you need automatic oil filling or just level monitoring with alarm?"
+      // 5-8 questions to clarify customer needs
     ],
-    
-    "chain_of_thought": {
-      "question": "Why [key principle of chunk]?",
-      "reasoning": [
-        "Step 1: Initial premise → logical consequence",
-        "Step 2: From previous consequence → new deduction",
-        "Step 3: Connection with practical experience",
-        "Step 4: Integration with other principles",
-        "Conclusion: Final synthesis answering the question"
-      ]
-    },
     
     "prerequisites": [
-      "file08_chunk_003_preparatory_theme",
-      "chap01_base_concept"
-      // Chunks/chapters better to read before (if applicable)
+      "refrigerant_compatibility",           // Understand refrigerant types
+      "pressure_rating_selection",           // How to select right pressure rating
+      "ir_technology_how_it_works"          // Basic understanding of IR sensors
+      // Chunks/topics better to know before (chunk_ids)
     ],
     
-    "natural_followup": [
-      "file10_chunk_001_next_theme",
-      "chap03_deepening"
-      // Related chunks/chapters to explore after
+    "related_topics": [
+      "tk4_46bar_version",                   // Upgrade option
+      "installation_best_practices",         // Installation guidance
+      "common_troubleshooting",              // Troubleshooting guide
+      "modbus_vs_standard_output"            // Output type selection
+      // Related chunks to explore after (chunk_ids)
     ],
     
-    "difficulty_level": "beginner",  // or "intermediate", "advanced"
-    "tone": ["illuminating", "practical", "compassionate"],
-    "sentiment": "empowering",  // or "liberating", "grounding", "challenging"
-    
-    "question_type": "practical-philosophical",  // or "theoretical", "emotional", "meditative"
+    "difficulty_level": "intermediate",  // "beginner", "intermediate", "advanced"
+    "question_type": "product-selection",  // "product-selection", "technical-spec", "installation", "troubleshooting", "comparison"
     "user_intent": [
-      "concept understanding",
-      "daily practices",
-      "personal transformation"
+      "find right product for application",
+      "verify compatibility with existing system",
+      "understand technical specifications"
       // What user really seeks
     ],
     
-    "importance": 0.92,  // 0-1 (how central is this chunk)
-    "relevance": 10,     // 1-10 (how useful for average user)
-    "language": "en"     // 🌍 MULTILINGUAL: "en", "it", "es" - language of the chunk content
+    "importance": 0.92,  // 0-1 (how central is this chunk in product catalog)
+    "relevance": 9,      // 1-10 (how useful for average customer)
+    "language": "en"     // 🌍 "en", "it", "es", "de" - language of the chunk content
   }
 }
 
@@ -260,39 +363,41 @@ ALWAYS include "language" field in metadata:
 • "en" = English content
 • "it" = Italian content  
 • "es" = Spanish content
+• "de" = German content
 
 EXAMPLES:
 
 ✅ ENGLISH CHUNK:
 "metadata": {
-  "chunk_id": "day01_chunk_001_crown_chakra",
+  "chunk_id": "tk3_plus_46bar_oil_level_controller",
   "language": "en",
   ...
 }
 
 ✅ ITALIAN CHUNK:
 "metadata": {
-  "chunk_id": "giorno01_chunk_001_chakra_corona",
+  "chunk_id": "tk3_plus_46bar_controllore_livello_olio",
   "language": "it",
   ...
 }
 
 ✅ SPANISH CHUNK:
 "metadata": {
-  "chunk_id": "dia01_chunk_001_chakra_corona",
+  "chunk_id": "tk3_plus_46bar_controlador_nivel_aceite",
   "language": "es",
   ...
 }
 
-⚠️ MANTRAS AND SACRED SOUNDS:
-Keep mantras/sounds in ORIGINAL form regardless of chunk language:
-• "I CAN" (not "IO POSSO" or "YO PUEDO")
-• "MA" vibration (not "MA" in other languages)
-• "OM" / "AUM" (universal Sanskrit)
-• Bija mantras (LAM, VAM, RAM, YAM, HAM, OM)
+⚠️ TECHNICAL TERMS AND UNITS:
+Keep technical specifications in STANDARD INTERNATIONAL format:
+• Pressure: "46 bar" (not "46 bar" in other languages - it's a unit)
+• Temperature: "°C" (Celsius standard)
+• Model numbers: "TK3+", "LC-PS" (exact as product catalog)
+• Refrigerants: "R134a", "R404A", "CO2" (chemical notation)
+• Standards: "ATEX", "CE", "IP65" (international codes)
 
-The system will automatically translate responses to user's query language while 
-preserving mantras in their original sacred form.
+The system will automatically translate descriptions to user's query language while 
+preserving technical terms and specifications in their standard form.
 
 ================================================================================
 
@@ -303,131 +408,200 @@ preserving mantras in their original sacred form.
 SYSTEM PROMPT:
 • Copy ENTIRE system prompt from Prompt/prompts_config.py
 • DON'T modify anything
-• Includes few-shot examples to teach response format
+• Technical Sales Assistant role for Teklab products
 
 USER CONTENT:
-• Structure: Context + Concepts + Quote + Question
-• Context must be CLEAR and SELF-CONTAINED
-• Key concepts listed to guide response
-• Question formulated as a real user would ask it
+• Structure: Technical Context + Key Specs + Application + Question
+• Context must be CLEAR and SELF-CONTAINED with accurate specifications
+• Key specifications listed to guide technical response
+• Question formulated as a real customer would ask it
 • 🌍 WRITE IN ENGLISH (all user content in English)
 
 ASSISTANT CONTENT (the response):
-• Max 200-300 words (can reach 400 if complex guided practice)
+• Length: 200-300 words (can reach 400 for complex installation guides)
 • 🌍 WRITE IN ENGLISH (entire response in English)
 • Structure ALWAYS:
-  1. Direct answer (1-2 sentences)
-  2. Spiritual principle explained
-  3. Concrete STEP-BY-STEP practices
-  4. Benefits/Key understanding
-  5. Final empowering message
-• NO author citations (e.g.: "According to X...", "In the book Y...")
-• YES universal expressions (e.g.: "Spiritual traditions teach...")
-• Speak in FIRST PERSON as guide: "I invite you to...", "It's essential..."
-• Always PRACTICAL + DEEP (not just theory, not just practice)
+  1. Direct recommendation/answer (1-2 sentences)
+  2. Technical justification (why this fits the specs)
+  3. Key specifications relevant to application
+  4. Installation/configuration guidance (if relevant)
+  5. Competitive advantages or alternatives
+  6. Follow-up considerations/questions
+• NO vague language (e.g., "maybe", "could work", "might be suitable")
+• YES precise specifications (e.g., "TK3+ 80bar rated up to 80 bar, suitable for your 50 bar system")
+• Speak in FIRST PERSON as expert: "I recommend...", "For your application..."
+• Always TECHNICAL + CONSULTATIVE (not just specs, not just sales pitch)
 
 GENERAL TONE:
-✅ Wise but accessible
-✅ Compassionate and non-judgmental
-✅ Inspiring and empowering
-✅ Direct and clear (no beating around the bush)
-✅ Focus on real TRANSFORMATION
+✅ Technical but accessible (explain jargon when needed)
+✅ Consultative and solution-oriented
+✅ Precise and data-driven (cite exact specs)
+✅ Professional yet friendly
+✅ Focus on PRACTICAL APPLICATION and PROBLEM SOLVING
 
-❌ NOT academic or detached
-❌ NOT vague or generic
-❌ NOT judgmental or prescriptive
-❌ NOT author citations in response body
+❌ NOT overly technical/academic (avoid excessive jargon)
+❌ NOT vague or generic (always cite specific models/specs)
+❌ NOT pushy sales (focus on right solution, not just selling)
+❌ NOT uncertain (avoid "maybe", "could", "might")
+
+RESPONSE EXAMPLES:
+
+❌ BAD RESPONSE (vague, uncertain):
+"You might want to consider the TK3+ or maybe the TK4, depending on your needs. They both could work for oil level monitoring. You should probably check the specifications."
+
+✅ GOOD RESPONSE (precise, consultative):
+"For your Bitzer compressor operating at 50 bar with R134a, I recommend the **TK3+ 80bar**.
+
+**Why this model:**
+- Your 50 bar system requires a sensor rated for at least 60 bar (safety margin) → TK3+ 80bar is ideal
+- R134a is an HFC refrigerant → fully compatible with TK3+ series
+- Dual pitch flange design fits most Bitzer models directly
+
+**Key specs for your application:**
+- Pressure rating: up to 80 bar
+- Temperature range: -40°C to +125°C  
+- Output: Relay + 4-20mA (for PLC integration if needed)
+- Detection accuracy: ±2mm
+
+**Installation:**
+Mounts directly on compressor crankcase. Verify your Bitzer model's flange type - we have adapters available if needed.
+
+**Advantage vs mechanical floats:**
+No moving parts = higher reliability, no recalibration, longer lifespan.
+
+Do you need automatic oil filling (solenoid valve control) or just level monitoring with alarm?"
 
 ================================================================================
 🔧 METADATA - HOW TO FILL THEM
 ================================================================================
 
-KEY_CONCEPTS:
-• Formulate as COMPLETE SENTENCES not single words
+TECHNICAL_SPECS:
+• Extract from product documentation
+• BE PRECISE with numbers and units
+• GOOD example: "max_pressure": "46 bar", "temperature_range": "-40°C to +125°C"
+• BAD example: "max_pressure": "high", "temperature_range": "very wide"
+• Include: pressure, temperature, outputs, refrigerants, mounting, power, certifications
+
+KEY_FEATURES:
+• List 5-8 main product features
 • 🌍 IN ENGLISH
-• GOOD example: "Feet contain information about direction and chosen destiny"
-• BAD example: "feet, destiny, direction"
-• 5-10 concepts capturing chunk essence
+• Feature statements not single words
+• GOOD example: "Programmable timer for transient filtering (foam, bubbles, waves)"
+• BAD example: "timer", "filtering"
+• Focus on what makes this product valuable
+
+COMPETITIVE_ADVANTAGES:
+• Comparison with alternative technologies
+• 🌍 IN ENGLISH
+• Format: "vs {competitor}: {advantage}"
+• GOOD example: "vs Mechanical floats: No moving parts, higher reliability, no recalibration"
+• BAD example: "better than floats"
+• 3-5 clear advantages that help customer choose
+
+APPLICATIONS:
+• Typical use cases for this product
+• 🌍 IN ENGLISH
+• Industry-specific or application-specific
+• GOOD example: "Compressor oil level monitoring and control in industrial refrigeration"
+• BAD example: "oil monitoring"
+• 3-6 applications
+
+TARGET_AUDIENCE:
+• Who uses this product
+• Job titles or roles
+• GOOD example: "Refrigeration technicians", "Maintenance engineers", "System integrators"
+• 3-5 user profiles
 
 KEYWORDS_PRIMARY:
-• Terms/phrases a user would use to search for this content
+• Terms customers would use to search for this product
 • 🌍 IN ENGLISH
-• 2-4 words per keyword
+• 2-5 words per keyword
 • 5-8 keywords total
-• Example: "ankles destiny portal", "core earth meditation"
+• GOOD example: "oil level controller", "infrared sensor", "compressor monitoring"
+• BAD example: "oil", "sensor", "compressor"
 
 KEYWORDS_SYNONYMS:
 • For EACH primary keyword, list 3-5 variants/synonyms
 • 🌍 IN ENGLISH
-• Include: direct synonyms, related terms, different ways of saying
-• Example: "destiny": ["direction", "purpose", "path", "life journey"]
+• Include: direct synonyms, related terms, abbreviations
+• GOOD example: "infrared sensor": ["IR sensor", "electro-optic sensor", "optical level sensor", "IR level switch"]
+• BAD example: "infrared sensor": ["sensor"]
 
 KEYWORDS_RELATIONS:
 • Semantic connections between concepts
 • What naturally connects to what
-• Example: "meditation": ["breath", "silence", "observation"]
+• GOOD example: "oil level controller": ["compressor", "oil separator", "refrigeration system"]
+• BAD example: "oil level controller": ["oil"]
 
-ICONIC_QUOTES:
-• MEMORABLE phrases from original text
-• That synthesize a key principle
-• That inspire and stay in mind
-• 2-4 quotes (no more)
+RELATED_PRODUCTS:
+• Other Teklab products that are related
+• Use chunk_id format
+• Include: variants (different pressure ratings), upgrades, complementary products
+• GOOD example: ["tk3_plus_80bar_version", "tk4_46bar_version", "tk4_modbus_46bar"]
 
-KEY_FORMULAS:
-• Principles synthesized in formula/equation format
-• Example: "Destiny = Intention × Present Action"
-• Example: "Presence in steps > Speed of arrival"
-• 3-5 formulas
+ALTERNATIVE_SOLUTIONS:
+• When to choose other products instead
+• Key-value pairs: scenario → recommended_product
+• GOOD example: "higher_pressure": "tk3_plus_80bar_version (for systems >46 bar)"
+• Helps customers understand product range
 
-NEGATIVE_EXAMPLES:
-• What NOT to say / common wrong approaches
-• Serves to TEACH the model what to avoid
-• 3-4 examples of wrong answers + explanation why
-• Always include the CORRECT answer
+INSTALLATION_NOTES:
+• Practical guidance for installation
+• 3-5 key points
+• GOOD example: "Direct mounting on compressor crankcase via dual pitch flange"
+• Include mounting, connections, orientation, adapters
+
+CONFIGURATION_TIPS:
+• Best practices for setup/configuration
+• 3-5 tips
+• GOOD example: "Set programmable timer to 3-5 seconds to filter transients in oil applications"
+• Help customer get optimal performance
+
+COMMON_ISSUES:
+• Problems customers might encounter
+• Include hints for solution
+• GOOD example: "False alarms: Increase timer delay to filter foam/bubbles"
+• 3-5 common issues
+
+TROUBLESHOOTING_HINTS:
+• Problem-solution pairs
+• Format: "problem_key": "solution description"
+• GOOD example: "sensor_not_detecting": "Clean sensor dome with appropriate solvent, verify power supply 24V DC"
 
 FOLLOW_UP_QUESTIONS:
-• Questions user would naturally ask after
-• Common doubts
-• Clarification requests
-• Practical deepenings
-• 5-7 questions
+• Questions to ask customer to clarify needs
+• 🌍 IN ENGLISH
+• Help narrow down the right solution
+• GOOD example: "What is the exact pressure rating of your refrigeration system?"
+• 5-8 questions
 
-CHAIN_OF_THOUGHT:
-• Only for COMPLEX concepts requiring reasoning
-• Shows the logical PATH step-by-step
-• Teaches the model how to ARGUE
-• 4-6 reasoning steps
-
-PREREQUISITES / NATURAL_FOLLOWUP:
-• Connections with other chunks of course/book
-• Prerequisites: what's better to know before
-• Followup: what to explore after to continue
+PREREQUISITES / RELATED_TOPICS:
+• Connections with other chunks
+• Prerequisites: what's useful to know before
+• Related: what to explore after to deepen knowledge
 • Use chunk_id of other chunks
 
 DIFFICULTY_LEVEL:
-• beginner: base concepts, accessible to all
-• intermediate: requires understanding base principles
-• advanced: deep concepts, intense practices
-
-TONE:
-• List 2-4 adjectives describing the tone
-• Example: ["illuminating", "practical", "compassionate"]
-• Other: "transformative", "grounding", "empowering", "ritual"
+• beginner: basic products, simple concepts
+• intermediate: requires understanding of refrigeration systems
+• advanced: complex installations, system integration
 
 QUESTION_TYPE:
 • What type of query is it
-• practical: "how do I..."
-• philosophical: "why/what does it mean..."
-• emotional: "how to manage feelings..."
-• meditative: "guided practice..."
+• product-selection: "which sensor should I use..."
+• technical-spec: "what are the specifications..."
+• installation: "how do I install..."
+• troubleshooting: "sensor not working..."
+• comparison: "TK3+ vs TK4..."
 
 USER_INTENT:
-• What user REALLY seeks behind the question
-• Example: "understanding destiny", "daily practices", "overcoming block"
+• What customer REALLY seeks behind the question
+• GOOD example: "find right product for application", "verify compatibility", "solve detection problem"
+• Helps understand customer motivation
 
 IMPORTANCE / RELEVANCE:
-• importance (0-1): how central in corpus (0.9+ = fundamental)
-• relevance (1-10): how useful for average user (10 = everyone must know)
+• importance (0-1): how central in product catalog (0.9+ = flagship product)
+• relevance (1-10): how useful for average customer (10 = most customers need this)
 
 ================================================================================
 ✅ CHECKLIST BEFORE SAVING
@@ -435,37 +609,42 @@ IMPORTANCE / RELEVANCE:
 
 CONTENT:
 [ ] System prompt copied complete from prompts_config.py
-[ ] User content with context + concepts + quote + question
-[ ] Assistant content 200-300 words, 5-part structure
-[ ] NO author citations in response
-[ ] Concrete step-by-step practices present
-[ ] Wise, compassionate, practical tone
+[ ] User content with technical context + specs + application + question
+[ ] Assistant content 200-300 words, structured response format
+[ ] NO vague language ("maybe", "could", "might")
+[ ] PRECISE specifications cited (pressure, temperature, model numbers)
+[ ] Installation/configuration guidance present when relevant
+[ ] Technical yet accessible tone (explain jargon)
 
 BASE METADATA:
 [ ] Unique and descriptive chunk_id
-[ ] Correct file/chapter_number
-[ ] Author and work filled
-[ ] 5-10 key_concepts (complete sentences)
-[ ] 5-8 keywords_primary
-[ ] 2-4 iconic_quotes
-[ ] 3-5 key_formulas
+[ ] Correct product_category, product_model, product_family
+[ ] Chunk_type specified (product/technology/application/support)
+[ ] Technical_specs complete and accurate
+[ ] 5-8 key_features
+[ ] 3-5 competitive_advantages
+[ ] 3-6 applications and 3-5 target_audience
 [ ] Importance and relevance assigned
 
 EXTENDED METADATA:
+[ ] keywords_primary (5-8 technical terms)
 [ ] keywords_synonyms for each primary keyword (3-5 synonyms)
 [ ] keywords_relations between concepts
-[ ] negative_examples with 3-4 wrong answers + correct
-[ ] follow_up_questions (5-7 natural questions)
-[ ] chain_of_thought if complex concept
-[ ] prerequisites and natural_followup if applicable
-[ ] difficulty_level, tone, sentiment, question_type
-[ ] user_intent what user seeks
+[ ] related_products with chunk_ids
+[ ] alternative_solutions (when to choose other products)
+[ ] installation_notes (3-5 practical tips)
+[ ] configuration_tips (3-5 best practices)
+[ ] common_issues and troubleshooting_hints
+[ ] follow_up_questions (5-8 clarifying questions)
+[ ] prerequisites and related_topics if applicable
+[ ] difficulty_level, question_type, user_intent
 
 VALID JSON:
 [ ] Correct JSON syntax (commas, brackets, quotes)
 [ ] No trailing comma in last element of array/object
 [ ] Multiline strings with \n escaped
 [ ] Tested with online JSON validator if uncertain
+[ ] All technical specs use standard units (bar, °C, etc.)
 
 ================================================================================
 🚀 CHUNK CREATION WORKFLOW
@@ -473,75 +652,113 @@ VALID JSON:
 
 ⚡ IMPORTANT: COMPLETE EVERYTHING IN ONE SESSION!
 
-When you receive shared files in chat (transcript/original text from a file):
+When you receive product documentation/web pages in chat:
 → You must create EVERYTHING in the same session without interruptions:
-  • PHASE 1: All chunks of the file (4-7 chunks)
-  • PHASE 2: All aggregated files (metadata, keywords, quotes, qa_pairs)
+  • PHASE 1: All chunks for the products/topics (organized by category)
+  • PHASE 2: All aggregated files (metadata, keywords, qa_pairs)
 
 DON'T stop after 1-2 chunks asking for confirmation!
-Proceed until total completion of the file.
+Proceed until total completion of the product catalog section.
 
 ---
 
 PHASE 1: CREATING SELF-CONTAINED CHUNKS (PRIORITY)
 
-1. READ transcript/original text of file/chapter
-2. IDENTIFY 4-7 main themes
-3. For EACH theme:
+1. READ product documentation/web pages
+2. IDENTIFY main categories:
+   - Products: Individual product models (TK1+, TK3+ 46bar, TK4 MODBUS, etc.)
+   - Technology: How IR sensors work, competitive advantages
+   - Applications: Refrigeration systems, ATEX environments, etc.
+   - Support: Selection guides, troubleshooting, comparison guides
+
+3. For EACH product/topic:
    a. Create 1 SELF-CONTAINED chunk with complete structure
    b. Write system/user/assistant conversation IN ENGLISH
    c. Fill ALL base + extended metadata INSIDE the chunk
-   d. Verify valid JSON
-   e. SAVE in: Fonti/Autori/[Author]/Processati/[Work]/chunks/fileXX/
+   d. Extract ACCURATE technical specifications from source
+   e. Verify valid JSON
+   f. SAVE in appropriate category folder:
+      - Fonti/Autori/Teklab/Processati/chunks/products/
+      - Fonti/Autori/Teklab/Processati/chunks/technology/
+      - Fonti/Autori/Teklab/Processati/chunks/applications/
+      - Fonti/Autori/Teklab/Processati/chunks/support/
 
 ✅ At this point you have COMPLETE chunks ready for training!
 
-PHASE 2: CREATING AGGREGATED FILES (AFTER all file chunks ready)
+PHASE 2: CREATING AGGREGATED FILES (AFTER all chunks ready)
 
-4. Create metadata/fileXX_metadata.json
-   → File overview with practices, affirmations, cross-cutting themes
+4. Create metadata/{category}_metadata.json
+   → Category overview with product families, feature matrices, comparison tables
    → DON'T duplicate chunk metadata, AGGREGATE higher-level info
 
-5. Create keywords/fileXX_keywords.json
-   → COLLECT all keywords_primary from all file chunks
-   → Organize by theme for efficient retrieval
+5. Create keywords/teklab_keywords.json
+   → COLLECT all keywords_primary from all chunks
+   → Organize by category (products, specifications, applications, technologies)
+   → Include all synonyms and abbreviations
 
-6. Create quotes/fileXX_quotes.json
-   → COLLECT all iconic_quotes from all file chunks
-   → Organize by theme with application context
-
-7. Create qa_pairs/fileXX_qa.json (IMPORTANT!)
-   → ADDITIONAL Q&A that are NOT covered by chunks
-   → Alternative questions, edge cases, deepenings
+6. Create qa_pairs/teklab_qa.json (IMPORTANT!)
+   → ADDITIONAL Q&A that are NOT covered by existing chunks
+   → Alternative phrasing, edge cases, cross-product comparisons
+   → Common questions from customer support
    → These enrich training dataset
 
-✅ ONLY AFTER completing PHASE 2 the file is ready!
+✅ ONLY AFTER completing PHASE 2 the product catalog is ready!
+
+---
+
+TYPICAL CHUNK DISTRIBUTION:
+
+For Teklab product catalog, create approximately:
+- **Products**: 15-20 chunks (one per major product variant)
+  Examples: TK1+, TK3+ (46/80/130bar), TK4 (standard + MODBUS variants), LC series, ATEX sensors
+
+- **Technology**: 5-7 chunks (technical principles and comparisons)
+  Examples: IR technology basics, IR vs mechanical floats, IR vs capacitive, installation best practices
+
+- **Applications**: 5-8 chunks (industry use cases)
+  Examples: Refrigeration systems, compressor oil management, ATEX environments, CO2 systems, high-pressure applications
+
+- **Support**: 8-10 chunks (selection and troubleshooting)
+  Examples: Product selection guide, pressure rating selection, refrigerant compatibility, troubleshooting guide, MODBUS vs standard
+
+Total: ~40-50 comprehensive chunks covering entire Teklab product knowledge base
 
 ================================================================================
 💡 FINAL TIPS
 ================================================================================
 
-• Fast system: Copy existing chunk template (e.g.: file09_chunk_004) and modify
+• Fast system: Copy existing product chunk template and modify for new products
 • SELF-CONTAINED chunk: must work standalone without external files
-• CLEAR user content: complete context without dependencies
-• PRACTICAL assistant: always give concrete steps not just theory
-• Rich metadata INSIDE chunk: more embedded info = better training
+• CLEAR user content: complete technical context with accurate specifications
+• PRACTICAL assistant: always give installation/configuration guidance when relevant
+• Rich metadata INSIDE chunk: more embedded technical info = better customer support
 • Valid JSON: use online validator if uncertain
-• Final test: ask copilot "explain this chunk" to verify clarity
+• Final test: ask copilot "explain this chunk" to verify clarity and accuracy
 • 🌍 EVERYTHING IN ENGLISH: user content, assistant response, metadata
-• ⚡ COMPLETE SESSION: When you receive files in chat, complete EVERYTHING before stopping
+• ⚡ COMPLETE SESSION: When you receive documentation, complete EVERYTHING before stopping
+• 📊 ACCURATE SPECS: Double-check pressure ratings, temperature ranges, model numbers
+• 🔧 COMPETITIVE ADVANTAGES: Always explain WHY Teklab IR sensors are better than alternatives
 
 REMEMBER:
 ✅ Messages format (system/user/assistant) NOT old question/answer format
 ✅ IDENTICAL system prompt in all chunks
-✅ NO author citations in assistant response
-✅ YES concrete step-by-step practices
-✅ Extended metadata not optional - essential for training
+✅ NO vague language ("maybe", "could") - be PRECISE with specifications
+✅ YES accurate technical data from source documentation
+✅ Extended metadata not optional - essential for technical accuracy
 ✅ Each chunk is SELF-CONTAINED - all metadata embedded inside
-✅ Separate files (metadata/keywords/quotes/qa) AGGREGATE, DON'T duplicate
+✅ Separate files (metadata/keywords/qa) AGGREGATE, DON'T duplicate
 ✅ Training reads 1 file per chunk → maximum efficiency
 ✅ 🌍 ENGLISH LANGUAGE for all content (user/assistant/metadata)
-✅ ⚡ COMPLETE PHASE 1 + PHASE 2 in one session when you receive files in chat
+✅ 🔧 TECHNICAL PRECISION: cite exact specs, model numbers, certifications
+✅ 📱 CONSULTATIVE TONE: help customer find RIGHT solution, not just any solution
+✅ ⚡ COMPLETE PHASE 1 + PHASE 2 in one session when you receive documentation
+
+PRODUCT-SPECIFIC GUIDELINES:
+• For product chunks: Include ALL technical specs from datasheet
+• For comparison chunks: Create feature matrices, highlight key differences
+• For troubleshooting chunks: Problem → Root cause → Solution format
+• For application chunks: Industry context + Teklab solution + Benefits
+• For technology chunks: Explain HOW it works + WHY it's better
 
 ================================================================================
 End of instructions. Use this as reference every time you create new chunks!

@@ -1,11 +1,10 @@
 """
-Generatore di Embeddings per RAG Chatbot - Spirituality AI
-Genera embeddings di tutti i chunks e Q&A e li salva in cache
-Esegui SOLO quando aggiungi nuovi libri/capitoli sugli autori
+Generatore di Embeddings per RAG Chatbot - Teklab B2B AI
+Genera embeddings di tutti i chunks (products/technology/applications/support) e Q&A
+Esegui quando aggiungi nuovi prodotti o contenuti tecnici
 """
 
 import json
-import os
 import pickle
 from pathlib import Path
 
@@ -29,15 +28,15 @@ def import_sentence_transformers():
 
 # Configurazione (deve stare dopo gli import)
 SCRIPT_DIR = Path(__file__).parent  # scripts/
-PROJECT_ROOT = SCRIPT_DIR.parent  # Root del progetto (spirituality.ai/)
-FONTI_BASE_PATH = PROJECT_ROOT / "Fonti"
+PROJECT_ROOT = SCRIPT_DIR.parent  # Root del progetto (teklab_ai/)
+FONTI_BASE_PATH = PROJECT_ROOT / "Fonti" / "Autori" / "Teklab" / "Processati"  # Teklab specific path
 EMBEDDINGS_CACHE_PATH = PROJECT_ROOT / "ai_system" / "Embedding" / "embeddings_cache.pkl"  # Cache in ai_system/Embedding/
 
 # Modello embeddings (puoi cambiarlo)
-EMBEDDING_MODEL = 'all-mpnet-base-v2'  # Più preciso per contenuto spirituale (768-dim)
+EMBEDDING_MODEL = 'all-mpnet-base-v2'  # Più preciso per contenuto tecnico (768-dim)
 # Alternative:
 # 'all-MiniLM-L6-v2'  # Più veloce ma meno preciso (384-dim)
-# 'paraphrase-multilingual-MiniLM-L12-v2'  # Migliore per italiano
+# 'paraphrase-multilingual-MiniLM-L12-v2'  # Migliore per italiano (ma contenuto è in inglese)
 
 class EmbeddingsGenerator:
     def __init__(self):
@@ -57,143 +56,167 @@ class EmbeddingsGenerator:
                 return False
             print("🧠 Inizializzazione modello embeddings...")
             print(f"   Modello: {EMBEDDING_MODEL}")
-            self.model = SentenceTransformer(EMBEDDING_MODEL)
-            print("✅ Modello caricato\n")
+            print(f"   Device: CPU (GPU riservata per Llama)")
+            # FORZA CPU per risparmiare VRAM GPU
+            self.model = SentenceTransformer(EMBEDDING_MODEL, device='cpu')
+            print("✅ Modello caricato su CPU\n")
         return True
     
     def find_all_rag_folders(self):
-        """Trova tutte le cartelle 'libri_processati' in Fonti/"""
-        rag_folders = []
+        """Trova tutte le cartelle chunks in Fonti/Autori/Teklab/Processati/"""
+        rag_data = {
+            "chunks_folders": [],
+            "metadata_files": [],
+            "keywords_file": None,
+            "qa_file": None
+        }
         
         if not FONTI_BASE_PATH.exists():
-            print(f"❌ Cartella Fonti non trovata: {FONTI_BASE_PATH}")
-            return rag_folders
+            print(f"❌ Cartella Processati non trovata: {FONTI_BASE_PATH}")
+            return rag_data
         
-        # Cerchiamo sia cartelle chiamate 'libri_processati' sia 'Processati' (varianti)
-        for root, dirs, files in os.walk(FONTI_BASE_PATH):
-            # controlla directory di processo tipiche
-            candidates = [d for d in dirs if d.lower() in ("libri_processati", "processati")]
-            for cand in candidates:
-                processati_path = Path(root) / cand
-                if not processati_path.exists():
-                    continue
-
-                for libro_dir in processati_path.iterdir():
-                    if libro_dir.is_dir() and (libro_dir / "chunks").exists():
-                        # estrai autore dalla struttura: Fonti/Autori/<Autore>/Processati/<Opera>
-                        # relative parts rispetto a FONTI_BASE_PATH
-                        parts = libro_dir.relative_to(FONTI_BASE_PATH).parts
-                        autore = "Sconosciuto"
-                        # se esiste 'Autori' prendi l'elemento successivo, altrimenti fallback al secondo elemento
-                        if 'Autori' in parts:
-                            try:
-                                idx = parts.index('Autori')
-                                autore = parts[idx + 1] if len(parts) > idx + 1 else 'Sconosciuto'
-                            except Exception:
-                                autore = parts[1] if len(parts) > 1 else 'Sconosciuto'
-                        else:
-                            autore = parts[1] if len(parts) > 1 else 'Sconosciuto'
-
-                        libro = libro_dir.name
-
-                        rag_folders.append({
-                            "path": libro_dir,
-                            "autore": autore,
-                            "libro": libro
-                        })
+        # Struttura Teklab:
+        # Fonti/Autori/Teklab/Processati/
+        #   ├── chunks/
+        #   │   ├── products/
+        #   │   ├── technology/
+        #   │   ├── applications/
+        #   │   └── support/
+        #   ├── metadata/
+        #   ├── keywords/
+        #   └── qa_pairs/
         
-        return rag_folders
+        chunks_base = FONTI_BASE_PATH / "chunks"
+        metadata_dir = FONTI_BASE_PATH / "metadata"
+        keywords_dir = FONTI_BASE_PATH / "keywords"
+        qa_dir = FONTI_BASE_PATH / "qa_pairs"
+        
+        # Trova cartelle chunks (products, technology, applications, support)
+        if chunks_base.exists():
+            for category_dir in chunks_base.iterdir():
+                if category_dir.is_dir():
+                    rag_data["chunks_folders"].append({
+                        "path": category_dir,
+                        "category": category_dir.name,
+                        "source": "Teklab"
+                    })
+        
+        # Trova metadata files
+        if metadata_dir.exists():
+            for meta_file in metadata_dir.glob("*.json"):
+                rag_data["metadata_files"].append(meta_file)
+        
+        # Trova keywords file
+        if keywords_dir.exists():
+            keywords_files = list(keywords_dir.glob("*.json"))
+            if keywords_files:
+                rag_data["keywords_file"] = keywords_files[0]  # Primo file trovato
+        
+        # Trova qa_pairs file
+        if qa_dir.exists():
+            qa_files = list(qa_dir.glob("*.json"))
+            if qa_files:
+                rag_data["qa_file"] = qa_files[0]  # Primo file trovato
+        
+        return rag_data
     
     def load_all_data(self):
-        """Carica tutti i chunks e Q&A"""
-        print("📚 Caricamento dati da Fonti...\n")
+        """Carica tutti i chunks e Q&A da struttura Teklab"""
+        print("📚 Caricamento dati Teklab da Fonti...\n")
         
-        rag_folders = self.find_all_rag_folders()
+        rag_data = self.find_all_rag_folders()
         
-        if not rag_folders:
-            print("❌ Nessuna fonte trovata!")
+        chunks_folders = rag_data["chunks_folders"]
+        
+        if not chunks_folders:
+            print("❌ Nessuna cartella chunks trovata!")
+            print(f"   Verifica che esista: {FONTI_BASE_PATH / 'chunks'}")
             return False
         
-        print(f"✅ Trovate {len(rag_folders)} fonti:\n")
+        print(f"✅ Trovate {len(chunks_folders)} categorie:\n")
         
-        for fonte in rag_folders:
-            rag_path = fonte["path"]
-            autore = fonte["autore"]
-            libro = fonte["libro"]
-            source_key = f"{autore}/{libro}"
+        # Carica chunks da ogni categoria
+        total_chunks = 0
+        for folder_info in chunks_folders:
+            category_path = folder_info["path"]
+            category = folder_info["category"]
             
-            print(f"   📖 {source_key}")
+            print(f"   � {category}/")
             
-            # Carica chunks
-            chunks_dir = rag_path / "chunks"
-            chunk_count = 0
-            if chunks_dir.exists():
-                for cap_dir in chunks_dir.iterdir():
-                    if cap_dir.is_dir():
-                        cap_name = f"{source_key}/{cap_dir.name}"
-                        self.chunks[cap_name] = []
-                        # Cerca file che contengono "_chunk_" nel nome
-                        for chunk_file in sorted(cap_dir.glob("*_chunk_*.json")):
-                            try:
-                                with open(chunk_file, "r", encoding="utf-8") as f:
-                                    chunk_data = json.load(f)
-                                    # preserva chunk_id se presente, altrimenti usa stem
-                                    chunk_data["chunk_id"] = chunk_data.get("chunk_id", chunk_file.stem)
-                                    chunk_data["capitolo"] = cap_name
-                                    self.chunks[cap_name].append(chunk_data)
-                                    chunk_count += 1
-                            except Exception as e:
-                                print(f"      ⚠️  Errore {chunk_file.name}: {e}")
+            # Carica tutti i JSON nella categoria
+            chunk_files = sorted(category_path.glob("*.json"))
+            category_count = 0
             
-            # Carica Q&A dai chunk (nuovo formato: metadata.qa_pairs)
-            # NON usa più i file separati qa_pairs/*.json (vecchio formato)
-            qa_count = 0
-            for cap_name, chunks_list in self.chunks.items():
-                for chunk in chunks_list:
-                    # Estrai qa_pairs dal metadata del chunk
-                    metadata = chunk.get('metadata', {})
-                    qa_pairs = metadata.get('qa_pairs', [])
+            for chunk_file in chunk_files:
+                try:
+                    with open(chunk_file, "r", encoding="utf-8") as f:
+                        chunk_data = json.load(f)
+                        
+                        # Crea chunk_id unico
+                        chunk_id = chunk_data.get("chunk_id", chunk_file.stem)
+                        full_chunk_id = f"Teklab/{category}/{chunk_id}"
+                        
+                        # Aggiungi metadata di categoria
+                        chunk_data["category"] = category
+                        chunk_data["chunk_id"] = full_chunk_id
+                        chunk_data["source"] = "Teklab"
+                        
+                        # Salva in self.chunks con chiave categoria
+                        if category not in self.chunks:
+                            self.chunks[category] = []
+                        
+                        self.chunks[category].append(chunk_data)
+                        category_count += 1
+                        total_chunks += 1
+                        
+                except Exception as e:
+                    print(f"      ⚠️  Errore {chunk_file.name}: {e}")
+            
+            print(f"      → {category_count} chunks")
+        
+        # Carica Q&A dal file aggregato qa_pairs
+        qa_count = 0
+        if rag_data["qa_file"]:
+            try:
+                with open(rag_data["qa_file"], "r", encoding="utf-8") as f:
+                    qa_data = json.load(f)
                     
-                    if qa_pairs:
-                        # Salva Q&A con chiave unica per chunk
-                        chunk_id = chunk.get('chunk_id', chunk.get('id', 'unknown'))
-                        qa_key = f"{cap_name}|{chunk_id}"
-                        self.qa_pairs[qa_key] = {"qa_pairs": qa_pairs}
-                        qa_count += len(qa_pairs)
-            
-            # NUOVO: Carica summary files
-            summaries_dir = rag_path / "summaries"
-            summary_count = 0
-            if summaries_dir.exists():
-                for summary_file in sorted(summaries_dir.glob("*_summary.json")):
-                    try:
-                        with open(summary_file, "r", encoding="utf-8") as f:
-                            summary_data = json.load(f)
-                            summary_id = f"{source_key}/{summary_file.stem}"
-                            self.summaries[summary_id] = summary_data
-                            summary_count += 1
-                    except Exception as e:
-                        print(f"      ⚠️  Errore {summary_file.name}: {e}")
-            
-            print(f"      → {chunk_count} chunks, {qa_count} Q&A, {summary_count} summaries")
+                qa_pairs_list = qa_data.get("qa_pairs", [])
+                
+                if qa_pairs_list:
+                    # Salva Q&A con chiave unica
+                    qa_key = "Teklab/qa_pairs"
+                    self.qa_pairs[qa_key] = {"qa_pairs": qa_pairs_list}
+                    qa_count = len(qa_pairs_list)
+                    print(f"\n   📝 Q&A file: {rag_data['qa_file'].name}")
+                    print(f"      → {qa_count} Q&A pairs")
+                    
+            except Exception as e:
+                print(f"   ⚠️  Errore caricamento Q&A: {e}")
         
-        total_chunks = sum(len(chunks) for chunks in self.chunks.values())
-        total_qa = sum(len(qa.get("qa_pairs", [])) for qa in self.qa_pairs.values())
-        total_summaries = len(self.summaries)
+        # Carica metadata aggregati (opzionale, per info)
+        metadata_count = len(rag_data["metadata_files"])
+        if metadata_count > 0:
+            print(f"\n   📊 Metadata files: {metadata_count}")
+            for meta_file in rag_data["metadata_files"]:
+                print(f"      → {meta_file.name}")
+        
+        # Carica keywords aggregati (opzionale, per info)
+        if rag_data["keywords_file"]:
+            print(f"\n   🔑 Keywords file: {rag_data['keywords_file'].name}")
         
         print(f"\n{'='*60}")
         print("📊 DATI CARICATI:")
-        print(f"   • Capitoli: {len(self.chunks)}")
-        print(f"   • Chunks: {total_chunks}")
-        print(f"   • Q&A: {total_qa}")
-        print(f"   • Summaries: {total_summaries}")
-        print(f"   • Totale testi da codificare: {total_chunks + total_qa + total_summaries}")
+        print(f"   • Categorie: {len(self.chunks)}")
+        print(f"   • Chunks totali: {total_chunks}")
+        print(f"   • Q&A totali: {qa_count}")
+        print(f"   • Testi da codificare: {total_chunks + qa_count}")
         print(f"{'='*60}\n")
         
         return True
     
     def generate_embeddings(self):
-        """Genera embeddings per tutti i testi"""
+        """Genera embeddings per tutti i testi Teklab"""
         print("🔄 GENERAZIONE EMBEDDINGS IN CORSO...\n")
         
         # Carica modello ora (lazy loading)
@@ -203,145 +226,106 @@ class EmbeddingsGenerator:
         texts_to_encode = []
         text_ids = []
         
-        # Prepara testi chunks
-        print("📝 Preparazione chunks...")
-        for cap_name, chunks in self.chunks.items():
+        # Prepara testi chunks da categorie Teklab
+        print("📝 Preparazione chunks Teklab...")
+        for category, chunks in self.chunks.items():
             for chunk in chunks:
-                chunk_id = f"{cap_name}|{chunk.get('chunk_id', '')}"
+                chunk_id = chunk.get('chunk_id', '')
                 
-                # Estrai metadata
+                # Estrai contenuto dal formato Teklab (messages array)
+                messages = chunk.get('messages', [])
+                
+                # Il contenuto principale è nel messaggio dell'assistant (index 2)
+                assistant_content = ""
+                if len(messages) >= 3 and messages[2].get('role') == 'assistant':
+                    assistant_content = messages[2].get('content', '')
+                
+                # Estrai metadata Teklab
                 metadata = chunk.get('metadata', {})
-                author = metadata.get('author', chunk.get('autore', ''))
-                work = metadata.get('work', chunk.get('opera', chunk.get('libro', '')))
-                section = chunk.get('sezione', '')
-                chunk_title = metadata.get('chunk_title', chunk.get('titolo_capitolo', chunk.get('titolo_giorno', '')))
                 
-                # Supporta sia 'original_text' (nuovo formato) che 'testo' (vecchio formato)
-                body = chunk.get('original_text', chunk.get('testo', ''))
+                # Dati specifici Teklab
+                product_model = metadata.get('product_model', '')
+                pressure_rating = metadata.get('pressure_rating', '')
+                refrigerant = metadata.get('refrigerant', '')
                 
-                # ARRICCHISCI CON METADATA per migliorare ricerca semantica
-                keywords = metadata.get('keywords_primary', [])
-                # Gestisci keywords sia come lista di stringhe che lista di dict
-                if keywords and isinstance(keywords[0], dict):
-                    keywords_text = ', '.join([kw.get('term', '') for kw in keywords[:5]])
-                elif keywords:
-                    keywords_text = ', '.join(keywords[:5])
-                else:
-                    keywords_text = ''
+                # Dati testuali
+                technical_specs = metadata.get('technical_specs', '')
+                competitive_advantages = metadata.get('competitive_advantages', '')
+                installation_notes = metadata.get('installation_notes', '')
+                troubleshooting_hints = metadata.get('troubleshooting_hints', '')
                 
-                quotes = metadata.get('iconic_quotes', [])
-                quotes_text = ' | '.join(quotes[:3]) if quotes else ''
-                
-                concepts = metadata.get('key_concepts', [])
-                concepts_text = ', '.join(concepts[:5]) if concepts else ''
+                # Keywords
+                keywords = metadata.get('keywords', [])
+                keywords_text = ', '.join(keywords[:10]) if keywords else ''
                 
                 # Costruisci testo arricchito per embedding
                 enriched_parts = [
-                    f"Autore: {author}",
-                    f"Opera: {work}",
-                    f"Sezione: {section}",
-                    f"Titolo: {chunk_title}"
+                    f"Source: Teklab",
+                    f"Category: {category}",
+                    f"Chunk ID: {chunk_id}"
                 ]
                 
+                if product_model:
+                    enriched_parts.append(f"Product: {product_model}")
+                if pressure_rating:
+                    enriched_parts.append(f"Pressure Rating: {pressure_rating}")
+                if refrigerant:
+                    enriched_parts.append(f"Refrigerant: {refrigerant}")
                 if keywords_text:
                     enriched_parts.append(f"Keywords: {keywords_text}")
-                if concepts_text:
-                    enriched_parts.append(f"Concetti: {concepts_text}")
-                if quotes_text:
-                    enriched_parts.append(f"Citazioni: {quotes_text}")
                 
-                enriched_parts.append(f"\nContenuto:\n{body}")
+                # Aggiungi sezioni metadata se presenti
+                if technical_specs:
+                    enriched_parts.append(f"\nTechnical Specs: {technical_specs}")
+                if competitive_advantages:
+                    enriched_parts.append(f"\nAdvantages: {competitive_advantages}")
+                if installation_notes:
+                    enriched_parts.append(f"\nInstallation: {installation_notes}")
+                if troubleshooting_hints:
+                    enriched_parts.append(f"\nTroubleshooting: {troubleshooting_hints}")
+                
+                # Aggiungi contenuto principale
+                enriched_parts.append(f"\nContent:\n{assistant_content}")
                 
                 text = '\n'.join(enriched_parts)
                 
-                if text:
+                if text.strip():
                     texts_to_encode.append(text)
                     text_ids.append(('chunk', chunk_id))
         
-        print(f"   ✅ {len([x for x in text_ids if x[0] == 'chunk'])} chunks preparati")
+        chunk_count = len([x for x in text_ids if x[0] == 'chunk'])
+        print(f"   ✅ {chunk_count} chunks preparati")
         
-        # Prepara testi Q&A
+        # Prepara testi Q&A dal file aggregato
         print("📝 Preparazione Q&A...")
         for qa_key, qa_data in self.qa_pairs.items():
             qa_list = qa_data.get('qa_pairs', [])
             
             for idx, qa in enumerate(qa_list):
                 qa_id = f"{qa_key}|qa_{idx}"
-                # Nuovo formato: 'question' e 'answer'
-                # Vecchio formato: 'domanda' e 'risposta' (fallback)
-                question = qa.get('question', qa.get('domanda', ''))
-                answer = qa.get('answer', qa.get('risposta', ''))
-                # Combina domanda + risposta per embedding più ricco
-                text = f"{question} {answer}"
+                question = qa.get('question', '')
+                answer = qa.get('answer', '')
+                
+                # Estrai metadata Q&A se presente
+                keywords = qa.get('keywords', [])
+                keywords_text = ', '.join(keywords[:5]) if keywords else ''
+                
+                # Combina domanda + risposta + keywords per embedding arricchito
+                text_parts = []
+                if keywords_text:
+                    text_parts.append(f"Keywords: {keywords_text}")
+                text_parts.append(f"Q: {question}")
+                text_parts.append(f"A: {answer}")
+                
+                text = '\n'.join(text_parts)
+                
                 if text.strip():
                     texts_to_encode.append(text)
                     text_ids.append(('qa', qa_id))
         
-        # NUOVO: Aggiungi natural_questions come embeddings separati
-        print("📝 Preparazione Natural Questions...")
-        natural_q_count = 0
-        for cap_name, chunks in self.chunks.items():
-            for chunk in chunks:
-                chunk_id = f"{cap_name}|{chunk.get('chunk_id', '')}"
-                metadata = chunk.get('metadata', {})
-                natural_qs = metadata.get('natural_questions', [])
-                
-                for idx, nq in enumerate(natural_qs):
-                    if nq.strip():
-                        nq_id = f"{chunk_id}|nq_{idx}"
-                        # Per natural questions, includi anche il titolo del chunk per contesto
-                        chunk_title = metadata.get('chunk_title', '')
-                        text = f"Question: {nq} (Related to: {chunk_title})"
-                        texts_to_encode.append(text)
-                        text_ids.append(('natural_q', nq_id))
-                        natural_q_count += 1
-        
-        print(f"   ✅ {len([x for x in text_ids if x[0] == 'qa'])} Q&A preparati")
-        print(f"   ✅ {natural_q_count} Natural Questions preparate")
-        
-        # NUOVO: Prepara testi Summary
-        print("📝 Preparazione Summaries...")
-        for summary_id, summary_data in self.summaries.items():
-            # Estrai metadata aggregati
-            unit_label = summary_data.get('unit_label', '')
-            unit_type = summary_data.get('unit_type', 'unit')
-            work_name = summary_data.get('work_name', '')
-            
-            aggregated = summary_data.get('aggregated_metadata', {})
-            all_keywords = ', '.join(aggregated.get('all_keywords', [])[:10])
-            all_concepts = ', '.join(aggregated.get('all_concepts', [])[:10])
-            all_quotes = ' | '.join(aggregated.get('iconic_quotes', [])[:5])
-            all_questions = '; '.join(aggregated.get('natural_questions', [])[:5])
-            
-            # Costruisci testo ricco per summary
-            summary_parts = [
-                f"Summary: {unit_label}",
-                f"Work: {work_name}",
-                f"Total Chunks: {summary_data.get('total_chunks', 0)}"
-            ]
-            
-            if all_keywords:
-                summary_parts.append(f"Keywords: {all_keywords}")
-            if all_concepts:
-                summary_parts.append(f"Concepts: {all_concepts}")
-            if all_quotes:
-                summary_parts.append(f"Key Quotes: {all_quotes}")
-            if all_questions:
-                summary_parts.append(f"Questions: {all_questions}")
-            
-            # Aggiungi summary del summary se esiste
-            unit_meta = summary_data.get('unit_metadata', {})
-            unit_summary = unit_meta.get('summary', '')
-            if unit_summary:
-                summary_parts.append(f"\nOverview: {unit_summary}")
-            
-            text = '\n'.join(summary_parts)
-            
-            if text:
-                texts_to_encode.append(text)
-                text_ids.append(('summary', summary_id))
-        
-        print(f"   ✅ {len([x for x in text_ids if x[0] == 'summary'])} Summaries preparati")
+        qa_count = len([x for x in text_ids if x[0] == 'qa'])
+        print(f"   ✅ {qa_count} Q&A preparati")
+        print(f"   📊 Totale testi: {len(texts_to_encode)}\n")
         
         if not texts_to_encode:
             print("❌ Nessun testo da codificare!")
@@ -360,42 +344,24 @@ class EmbeddingsGenerator:
         # Salva embeddings
         print("\n💾 Salvataggio embeddings...")
         
-        # Prepara dati chunks per salvataggio (con contenuto originale)
+        # Prepara dati chunks per salvataggio (formato Teklab - messages array)
         chunks_data = {}
-        for cap_name, chunks in self.chunks.items():
+        for category, chunks in self.chunks.items():
             for chunk in chunks:
-                chunk_id = f"{cap_name}|{chunk.get('chunk_id', '')}"
+                chunk_id = chunk.get('chunk_id', '')
                 
-                # IMPORTANTE: Assicura che ci sia 'original_text' per il chatbot
-                if 'original_text' not in chunk:
-                    # Estrai da messages[1] (user prompt) se non c'è
-                    messages = chunk.get('messages', [])
-                    if len(messages) > 1 and messages[1].get('role') == 'user':
-                        # Il testo originale è nel prompt user dopo "Complete text:"
-                        user_content = messages[1].get('content', '')
-                        if 'Complete text:' in user_content:
-                            original_text = user_content.split('Complete text:')[-1].strip()
-                            chunk['original_text'] = original_text
-                        else:
-                            chunk['original_text'] = user_content
-                
-                chunks_data[chunk_id] = chunk  # Salva chunk con original_text aggiunto
+                # Salva chunk completo (con messages array per il chatbot)
+                chunks_data[chunk_id] = chunk
         
+        # Assegna embeddings agli ID corrispondenti
         for (text_type, text_id), embedding in zip(text_ids, embeddings):
             if text_type == 'chunk':
                 self.chunk_embeddings[text_id] = embedding
             elif text_type == 'qa':
                 self.qa_embeddings[text_id] = embedding
-            elif text_type == 'natural_q':
-                # Natural questions condividono lo spazio con Q&A
-                self.qa_embeddings[text_id] = embedding
-            elif text_type == 'summary':
-                # Summary embeddings in spazio dedicato
-                self.summary_embeddings[text_id] = embedding
         
         print(f"   ✅ Chunks: {len(self.chunk_embeddings)}")
-        print(f"   ✅ Q&A + Natural Questions: {len(self.qa_embeddings)}")
-        print(f"   ✅ Summaries: {len(self.summary_embeddings)}")
+        print(f"   ✅ Q&A: {len(self.qa_embeddings)}")
         
         # Salva cache
         print(f"\n💾 Salvataggio cache in {EMBEDDINGS_CACHE_PATH.name}...")
@@ -407,9 +373,7 @@ class EmbeddingsGenerator:
                 pickle.dump({
                     'chunk_embeddings': self.chunk_embeddings,
                     'qa_embeddings': self.qa_embeddings,
-                    'summary_embeddings': self.summary_embeddings,  # NUOVO
                     'chunks_data': chunks_data,  # Dati originali chunks
-                    'summaries_data': self.summaries,  # NUOVO: Dati summaries
                     'model': EMBEDDING_MODEL
                 }, f)
             
@@ -434,14 +398,12 @@ class EmbeddingsGenerator:
             
             chunk_emb = cache.get('chunk_embeddings', {})
             qa_emb = cache.get('qa_embeddings', {})
-            summary_emb = cache.get('summary_embeddings', {})
             model_used = cache.get('model', 'unknown')
             
             print("\n✅ CACHE VALIDA:")
             print(f"   • Modello: {model_used}")
             print(f"   • Chunks: {len(chunk_emb)}")
             print(f"   • Q&A: {len(qa_emb)}")
-            print(f"   • Summaries: {len(summary_emb)}")
             
             # Mostra dimensione file
             size_mb = EMBEDDINGS_CACHE_PATH.stat().st_size / (1024 * 1024)

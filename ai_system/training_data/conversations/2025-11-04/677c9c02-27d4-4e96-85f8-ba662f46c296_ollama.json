@@ -1,0 +1,34 @@
+{
+  "session_id": "677c9c02-27d4-4e96-85f8-ba662f46c296",
+  "timestamp": "2025-11-04T18:28:40.810965",
+  "total_turns": 2,
+  "engine": "ollama",
+  "turns": [
+    {
+      "timestamp": "2025-11-04T18:20:00.018370",
+      "user": "'cosa sai del tk3?'",
+      "assistant": "Per il tuo sistema con TK3, posso fornirti alcune informazioni importanti.\n\nIl TK3 è un controller di livello liquido alettato che offre una precisione e una risposta rapida. È dotato di una interfaccia MODBUS 5.0 per garantire una comunicazione facile e stabile con il sistema di controllo.\n\nIl TK3 supporta una vasta gamma di refrigeranti, tra cui HFC, HCFC e CO2, e opera nel range di -40°C a +125°C. La sua velocità di risposta è immediata, consentendoti di monitorare i livelli liquidi con precisione.\n\nInoltre, il TK3 è dotato di un timer programmabile per filtrare transient e garantire una lettura precisa anche in condizioni di movimento o turbolenza.\n\nLa nostra esperienza nel campo dei sensori di livello liquido ci ha portati a sviluppare una gamma completa di prodotti che possono soddisfare le tue esigenze specifiche. Se hai bisogno di ulteriore informazione o vuoi discutere la possibilità di installare un sistema TK3, sono qui per aiutarti.\n\n**Specifica tecnica:**\n- Tipo di refrigerante supportato: HFC, HCFC e CO2\n- Range operativo: -40°C a +125°C\n- Risposta rapida: immediata\n- Timer programmabile: sì",
+      "rag_context": "",
+      "retrieved_chunks": [],
+      "timing_metrics": {
+        "retrieval_time": 0.108,
+        "generation_time": 20.27,
+        "total_time": 20.378
+      },
+      "engine": "ollama"
+    },
+    {
+      "timestamp": "2025-11-04T18:23:55.332168",
+      "user": "cosa sai del tk4?",
+      "assistant": "Per il tuo sistema con TK4, posso fornirti alcune informazioni importanti.\n\nIl TK4 è un controller di livello liquido alettato che offre una precisione e una risposta rapida, oltre a una ampia gamma di funzionalità avanzate. È dotato di un'interfaccia MODBUS 5.0 per garantire una comunicazione facile e stabile con il sistema di controllo.\n\nIl TK4 supporta la maggior parte dei refrigeranti comunemente utilizzati, tra cui HFC, HCFC, CO2, R134a e R1234yf, e opera nel range di -40°C a +125°C. La sua velocità di risposta è immediata, consentendoti di monitorare i livelli liquidi con precisione.\n\nInoltre, il TK4 è dotato di un timer programmabile per filtrare transient e garantire una lettura precisa anche in condizioni di movimento o turbolenza. È anche equipaggiato con un sistema di allerta avanzato che può essere configurato per avvisarti in caso di anomalie o assenze di flusso.\n\nLa nostra esperienza nel campo dei sensori di livello liquido ci ha portati a sviluppare una gamma completa di prodotti che possono soddisfare le tue esigenze specifiche. Se hai bisogno di ulteriore informazione o vuoi discutere la possibilità di installare un sistema TK4, sono qui per aiutarti.\n\n**Specifica tecnica:**\n- Tipo di refrigerante supportato: HFC, HCFC, CO2, R134a e R1234yf\n- Range operativo: -40°C a +125°C\n- Risposta rapida: immediata\n- Timer programmabile: sì\n- Sistema di allerta avanzato: sì",
+      "rag_context": "",
+      "retrieved_chunks": [],
+      "timing_metrics": {
+        "retrieval_time": 0.066,
+        "generation_time": 21.851,
+        "total_time": 21.916
+      },
+      "engine": "ollama"
+    }
+  ]
+}

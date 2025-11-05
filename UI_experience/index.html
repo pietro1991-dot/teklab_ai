@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spirituality AI - Chat Assistant</title>
+    <title>Teklab AI - Technical Assistant</title>
     
     <!-- Favicon -->
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌟</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔧</text></svg>">
     
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/main.css">
@@ -80,8 +80,9 @@
                 </button>
                 
                 <div class="header-title">
-                    <span class="logo-emoji">🌟</span>
-                    <h1>Spirituality AI</h1>
+                    <span class="logo-emoji">🔧</span>
+                    <h1>Teklab AI</h1>
+                    <span class="queue-status" id="queueStatus" style="display: none; margin-left: 15px; font-size: 14px; color: #666;"></span>
                 </div>
                 
                 <button class="btn-new-chat-mobile" id="newChatBtnMobile">
@@ -99,30 +100,30 @@
                     <div class="welcome-screen" id="welcomeScreen">
                         <div class="welcome-content">
                             <div class="logo-large">
-                                <span class="logo-emoji-large">🌟</span>
-                                <h2>Spirituality AI</h2>
+                                <span class="logo-emoji-large">🔧</span>
+                                <h2>Teklab AI</h2>
                             </div>
-                            <p class="welcome-subtitle">La tua guida spirituale personale</p>
+                            <p class="welcome-subtitle">Your Technical Sales Assistant for Industrial Sensors</p>
                             
                             <div class="suggestions">
-                                <button class="suggestion-card" data-prompt="Come posso iniziare a meditare?">
-                                    <div class="suggestion-icon">🧘</div>
-                                    <div class="suggestion-text">Come posso iniziare a meditare?</div>
+                                <button class="suggestion-card" data-prompt="What's the difference between TK3+ and TK4?">
+                                    <div class="suggestion-icon">⚙️</div>
+                                    <div class="suggestion-text">TK3+ vs TK4 comparison</div>
                                 </button>
                                 
-                                <button class="suggestion-card" data-prompt="Spiegami cosa sono i chakra">
-                                    <div class="suggestion-icon">⚡</div>
-                                    <div class="suggestion-text">Spiegami cosa sono i chakra</div>
+                                <button class="suggestion-card" data-prompt="Which sensor for R410A refrigerant?">
+                                    <div class="suggestion-icon">❄️</div>
+                                    <div class="suggestion-text">R410A sensor selection</div>
                                 </button>
                                 
-                                <button class="suggestion-card" data-prompt="Cos'è il terzo occhio?">
-                                    <div class="suggestion-icon">👁️</div>
-                                    <div class="suggestion-text">Cos'è il terzo occhio?</div>
+                                <button class="suggestion-card" data-prompt="What are ATEX requirements for ammonia?">
+                                    <div class="suggestion-icon">⚠️</div>
+                                    <div class="suggestion-text">ATEX for ammonia systems</div>
                                 </button>
                                 
-                                <button class="suggestion-card" data-prompt="Come risvegliare la kundalini?">
-                                    <div class="suggestion-icon">🐍</div>
-                                    <div class="suggestion-text">Come risvegliare la kundalini?</div>
+                                <button class="suggestion-card" data-prompt="How does MODBUS communication work?">
+                                    <div class="suggestion-icon">�</div>
+                                    <div class="suggestion-text">MODBUS setup guide</div>
                                 </button>
                             </div>
                         </div>
@@ -139,7 +140,7 @@
                         <textarea 
                             id="messageInput" 
                             class="message-input" 
-                            placeholder="Message Spirituality AI..."
+                            placeholder="Message Teklab AI..."
                             rows="1"
                             maxlength="2000"
                         ></textarea>
@@ -158,7 +159,7 @@
                     
                     <div class="input-footer">
                         <span class="footer-text">
-                            Spirituality AI può commettere errori. Verifica le informazioni importanti.
+                            Teklab AI can make mistakes. Verify technical specifications with official documentation.
                         </span>
                     </div>
                 </div>

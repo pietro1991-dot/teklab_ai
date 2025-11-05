@@ -48,99 +48,6 @@ Provide accurate, professional information about:
 
 Be concise and technical. Use the provided context to answer accurately."""
 
-# ============================================================================
-# REQUEST QUEUE SYSTEM per Multi-User Support
-# ============================================================================
-class RequestQueue:
-    """
-    Gestisce coda FIFO di richieste per Ollama (single-threaded).
-    Previene timeout con più utenti concorrenti.
-    """
-    def __init__(self, max_concurrent=1):
-        self.queue = deque()
-        self.active_requests = {}  # session_id -> request_info
-        self.request_counter = 0
-        self.max_concurrent = max_concurrent
-        self.lock = threading.Lock()
-        
-    def enqueue(self, session_id, data):
-        """Accoda nuova richiesta e restituisce request_id"""
-        with self.lock:
-            self.request_counter += 1
-            request_id = self.request_counter
-            
-            self.queue.append({
-                'session_id': session_id,
-                'request_id': request_id,
-                'data': data,
-                'status': 'queued',
-                'enqueued_at': datetime.now()
-            })
-            
-            logger.info(f"🔵 Request #{request_id} enqueued for session {session_id[:8]}... (queue size: {len(self.queue)})")
-            return request_id
-    
-    def get_position(self, request_id):
-        """Restituisce posizione nella coda (1-indexed) o 0 se in processing"""
-        with self.lock:
-            # Check se in processing
-            for sid, info in self.active_requests.items():
-                if info.get('request_id') == request_id:
-                    return 0  # In processing
-            
-            # Check posizione in coda
-            for idx, req in enumerate(self.queue):
-                if req['request_id'] == request_id:
-                    return idx + 1
-            
-            return -1  # Non trovato (completato o errore)
-    
-    def can_process(self):
-        """Verifica se si può processare una nuova richiesta"""
-        with self.lock:
-            return len(self.active_requests) < self.max_concurrent
-    
-    def start_processing(self, request_id):
-        """Marca richiesta come in processing e la rimuove dalla coda"""
-        with self.lock:
-            for idx, req in enumerate(self.queue):
-                if req['request_id'] == request_id:
-                    req['status'] = 'processing'
-                    req['started_at'] = datetime.now()
-                    self.active_requests[req['session_id']] = req
-                    self.queue.remove(req)
-                    logger.info(f"🟢 Request #{request_id} started processing (queue: {len(self.queue)})")
-                    return req
-            return None
-    
-    def finish_processing(self, session_id):
-        """Rimuove richiesta da processing"""
-        with self.lock:
-            if session_id in self.active_requests:
-                req = self.active_requests.pop(session_id)
-                logger.info(f"✅ Request #{req['request_id']} completed for session {session_id[:8]}...")
-                return True
-            return False
-    
-    def get_next_request(self):
-        """Restituisce prossima richiesta da processare (FIFO)"""
-        with self.lock:
-            if self.queue and self.can_process():
-                return self.queue[0]
-        return None
-
-# Istanza globale della coda
-request_queue = RequestQueue(max_concurrent=1)
-
-# Session storage per conversation history
-_conversation_sessions = {}  # session_id -> conversation_history
-
-def get_session_id():
-    """Ottieni o crea session ID per utente"""
-    if 'session_id' not in session:
-        session['session_id'] = str(uuid.uuid4())
-    return session['session_id']
-
 # Ollama configuration
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3.2:3b"
@@ -163,35 +70,14 @@ def load_embeddings():
             _embeddings_cache = pickle.load(f)
         
         # Carica modello per query encoding (FORZA CPU)
-        # SKIP se offline o problemi di rete
-        try:
-            from sentence_transformers import SentenceTransformer
-            import os
-            
-            logger.info("   Device: CPU (GPU riservata per Llama)")
-            logger.info("   ⏳ Caricamento modello embeddings da cache locale...")
-            
-            # FORZA OFFLINE MODE - usa solo cache locale (no download)
-            os.environ['TRANSFORMERS_OFFLINE'] = '1'
-            os.environ['HF_HUB_OFFLINE'] = '1'
-            
-            _model_embeddings = SentenceTransformer(
-                'sentence-transformers/all-mpnet-base-v2', 
-                device='cpu',
-                local_files_only=True  # USA SOLO CACHE LOCALE
-            )
-            
-            chunk_count = len(_embeddings_cache.get('chunk_embeddings', {}))
-            qa_count = len(_embeddings_cache.get('qa_embeddings', {}))
-            logger.info(f"✅ Embeddings caricati: {chunk_count} chunks, {qa_count} Q&A")
-            return True
-            
-        except (Exception, KeyboardInterrupt) as e:
-            logger.warning(f"⚠️  Impossibile caricare modello embeddings: {type(e).__name__}")
-            logger.warning("   Il chatbot funzionerà SENZA ricerca semantica RAG")
-            logger.warning("   (Usa solo Ollama senza contesto documenti)")
-            _model_embeddings = None
-            return False
+        from sentence_transformers import SentenceTransformer
+        logger.info("   Device: CPU (GPU riservata per Llama)")
+        _model_embeddings = SentenceTransformer('sentence-transformers/all-mpnet-base-v2', device='cpu')
+        
+        chunk_count = len(_embeddings_cache.get('chunk_embeddings', {}))
+        qa_count = len(_embeddings_cache.get('qa_embeddings', {}))
+        logger.info(f"✅ Embeddings caricati: {chunk_count} chunks, {qa_count} Q&A")
+        return True
         
     except FileNotFoundError:
         logger.error(f"❌ Cache embeddings non trovata: {EMBEDDINGS_CACHE}")
@@ -220,11 +106,6 @@ def check_ollama():
 def search_relevant_chunks(query, top_k=2):
     """Ricerca semantica nei chunks usando embeddings - OTTIMIZZATA"""
     if not load_embeddings():
-        return []
-    
-    # Check se modello embeddings è disponibile
-    if _model_embeddings is None:
-        logger.warning("⚠️  Modello embeddings non disponibile - skip RAG search")
         return []
     
     # Genera embedding della query
@@ -560,7 +441,6 @@ def chat_stream():
                     time.sleep(0.5)  # Check ogni 500ms
                 
                 # Ora possiamo processare (abbiamo il lock su Ollama)
-                logger.info(f"🟢 Processing request #{request_id} - searching RAG chunks...")
                 
                 # Cerca chunks rilevanti
                 relevant_chunks = search_relevant_chunks(user_message, top_k=5)
@@ -601,8 +481,13 @@ RESPONSE GUIDELINES:
 6. HONEST: If documentation doesn't cover the question fully, say "I recommend contacting Teklab support for detailed specs on..."
 
 TEKLAB ASSISTANT RESPONSE:"""
-                else:
-                    full_prompt = f"""CUSTOMER QUESTION: {user_message}
+4. COMPLETE: Include key specs (pressure, temp range, refrigerants, outputs, certifications)
+5. PROFESSIONAL: Be consultative but concise (aim for 150-300 words)
+6. HONEST: If documentation doesn't cover the question fully, say "I recommend contacting Teklab support for detailed specs on..."
+
+TEKLAB ASSISTANT RESPONSE:"""
+        else:
+            full_prompt = f"""CUSTOMER QUESTION: {user_message}
 
 You are a Teklab technical assistant. The customer is asking about industrial sensors.
 Available products: TK series (TK1+, TK3+, TK4), LC series (LC-PS, LC-XP, LC-XT), ATEX sensors.
@@ -610,15 +495,16 @@ Available products: TK series (TK1+, TK3+, TK4), LC series (LC-PS, LC-XP, LC-XT)
 Provide a brief, professional answer. If you need specific technical details, ask the customer to clarify their application.
 
 ANSWER:"""
-                
+        
+        def generate():
+            """Generator function per streaming SSE"""
+            try:
                 # Invia sources prima della risposta
-                logger.info(f"📤 Sending sources to client ({len(relevant_chunks)} chunks)...")
                 sources_data = {
                     'type': 'sources',
                     'sources': [{'product': c['product'], 'category': c['category'], 'similarity': c['similarity']} for c in relevant_chunks]
                 }
                 yield f"data: {json.dumps(sources_data)}\n\n"
-                logger.info(f"✅ Sources sent via SSE")
                 
                 # Chiama Ollama con streaming
                 payload = {
@@ -633,10 +519,8 @@ ANSWER:"""
                     }
                 }
                 
-                logger.info(f"📡 Calling Ollama API (model: {OLLAMA_MODEL})...")
                 response = requests.post(OLLAMA_URL, json=payload, stream=True, timeout=120)
                 response.raise_for_status()
-                logger.info(f"✅ Ollama responded, streaming tokens...")
                 
                 # Stream chunks progressivi
                 for line in response.iter_lines():
@@ -676,11 +560,6 @@ ANSWER:"""
                     'error': f'Errore generazione: {str(e)}'
                 }
                 yield f"data: {json.dumps(error_data)}\n\n"
-            
-            finally:
-                # ✅ RELEASE QUEUE LOCK quando finito (success o error)
-                request_queue.finish_processing(session_id)
-                logger.info(f"🔓 Session {session_id[:8]}... released Ollama lock")
         
         return Response(
             stream_with_context(generate()),
@@ -708,30 +587,6 @@ def health():
         'timestamp': datetime.now().isoformat(),
         'conversation_turns': len(_conversation_history)
     })
-
-
-@app.route('/queue/status', methods=['GET'])
-def queue_status():
-    """
-    Restituisce stato attuale della coda
-    Utile per monitoring e debug
-    """
-    with request_queue.lock:
-        return jsonify({
-            'queue_length': len(request_queue.queue),
-            'active_requests': len(request_queue.active_requests),
-            'max_concurrent': request_queue.max_concurrent,
-            'total_processed': request_queue.request_counter,
-            'queue_items': [
-                {
-                    'request_id': req['request_id'],
-                    'position': idx + 1,
-                    'enqueued_at': req['enqueued_at'].isoformat(),
-                    'status': req['status']
-                }
-                for idx, req in enumerate(request_queue.queue)
-            ]
-        })
 
 
 @app.route('/chat', methods=['POST'])
@@ -856,13 +711,13 @@ if __name__ == '__main__':
     
     # Verifica Ollama
     ollama_status = "✅ Attivo" if check_ollama() else "❌ Non disponibile"
-    # EMBEDDINGS: caricati LAZY (solo quando serve, non all'avvio)
+    embeddings_status = "✅ Caricati" if load_embeddings() else "❌ Non trovati"
     
-    print(f"\n🔍 Stato sistema:")
+    print(f"\n� Stato sistema:")
     print(f"   • Ollama {OLLAMA_MODEL}: {ollama_status}")
-    print(f"   • Embeddings RAG: Lazy loading (caricati al primo utilizzo)")
+    print(f"   • Embeddings RAG: {embeddings_status}")
     
-    print("\n📡 Server in avvio su http://localhost:5000")
+    print("\n�📡 Server in avvio su http://localhost:5000")
     print("💡 Apri UI_experience/index.html nel browser")
     print("\n✨ Endpoints disponibili:")
     print("   - POST   /chat      → Chat con Ollama + RAG")
@@ -873,14 +728,8 @@ if __name__ == '__main__':
     print("\n" + "="*70 + "\n")
     
     # Avvia server
-    try:
-        app.run(
-            host='0.0.0.0',  # Accessibile da qualsiasi interfaccia
-            port=5000,
-            debug=False,  # NO DEBUG per evitare crash reloader
-            threaded=True  # Supporto multi-threading per queue
-        )
-    except Exception as e:
-        print(f"\n❌ Errore avvio server: {e}")
-        import traceback
-        traceback.print_exc()
+    app.run(
+        host='0.0.0.0',  # Accessibile da qualsiasi interfaccia
+        port=5000,
+        debug=False  # NO DEBUG per evitare crash reloader
+    )

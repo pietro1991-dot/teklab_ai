@@ -1,9 +1,9 @@
 /**
- * SPIRITUALITY AI - Main Application
- * ChatGPT-like interface
+ * TEKLAB AI - Main Application
+ * ChatGPT-like interface for technical sales support
  */
 
-class SpiritualityAI {
+class TeklabAI {
     constructor() {
         // State
         this.currentConversation = null;
@@ -26,7 +26,8 @@ class SpiritualityAI {
             themeLabel: document.getElementById('themeLabel'),
             conversationsList: document.getElementById('conversationsList'),
             loadingOverlay: document.getElementById('loadingOverlay'),
-            toastContainer: document.getElementById('toastContainer')
+            toastContainer: document.getElementById('toastContainer'),
+            queueStatus: document.getElementById('queueStatus')
         };
 
         this.init();
@@ -36,7 +37,7 @@ class SpiritualityAI {
      * Inizializzazione
      */
     async init() {
-        console.log('🌟 Spirituality AI initializing...');
+        console.log('🔧 Teklab AI initializing...');
 
         // Load saved data
         this.loadSavedData();
@@ -50,7 +51,7 @@ class SpiritualityAI {
         // Auto-resize textarea
         this.setupAutoResize();
 
-        console.log('✅ Spirituality AI ready!');
+        console.log('✅ Teklab AI ready!');
     }
 
     /**
@@ -209,44 +210,194 @@ class SpiritualityAI {
         // Scroll to bottom
         this.scrollToBottom();
 
-        // Show typing indicator
+        // Show typing indicator (temporaneo, poi rimosso per streaming)
         this.showTypingIndicator();
         this.isTyping = true;
 
-        // Send to backend
-        const result = await API.sendMessage(text);
+        // Prepara messaggio bot vuoto per streaming
+        const botMessage = {
+            role: 'assistant',
+            content: '',  // Verrà riempito progressivamente
+            timestamp: new Date().toISOString(),
+            sources: []
+        };
 
-        // Hide typing indicator
+        this.currentConversation.messages.push(botMessage);
+
+        // Crea elemento DOM per messaggio bot (streaming progressivo)
+        const botMessageElement = this.createStreamingMessageElement();
+        this.elements.messagesContainer.appendChild(botMessageElement);
+
+        // Nascondi typing indicator (streaming lo sostituisce)
         this.hideTypingIndicator();
-        this.isTyping = false;
 
-        if (result.success) {
-            // Add bot response
-            const botMessage = {
-                role: 'assistant',
-                content: result.response,
-                timestamp: result.timestamp
-            };
+        // ⏱️ START TIMER
+        const startTime = Date.now();
+        let queueStartTime = null;
+        let processingStartTime = null;
 
-            this.currentConversation.messages.push(botMessage);
-            this.renderMessage(botMessage);
+        // 🔥 STREAMING - Invia messaggio con rendering progressivo
+        const result = await API.sendMessageStream(text, {
+            // 🔵 Callback per queue position (multi-user support)
+            onQueue: (position, message) => {
+                if (!queueStartTime) queueStartTime = Date.now();
+                const queueTime = ((Date.now() - startTime) / 1000).toFixed(1);
+                
+                // Mostra in header
+                this.updateQueueStatus(position, queueTime);
+                
+                // Mostra posizione in coda nel messaggio bot
+                botMessage.content = `⏳ ${message}\n⏱️ In attesa da ${queueTime}s`;
+                this.updateMessageContent(botMessageElement, botMessage.content);
+                this.scrollToBottom();
+            },
 
-            // Update conversation
-            this.currentConversation.updatedAt = new Date().toISOString();
-            this.saveConversations();
-            this.renderConversations();
+            // Callback per sources (arrivano per primi)
+            onSources: (sources) => {
+                if (!processingStartTime) processingStartTime = Date.now();
+                const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
+                const queueTime = queueStartTime ? ((processingStartTime - queueStartTime) / 1000).toFixed(1) : '0.0';
+                
+                // Cancella queue message se presente
+                if (botMessage.content.startsWith('⏳')) {
+                    botMessage.content = '';
+                }
+                
+                // Mostra tempo attesa se c'era coda
+                if (queueStartTime) {
+                    botMessage.content = `⏱️ Attesa in coda: ${queueTime}s\n🔄 Elaborazione in corso...\n\n`;
+                }
+                
+                botMessage.sources = sources;
+                this.updateMessageSources(botMessageElement, sources);
+            },
 
-        } else {
-            // Show error
+            // Callback per ogni token (word-by-word rendering)
+            onToken: (token) => {
+                botMessage.content += token;
+                this.updateMessageContent(botMessageElement, botMessage.content);
+                this.scrollToBottom();
+            },
+
+            // Callback quando completato
+            onDone: () => {
+                const totalTime = ((Date.now() - startTime) / 1000).toFixed(1);
+                const processingTime = processingStartTime ? ((Date.now() - processingStartTime) / 1000).toFixed(1) : totalTime;
+                
+                // Aggiungi timer finale al messaggio
+                botMessage.content += `\n\n---\n⏱️ Tempo totale: ${totalTime}s | Elaborazione: ${processingTime}s`;
+                this.updateMessageContent(botMessageElement, botMessage.content);
+                
+                // Nascondi queue status in header
+                this.updateQueueStatus(0, 0);
+                
+                this.isTyping = false;
+                this.currentConversation.updatedAt = new Date().toISOString();
+                this.saveConversations();
+                this.renderConversations();
+                this.scrollToBottom();
+                
+                console.log(`✅ Response completed in ${totalTime}s (queue: ${queueStartTime ? ((processingStartTime - queueStartTime) / 1000).toFixed(1) : 0}s, processing: ${processingTime}s)`);
+            },
+
+            // Callback errore
+            onError: (error) => {
+                this.isTyping = false;
+                this.hideTypingIndicator();
+                this.showToast(`Error: ${error}`, 'error', 5000);
+                
+                // Nascondi queue status
+                this.updateQueueStatus(0, 0);
+                
+                // Rimuovi messaggio bot vuoto
+                botMessageElement.remove();
+                this.currentConversation.messages.pop();
+            }
+        });
+
+        // Gestisci errore connection-level
+        if (!result.success && result.error) {
+            this.isTyping = false;
             this.showToast(`Error: ${result.error}`, 'error', 5000);
+            
+            // Rimuovi messaggio bot vuoto se non già rimosso
+            if (botMessageElement.parentNode) {
+                botMessageElement.remove();
+                this.currentConversation.messages.pop();
+            }
         }
 
-        // Scroll to bottom
+        // Scroll finale
         this.scrollToBottom();
     }
 
     /**
-     * Render messaggio
+     * Crea elemento DOM per messaggio streaming
+     */
+    createStreamingMessageElement() {
+        const messageDiv = document.createElement('div');
+        messageDiv.className = 'message';
+
+        const now = new Date();
+        const timeStr = now.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
+
+        messageDiv.innerHTML = `
+            <div class="message-avatar bot">🔧</div>
+            <div class="message-content">
+                <div class="message-header">
+                    <span class="message-sender">Teklab Assistant</span>
+                    <span class="message-time">${timeStr}</span>
+                </div>
+                <div class="message-text markdown-body"></div>
+                <div class="message-sources" style="display: none;"></div>
+            </div>
+        `;
+
+        return messageDiv;
+    }
+
+    /**
+     * Aggiorna contenuto messaggio (streaming progressivo)
+     */
+    updateMessageContent(messageElement, content) {
+        const textDiv = messageElement.querySelector('.message-text');
+        
+        // Render markdown progressivamente
+        if (window.marked) {
+            textDiv.innerHTML = marked.parse(content);
+        } else {
+            textDiv.textContent = content;
+        }
+
+        // Evidenzia codice se presente
+        if (window.hljs) {
+            textDiv.querySelectorAll('pre code').forEach((block) => {
+                hljs.highlightElement(block);
+            });
+        }
+    }
+
+    /**
+     * Aggiorna sources del messaggio
+     */
+    updateMessageSources(messageElement, sources) {
+        if (!sources || sources.length === 0) return;
+
+        const sourcesDiv = messageElement.querySelector('.message-sources');
+        sourcesDiv.style.display = 'block';
+
+        const sourcesList = sources.map(s => 
+            `<span class="source-tag">${s.product} (${(s.similarity * 100).toFixed(0)}%)</span>`
+        ).join('');
+
+        sourcesDiv.innerHTML = `
+            <div class="sources-label">📚 Sources:</div>
+            <div class="sources-list">${sourcesList}</div>
+        `;
+    }
+
+    /**
+     * Render messaggio (fallback per messaggi salvati)
      */
     renderMessage(message) {
         const messageDiv = document.createElement('div');
@@ -256,10 +407,10 @@ class SpiritualityAI {
 
         messageDiv.innerHTML = `
             <div class="message-avatar ${isBot ? 'bot' : 'user'}">
-                ${isBot ? '🌟' : '👤'}
+                ${isBot ? '🔧' : '👤'}
             </div>
             <div class="message-content">
-                <div class="message-role">${isBot ? 'Spirituality AI' : 'You'}</div>
+                <div class="message-role">${isBot ? 'Teklab Assistant' : 'You'}</div>
                 <div class="message-text">
                     ${Utils.formatMessage(message.content)}
                 </div>
@@ -305,30 +456,30 @@ class SpiritualityAI {
             welcomeScreen.innerHTML = `
                 <div class="welcome-content">
                     <div class="logo-large">
-                        <span class="logo-emoji-large">🌟</span>
-                        <h2>Spirituality AI</h2>
+                        <span class="logo-emoji-large">🔧</span>
+                        <h2>Teklab AI</h2>
                     </div>
-                    <p class="welcome-subtitle">La tua guida spirituale personale</p>
+                    <p class="welcome-subtitle">Your Technical Sales Assistant for Industrial Sensors</p>
                     
                     <div class="suggestions">
-                        <button class="suggestion-card" data-prompt="Come posso iniziare a meditare?">
-                            <div class="suggestion-icon">🧘</div>
-                            <div class="suggestion-text">Come posso iniziare a meditare?</div>
+                        <button class="suggestion-card" data-prompt="What's the difference between TK3+ and TK4?">
+                            <div class="suggestion-icon">⚙️</div>
+                            <div class="suggestion-text">TK3+ vs TK4 comparison</div>
                         </button>
                         
-                        <button class="suggestion-card" data-prompt="Spiegami cosa sono i chakra">
-                            <div class="suggestion-icon">⚡</div>
-                            <div class="suggestion-text">Spiegami cosa sono i chakra</div>
+                        <button class="suggestion-card" data-prompt="Which sensor for R410A refrigerant?">
+                            <div class="suggestion-icon">❄️</div>
+                            <div class="suggestion-text">R410A sensor selection</div>
                         </button>
                         
-                        <button class="suggestion-card" data-prompt="Cos'è il terzo occhio?">
-                            <div class="suggestion-icon">👁️</div>
-                            <div class="suggestion-text">Cos'è il terzo occhio?</div>
+                        <button class="suggestion-card" data-prompt="What are ATEX requirements for ammonia?">
+                            <div class="suggestion-icon">⚠️</div>
+                            <div class="suggestion-text">ATEX for ammonia systems</div>
                         </button>
                         
-                        <button class="suggestion-card" data-prompt="Come risvegliare la kundalini?">
-                            <div class="suggestion-icon">🐍</div>
-                            <div class="suggestion-text">Come risvegliare la kundalini?</div>
+                        <button class="suggestion-card" data-prompt="How does MODBUS communication work?">
+                            <div class="suggestion-icon">📡</div>
+                            <div class="suggestion-text">MODBUS setup guide</div>
                         </button>
                     </div>
                 </div>
@@ -361,9 +512,9 @@ class SpiritualityAI {
         indicator.className = 'message';
         indicator.id = 'typingIndicator';
         indicator.innerHTML = `
-            <div class="message-avatar bot">🌟</div>
+            <div class="message-avatar bot">🔧</div>
             <div class="message-content">
-                <div class="message-role">Spirituality AI</div>
+                <div class="message-role">Teklab Assistant</div>
                 <div class="typing-indicator">
                     <span class="typing-dot"></span>
                     <span class="typing-dot"></span>
@@ -390,6 +541,21 @@ class SpiritualityAI {
      */
     scrollToBottom(smooth = true) {
         Utils.scrollToBottom(this.elements.messagesContainer.parentElement, smooth);
+    }
+
+    /**
+     * Update queue status in header
+     */
+    updateQueueStatus(position, timeInQueue) {
+        if (!this.elements.queueStatus) return;
+        
+        if (position > 0) {
+            this.elements.queueStatus.innerHTML = `⏳ Posizione ${position} in coda (${timeInQueue}s)`;
+            this.elements.queueStatus.style.display = 'inline';
+            this.elements.queueStatus.style.color = '#ff6b6b';
+        } else {
+            this.elements.queueStatus.style.display = 'none';
+        }
     }
 
     /**
@@ -580,5 +746,5 @@ class SpiritualityAI {
 
 // Initialize app when DOM ready
 document.addEventListener('DOMContentLoaded', () => {
-    window.app = new SpiritualityAI();
+    window.app = new TeklabAI();
 });

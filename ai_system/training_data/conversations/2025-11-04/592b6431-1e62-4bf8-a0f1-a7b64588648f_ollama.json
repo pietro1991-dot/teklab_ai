@@ -1,0 +1,49 @@
+{
+  "session_id": "592b6431-1e62-4bf8-a0f1-a7b64588648f",
+  "timestamp": "2025-11-04T19:10:26.070991",
+  "total_turns": 1,
+  "engine": "ollama",
+  "turns": [
+    {
+      "timestamp": "2025-11-04T19:07:23.165849",
+      "user": "cosa sai del tk3?",
+      "assistant": "Per il tuo sistema con R134a a 50 bar o CO2 transcritical a 90-100 bar, ti consiglio di utilizzare **TK3+ 130 bar**. Questo controller di livello d'olio è specificamente progettato per applicazioni ad alta pressione e ha una capacità di lavoro di 130 bar, rendendolo ideale per i sistemi CO2 transcritical.\n\nIl TK3+ 130 bar offre una garanzia di sicurezza con un margine di sicurezza del 30% rispetto alla pressione massima operativa (100 bar). È anche dotato di tecnologia electro-optica IR di alta precisione (+/- 2mm), che consente un'accuratezza elevata nel rilevamento del livello dell'olio.\n\nQuesto controller è progettato per gestire le variazioni di pressione e temperatura tipiche delle applicazioni CO2 transcritical, mantenendo un livello di sicurezza elevato. È anche dotato di una soluzione automatica di riempimento dell'olio tramite valvola solenoide e di un rilascio di segnale 4-20mA per la monitoraggio analogico.\n\nIl TK3+ 130 bar è stato progettato in base alle caratteristiche specifiche del sistema CO2 transcritical, mantenendo una temperatura operativa di -40°C a +125°C. È anche dotato di un'ipermessura (IP65) e di una protezione contro correnti elettriche.\n\nIn sintesi, il TK3+ 130 bar è l'opzione ideale per le tue applicazioni CO2 transcritical a 90-100 bar. Ti consiglio di utilizzarlo per garantire la sicurezza e la stabilità del tuo sistema.",
+      "rag_context": "[Product: TK3+ 130bar]\nFor CO2 transcritical systems operating at 90-100 bar, you need the **TK3+ 130 bar** - Teklab's high-pressure oil level controller specifically engineered for ultra-high-pressure applications.\n\n**TK3+ 130 bar: Built for CO2 Transcritical**\n\n**Pressure Capability:**\n- **Maximum working pressure: 130 bar**\n- Designed for CO2 transcritical systems (80-120 bar typical)\n- Comfortable safety margin even at 100 bar operating pressure\n- Reinforced construction for extreme pressure service\n\n**Why 130 bar is essential for CO2:**\n\n**CO2 system characteristics:**\n- **Operating pressure:** 80-100 bar (high-pressure side)\n- **Transcritical operation:** Above CO2 critical point (73.8 bar)\n- **Pressure variability:** Changes significantly with ambient temperature\n- **Peak pressure:** Can reach 110-120 bar during hot days\n- **Required sensor rating:** 130 bar minimum for safe operation\n\n**What happens with lower-rated sensors:**\n\n❌ **46 bar sensor on CO2 system:**\n- Catastrophic failure immediately\n- Sensor rupture, massive oil leak\n- Compressor damage from oil loss\n- **NEVER use on CO2**\n\n❌ **80 bar sensor on CO2 system:**\n- Marginal at 90-100 bar operating pressure\n- No safety margin for pressure spikes\n- Risk of failure during peak conditions\n- **NOT RECOMMENDED for CO2**\n\n✅ **130 bar sensor on CO2 system:**\n- **Proper rating for 90-100 bar operation**\n- 30% safety margin at 100 bar\n- Handles pressure spikes safely\n- **REQUIRED for CO2 transcritical**\n\n**TK3+ 130 bar Technical Specifications:**\n\n**Pressure & Temperature:**\n- Maximum pressure: **130 bar**\n- Temperature range: -40°C to +125°C\n- Designed for CO2 transcritical environments\n- Reinforced seals and housing\n\n**Detection & Control:**\n- Electro-optic IR detection: ±2mm accuracy\n- Automatic oil filling via solenoid valve\n- Relay output: Oil LOW alarm (5A @ 250V AC)\n- 4-20mA output: Analog monitoring (optional)\n- Programmable timer: 3-10 seconds (adjustable for CO2 oil behavior)\n\n**Construction:**\n- Heavy-duty housing rated for 130 bar\n- Pressure-rated seals and O-rings\n- Stainless steel components (CO2 compatibility)\n- IP65 protection\n- Power: 24V DC\n\n**CO2 Transcritical System Application:**\n\n**Typical supermarket CO2 rack:**\n- 6-8 compressors in parallel\n- High-pressure side: 90-100 bar\n- Low-pressure side: 30-40 bar\n- Oil separator on high-pressure side\n- **Oil separator requires 130 bar sensor**\n\n**Installation points:**\n\n**High-pressure oil separator:** (90-100 bar)\n- **TK3+ 130 bar MANDATORY**\n- Automatic oil return to compressors\n- Critical for system reliability\n- Failure = compressor oil starvation\n\n**Individual compressors:** (if direct monitoring)\n- **TK3+ 130 bar recommended**\n- Some compressors have lower-pressure oil sumps\n- Verify actual pressure before specifying\n\n**Low-pressure receiver:** (30-40 bar)\n- TK3+ 80 bar sufficient\n- 130 bar also acceptable (over-spec)\n\n**CO2 Oil Characteristics:**\n\n**Oil type:**\n- POE (polyolester) oil for CO2 systems\n- Good miscibility with CO2\n- Can foam under certain conditions\n- Compatible with Teklab IR sensor\n\n**Oil behavior in CO2 systems:**\n- CO2 dissolves in oil → affects viscosity\n- Pressure changes → CO2 comes out of solution → foaming\n- **Requires programmable timer: 7-10 seconds**\n- Filters foam-related false alarms\n\n**Why TK3+ for CO2 Transcritical:**\n\n✅ **Automatic oil management**\n- CO2 racks critical for oil return\n- Oil migration to low-pressure side common\n- TK3+ maintains proper oil level automatically\n- Prevents compressor failure from oil starvation\n\n✅ **Pressure safety**\n- 130 bar rating handles extreme CO2 pressures\n- Reinforced construction for long-term reliability\n- No risk of pressure-related sensor failure\n\n✅ **4-20mA monitoring** (optional)\n- Track oil levels across entire rack\n- Detect oil migration patterns\n- PLC integration for centralized monitoring\n- Early warning of oil distribution issues\n\n✅ **Proven reliability**\n- 10+ year lifespan even at high pressure\n- ±2mm accuracy maintains\n\n[... Additional technical details available on request ...]",
+      "retrieved_chunks": [
+        {
+          "chunk_id": "Teklab/products/tk3_130bar_001",
+          "similarity_score": 0.2904,
+          "source": "Teklab",
+          "product": "TK3+ 130bar",
+          "category": "products",
+          "chunk_type": "unknown",
+          "type": "chunk"
+        },
+        {
+          "chunk_id": "Teklab/support/tk3_vs_tk4_comparison_guide",
+          "similarity_score": 0.287,
+          "source": "Teklab",
+          "product": "TK4 MODBUS",
+          "category": "support",
+          "chunk_type": "support",
+          "type": "chunk"
+        },
+        {
+          "chunk_id": "Teklab/products/tk3_plus_130bar_co2_controller",
+          "similarity_score": 0.2812,
+          "source": "Teklab",
+          "product": "TK3+ 130bar",
+          "category": "products",
+          "chunk_type": "product_overview",
+          "type": "chunk"
+        }
+      ],
+      "timing_metrics": {
+        "retrieval_time": 0.113,
+        "generation_time": 33.333,
+        "total_time": 33.446
+      },
+      "engine": "ollama"
+    }
+  ]
+}

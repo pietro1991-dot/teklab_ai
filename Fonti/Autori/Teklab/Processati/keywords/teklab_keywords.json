@@ -1,0 +1,266 @@
+{
+  "keywords_type": "consolidated_technical_terminology",
+  "last_updated": "2025-11-04",
+  "total_keywords": 150,
+  
+  "product_names": {
+    "oil_level_controllers": [
+      "TK1+", "TK1 plus",
+      "TK3+", "TK3 plus", "TK3+ 46bar", "TK3+ 80bar", "TK3+ 130bar",
+      "TK4", "TK4 standard", "TK4 MODBUS", "TK4 46bar", "TK4 80bar", "TK4 130bar",
+      "oil level controller", "oil level sensor", "oil level switch",
+      "oil monitor", "oil management system", "oil alarm switch"
+    ],
+    
+    "liquid_level_sensors": [
+      "LC-PS", "LC-PH", "LC-XP", "LC-XT",
+      "level switch", "level sensor", "level controller",
+      "liquid level detector", "liquid level monitor"
+    ],
+    
+    "atex_products": [
+      "ATEX sensor", "ATEX metallic IR", "ATEX infrared",
+      "explosive atmosphere sensor", "hazardous area sensor",
+      "intrinsically safe sensor", "Zone 1 sensor", "Zone 2 sensor"
+    ],
+    
+    "specialty": [
+      "K25", "K25 4-20mA", "Rotalock", "RLK",
+      "adapters", "flanges", "mounting adapters"
+    ]
+  },
+  
+  "technologies": {
+    "detection_methods": [
+      "infrared", "IR", "electro-optic", "optical",
+      "photoelectric", "IR detection", "infrared sensor",
+      "electro-optic infrared", "light refraction",
+      "optical level detection", "IR beam", "infrared technology"
+    ],
+    
+    "vs_alternatives": [
+      "mechanical float", "float switch", "float sensor",
+      "capacitive sensor", "capacitive probe",
+      "conductivity probe", "electrode sensor",
+      "ultrasonic sensor", "radar sensor"
+    ],
+    
+    "key_advantages": [
+      "no moving parts", "solid state", "no wear parts",
+      "instantaneous response", "fast response", "real-time detection",
+      "high accuracy", "±2mm accuracy", "precision detection",
+      "programmable timer", "transient filtering", "delay timer",
+      "no recalibration", "calibration-free", "maintenance-free"
+    ]
+  },
+  
+  "pressure_specifications": {
+    "pressure_ratings": [
+      "46 bar", "80 bar", "130 bar",
+      "667 psi", "1160 psi", "1885 psi",
+      "4.6 MPa", "8.0 MPa", "13.0 MPa",
+      "medium pressure", "high pressure", "very high pressure",
+      "up to 120 bar", "up to 100 bar"
+    ],
+    
+    "pressure_terminology": [
+      "maximum operating pressure", "max pressure", "pressure rating",
+      "working pressure", "pressure class",
+      "discharge pressure", "condensing pressure", "high side pressure",
+      "evaporating pressure", "suction pressure", "low side pressure",
+      "safety margin", "safety factor", "derating"
+    ]
+  },
+  
+  "refrigeration": {
+    "refrigerants": [
+      "R134a", "R404A", "R407C", "R410A", "R507", "R22", "R123",
+      "CO2", "R744", "carbon dioxide", "transcritical CO2",
+      "HFC", "HCFC", "CFC", "natural refrigerant",
+      "ammonia", "R717", "propane", "isobutane"
+    ],
+    
+    "compressor_types": [
+      "reciprocating compressor", "scroll compressor", "screw compressor",
+      "rotary compressor", "centrifugal compressor",
+      "semi-hermetic compressor", "hermetic compressor",
+      "open compressor", "CO2 compressor"
+    ],
+    
+    "compressor_brands": [
+      "Bitzer", "Copeland", "Carrier", "Dorin", "Frascold",
+      "GEA Bock", "Danfoss", "Emerson", "Tecumseh", "Embraco"
+    ],
+    
+    "refrigeration_systems": [
+      "refrigeration system", "HVAC", "cooling system",
+      "chiller", "refrigeration plant", "cold storage",
+      "industrial refrigeration", "commercial refrigeration",
+      "rack system", "compressor rack", "parallel compressors",
+      "oil separator", "oil reservoir", "crankcase"
+    ]
+  },
+  
+  "outputs_and_communication": {
+    "output_types": [
+      "relay", "relay contact", "relay output", "contact closure",
+      "normally open", "NO", "normally closed", "NC",
+      "dry contact", "alarm contact",
+      "4-20mA", "analog output", "current loop", "analog signal",
+      "MODBUS", "MODBUS RTU", "RS485", "industrial protocol",
+      "fieldbus", "serial communication"
+    ],
+    
+    "integration": [
+      "PLC", "programmable logic controller", "industrial controller",
+      "SCADA", "supervisory control", "HMI", "human machine interface",
+      "BMS", "building management system", "control system",
+      "remote monitoring", "centralized monitoring", "distant monitoring",
+      "automation", "process control", "system integration"
+    ]
+  },
+  
+  "installation_and_mounting": {
+    "mounting": [
+      "flange", "dual pitch flange", "direct mounting",
+      "crankcase mounting", "tank mounting", "vessel mounting",
+      "top mount", "side mount", "bottom mount",
+      "adapter", "mounting adapter", "Rotalock connection",
+      "threaded connection", "compression fitting"
+    ],
+    
+    "wiring": [
+      "24V DC", "power supply", "voltage",
+      "wiring", "cable", "twisted pair", "shielded cable",
+      "termination", "termination resistor", "120 ohm",
+      "polarity", "ground", "shielding", "EMI", "interference"
+    ]
+  },
+  
+  "applications": {
+    "use_cases": [
+      "oil level monitoring", "oil management", "oil balancing",
+      "automatic oil filling", "oil replenishment", "oil control",
+      "compressor protection", "lubrication protection",
+      "liquid level control", "level detection", "level alarm",
+      "oil separator monitoring", "reservoir monitoring",
+      "preventive maintenance", "predictive maintenance"
+    ],
+    
+    "industries": [
+      "food processing", "cold storage", "supermarket",
+      "industrial", "commercial", "pharmaceutical",
+      "chemical processing", "petrochemical",
+      "HVAC", "refrigeration", "air conditioning"
+    ],
+    
+    "environments": [
+      "explosive atmosphere", "hazardous area", "ATEX zone",
+      "Zone 1", "Zone 2", "intrinsically safe",
+      "high vibration", "extreme temperature", "high pressure",
+      "harsh environment", "corrosive", "outdoor"
+    ]
+  },
+  
+  "features_and_benefits": {
+    "key_features": [
+      "programmable timer", "delay timer", "transient filter",
+      "foam filtering", "bubble detection", "wave filtering",
+      "temperature monitoring", "temp sensor", "thermal monitoring",
+      "diagnostics", "status reporting", "health monitoring",
+      "remote configuration", "remote access", "remote control",
+      "data logging", "trend analysis", "oil consumption tracking"
+    ],
+    
+    "benefits": [
+      "reliability", "long lifespan", "durability",
+      "accuracy", "precision", "repeatable",
+      "cost-effective", "ROI", "payback",
+      "maintenance-free", "calibration-free", "no recalibration",
+      "universal compatibility", "geographic independence",
+      "false alarm prevention", "transient filtering"
+    ]
+  },
+  
+  "troubleshooting": {
+    "common_problems": [
+      "false alarm", "nuisance alarm", "incorrect alarm",
+      "intermittent detection", "flickering", "unstable",
+      "no detection", "not sensing", "not working",
+      "communication error", "MODBUS error", "RS485 problem",
+      "output not switching", "relay stuck", "no output",
+      "temperature error", "temp reading wrong"
+    ],
+    
+    "causes": [
+      "oil foaming", "foam", "bubbles", "air bubbles",
+      "timer too short", "delay insufficient",
+      "dome fouling", "sensor dirty", "residue buildup",
+      "power supply", "voltage incorrect", "no power",
+      "wiring issue", "loose connection", "incorrect wiring",
+      "refrigerant contamination", "oil quality", "wrong oil",
+      "mounting angle", "vibration", "loose mounting",
+      "EMI interference", "electrical noise",
+      "address conflict", "baud rate mismatch", "termination missing"
+    ],
+    
+    "solutions": [
+      "increase timer delay", "adjust timer", "programmable timer",
+      "clean sensor dome", "clean sensor", "maintenance",
+      "verify power supply", "check voltage", "24V DC",
+      "check wiring", "inspect connections", "verify polarity",
+      "add termination", "120 ohm resistor", "RS485 termination",
+      "oil analysis", "check refrigerant", "verify oil type",
+      "remount sensor", "check mounting", "reduce vibration",
+      "shielded cable", "proper grounding", "EMI suppression"
+    ]
+  },
+  
+  "technical_specifications": {
+    "performance": [
+      "detection accuracy", "±2mm", "resolution",
+      "response time", "instantaneous", "fast",
+      "temperature range", "-40°C to +125°C", "operating temperature",
+      "IP rating", "IP65", "IP67", "ingress protection",
+      "certifications", "CE", "ATEX", "UL"
+    ],
+    
+    "materials": [
+      "metallic", "plastic", "stainless steel", "aluminum",
+      "dome", "probe", "sensor head", "housing",
+      "o-ring", "gasket", "seal"
+    ]
+  },
+  
+  "comparison_terms": {
+    "product_comparisons": [
+      "TK1+ vs TK3+", "TK3+ vs TK4", "TK4 standard vs MODBUS",
+      "46 bar vs 80 bar", "80 bar vs 130 bar",
+      "relay vs 4-20mA", "analog vs MODBUS",
+      "standalone vs integrated", "basic vs advanced"
+    ],
+    
+    "technology_comparisons": [
+      "IR vs float", "IR vs capacitive", "IR vs conductivity",
+      "optical vs mechanical", "no moving parts vs float",
+      "solid state vs mechanical", "electronic vs mechanical"
+    ]
+  },
+  
+  "synonyms_and_abbreviations": {
+    "common_abbreviations": [
+      "IR (infrared)", "PLC (programmable logic controller)",
+      "SCADA (supervisory control and data acquisition)",
+      "HMI (human machine interface)", "BMS (building management system)",
+      "EMI (electromagnetic interference)", "RS485 (serial protocol)",
+      "RTU (remote terminal unit)", "NO (normally open)",
+      "NC (normally closed)", "MPa (megapascal)", "psi (pounds per square inch)"
+    ],
+    
+    "regional_variations": [
+      "sensor/detector", "controller/regulator", "switch/sensor",
+      "compressor/pump", "refrigerant/coolant", "oil/lubricant",
+      "alarm/warning", "fault/error", "failure/malfunction"
+    ]
+  }
+}
