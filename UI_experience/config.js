@@ -10,7 +10,10 @@
 
 const CONFIG = {
     // Backend API endpoint
-    API_URL: 'http://localhost:5000',
+    // Auto-detect: Cloudflare se su GitHub Pages, localhost se locale
+    API_URL: window.location.hostname.includes('github.io')
+        ? 'https://TUO-TUNNEL-URL.trycloudflare.com'  // ← Sostituisci con URL Cloudflare
+        : 'http://localhost:5000',
     
     // Bot name
     BOT_NAME: 'Teklab Assistant',
