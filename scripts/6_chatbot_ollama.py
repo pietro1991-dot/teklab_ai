@@ -154,7 +154,7 @@ class TeklabAIChatbotOllama:
             self.embeddings = None
             self.embedding_model = None
     
-    def retrieve_context(self, query: str, top_k: int = 5, include_summaries: bool = True, min_similarity: float = 0.4) -> tuple[str, list[dict]]:
+    def retrieve_context(self, query: str, top_k: int = 5, include_summaries: bool = True, min_similarity: float = 0.33) -> tuple[str, list[dict]]:
         """Recupera contesto RAG rilevante con filtro qualità"""
         if not self.embedding_model or not self.chunk_embeddings:
             return "", []
@@ -299,9 +299,9 @@ class TeklabAIChatbotOllama:
         
         start_total = time.time()
         
-        # Retrieve RAG context - Ottimizzato per assistenza clienti professionale
+        # Retrieve RAG context - ALLINEATO a backend_api/app.py
         start_retrieval = time.time()
-        rag_context, retrieved_chunks = self.retrieve_context(user_message, top_k=3, min_similarity=0.28)  # ⚡ top_k=3 per velocità
+        rag_context, retrieved_chunks = self.retrieve_context(user_message, top_k=3, min_similarity=0.28)  # ⚡ STESSO THRESHOLD di app.py
         retrieval_time = time.time() - start_retrieval
         
         # DEBUG: Stampa chunk recuperati
@@ -347,73 +347,37 @@ class TeklabAIChatbotOllama:
             print("⏳ Generazione in corso (Ollama)...", flush=True)
             start_generation = time.time()
             
-            # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 400 → 800 → 1200 → 1600
-            # CONTINUE MODE: ogni retry CONTINUA da dove si era fermato (no re-generazione)
-            num_predict_levels = [400, 400, 400, 400]  # Ogni livello aggiunge 400 token
-            current_level = 0
-            assistant_message = ""
-            
-            while current_level < len(num_predict_levels):
-                num_predict = num_predict_levels[current_level]
-                
-                if current_level > 0:
-                    print(f" [continua livello {current_level + 1}/4...]", end="", flush=True)
-                
-                # CONTINUE MODE: CRITICAL FIX
-                # Formato corretto: mostra risposta parziale come già scritta dall'assistente
-                if current_level > 0 and assistant_message:
-                    continue_prompt = f"""{full_prompt}
-
-TEKLAB ASSISTANT RESPONSE:
-{assistant_message}"""
-                    # Il modello vede la risposta parziale e continua naturalmente
-                else:
-                    continue_prompt = full_prompt
-                
-                payload = {
-                    "model": self.OLLAMA_MODEL,
-                    "prompt": continue_prompt,
-                    "system": SYSTEM_PROMPT,
-                    "stream": False,
-                    "options": {
-                        "temperature": 0.6,
-                        "num_predict": num_predict,  # 🔄 ADATTIVO: sempre 400 per livello
-                        "top_p": 0.85,
-                        "num_ctx": 4096,  # ⚡ AUMENTATO da 2048 - supporta RAG context più lunghi
-                        "repeat_penalty": 1.1,
-                        "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
-                    }
+            # 🎯 GENERAZIONE COMPLETA in un solo colpo (no retry/continue)
+            # num_predict ALTO per evitare troncamenti
+            payload = {
+                "model": self.OLLAMA_MODEL,
+                "prompt": full_prompt,
+                "system": SYSTEM_PROMPT,
+                "stream": False,
+                "options": {
+                    "temperature": 0.6,
+                    "num_predict": 800,  # Token sufficienti per risposta completa
+                    "top_p": 0.85,
+                    "num_ctx": 4096,
+                    "repeat_penalty": 1.1,
+                    "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
                 }
-                
-                # Aumentato timeout per livelli alti
-                timeout = 180 + (current_level * 60)  # 180s, 240s, 300s, 360s
-                response = requests.post(self.OLLAMA_URL, json=payload, timeout=timeout)
-                response.raise_for_status()
-                
-                result = response.json()
-                chunk_response = result.get('response', '').strip()
-                done_reason = result.get('done_reason', 'stop')
-                
-                # APPEND alla risposta completa
-                assistant_message += chunk_response
-                
-                # Check se troncato
-                if done_reason == 'length' and current_level < len(num_predict_levels) - 1:
-                    # Troncato! CONTINUA al livello successivo
-                    current_level += 1
-                    continue
-                else:
-                    # Completato o ultimo livello raggiunto
-                    if current_level > 0:
-                        total_tokens = sum(num_predict_levels[:current_level + 1])
-                        print(f"\n✅ Risposta completa: {total_tokens} token (livello {current_level + 1}/4)")
-                    break
+            }
+            
+            timeout = 240  # 4 minuti max
+            response = requests.post(self.OLLAMA_URL, json=payload, timeout=timeout)
+            response.raise_for_status()
+            
+            result = response.json()
+            assistant_message = result.get('response', '').strip()
+            done_reason = result.get('done_reason', 'stop')
+            
+            # Log se troncato
+            if done_reason == 'length':
+                print("\n⚠️  Risposta troncata a 800 token - considera di aumentare num_predict")
             
             generation_time = time.time() - start_generation
             total_time = time.time() - start_total
-            
-            # Calcola token totali usati
-            total_tokens_used = sum(num_predict_levels[:current_level + 1])
             
             # Salva in conversazione
             self.conversation_history.append({
@@ -427,13 +391,9 @@ TEKLAB ASSISTANT RESPONSE:
                     "generation_time": round(generation_time, 3),
                     "total_time": round(total_time, 3)
                 },
-                "adaptive_generation": {
-                    "num_predict_used": total_tokens_used,
-                    "level_reached": current_level + 1,
-                    "max_levels": len(num_predict_levels),
-                    "retries": current_level,
-                    "mode": "continue"  # Indica modalità CONTINUE (vs RETRY)
-                },
+                "generation_mode": "single_shot",  # Generazione completa in un colpo
+                "num_predict": 800,
+                "done_reason": done_reason,
                 "engine": "ollama"
             })
             
