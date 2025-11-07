@@ -1,0 +1,188 @@
+﻿Level Control Unit TK1+ 34
+Application Description 
+SUITABLE FOR CO2 SYSTEMS 
+Main Features 
+• The absence of mechanical moving parts ensures High reliability • 24VAC / 230VAC power supply options 
+• Easy installation (sight-glass replacement) 
+• Well consolidated steel with fused glass technology ensures no  leakage and good chemical compatibility 
+• Electronic sensor can be easily replaced without emptying and/or depressurizing the plant due to the two parts design • Direct mounting possibility / adapters suitable for various types of compressors 
+• Customizable delays on request 
+• Unit conform to directives 2014/30/UE and 2014/35/UE. 
+TK1+ series is especially designed for use in level monitoring for HVAC&R market.  
+TK1+ can be mounted directly on the crankcase of the compressor, on the oil reservoir, oil separator or liquid receiver. This product is very reliable and suitable for working in heavy environments. 
+LEDs integrated in the electronic module allow to verify the liquid status. 
+The two parts design allows the fast replacement of the electronic parts without depressurizing the system. 
+  
+  
+The electronic module of the TK1+ contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted  is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence.  
+Technical Data 
+35
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK1 Electronic module requires 10VA.
+	ELECTRICAL  
+CONNECTION 
+	Cable wiring or connectors with molded cables depending on model
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	46 bar or 100 bar depending on model
+	OIL RETURN LINE 
+	1/4” NPT female connection
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions 
+80.9 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+56 
+1/4" NPT 
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+61.8 
+59.5
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"L1" 34.5 37 "L" 
+L=101.5 
+L1=37 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CABLE GLANDS 
+3 m
+	 24 V 
+	TK1P-KIT-0150-03 
+	TK1P-KIT-0130-03 
+	 230 V 
+	TK1P-KIT-01E0-03 
+	TK1P-KIT-01C0-03

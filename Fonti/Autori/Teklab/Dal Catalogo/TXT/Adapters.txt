@@ -1,0 +1,162 @@
+﻿Adapters Addendum 30
+RIGHT / LEFT MOUNTING POSSIBILITIES 
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+TK3 Right Model Mounting Example TK3 Left Model Mounting Example 
+MEASURES 
+"L1" 
+ADAPTER 
+	“ L1 ”
+	No adapter (Direct Mounting) 
+	-
+	1-1/8” - 18 UNEF 
+	34
+	¾” NPT 
+	34
+	3/4/6 holes (50 MM) 
+	50
+	1”GAS 
+	43
+	RLK 1” ¾ - 12 UNF 
+	53,4
+	M36 X 1,5 
+	45
+	3/4/6 holes (22 MM) 
+	22
+	RLK 1” ¼ - 12 UNF 
+	41,4
+	
+
+
+
+Selection Table (some examples based on compressor brand/model) 
+COMPRESSOR FAMILY / MODE 
+	SELECTION
+	ARCTIC CIRCLE 
+	G2; G4; G6 
+	0 or 3
+	BITZER
+	4G; 4H; 4J; 4NC; 4NHC-20K; 4PC; 4PHC-15K; 4TC; 4THC-12K; 4VC; 4VHC-10K; 4VNC; 4Z; 6F; 6G; 6H; 6J; 8FC;  8GC; S4; S6; 
+	0 or 3
+	2CHC-4K; 2DC; 2DHC-3K; 2EC; 2EHC-3K; 2FC; 2FHC-3K; 2GC; 2GHC-2K; 2HC; 2HHC-2K; 2JC; 2JHC-07K; 2KC;  2KHC-05K; 4CC; 4CHC-9K; 4DC; 4DHC-7K; 4EC; 4EHC-6K; 4FC; 4FHC-5K; 4KTC-10K 
+	1
+	ZL; ZM 
+	2
+	BOCK
+	HA 4;HA 5; HA6; HG 4; HG 5; HG 6; HG 7; HG 8; HGX4/310-4; HGX4/385-4; HGX4/464-4; HGX4/555-4 
+	0 or 3
+	HA12; HA22; HA34; HG12 ;HG22; HG34; HGX12P/40-4; HGX12P/50-4; HGX12P/60-4; HGX12P/75-4; HGX22P/110-4; HGX22P/125-4; HGX22P/160-4; HGX22P/190-4; HGX34P/215-4; HGX34P/555-4 
+	1
+	CARRIER 
+	EA; ER; 
+	0 or 3
+	COPELAND 
+	4CC; 6CC; D2; D3; D4; D6.H; D6.S; D9; DM 
+	0 or 3
+	ZF; ZS 
+	2
+	DORIN
+	K Series (except the listed for adapter 1); SCC500 B; SCC750 B; SCC1500 B; SCC1900 B; SCC2000 B; SCC2500  B; SCS340 D; SCS351 D; SCS362 D; SCS373 D; SCS385 D; SCS3K8 D; H Series(except the listed for adapter 1) 
+	0 or 3
+	H1; K100CC; K100CS; K150CC; K150CS; K180CC; K180CS; K200CC; K230CS; K235CC; K240SB; K400CC;  K50CS; K75CC; K75CS; SCC250 B; SCC300 B ; SCC350 B; SCC380 B 
+	1
+	FRASCOLD 
+	A; A-SK; B; D; D-SK; F; F-SK; Q-SK; S; S-SK; V; W; Z 
+	0 or 3
+	PRESTCOLD 
+	P2; P3; P4; P6; P8; P9 
+	0 or 3
+	L’UNITÉ HERMÉTIQUE 
+	TAG; TAH 
+	1
+	MANEUROPE 
+	LT; MT; SM; SZ; 
+	1
+	
+
+
+
+Where31
+TK3 SELECTION 
+	ADAPTER 
+	CODE
+	
+
+	0 
+	No Adapter (Direct mounting)
+	
+
+	
+
+	1 
+	1-1/8” - 18 UNEF 
+	TKX-A001
+	  
+
+	2 
+	¾” NPT 
+	TKX-A002
+	  
+
+	3 
+	3/4/6 holes flange (also as a spacer 50 mm) 
+	TKX-A003
+	  
+
+	4 
+	1” GAS 
+	TKX-A004
+	  
+
+	5 
+	Rotalock 1” ¾ - 12 UNF 
+	TKX-A005
+	  
+
+	6 
+	M36 x 1,5 
+	TKX-A006
+	  
+
+	7 
+	3/4/6 holes flange (also as a spacer 22 mm) 
+	TKX-A0070
+	  
+
+	8 
+	Rotalock 1” ¼ - 12 UNF 
+	TKX-A008 
+	  
+
+	9 
+	Direct injection for 26 bar MOPD model 
+	TKX-ADI2
+	  
+
+	10 
+	Direct injection for other models 
+	TKX-ADI3

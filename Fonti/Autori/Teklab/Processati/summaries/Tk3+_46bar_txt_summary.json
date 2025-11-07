@@ -1,0 +1,181 @@
+{
+    "file_index": 13,
+    "filename": "Tk3+ 46bar.txt",
+    "product_family": "TK_Series",
+    "summary_label": "TK_Series: Tk3+ 46bar.txt",
+    "category": "all",
+    "total_chunks": 4,
+    "chunk_ids": [
+        "teklab_chunk_013_001_TK3+_@46_bar_Oil_Level_Regulator",
+        "teklab_chunk_013_002_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_013_003_TK3+_Oil_Level_Control_Unit",
+        "teklab_chunk_013_004_TK3+_130bar_CO2_Oil_Level_Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "46bar",
+            "oil level regulator",
+            "compact dimensions",
+            "high reliability",
+            "TK3+ 130bar CO2",
+            "oil level control",
+            "MODBUS protocol",
+            "ATEX certification",
+            "compressor compatibility",
+            "TK3+ oil level controller",
+            "oil management system",
+            "pressure range (46bar, 130bar)",
+            "temperature (-40°C, +85°C)",
+            "solenoid valve operation",
+            "130bar CO2",
+            "oil level controller",
+            "pressure range",
+            "temperature limits"
+        ],
+        "all_concepts": [
+            "Compact dimensions",
+            "Reduced number of junctions and components",
+            "High reliability due to mechanical moving parts absence",
+            "Sight glass and electronic LEDs for inspection",
+            "Fused glass technology with steel construction",
+            "Pressure range and control",
+            "Oil level management and filtering",
+            "Electro Optic sensor maintenance",
+            "Alarm relay output and security chain integration",
+            "Adapters for various compressor types",
+            "Unit compliance with EU directives",
+            "High pressure oil return line system design",
+            "Oil level monitoring and control",
+            "Solenoid valve operation",
+            "Relay output contact for alarm",
+            "Electro-optic sensor technology",
+            "Pressure range and temperature limits",
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "technical_specs": [
+            "Extremely compact dimensions",
+            "Left/Right mounting possibility with the same TK3+",
+            "Reduction of the number of junctions in the circuit",
+            "The TK3+ is designed to control the oil level in the compressor crankcase",
+            "Unit conform to directives 2014/30/UE and 2014/35/UE",
+            "The TK3+ oil level controller comprises a solenoid valve for oil filling and a relay output contact to give an alarm.",
+            "Each TK3+ requires 20VA (depending on the solenoid valve)",
+            "The housing material is nickel plated steel + fused glass PA glass fibre reinforced",
+            "es in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum)",
+            "Suggested ordering codes not include oil strainer element. Adapters must be ordered separately."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+ @46bar?",
+            "How does the TK3+ oil level regulator work?",
+            "What is the maximum pressure for TK3+ 130bar?",
+            "Which refrigerants are compatible with TK3+?",
+            "What is the maximum pressure for TK3+?",
+            "How does the solenoid valve work in TK3+?",
+            "What is the maximum pressure range supported by TK3+ 130bar?",
+            "Which refrigerants are compatible with TK3+ 130bar CO2 Oil Level Controller?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_013_001_TK3+_@46_bar_Oil_Level_Regulator",
+        "file_index": 13,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ @46 bar Oil Level Regulator",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "Compact dimensions",
+            "Reduced number of junctions and components",
+            "High reliability due to mechanical moving parts absence",
+            "Sight glass and electronic LEDs for inspection",
+            "Fused glass technology with steel construction"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "46bar",
+            "oil level regulator",
+            "compact dimensions",
+            "high reliability"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Extremely compact dimensions",
+            "Left/Right mounting possibility with the same TK3+",
+            "Reduction of the number of junctions in the circuit"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the advantage of using a sight glass and electronic LEDs for inspection?",
+                "answer": "The sight glass and electronic LEDs allow for easy inspection of the oil level regulator, reducing the need for manual checks. This feature ensures high reliability and reduces the risk of human error.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK3+ @46bar oil level regulator achieve reduced number of junctions in the circuit?",
+                "answer": "The TK3+ @46bar oil level regulator uses a compact design with fewer components, reducing the number of junctions in the circuit. This results in less possibility of having leakages and easier warehouse management.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the benefit of using a fused glass technology with steel construction?",
+                "answer": "The fused glass technology with steel construction ensures no leakage and good chemical compatibility. This feature provides high reliability and reduces the risk of contamination.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+ @46bar?",
+            "How does the TK3+ oil level regulator work?"
+        ],
+        "summary": "The TK3+ @46bar oil level regulator features compact dimensions, reduced number of junctions and components, high reliability due to mechanical moving parts absence, sight glass and electronic LEDs for inspection, and fused glass technology with steel construction.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/tk_series/teklab_chunk_013_001_TK3+_@46_bar_Oil_Level_Regulator.json",
+        "chunks/tk_series/teklab_chunk_013_002_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/tk_series/teklab_chunk_013_003_TK3+_Oil_Level_Control_Unit.json",
+        "chunks/tk_series/teklab_chunk_013_004_TK3+_130bar_CO2_Oil_Level_Controller.json"
+    ]
+}

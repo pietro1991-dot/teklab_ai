@@ -1,0 +1,152 @@
+{
+    "file_index": 8,
+    "filename": "LC PS.txt",
+    "product_family": "General",
+    "summary_label": "General: LC PS.txt",
+    "category": "all",
+    "total_chunks": 1,
+    "chunk_ids": [
+        "teklab_chunk_008_001_Optical_Level_Control_Unit_LC-PS"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "LC-PS optical level control unit",
+            "pressure range up to 46bar",
+            "fused glass technology",
+            "electronic sensor replacement",
+            "compressor compatibility"
+        ],
+        "all_concepts": [
+            "High reliability due to absence of mechanical moving parts",
+            "Good chemical compatibility thanks to fused glass technology",
+            "Easy replacement of electronic sensor without emptying or depressurizing the plant",
+            "Direct mounting onto various types of compressors and tanks",
+            "Customizable delays on request"
+        ],
+        "technical_specs": [
+            "The optical level switch LC-PS has been designed for use in level monitoring applications for the control of low viscosity liquids.",
+            "When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for LC-PS?",
+            "Which refrigerants are compatible with LC-PS?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_008_001_Optical_Level_Control_Unit_LC-PS",
+        "file_index": 8,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Optical Level Control Unit LC-PS",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Teklab",
+        "key_concepts": [
+            "High reliability due to absence of mechanical moving parts",
+            "Good chemical compatibility thanks to fused glass technology",
+            "Easy replacement of electronic sensor without emptying or depressurizing the plant",
+            "Direct mounting onto various types of compressors and tanks",
+            "Customizable delays on request"
+        ],
+        "keywords_primary": [
+            "LC-PS optical level control unit",
+            "pressure range up to 46bar",
+            "fused glass technology",
+            "electronic sensor replacement",
+            "compressor compatibility"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The optical level switch LC-PS has been designed for use in level monitoring applications for the control of low viscosity liquids.",
+            "When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What pressure range does LC-PS support?",
+                "answer": "The optical level control unit LC-PS supports up to 46bar. This makes it suitable for use in a variety of applications, including compressor and refrigeration systems.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the electronic sensor work?",
+                "answer": "The electronic sensor uses an infrared-ray emitter and an optical receiver to detect the presence of liquid. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What are the benefits of using LC-PS?",
+                "answer": "The optical level control unit LC-PS offers several benefits, including high reliability, good chemical compatibility, and easy replacement of electronic sensors. It is also designed for direct mounting onto various types of compressors and tanks.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How do I select between LC-PS and other products?",
+                "answer": "When selecting a product, consider the specific requirements of your application. LC-PS is suitable for use in level monitoring applications for the control of low viscosity liquids. It is also customizable with delays on request.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What are the technical specifications of LC-PS?",
+                "answer": "The optical level control unit LC-PS has a supply voltage range of 230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on the selected model. It also has an electronic protection transient over-voltage protection, and a solid-state output normally open or normally closed in air.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "troubleshooting"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for LC-PS?",
+            "Which refrigerants are compatible with LC-PS?"
+        ],
+        "summary": "The optical level control unit LC-PS is designed for use in level monitoring applications for the control of low viscosity liquids. It offers high reliability, good chemical compatibility, and easy replacement of electronic sensors.",
+        "domain_metadata": {
+            "product_family": "Teklab",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "R410A"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/general/teklab_chunk_008_001_Optical_Level_Control_Unit_LC-PS.json"
+    ]
+}

@@ -1,0 +1,72 @@
+﻿K25 Level Switch for High Pressure environments 
+46
+with 4÷20 mA analog temperature output up to 150 bar SUITABLE FOR CO2 SYSTEMS 
+Application Description 
+The optical level switch has been designed for use in level monitoring  
+applications for the control of oil or liquid CO2 for transcritical or  
+subcritical applications.  
+The switch has no moving parts, thus it is particularly suited for  
+monitoring critical media where high reliability is needed. 
+The sensor provides two outputs:  
+• the first one – digital – indicates if the liquid is present or absent, 
+• the second one – analogical – is proportional to the temperature 
+read. 
+It combines the Level Detection and the Temperature Management  
+with the high pressure resistance up to 150 Bar. 
+Operating Principle 
+  
+  
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+47
+OPERATION MODE 
+	Detect liquid presence with contact
+	REPEATABILITY 
+	± 2 mm. 
+	BODY MATERIALS 
+	Nickel plated steel
+	SENSIBLE DOME 
+	Glass
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage, reverse polarity
+	MAX. TEMPERATURE RANGE 
+	From –40°C up to +125°C
+	STORAGE TEMPERATURE 
+	From –40°C up to +125°C
+	SUPPLY VOLTAGE 
+	24 VDC ± 10%
+	SUPPLY CURRENT (LEVEL SECTION) 
+	20mA max. 
+	OUTPUT TYPE 
+	NPN
+	DC OUTPUT LOAD CURRENT 
+	up to 50 mA max
+	OUTPUT MODE 
+	Output Normally Open or Closed in air
+	TEMPERATURE OUTPUT 
+	Analogical from 4 to 20 mA
+	DELAY TIMES 
+	Customizables depending on application needings
+	MAX PRESSURE 
+	up to 150 bar
+	
+
+
+
+Mechanical Dimensions 
+40 50 
+Ø20 
+22 
+Thread* 
+16 
+90 
+36 
+Note. - Quotes in mm. 
+Ordering Codes 
+SENSOR 
+	CODE
+	3/4” NPT - Normally open in air 
+	32517308304002003150
+	3/4” NPT - Normally Closed in air 
+	32517308305002003150

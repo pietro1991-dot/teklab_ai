@@ -1,0 +1,48 @@
+﻿K11 Level Switch 50Operating Principle 
+Application Description 
+K11 level switches are suitable for high pressure applications like  pressurized vessels, HVAC and refrigeration, motors etc. They have  bodies made of stainless steel and sensor dome made of glass.  They are economical, dependable, and compact in size with overall  dimensions of 59 x 27 mm and have no moving parts.  These level switches use infrared technology for their operation.  They have an operating temperature range of -40°C to 125°C.  There is a programmable timer inside these K11 level switches that  allows a delay time to be set for delaying the output switching.  The output modes are closed in presence of liquids and open in air or  vice versa.  
+The AC / DC output current is up to 100mA depending on model. These level switches can integrate electronic protections against  transient over voltage, and reverse polarity (for DC models). They can withstand maximum pressure of 60 bar.  
+  
+  
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+51
+OPERATION MODE 
+	Detect liquid presence with contact
+	REPEATABILITY 
+	± 2 mm. 
+	BODY MATERIALS 
+	Stainless steel or Nickel plated steel
+	SENSIBLE DOME 
+	Glass
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage, reverse polarity (for DC models)
+	MAX. TEMPERATURE RANGE 
+	From –40ºC up to +125ºC
+	STORAGE TEMPERATURE 
+	From –40ºC up to +125ºC
+	SUPPLY VOLTAGE 
+	10 – 28 VDC or 24 VAC ± 10% 50 or 60 Hz
+	OUTPUT TYPE 
+	AC output or NPN, NPN open collector, PNP for DC model
+	AC/DC OUTPUT CURRENT 
+	Up to 100 mA Max (depending on temperature range)
+	OUTPUT MODE 
+	Output Normally Open or Closed in the air
+	DELAY TIMES 
+	Customizable depending on application needings
+	MAX PRESSURE 
+	Up to 60 bar (burst 120 bar)
+	TORQUE TIGHTEN 
+	15 Ntm
+	
+
+
+
+Electrical Connection 
+  
+
+  
+Mechanical Dimensions 
+Note. - Quotes in mm.

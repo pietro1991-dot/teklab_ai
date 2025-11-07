@@ -110,14 +110,14 @@ class TeklabAIChatbotOllama:
             sys.exit(1)
     
     def _load_embeddings(self):
-        """Carica embeddings cache per RAG"""
-        embeddings_path = PROJECT_ROOT / "ai_system" / "Embedding" / "embeddings_cache.pkl"
+        """Carica embeddings cache per RAG - NUOVA STRUTTURA TEKLAB"""
+        embeddings_path = PROJECT_ROOT / "ai_system" / "Embedding" / "teklab_embeddings_cache.pkl"
         
-        print("\n📚 Caricamento Knowledge Base RAG...")
+        print("\n📚 Caricamento Knowledge Base RAG (TEKLAB chunks)...")
         
         if not embeddings_path.exists():
             print(f"⚠️  Cache embeddings non trovata: {embeddings_path}")
-            print("   Esegui prima: python scripts/2_generate_embeddings.py")
+            print("   Esegui prima: python scripts/generate_teklab_embeddings.py")
             self.chunk_embeddings = {}
             self.qa_embeddings = {}
             self.summary_embeddings = {}

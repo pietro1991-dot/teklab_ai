@@ -1,0 +1,11 @@
+Bitzer: Extensive compatibility across semi-hermetic reciprocating compressors. Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6, 2CHC, 2DC, 2EC, 2FC, 2GC, 2HC, 2JC, 2KC, 4CC, 4DC, 4EC, 4FC series.
+Bock (now part of Danfoss): Compatible with hydrocarbon and low-GWP models. Examples: HA4, HA5, HA6, HG4, HG5, HG6, HG7, HG8, HGX4/310-4, HGX4/385-4, HGX12P, HGX22P, HGX34P series.
+Carrier: Compatibility for specific refrigeration models. Examples: EA, ER series.
+Copeland (Emerson): Broad adapter support for scroll and reciprocating compressors. Examples: 4CC, 6CC, D2, D3, D4, D6.H, D6.S, D9, DM, ZF, ZS series.
+Danfoss: Explicit recommendations in documentation for oil level sensors and regulators (e.g., TK3-DANF-R01) in scroll compressors. Examples: VZH, VZF, MLZ, LLZ series, with custom sight glass fittings.
+Dorin: Compatibility for CO₂ transcritical and subcritical models. Examples: K Series (e.g., K100CC, K150CS, K240SB), H Series (e.g., H1), SCC Series (e.g., SCC500 B, SCC750 B), SCS Series (e.g., SCS340 D).
+Frascold: Wide range for semi-hermetic models in natural refrigerant systems. Examples: A, A-SK, B, D, D-SK, F, F-SK, Q-SK, S, S-SK, V, W, Z series.
+Maneurop (Danfoss brand): Adapter compatibility for hermetic models. Examples: LT, MT, SM, SZ series.
+Tecumseh (L’Unité Hermétique): Compatibility for certain hermetic compressors. Examples: TAG, TAH series.
+
+Arctic Circle (G2, G4, G6) and Prestcold (P2, P3, P4, P6, P8, P9)

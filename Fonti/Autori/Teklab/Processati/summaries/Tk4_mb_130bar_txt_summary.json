@@ -1,0 +1,154 @@
+{
+    "file_index": 18,
+    "filename": "Tk4 mb 130bar.txt",
+    "product_family": "TK_Series",
+    "summary_label": "TK_Series: Tk4 mb 130bar.txt",
+    "category": "all",
+    "total_chunks": 1,
+    "chunk_ids": [
+        "teklab_chunk_018_001_TK4MB_@130bar_CO2_Oil_Level_Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK4MB",
+            "130bar",
+            "CO2",
+            "Oil Level Regulator",
+            "MODBUS",
+            "ATEX",
+            "Compact dimensions"
+        ],
+        "all_concepts": [
+            "High reliability ensured by absence of mechanical moving parts",
+            "Sight glass and electronic LEDs can be checked on the same side for inspections",
+            "Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility",
+            "Direct sight glass replacement (3/4/6 holes flange connection)",
+            "24 VAC / 230 VAC power supply options",
+            "Modbus RTU Serial connection to system controller",
+            "Left/Right mounting possibility with the same TK4-MB"
+        ],
+        "technical_specs": [
+            "High reliability ensured by absence of mechanical moving parts",
+            "Sight glass and electronic LEDs can be checked on the same side for inspections"
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK4MB @130bar?",
+            "How does the TK4MB @130bar oil level controller ensure high reliability?",
+            "What are the power supply options for the TK4MB @130bar oil level controller?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_018_001_TK4MB_@130bar_CO2_Oil_Level_Controller",
+        "file_index": 18,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK4MB @130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "High reliability ensured by absence of mechanical moving parts",
+            "Sight glass and electronic LEDs can be checked on the same side for inspections",
+            "Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility",
+            "Direct sight glass replacement (3/4/6 holes flange connection)",
+            "24 VAC / 230 VAC power supply options",
+            "Modbus RTU Serial connection to system controller",
+            "Left/Right mounting possibility with the same TK4-MB"
+        ],
+        "keywords_primary": [
+            "TK4MB",
+            "130bar",
+            "CO2",
+            "Oil Level Regulator",
+            "MODBUS",
+            "ATEX",
+            "Compact dimensions"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "High reliability ensured by absence of mechanical moving parts",
+            "Sight glass and electronic LEDs can be checked on the same side for inspections"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by TK4MB @130bar?",
+                "answer": "The TK4MB @130bar oil level controller supports a maximum pressure range of 130bar, ensuring reliable operation in high-pressure CO2 systems. This feature makes it an ideal choice for applications requiring precise control over oil levels.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "product_selection"
+                ]
+            },
+            {
+                "question": "How does the TK4MB @130bar oil level controller ensure high reliability?",
+                "answer": "The TK4MB @130bar oil level controller ensures high reliability through its absence of mechanical moving parts, which minimizes the risk of wear and tear. This design feature contributes to the product's overall performance and lifespan.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "product_selection"
+                ]
+            },
+            {
+                "question": "What is the advantage of using the TK4MB @130bar oil level controller in terms of installation?",
+                "answer": "The TK4MB @130bar oil level controller offers a left/right mounting possibility with the same TK4-MB, reducing the number of junctions in the circuit and minimizing the risk of leakages. This feature simplifies installation and reduces costs.",
+                "difficulty": "beginner",
+                "intent": [
+                    "installation",
+                    "product_selection"
+                ]
+            },
+            {
+                "question": "What is the power supply option for the TK4MB @130bar oil level controller?",
+                "answer": "The TK4MB @130bar oil level controller offers 24 VAC / 230 VAC power supply options, providing flexibility in terms of installation and operation. This feature makes it suitable for a wide range of applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "installation",
+                    "product_selection"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK4MB @130bar?",
+            "How does the TK4MB @130bar oil level controller ensure high reliability?",
+            "What are the power supply options for the TK4MB @130bar oil level controller?"
+        ],
+        "summary": "The TK4MB @130bar CO2 oil level controller is a reliable and compact solution for controlling oil levels in high-pressure systems. Its absence of mechanical moving parts ensures minimal wear and tear, while its left/right mounting possibility simplifies installation.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/tk_series/teklab_chunk_018_001_TK4MB_@130bar_CO2_Oil_Level_Controller.json"
+    ]
+}

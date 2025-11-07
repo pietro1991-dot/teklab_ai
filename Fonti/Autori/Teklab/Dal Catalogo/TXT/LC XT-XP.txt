@@ -1,0 +1,171 @@
+﻿Optical Level Control Unit 
+36
+LC-XT/ LC-XP 
+  
+  
+  
+  
+  
+  
+  
+Application Description 
+SUITABLE FOR CO2 SYSTEMS 
+Main Features 
+• The absence of mechanical moving parts ensures High reliability  
+• Well consolidated steel with fused glass technology  ensures no leakage and good chemical compati bility 
+• Electronic sensor can be easily replaced without  emptying and/or depressurizing the plant due to the two parts design 
+• No need for calibrations on the field 
+• Direct mounting onto various types of compressors  (M20x1.5 or 1”1/8 – 18 UNEF adapter) and tanks (1/2”NPT adapter), etc... 
+• Customizable delays on request 
+• Unit conform to directives 2014/30/UE and  2014/35/UE. 
+The optical level switch has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible to replace the electronics without the needing  of emptying or depressurizing the plant. 
+The sensor is suitable as minimum or maximum alarm. 
+Delays can be introduced in order to satisfy particular needing or avoid false alarms. 
+Operating Principle 
+  
+  
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+37
+SUPPLY VOLTAGE (± 10%) 
+	230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage protection
+	ELECTRICAL CONNECTION 
+	EN 175301-803A connector (EX DIN 43650 size A)
+	OUTPUT SIGNAL 
+	Solid state output Normally Open or Normally Closed in air.
+	SUPPLY CURRENT 
+	20mA max. during normal operation
+	OUTPUT MAX. CURRENT 
+	Up to 100 mA
+	HOUSING MATERIAL 
+	Stainless steel / Nickel plated steel
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	WORKING TEMPERATURE RANGE 
+	-40°C÷ +125°C 
+	MAX PRESSURE 
+	46 bar (LC-XT model) 120 bar (LC-XP model)
+	TORQUE TIGHTEN 
+	50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter
+	
+
+
+
+Ordering Codes 
+Power supply/ Adapters
+	24VAC/DC 
+Normally Open (In air)
+	24VAC/DC 
+Normally Closed (In air)
+	230VAC  
+Normally Open (In air)
+	230VAC  
+Normally Closed (In air)
+	1/2 NPT 
+	LC-XT707100001001A00 
+LC-XP707100001001A00
+	LC-XT707101001001A00 
+LC-XP707101001001A00
+	LC-XT707D00001001A00 
+LC-XP707D00001001A00
+	LC-XT707D01001001A00 
+LC-XP707D01001001A00
+	3/4 NPT 
+	LC-XTA07100001001A00 
+LC-XPA07100001001A00
+	LC-XTA07101001001A00 
+LC-XPA07101001001A00
+	LC-XTA07D00001001A00 
+LC-XPA07D00001001A00
+	LC-XTA07D01001001A00 
+LC-XPA07D01001001A00
+	1”NPT 
+	LC-XTB07100001001A00 
+LC-XPB07100001001A00
+	LC-XTB07101001001A00 
+LC-XPB07101001001A00
+	LC-XTB07D00001001A00 
+LC-XPB07D00001001A00
+	LC-XTB07D01001001A00 
+LC-XPB07D01001001A00
+	M20X1,5 
+	LC-XT607100001001A00 
+LC-XP607100001001A00
+	LC-XT607101001001A00 
+LC-XP607101001001A00
+	LC-XT607D00001001A00 
+LC-XP607D00001001A00
+	LC-XT607D01001001A00 
+LC-XP607D01001001A00
+	1” 1/8 UNEF 
+	LC-XT807100001001A00 
+LC-XP807100001001A00
+	LC-XT807101001001A00 
+LC-XP807101001001A00
+	LC-XT807D00001001A00 
+LC-XP807D00001001A00
+	LC-XT807D01001001A00 
+LC-XP807D01001001A00
+	1” 1/4 RLK 
+	LC-XTC07100001001A00 
+	LC-XTC07101001001A00 
+	LC-XTC07D00001001A00 
+	LC-XTC07D01001001A00
+	
+
+
+
+Different Activation and Deactivation Delays available on request. 
+
+
+
+
+	THREAD 
+	DIMENSIONS 
+B (MM)
+	
+
+	1/2 NPT 
+	24
+	
+
+	3/4 NPT 
+	22
+	
+
+	1” NPT 
+	27,9
+	
+
+	M20 X 1,5 
+	18,1
+	  
+
+	1 - 1/8” UNEF 
+	19
+	  
+
+	1” 1/4 RLK 
+	30
+	
+
+
+
+Mechanical Dimensions 139.2 
+35 B 
+M20x1.5 
+40 
+
+
+	
+
+	
+
+
+
+57 
+EXAMPLE 
+Note. - Quotes in mm.

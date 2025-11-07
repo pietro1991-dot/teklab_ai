@@ -1,0 +1,214 @@
+{
+    "file_index": 3,
+    "filename": "Spiegazione Prodotti.txt",
+    "product_family": "General",
+    "summary_label": "General: Spiegazione Prodotti.txt",
+    "category": "general",
+    "total_chunks": 5,
+    "chunk_ids": [
+        "day03_chunk_001_TK3+ 130bar CO2 Oil Level Controller",
+        "day03_chunk_002_TK3+ Oil Level Regulator",
+        "day03_chunk_003_TK3+ 130bar CO2 Oil Level Controller",
+        "day03_chunk_004_TK3+ 130bar Oil Level Controller",
+        "day03_chunk_005_TK4+ 130bar CO2 Oil Level Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+ 130bar CO2 Oil Level Controller",
+            "Pressure range (130bar)",
+            "Refrigerant compatibility",
+            "MODBUS protocol",
+            "ATEX certification",
+            "TK3+",
+            "oil level regulator",
+            "compressor protection",
+            "solenoid valve",
+            "130bar",
+            "CO2",
+            "oil level controller",
+            "TK3+ 130bar",
+            "pressure range",
+            "temperature limits",
+            "CO2 compatibility",
+            "TK4+",
+            "NFC",
+            "MODBUS RTU",
+            "pressure control"
+        ],
+        "all_concepts": [
+            "High accuracy and reliability due to absence of moving parts",
+            "Compatibility with various refrigerants and oils",
+            "Conformity to EU directives for safety and environmental standards",
+            "Variety of pressure ranges available (46bar, 80bar, 130bar)",
+            "Integration with MODBUS protocol for seamless communication",
+            "Oil level regulation",
+            "Solenoid valve control",
+            "Elettro-optic sensor",
+            "Relay alarm system",
+            "Modbus communication",
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic",
+            "Pressure range: 46bar to 130bar",
+            "Temperature limits: -40°C to +85°C",
+            "Refrigerant compatibility: CO2, R134a, R404A, R410A",
+            "MODBUS connectivity for remote monitoring",
+            "ATEX certification for safe operation in hazardous environments",
+            "NFC wireless communication for remote access and customization",
+            "Modbus RTU connectivity for advanced control and monitoring",
+            "High-pressure range options (46bar, 80bar, 130bar) with adjustable power supply",
+            "Compact and cost-effective design for optimized system performance",
+            "Real-time optimization capabilities for improved efficiency"
+        ],
+        "technical_specs": [
+            "Il catalogo descrive questi dispositivi come regolatori di livello olio basati su tecnologia elettro-ottica infrarossa",
+            "Sono caratterizzati da alta affidabilità grazie all'assenza di parti meccaniche mobili",
+            "È un regolatore di livello olio completo, progettato per controllare il livello dell'olio nel crankcase del compressore",
+            "Integra un sensore elettro-ottico, una valvola solenoidale per il riempimento automatico dell'olio",
+            "È disponibile in 3 versioni principali: @46 bar, @80 bar e @130 bar, con alimentazione a 24 VAC o 230 VAC.",
+            "Il sensore ottico monitora il livello; se basso, apre la valvola solenoidale per riempire dall'olio di ritorno;",
+            "Relay libero da potenziale (NO/NC), fino a 230 VAC @2A per allarme; valvola solenoidale per filling.",
+            "Pressione massima di lavoro (MWP): 46 bar, 80 bar o 130 bar; MOPD (differenziale pressione operativa max): 26 bar, 60 bar o 100 bar.",
+            "Connettività rivoluzionaria per flessibilità; compatto e economico; ottimizzazione sistema in tempo reale.",
+            "È la versione più avanzata, che combina le features di TK4 (inclusa NFC) con una connettività seriale cablata basata su protocollo Modbus RTU."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+ 130bar?",
+            "Which refrigerants are compatible with the TK3+ 130bar CO2 Oil Level Controller?",
+            "What is the maximum pressure range supported by TK3+?",
+            "How do I select between TK3+ and other oil level regulators?",
+            "How does the TK3+ 130bar CO2 oil level controller work?",
+            "What is the maximum pressure range for TK3+ 130bar?",
+            "Which refrigerants are compatible with TK3+ 130bar?",
+            "How does MODBUS connectivity work with TK3+ 130bar?",
+            "What is the maximum pressure range supported by TK4+?",
+            "How does the NFC feature enable remote access and customization?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "day03_chunk_001_TK3+ 130bar CO2 Oil Level Controller",
+        "file_number": 3,
+        "file_title": "Day 3 - Pyramid Course",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "author": "Mathias de Stefano",
+        "work": "Pyramid Course - 42 Days Initiation",
+        "key_concepts": [
+            "High accuracy and reliability due to absence of moving parts",
+            "Compatibility with various refrigerants and oils",
+            "Conformity to EU directives for safety and environmental standards",
+            "Variety of pressure ranges available (46bar, 80bar, 130bar)",
+            "Integration with MODBUS protocol for seamless communication"
+        ],
+        "keywords_primary": [
+            "TK3+ 130bar CO2 Oil Level Controller",
+            "Pressure range (130bar)",
+            "Refrigerant compatibility",
+            "MODBUS protocol",
+            "ATEX certification"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Il catalogo descrive questi dispositivi come regolatori di livello olio basati su tecnologia elettro-ottica infrarossa",
+            "Sono caratterizzati da alta affidabilità grazie all'assenza di parti meccaniche mobili"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by TK3+ 130bar?",
+                "answer": "The TK3+ 130bar CO2 Oil Level Controller supports a maximum pressure range of 130bar, making it suitable for high-pressure applications. Additionally, it also offers lower pressure ranges of 46bar and 80bar for more versatile use cases.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK3+ 130bar CO2 Oil Level Controller ensure high accuracy?",
+                "answer": "The absence of moving parts in the TK3+ 130bar CO2 Oil Level Controller ensures high accuracy and reliability. This design feature eliminates the risk of mechanical failure, resulting in precise oil level measurements. Furthermore, the controller's robust construction and durable materials guarantee long-term performance.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What refrigerants are compatible with the TK3+ 130bar CO2 Oil Level Controller?",
+                "answer": "The TK3+ 130bar CO2 Oil Level Controller is compatible with a range of refrigerants, including R134a, R404A, and CO2. This compatibility ensures that the controller can operate effectively in various applications, from compressors to evaporators.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How does the MODBUS protocol integrate with the TK3+ 130bar CO2 Oil Level Controller?",
+                "answer": "The MODBUS protocol integrates seamlessly with the TK3+ 130bar CO2 Oil Level Controller, enabling remote monitoring and control of oil levels. This integration facilitates efficient operation and reduces downtime, making it an ideal choice for industrial applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What safety certifications does the TK3+ 130bar CO2 Oil Level Controller hold?",
+                "answer": "The TK3+ 130bar CO2 Oil Level Controller holds ATEX certification, ensuring compliance with EU directives for safety and environmental standards. This certification guarantees the controller's reliability and performance in hazardous environments.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+ 130bar?",
+            "Which refrigerants are compatible with the TK3+ 130bar CO2 Oil Level Controller?"
+        ],
+        "summary": "The TK3+ 130bar CO2 Oil Level Controller offers high accuracy and reliability, compatibility with various refrigerants, and integration with MODBUS protocol for seamless communication. It also holds ATEX certification for safe operation in hazardous environments.",
+        "domain_metadata": {
+            "product_family": "TK Series / LC Series",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "negative_examples": {},
+        "follow_up_questions": [],
+        "chain_of_thought": {},
+        "prerequisites": [],
+        "natural_followup": [],
+        "difficulty_level": "intermediate",
+        "tone": [
+            "contemplative",
+            "empowering"
+        ],
+        "sentiment": "empowering",
+        "question_type": "conceptual-practical",
+        "user_intent": [
+            "understanding spiritual concepts",
+            "learning practices"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/general/day03_chunk_001_TK3+ 130bar CO2 Oil Level Controller.json",
+        "chunks/general/day03_chunk_002_TK3+ Oil Level Regulator.json",
+        "chunks/general/day03_chunk_003_TK3+ 130bar CO2 Oil Level Controller.json",
+        "chunks/general/day03_chunk_004_TK3+ 130bar Oil Level Controller.json",
+        "chunks/general/day03_chunk_005_TK4+ 130bar CO2 Oil Level Controller.json"
+    ]
+}

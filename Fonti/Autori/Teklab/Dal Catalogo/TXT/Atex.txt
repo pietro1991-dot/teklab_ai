@@ -1,0 +1,106 @@
+﻿Ex Electro-Optic Level Switch 
+48
+ CE 0948 II 1 G Ex ia IIC T6…T4 Ga 
+  
+
+Safety notes 
+The sensor has been designed and manufactured to achieve the ia intrinsically safety, and to work in potential explosive environment – IIC Group. Regarding the temperature class of the instrument, please look at the table on next page of this document for more details. 
+Operating Principle 
+  
+  
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Mechanical Dimensions 
+
+
+	
+
+
+
+30 
+90 
+Case features 
+cable gland M20x1.5 
+Note. - Quotes in mm. 
+49
+Body materials: Stainless Steel AISI 303, 304, 316L Dome materials: Glass 
+Available Body threads:  from 3/8” up to 3/4” GAS cylindrical;     from 3/8” up to 3/4” GAS conic;     from 3/8” up to 3/4” NPT;     from 5/8”-24 up to 1” 1/8-18 UNEF; from M18 up to M30 ISO metric. 
+POWER SUPPLY 
+	9 ÷ 28 Vdc
+	STORAGE TEMPERATURE 
+	-20°C ÷ 60°C
+	OUTPUT TYPE 
+	Open collector
+	MAX. OUTPUT NPN  
+O.C. SINK CURRENT 
+	40 mA
+	CABLE CAPACITANCE 
+	140 pF/m
+	CABLE INDUCTANCE 
+	1,25 µH/m
+	CABLE RESISTANCE 
+	39 mΩ/m
+	
+
+
+
+Safety Parameters 
+Ui = 30VDC  
+Ii = 160mA  
+Pi = 1,2W 
+Ingress Protection Code:  In front IP68, 20 bar 30min 
+TEMPERATURE CLASS 
+MAX SURFACE TEMPERATURE (TX)
+	MAX WORKING TEMPERATURE RANGE AT LIQUID DETECTING POINT (°C) 
+	AMBIENT TEMPERATURE RANGE (°C)
+	T6 
+	-20 ÷ +60 
+	-20 ÷ +60
+	T5 
+	-20 ÷ +80 
+	-20 ÷ +60
+	T4 
+	-20 ÷ +100 
+	-20 ÷ +60
+	
+
+
+
+Ordering Codes (T6 code examples with Stainless steel AISI 304 housing) 
+MOUNTING THREAD 
+	TEMP. CLASS 
+	OUTPUT MODE 
+	CODE NUMBER
+	3/4” NPT 
+	T6 
+	Normally Open in air 
+	51244001001400
+	1/2” NPT 
+	T6 
+	Normally Open in air 
+	51249001001400
+	1” 1/8 -18 UNEF 
+	T6 
+	Normally Open in air 
+	5124B001001400
+	
+
+
+
+3/4” NPT 
+	T6 
+	Normally Closed in air 
+	51254001001400
+	1/2” NPT 
+	T6 
+	Normally Closed in air 
+	51259001001400
+	1” 1/8 -18 UNEF 
+	T6 
+	Normally Closed in air 
+	5125B001001400
+	
+
+
+
+NOTE. An appropriate intrinsically safe interface must be used and installed in strict accordance with sensor’s technical documentation.

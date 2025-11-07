@@ -1,0 +1,105 @@
+{
+    "id": "teklab_chunk_003_004_TK3+_130bar_CO2_Oil_Level_Controller",
+    "original_text": ".\nOutput: Relay libero da potenziale (NO/NC), fino a 230 VAC @2A per allarme; valvola solenoidale per filling.\nPressione massima di lavoro (MWP): 46 bar, 80 bar o 130 bar; MOPD (differenziale pressione operativa max): 26 bar, 60 bar o 100 bar.\nTemperatura media/ambiente: -40°C a +85°C (media), -40°C a +60°C (ambiente).\nConnessioni: Cable glands (1m) o connettori (3m/6m); linea ritorno olio 7/16-20 UNF maschio.\nMateriali: Acciaio nichelato + vetro fuso; PA rinforzato con fibra di vetro.\nProtezione: IP65.\nMontaggio: Sostituzione sight-glass (flangia 3/4/6 fori); adapter per vari compressori (es. Bitzer, Copeland).\nAltre features: LED per ispezione; sight-glass integrato; manutenzione facile (bobina valvola e sensore sostituibili senza svuotare); filtro opzionale.\n\n\nCodici di esempio: TK3P-A50AB11-01 (24V, 46 bar, 1m cavo), TK3P-C60AA11-02 (24V, 80 bar).\nVantaggi unici: Riduzione giunzioni nel circuito; installazione semplificata; adatto per CO2.\n\nTK4 (Oil Level Regulator with Integrated Connectivity Capabilities)\n\nDescrizione generale: È una versione evoluta del TK3+, con le stesse funzioni di regolazione livello olio (sensore ottico + valvola solenoidale + allarme), ma aggiunge capacità di connettività innovat",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[TK Series] - TK3+ 130bar CO2 Oil Level Controller\nKey Specifications: Primary product feature or specification, Key technical parameter or capability, Main application or use case, Important compatibility or standard, Critical performance characteristic\n📌 Important Details: Relay libero da potenziale (NO/NC), fino a 230 VAC @2A per allarme; valvola solenoidale per filling. | Pressione massima di lavoro (MWP): 46 bar, 80 bar o 130 bar; MOPD (differenziale pressione operativa max): 26 bar, 60 bar o 100 bar.\n\nComplete technical text:\n.\nOutput: Relay libero da potenziale (NO/NC), fino a 230 VAC @2A per allarme; valvola solenoidale per filling.\nPressione massima di lavoro (MWP): 46 bar, 80 bar o 130 bar; MOPD (differenziale pressione operativa max): 26 bar, 60 bar o 100 bar.\nTemperatura media/ambiente: -40°C a +85°C (media), -40°C a +60°C (ambiente).\nConnessioni: Cable glands (1m) o connettori (3m/6m); linea ritorno olio 7/16-20 UNF maschio.\nMateriali: Acciaio nichelato + vetro fuso; PA rinforzato con fibra di vetro.\nProtezione: IP65.\nMontaggio: Sostituzione sight-glass (flangia 3/4/6 fori); adapter per vari compressori (es. Bitzer, Copeland).\nAltre features: LED per ispezione; sight-glass integrato; manutenzione facile (bobina valvola e sensore sostituibili senza svuotare); filtro opzionale.\n\n\nCodici di esempio: TK3P-A50AB11-01 (24V, 46 bar, 1m cavo), TK3P-C60AA11-02 (24V, 80 bar).\nVantaggi unici: Riduzione giunzioni nel circuito; installazione semplificata; adatto per CO2.\n\nTK4 (Oil Level Regulator with Integrated Connectivity Capabilities)\n\nDescrizione generale: È una versione evoluta del TK3+, con le stesse funzioni di regolazione livello olio (sensore ottico + valvola solenoidale + allarme), ma aggiunge capacità di connettività innovat\n\n---\n\nQuestion: What is the maximum pressure range supported by TK3+?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The TK3+ 130bar CO2 oil level controller offers precise control over oil levels in various applications, with a temperature range of -40°C to +85°C. It supports MODBUS and ATEX protocols for seamless integration."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_003_004_TK3+_130bar_CO2_Oil_Level_Controller",
+        "file_index": 3,
+        "file_source": "All_Categories",
+        "chunk_number": 4,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "keywords_primary": [
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +85°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor, refrigeration)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Relay libero da potenziale (NO/NC), fino a 230 VAC @2A per allarme; valvola solenoidale per filling.",
+            "Pressione massima di lavoro (MWP): 46 bar, 80 bar o 130 bar; MOPD (differenziale pressione operativa max): 26 bar, 60 bar o 100 bar."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by TK3+?",
+                "answer": "The TK3+ supports a maximum pressure range of 46bar, 80bar, or 130bar. The MOPD (differenziale pressione operativa max) is 26bar, 60bar, or 100bar for each respective pressure range. This allows for precise control over the oil level in various applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does TK3+ handle temperature extremes?",
+                "answer": "The TK3+ is designed to operate within a temperature range of -40°C to +85°C, making it suitable for use in various refrigeration and air conditioning applications. This ensures reliable performance even in extreme environments.",
+                "difficulty": "beginner",
+                "intent": [
+                    "application_design",
+                    "troubleshooting"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+?",
+            "How does TK3+ handle temperature extremes?"
+        ],
+        "summary": "The TK3+ 130bar CO2 oil level controller offers precise control over oil levels in various applications, with a temperature range of -40°C to +85°C. It supports MODBUS and ATEX protocols for seamless integration.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "46bar / 80bar / 130bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "R410A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

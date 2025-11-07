@@ -1,0 +1,177 @@
+{
+    "file_index": 22,
+    "filename": "Atex Infrared Level Sensors.html",
+    "product_family": "ATEX",
+    "summary_label": "ATEX: Atex Infrared Level Sensors.html",
+    "category": "all",
+    "total_chunks": 4,
+    "chunk_ids": [
+        "teklab_chunk_022_001_Atex_Infrared_Level_Sensors_-_Atex_Infrared_Switch",
+        "teklab_chunk_022_002_",
+        "teklab_chunk_022_003_ATEX_INFRARED_SENSORS",
+        "teklab_chunk_022_004_ATEX_Metallic_IR_sensor_up_to_60°C"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+ 130bar CO2 Oil Level Controller",
+            "MODBUS RTU",
+            "ATEX",
+            "pressure range: 0-600bar",
+            "temperature range: -40°C to +125°C",
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +125°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor, refrigeration)",
+            "TK3+",
+            "EEx Level Switch",
+            "Metallic IR sensor",
+            "60°C"
+        ],
+        "all_concepts": [
+            "Infrared level sensors for industrial applications",
+            "ATEX certification for safe operation",
+            "High accuracy and response time",
+            "Modbus protocol compatibility",
+            "Refrigerant compatibility and safety",
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic",
+            "Temperature range",
+            "Pressure limits",
+            "ATEX certification",
+            "Refrigerant compatibility",
+            "Sensor accuracy"
+        ],
+        "technical_specs": [
+            "The TK3+ 130bar CO2 oil level controller is designed for safe and reliable operation in harsh industrial environments.",
+            "Our ATEX certified infrared level sensors ensure accurate detection of liquid levels, even in the presence of flammable gases.",
+            "Failure to observe this warning could result in serious injury or damages.",
+            "operation mode: detect liquid presence with contact",
+            "body materials: Stainless Steel AISI 303, 304, 316L with Glass sensible dome",
+            "Up to 60°C",
+            "ATEX certification for safe operation",
+            "Refrigerant compatibility for reliable performance"
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for the TK3+ 130bar CO2 oil level controller?",
+            "Which refrigerants are compatible with the TK3+ 130bar CO2 oil level controller?",
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?",
+            "How do I select between TK3+ and TK4?",
+            "Which refrigerants are compatible with [model]?",
+            "What is the maximum pressure for ATEX Metallic IR sensor?",
+            "Which refrigerants are compatible with TK3+ 130bar CO2 Oil Level Controller?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_022_001_Atex_Infrared_Level_Sensors_-_Atex_Infrared_Switch",
+        "file_index": 22,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Atex Infrared Level Sensors - Atex Infrared Switch Sensors | Teklab",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series / LC Series",
+        "key_concepts": [
+            "Infrared level sensors for industrial applications",
+            "ATEX certification for safe operation",
+            "High accuracy and response time",
+            "Modbus protocol compatibility",
+            "Refrigerant compatibility and safety"
+        ],
+        "keywords_primary": [
+            "TK3+ 130bar CO2 Oil Level Controller",
+            "MODBUS RTU",
+            "ATEX",
+            "pressure range: 0-600bar",
+            "temperature range: -40°C to +125°C"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The TK3+ 130bar CO2 oil level controller is designed for safe and reliable operation in harsh industrial environments.",
+            "Our ATEX certified infrared level sensors ensure accurate detection of liquid levels, even in the presence of flammable gases."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The TK3+ 130bar CO2 oil level controller supports a pressure range of 0-600bar, making it suitable for high-pressure applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the MODBUS protocol work with the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The TK3+ 130bar CO2 oil level controller is compatible with the Modbus RTU protocol, allowing for easy integration with industrial control systems.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What safety features does the ATEX certification provide for the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The ATEX certification ensures that the TK3+ 130bar CO2 oil level controller is designed and tested to meet the highest safety standards for operation in explosive environments.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "safety"
+                ]
+            },
+            {
+                "question": "How does the temperature range of -40°C to +125°C affect the performance of the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The temperature range of -40°C to +125°C ensures that the TK3+ 130bar CO2 oil level controller can operate reliably in a wide range of industrial environments.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for the TK3+ 130bar CO2 oil level controller?",
+            "Which refrigerants are compatible with the TK3+ 130bar CO2 oil level controller?"
+        ],
+        "summary": "The Teklab ATEX infrared level sensors offer high accuracy and response time, making them ideal for industrial applications where safety and reliability are paramount.",
+        "domain_metadata": {
+            "product_family": "TK Series / LC Series",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/atex/teklab_chunk_022_001_Atex_Infrared_Level_Sensors_-_Atex_Infrared_Switch.json",
+        "chunks/atex/teklab_chunk_022_002_.json",
+        "chunks/atex/teklab_chunk_022_003_ATEX_INFRARED_SENSORS.json",
+        "chunks/atex/teklab_chunk_022_004_ATEX_Metallic_IR_sensor_up_to_60°C.json"
+    ]
+}

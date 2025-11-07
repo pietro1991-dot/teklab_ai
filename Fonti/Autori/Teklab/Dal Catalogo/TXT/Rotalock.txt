@@ -1,0 +1,99 @@
+﻿Optical Level Control Unit  
+42
+ROTALOCK RLK02 
+Some advantages of this solution:   
+• The absence of mechanical moving parts ensures High reliability  
+• Well consolidated steel with fused glass technology ensures no  
+leakage and good chemical compatibility 
+• Electronic sensor can be easily replaced without emptying and/or 
+depressurizing the plant due to the two parts design 
+• Extended working temperature range 
+• No need for calibrations on the field 
+• Rotalock 1” 3/4 - 12 UNF and Rotalock 2” 1/4 - 12 UNF available 
+• Unit conform to directives 2014/30/UE and 2014/35/UE. 
+Application Description 
+The optical level switch has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible replacing the electronics without the needing  of emptying or depressurizing the plant. 
+The sensor is suitable as minimum or maximum alarm. 
+Delays can be introduced in order to satisfy particular needing or avoid false alarms. 
+Operating Principle 
+  
+  
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+43
+SUPPLY VOLTAGE (± 10%) 
+	230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage protection
+	ELECTRICAL CONNECTION 
+	EN 175301-803A connector (EX DIN 43650 size A)
+	OUTPUT SIGNAL 
+	Solid state output Normally Open or Normally Closed in air.
+	SUPPLY CURRENT 
+	20mA max. during normal operation
+	OUTPUT MAX. CURRENT 
+	Up to 100 mA
+	HOUSING MATERIAL 
+	Nickel plated steel
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	WORKING TEMPERATURE RANGE 
+	-40°C÷ +125°C 
+	MAX PRESSURE 
+	46 bar (for higher pressures, please contact the supplier)
+	TORQUE TIGHTEN 
+	50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter
+	
+
+
+
+Mechanical Dimensions 
+130 130 
+5638 
+
+
+	
+
+	
+
+
+
+28 
+56 
+38 
+
+
+	
+
+	
+
+
+
+28 
+78.3 77.4 
+RLK02 ROTALOCK 
+1” 3/4 - 12 UNFRLK02 ROTALOCK 
+2” 1/4 - 12 UNF 
+Note. - Quotes in mm. 
+Ordering Codes 
+Power supply/ 
+Adapters
+	24VAC/DC 
+Normally Open (In air)
+	24VAC/DC 
+Normally Closed (In air)
+	230VAC  
+Normally Open (In air)
+	230VAC  
+Normally Closed (In air)
+	1” - 3/4 ROTALOCK 
+	RLK02007100001001A00 
+	RLK02007101001001A00 
+	RLK02007D00001001A00 
+	RLK02007D01001001A00
+	2” - 1/4 ROTALOCK 
+	RLK02107100001001A00 
+	RLK02107101001001A00 
+	RLK02107D00001001A00 
+	RLK02107D01001001A00

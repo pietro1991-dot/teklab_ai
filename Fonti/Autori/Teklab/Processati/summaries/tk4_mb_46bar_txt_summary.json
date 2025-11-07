@@ -1,0 +1,141 @@
+{
+    "file_index": 19,
+    "filename": "tk4 mb 46bar.txt",
+    "product_family": "TK_Series",
+    "summary_label": "TK_Series: tk4 mb 46bar.txt",
+    "category": "all",
+    "total_chunks": 1,
+    "chunk_ids": [
+        "teklab_chunk_019_001_TK4MB_@46_bar_Oil_Level_Regulator"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK4MB",
+            "46bar",
+            "MODBUS",
+            "ATEX",
+            "oil level regulator"
+        ],
+        "all_concepts": [
+            "Compact dimensions",
+            "Modbus RTU connectivity",
+            "High reliability",
+            "Sight glass and electronic LEDs",
+            "Well consolidated steel with fused glass technology"
+        ],
+        "technical_specs": [
+            "Integrated filtering element in series with the valve.",
+            "High reliability ensured by absence of mechanical moving parts."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by the TK4MB?",
+            "How does the TK4MB ensure accurate oil level monitoring?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_019_001_TK4MB_@46_bar_Oil_Level_Regulator",
+        "file_index": 19,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK4MB @46 bar Oil Level Regulator",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "Compact dimensions",
+            "Modbus RTU connectivity",
+            "High reliability",
+            "Sight glass and electronic LEDs",
+            "Well consolidated steel with fused glass technology"
+        ],
+        "keywords_primary": [
+            "TK4MB",
+            "46bar",
+            "MODBUS",
+            "ATEX",
+            "oil level regulator"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Integrated filtering element in series with the valve.",
+            "High reliability ensured by absence of mechanical moving parts."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the advantage of using the TK4MB oil level regulator?",
+                "answer": "The TK4MB offers compact dimensions, Modbus RTU connectivity, high reliability, and a sight glass with electronic LEDs for easy inspection. This results in reduced installation time and simplified maintenance.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK4MB ensure high reliability?",
+                "answer": "The absence of mechanical moving parts ensures high reliability. Additionally, the integrated filtering element in series with the valve reduces the risk of contamination and ensures accurate oil level monitoring.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "What is the benefit of using Modbus RTU connectivity?",
+                "answer": "Modbus RTU connectivity enables easy communication between the TK4MB and system controllers, simplifying integration and setup. This also allows for remote monitoring and control of oil level management.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK4MB simplify installation?",
+                "answer": "The compact dimensions of the TK4MB reduce the number of junctions in the circuit, minimizing the risk of leakages and simplifying installation. Additionally, left/right mounting possibility with the same TK4-MB reduces the complexity of setup.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "installation"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by the TK4MB?",
+            "How does the TK4MB ensure accurate oil level monitoring?"
+        ],
+        "summary": "The TK4MB oil level regulator offers compact dimensions, Modbus RTU connectivity, and high reliability, simplifying installation and maintenance.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/tk_series/teklab_chunk_019_001_TK4MB_@46_bar_Oil_Level_Regulator.json"
+    ]
+}

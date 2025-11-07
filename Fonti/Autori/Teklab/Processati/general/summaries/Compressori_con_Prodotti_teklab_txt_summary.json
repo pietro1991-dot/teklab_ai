@@ -1,0 +1,136 @@
+{
+    "file_index": 1,
+    "filename": "Compressori con Prodotti teklab.txt",
+    "product_family": "General",
+    "summary_label": "General: Compressori con Prodotti teklab.txt",
+    "category": "general",
+    "total_chunks": 1,
+    "chunk_ids": [
+        "day01_chunk_001_Bitzer Compatibility Overview"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "LC-PS",
+            "Bitzer",
+            "Bock",
+            "Carrier",
+            "Copeland",
+            "Danfoss",
+            "Dorin"
+        ],
+        "all_concepts": [
+            "Semi-hermetic reciprocating compressors",
+            "Hydrocarbon and low-GWP refrigerants",
+            "Refrigeration system compatibility"
+        ],
+        "technical_specs": [
+            "Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6, 2CHC, 2DC, 2EC, 2FC, 2GC, 2HC, 2JC, 2KC, 4CC, 4DC, 4EC, 4FC series."
+        ],
+        "natural_questions": [
+            "What refrigerants are compatible with Bitzer compressors?",
+            "Which pressure range does TK3+ support?",
+            "How do I select between TK3+ and TK4?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "day01_chunk_001_Bitzer Compatibility Overview",
+        "file_number": 1,
+        "file_title": "Day 1 - Pyramid Course",
+        "chunk_number": 1,
+        "chunk_title": "Bitzer Compatibility Overview",
+        "author": "Mathias de Stefano",
+        "work": "Pyramid Course - 42 Days Initiation",
+        "key_concepts": [
+            "Semi-hermetic reciprocating compressors",
+            "Hydrocarbon and low-GWP refrigerants",
+            "Refrigeration system compatibility"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "LC-PS",
+            "Bitzer",
+            "Bock",
+            "Carrier",
+            "Copeland",
+            "Danfoss",
+            "Dorin"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6, 2CHC, 2DC, 2EC, 2FC, 2GC, 2HC, 2JC, 2KC, 4CC, 4DC, 4EC, 4FC series."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What refrigerants are compatible with Bitzer compressors?",
+                "answer": "Bitzer is compatible with hydrocarbon and low-GWP models such as HA4, HA5, HA6, HG4, HG5, HG6, HG7, HG8, HGX4/310-4, HGX4/385-4, HGX12P, HGX22P, HGX34P series. Additionally, Bitzer is compatible with semi-hermetic reciprocating compressors such as 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6, 2CHC, 2DC, 2EC, 2FC, 2GC, 2HC, 2JC, 2KC, 4CC, 4DC, 4EC, 4FC series.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the maximum pressure range for TK3+?",
+                "answer": "The TK3+ oil level controller supports a maximum pressure range of 130bar. It also features MODBUS communication and ATEX certification.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How do I select between TK3+ and TK4?",
+                "answer": "The selection between TK3+ and TK4 depends on the specific application requirements. Both controllers offer high accuracy and response time, but they differ in their pressure range and features. It is recommended to consult with a technical expert or refer to the product documentation for more information.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What refrigerants are compatible with Bitzer compressors?",
+            "Which pressure range does TK3+ support?",
+            "How do I select between TK3+ and TK4?"
+        ],
+        "summary": "Bitzer is a widely used semi-hermetic reciprocating compressor brand that offers compatibility with various refrigerant models. The TK3+ oil level controller features MODBUS communication and ATEX certification, making it suitable for industrial applications.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ]
+        },
+        "negative_examples": {},
+        "follow_up_questions": [],
+        "chain_of_thought": {},
+        "prerequisites": [],
+        "natural_followup": [],
+        "difficulty_level": "intermediate",
+        "tone": [
+            "contemplative",
+            "empowering"
+        ],
+        "sentiment": "empowering",
+        "question_type": "conceptual-practical",
+        "user_intent": [
+            "understanding spiritual concepts",
+            "learning practices"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/general/day01_chunk_001_Bitzer Compatibility Overview.json"
+    ]
+}

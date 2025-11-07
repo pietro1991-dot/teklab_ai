@@ -1,0 +1,176 @@
+{
+    "file_index": 23,
+    "filename": "Level Switches.html",
+    "product_family": "General",
+    "summary_label": "General: Level Switches.html",
+    "category": "all",
+    "total_chunks": 4,
+    "chunk_ids": [
+        "teklab_chunk_023_001_Electro_Optical_Liquid_Sensors_-_Electro_Optical_L",
+        "teklab_chunk_023_002_",
+        "teklab_chunk_023_003_Level_Switches",
+        "teklab_chunk_023_004_teaching_4"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK Series",
+            "Liquid level sensors",
+            "Controllers",
+            "Pressure range",
+            "Temperature limits",
+            "TK3+",
+            "Infrared Technology",
+            "Pressure Switch",
+            "Liquid Level Sensor",
+            "Monitoring Critical Media"
+        ],
+        "all_concepts": [
+            "Liquid level sensors and controllers for industrial refrigeration and air conditioning applications",
+            "Pressure range and accuracy specifications",
+            "Temperature limits and compatibility with various refrigerants",
+            "MODBUS communication protocol and ATEX certification",
+            "Application selection for compressors, evaporators, and other systems",
+            "Electro-optic Infrared Technology",
+            "High Reliability",
+            "Alarm Functionality"
+        ],
+        "technical_specs": [
+            "The TK3+ 130bar CO2 Oil Level Controller features a pressure range of 0-600bar and an accuracy of ±1%.",
+            "The LC-PS series liquid level sensors are designed for use in refrigeration systems, with temperature limits ranging from -40°C to +125°C.",
+            "These level switches use electro-optic infrared technology for their operation.",
+            "The switch gives an alarm when low (or high) liquid level is detected."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by the TK3+ CO2 Oil Level Controller?",
+            "How does the MODBUS protocol work with Teklab liquid level sensors?",
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK4?",
+            "What is the maximum pressure range for level switches?",
+            "How do I select between different types of level switches?",
+            ",\n"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_023_001_Electro_Optical_Liquid_Sensors_-_Electro_Optical_L",
+        "file_index": 23,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Electro Optical Liquid Sensors - Electro Optical Level Switches | Teklab",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "Liquid level sensors and controllers for industrial refrigeration and air conditioning applications",
+            "Pressure range and accuracy specifications",
+            "Temperature limits and compatibility with various refrigerants",
+            "MODBUS communication protocol and ATEX certification",
+            "Application selection for compressors, evaporators, and other systems"
+        ],
+        "keywords_primary": [
+            "TK Series",
+            "Liquid level sensors",
+            "Controllers",
+            "Pressure range",
+            "Temperature limits"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The TK3+ 130bar CO2 Oil Level Controller features a pressure range of 0-600bar and an accuracy of ±1%.",
+            "The LC-PS series liquid level sensors are designed for use in refrigeration systems, with temperature limits ranging from -40°C to +125°C."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by the TK3+ 130bar CO2 Oil Level Controller?",
+                "answer": "The TK3+ 130bar CO2 Oil Level Controller features a pressure range of 0-600bar and an accuracy of ±1%. This makes it suitable for use in high-pressure applications, such as compressor systems. Additionally, the controller is designed to operate within a temperature range of -40°C to +125°C, making it ideal for use in refrigeration systems.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the MODBUS protocol work with the Teklab liquid level sensors?",
+                "answer": "The MODBUS protocol is a widely used communication standard in industrial control systems. With the Teklab liquid level sensors, MODBUS allows for easy integration and monitoring of liquid levels in real-time. This enables users to make data-driven decisions and optimize their processes. Additionally, the sensors can be easily configured and programmed using the MODBUS protocol, making it a convenient option for users who need to integrate multiple devices into their system.",
+                "difficulty": "advanced",
+                "intent": [
+                    "application_design",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the ATEX certification of the Teklab liquid level sensors?",
+                "answer": "The Teklab liquid level sensors are certified to the ATEX standard, which ensures that they meet the required safety standards for use in explosive environments. This makes them suitable for use in applications where flammable gases or vapors may be present. The ATEX certification also provides assurance that the sensors can operate safely and reliably in these environments.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "safety"
+                ]
+            },
+            {
+                "question": "How do I select between the TK3+ and TK4 liquid level controllers?",
+                "answer": "The selection between the TK3+ and TK4 liquid level controllers depends on the specific requirements of your application. The TK3+ controller is designed for use in applications where a lower pressure range is required, while the TK4 controller offers a higher pressure range. Additionally, the TK4 controller has an increased accuracy of ±0.5%, making it suitable for use in high-precision applications. It's recommended to consult with a Teklab expert or review the product documentation to determine which controller best meets your needs.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by the TK3+ CO2 Oil Level Controller?",
+            "How does the MODBUS protocol work with Teklab liquid level sensors?"
+        ],
+        "summary": "The Teklab liquid level sensors and controllers offer a range of features and benefits for industrial refrigeration and air conditioning applications. With their high accuracy, reliable operation, and ease of integration, they are an ideal choice for users who need to monitor and control liquid levels in real-time.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "46bar / 80bar / 130bar / custom",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "R410A",
+                "CO2",
+                "ammonia"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU",
+                "analog 4-20mA",
+                "relay output"
+            ],
+            "application_type": [
+                "compressor",
+                "evaporator",
+                "separator",
+                "receiver"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/general/teklab_chunk_023_001_Electro_Optical_Liquid_Sensors_-_Electro_Optical_L.json",
+        "chunks/general/teklab_chunk_023_002_.json",
+        "chunks/general/teklab_chunk_023_003_Level_Switches.json",
+        "chunks/general/teklab_chunk_023_004_teaching_4.json"
+    ]
+}

@@ -152,8 +152,8 @@ def get_session_id():
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3.2:3b"
 
-# Carica embeddings cache
-EMBEDDINGS_CACHE = PROJECT_ROOT / "ai_system" / "Embedding" / "embeddings_cache.pkl"
+# Carica embeddings cache - NUOVA STRUTTURA TEKLAB
+EMBEDDINGS_CACHE = PROJECT_ROOT / "ai_system" / "Embedding" / "teklab_embeddings_cache.pkl"
 _embeddings_cache = None
 _model_embeddings = None
 
@@ -165,9 +165,13 @@ def load_embeddings():
         return True
     
     try:
-        logger.info("📚 Caricamento embeddings cache...")
+        logger.info("📚 Caricamento embeddings cache (TEKLAB chunks)...")
         with open(EMBEDDINGS_CACHE, 'rb') as f:
             _embeddings_cache = pickle.load(f)
+        
+        # Verifica versione cache
+        cache_version = _embeddings_cache.get('version', 'unknown')
+        logger.info(f"   Cache version: {cache_version}")
         
         # Carica modello per query encoding (FORZA CPU)
         # SKIP se offline o problemi di rete

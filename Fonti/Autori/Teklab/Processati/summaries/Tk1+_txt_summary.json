@@ -1,0 +1,147 @@
+{
+    "file_index": 11,
+    "filename": "Tk1+.txt",
+    "product_family": "TK_Series",
+    "summary_label": "TK_Series: Tk1+.txt",
+    "category": "all",
+    "total_chunks": 1,
+    "chunk_ids": [
+        "teklab_chunk_011_001_TK1+_Level_Control_Unit"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK1+ Level Control Unit",
+            "Mechanical Moving Parts Absent",
+            "24VAC / 230VAC Power Supply Options",
+            "Easy Installation and Replacement",
+            "Customizable Delays for Specific Applications"
+        ],
+        "all_concepts": [
+            "Reliability and High Accuracy",
+            "Easy Installation and Maintenance",
+            "Customizable Delays for Specific Applications",
+            "Integration with Various Compressor Types",
+            "High Chemical Compatibility and Resistance to Corrosion"
+        ],
+        "technical_specs": [
+            "The absence of mechanical moving parts ensures High reliability.",
+            "Well consolidated steel with fused glass technology ensures no leakage and good chemical compatibility."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by the TK1+ Level Control Unit?",
+            "How do I select between different models of the TK1+ Level Control Unit?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_011_001_TK1+_Level_Control_Unit",
+        "file_index": 11,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK1+ Level Control Unit",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "Reliability and High Accuracy",
+            "Easy Installation and Maintenance",
+            "Customizable Delays for Specific Applications",
+            "Integration with Various Compressor Types",
+            "High Chemical Compatibility and Resistance to Corrosion"
+        ],
+        "keywords_primary": [
+            "TK1+ Level Control Unit",
+            "Mechanical Moving Parts Absent",
+            "24VAC / 230VAC Power Supply Options",
+            "Easy Installation and Replacement",
+            "Customizable Delays for Specific Applications"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The absence of mechanical moving parts ensures High reliability.",
+            "Well consolidated steel with fused glass technology ensures no leakage and good chemical compatibility."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What makes the TK1+ Level Control Unit so reliable?",
+                "answer": "The TK1+ Level Control Unit is designed to provide high accuracy and reliability due to its mechanical moving parts being absent. This ensures that the unit operates consistently and minimizes downtime. Additionally, the use of well consolidated steel with fused glass technology provides excellent chemical compatibility and resistance to corrosion.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How do I install the TK1+ Level Control Unit?",
+                "answer": "The TK1+ Level Control Unit is designed for easy installation. The sight-glass replacement process allows for quick and simple setup, making it an ideal solution for various applications. Furthermore, the unit can be easily replaced without emptying or depressurizing the plant due to its two-part design.",
+                "difficulty": "beginner",
+                "intent": [
+                    "installation",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "What are the customizable delay options available for the TK1+ Level Control Unit?",
+                "answer": "The TK1+ Level Control Unit offers customizable delays for specific applications. This allows users to tailor the unit's performance to meet their unique requirements. The delay options can be adjusted on request, ensuring that the unit operates efficiently and effectively.",
+                "difficulty": "advanced",
+                "intent": [
+                    "application_design",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "How does the TK1+ Level Control Unit integrate with various compressor types?",
+                "answer": "The TK1+ Level Control Unit is designed to integrate seamlessly with various compressor types. The direct mounting possibility and adapters provided ensure a smooth installation process, making it an ideal solution for a wide range of applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What are the environmental conditions that the TK1+ Level Control Unit can withstand?",
+                "answer": "The TK1+ Level Control Unit is designed to operate in a variety of environmental conditions. The unit can withstand temperatures ranging from -40°C to +85°C and ambient temperatures up to +60°C, making it an ideal solution for applications requiring high reliability.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by the TK1+ Level Control Unit?",
+            "How do I select between different models of the TK1+ Level Control Unit?"
+        ],
+        "summary": "The TK1+ Level Control Unit is a reliable and accurate solution for various applications. Its easy installation, customizable delays, and integration with various compressor types make it an ideal choice for users requiring high performance.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/tk_series/teklab_chunk_011_001_TK1+_Level_Control_Unit.json"
+    ]
+}

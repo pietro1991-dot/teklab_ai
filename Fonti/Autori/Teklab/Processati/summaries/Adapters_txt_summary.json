@@ -1,0 +1,122 @@
+{
+    "file_index": 2,
+    "filename": "Adapters.txt",
+    "product_family": "Support",
+    "summary_label": "Support: Adapters.txt",
+    "category": "all",
+    "total_chunks": 1,
+    "chunk_ids": [
+        "teklab_chunk_002_001_TK3+_Adapters_Addendum_30"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+ adapter mounting",
+            "compressor brand/model selection",
+            "pressure range (130bar, 0-600bar)",
+            "temperature limits (-40°C, +125°C)",
+            "refrigerant compatibility (R134a, R404A, CO2)"
+        ],
+        "all_concepts": [
+            "Mounting possibilities for TK3+ adapters",
+            "Adapter selection table for different compressor brands/models",
+            "Pressure range and temperature limits for TK3+",
+            "Refrigerant compatibility for TK3+",
+            "Feature overview of MODBUS and ATEX certification"
+        ],
+        "technical_specs": [
+            "'L1' adapter for direct mounting",
+            "3/4/6 holes flange (also as a spacer 50 mm) for TKX-A003"
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+ adapters?",
+            "Which refrigerants are compatible with TK3+?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_002_001_TK3+_Adapters_Addendum_30",
+        "file_index": 2,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ Adapters Addendum 30",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "Mounting possibilities for TK3+ adapters",
+            "Adapter selection table for different compressor brands/models",
+            "Pressure range and temperature limits for TK3+",
+            "Refrigerant compatibility for TK3+",
+            "Feature overview of MODBUS and ATEX certification"
+        ],
+        "keywords_primary": [
+            "TK3+ adapter mounting",
+            "compressor brand/model selection",
+            "pressure range (130bar, 0-600bar)",
+            "temperature limits (-40°C, +125°C)",
+            "refrigerant compatibility (R134a, R404A, CO2)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "'L1' adapter for direct mounting",
+            "3/4/6 holes flange (also as a spacer 50 mm) for TKX-A003"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What pressure range does the TK3+ adapter support?",
+                "answer": "The TK3+ adapter supports a pressure range of 0-600bar, with specific ratings for different compressor brands/models. For example, G2; G4; G6 compressors require a 0 or 3 bar rating, while others may require a custom solution. It is essential to consult the selection table and manufacturer documentation to determine the correct adapter for your application.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How do I select between TK3+ and TK4 adapters?",
+                "answer": "When selecting between TK3+ and TK4 adapters, consider the specific requirements of your application. Both adapters offer different mounting possibilities and pressure ranges. The TK3+ adapter is suitable for direct mounting and has a lower pressure range (0-130bar), while the TK4 adapter offers more flexibility with its 3/4/6 holes flange and higher pressure range (0-600bar). Consult the selection table and manufacturer documentation to determine which adapter best meets your needs.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+ adapters?",
+            "Which refrigerants are compatible with TK3+?"
+        ],
+        "summary": "The TK3+ adapter offers various mounting possibilities and supports a range of compressor brands/models. It is essential to consult the selection table and manufacturer documentation to determine the correct adapter for your application.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "0-600bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/support/teklab_chunk_002_001_TK3+_Adapters_Addendum_30.json"
+    ]
+}

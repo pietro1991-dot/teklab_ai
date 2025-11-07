@@ -1,0 +1,337 @@
+﻿SUITABLE FOR CO2 SYSTEMS 
+22
+TK3+ @80 bar 
+Oil Level Regulator 
+  
+CONNECTORS VERSION TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Some advantages of this solution: 
+• Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK3+ • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+• Usage of less components (simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time). 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection). • 24 VAC / 230 VAC power supply options. 
+Application Description 
+CABLE GLANDS VERSION   
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT)     
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK3+ is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and so  improve its lifetime. TK3+ monitors the oil level with the embedded  electro-optic sensor and comprises a solenoid valve for oil filling  and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK3+ OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+23
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK3+ requires 30VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION
+	9.4mm Industry Standard Connectors / EN175301-803 Connector 
+or spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	80 bar (higher pressure limits available on different TK3+ models)
+	MOPD 
+	60 bar (higher pressure limits available on different TK3+ models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions (connectors version) 
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+78 
+62 
+76 
+59.5 
+107.75 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"L1" 43 37 "L" 
+L = 134.5 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CONNECTORS 
+3 m
+	CONNECTORS 
+6 m
+	 24 V 
+	TK3P-C60AA11-02 
+	TK3P-C60AC13-02 
+	TK3P-C60AC16-02
+	 230 V 
+	TK3P-C60BA11-02 
+	TK3P-C60BC13-02 
+	TK3P-C60BC16-02
+	
+
+
+
+Suggested ordering codes not include oil strainer element. Adapters must be ordered  separately. 
+L1 = 37

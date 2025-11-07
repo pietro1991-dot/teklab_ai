@@ -1,16 +1,15 @@
 """
-Creazione Automatica Chunks RAG con Ollama (VELOCE - 10x PIÙ VELOCE)
+Creazione Automatica Chunks RAG con Ollama - TEKLAB AI
 ====================================================================
 
-Legge trascrizioni originali e genera chunk strutturati JSON con:
+Legge documentazione tecnica Teklab e genera chunk strutturati JSON con:
 - Messages (system/user/assistant)
-- Metadata completa
-- Keywords, quotes, formulas
-- Q&A pairs
+- Metadata tecnica (prodotti, specifiche, applicazioni)
+- Keywords tecniche, quotes importanti
+- Q&A pairs per assistenza tecnica
 
-Usa Ollama + llama.cpp per generazione 10x più veloce:
-- PyTorch: 2.5-4 giorni per 716 trascrizioni
-- Ollama: 6-12 ore per 716 trascrizioni!
+Usa Ollama + llama3.2:3b per generazione veloce di metadata
+Ottimizzato per documentazione industriale B2B (sensori livello liquido)
 """
 
 import json
@@ -24,6 +23,7 @@ import sys
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 sys.path.insert(0, str(PROJECT_ROOT / "ai_system" / "src"))
+sys.path.insert(0, str(PROJECT_ROOT / "Prompt"))  # Per chunk_prompts_config
 
 # Import Ollama client
 try:
@@ -33,92 +33,145 @@ except ImportError:
     OLLAMA_AVAILABLE = False
     print("⚠️  requests non disponibile - installa con: pip install requests")
 
-# Configurazioni Path Base
-FONTI_BASE = PROJECT_ROOT / "Fonti" / "Autori"
+# Configurazioni Path Base - TEKLAB
+FONTI_BASE = PROJECT_ROOT / "Fonti" / "Autori" / "Teklab"  # Path diretto a Teklab
 
 # Ollama settings
 OLLAMA_MODEL = "llama3.2:3b"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
-# Funzioni per gestione dinamica struttura
-def get_available_authors() -> List[str]:
-    """Restituisce lista autori disponibili"""
+# Funzioni per gestione documentazione Teklab
+def get_teklab_files() -> List[Path]:
+    """Restituisce tutti i file di documentazione Teklab (.txt, .html)
+    
+    Cerca in:
+    - Fonti/Autori/Teklab/*.txt|.html (root)
+    - Fonti/Autori/Teklab/Dal Catalogo/TXT/*.txt
+    - Fonti/Autori/Teklab/Dal Sito/**/*.html
+    """
     if not FONTI_BASE.exists():
+        print(f"❌ Cartella Teklab non trovata: {FONTI_BASE}")
         return []
-    return [d.name for d in FONTI_BASE.iterdir() if d.is_dir()]
+    
+    files = []
+    
+    # 1. File nella root Teklab
+    for ext in ['*.txt', '*.html', '*.htm']:
+        files.extend(FONTI_BASE.glob(ext))
+    
+    # 2. File in Dal Catalogo/TXT/
+    catalogo_txt = FONTI_BASE / "Dal Catalogo" / "TXT"
+    if catalogo_txt.exists():
+        files.extend(catalogo_txt.glob("*.txt"))
+    
+    # 3. File in Dal Sito/ (ricorsivo)
+    dal_sito = FONTI_BASE / "Dal Sito"
+    if dal_sito.exists():
+        for ext in ['*.html', '*.htm']:
+            files.extend(dal_sito.rglob(ext))  # rglob = ricorsivo
+    
+    return sorted(set(files))  # Rimuovi duplicati e ordina
 
-def get_available_works(author: str) -> List[Dict[str, Path]]:
-    """Restituisce lista opere per autore con path originali e processati
+def get_teklab_categories() -> Dict[str, List[Path]]:
+    """Raggruppa file Teklab per categoria prodotto
     
     Returns:
-        List[Dict] con keys: 'name', 'originali_path', 'processati_path'
+        Dict con categories: 'Oil_Level_Regulators', 'Level_Switches', 'Sensors', 'Support', 'General'
     """
-    author_path = FONTI_BASE / author
-    originali_path = author_path / "Originali"
+    files = get_teklab_files()
+    categories = {
+        'Oil_Level_Regulators': [],  # TK3+, TK4, TK4MB
+        'Level_Switches': [],         # TK1+, LC-XT, LC-XP, LC-PH, LC-PS, Rotalock
+        'Sensors': [],                # K25, K11, ATEX
+        'Support': [],                # Adapters, Communication, Guides
+        'General': []                 # Company info, other docs
+    }
     
-    if not originali_path.exists():
-        return []
+    for file in files:
+        filename = file.name.lower()
+        parent = file.parent.name.lower()
+        
+        # Oil Level Regulators: TK3+, TK4, TK4MB (tutti con 46/80/130 bar)
+        if any(x in filename for x in ['tk3+', 'tk3 ', 'tk4 ', 'tk4mb']):
+            categories['Oil_Level_Regulators'].append(file)
+        
+        # Level Switches: TK1+, LC series, Rotalock
+        elif any(x in filename for x in ['tk1+', 'tk1 ', 'lc-ps', 'lc-ph', 'lc-xp', 'lc-xt', 'lc ps', 'lc ph', 'lc xp', 'lc xt', 'rotalock']):
+            categories['Level_Switches'].append(file)
+        
+        # Sensors: K25, K11, ATEX
+        elif any(x in filename for x in ['k25', 'k11', 'atex']):
+            categories['Sensors'].append(file)
+        
+        # Support: Adapters, Communication, Guides
+        elif any(x in filename for x in ['adapter', 'communication', 'innovative', 'guide', 'faq', 'troubleshooting']):
+            categories['Support'].append(file)
+        
+        # General: Company presentation, catalogs, other
+        elif any(x in filename for x in ['presentazione', 'catalogue', 'catalog', 'company', 'compressor']):
+            categories['General'].append(file)
+        
+        # Fallback: se dal sito web, probabilmente general
+        elif 'dal sito' in str(file.parent).lower():
+            categories['General'].append(file)
+        
+        else:
+            categories['General'].append(file)
     
-    works = []
-    for work_dir in originali_path.iterdir():
-        if work_dir.is_dir():
-            works.append({
-                'name': work_dir.name,
-                'originali_path': work_dir,
-                'processati_path': author_path / "Processati" / work_dir.name
-            })
+    return categories
     
-    return works
+    return categories
 
 def select_work_interactive() -> Optional[Dict[str, Path]]:
-    """Selezione interattiva autore e opera"""
-    authors = get_available_authors()
+    """Selezione interattiva categoria Teklab"""
+    categories = get_teklab_categories()
     
-    if not authors:
-        print("❌ Nessun autore trovato in Fonti/Autori/")
+    # Rimuovi categorie vuote
+    categories = {k: v for k, v in categories.items() if v}
+    
+    if not categories:
+        print("❌ Nessun file trovato in Fonti/Autori/Teklab/")
         return None
     
-    print("\n📚 Autori disponibili:")
-    for i, author in enumerate(authors, 1):
-        print(f"   {i}. {author}")
+    print("\n📚 Categorie prodotti Teklab disponibili:")
+    cat_list = list(categories.keys())
+    for i, cat in enumerate(cat_list, 1):
+        count = len(categories[cat])
+        print(f"   {i}. {cat} ({count} file)")
     
-    if len(authors) == 1:
-        selected_author = authors[0]
-        print(f"\n✅ Autore selezionato: {selected_author}")
+    if len(cat_list) == 1:
+        selected_cat = cat_list[0]
+        print(f"\n✅ Categoria selezionata: {selected_cat}")
     else:
-        choice = input("\nSeleziona autore (1-{}): ".format(len(authors)))
+        choice = input(f"\nSeleziona categoria (1-{len(cat_list)}) o 'all' per tutte: ")
+        
+        if choice.lower() == 'all':
+            # Processa tutte le categorie
+            return {
+                'name': 'All_Categories',
+                'originali_path': FONTI_BASE,
+                'processati_path': FONTI_BASE / "Processati",
+                'files': [f for files in categories.values() for f in files],
+                'category': 'all'
+            }
+        
         try:
-            selected_author = authors[int(choice) - 1]
+            selected_cat = cat_list[int(choice) - 1]
         except (ValueError, IndexError):
             print("❌ Selezione non valida")
             return None
     
-    works = get_available_works(selected_author)
-    
-    if not works:
-        print(f"❌ Nessuna opera trovata per {selected_author}")
-        return None
-    
-    print(f"\n📖 Opere disponibili per {selected_author}:")
-    for i, work in enumerate(works, 1):
-        print(f"   {i}. {work['name']}")
-    
-    if len(works) == 1:
-        selected_work = works[0]
-        print(f"\n✅ Opera selezionata: {selected_work['name']}")
-    else:
-        choice = input("\nSeleziona opera (1-{}): ".format(len(works)))
-        try:
-            selected_work = works[int(choice) - 1]
-        except (ValueError, IndexError):
-            print("❌ Selezione non valida")
-            return None
-    
-    return selected_work
+    # Ritorna info categoria selezionata
+    return {
+        'name': selected_cat,
+        'originali_path': FONTI_BASE,
+        'processati_path': FONTI_BASE / "Processati" / selected_cat.lower(),
+        'files': categories[selected_cat],
+        'category': selected_cat.lower()
+    }
 
-# Carica system prompt dal prompt_config
+# Carica system prompt dal prompt_config (REQUIRED - no fallback)
 try:
-    sys.path.insert(0, str(PROJECT_ROOT / "Prompt"))
     from prompts_config import SYSTEM_PROMPT
     from chunk_prompts_config import (
         get_chunk_prompt, 
@@ -128,18 +181,15 @@ try:
         get_available_variants,
         get_variant_description
     )
+    print("✅ Prompt Teklab caricati correttamente\n")
 except ImportError as e:
-    print(f"⚠️  Errore import prompt config: {e}")
-    # Fallback se non disponibile
-    SYSTEM_PROMPT = """Sei una GUIDA SPIRITUALE esperta con conoscenze approfondite in crescita personale, filosofie spirituali e pratiche di consapevolezza.
-
-MISSION: Fornire insegnamenti profondi e pratici su spiritualità, crescita interiore, meditazione, consapevolezza e connessione con il Sé superiore."""
-    CHUNK_SYSTEM_PROMPT = "You are an expert at analyzing spiritual teachings."
-    SEMANTIC_CHUNKING_SYSTEM_PROMPT = "You are an expert at text analysis."
-    SEMANTIC_CHUNKING_PROMPT = None
-    get_chunk_prompt = None
-    get_available_variants = lambda: ["default"]
-    get_variant_description = lambda v: "Default variant"
+    print(f"\n❌ ERRORE CRITICO: Impossibile caricare prompt Teklab!")
+    print(f"   Dettaglio: {e}")
+    print(f"   Verifica che esistano:")
+    print(f"   - Prompt/prompts_config.py")
+    print(f"   - Prompt/chunk_prompts_config.py")
+    print(f"\n   Impossibile procedere senza prompt Teklab.\n")
+    sys.exit(1)
 
 
 class ChunkCreatorOllama:
@@ -169,15 +219,21 @@ class ChunkCreatorOllama:
         if work_info is None:
             work_info = select_work_interactive()
             if work_info is None:
-                raise ValueError("Nessuna opera selezionata")
+                raise ValueError("Nessuna categoria selezionata")
         
         self.work_name = work_info['name']
         self.originali_path = work_info['originali_path']
         self.processati_path = work_info['processati_path']
+        self.category = work_info.get('category', 'general')
         
-        print(f"\n📚 Opera: {self.work_name}")
+        # Salva lista file se fornita (per Teklab)
+        self.files_list = work_info.get('files', [])
+        
+        print(f"\n📚 Categoria: {self.work_name}")
         print(f"   Originali: {self.originali_path}")
         print(f"   Processati: {self.processati_path}")
+        if self.files_list:
+            print(f"   File da processare: {len(self.files_list)}")
         
         # Salva variante prompt
         self.prompt_variant = prompt_variant
@@ -281,59 +337,76 @@ class ChunkCreatorOllama:
         
         return ""
     
-    def find_transcripts(self, pattern: str = "Day_*_Transcript.txt") -> List[Path]:
-        """Trova tutte le trascrizioni originali"""
-        transcripts = sorted(self.originali_path.glob(pattern))
-        return transcripts
+    def find_transcripts(self, pattern: str = "*.txt") -> List[Path]:
+        """Trova tutti i file di documentazione Teklab
+        
+        Args:
+            pattern: Pattern glob per ricerca file (default: "*.txt")
+                    Supporta "*.html", "*.htm", "*.pdf"
+        
+        Returns:
+            Lista ordinata di file Path
+        """
+        if hasattr(self, 'files_list') and self.files_list:
+            # Usa lista file fornita dalla selezione interattiva
+            return sorted(self.files_list)
+        else:
+            # Fallback: cerca pattern nella cartella originali
+            files = sorted(self.originali_path.glob(pattern))
+            # Aggiungi anche HTML se cercavi txt
+            if pattern == "*.txt":
+                files.extend(sorted(self.originali_path.glob("*.html")))
+                files.extend(sorted(self.originali_path.glob("*.htm")))
+            return sorted(set(files))  # Rimuovi duplicati e ordina
     
-    def extract_day_number(self, filename: str) -> Optional[int]:
-        """Estrae numero unità (giorno/capitolo/sezione) da filename
+    def extract_file_index(self, filename: str) -> Optional[int]:
+        """Estrae indice numerico da filename (se presente)
         
         Supporta formati:
-        - Day_X_Transcript.txt -> X
-        - Chapter_X.txt -> X
-        - Section_X.txt -> X
-        - Part_X.txt -> X
-        """
-        patterns = [
-            r'Day_(\d+)',
-            r'Chapter_(\d+)',
-            r'Section_(\d+)',
-            r'Part_(\d+)',
-            r'day(\d+)',
-            r'chapter(\d+)',
-            r'section(\d+)',
-            r'part(\d+)',
-        ]
+        - TK3_46bar_Manual.txt -> None (usa indice lista)
+        - 001_Product_Guide.txt -> 1
+        - Product_v2.txt -> 2
         
-        for pattern in patterns:
-            match = re.search(pattern, filename, re.IGNORECASE)
-            if match:
-                return int(match.group(1))
+        Returns:
+            Numero estratto o None (verrà usato indice lista)
+        """
+        # Pattern per numeri espliciti all'inizio
+        match = re.search(r'^(\d+)', filename)
+        if match:
+            return int(match.group(1))
+        
+        # Pattern per versioni
+        match = re.search(r'_v(\d+)', filename, re.IGNORECASE)
+        if match:
+            return int(match.group(1))
         
         return None
     
-    def detect_unit_type(self, filename: str) -> str:
-        """Rileva tipo unità dal filename
+    def detect_product_family(self, filename: str) -> str:
+        """Rileva famiglia prodotto dal filename
         
         Returns:
-            'day', 'chapter', 'section', 'part', o 'unit'
+            'TK_Series', 'LC_Series', 'K25', 'Rotalock', 'ATEX', 'Support', 'General'
         """
         filename_lower = filename.lower()
         
-        if 'day' in filename_lower:
-            return 'day'
-        elif 'chapter' in filename_lower or 'capitolo' in filename_lower:
-            return 'chapter'
-        elif 'section' in filename_lower or 'sezione' in filename_lower:
-            return 'section'
-        elif 'part' in filename_lower or 'parte' in filename_lower:
-            return 'part'
+        if any(x in filename_lower for x in ['tk1', 'tk3', 'tk4']):
+            return 'TK_Series'
+        elif any(x in filename_lower for x in ['lc-ps', 'lc-ph', 'lc-xp', 'lc-xt']):
+            return 'LC_Series'
+        elif 'k25' in filename_lower:
+            return 'K25'
+        elif 'rotalock' in filename_lower or 'rlk' in filename_lower:
+            return 'Rotalock'
+        elif 'atex' in filename_lower:
+            return 'ATEX'
+        elif any(x in filename_lower for x in ['adapter', 'accessory', 'guide', 'faq', 'support']):
+            return 'Support'
         else:
-            return 'unit'  # generico
+            return 'General'
     
     def load_transcript(self, transcript_path: Path) -> str:
-        """Carica contenuto trascrizione"""
+        """Carica contenuto file documentazione (txt o html)"""
         try:
             with open(transcript_path, 'r', encoding='utf-8') as f:
                 return f.read()
@@ -787,26 +860,27 @@ Respond ONLY with valid JSON - no markdown, no extra text."""
     def create_chunk_json(
         self, 
         section_text: str, 
-        day_num: int, 
+        file_index: int, 
         chunk_num: int,
         metadata: Dict
     ) -> Dict:
         """
-        Crea struttura JSON completa del chunk
+        Crea struttura JSON completa del chunk per documentazione Teklab
         
         Args:
             section_text: Testo della sezione
-            day_num: Numero giorno
+            file_index: Indice file (non più day_num)
             chunk_num: Numero chunk
             metadata: Metadata generata da Llama
         
         Returns:
             Dict in formato chunk completo
         """
-        # ID chunk
-        chunk_id = f"day{day_num:02d}_chunk_{chunk_num:03d}_{metadata['chunk_title']}"
+        # ID chunk con nome file più descrittivo
+        safe_title = metadata['chunk_title'].replace(' ', '_').replace('/', '_')[:50]
+        chunk_id = f"teklab_chunk_{file_index:03d}_{chunk_num:03d}_{safe_title}"
         
-        # Usa la prima domanda naturale o fallback (gestione robusta)
+        # Usa la prima domanda naturale o fallback tecnico
         natural_questions = metadata.get('natural_questions', [])
         if natural_questions and len(natural_questions) > 0:
             main_question = natural_questions[0]
@@ -814,39 +888,43 @@ Respond ONLY with valid JSON - no markdown, no extra text."""
             # Fallback: cerca nelle Q&A pairs
             qa_pairs = metadata.get('qa_pairs', [])
             if qa_pairs and len(qa_pairs) > 0:
-                main_question = qa_pairs[0].get('question', 'What is this teaching about?')
+                main_question = qa_pairs[0].get('question', 'What are the technical specifications?')
             else:
-                main_question = 'What is this teaching about?'
+                main_question = 'What are the technical specifications of this product?'
         
-        # Context per user message
-        context_text = f"""Informative context (DON'T cite authors in response):
+        # Context per user message - TECNICO, non spirituale
+        product_family = metadata.get('domain_metadata', {}).get('product_family', 'General')
+        # Gestisci se product_family è una lista (Ollama può restituire array)
+        if isinstance(product_family, list):
+            product_family = product_family[0] if product_family else 'General'
+        context_text = f"""Technical documentation context (Teklab industrial products):
 
-[DAY {day_num}] - {metadata.get('chunk_title', 'Teaching')}
-Concepts: {', '.join(metadata.get('key_concepts', []))}
-📌 Quotes: {' | '.join(metadata.get('iconic_quotes', [])[:3])}
+[{product_family}] - {metadata.get('chunk_title', 'Product Information')}
+Key Specifications: {', '.join(metadata.get('key_concepts', [])[:5])}
+📌 Important Details: {' | '.join(metadata.get('iconic_quotes', [])[:2])}
 
-Complete text:
+Complete technical text:
 {section_text}
 
 ---
 
 Question: {main_question}
 
-Respond as an expert spiritual guide:
-- Wise and illuminating
-- Explain spiritual principles accessibly
-- Give concrete practices with specific exercises/meditations
-- NO author citations (use info as if it were yours)
-- Focus on TRANSFORMING the person's consciousness"""
+Respond as an expert Teklab technical sales assistant:
+- Provide accurate technical specifications
+- Explain product features and applications clearly
+- Give installation and configuration guidance
+- Focus on PRACTICAL IMPLEMENTATION and compatibility
+- Cite pressure ranges, temperatures, certifications when relevant"""
 
-        # Struttura completa chunk
+        # Struttura completa chunk - METADATA TEKLAB
         chunk = {
             "id": chunk_id,
             "original_text": section_text,  # TESTO COMPLETO ORIGINALE
             "messages": [
                 {
                     "role": "system",
-                    "content": SYSTEM_PROMPT
+                    "content": SYSTEM_PROMPT  # Già modificato per Teklab
                 },
                 {
                     "role": "user",
@@ -859,12 +937,13 @@ Respond as an expert spiritual guide:
             ],
             "metadata": {
                 "chunk_id": chunk_id,
-                "file_number": day_num,
-                "file_title": f"Day {day_num} - Pyramid Course",
+                "file_index": file_index,
+                "file_source": self.work_name,  # Es: "General", "TK_Series"
                 "chunk_number": chunk_num,
                 "chunk_title": metadata['chunk_title'],
-                "author": "Mathias de Stefano",
-                "work": "Pyramid Course - 42 Days Initiation",
+                "manufacturer": "Teklab S.r.l.",
+                "document_type": "Technical Documentation",
+                "product_category": product_family,
                 "key_concepts": metadata.get('key_concepts', []),
                 "keywords_primary": metadata.get('keywords_primary', []),
                 "keywords_synonyms": {},  # Può essere espanso
@@ -873,37 +952,38 @@ Respond as an expert spiritual guide:
                 "qa_pairs": metadata.get('qa_pairs', []),  # Q&A COMPLETE
                 "natural_questions": metadata.get('natural_questions', []),
                 "summary": metadata.get('summary', ''),
-                "domain_metadata": metadata.get('domain_metadata', {}),
-                "negative_examples": {},  # Opzionale
-                "follow_up_questions": [],  # Può essere generato
-                "chain_of_thought": {},  # Opzionale
-                "prerequisites": [],
-                "natural_followup": [],
-                "difficulty_level": "intermediate",
-                "tone": ["contemplative", "empowering"],
-                "sentiment": "empowering",
-                "question_type": "conceptual-practical",
-                "user_intent": ["understanding spiritual concepts", "learning practices"],
+                "domain_metadata": metadata.get('domain_metadata', {}),  # pressure_class, refrigerants, etc.
+                "applications": [],  # Può essere popolato
+                "compatibility": [],  # Compressor brands/models
+                "certifications": metadata.get('domain_metadata', {}).get('certifications', []),
+                "difficulty_level": "technical",  # beginner/intermediate/advanced
+                "content_type": "product_specification",  # specification/installation/troubleshooting
+                "target_audience": ["HVAC engineers", "refrigeration technicians", "system integrators"],
                 "importance": 0.85,  # Default
                 "relevance": 8,  # Default
-                "language": "en"
+                "language": "en"  # Detect from text if needed
             }
         }
         
         return chunk
     
-    def save_chunk(self, chunk: Dict, day_num: int, output_dir: Optional[Path] = None):
+    def save_chunk(self, chunk: Dict, file_index: int, output_dir: Optional[Path] = None):
         """
         Salva chunk in file JSON
         
         Args:
             chunk: Dizionario chunk completo
-            day_num: Numero giorno
-            output_dir: Directory output (default: Processati/{work_name}/chunks/dayXX)
+            file_index: Indice file (non più day_num)
+            output_dir: Directory output (default: Processati/{category}/chunks/)
         """
         if output_dir is None:
-            # Crea path dinamico: Processati/{work_name}/chunks/dayXX
-            output_dir = self.processati_path / "chunks" / f"day{day_num:02d}"
+            # Usa product_family se disponibile, altrimenti category
+            product_family = chunk.get('metadata', {}).get('product_category', 'general')
+            # Gestisci lista da Ollama
+            if isinstance(product_family, list):
+                product_family = product_family[0] if product_family else 'general'
+            safe_family = str(product_family).lower().replace(' ', '_')
+            output_dir = self.processati_path / "chunks" / safe_family
         
         # Crea directory se non esiste
         output_dir.mkdir(parents=True, exist_ok=True)
@@ -921,20 +1001,22 @@ Respond as an expert spiritual guide:
         except Exception as e:
             print(f"   ❌ Errore salvataggio {filename}: {e}")
     
-    def generate_unit_summary(
+    def generate_file_summary(
         self,
-        unit_num: int,
-        unit_type: str,
+        file_index: int,
+        product_family: str,
         chunks: List[Dict],
+        filename: str,
         output_dir: Optional[Path] = None
     ):
         """
-        Genera summary aggregato per unità (giorno/capitolo/sezione)
+        Genera summary aggregato per file documentazione Teklab
         
         Args:
-            unit_num: Numero unità
-            unit_type: Tipo unità ('day', 'chapter', 'section', 'part')
-            chunks: Lista chunk dell'unità
+            file_index: Indice file
+            product_family: Famiglia prodotto ('TK_Series', 'LC_Series', etc.)
+            chunks: Lista chunk del file
+            filename: Nome file originale
             output_dir: Directory output (default: processati_path/summaries/)
         """
         if not chunks:
@@ -962,7 +1044,7 @@ Respond as an expert spiritual guide:
             # Concepts
             all_concepts.extend(metadata.get('key_concepts', []))
             
-            # Quotes
+            # Quotes (specifiche tecniche importanti)
             all_quotes.extend(metadata.get('iconic_quotes', []))
             
             # Questions
@@ -975,100 +1057,95 @@ Respond as an expert spiritual guide:
         all_questions = list(dict.fromkeys(all_questions))
         
         # Crea summary
-        unit_label = {
-            'day': f'Day {unit_num}',
-            'chapter': f'Chapter {unit_num}',
-            'section': f'Section {unit_num}',
-            'part': f'Part {unit_num}',
-            'unit': f'Unit {unit_num}'
-        }.get(unit_type, f'Unit {unit_num}')
+        safe_filename = filename.replace(' ', '_').replace('.', '_')
+        summary_label = f"{product_family}: {filename}"
         
         summary = {
-            "unit_number": unit_num,
-            "unit_type": unit_type,
-            "unit_label": unit_label,
-            "work_name": self.work_name,
+            "file_index": file_index,
+            "filename": filename,
+            "product_family": product_family,
+            "summary_label": summary_label,
+            "category": self.category,
             "total_chunks": len(chunks),
             "chunk_ids": chunk_ids,
             
             "aggregated_metadata": {
                 "all_keywords": all_keywords,
                 "all_concepts": all_concepts,
-                "iconic_quotes": all_quotes,
+                "technical_specs": all_quotes,  # Specs importanti estratte
                 "natural_questions": all_questions
             },
             
             # Metadata primo chunk (per info generali)
-            "unit_metadata": chunks[0].get('metadata', {}) if chunks else {},
+            "file_metadata": chunks[0].get('metadata', {}) if chunks else {},
             
             "chunk_files": [
-                f"chunks/{unit_type}{unit_num:02d}/{chunk.get('id', '')}.json"
+                f"chunks/{product_family.lower()}/{chunk.get('id', '')}.json"
                 for chunk in chunks
             ]
         }
         
         # Salva summary
-        filename = f"{unit_type}{unit_num:02d}_summary.json"
-        filepath = output_dir / filename
+        summary_filename = f"{safe_filename}_summary.json"
+        filepath = output_dir / summary_filename
         
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(summary, f, indent=4, ensure_ascii=False)
-            print(f"   📊 Summary: {filename}")
+            print(f"   📊 Summary: {summary_filename}")
         except Exception as e:
             print(f"   ❌ Errore salvataggio summary: {e}")
     
     def process_transcript(
         self, 
         transcript_path: Path,
+        file_index: Optional[int] = None,
         max_chunks: Optional[int] = None,
         save: bool = True
     ) -> List[Dict]:
         """
-        Processa una trascrizione completa con sistema checkpoint
+        Processa un file di documentazione Teklab con sistema checkpoint
         
         Args:
-            transcript_path: Path al file trascrizione
+            transcript_path: Path al file documentazione (.txt, .html)
+            file_index: Indice file nella lista (se None, usa extract_file_index)
             max_chunks: Massimo numero chunk da creare (None = tutti)
             save: Se True, salva chunk su file
         
         Returns:
             Lista di chunk creati
         """
-        # Estrai numero e tipo unità
-        unit_num = self.extract_day_number(transcript_path.name)
-        if unit_num is None:
-            print(f"❌ Impossibile estrarre numero unità da {transcript_path.name}")
-            return []
+        # Estrai indice file (per checkpoint e organizzazione)
+        if file_index is None:
+            file_index = self.extract_file_index(transcript_path.name)
+            if file_index is None:
+                # Usa stem del filename come ID se non c'è numero
+                file_index = hash(transcript_path.stem) % 10000  # Hash ridotto a 4 cifre
         
         # Verifica checkpoint esistente
-        checkpoint_file = self.checkpoint_dir / f"unit_{unit_num}_checkpoint.json"
+        safe_filename = transcript_path.stem.replace(' ', '_').replace('.', '_')
+        checkpoint_file = self.checkpoint_dir / f"file_{safe_filename}_checkpoint.json"
         if checkpoint_file.exists():
-            print(f"\n💾 Trovato checkpoint per Unit {unit_num}")
+            print(f"\n💾 Trovato checkpoint per {transcript_path.name}")
             try:
                 with open(checkpoint_file, 'r', encoding='utf-8') as f:
                     checkpoint_data = json.load(f)
                 print(f"   ✅ Ripristinati {len(checkpoint_data['chunks'])} chunk già processati")
-                print("   ⏩ Salto questa unità (già completata)")
+                print("   ⏩ Salto questo file (già completato)")
                 return checkpoint_data['chunks']
             except Exception as e:
                 print(f"   ⚠️  Errore lettura checkpoint: {e}")
-                print("   🔄 Riprocesso unità da zero...")
+                print("   🔄 Riprocesso file da zero...")
         
-        unit_type = self.detect_unit_type(transcript_path.name)
-        unit_label = {
-            'day': f'Day {unit_num}',
-            'chapter': f'Chapter {unit_num}',
-            'section': f'Section {unit_num}',
-            'part': f'Part {unit_num}',
-            'unit': f'Unit {unit_num}'
-        }.get(unit_type, f'Unit {unit_num}')
+        # Rileva famiglia prodotto e genera label
+        product_family = self.detect_product_family(transcript_path.name)
+        file_label = f"{product_family}: {transcript_path.name}"
         
-        print(f"\n📄 Processamento: {unit_label}")
+        print(f"\n📄 Processamento: {file_label}")
         print("-" * 70)
         
         # Carica testo
-        print("   📖 Caricamento trascrizione...")
+        print("   📖 Caricamento documentazione...")
         text = self.load_transcript(transcript_path)
         if not text:
             return []
@@ -1114,25 +1191,26 @@ Respond as an expert spiritual guide:
             
             # Genera metadata con AI
             print("      🧠 Estrazione metadata...")
-            metadata = self.generate_chunk_metadata(section, unit_num, i)
+            metadata = self.generate_chunk_metadata(section, file_index, i)
             
             # Crea struttura chunk
             print("      📦 Creazione struttura JSON...")
-            chunk = self.create_chunk_json(section, unit_num, i, metadata)
+            chunk = self.create_chunk_json(section, file_index, i, metadata)
             chunks.append(chunk)
             
             # Salva singolo chunk
             if save:
                 print("      💾 Salvataggio chunk...")
-                self.save_chunk(chunk, unit_num)
+                self.save_chunk(chunk, file_index)
             
             # CHECKPOINT: Salva progresso dopo ogni chunk
             if save and i % 3 == 0:  # Checkpoint ogni 3 chunk
                 print(f"      💾 Checkpoint progresso ({i}/{len(sections)} chunk)...")
                 try:
                     checkpoint_data = {
-                        'unit_num': unit_num,
-                        'unit_label': unit_label,
+                        'file_index': file_index,
+                        'file_label': file_label,
+                        'product_family': product_family,
                         'total_chunks': len(sections),
                         'processed_chunks': i,
                         'chunks': chunks
@@ -1144,11 +1222,12 @@ Respond as an expert spiritual guide:
         
         # CHECKPOINT FINALE: Salva stato completo
         if save:
-            print(f"\n   💾 Checkpoint finale...")
+            print("\n   💾 Checkpoint finale...")
             try:
                 checkpoint_data = {
-                    'unit_num': unit_num,
-                    'unit_label': unit_label,
+                    'file_index': file_index,
+                    'file_label': file_label,
+                    'product_family': product_family,
                     'total_chunks': len(sections),
                     'processed_chunks': len(chunks),
                     'chunks': chunks,
@@ -1160,69 +1239,118 @@ Respond as an expert spiritual guide:
             except Exception as e:
                 print(f"   ⚠️  Errore salvataggio checkpoint finale: {e}")
         
-        print(f"\n✅ {unit_label} completato: {len(chunks)} chunk creati")
+        print(f"\n✅ {file_label} completato: {len(chunks)} chunk creati")
         
         # Genera summary aggregato
         if save and chunks:
-            self.generate_unit_summary(unit_num, unit_type, chunks)
+            self.generate_file_summary(file_index, product_family, chunks, transcript_path.name)
         
         return chunks
     
-    def process_multiple_days(
+    def process_multiple_files(
         self, 
-        day_numbers: List[int],
-        max_chunks_per_day: Optional[int] = None
+        file_indices: Optional[List[int]] = None,
+        max_chunks_per_file: Optional[int] = None
     ):
         """
-        Processa più unità in sequenza (giorni/capitoli/sezioni)
+        Processa più file documentazione Teklab in sequenza
         
         Args:
-            day_numbers: Lista numeri unità da processare
-            max_chunks_per_day: Max chunk per unità (None = tutti)
+            file_indices: Lista indici file da processare (None = tutti)
+            max_chunks_per_file: Max chunk per file (None = tutti)
         """
         print("\n" + "=" * 70)
-        print("🚀 CREAZIONE CHUNK AUTOMATICA CON LLAMA")
+        print("🚀 CREAZIONE CHUNK TEKLAB CON LLAMA")
         print("=" * 70)
         
         total_chunks = 0
-        processed_units = 0
+        processed_files = 0
+        skipped_files = 0
         
-        for unit_num in day_numbers:
-            # Trova trascrizione con pattern flessibili
-            patterns = [
-                f"Day_{unit_num}_*.txt",
-                f"Day{unit_num}_*.txt",
-                f"Chapter_{unit_num}_*.txt",
-                f"Chapter{unit_num}_*.txt",
-                f"Section_{unit_num}_*.txt",
-                f"Part_{unit_num}_*.txt",
-                f"day_{unit_num}_*.txt",
-                f"chapter_{unit_num}_*.txt",
-            ]
+        # Get file list
+        files = self.find_transcripts()
+        
+        if not files:
+            print("❌ Nessun file trovato!")
+            return
+        
+        # Filter by indices if provided
+        if file_indices:
+            files = [f for i, f in enumerate(files, 1) if i in file_indices]
+        
+        # Verifica checkpoint esistenti
+        print(f"\n📋 File da processare: {len(files)}")
+        print("\n🔍 Verifica checkpoint esistenti...")
+        
+        already_done = []
+        to_process = []
+        
+        for file_path in files:
+            safe_filename = file_path.stem.replace(' ', '_').replace('.', '_')
+            checkpoint_file = self.checkpoint_dir / f"file_{safe_filename}_checkpoint.json"
             
-            transcripts = []
-            for pattern in patterns:
-                transcripts = list(self.originali_path.glob(pattern))
-                if transcripts:
-                    break
+            if checkpoint_file.exists():
+                try:
+                    with open(checkpoint_file, 'r', encoding='utf-8') as f:
+                        checkpoint_data = json.load(f)
+                    if checkpoint_data.get('completed', False):
+                        already_done.append((file_path, len(checkpoint_data.get('chunks', []))))
+                    else:
+                        to_process.append(file_path)
+                except Exception:
+                    to_process.append(file_path)
+            else:
+                to_process.append(file_path)
+        
+        if already_done:
+            print(f"\n✅ File già completati ({len(already_done)}):")
+            for fpath, num_chunks in already_done[:10]:  # Mostra max 10
+                print(f"   ✓ {fpath.name} ({num_chunks} chunks)")
+            if len(already_done) > 10:
+                print(f"   ... e altri {len(already_done) - 10} file")
+        
+        if to_process:
+            print(f"\n📝 File da processare ({len(to_process)}):")
+            for fpath in to_process[:10]:  # Mostra max 10
+                print(f"   → {fpath.name}")
+            if len(to_process) > 10:
+                print(f"   ... e altri {len(to_process) - 10} file")
+        else:
+            print(f"\n🎉 Tutti i {len(files)} file sono già stati processati!")
+            print(f"   Totale chunks esistenti: {sum(n for _, n in already_done)}")
+            return
+        
+        print(f"\n{'='*70}")
+        
+        # Process only files that need it
+        for idx, file_path in enumerate(to_process, 1):
+            print(f"\n{'='*70}")
+            print(f"File {idx}/{len(to_process)}: {file_path.name}")
+            print(f"{'='*70}")
             
-            if not transcripts:
-                print(f"\n⚠️  Unit {unit_num}: trascrizione non trovata")
-                continue
-            
-            # Processa
+            # Process file
             chunks = self.process_transcript(
-                transcripts[0],
-                max_chunks=max_chunks_per_day,
+                file_path,
+                file_index=idx,
+                max_chunks=max_chunks_per_file,
                 save=True
             )
-            total_chunks += len(chunks)
-            processed_units += 1
+            
+            if chunks:
+                total_chunks += len(chunks)
+                processed_files += 1
+            else:
+                skipped_files += 1
         
         print("\n" + "=" * 70)
-        print("✅ COMPLETATO!")
-        print(f"   Unità processate: {processed_units}")
-        print(f"   Chunk totali creati: {total_chunks}")
+        print("✅ ELABORAZIONE COMPLETATA!")
+        print(f"   File già completati: {len(already_done)}")
+        print(f"   File processati ora: {processed_files}")
+        print(f"   File saltati (errori): {skipped_files}")
+        print(f"   Totale file: {len(files)}")
+        print(f"   Chunk creati ora: {total_chunks}")
+        if processed_files > 0:
+            print(f"   Media chunk per file: {total_chunks/processed_files:.1f}")
         print("=" * 70)
 
 
@@ -1290,46 +1418,36 @@ def main():
             print(f"   [{marker}] {variant}: {desc}")
         print()
     
-    # Selezione opera
+    # Selezione categoria Teklab
     work_info = None
     if args.author and args.work:
-        # Usa argomenti CLI
-        works = get_available_works(args.author)
-        work_info = next((w for w in works if w['name'] == args.work), None)
-        if work_info is None:
-            print(f"❌ Opera '{args.work}' non trovata per autore '{args.author}'")
-            print(f"   Opere disponibili: {[w['name'] for w in works]}")
-            return
+        # CLI mode non supportato - usa selezione interattiva
+        print("⚠️  Modalità CLI non disponibile per Teklab")
+        print("   Usa selezione interattiva (rimuovi --author e --work)")
+        return
     # else: usa selezione interattiva (gestita in ChunkCreator.__init__)
     
-    # Determina giorni da processare
+    # Determina file da processare
+    file_indices = None
     if args.days:
-        day_numbers = args.days
+        file_indices = args.days  # Riusa come indici file
     elif args.range:
-        day_numbers = list(range(args.range[0], args.range[1] + 1))
+        file_indices = list(range(args.range[0], args.range[1] + 1))
     else:
-        # Default: chiedi interattivamente
-        print("\n🦙 CHUNK CREATOR - LLAMA RAG")
+        # Default: processa tutti i file (opzionale: chiedi interattivamente)
+        print("\n🦙 CHUNK CREATOR TEKLAB - LLAMA RAG")
         print("=" * 70)
-        print("\nScegli giorni da processare:")
-        print("  1. Singolo giorno")
-        print("  2. Range giorni (es: 1-10)")
-        print("  3. Tutti i giorni disponibili")
+        print("\nProcessare tutti i file disponibili?")
+        print("  1. Sì, processa tutto")
+        print("  2. No, seleziona range file (es: 1-5)")
         
-        choice = input("\nScelta [1/2/3]: ").strip()
+        choice = input("\nScelta [1/2]: ").strip()
         
-        if choice == '1':
-            day = int(input("Numero giorno: "))
-            day_numbers = [day]
-        elif choice == '2':
-            start = int(input("Giorno iniziale: "))
-            end = int(input("Giorno finale: "))
-            day_numbers = list(range(start, end + 1))
-        elif choice == '3':
-            day_numbers = list(range(1, 366))  # Max range, script skipperà file mancanti
-        else:
-            print("❌ Scelta non valida")
-            return
+        if choice == '2':
+            start = int(input("File iniziale (indice): "))
+            end = int(input("File finale (indice): "))
+            file_indices = list(range(start, end + 1))
+        # else: file_indices rimane None = processa tutti
     
     # Inizializza creator con variante prompt e work info (OLLAMA)
     creator = ChunkCreatorOllama(
@@ -1338,10 +1456,10 @@ def main():
         work_info=work_info  # None = selezione interattiva
     )
     
-    # Processa
-    creator.process_multiple_days(
-        day_numbers=day_numbers,
-        max_chunks_per_day=args.max_chunks
+    # Processa file Teklab
+    creator.process_multiple_files(
+        file_indices=file_indices,
+        max_chunks_per_file=args.max_chunks
     )
 
 

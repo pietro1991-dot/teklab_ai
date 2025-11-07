@@ -1,0 +1,222 @@
+{
+    "file_index": 2,
+    "filename": "Technical notes.html",
+    "product_family": "General",
+    "summary_label": "General: Technical notes.html",
+    "category": "all",
+    "total_chunks": 4,
+    "chunk_ids": [
+        "teklab_chunk_002_001_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_002_002_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_002_003_Product_topic_title",
+        "teklab_chunk_002_004_"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "130bar",
+            "CO2",
+            "oil level controller",
+            "pressure range",
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +125°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor, refrigeration)",
+            "pressure_range (e.g., 130bar)",
+            "temperature (e.g., -40°C)",
+            "feature (e.g., MODBUS)",
+            "application (e.g., compressor)",
+            "MODBUS",
+            "ATEX Certification",
+            "Oil Level Regulators",
+            "Refrigeration Systems"
+        ],
+        "all_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic",
+            "Level Sensors",
+            "Infrared Technology",
+            "Pressure Ranges",
+            "Temperature Limits",
+            "Refrigerant Compatibility"
+        ],
+        "technical_specs": [
+            "The TK3+ 130bar CO2 oil level controller is designed to provide accurate and reliable pressure measurement for industrial applications.",
+            "Our controllers are built with high-quality components and undergo rigorous testing to ensure maximum performance and reliability.",
+            "The MODBUS protocol allows for easy integration with existing control systems, making it a popular choice among engineers and technicians.",
+            "The TK3+ 130bar CO2 Oil Level Controller is designed to provide accurate and reliable oil level measurement in harsh industrial environments.",
+            "With its robust MODBUS communication interface, the TK3+ can be easily integrated into existing control systems.",
+            "Key technical specification or feature from the text",
+            "Important application note or compatibility detail",
+            "Bologna: 309270<br />",
+            "Paid-in Capital: € 10.000,00 i.v."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+ 130bar?",
+            "How does TK3+ 130bar CO2 oil level controller ensure accurate measurement?",
+            "Which refrigerants are compatible with TK3+ 130bar?",
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?",
+            "What is the maximum pressure range for TK3+?",
+            "How does the TK3+ controller handle temperature fluctuations?",
+            "What is the maximum pressure range for TK3+ oil level regulators?",
+            "Which refrigerants are compatible with TK3+ oil level regulators?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_002_001_TK3+_130bar_CO2_Oil_Level_Controller",
+        "file_index": 2,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series",
+        "key_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "130bar",
+            "CO2",
+            "oil level controller",
+            "pressure range"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The TK3+ 130bar CO2 oil level controller is designed to provide accurate and reliable pressure measurement for industrial applications.",
+            "Our controllers are built with high-quality components and undergo rigorous testing to ensure maximum performance and reliability.",
+            "The MODBUS protocol allows for easy integration with existing control systems, making it a popular choice among engineers and technicians."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The TK3+ 130bar CO2 oil level controller supports a pressure range of 0-600bar, making it suitable for industrial applications where high-pressure measurement is required.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK3+ 130bar CO2 oil level controller ensure accurate pressure measurement?",
+                "answer": "The TK3+ 130bar CO2 oil level controller uses a high-accuracy sensor and advanced signal processing algorithms to provide reliable and accurate pressure measurement.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the communication protocol supported by the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The TK3+ 130bar CO2 oil level controller supports MODBUS RTU protocol, making it easy to integrate with existing control systems.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How do I install and wire the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The installation and wiring of the TK3+ 130bar CO2 oil level controller requires careful attention to detail and adherence to safety protocols. Please refer to the user manual for detailed instructions.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "installation",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "What is the typical application of the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The TK3+ 130bar CO2 oil level controller is commonly used in industrial refrigeration and air conditioning applications where accurate pressure measurement is critical.",
+                "difficulty": "beginner",
+                "intent": [
+                    "application_selection",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "How does the TK3+ 130bar CO2 oil level controller handle temperature fluctuations?",
+                "answer": "The TK3+ 130bar CO2 oil level controller is designed to operate within a wide temperature range, making it suitable for applications where temperature fluctuations are common.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the typical response time of the TK3+ 130bar CO2 oil level controller?",
+                "answer": "The response time of the TK3+ 130bar CO2 oil level controller is typically within 1-2 seconds, making it suitable for applications where fast response times are critical.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How does the TK3+ 130bar CO2 oil level controller handle electrical noise and interference?",
+                "answer": "The TK3+ 130bar CO2 oil level controller is designed to reject electrical noise and interference, ensuring accurate pressure measurement even in noisy environments.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "troubleshooting"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+ 130bar?",
+            "How does TK3+ 130bar CO2 oil level controller ensure accurate measurement?",
+            "Which refrigerants are compatible with TK3+ 130bar?"
+        ],
+        "summary": "The TK3+ 130bar CO2 oil level controller is a high-accuracy pressure measurement device designed for industrial applications. It supports MODBUS RTU protocol, has a wide temperature range, and provides fast response times.",
+        "domain_metadata": {
+            "product_family": "TK Series",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/general/teklab_chunk_002_001_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/general/teklab_chunk_002_002_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/general/teklab_chunk_002_003_Product_topic_title.json",
+        "chunks/general/teklab_chunk_002_004_.json"
+    ]
+}

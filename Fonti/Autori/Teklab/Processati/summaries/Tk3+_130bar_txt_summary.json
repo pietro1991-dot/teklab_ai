@@ -1,0 +1,175 @@
+{
+    "file_index": 12,
+    "filename": "Tk3+ 130bar.txt",
+    "product_family": "TK_Series",
+    "summary_label": "TK_Series: Tk3+ 130bar.txt",
+    "category": "all",
+    "total_chunks": 4,
+    "chunk_ids": [
+        "teklab_chunk_012_001_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_012_002_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_012_003_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_012_004_TK3+_130bar_CO2_Oil_Level_Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+ 130bar",
+            "CO2 oil level controller",
+            "pressure range 130bar",
+            "left/right mounting possibility",
+            "sight glass and electronic LEDs",
+            "TK3+",
+            "130bar CO2",
+            "oil level control",
+            "pressure range",
+            "temperature limits",
+            "Oil level control",
+            "Solenoid valve",
+            "Relay output",
+            "Frigomec reservoir",
+            "Temperature range",
+            "TK3+ 130bar CO2",
+            "oil level sensor",
+            "pressure range (130bar)",
+            "temperature limits (-40°C to +125°C)",
+            "MODBUS protocol compatibility"
+        ],
+        "all_concepts": [
+            "Compact dimensions",
+            "Reduced number of junctions for leakages",
+            "Simplified installation",
+            "High reliability with no mechanical moving parts",
+            "Direct sight glass replacement",
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic",
+            "Oil level monitoring with electro-optic sensor",
+            "Solenoid valve for oil filling and alarm output",
+            "Relay output contact for alarm indication",
+            "Reservoir integration with Frigomec",
+            "Temperature range -40°C to +85°C",
+            "Pressure range 130bar with custom limits available",
+            "Electrical connection via Industry Standard Connectors",
+            "Pressure range and accuracy",
+            "Temperature limits and compatibility",
+            "Application selection for compressors and refrigeration systems",
+            "Installation and wiring requirements",
+            "Troubleshooting common issues with oil level sensors",
+            "Integration with MODBUS protocol"
+        ],
+        "technical_specs": [
+            "Some advantages of this solution: Extremely compact dimensions",
+            "Left/Right mounting possibility with the same TK3+ • Reduction of the number of junctions in the circuit with less possibility of having leakages",
+            "Direct sight glass replacement (3/4/6 holes flange connection)",
+            "Integrated filtering element in series with the valve.",
+            "Unit conforms to directives 2014/30/UE and 2014/35/UE.",
+            "The TK3+ monitors the oil level with the embedded electro-optic sensor and comprises a solenoid valve for oil filling and a relay output contact to give an alarm.",
+            "Each TK3+ requires 30VA (depending on the solenoid valve)",
+            "L1 = 37",
+            "Suggested ordering codes not include oil strainer element. Adapters must be ordered separately."
+        ],
+        "natural_questions": [
+            "What pressure range does TK3+ 130bar support?",
+            "How do I select between TK3+ and TK4?",
+            "What is the maximum pressure range supported by TK3+?",
+            "How does the TK3+ handle easy maintenance?",
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?",
+            "What is the maximum pressure for TK3+ 130bar?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_012_001_TK3+_130bar_CO2_Oil_Level_Controller",
+        "file_index": 12,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series / LC Series",
+        "key_concepts": [
+            "Compact dimensions",
+            "Reduced number of junctions for leakages",
+            "Simplified installation",
+            "High reliability with no mechanical moving parts",
+            "Direct sight glass replacement"
+        ],
+        "keywords_primary": [
+            "TK3+ 130bar",
+            "CO2 oil level controller",
+            "pressure range 130bar",
+            "left/right mounting possibility",
+            "sight glass and electronic LEDs"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Some advantages of this solution: Extremely compact dimensions",
+            "Left/Right mounting possibility with the same TK3+ • Reduction of the number of junctions in the circuit with less possibility of having leakages",
+            "Direct sight glass replacement (3/4/6 holes flange connection)"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the advantage of using a left/right mounting possibility for the TK3+?",
+                "answer": "The left/right mounting possibility with the same TK3+ reduces the number of junctions in the circuit, resulting in less possibility of having leakages. This simplifies the installation process and improves overall reliability.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "installation"
+                ]
+            },
+            {
+                "question": "How does the direct sight glass replacement feature work?",
+                "answer": "The direct sight glass replacement feature allows for easy access to the sight glass, making it possible to inspect and replace it without having to disconnect the entire unit. This is achieved through a 3/4/6 holes flange connection, which provides flexibility in terms of installation options.",
+                "difficulty": "advanced",
+                "intent": [
+                    "installation",
+                    "troubleshooting"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What pressure range does TK3+ 130bar support?",
+            "How do I select between TK3+ and TK4?"
+        ],
+        "summary": "The TK3+ 130bar CO2 oil level controller is a compact and reliable solution for controlling oil levels in CO2 systems. Its left/right mounting possibility reduces the number of junctions, simplifying installation and improving overall reliability.",
+        "domain_metadata": {
+            "product_family": "TK Series / LC Series",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/tk_series/teklab_chunk_012_001_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/tk_series/teklab_chunk_012_002_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/tk_series/teklab_chunk_012_003_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/tk_series/teklab_chunk_012_004_TK3+_130bar_CO2_Oil_Level_Controller.json"
+    ]
+}

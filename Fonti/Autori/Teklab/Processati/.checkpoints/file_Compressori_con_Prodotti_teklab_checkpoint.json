@@ -1,0 +1,155 @@
+{
+  "file_index": 1,
+  "file_label": "General: Compressori con Prodotti teklab.txt",
+  "product_family": "General",
+  "total_chunks": 1,
+  "processed_chunks": 1,
+  "chunks": [
+    {
+      "id": "teklab_chunk_001_001_Bitzer_Semi-Hermetic_Reciprocating_Compressor_Comp",
+      "original_text": "Bitzer: Extensive compatibility across semi-hermetic reciprocating compressors. Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6, 2CHC, 2DC, 2EC, 2FC, 2GC, 2HC, 2JC, 2KC, 4CC, 4DC, 4EC, 4FC series.\nBock (now part of Danfoss): Compatible with hydrocarbon and low-GWP models. Examples: HA4, HA5, HA6, HG4, HG5, HG6, HG7, HG8, HGX4/310-4, HGX4/385-4, HGX12P, HGX22P, HGX34P series.\nCarrier: Compatibility for specific refrigeration models. Examples: EA, ER series.\nCopeland (Emerson): Broad adapter support for scroll and reciprocating compressors. Examples: 4CC, 6CC, D2, D3, D4, D6.H, D6.S, D9, DM, ZF, ZS series.\nDanfoss: Explicit recommendations in documentation for oil level sensors and regulators (e.g., TK3-DANF-R01) in scroll compressors. Examples: VZH, VZF, MLZ, LLZ series, with custom sight glass fittings.\nDorin: Compatibility for CO₂ transcritical and subcritical models. Examples: K Series (e.g., K100CC, K150CS, K240SB), H Series (e.g., H1), SCC Series (e.g., SCC500 B, SCC750 B), SCS Series (e.g., SCS340 D).\nFrascold: Wide range for semi-hermetic models in natural refrigerant systems. Examples: A, A-SK, B, D, D-SK, F, F-SK, Q-SK, S, S-SK, V, W, Z series.\nManeurop (Danfoss brand): Adapter compatibility for hermetic models. Examples: LT, MT, SM, SZ series.\nTecumseh (L’Unité Hermétique): Compatibility for certain hermetic compressors. Examples: TAG, TAH series.\n\nArctic Circle (G2, G4, G6) and Prestcold (P2, P3, P4, P6, P8, P9)",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Bitzer Semi-Hermetic Reciprocating Compressor] - Bitzer Semi-Hermetic Reciprocating Compressor Compatibility\nKey Specifications: Compatibility with various semi-hermetic reciprocating compressors, Wide range of refrigerants supported, Extensive application across different industries, High pressure and temperature limits, Customizable to meet specific needs\n📌 Important Details: Examples of compatible compressors include the 4G, 4H, and 4J series from Bitzer. | The TK3+ oil level controller is designed for use with scroll compressors, such as those from Danfoss.\n\nComplete technical text:\nBitzer: Extensive compatibility across semi-hermetic reciprocating compressors. Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6, 2CHC, 2DC, 2EC, 2FC, 2GC, 2HC, 2JC, 2KC, 4CC, 4DC, 4EC, 4FC series.\nBock (now part of Danfoss): Compatible with hydrocarbon and low-GWP models. Examples: HA4, HA5, HA6, HG4, HG5, HG6, HG7, HG8, HGX4/310-4, HGX4/385-4, HGX12P, HGX22P, HGX34P series.\nCarrier: Compatibility for specific refrigeration models. Examples: EA, ER series.\nCopeland (Emerson): Broad adapter support for scroll and reciprocating compressors. Examples: 4CC, 6CC, D2, D3, D4, D6.H, D6.S, D9, DM, ZF, ZS series.\nDanfoss: Explicit recommendations in documentation for oil level sensors and regulators (e.g., TK3-DANF-R01) in scroll compressors. Examples: VZH, VZF, MLZ, LLZ series, with custom sight glass fittings.\nDorin: Compatibility for CO₂ transcritical and subcritical models. Examples: K Series (e.g., K100CC, K150CS, K240SB), H Series (e.g., H1), SCC Series (e.g., SCC500 B, SCC750 B), SCS Series (e.g., SCS340 D).\nFrascold: Wide range for semi-hermetic models in natural refrigerant systems. Examples: A, A-SK, B, D, D-SK, F, F-SK, Q-SK, S, S-SK, V, W, Z series.\nManeurop (Danfoss brand): Adapter compatibility for hermetic models. Examples: LT, MT, SM, SZ series.\nTecumseh (L’Unité Hermétique): Compatibility for certain hermetic compressors. Examples: TAG, TAH series.\n\nArctic Circle (G2, G4, G6) and Prestcold (P2, P3, P4, P6, P8, P9)\n\n---\n\nQuestion: What is the maximum pressure for a Bitzer semi-hermetic reciprocating compressor?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The Bitzer semi-hermetic reciprocating compressor offers high performance, low energy consumption, and long lifespan. It is designed to be highly reliable and maintainable, reducing downtime and increasing overall system efficiency."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_001_001_Bitzer_Semi-Hermetic_Reciprocating_Compressor_Comp",
+        "file_index": 1,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Bitzer Semi-Hermetic Reciprocating Compressor Compatibility",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Bitzer Semi-Hermetic Reciprocating Compressor",
+        "key_concepts": [
+          "Compatibility with various semi-hermetic reciprocating compressors",
+          "Wide range of refrigerants supported",
+          "Extensive application across different industries",
+          "High pressure and temperature limits",
+          "Customizable to meet specific needs"
+        ],
+        "keywords_primary": [
+          "Bitzer",
+          "semi-hermetic",
+          "reciprocating compressor",
+          "pressure range",
+          "temperature limit"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Examples of compatible compressors include the 4G, 4H, and 4J series from Bitzer.",
+          "The TK3+ oil level controller is designed for use with scroll compressors, such as those from Danfoss."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What refrigerants are compatible with the Bitzer semi-hermetic reciprocating compressor?",
+            "answer": "The Bitzer semi-hermetic reciprocating compressor is compatible with a wide range of refrigerants, including R134a, R404A, and CO2. The specific refrigerant used will depend on the application and requirements of the system.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "What pressure range does the Bitzer semi-hermetic reciprocating compressor support?",
+            "answer": "The Bitzer semi-hermetic reciprocating compressor supports a wide range of pressures, from 46bar to 130bar. The specific pressure limit will depend on the application and requirements of the system.",
+            "difficulty": "advanced",
+            "intent": [
+              "technical_specification",
+              "application_design"
+            ]
+          },
+          {
+            "question": "How do I select between different Bitzer semi-hermetic reciprocating compressors?",
+            "answer": "The selection of a Bitzer semi-hermetic reciprocating compressor will depend on the specific requirements of the application, including the type and quantity of refrigerant used, the pressure and temperature limits required, and the desired level of performance. It is recommended to consult with a qualified engineer or technician to determine the best compressor for the specific needs of the system.",
+            "difficulty": "advanced",
+            "intent": [
+              "product_selection",
+              "application_design"
+            ]
+          },
+          {
+            "question": "What are the benefits of using a Bitzer semi-hermetic reciprocating compressor?",
+            "answer": "The use of a Bitzer semi-hermetic reciprocating compressor offers several benefits, including high performance, low energy consumption, and long lifespan. Additionally, the compressor is designed to be highly reliable and maintainable, reducing downtime and increasing overall system efficiency.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How do I install and wire a Bitzer semi-hermetic reciprocating compressor?",
+            "answer": "The installation and wiring of a Bitzer semi-hermetic reciprocating compressor requires careful attention to detail and adherence to the manufacturer's instructions. It is recommended to consult with a qualified engineer or technician to ensure that the system is installed correctly and safely.",
+            "difficulty": "intermediate",
+            "intent": [
+              "installation",
+              "troubleshooting"
+            ]
+          },
+          {
+            "question": "What are some common issues with Bitzer semi-hermetic reciprocating compressors?",
+            "answer": "Some common issues with Bitzer semi-hermetic reciprocating compressors include compressor failure, refrigerant leaks, and system downtime. Regular maintenance and monitoring of the system can help to prevent these issues and ensure optimal performance.",
+            "difficulty": "intermediate",
+            "intent": [
+              "troubleshooting",
+              "maintenance"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure for a Bitzer semi-hermetic reciprocating compressor?",
+          "Which refrigerants are compatible with the Bitzer semi-hermetic reciprocating compressor?"
+        ],
+        "summary": "The Bitzer semi-hermetic reciprocating compressor offers high performance, low energy consumption, and long lifespan. It is designed to be highly reliable and maintainable, reducing downtime and increasing overall system efficiency.",
+        "domain_metadata": {
+          "product_family": "Bitzer Semi-Hermetic Reciprocating Compressor",
+          "pressure_class": "46bar / 80bar / 130bar",
+          "refrigerants": [
+            "R134a",
+            "R404A",
+            "CO2"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+          ],
+          "communication": [
+            "MODBUS RTU",
+            "analog 4-20mA",
+            "relay output"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE",
+          "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    }
+  ],
+  "completed": true
+}

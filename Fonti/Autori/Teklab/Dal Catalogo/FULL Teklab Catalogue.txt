@@ -1,0 +1,3345 @@
+﻿SPECIALISTS IN
+LIQUID LEVEL SENSORS  AND ELECTRONIC CONTROLLERS 
+LIQUID LEVEL SENSORS
+ELECTRO-OPTIC SYSTEMS 
+OPTICAL LEVEL SWITCHES 
+State of the Art in Liquid Level Sensors 
+Teklab is a dynamic company that, with more than 30 years of experience in electronics  development, can today offer a wide range of Infra-Red liquid level switches in order to  meet the growing market demand. From many years Teklab exports Italian made products  to different customers in many countries all over the world. 
+  
+Teklab is an ISO 9001:2008 certified Company 
+  
+Specialists in Liquid Level Sensors  
+and Electronic Controllers 
+Teklab has a wide range of liquid level sensors based on  digital technology.  
+All the liquid level sensors are low cost, high technology  products and have undergone stringent quality control tests.  They are programmable by microcontroller and their body  material is compatible with most common chemical agents,  food, beverage, oils and fuel. 
+These electro-optic liquid level sensors are designed to match  the specific needs of demanding customers in every field.  Typical applications for our sensors include refrigeration  and air conditioning systems, medical, food & beverage,  pharmaceutical, petrochemicals, heavy duty automobiles,  hydraulic reservoirs, machine tools, home appliances,  vending machines etc. 
+Apart from traditional sensors based on pressure, floatation,  conductivity etc, Teklab offers a wide range of IR liquid level  sensors based on infra red emission technology. These liquid  
+level sensors have the advantages of small size, reliability,  no moving parts, long life, efficacy and economy. These tiny units are ideal for point level sensing applications  where dependability and economy are important. The liquid  level sensors are suitable for high, intermediate as well as  low level detection. They are easy to install and can be tank  top, side or bottom fitted. Being solid state switching they  are rugged and highly dependable over the entire life of the  sensor, having no moving parts. 
+The IR liquid level sensors are impervious to the hardness or  the conductivity of liquid. Hence they can be used anywhere  in the world under any environment as it is without requiring  any special fine tuning. The output switching can be delayed  programmatically in these liquid level sensors depending on  application. 
+You are in safe hands with Teklab!
+INDEX 
+Oil Level Regulators / Adapters 
+Innovative Communication Technology pag. 8 TK4MB Enhanced Oil Level Regulator with integrated Modbus RTU Connectivity pag. 10 TK4MB@46 bar Oil Level Regulator with integrated Modbus RTU connectivity pag. 12 TK4 @46 bar with integrated connectivity capabilities pag. 14 TK3+ @46 bar pag. 16 TK4MB@80 bar Oil Level Regulator with integrated Modbus RTU connectivity pag. 18 TK4 @80 bar with integrated connectivity capabilities pag. 20 TK3+ @80 bar pag. 22 TK4MB@130 bar Oil Level Regulator with integrated Modbus RTU connectivity pag. 24 TK4 @130 bar with integrated connectivity capabilities pag. 26 TK3+ @130 bar pag. 28 Adapters Addendum pag. 30 
+Level Switches 
+Level Control Unit TK1+ pag. 34 Optical Level Control Unit LC-XT / LC-XP pag. 36 Optical Level Control Unit LC-PH pag. 38 Optical Level Control Unit LC-PS pag. 40 Optical Level Control Unit ROTALOCK RLK02 pag. 42 
+Sensors 
+K25 Level Switch for High Pressure environments with 4÷20 mA analog temperature output pag. 46 Ex Electro-Optic Level Switch for explosive environments pag. 48 K11 Level Switch pag. 50
+OIL LEVEL REGULATORS
+Innovative Communication  8
+Technology 
+NANO INTERFACE 
+  
+
+Main Features 
+TK4 combines the established reliability and ease of installation of  TK3 and TK3+ with revolutionary connectivity capabilities which  opens new and interesting usage scenarios for the product. TK4 in fact integrates a wireless near field communication protocol that allows users to interact with the oil level regulator to expand  product’s features. 
+The communication technology adopted is: 
+• Extremely easy-to-use: data accessible without disassembling  enclosures and connecting cables. 
+• Powered / not powered operating: several information accessible  also when the electronics is not powered (useful for quick and  easy in-house customization). 
+• Highly compact and cost effective: the product keeps its very  compact design and there is no need for expensive devices. • Highly safe: password protected point to point single link with  limited range of operation to avoid unwanted changes from  unauthorized personnel. 
+• Really Flexible: possibility of modifying functioning parameters  and verify working conditions (also in real time) to optimize  system’s operation. 
+• Open for the future: Teklab is continuously in contact with  customers for adding features to the product. 
+Typical applications are: 
+• verification of product operation status and system operating conditions during  normal maintenance operations. 
+9
+  
+
+• functioning timings customization. • alarm timings customization. 
+Note. Customizations possible both “off line” (factory setting before shipping and installation) and “on line” (on the field system  adjustment / optimization). 
+  
+  
+  
+
+Ordering Codes 
+PRODUCT 
+	CODE
+	NANO INTERFACE 
+	TK4-PRG-NANO
+	
+
+
+
+TK4MB 
+10
+Enhanced Oil Level Regulator 
+with integrated Modbus RTU Connectivity Main Features 
+TK4-MB combines the established reliability and ease of installation  of TK3+ with revolutionary flexibility of standard TK4 extending  its connectivity capabilities through the introduction of wired serial  interface based on Modbus RTU protocol.  
+TK4-MB in fact integrates two possibilities of communication interface: • A wired serial interface based on Modbus RTU protocol. • A wireless near field communication protocol that allows users to  interact easily and directly with the oil level regulator using a Windows  based PC or an Android device (Mobile Phone or Tablet). 
+The TK4-MB is designed to be connected to widely diffused Modbus  RTU networks as a slave node opening the possibility of having the  availability of info about working conditions of the product and thus  of the system. Consequently it is possible to have remote monitoring  of the compressor pack even further reliable and effective letting it  possible to optimize systems performances, to prevent and manage  alarms and to elaborate accurate maintenance plans. 
+Here is an example of typical connection: 
+  
+
+Reading and Writing Register Commands are processed according to  standard Modbus RTU protocol (www.modbus.org) to allow easy inte gration and maximum flexibility. 
+Example of parameters accessible on the serial bus are: Valve and  Alarm contact status, Functioning Timings, Time to Alarm, Logging  info, etc. 
+11  
+The wireless proximity communication with the TK4 is established simply connecting the supplied USB  
+dongle to the PC or to the Android device (Tablet or Smartphone) and launching the dedicated App. 
+This solution is:  
+•  Extremely easy-to-use: data accessible without disassembling enclosures and connecting cables. 
+•  Powered / not powered operating: several information accessible also when the electronics is not 
+powered (useful for quick and easy in-house customization).  
+•   Highly compact and cost effective: the product keeps its very compact design and there is no need 
+for expensive devices.  
+•  Highly safe: password protected point to point single link with limited range of operation to avoid 
+unwanted changes from unauthorized personnel.  
+•  Really Flexible: possibility of modifying functioning parameters and verify working conditions (also 
+in real time) to optimize system’s operation.  
+•  Open for the future: Teklab is continuously in contact with 
+customers for adding features to the product.   
+It can be used for direct customization of working parameters and working serial settings of the Modbus protocol (like Device Address, baud  rate, etc) letting it very easy to integrate the product on any system.  
+  
+  
+
+  
+
+Typical applications are: 
+• verification of product operation status and system operating conditions from  remote control rooms (using Modbus  interface).  
+• verification of product operation status and system operating conditions during  normal maintenance operations directly  on the unit without the needing of any  connection (using wireless interface). 
+• functioning timings customization for system’s optimization. 
+• alarm timings customization for better system’s monitoring.  
+SUITABLE FOR CO2 SYSTEMS 
+12
+TK4MB @46 bar 
+Oil Level Regulator with integrated Modbus RTU connectivity 
+  
+  
+
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+Some advantages of this solution: 
+• Modbus RTU Serial connection to system controller • Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK4-MB • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+• Usageof lesscomponents(simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time) • Revolutionary connectivity capabilities. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK4-MB is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and  so improve its lifetime. TK4-MB monitors the oil level with the  embedded electro-optic sensor and comprises a solenoid valve for  oil filling and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK4-MB OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+13
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK4MB requires 20VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION 
+	EN175301-803 Connector / Spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	46 bar (higher pressure limits available on different TK4-MB models)
+	MOPD 
+	26 bar (higher pressure limits available on different TK4-MB models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Modbus RTU typical application 
+Ordering Codes 
+
+
+
+
+	CABLE GLANDS 
+3 m
+	 24 V
+	 TK4MB-A50AB13-01
+	 230 V 
+	TK4MB-A50BB13-01
+	
+
+
+
+Program interfaces available. Suggested ordering codes  not include oil strainer element. Adapters must be  ordered separately. 
+TK4 @46 bar 
+14
+Oil Level Regulator with integrated connectivity capabilities 
+CONNECTORS VERSION 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Some advantages of this solution: 
+• Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK4 • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+• Usageof lesscomponents(simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time) • Revolutionary connectivity capabilities. 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+CABLE GLANDS VERSION TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK4 is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and so  improve its lifetime. TK4 monitors the oil level with the embedded  electro-optic sensor and comprises a solenoid valve for oil filling  and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK4 OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+15
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK4 requires 20VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION
+	9.4mm Industry Standard Connectors / EN175301-803 Connector 
+or spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	46 bar (higher pressure limits available on different TK4 models)
+	MOPD 
+	26 bar (higher pressure limits available on different TK4 models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions (connectors version) 
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+61.8 
+78 
+66 
+59.5 
+108.25 
+L = 110.3 
+L1 = 37 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+"L1" 34.5 37 "L" 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CONNECTORS 
+3 m
+	CONNECTORS 
+6 m
+	 24 V 
+	TK4-A50AB11-01 
+	TK4-A50AC13-01 
+	TK4-A50AC16-01
+	 230 V 
+	TK4-A50BB11-01 
+	TK4-A50BC13-01 
+	TK4-A50BC16-01
+	
+
+
+
+Program interfaces available. Suggested ordering codes not include oil strainer  element. Adapters must be ordered separately. 
+TK3+ @46 bar 
+16
+Oil Level Regulator 
+CONNECTORS VERSION 
+CABLE GLANDS VERSION 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Some advantages of this solution: 
+• Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK3+ 
+• Reduction of the number of junctions in the circuit with less possibility of having leakages 
+• Usage of less components (simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time). 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK3+ is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and so  improve its lifetime. TK3+ monitors the oil level with the embedded  electro-optic sensor and comprises a solenoid valve for oil filling  and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK3+ OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+17
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK3+ requires 20VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION
+	9.4mm Industry Standard Connectors / EN175301-803 Connector 
+or spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	46 bar (higher pressure limits available on different TK3+ models)
+	MOPD 
+	26 bar (higher pressure limits available on different TK3+ models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions (connectors version) 
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+61.8 
+78 
+66 
+59.5 
+108.25 
+L = 110.3 
+L1 = 37 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+"L1" 34.5 37 "L" 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CONNECTORS 
+3 m
+	CONNECTORS 
+6 m
+	 24 V 
+	TK3P-A50AB11-01 
+	TK3P-A50AC13-01 
+	TK3P-A50AC16-01
+	 230 V 
+	TK3P-A50BB11-01 
+	TK3P-A50BC13-01 
+	TK3P-A50BC16-01
+	
+
+
+
+Suggested ordering codes not include oil strainer element. Adapters must be  
+ordered separately. 
+SUITABLE FOR CO2 SYSTEMS 
+18
+TK4MB @80 bar 
+Oil Level Regulator with integrated Modbus RTU connectivity 
+
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+Some advantages of this solution: 
+• Modbus RTU Serial connection to system controller • Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK4-MB • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+• Usageof lesscomponents(simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time) • Revolutionary connectivity capabilities. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK4-MB is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and  so improve its lifetime. TK4-MB monitors the oil level with the  embedded electro-optic sensor and comprises a solenoid valve for  oil filling and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK4-MB OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+19
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK4MB requires 30VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION 
+	EN175301-803 Connector / Spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	80 bar (higher pressure limits available on different TK4-MB models)
+	MOPD 
+	60 bar (higher pressure limits available on different TK4-MB models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Modbus RTU typical application 
+Ordering Codes 
+
+
+
+
+	CABLE GLANDS 
+3 m
+	 24 V 
+	TK4MB-C60AA13-02
+	 230 V 
+	TK4MB-C60BA13-02
+	
+
+
+
+Program interfaces available. Suggested ordering codes  not include oil strainer element. Adapters must be  ordered separately. 
+SUITABLE FOR CO2 SYSTEMS 
+20
+TK4 @80 bar 
+Oil Level Regulator with integrated connectivity capabilities 
+CONNECTORS VERSION 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Some advantages of this solution: 
+• Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK4 • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+• Usageof lesscomponents(simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time) • Revolutionary connectivity capabilities. 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+CABLE GLANDS VERSION 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK4 is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and so  improve its lifetime. TK4 monitors the oil level with the embedded  electro-optic sensor and comprises a solenoid valve for oil filling  and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK4 OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+21
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK4 requires 30VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION
+	9.4mm Industry Standard Connectors / EN175301-803 Connector 
+or spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	80 bar (higher pressure limits available on different TK4 models)
+	MOPD 
+	60 bar (higher pressure limits available on different TK4 models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions (connectors version) 
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+78 
+62 
+76 
+59.5 
+107.75 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"L1" 43 37 "L" 
+L = 134.5 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CONNECTORS 
+3 m
+	CONNECTORS 
+6 m
+	 24 V 
+	TK4-C60AA11-02 
+	TK4-C60AC13-02 
+	TK4-C60AC16-02
+	 230 V 
+	TK4-C60BA11-02 
+	TK4-C60BC13-02 
+	TK4-C60BC16-02
+	
+
+
+
+Program interfaces available. Suggested ordering codes not include oil strainer  element. Adapters must be ordered separately. 
+L1 = 37 
+SUITABLE FOR CO2 SYSTEMS 
+22
+TK3+ @80 bar 
+Oil Level Regulator 
+CONNECTORS VERSION TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Some advantages of this solution: 
+• Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK3+ • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+• Usage of less components (simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time). 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection). • 24 VAC / 230 VAC power supply options. 
+Application Description 
+CABLE GLANDS VERSION 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK3+ is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and so  improve its lifetime. TK3+ monitors the oil level with the embedded  electro-optic sensor and comprises a solenoid valve for oil filling  and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK3+ OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+23
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK3+ requires 30VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION
+	9.4mm Industry Standard Connectors / EN175301-803 Connector 
+or spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	80 bar (higher pressure limits available on different TK3+ models)
+	MOPD 
+	60 bar (higher pressure limits available on different TK3+ models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions (connectors version) 
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+78 
+62 
+76 
+59.5 
+107.75 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"L1" 43 37 "L" 
+L = 134.5 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CONNECTORS 
+3 m
+	CONNECTORS 
+6 m
+	 24 V 
+	TK3P-C60AA11-02 
+	TK3P-C60AC13-02 
+	TK3P-C60AC16-02
+	 230 V 
+	TK3P-C60BA11-02 
+	TK3P-C60BC13-02 
+	TK3P-C60BC16-02
+	
+
+
+
+Suggested ordering codes not include oil strainer element. Adapters must be ordered  separately. 
+L1 = 37 
+SUITABLE FOR CO2 SYSTEMS 
+TK4MB @130 bar 
+24
+Oil Level Regulator with integrated Modbus RTU connectivity 
+
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+Some advantages of this solution: 
+• Modbus RTU Serial connection to system controller • Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK4-MB • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+• Usageof lesscomponents(simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time) • Revolutionary connectivity capabilities. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK4-MB is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and  so improve its lifetime. TK4-MB monitors the oil level with the  embedded electro-optic sensor and comprises a solenoid valve for  oil filling and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK4-MB OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+25
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK4MB requires 30VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION 
+	EN175301-803 Connector / Spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	130 bar (higher pressure limits available on different TK4-MB models)
+	MOPD 
+	100 bar (higher pressure limits available on different TK4-MB models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Modbus RTU typical application 
+Ordering Codes 
+
+
+
+
+	CABLE GLANDS 
+3 m
+	 24 V 
+	TK4MB-F60AA13-03
+	 230 V 
+	TK4MB-F60BA13-03
+	
+
+
+
+Program interfaces available. Suggested ordering codes  not include oil strainer element. Adapters must be  ordered separately. 
+TK4 @130 bar  26
+SUITABLE FOR CO2 SYSTEMS 
+Oil Level Regulator with integrated connectivity capabilities 
+CONNECTORS VERSION 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Some advantages of this solution: 
+• Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK4 • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+• Usageof lesscomponents(simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time) • Revolutionary connectivity capabilities. 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+CABLE GLANDS VERSION 
+TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK4 is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and so  improve its lifetime. TK4 monitors the oil level with the embedded  electro-optic sensor and comprises a solenoid valve for oil filling  and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK4 OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+27
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK4 requires 30VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION
+	9.4mm Industry Standard Connectors / EN175301-803 Connector 
+or spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	130 bar (higher pressure limits available on different TK4 models)
+	MOPD 
+	100 bar (higher pressure limits available on different TK4 models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions (connectors version) 
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+78 
+62 
+76 
+59.5 
+107.75 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"L1" 43 37 "L" 
+L = 134.5 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CONNECTORS 
+3 m
+	CONNECTORS 
+6 m
+	 24 V 
+	TK4-F60AA11-03 
+	TK4-F60AC13-03 
+	TK4-F60AC16-03
+	 230 V 
+	TK4-F60BA11-03 
+	TK4-F60BC13-03 
+	TK4-F60BC16-03
+	
+
+
+
+Program interfaces available. Suggested ordering codes not include oil strainer  element. Adapters must be ordered separately. 
+L1 = 37 
+TK3+ @130 bar 
+28
+Oil Level Regulator 
+SUITABLE FOR CO2 SYSTEMS 
+CONNECTORS VERSION TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+Some advantages of this solution: 
+• Extremely compact dimensions  
+• Left/Right mounting possibility with the same TK3+ • Reduction of the number of junctions in the circuit with less possibility of having leakages 
+• Usage of less components (simplified circuit and easier warehouse management) 
+• Simplified Installation (cost savings in terms of installation time). 
+Main Features 
+• High reliability ensured by absence of mechanical moving parts. 
+• Sight glass and electronic LEDs can be checked on the same side  where is more comfortable to do inspections. 
+• Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility. 
+• Direct sight glass replacement (3/4/6 holes flange connection).  • 24 VAC / 230 VAC power supply options. 
+Application Description 
+CABLE GLANDS VERSION TWO MOUNTING POSSIBILITIES WITH THE SAME PRODUCT (LEFT/RIGHT) 
+
+Integrated filtering element in series  
+with the valve. 
+Please contact Teklab for more info. 
+• Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant. 
+• 230 VAC /2A alarm relay output suitable for direct connection in  the security chain of the system. 
+• Adapters suitable for various types of compressors. • Unit conform to directives 2014/30/UE and 2014/35/UE. 
+HIGH PRESSURE OIL RETURN LINE SYSTEM EXAMPLE 
+The TK3+ is designed to control the oil level in the compressor  crankcase in order to avoid the compressor to run without oil and so  improve its lifetime. TK3+ monitors the oil level with the embedded  electro-optic sensor and comprises a solenoid valve for oil filling  and a relay output contact to give an alarm. 
+WITH THREE COMPRESSORS PLUS ONE SATELLITE 
+TK3+ OIL LEVEL  CONTROL UNIT 
+SATELLITE 
+COMPRESSOR 
+COMPRESSOR 
+OIL REURNE LINE 
+OIL SEPARATOR 
+FILTER 
+WITH INTEGRATED 
+RESERVOIR 
+FRIGOMEC 
+Technical Data 
+29
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230 VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK3+ requires 30VA (depending on the solenoid valve)
+	ELECTRICAL  
+CONNECTION
+	9.4mm Industry Standard Connectors / EN175301-803 Connector 
+or spare wires
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	130 bar (higher pressure limits available on different TK3+ models)
+	MOPD 
+	100 bar (higher pressure limits available on different TK3+ models)
+	OIL RETURN LINE 
+	7/16 – 20 UNF male
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions (connectors version) 
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+	
+
+
+
+78 
+62 
+76 
+59.5 
+107.75 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"L1" 43 37 "L" 
+L = 134.5 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CONNECTORS 
+3 m
+	CONNECTORS 
+6 m
+	 24 V 
+	TK3P-F60AA11-03 
+	TK3P-F60AC13-03 
+	TK3P-F60AC16-03
+	 230 V 
+	TK3P-F60BA11-03 
+	TK3P-F60BC13-03 
+	TK3P-F60BC16-03
+	
+
+
+
+Suggested ordering codes not include oil strainer element. Adapters must be  
+ordered separately. 
+L1 = 37 
+Adapters Addendum 30
+RIGHT / LEFT MOUNTING POSSIBILITIES 
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+
+
+	
+
+
+
+TK3 Right Model Mounting Example TK3 Left Model Mounting Example 
+MEASURES 
+"L1" 
+ADAPTER 
+	“ L1 ”
+	No adapter (Direct Mounting) 
+	-
+	1-1/8” - 18 UNEF 
+	34
+	¾” NPT 
+	34
+	3/4/6 holes (50 MM) 
+	50
+	1”GAS 
+	43
+	RLK 1” ¾ - 12 UNF 
+	53,4
+	M36 X 1,5 
+	45
+	3/4/6 holes (22 MM) 
+	22
+	RLK 1” ¼ - 12 UNF 
+	41,4
+	
+
+
+
+Selection Table (some examples based on compressor brand/model) 
+COMPRESSOR FAMILY / MODE 
+	SELECTION
+	ARCTIC CIRCLE 
+	G2; G4; G6 
+	0 or 3
+	BITZER
+	4G; 4H; 4J; 4NC; 4NHC-20K; 4PC; 4PHC-15K; 4TC; 4THC-12K; 4VC; 4VHC-10K; 4VNC; 4Z; 6F; 6G; 6H; 6J; 8FC;  8GC; S4; S6; 
+	0 or 3
+	2CHC-4K; 2DC; 2DHC-3K; 2EC; 2EHC-3K; 2FC; 2FHC-3K; 2GC; 2GHC-2K; 2HC; 2HHC-2K; 2JC; 2JHC-07K; 2KC;  2KHC-05K; 4CC; 4CHC-9K; 4DC; 4DHC-7K; 4EC; 4EHC-6K; 4FC; 4FHC-5K; 4KTC-10K 
+	1
+	ZL; ZM 
+	2
+	BOCK
+	HA 4;HA 5; HA6; HG 4; HG 5; HG 6; HG 7; HG 8; HGX4/310-4; HGX4/385-4; HGX4/464-4; HGX4/555-4 
+	0 or 3
+	HA12; HA22; HA34; HG12 ;HG22; HG34; HGX12P/40-4; HGX12P/50-4; HGX12P/60-4; HGX12P/75-4; HGX22P/110-4; HGX22P/125-4; HGX22P/160-4; HGX22P/190-4; HGX34P/215-4; HGX34P/555-4 
+	1
+	CARRIER 
+	EA; ER; 
+	0 or 3
+	COPELAND 
+	4CC; 6CC; D2; D3; D4; D6.H; D6.S; D9; DM 
+	0 or 3
+	ZF; ZS 
+	2
+	DORIN
+	K Series (except the listed for adapter 1); SCC500 B; SCC750 B; SCC1500 B; SCC1900 B; SCC2000 B; SCC2500  B; SCS340 D; SCS351 D; SCS362 D; SCS373 D; SCS385 D; SCS3K8 D; H Series(except the listed for adapter 1) 
+	0 or 3
+	H1; K100CC; K100CS; K150CC; K150CS; K180CC; K180CS; K200CC; K230CS; K235CC; K240SB; K400CC;  K50CS; K75CC; K75CS; SCC250 B; SCC300 B ; SCC350 B; SCC380 B 
+	1
+	FRASCOLD 
+	A; A-SK; B; D; D-SK; F; F-SK; Q-SK; S; S-SK; V; W; Z 
+	0 or 3
+	PRESTCOLD 
+	P2; P3; P4; P6; P8; P9 
+	0 or 3
+	L’UNITÉ HERMÉTIQUE 
+	TAG; TAH 
+	1
+	MANEUROPE 
+	LT; MT; SM; SZ; 
+	1
+	
+
+
+
+Where31
+TK3 SELECTION 
+	ADAPTER 
+	CODE
+	
+
+	0 
+	No Adapter (Direct mounting)
+	
+
+	
+
+	1 
+	1-1/8” - 18 UNEF 
+	TKX-A001
+	
+	2 
+	¾” NPT 
+	TKX-A002
+	
+	3 
+	3/4/6 holes flange (also as a spacer 50 mm) 
+	TKX-A003
+	
+	4 
+	1” GAS 
+	TKX-A004
+	
+	5 
+	Rotalock 1” ¾ - 12 UNF 
+	TKX-A005
+	
+	6 
+	M36 x 1,5 
+	TKX-A006
+	
+	7 
+	3/4/6 holes flange (also as a spacer 22 mm) 
+	TKX-A0070
+	
+	8 
+	Rotalock 1” ¼ - 12 UNF 
+	TKX-A008 
+	
+	9 
+	Direct injection for 26 bar MOPD model 
+	TKX-ADI2
+	
+	10 
+	Direct injection for other models 
+	TKX-ADI3
+	
+	
+
+
+
+LEVEL SWITCHES
+Level Control Unit TK1+ 34
+Application Description 
+SUITABLE FOR CO2 SYSTEMS 
+Main Features 
+• The absence of mechanical moving parts ensures High reliability • 24VAC / 230VAC power supply options 
+• Easy installation (sight-glass replacement) 
+• Well consolidated steel with fused glass technology ensures no  leakage and good chemical compatibility 
+• Electronic sensor can be easily replaced without emptying and/or depressurizing the plant due to the two parts design • Direct mounting possibility / adapters suitable for various types of compressors 
+• Customizable delays on request 
+• Unit conform to directives 2014/30/UE and 2014/35/UE. 
+TK1+ series is especially designed for use in level monitoring for HVAC&R market.  
+TK1+ can be mounted directly on the crankcase of the compressor, on the oil reservoir, oil separator or liquid receiver. This product is very reliable and suitable for working in heavy environments. 
+LEDs integrated in the electronic module allow to verify the liquid status. 
+The two parts design allows the fast replacement of the electronic parts without depressurizing the system. 
+The electronic module of the TK1+ contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted  is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence.  
+Technical Data 
+35
+SUPPLY VOLTAGE 
+	24 VAC ± 10% or 230VAC ± 10% depending on model
+	SUPPLY CURRENT 
+	Each TK1 Electronic module requires 10VA.
+	ELECTRICAL  
+CONNECTION 
+	Cable wiring or connectors with molded cables depending on model
+	OUTPUT SIGNAL 
+	Contact free relay output NO and NC
+	RELAY OUTPUTS 
+	Up to 230VAC @2A
+	HOUSING MATERIAL 
+	Nickel plated steel + fused glass 
+PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	MEDIA TEMPERATURE 
+	-40°C÷+85°C
+	AMBIENT TEMPERATURE 
+	-40°C÷+60°C
+	MAX WORKING PRESSURE 
+	46 bar or 100 bar depending on model
+	OIL RETURN LINE 
+	1/4” NPT female connection
+	CABLE TYPE 
+	PVC cable CEI 20-22. Working temp.: -20 ÷ +70 °C (fixed laying)
+	
+
+
+
+Mechanical Dimensions 
+80.9 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+56 
+1/4" NPT 
+
+
+	
+
+	
+
+	
+
+	
+
+
+
+61.8 
+59.5
+	
+
+	
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"L1" 34.5 37 "L" 
+L=101.5 
+L1=37 
+Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum) 
+Ordering Codes 
+
+
+	CABLE GLANDS 
+1 m
+	CABLE GLANDS 
+3 m
+	 24 V 
+	TK1P-KIT-0150-03 
+	TK1P-KIT-0130-03 
+	 230 V 
+	TK1P-KIT-01E0-03 
+	TK1P-KIT-01C0-03
+	
+
+
+
+Optical Level Control Unit 
+36
+LC-XT/ LC-XP 
+Application Description 
+SUITABLE FOR CO2 SYSTEMS 
+Main Features 
+• The absence of mechanical moving parts ensures High reliability  
+• Well consolidated steel with fused glass technology  ensures no leakage and good chemical compati bility 
+• Electronic sensor can be easily replaced without  emptying and/or depressurizing the plant due to the two parts design 
+• No need for calibrations on the field 
+• Direct mounting onto various types of compressors  (M20x1.5 or 1”1/8 – 18 UNEF adapter) and tanks (1/2”NPT adapter), etc... 
+• Customizable delays on request 
+• Unit conform to directives 2014/30/UE and  2014/35/UE. 
+The optical level switch has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible to replace the electronics without the needing  of emptying or depressurizing the plant. 
+The sensor is suitable as minimum or maximum alarm. 
+Delays can be introduced in order to satisfy particular needing or avoid false alarms. 
+Operating Principle 
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+37
+SUPPLY VOLTAGE (± 10%) 
+	230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage protection
+	ELECTRICAL CONNECTION 
+	EN 175301-803A connector (EX DIN 43650 size A)
+	OUTPUT SIGNAL 
+	Solid state output Normally Open or Normally Closed in air.
+	SUPPLY CURRENT 
+	20mA max. during normal operation
+	OUTPUT MAX. CURRENT 
+	Up to 100 mA
+	HOUSING MATERIAL 
+	Stainless steel / Nickel plated steel
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	WORKING TEMPERATURE RANGE 
+	-40°C÷ +125°C 
+	MAX PRESSURE 
+	46 bar (LC-XT model) 120 bar (LC-XP model)
+	TORQUE TIGHTEN 
+	50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter
+	
+
+
+
+Ordering Codes 
+Power supply/ Adapters
+	24VAC/DC 
+Normally Open (In air)
+	24VAC/DC 
+Normally Closed (In air)
+	230VAC  
+Normally Open (In air)
+	230VAC  
+Normally Closed (In air)
+	1/2 NPT 
+	LC-XT707100001001A00 
+LC-XP707100001001A00
+	LC-XT707101001001A00 
+LC-XP707101001001A00
+	LC-XT707D00001001A00 
+LC-XP707D00001001A00
+	LC-XT707D01001001A00 
+LC-XP707D01001001A00
+	3/4 NPT 
+	LC-XTA07100001001A00 
+LC-XPA07100001001A00
+	LC-XTA07101001001A00 
+LC-XPA07101001001A00
+	LC-XTA07D00001001A00 
+LC-XPA07D00001001A00
+	LC-XTA07D01001001A00 
+LC-XPA07D01001001A00
+	1”NPT 
+	LC-XTB07100001001A00 
+LC-XPB07100001001A00
+	LC-XTB07101001001A00 
+LC-XPB07101001001A00
+	LC-XTB07D00001001A00 
+LC-XPB07D00001001A00
+	LC-XTB07D01001001A00 
+LC-XPB07D01001001A00
+	M20X1,5 
+	LC-XT607100001001A00 
+LC-XP607100001001A00
+	LC-XT607101001001A00 
+LC-XP607101001001A00
+	LC-XT607D00001001A00 
+LC-XP607D00001001A00
+	LC-XT607D01001001A00 
+LC-XP607D01001001A00
+	1” 1/8 UNEF 
+	LC-XT807100001001A00 
+LC-XP807100001001A00
+	LC-XT807101001001A00 
+LC-XP807101001001A00
+	LC-XT807D00001001A00 
+LC-XP807D00001001A00
+	LC-XT807D01001001A00 
+LC-XP807D01001001A00
+	1” 1/4 RLK 
+	LC-XTC07100001001A00 
+	LC-XTC07101001001A00 
+	LC-XTC07D00001001A00 
+	LC-XTC07D01001001A00
+	
+
+
+
+Different Activation and Deactivation Delays available on request. 
+
+
+
+
+	THREAD 
+	DIMENSIONS 
+B (MM)
+	
+
+	1/2 NPT 
+	24
+	
+
+	3/4 NPT 
+	22
+	
+
+	1” NPT 
+	27,9
+	
+
+	M20 X 1,5 
+	18,1
+	
+	1 - 1/8” UNEF 
+	19
+	
+	1” 1/4 RLK 
+	30
+	
+
+
+
+Mechanical Dimensions 139.2 
+35 B 
+M20x1.5 
+40 
+
+
+	
+
+	
+
+
+
+57 
+EXAMPLE 
+Note. - Quotes in mm. 
+Optical Level Control Unit  
+38
+LC-PHup to 120 bar 
+Application Description 
+SUITABLE FOR CO2 SYSTEMS 
+Main Features 
+• The absence of mechanical moving parts ensures High reliability  
+• Well consolidated steel with fused glass technology  ensures no leakage and good chemical compati bility 
+• Electronic sensor can be easily replaced without  emptying and/or depressurizing the plant due to the two parts design 
+• No need for calibrations on the field 
+• Direct mounting onto various types of compressors  (M20x1.5 or 1”1/8 – 18 UNEF adapter) and tanks (1/2”NPT adapter), etc... 
+• Customizable delays on request 
+• Integrated status LED available on request 
+• Revolutionary connectivity capabilities 
+• Unit conform to directives 2014/30/UE and  2014/35/UE. 
+The optical level switch LC-PH has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible to replace the electronics without the needing  of emptying or depressurizing the plant. 
+The sensor is suitable as minimum or maximum alarm. 
+Delays can be introduced in order to satisfy particular needing or avoid false alarms. 
+Typical customizable functions: Activation Delay, Deactivation delay, others, ... 
+Operating Principle 
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+39
+SUPPLY VOLTAGE (± 10%) 
+	230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage protection
+	ELECTRICAL CONNECTION 
+	3 wires cable, 1m length / M12x1 Connector
+	OUTPUT SIGNAL 
+	Solid state output Normally Open or Normally Closed in air.
+	SUPPLY CURRENT 
+	20mA max. during normal operation
+	OUTPUT MAX. CURRENT 
+	Up to 100 mA
+	HOUSING MATERIAL 
+	Nickel plated steel / PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	WORKING TEMPERATURE RANGE 
+	-40°C÷ +125°C 
+	MAX PRESSURE 
+	120 bar (for higher pressures, please contact the supplier)
+	TORQUE TIGHTEN 
+	50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter
+	
+
+
+
+Ordering Codes 
+Power supply/ Adapters
+	24VAC/DC 
+Normally Open (In air)
+	24VAC/DC 
+Normally Closed (In air)
+	230VAC  
+Normally Open (In air)
+	230VAC  
+Normally Closed (In air)
+	1/2 NPT 
+	LC-PH7071000101A 
+	LC-PH7071010101A 
+	LC-PH707D000101A 
+	LC-PH707D010101A
+	3/4 NPT 
+	LC-PHA071000101A 
+	LC-PHA071010101A 
+	LC-PHA07D000101A 
+	LC-PHA07D000101A
+	1”NPT 
+	LC-PHB071000101A 
+	LC-PHB071010101A 
+	LC-PHB07D000101A 
+	LC-PHB07D010101A
+	M20X1,5 
+	LC-PH6071000101A 
+	LC-PH6071010101A 
+	LC-PH607D000101A 
+	LC-PH607D010101A
+	1” 1/8 UNEF 
+	LC-PH8071000101A 
+	LC-PH8071010101A 
+	LC-PH807D000101A 
+	LC-PH807D010101A
+	1” 1/4 RLK 
+	LC-PHC071000101A 
+	LC-PHC071010101A 
+	LC-PHC07D000101A 
+	LC-PHC07D010101A
+	
+
+
+
+Program interfaces available. See pag. 8 for details. 
+
+
+
+
+	THREAD 
+	DIMENSIONS 
+B (MM)
+	
+
+	1/2 NPT 
+	24
+	
+	3/4 NPT 
+	22
+	
+	1” NPT 
+	27,9
+	
+	M20 X 1,5 
+	18,1
+	
+	1 - 1/8” UNEF 
+	19
+	
+	1” 1/4 RLK 
+	30
+	
+
+
+
+Mechanical Dimensions "B" 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Optical Level Control Unit  
+40
+LC-PS up to 46 bar 
+Main Features 
+• The absence of mechanical moving parts ensures 
+High reliability  
+• Well consolidated steel with fused glass technology  
+ensures no leakage and good chemical compati 
+bility 
+• Electronic sensor can be easily replaced without  
+emptying and/or depressurizing the plant due to 
+the two parts design 
+• No need for calibrations on the field 
+• Direct mounting onto various types of compressors  
+(M20x1.5 or 1”1/8 – 18 UNEF adapter) and tanks 
+(1/2”NPT adapter), etc... 
+• Customizable delays on request 
+• Unit conform to directives 2014/30/UE and  
+2014/35/UE. 
+Application Description 
+The optical level switch LC-PS has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible to replace the electronics without the needing  of emptying or depressurizing the plant. 
+The sensor is suitable as minimum or maximum alarm. 
+Delays can be introduced in order to satisfy particular needing or avoid false alarms. 
+Operating Principle 
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+41
+SUPPLY VOLTAGE (± 10%) 
+	230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage protection
+	ELECTRICAL CONNECTION 
+	3 wires cable, 1m length
+	OUTPUT SIGNAL 
+	Solid state output Normally Open or Normally Closed in air.
+	SUPPLY CURRENT 
+	20mA max. during normal operation
+	OUTPUT MAX. CURRENT 
+	Up to 100 mA
+	HOUSING MATERIAL 
+	Nickel plated steel / PA glass fibre reinforced
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	WORKING TEMPERATURE RANGE 
+	-40°C÷ +85°C 
+	MAX PRESSURE 
+	46 bar (for higher pressures, please contact the supplier)
+	TORQUE TIGHTEN 
+	50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter
+	
+
+
+
+Ordering Codes 
+Power supply/ Adapters
+	24VAC/DC 
+Normally Open (In air)
+	24VAC/DC 
+Normally Closed (In air)
+	230VAC  
+Normally Open (In air)
+	230VAC  
+Normally Closed (In air)
+	1/2 NPT 
+	LC-PS7071000101A 
+	LC-PS7071010101A 
+	LC-PS707D000101A 
+	LC-PS707D010101A
+	3/4 NPT 
+	LC-PSA071000101A 
+	LC-PSA071010101A 
+	LC-PSA07D000101A 
+	LC-PSA07D000101A
+	1”NPT 
+	LC-PSB071000101A 
+	LC-PSB071010101A 
+	LC-PSB07D000101A 
+	LC-PSB07D010101A
+	M20X1,5 
+	LC-PS6071000101A 
+	LC-PS6071010101A 
+	LC-PS607D000101A 
+	LC-PS607D010101A
+	1” 1/8 UNEF 
+	LC-PS8071000101A 
+	LC-PS8071010101A 
+	LC-PS807D000101A 
+	LC-PS807D010101A
+	1” 1/4 RLK 
+	LC-PSC071000101A 
+	LC-PSC071010101A 
+	LC-PSC07D000101A 
+	LC-PSC07D010101A
+	
+
+
+
+
+
+
+
+	THREAD 
+	DIMENSIONS 
+B (MM)
+	
+	1/2 NPT 
+	24
+	
+	3/4 NPT 
+	22
+	
+	1” NPT 
+	27,9
+	
+	M20 X 1,5 
+	18,1
+	
+	1 - 1/8” UNEF 
+	19
+	
+	1” 1/4 RLK 
+	30
+	
+
+
+
+Mechanical Dimensions 
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+"B" 
+Optical Level Control Unit  
+42
+ROTALOCK RLK02 
+Some advantages of this solution: 
+• The absence of mechanical moving parts ensures High reliability  
+• Well consolidated steel with fused glass technology ensures no  
+leakage and good chemical compatibility 
+• Electronic sensor can be easily replaced without emptying and/or 
+depressurizing the plant due to the two parts design 
+• Extended working temperature range 
+• No need for calibrations on the field 
+• Rotalock 1” 3/4 - 12 UNF and Rotalock 2” 1/4 - 12 UNF available 
+• Unit conform to directives 2014/30/UE and 2014/35/UE. 
+Application Description 
+The optical level switch has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible replacing the electronics without the needing  of emptying or depressurizing the plant. 
+The sensor is suitable as minimum or maximum alarm. 
+Delays can be introduced in order to satisfy particular needing or avoid false alarms. 
+Operating Principle 
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+43
+SUPPLY VOLTAGE (± 10%) 
+	230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage protection
+	ELECTRICAL CONNECTION 
+	EN 175301-803A connector (EX DIN 43650 size A)
+	OUTPUT SIGNAL 
+	Solid state output Normally Open or Normally Closed in air.
+	SUPPLY CURRENT 
+	20mA max. during normal operation
+	OUTPUT MAX. CURRENT 
+	Up to 100 mA
+	HOUSING MATERIAL 
+	Nickel plated steel
+	ENCLOSURE PROTECTION CLASS 
+	IP 65
+	WORKING TEMPERATURE RANGE 
+	-40°C÷ +125°C 
+	MAX PRESSURE 
+	46 bar (for higher pressures, please contact the supplier)
+	TORQUE TIGHTEN 
+	50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter
+	
+
+
+
+Mechanical Dimensions 
+130 130 
+5638 
+
+
+	
+
+	
+
+
+
+28 
+56 
+38 
+
+
+	
+
+	
+
+
+
+28 
+78.3 77.4 
+RLK02 ROTALOCK 
+1” 3/4 - 12 UNFRLK02 ROTALOCK 
+2” 1/4 - 12 UNF 
+Note. - Quotes in mm. 
+Ordering Codes 
+Power supply/ 
+Adapters
+	24VAC/DC 
+Normally Open (In air)
+	24VAC/DC 
+Normally Closed (In air)
+	230VAC  
+Normally Open (In air)
+	230VAC  
+Normally Closed (In air)
+	1” - 3/4 ROTALOCK 
+	RLK02007100001001A00 
+	RLK02007101001001A00 
+	RLK02007D00001001A00 
+	RLK02007D01001001A00
+	2” - 1/4 ROTALOCK 
+	RLK02107100001001A00 
+	RLK02107101001001A00 
+	RLK02107D00001001A00 
+	RLK02107D01001001A00
+	
+
+
+
+SENSORS
+K25 Level Switch for High Pressure environments 
+46
+with 4÷20 mA analog temperature output up to 150 bar SUITABLE FOR CO2 SYSTEMS 
+Application Description 
+The optical level switch has been designed for use in level monitoring  
+applications for the control of oil or liquid CO2 for transcritical or  
+subcritical applications.  
+The switch has no moving parts, thus it is particularly suited for  
+monitoring critical media where high reliability is needed. 
+The sensor provides two outputs:  
+• the first one – digital – indicates if the liquid is present or absent, 
+• the second one – analogical – is proportional to the temperature 
+read. 
+It combines the Level Detection and the Temperature Management  
+with the high pressure resistance up to 150 Bar. 
+Operating Principle 
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+47
+OPERATION MODE 
+	Detect liquid presence with contact
+	REPEATABILITY 
+	± 2 mm. 
+	BODY MATERIALS 
+	Nickel plated steel
+	SENSIBLE DOME 
+	Glass
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage, reverse polarity
+	MAX. TEMPERATURE RANGE 
+	From –40°C up to +125°C
+	STORAGE TEMPERATURE 
+	From –40°C up to +125°C
+	SUPPLY VOLTAGE 
+	24 VDC ± 10%
+	SUPPLY CURRENT (LEVEL SECTION) 
+	20mA max. 
+	OUTPUT TYPE 
+	NPN
+	DC OUTPUT LOAD CURRENT 
+	up to 50 mA max
+	OUTPUT MODE 
+	Output Normally Open or Closed in air
+	TEMPERATURE OUTPUT 
+	Analogical from 4 to 20 mA
+	DELAY TIMES 
+	Customizables depending on application needings
+	MAX PRESSURE 
+	up to 150 bar
+	
+
+
+
+Mechanical Dimensions 
+40 50 
+Ø20 
+22 
+Thread* 
+16 
+90 
+36 
+Note. - Quotes in mm. 
+Ordering Codes 
+SENSOR 
+	CODE
+	3/4” NPT - Normally open in air 
+	32517308304002003150
+	3/4” NPT - Normally Closed in air 
+	32517308305002003150
+	
+
+
+
+Ex Electro-Optic Level Switch 
+48
+ CE 0948 II 1 G Ex ia IIC T6…T4 Ga 
+
+Safety notes 
+The sensor has been designed and manufactured to achieve the ia intrinsically safety, and to work in potential explosive environment – IIC Group. Regarding the temperature class of the instrument, please look at the table on next page of this document for more details. 
+Operating Principle 
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Mechanical Dimensions 
+
+
+	
+
+
+
+30 
+90 
+Case features 
+cable gland M20x1.5 
+Note. - Quotes in mm. 
+49
+Body materials: Stainless Steel AISI 303, 304, 316L Dome materials: Glass 
+Available Body threads:  from 3/8” up to 3/4” GAS cylindrical;     from 3/8” up to 3/4” GAS conic;     from 3/8” up to 3/4” NPT;     from 5/8”-24 up to 1” 1/8-18 UNEF; from M18 up to M30 ISO metric. 
+POWER SUPPLY 
+	9 ÷ 28 Vdc
+	STORAGE TEMPERATURE 
+	-20°C ÷ 60°C
+	OUTPUT TYPE 
+	Open collector
+	MAX. OUTPUT NPN  
+O.C. SINK CURRENT 
+	40 mA
+	CABLE CAPACITANCE 
+	140 pF/m
+	CABLE INDUCTANCE 
+	1,25 µH/m
+	CABLE RESISTANCE 
+	39 mΩ/m
+	
+
+
+
+Safety Parameters 
+Ui = 30VDC  
+Ii = 160mA  
+Pi = 1,2W 
+Ingress Protection Code:  In front IP68, 20 bar 30min 
+TEMPERATURE CLASS 
+MAX SURFACE TEMPERATURE (TX)
+	MAX WORKING TEMPERATURE RANGE AT LIQUID DETECTING POINT (°C) 
+	AMBIENT TEMPERATURE RANGE (°C)
+	T6 
+	-20 ÷ +60 
+	-20 ÷ +60
+	T5 
+	-20 ÷ +80 
+	-20 ÷ +60
+	T4 
+	-20 ÷ +100 
+	-20 ÷ +60
+	
+
+
+
+Ordering Codes (T6 code examples with Stainless steel AISI 304 housing) 
+MOUNTING THREAD 
+	TEMP. CLASS 
+	OUTPUT MODE 
+	CODE NUMBER
+	3/4” NPT 
+	T6 
+	Normally Open in air 
+	51244001001400
+	1/2” NPT 
+	T6 
+	Normally Open in air 
+	51249001001400
+	1” 1/8 -18 UNEF 
+	T6 
+	Normally Open in air 
+	5124B001001400
+	
+
+
+
+3/4” NPT 
+	T6 
+	Normally Closed in air 
+	51254001001400
+	1/2” NPT 
+	T6 
+	Normally Closed in air 
+	51259001001400
+	1” 1/8 -18 UNEF 
+	T6 
+	Normally Closed in air 
+	5125B001001400
+	
+
+
+
+NOTE. An appropriate intrinsically safe interface must be used and installed in strict accordance with sensor’s technical documentation. 
+K11 Level Switch 50Operating Principle 
+Application Description 
+K11 level switches are suitable for high pressure applications like  pressurized vessels, HVAC and refrigeration, motors etc. They have  bodies made of stainless steel and sensor dome made of glass.  They are economical, dependable, and compact in size with overall  dimensions of 59 x 27 mm and have no moving parts.  These level switches use infrared technology for their operation.  They have an operating temperature range of -40°C to 125°C.  There is a programmable timer inside these K11 level switches that  allows a delay time to be set for delaying the output switching.  The output modes are closed in presence of liquids and open in air or  vice versa.  
+The AC / DC output current is up to 100mA depending on model. These level switches can integrate electronic protections against  transient over voltage, and reverse polarity (for DC models). They can withstand maximum pressure of 60 bar.  
+
+The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence.  
+Technical Data 
+51
+OPERATION MODE 
+	Detect liquid presence with contact
+	REPEATABILITY 
+	± 2 mm. 
+	BODY MATERIALS 
+	Stainless steel or Nickel plated steel
+	SENSIBLE DOME 
+	Glass
+	ELECTRONIC PROTECTIONS 
+	Transient over voltage, reverse polarity (for DC models)
+	MAX. TEMPERATURE RANGE 
+	From –40ºC up to +125ºC
+	STORAGE TEMPERATURE 
+	From –40ºC up to +125ºC
+	SUPPLY VOLTAGE 
+	10 – 28 VDC or 24 VAC ± 10% 50 or 60 Hz
+	OUTPUT TYPE 
+	AC output or NPN, NPN open collector, PNP for DC model
+	AC/DC OUTPUT CURRENT 
+	Up to 100 mA Max (depending on temperature range)
+	OUTPUT MODE 
+	Output Normally Open or Closed in the air
+	DELAY TIMES 
+	Customizable depending on application needings
+	MAX PRESSURE 
+	Up to 60 bar (burst 120 bar)
+	TORQUE TIGHTEN 
+	15 Ntm
+	
+
+
+
+Electrical Connection 
+
+Mechanical Dimensions 
+Note. - Quotes in mm. 
+REV. 03 - 11/21
+Via Emilia Ovest, 1179 - 41123 Modena - Italy  
+Tel. +39 059 375498 - Fax +39 059 376294 
+info@teklab.eu - www.teklab.eu - www.inrefrigeration.com MADE IN ITALY

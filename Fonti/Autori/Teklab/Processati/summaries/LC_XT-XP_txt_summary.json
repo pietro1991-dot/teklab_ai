@@ -1,0 +1,138 @@
+{
+    "file_index": 9,
+    "filename": "LC XT-XP.txt",
+    "product_family": "General",
+    "summary_label": "General: LC XT-XP.txt",
+    "category": "all",
+    "total_chunks": 1,
+    "chunk_ids": [
+        "teklab_chunk_009_001_LC-XT_Optical_Level_Control_Unit"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "LC-XT",
+            "optical level control unit",
+            "CO2 systems",
+            "M20x1.5 adapter",
+            "1/2”NPT adapter"
+        ],
+        "all_concepts": [
+            "High reliability due to absence of mechanical moving parts",
+            "Good chemical compatibility and no leakage thanks to fused glass technology",
+            "Easy replacement of electronic sensor without emptying or depressurizing the plant",
+            "Customizable delays on request",
+            "Direct mounting onto various types of compressors and tanks"
+        ],
+        "technical_specs": [
+            "The sensor contains an infrared-ray emitter and an optical receiver.",
+            "When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for LC-XT?",
+            "Which refrigerants are compatible with LC-XT?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_009_001_LC-XT_Optical_Level_Control_Unit",
+        "file_index": 9,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "LC-XT Optical Level Control Unit",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "TK Series / LC Series",
+        "key_concepts": [
+            "High reliability due to absence of mechanical moving parts",
+            "Good chemical compatibility and no leakage thanks to fused glass technology",
+            "Easy replacement of electronic sensor without emptying or depressurizing the plant",
+            "Customizable delays on request",
+            "Direct mounting onto various types of compressors and tanks"
+        ],
+        "keywords_primary": [
+            "LC-XT",
+            "optical level control unit",
+            "CO2 systems",
+            "M20x1.5 adapter",
+            "1/2”NPT adapter"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The sensor contains an infrared-ray emitter and an optical receiver.",
+            "When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What pressure range does LC-XT support?",
+                "answer": "The LC-XT optical level control unit supports pressures up to 46bar. It is suitable for CO2 systems and can be directly mounted onto various types of compressors and tanks using M20x1.5 or 1”1/8 – 18 UNEF adapters.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the LC-XT sensor work?",
+                "answer": "The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What are the benefits of using the LC-XT optical level control unit?",
+                "answer": "The LC-XT optical level control unit offers high reliability, good chemical compatibility, and easy replacement of electronic sensor without emptying or depressurizing the plant. It also provides customizable delays on request and direct mounting onto various types of compressors and tanks.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What certifications does the LC-XT optical level control unit have?",
+                "answer": "The LC-XT optical level control unit conforms to directives 2014/30/UE and 2014/35/UE. It also has ATEX certification, which ensures safe operation in explosive environments.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for LC-XT?",
+            "Which refrigerants are compatible with LC-XT?"
+        ],
+        "summary": "The LC-XT optical level control unit is a reliable and customizable solution for CO2 systems, offering high accuracy and ease of use.",
+        "domain_metadata": {
+            "product_family": "TK Series / LC Series",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/general/teklab_chunk_009_001_LC-XT_Optical_Level_Control_Unit.json"
+    ]
+}

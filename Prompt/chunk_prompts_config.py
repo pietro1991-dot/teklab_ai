@@ -1,16 +1,16 @@
 """
 ================================================================================
-📦 CHUNK CREATION PROMPTS CONFIGURATION
+📦 CHUNK CREATION PROMPTS CONFIGURATION - TEKLAB AI
 ================================================================================
 
 This module contains configurable prompts for Llama model to generate chunk
-metadata during the chunk creation process (script 3).
+metadata for Teklab industrial products (liquid level sensors and controllers).
 
 Multiple variants available:
-- default: Balanced quality and speed
-- concise: Quick extraction for large datasets
-- detailed: Maximum quality and depth
-- multilingual: Language-aware processing
+- default: Balanced quality and speed for technical documentation
+- concise: Quick extraction for product catalogs
+- detailed: Maximum quality for technical specifications
+- multilingual: Multi-language product documentation
 - validation: Quality check for generated chunks
 
 Usage:
@@ -21,83 +21,101 @@ Usage:
 """
 
 # ============================================================================
-# SYSTEM PROMPT FOR CHUNK CREATION
+# SYSTEM PROMPT FOR CHUNK CREATION - TEKLAB PRODUCTS
 # ============================================================================
 
-CHUNK_SYSTEM_PROMPT = """You are an expert AI assistant specialized in analyzing spiritual and philosophical texts. Your role is to extract structured metadata from text chunks to enable semantic search and RAG (Retrieval Augmented Generation).
+CHUNK_SYSTEM_PROMPT = """You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial refrigeration and air conditioning applications.
+
+Your role is to extract structured metadata from technical product documentation to enable semantic search and RAG (Retrieval Augmented Generation) for a B2B chatbot.
 
 Your responsibilities:
-- Extract key concepts, themes, and ideas from the text
-- Identify meaningful keywords for semantic search
-- Select iconic quotes that capture the essence
-- Generate natural questions users might ask about this content
-- Provide clear, concise summaries
-- Maintain spiritual and philosophical depth in your analysis
+- Extract product specifications, technical parameters, and application details
+- Identify industry-standard keywords and technical terminology
+- Select key technical quotes that define product capabilities
+- Generate practical questions engineers and buyers might ask
+- Provide clear, accurate summaries of technical content
+- Maintain technical accuracy and precision in all metadata
+
+Focus areas:
+- Product models: TK1+, TK3+, TK4, LC-PS, LC-PH, LC-XP, LC-XT, K25, Rotalock
+- Technical specs: Pressure ranges, temperature limits, refrigerant compatibility
+- Features: MODBUS, ATEX certification, accuracy, response time, IP rating
+- Applications: Compressors, evaporators, refrigeration systems, HVAC
 
 Output format: Always respond with valid JSON containing the requested metadata fields."""
 
 
 # ============================================================================
-# DEFAULT VARIANT - Balanced quality and speed
+# DEFAULT VARIANT - Balanced quality and speed for TEKLAB PRODUCTS
 # ============================================================================
 
-CHUNK_ANALYSIS_PROMPT = """Analyze the following text chunk and extract structured metadata for a spiritual AI chatbot RAG system.
+CHUNK_ANALYSIS_PROMPT = """Analyze the following technical product documentation from Teklab and extract structured metadata for a B2B RAG chatbot system.
 
-TEXT TO ANALYZE:
+TECHNICAL TEXT TO ANALYZE:
 {text}
 
 Extract the following information and respond ONLY with a valid JSON object (no additional text):
 
 {{
-  "chunk_title": "Brief descriptive title (5-10 words)",
+  "chunk_title": "Product/topic title (e.g., 'TK3+ 130bar CO2 Oil Level Controller')",
   "key_concepts": [
-    "Concept 1 - clear and specific",
-    "Concept 2 - practical and actionable",
-    "Concept 3 - spiritual principle",
-    "Concept 4 - deeper understanding",
-    "Concept 5 - expected outcome"
+    "Primary product feature or specification",
+    "Key technical parameter or capability",
+    "Main application or use case",
+    "Important compatibility or standard",
+    "Critical performance characteristic"
   ],
   "keywords_primary": [
-    "keyword1",
-    "keyword2",
-    "keyword3",
-    "keyword4",
-    "keyword5"
+    "product_model (e.g., TK3+, LC-PS)",
+    "pressure_range (e.g., 130bar, 0-600bar)",
+    "temperature (e.g., -40°C, +125°C)",
+    "feature (e.g., MODBUS, ATEX)",
+    "application (e.g., compressor, refrigeration)"
   ],
   "keywords_synonyms": {{
-    "keyword1": ["synonym1", "synonym2", "synonym3"],
-    "keyword2": ["variant1", "variant2"]
+    "TK3+": ["TK3 plus", "TK3-plus", "TK 3+"],
+    "MODBUS": ["Modbus RTU", "Modbus protocol"],
+    "oil level": ["oil management", "lubrication control"]
   }},
   "iconic_quotes": [
-    "Memorable quote 1 from the text",
-    "Key quote 2 that captures essence"
+    "Key technical specification or feature from the text",
+    "Important application note or compatibility detail"
   ],
   "qa_pairs": [
     {{
-      "question": "Practical question a user might ask about this content?",
-      "answer": "COMPREHENSIVE answer (200-400 words) that thoroughly explains the concept, provides deep context, includes practical examples, offers step-by-step guidance, addresses common misconceptions, and links to related concepts. Take all the space needed to truly convey understanding.",
+      "question": "Technical question engineers/buyers might ask (e.g., 'What pressure range does TK3+ 130bar support?')",
+      "answer": "COMPREHENSIVE technical answer (200-400 words) that explains specifications, provides application context, includes compatibility details, offers selection guidance, addresses common technical concerns, and references relevant standards or certifications. Be thorough and precise.",
       "difficulty": "beginner/intermediate/advanced",
-      "intent": ["understanding_concept", "practical_application"]
+      "intent": ["product_selection", "technical_specification", "application_design", "troubleshooting"]
     }}
   ],
   "natural_questions": [
-    "Question 1 a user might ask about this topic?",
-    "Question 2 related to the concepts?",
-    "Question 3 about practical application?"
+    "What is the maximum pressure for [product]?",
+    "Which refrigerants are compatible with [model]?",
+    "How do I select between TK3+ and TK4?"
   ],
-  "summary": "2-3 sentence summary of the main ideas",
-  "domain_metadata": {{}}
+  "summary": "2-3 sentence technical summary of the product/feature",
+  "domain_metadata": {{
+    "product_family": "TK Series / LC Series / K25 / Rotalock / ATEX",
+    "pressure_class": "46bar / 80bar / 130bar / custom",
+    "refrigerants": ["R134a", "R404A", "R410A", "CO2", "ammonia"],
+    "certifications": ["ATEX", "CE", "UL"],
+    "communication": ["MODBUS RTU", "analog 4-20mA", "relay output"],
+    "application_type": ["compressor", "evaporator", "separator", "receiver"]
+  }}
 }}
 
-CRITICAL INSTRUCTIONS FOR Q&A PAIRS:
-- Generate VARIABLE number of Q&A pairs based on content complexity:
-  * Simple content (1-2 concepts): Generate 2-3 Q&A pairs
-  * Medium content (3-5 concepts): Generate 4-6 Q&A pairs  
-  * Complex content (6+ concepts): Generate 6-10 Q&A pairs
-- Each Q&A answer should be 200-400 words (comprehensive and thorough)
-- Cover ALL major concepts with at least one Q&A each
+CRITICAL INSTRUCTIONS FOR TEKLAB TECHNICAL Q&A:
+- Generate VARIABLE number of Q&A pairs based on technical complexity:
+  * Simple products (basic sensors): 2-3 Q&A pairs
+  * Medium products (standard controllers): 4-6 Q&A pairs  
+  * Complex products (advanced systems): 6-10 Q&A pairs
+- Each Q&A answer should be 200-400 words (comprehensive technical detail)
+- Cover ALL major technical aspects with at least one Q&A each
 - Include Q&A for:
-  * Conceptual understanding (what/why)
+  * Product specifications (pressure, temperature, accuracy)
+  * Application selection (which product for which use case)
+  * Installation and wiring (technical setup)
   * Practical application (how to practice)
   * Troubleshooting common issues
   * Advanced/deeper insights

@@ -1,0 +1,335 @@
+Il catalogo descrive questi dispositivi come regolatori di livello olio basati su tecnologia elettro-ottica infrarossa, progettati principalmente per applicazioni in refrigerazione, HVAC&R, compressori, serbatoi di olio e separatori. Sono caratterizzati da alta affidabilità grazie all'assenza di parti meccaniche mobili, compatibilità chimica con oli, carburanti, alimenti e bevande, e conformità alle direttive UE (2014/30/UE e 2014/35/UE). Per i modelli TK3+ e TK4 (inclusa la variante Modbus TK4MB), esistono 3 versioni principali in base alla pressione massima di lavoro: @46 bar, @80 bar e @130 bar. Questi modelli possono essere alimentati a 24 VAC o 230 VAC e sono utilizzabili con diversi adattatori (elencati nell'Addendum del catalogo) adatti a vari modelli di compressori di marchi come Bitzer, Bock, Copeland, Dorin, Frascold, ecc., per un'installazione flessibile (es. flangia 3/4/6 fori, 1-1/8" UNEF, 3/4" NPT, Rotalock, ecc.).
+
+
+TK3+ (Oil Level Regulator)
+
+Descrizione generale: È un regolatore di livello olio completo, progettato per controllare il livello dell'olio nel crankcase del compressore per prevenire danni da mancanza di olio. Integra un sensore elettro-ottico, una valvola solenoidale per il riempimento automatico dell'olio e un relay per allarme. È disponibile in 3 versioni principali: @46 bar, @80 bar e @130 bar, con alimentazione a 24 VAC o 230 VAC. Ha un design compatto con montaggio left/right e possibilità di filtro integrato in serie con la valvola. Può essere utilizzato con diversi adattatori adatti a ogni modello di compressore per una compatibilità ampia.
+Principio di funzionamento: Il sensore ottico monitora il livello; se basso, apre la valvola solenoidale per riempire dall'olio di ritorno; se persiste, attiva l'allarme. Nessuna parte mobile.
+Applicazioni tipiche: Sistemi di ritorno olio ad alta pressione con compressori multipli (es. rack di compressori + satellite); refrigerazione industriale.
+Specifiche tecniche:
+
+Alimentazione: 24 VAC ±10% o 230 VAC ±10% (consumo: 20 VA @46 bar, 30 VA @80/130 bar).
+Output: Relay libero da potenziale (NO/NC), fino a 230 VAC @2A per allarme; valvola solenoidale per filling.
+Pressione massima di lavoro (MWP): 46 bar, 80 bar o 130 bar; MOPD (differenziale pressione operativa max): 26 bar, 60 bar o 100 bar.
+Temperatura media/ambiente: -40°C a +85°C (media), -40°C a +60°C (ambiente).
+Connessioni: Cable glands (1m) o connettori (3m/6m); linea ritorno olio 7/16-20 UNF maschio.
+Materiali: Acciaio nichelato + vetro fuso; PA rinforzato con fibra di vetro.
+Protezione: IP65.
+Montaggio: Sostituzione sight-glass (flangia 3/4/6 fori); adapter per vari compressori (es. Bitzer, Copeland).
+Altre features: LED per ispezione; sight-glass integrato; manutenzione facile (bobina valvola e sensore sostituibili senza svuotare); filtro opzionale.
+
+
+Codici di esempio: TK3P-A50AB11-01 (24V, 46 bar, 1m cavo), TK3P-C60AA11-02 (24V, 80 bar).
+Vantaggi unici: Riduzione giunzioni nel circuito; installazione semplificata; adatto per CO2.
+
+TK4 (Oil Level Regulator with Integrated Connectivity Capabilities)
+
+Descrizione generale: È una versione evoluta del TK3+, con le stesse funzioni di regolazione livello olio (sensore ottico + valvola solenoidale + allarme), ma aggiunge capacità di connettività innovative. Integra un protocollo di comunicazione wireless near-field (NFC) per interagire con il dispositivo senza smontare o collegare cavi. È disponibile in 3 versioni principali: @46 bar, @80 bar e @130 bar, con alimentazione a 24 VAC o 230 VAC. Può essere utilizzato con diversi adattatori adatti a ogni modello di compressore per una compatibilità ampia.
+Principio di funzionamento: Identico a TK3+, con aggiunta di NFC per accesso a dati e customizzazioni.
+Applicazioni tipiche: Come TK3+, ma ideale per scenari dove serve ottimizzazione remota o sul campo (es. manutenzione, regolazione timings).
+Specifiche tecniche: Quasi identiche a TK3+ (alimentazione, output, pressioni, temperature, connessioni, materiali, protezione).
+
+Connettività: NFC wireless: permette verifica status operativo, condizioni sistema, customizzazione timings (funzionamento, allarmi), anche offline (non alimentato). Sicuro con password; range limitato per evitare accessi non autorizzati. Aperto a future espansioni.
+
+
+Codici di esempio: TK4-A50AB11-01 (24V, 46 bar, 1m cavo), TK4-C60AA11-02 (24V, 80 bar).
+Vantaggi unici: Connettività rivoluzionaria per flessibilità; compatto e economico; ottimizzazione sistema in tempo reale.
+
+TK4 Modbus (TK4MB - Enhanced Oil Level Regulator with Integrated Modbus RTU Connectivity)
+
+Descrizione generale: È la versione più avanzata, che combina le features di TK4 (inclusa NFC) con una connettività seriale cablata basata su protocollo Modbus RTU. Funziona come slave in reti Modbus per monitoraggio remoto. Include sensore ottico, valvola solenoidale e allarme, con 3 versioni principali: @46 bar, @80 bar e @130 bar, con alimentazione a 24 VAC o 230 VAC. Può essere utilizzato con diversi adattatori adatti a ogni modello di compressore per una compatibilità ampia.
+Principio di funzionamento: Come TK4, ma con Modbus per lettura/scrittura registri (es. status valvola/allarme, timings, logging).
+Applicazioni tipiche: Sistemi complessi con controllo remoto (es. sale controllo, ottimizzazione performance, piani manutenzione); integrazione con controller Modbus.
+Specifiche tecniche: Identiche a TK4/TK3+ (alimentazione 20-30 VA, output, pressioni fino a 130 bar, etc.).
+
+Connettività:
+
+Modbus RTU seriale (cablata): Per monitoraggio remoto (es. status contatti, timings, allarmi); conforme a standard Modbus.org.
+NFC wireless: Per customizzazioni locali (es. indirizzo dispositivo, baud rate) usando dongle USB su PC/Android.
+
+
+
+
+Codici di esempio: TK4MB-A50AB13-01 (24V, 46 bar, 3m cavo), TK4MB-C60AA13-02 (24V, 80 bar).
+Vantaggi unici: Monitoraggio remoto via rete; integrazione facile in sistemi esistenti; doppia connettività (cablata + wireless).
+
+Differenze Dettagliate tra TK3+, TK4 e TK4 Modbus
+
+Funzionalità di base:
+
+Tutti e tre i modelli offrono regolazione completa (monitoraggio + filling automatico + allarme). Sono "attivi" e condividono il core tecnologico.
+
+
+Connettività:
+
+TK3+: Nessuna connettività avanzata (solo relay e LED locali).
+TK4: Aggiunge NFC wireless per customizzazioni e verifica status (es. timings, allarmi) senza cavi; funziona anche non alimentato.
+TK4 Modbus (TK4MB): Aggiunge Modbus RTU seriale per integrazione remota in reti, oltre a NFC. Permette logging, monitoraggio centralizzato e ottimizzazione sistema.
+
+
+Pressione e Potenza:
+
+Tutti: 3 versioni principali (@46 bar, @80 bar, @130 bar con MOPD più alti); alimentazione 24V o 230V; consumo 20-30 VA (a causa della valvola). Tutti adatti per CO2.
+
+
+Design e Installazione:
+
+Tutti: Design simile (dimensioni ~110-134 mm a seconda adapter); linea olio 7/16 UNF; montaggio left/right; filtro opzionale; compatibili con vari adattatori per compressori specifici.
+
+
+Applicazioni e Complessità:
+
+TK3+: Per regolazione standard in sistemi industriali.
+TK4: Per sistemi che richiedono flessibilità locale (customizzazioni sul campo).
+TK4 Modbus: Per ambienti avanzati con IoT/controllo remoto (es. rack compressori monitorati da centrale).
+
+
+Costo e Personalizzazioni:
+
+TK3+: Base, no connettività extra.
+TK4/TK4MB: Più avanzati; NFC/Modbus per future espansioni (Teklab aperta a feedback clienti).
+
+
+
+Categoria "Sensors": K25 Level Switch for High Pressure environments, Ex Electro-Optic Level Switch (certificato ATEX), e K11 Level Switch. Questi sono sensori di livello liquidi basati su tecnologia elettro-ottica infrarossa, progettati per applicazioni industriali come refrigerazione, HVAC, ambienti ad alta pressione e potenzialmente esplosivi. Sono caratterizzati da assenza di parti meccaniche mobili per alta affidabilità, dome in vetro per rilevamento ottico, ripetibilità ±2 mm, e compatibilità con vari liquidi (oli, CO2, ecc.). Ho tentato di verificare aggiornamenti sul sito teklab.eu, ma non emergono informazioni recenti o pagine specifiche accessibili; quindi, mi baso sui dati del catalogo. Se necessario, suggerisco di contattare direttamente Teklab per conferme o versioni aggiornate.
+
+### K25 Level Switch for High Pressure environments with 4÷20 mA analog temperature output
+- **Descrizione generale**: È un sensore ottico di livello progettato per ambienti ad alta pressione fino a 150 bar, particolarmente adatto per sistemi CO2 in applicazioni transcritiche o subcritiche. Non ha parti mobili, rendendolo ideale per monitoraggio critico di media dove è richiesta elevata affidabilità. Fornisce due output distinti: uno digitale per indicare la presenza o assenza del liquido, e uno analogico proporzionale alla temperatura rilevata. Combina così rilevamento livello e gestione temperatura in un unico dispositivo compatto.
+- **Principio di funzionamento**: Contiene un emittitore a infrarossi e un ricevitore ottico. In assenza di liquido (in aria), tutta la luce emessa viene riflessa internamente dal dome e reindirizzata al ricevitore. Quando il liquido raggiunge il dome, una grande quantità di luce si disperde nel liquido, permettendo al sensore di rilevarne la presenza.
+- **Applicazioni tipiche**: Monitoraggio livello di olio o CO2 liquido in sistemi di refrigerazione, specialmente in contesti transcritici o subcritici dove è essenziale combinare livello e temperatura per ottimizzare il controllo.
+- **Specifiche tecniche**:
+  - **Alimentazione**: 24 VDC ±10%.
+  - **Output**: Digitale NPN (fino a 50 mA max carico DC, Normally Open o Closed in air); Analogico da 4 a 20 mA per temperatura.
+  - **Pressione massima**: Fino a 150 bar.
+  - **Temperatura media/ambiente**: Da -40°C a +125°C (operativa max); Storage da -40°C a +125°C.
+  - **Connessioni**: Thread disponibile (es. 3/4” NPT); corrente supply per sezione livello 20 mA max.
+  - **Materiali**: Corpo in acciaio nichelato; dome sensibile in vetro.
+  - **Protezione**: Protezioni elettroniche contro sovratensione transiente e inversione di polarità.
+  - **Altre features**: Modalità operativa con rilevamento presenza liquido a contatto; ritardi customizzabili in base alle esigenze applicative; ripetibilità ±2 mm; adatto specificamente per sistemi CO2.
+- **Codici di esempio**: 32517308304002003150 (3/4” NPT - Normally Open in air); 32517308305002003150 (3/4” NPT - Normally Closed in air).
+- **Vantaggi unici**: Integrazione unica di rilevamento livello e temperatura in un sensore ad alta pressione; ottimale per applicazioni CO2 dove il monitoraggio termico è critico; alta resistenza e affidabilità senza parti mobili.
+
+### Ex Electro-Optic Level Switch (ATEX)
+- **Descrizione generale**: È un sensore elettro-ottico di livello certificato ATEX (CE 0948 II 1 G Ex ia IIC T6…T4 Ga), progettato per operare in ambienti potenzialmente esplosivi del gruppo IIC con sicurezza intrinseca (ia). Non ha parti mobili e richiede un'interfaccia intrinsecamente sicura per l'installazione. È compatto e focalizzato sulla sicurezza, con corpo in acciaio inox e vari opzioni di thread per adattabilità. La classe di temperatura varia in base all'uso, come dettagliato nella tabella specifica.
+- **Principio di funzionamento**: Contiene un emittitore a infrarossi e un ricevitore ottico. In assenza di liquido (in aria), tutta la luce emessa viene riflessa internamente dal dome e reindirizzata al ricevitore. Quando il liquido raggiunge il dome, una grande quantità di luce si disperde nel liquido, permettendo al sensore di rilevarne la presenza.
+- **Applicazioni tipiche**: Ambienti esplosivi in settori come petrolchimico, farmaceutico o industriale dove è presente rischio di atmosfere esplosive (gruppo IIC); ideale per rilevamento punto livello in zone pericolose.
+- **Specifiche tecniche**:
+  - **Alimentazione**: 9 ÷ 28 VDC.
+  - **Output**: Open collector (NPN O.C. sink current fino a 40 mA); Normally Open o Closed in air.
+  - **Pressione massima**: Codice di protezione ingresso IP68 frontale (20 bar per 30 min).
+  - **Temperatura media/ambiente**: Dipende dalla classe: T6 (max superficie/liquido/ambiente -20÷+60°C), T5 (max liquido -20÷+80°C, ambiente -20÷+60°C), T4 (max liquido -20÷+100°C, ambiente -20÷+60°C); Storage -20÷+60°C.
+  - **Connessioni**: Cable gland M20x1.5; thread disponibili da 3/8” a 3/4” GAS cilindrico/conico o NPT, 5/8”-24 a 1”1/8-18 UNEF, M18 a M30 metrico; parametri cavo: capacitanza 140 pF/m, induttanza 1,25 µH/m, resistenza 39 mΩ/m.
+  - **Materiali**: Corpo in acciaio inox AISI 303, 304 o 316L; dome in vetro.
+  - **Protezione**: Sicurezza intrinseca con parametri Ui=30VDC, Ii=160mA, Pi=1,2W; richiede interfaccia sicura conforme alla documentazione tecnica.
+  - **Altre features**: Progettato per sicurezza ia; note di sicurezza enfatizzano installazione corretta.
+- **Codici di esempio**: 51244001001400 (3/4” NPT, T6, Normally Open in air); 51254001001400 (3/4” NPT, T6, Normally Closed in air); esempi con alloggiamento in AISI 304.
+- **Vantaggi unici**: Certificazione ATEX per uso in zone esplosive; ampia varietà di thread per flessibilità di montaggio; focus sulla sicurezza intrinseca senza compromettere la compattezza.
+
+### K11 Level Switch
+- **Descrizione generale**: È un sensore di livello compatto ed economico, adatto per applicazioni ad alta pressione come vasi pressurizzati o sistemi HVAC e refrigerazione. Ha un corpo in acciaio e dome in vetro, senza parti mobili per affidabilità a lungo termine. Include un timer programmabile per ritardi sull'output switching, con modalità output closed in presenza di liquido e open in aria (o viceversa). È versatile con opzioni AC/DC e protezioni elettroniche integrate.
+- **Principio di funzionamento**: Contiene un emittitore a infrarossi e un ricevitore ottico. In assenza di liquido (in aria), tutta la luce emessa viene riflessa internamente dal dome e reindirizzata al ricevitore. Quando il liquido raggiunge il dome, una grande quantità di luce si disperde nel liquido, permettendo al sensore di rilevarne la presenza.
+- **Applicazioni tipiche**: Vasi pressurizzati, sistemi HVAC e refrigerazione, motori e altre applicazioni industriali ad alta pressione dove è richiesta economia e compattezza.
+- **Specifiche tecniche**:
+  - **Alimentazione**: 10 – 28 VDC o 24 VAC ±10% (50 o 60 Hz).
+  - **Output**: AC output o NPN, NPN open collector, PNP per modelli DC; corrente AC/DC fino a 100 mA max (dipendente dalla temperatura); Normally Open o Closed in air.
+  - **Pressione massima**: Fino a 60 bar (burst 120 bar); torque tighten 15 Nm.
+  - **Temperatura media/ambiente**: Da -40°C a +125°C (operativa max); Storage da -40°C a +125°C.
+  - **Connessioni**: Connessione elettrica standard (non dettagliata, ma con protezioni); dimensioni complessive 59 x 27 mm.
+  - **Materiali**: Corpo in acciaio inox o nichelato; dome sensibile in vetro.
+  - **Protezione**: Protezioni elettroniche contro sovratensione transiente e inversione di polarità (per modelli DC).
+  - **Altre features**: Modalità operativa con rilevamento presenza liquido a contatto; ritardi customizzabili in base alle esigenze applicative; ripetibilità ±2 mm; dimensioni compatte per installazioni ristrette.
+- **Codici di esempio**: Non specificati nel documento fornito, ma i codici sono generati in base a varianti (es. thread, output mode, alimentazione); contattare Teklab per customizzazioni.
+- **Vantaggi unici**: Economico e altamente compatto; versatile con alimentazione AC/DC e output multipli; timer programmabile per ritardi, ideale per applicazioni personalizzate.
+
+### Differenze Dettagliate tra K25, Ex (ATEX) e K11
+- **Funzionalità di base**:
+  - K25: Rilevamento livello combinato con output temperatura analogico (duplice funzionalità).
+  - Ex (ATEX): Rilevamento livello base con enfasi su sicurezza intrinseca per ambienti esplosivi.
+  - K11: Rilevamento livello con timer programmabile per ritardi, focalizzato su versatilità e economia.
+
+- **Output e Alimentazione**:
+  - K25: NPN digitale + 4-20 mA analogico; solo 24 VDC.
+  - Ex (ATEX): Open collector NPN; 9-28 VDC (richiede interfaccia sicura).
+  - K11: AC o NPN/PNP/open collector; 10-28 VDC o 24 VAC (più opzioni versatili).
+
+- **Pressione e Temperatura**:
+  - K25: Massima pressione 150 bar; range temp ampio -40/+125°C.
+  - Ex (ATEX): Pressione IP68 (20 bar 30 min); temp limitata da classe ATEX (fino a -20/+100°C liquido, più ristretta per ambiente).
+  - K11: Pressione 60 bar (burst 120 bar); range temp ampio -40/+125°C.
+
+- **Certificazioni e Protezioni**:
+  - K25: Protezioni elettroniche base; adatto per CO2 ma senza certificazioni esplosive.
+  - Ex (ATEX): Certificazione ATEX ia per zone esplosive; parametri sicurezza specifici e requisito interfaccia.
+  - K11: Protezioni elettroniche (sovratensione, polarità); no certificazioni speciali, ma robusto per usi generali.
+
+- **Design e Montaggio**:
+  - K25: Dimensioni ~90 mm con thread specifico (es. 3/4” NPT); focus su alta pressione.
+  - Ex (ATEX): Dimensioni 30x90 mm con cable gland; ampia varietà di thread per adattabilità in ambienti pericolosi.
+  - K11: Molto compatto (59x27 mm); thread non specificati ma flessibili, ideale per spazi ristretti.
+
+- **Applicazioni e Complessità**:
+  - K25: Alta pressione e CO2, con monitoraggio termico integrato per sistemi critici.
+  - Ex (ATEX): Ambienti esplosivi dove la sicurezza è prioritaria.
+  - K11: Applicazioni generali ad alta pressione, con enfasi su costo e personalizzazione ritardi.
+
+- **Costo e Personalizzazioni**:
+  - K25: Più avanzato (con temp), probabile costo medio-alto; ritardi custom.
+  - Ex (ATEX): Premium per certificazione; custom per thread e classe temp.
+  - K11: Economico; altamente customizzabile per ritardi e output.
+
+categoria "Level Switches": Level Control Unit TK1+, Optical Level Control Unit LC-XT / LC-XP, Optical Level Control Unit LC-PH, Optical Level Control Unit LC-PS, e Optical Level Control Unit ROTALOCK RLK02. Questi sono unità di controllo livello ottico basate su tecnologia elettro-ottica infrarossa, progettate per monitoraggio min/max di liquidi a bassa viscosità (come olio o CO2) in applicazioni HVAC&R, inclusi compressori, serbatoi olio, separatori e ricevitori. Sono caratterizzati da assenza di parti meccaniche mobili per alta affidabilità, design in due parti per facile sostituzione elettronica senza svuotare o depressurizzare l'impianto, dome in vetro fuso per no leakage e compatibilità chimica, conformità alle direttive UE (2014/30/UE e 2014/35/UE), protezione IP65, e ritardi customizzabili per evitare falsi allarmi. Non richiedono calibrazioni sul campo e sono adatti per sistemi CO2 dove specificato. Il principio di funzionamento comune: emettitore infrarosso e ricevitore ottico; in aria (liquido assente), la luce si riflette internamente dal dome; quando il liquido copre il dome, la luce si disperde, attivando il segnale. Ho verificato il catalogo PDF disponibile su teklab.eu, che conferma le stesse specifiche senza aggiornamenti post-2021. Se necessario, suggerisco di contattare direttamente Teklab per conferme o versioni più recenti.
+TK1+ (Level Control Unit)
+
+Descrizione generale: È un'unità di controllo livello progettata specificamente per monitoraggio in HVAC&R, montabile direttamente su crankcase di compressori, serbatoi olio, separatori o ricevitori di liquido. Funziona come allarme min/max e include LED integrati per verificare lo stato del liquido. È affidabile per ambienti pesanti e adatto per sistemi CO2.
+Principio di funzionamento: Emettitore infrarosso e ricevitore ottico; luce riflessa in aria e dispersa in liquido per rilevamento presenza.
+Applicazioni tipiche: Monitoraggio livello olio o liquido in sistemi di refrigerazione, come allarme minimo/massimo.
+Specifiche tecniche:
+
+Alimentazione: 24 VAC ±10% o 230 VAC ±10% (consumo: 10 VA per modulo elettronico).
+Output: Relay libero da potenziale (NO/NC), fino a 230 VAC @2A.
+Pressione massima di lavoro (MWP): 46 bar o 100 bar a seconda del modello.
+Temperatura media/ambiente: -40°C a +85°C (media), -40°C a +60°C (ambiente).
+Connessioni: Cavi o connettori con cavi modellati (lunghezze 1m o 3m, PVC CEI 20-22, temp. -20÷+70°C); connessione olio 1/4" NPT femmina.
+Materiali: Acciaio nichelato + vetro fuso; PA rinforzato con fibra di vetro.
+Protezione: IP65.
+Montaggio: Diretto o con adapter (es. 3/4/6 fori, 1-1/8" UNEF; vedi Addendum Adapters); dimensioni L=101.5 mm, L1=37 mm (variabili con adapter).
+Altre features: LED per stato liquido; ritardi customizzabili su richiesta; facile sostituzione elettronica.
+
+
+Codici di esempio: TK1P-KIT-0150-03 (24V, 1m cavo), TK1P-KIT-01E0-03 (230V, 1m cavo).
+Vantaggi unici: LED integrati per verifica visiva; output relay ad alto carico; montaggio flessibile con adapter per vari compressori.
+
+LC-XT / LC-XP (Optical Level Control Unit)
+
+Descrizione generale: È un'unità ottica per monitoraggio livello come allarme min/max su liquidi a bassa viscosità. Design in due parti per manutenzione facile. LC-XT per applicazioni standard (46 bar), LC-XP per alta pressione (120 bar). Adatto per sistemi CO2.
+Principio di funzionamento: Emettitore infrarosso e ricevitore ottico; luce riflessa in aria e dispersa in liquido per rilevamento presenza.
+Applicazioni tipiche: Montaggio diretto su compressori (es. M20x1.5, 1-1/8" UNEF) o serbatoi (1/2" NPT); allarmi livello in refrigerazione.
+Specifiche tecniche:
+
+Alimentazione: 230 VAC@50Hz / 115 VAC@60Hz / 24 VAC@50/60Hz / 24 VDC ±10% (consumo: 20 mA max).
+Output: Solid state (NO/NC in air), fino a 100 mA max.
+Pressione massima di lavoro (MWP): 46 bar (LC-XT), 120 bar (LC-XP).
+Temperatura media/ambiente: -40°C a +125°C (operativa).
+Connessioni: Connettore EN 175301-803A (ex DIN 43650 size A).
+Materiali: Acciaio inox o nichelato.
+Protezione: IP65; protezioni da sovratensione transiente.
+Montaggio: Adapter vari (es. 1/2" NPT, 3/4" NPT, 1" NPT, M20x1.5, 1-1/8" UNEF, 1-1/4" RLK); dimensione B variabile (es. 24 mm per 1/2" NPT); altezza complessiva ~139 mm.
+Altre features: Ritardi customizzabili; no calibrazioni.
+
+
+Codici di esempio: LC-XT707100001001A00 (24V, NO, 1/2" NPT, LC-XT); LC-XP607D00001001A00 (230V, NO, M20x1.5, LC-XP).
+Vantaggi unici: Versioni per diverse pressioni; connettore standard per cablaggio facile; ampia gamma di adapter per montaggio diretto.
+
+LC-PH (Optical Level Control Unit up to 120 bar)
+
+Descrizione generale: Unità ottica per allarmi min/max su liquidi a bassa viscosità, con pressione alta. Include capacità di connettività rivoluzionarie (es. wireless near-field per customizzazioni, come descritto in Innovative Communication Technology). LED status opzionale. Adatto per sistemi CO2.
+Principio di funzionamento: Emettitore infrarosso e ricevitore ottico; luce riflessa in aria e dispersa in liquido per rilevamento presenza.
+Applicazioni tipiche: Montaggio su compressori o serbatoi; monitoraggio livello in ambienti ad alta pressione.
+Specifiche tecniche:
+
+Alimentazione: 230 VAC@50Hz / 115 VAC@60Hz / 24 VAC@50/60Hz / 24 VDC ±10% (consumo: 20 mA max).
+Output: Solid state (NO/NC in air), fino a 100 mA max.
+Pressione massima di lavoro (MWP): 120 bar (per pressioni superiori, contattare fornitore).
+Temperatura media/ambiente: -40°C a +125°C (operativa).
+Connessioni: Cavo 3 fili (1m) o connettore M12x1.
+Materiali: Acciaio nichelato / PA rinforzato con fibra di vetro.
+Protezione: IP65; protezioni da sovratensione transiente.
+Montaggio: Adapter vari (es. 1/2" NPT, 3/4" NPT, 1" NPT, M20x1.5, 1-1/8" UNEF, 1-1/4" RLK); dimensione B variabile (es. 18.1 mm per M20x1.5); torque 50 Nm per adapter, hand-screw per sensore.
+Altre features: Ritardi customizzabili (activation/deactivation); LED opzionale; interfacce programmazione disponibili (vedi pag. 8).
+
+
+Codici di esempio: LC-PH7071000101A (24V, NO, 1/2" NPT); LC-PHB07D000101A (230V, NO, 1" NPT).
+Vantaggi unici: Connettività per customizzazioni (es. timings); LED opzionale; alta pressione per applicazioni CO2.
+
+LC-PS (Optical Level Control Unit up to 46 bar)
+
+Descrizione generale: Unità ottica per allarmi min/max su liquidi a bassa viscosità, simile a LC-PH ma per pressioni standard. Design in due parti per manutenzione.
+Principio di funzionamento: Emettitore infrarosso e ricevitore ottico; luce riflessa in aria e dispersa in liquido per rilevamento presenza.
+Applicazioni tipiche: Montaggio su compressori o serbatoi; monitoraggio livello in applicazioni generali.
+Specifiche tecniche:
+
+Alimentazione: 230 VAC@50Hz / 115 VAC@60Hz / 24 VAC@50/60Hz / 24 VDC ±10% (consumo: 20 mA max).
+Output: Solid state (NO/NC in air), fino a 100 mA max.
+Pressione massima di lavoro (MWP): 46 bar (per pressioni superiori, contattare fornitore).
+Temperatura media/ambiente: -40°C a +85°C (operativa).
+Connessioni: Cavo 3 fili (1m).
+Materiali: Acciaio nichelato / PA rinforzato con fibra di vetro.
+Protezione: IP65; protezioni da sovratensione transiente.
+Montaggio: Adapter vari (es. 1/2" NPT, 3/4" NPT, 1" NPT, M20x1.5, 1-1/8" UNEF, 1-1/4" RLK); dimensione B variabile (es. 18.1 mm per M20x1.5); torque 50 Nm per adapter, hand-screw per sensore.
+Altre features: Ritardi customizzabili.
+
+
+Codici di esempio: LC-PS7071000101A (24V, NO, 1/2" NPT); LC-PS607D000101A (230V, NO, M20x1.5).
+Vantaggi unici: Versione economica per pressioni standard; semplice connessione cavo.
+
+ROTALOCK RLK02 (Optical Level Control Unit)
+
+Descrizione generale: Unità ottica per allarmi min/max, specifica per connessioni Rotalock (1-3/4" o 2-1/4" -12 UNF). Design in due parti; gamma temperatura estesa.
+Principio di funzionamento: Emettitore infrarosso e ricevitore ottico; luce riflessa in aria e dispersa in liquido per rilevamento presenza.
+Applicazioni tipiche: Montaggio diretto su compressori con Rotalock; monitoraggio livello in refrigerazione.
+Specifiche tecniche:
+
+Alimentazione: 230 VAC@50Hz / 115 VAC@60Hz / 24 VAC@50/60Hz / 24 VDC ±10% (consumo: 20 mA max).
+Output: Solid state (NO/NC in air), fino a 100 mA max.
+Pressione massima di lavoro (MWP): 46 bar (per pressioni superiori, contattare fornitore).
+Temperatura media/ambiente: -40°C a +125°C (operativa).
+Connessioni: Connettore EN 175301-803A.
+Materiali: Acciaio nichelato.
+Protezione: IP65; protezioni da sovratensione transiente.
+Montaggio: Rotalock 1-3/4" -12 UNF o 2-1/4" -12 UNF; dimensioni ~78-130 mm altezza, 56-130 mm larghezza; torque 50 Nm per adapter, hand-screw per sensore.
+Altre features: Ritardi customizzabili.
+
+
+Codici di esempio: RLK02007100001001A00 (24V, NO, 1-3/4" Rotalock); RLK02107D00001001A00 (230V, NO, 2-1/4" Rotalock).
+Vantaggi unici: Specifico per Rotalock; temperatura alta per applicazioni estreme.
+
+Differenze Dettagliate tra TK1+, LC-XT/LC-XP, LC-PH, LC-PS e RLK02
+
+Funzionalità di base:
+
+TK1+: Allarme con LED e relay; focus su monitoraggio visivo.
+LC-XT/LC-XP/LC-PH/LC-PS: Allarmi solid state; LC-PH aggiunge connettività/LED opzionale.
+RLK02: Allarme solid state, ottimizzato per Rotalock.
+
+
+Output e Alimentazione:
+
+TK1+: Relay (2A); 24/230 VAC.
+Altri: Solid state (100 mA); opzioni multiple incl. DC.
+
+
+Pressione e Temperatura:
+
+TK1+: 46/100 bar; temp media +85°C.
+LC-XT/LC-PS/RLK02: 46 bar; temp +85°C (LC-PS) o +125°C (altri).
+LC-XP/LC-PH: 120 bar; +125°C.
+
+
+Connettività e Features Extra:
+
+TK1+: LED integrati.
+LC-PH: Connettività wireless; LED opzionale.
+Altri: No extra; ritardi custom.
+
+
+Design e Montaggio:
+
+TK1+: Connessione olio 1/4" NPT; adapter generali.
+LC serie: Adapter vari (NPT, UNEF, M20, RLK); connettori/cavi.
+RLK02: Solo Rotalock; dimensioni più compatte.
+
+
+Applicazioni e Complessità:
+
+TK1+: Ambienti pesanti con verifica visiva.
+LC-XT/LC-XP/LC-PS: Standard/alta pressione; flessibili.
+LC-PH: Avanzata con customizzazioni.
+RLK02: Specifica per Rotalock in alta temp.
+
+
+Costo e Personalizzazioni:
+
+TK1+: Potente output; adapter separati.
+LC-PS: Economica per base.
+LC-PH: Premium con connettività.
+Tutti customizzabili per ritardi/adapter.
