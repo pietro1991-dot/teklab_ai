@@ -1,0 +1,68 @@
+{
+  "titolo": "Struttura Gerarchica Prodotti Teklab",
+  "descrizione": "Questo documento mappa l'intera gamma di prodotti Teklab, organizzandoli per categorie principali e sotto-famiglie per fornire una visione d'insieme chiara e strutturata.",
+  "categorie": [
+    {
+      "categoria_principale": "Oil Level Regulators (Regolatori di Livello Olio)",
+      "descrizione_categoria": "Dispositivi elettronici che mantengono automaticamente il corretto livello dell'olio nei carter dei compressori, essenziali per la loro protezione e longevità.",
+      "sotto_famiglie": [
+        {
+          "famiglia": "Serie TK3+ (Controllo Essenziale)",
+          "descrizione_famiglia": "Soluzione 'installa e dimentica', robusta e affidabile, per un controllo autonomo senza necessità di configurazione o monitoraggio remoto.",
+          "modelli": [
+            {"modello": "TK3+ 46 bar", "applicazione": "Sistemi HFC/HFO standard"},
+            {"modello": "TK3+ 80 bar", "applicazione": "Sistemi CO2 subcritici o climi freddi"},
+            {"modello": "TK3+ 130 bar", "applicazione": "Sistemi CO2 transcritici"}
+          ]
+        },
+        {
+          "famiglia": "Serie TK4 (Controllo Smart)",
+          "descrizione_famiglia": "Regolatori avanzati con connettività per configurazione e diagnostica, disponibili in due versioni principali: TK4 con NFC per gestione locale e TK4MB con NFC e Modbus per integrazione remota.",
+          "modelli": [
+            {"modello": "TK4 (NFC)", "applicazione": "Manutenzione e configurazione avanzata sul campo"},
+            {"modello": "TK4MB (NFC + Modbus RTU)", "applicazione": "Integrazione in sistemi di supervisione (PLC/BMS) per Industria 4.0"}
+          ]
+        }
+      ]
+    },
+    {
+      "categoria_principale": "Level Switches (Interruttori di Livello)",
+      "descrizione_categoria": "Dispositivi che forniscono un segnale on/off per il rilevamento puntuale del livello di un liquido. Utilizzati come allarmi di alto/basso livello o come controlli di sicurezza.",
+      "sotto_famiglie": [
+        {
+          "famiglia": "Serie LC (Piattaforma Standard)",
+          "descrizione_famiglia": "Una serie versatile basata su un design compatto, con varianti per diverse pressioni e tipi di connessione elettrica.",
+          "modelli": [
+            {"modello": "LC-PS", "caratteristica": "46 bar, connessione a cavo"},
+            {"modello": "LC-PH", "caratteristica": "120 bar, connessione a cavo/M12 (per CO2)"},
+            {"modello": "LC-XT", "caratteristica": "46 bar, connettore DIN"},
+            {"modello": "LC-XP", "caratteristica": "120 bar, connettore DIN (per CO2)"}
+          ]
+        },
+        {
+          "famiglia": "Modelli Speciali",
+          "descrizione_famiglia": "Soluzioni ingegnerizzate per esigenze di montaggio specifiche, ideali per retrofit e per semplificare l'installazione.",
+          "modelli": [
+            {"modello": "TK1+", "caratteristica": "Sostituzione diretta di indicatori a vetro (sight-glass) su compressori"},
+            {"modello": "Rotalock", "caratteristica": "Montaggio diretto su valvole Rotalock, elimina adattatori"}
+          ]
+        }
+      ]
+    },
+    {
+      "categoria_principale": "Sensors (Sensori)",
+      "descrizione_categoria": "Dispositivi per applicazioni specifiche che richiedono tecnologie di rilevamento avanzate o conformità a normative di sicurezza.",
+      "sotto_famiglie": [
+        {
+          "famiglia": "Sensori di Livello",
+          "descrizione_famiglia": "Rilevamento di livello per condizioni operative particolari.",
+          "modelli": [
+            {"modello": "K11", "caratteristica": "Sensore capacitivo compatto con uscita universale (NPN/PNP/AC) per applicazioni industriali generiche."},
+            {"modello": "K25", "caratteristica": "Sensore multifunzione (livello + temperatura) per sistemi a CO2 transcritico ad alta pressione."},
+            {"modello": "ATEX", "caratteristica": "Sensore a sicurezza intrinseca per aree con atmosfera potenzialmente esplosiva."}
+          ]
+        }
+      ]
+    }
+  ]
+}

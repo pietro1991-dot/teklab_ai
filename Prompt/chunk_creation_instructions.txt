@@ -23,78 +23,181 @@ IMPORTANT:
 ⚠️ TEKLAB PRODUCT CATALOG STRUCTURE:
 
 ROOT PATH: 
-Fonti/Autori/Teklab/Processati/
+Fonti/Teklab/input/Dal Catalogo/Processati/
 
-CORRECT STRUCTURE:
+🎯 INPUT SOURCES MAPPING → OUTPUT FOLDERS:
 ```
-Processati/
+INPUT: Fonti/Teklab/input/Dal Catalogo/
+├── Oil Level Regulators/          → OUTPUT: chunks/oil_level_regulators/
+│   ├── Tk3+ 46bar.txt
+│   ├── Tk3+ 80bar.txt
+│   ├── Tk3+ 130bar.txt
+│   ├── tk4 46bar.txt
+│   ├── tk4 80 bar.txt
+│   ├── tk4 130bar.txt
+│   ├── Tk4 mb 46bar.txt
+│   ├── Tk4 mb 80bar.txt
+│   └── Tk4 mb 130bar.txt
 │
-├── chunks/                                    ← Root for all chunks
-│   ├── products/                             ← Product-specific chunks
-│   │   ├── tk1_plus_oil_level_switch.json
-│   │   ├── tk3_plus_46bar_version.json
-│   │   ├── tk3_plus_80bar_version.json
-│   │   ├── tk3_plus_130bar_version.json
-│   │   ├── tk4_46bar_version.json
-│   │   ├── tk4_modbus_46bar.json
-│   │   ├── lc_ps_level_switch.json
-│   │   ├── lc_ph_level_switch_120bar.json
-│   │   ├── lc_xp_level_switch_120bar.json
-│   │   ├── lc_xt_level_switch.json
-│   │   ├── atex_metallic_ir_sensor.json
-│   │   └── k25_4_20ma_level_switch.json
-│   │
-│   ├── technology/                           ← Technical principles chunks
-│   │   ├── ir_technology_how_it_works.json
-│   │   ├── electro_optic_principles.json
-│   │   ├── ir_vs_mechanical_floats.json
-│   │   ├── ir_vs_capacitive_sensors.json
-│   │   └── installation_best_practices.json
-│   │
-│   ├── applications/                         ← Use case chunks
-│   │   ├── refrigeration_systems.json
-│   │   ├── compressor_oil_management.json
-│   │   ├── atex_explosive_environments.json
-│   │   ├── co2_refrigeration_systems.json
-│   │   └── high_pressure_applications.json
-│   │
-│   └── support/                              ← Troubleshooting/FAQ chunks
-│       ├── product_selection_guide.json
-│       ├── pressure_rating_selection.json
-│       ├── refrigerant_compatibility.json
-│       ├── common_troubleshooting.json
-│       ├── modbus_vs_standard_output.json
-│       └── adapter_flange_selection.json
+├── Level Switches/                → OUTPUT: chunks/level_switches/
+│   ├── Tk1+.txt                   (⚠️ TK1+ is Level Switch, NOT Oil Level Regulator!)
+│   ├── LC PS.txt
+│   ├── LC PH.txt
+│   ├── LC XT-XP.txt
+│   └── Rotalock.txt
 │
-├── metadata/                                  ← SIBLING folder to chunks/ (NOT inside!)
+├── Sensors/                       → OUTPUT: chunks/sensors/
+│   ├── K25.txt
+│   ├── K11.txt
+│   └── Atex.txt
+│
+├── Adapters/                      → OUTPUT: chunks/support/
+│   └── Adapters.txt
+│
+└── Fie_PDF/                       → OUTPUT: chunks/general/
+    ├── FULL Teklab Catalogue.txt
+    └── FULL Teklab Catalogue.html
+
+INPUT: Fonti/Teklab/input/Generali/
+├── Spiegazione Prodotti.txt       → OUTPUT: chunks/support/product_overview.json
+├── Presentazione Teklab.txt       → OUTPUT: chunks/general/company_intro.json
+├── Compressori con Prodotti...    → OUTPUT: chunks/applications/compressor_integration.json
+└── TK_Series_Overview.txt         → OUTPUT: chunks/support/tk_series_guide.json
+```
+
+CORRECT OUTPUT STRUCTURE:
+```
+Fonti/Teklab/input/Dal Catalogo/Processati/
+│
+├── .checkpoints/                             ← Checkpoint system (DO NOT MODIFY)
+│   └── file_*_checkpoint.json
+│
+├── chunks/                                   ← Root for all chunks
+│   │
+│   ├── oil_level_regulators/                ← TK3+, TK4, TK4MB (ALL pressure versions)
+│   │   ├── teklab_chunk_001_001_tk3_plus_46bar_v001.json
+│   │   ├── teklab_chunk_001_002_tk3_plus_46bar_v002.json
+│   │   ├── teklab_chunk_002_001_tk3_plus_80bar_v001.json
+│   │   ├── teklab_chunk_003_001_tk3_plus_130bar_v001.json
+│   │   ├── teklab_chunk_004_001_tk4_46bar_v001.json
+│   │   ├── teklab_chunk_005_001_tk4_80bar_v001.json
+│   │   ├── teklab_chunk_006_001_tk4_130bar_v001.json
+│   │   ├── teklab_chunk_007_001_tk4mb_46bar_v001.json
+│   │   ├── teklab_chunk_008_001_tk4mb_80bar_v001.json
+│   │   └── teklab_chunk_009_001_tk4mb_130bar_v001.json
+│   │
+│   ├── level_switches/                      ← TK1+, LC series, Rotalock
+│   │   ├── teklab_chunk_010_001_tk1_plus_v001.json
+│   │   ├── teklab_chunk_011_001_lc_ps_v001.json
+│   │   ├── teklab_chunk_012_001_lc_ph_v001.json
+│   │   ├── teklab_chunk_013_001_lc_xp_v001.json
+│   │   ├── teklab_chunk_014_001_lc_xt_v001.json
+│   │   └── teklab_chunk_015_001_rotalock_v001.json
+│   │
+│   ├── sensors/                             ← K25, K11, ATEX (ALL sensors together)
+│   │   ├── teklab_chunk_016_001_k25_v001.json
+│   │   ├── teklab_chunk_017_001_k11_v001.json
+│   │   ├── teklab_chunk_018_001_atex_metallic_v001.json
+│   │   └── teklab_chunk_018_002_atex_plastic_v001.json
+│   │
+│   ├── support/                             ← Adapters, guides, troubleshooting, FAQ
+│   │   ├── teklab_chunk_019_001_adapters_catalog_v001.json
+│   │   ├── teklab_chunk_020_001_product_selection_guide_v001.json
+│   │   ├── teklab_chunk_021_001_pressure_rating_selection_v001.json
+│   │   ├── teklab_chunk_022_001_tk_series_comparison_v001.json
+│   │   └── teklab_chunk_023_001_troubleshooting_common_issues_v001.json
+│   │
+│   ├── applications/                        ← Use case chunks from Generali/
+│   │   ├── teklab_chunk_024_001_compressor_oil_management_v001.json
+│   │   ├── teklab_chunk_025_001_refrigeration_systems_v001.json
+│   │   ├── teklab_chunk_026_001_co2_transcritical_v001.json
+│   │   └── teklab_chunk_027_001_high_pressure_applications_v001.json
+│   │
+│   └── general/                             ← Company info, catalog, presentations
+│       ├── teklab_chunk_028_001_company_overview_v001.json
+│       ├── teklab_chunk_029_001_technology_overview_v001.json
+│       └── teklab_chunk_030_001_catalog_index_v001.json
+│
+├── summaries/                                ← SIBLING: Per-file summaries
+│   ├── Tk3+_46bar_txt_summary.json
+│   ├── Tk3+_80bar_txt_summary.json
+│   ├── LC_PS_txt_summary.json
+│   └── ...
+│
+├── metadata/                                 ← SIBLING: Aggregated metadata
 │   ├── products_metadata.json
 │   ├── technology_metadata.json
-│   ├── applications_metadata.json
-│   └── support_metadata.json
+│   └── applications_metadata.json
 │
-├── keywords/                                  ← SIBLING folder to chunks/ (NOT inside!)
+├── keywords/                                 ← SIBLING: Consolidated keywords
 │   └── teklab_keywords.json
 │
-└── qa_pairs/                                  ← SIBLING folder to chunks/ (NOT inside!)
-    └── teklab_qa.json
+└── qa_pairs/                                 ← SIBLING: Additional Q&A
+    └── teklab_qa_pairs.json
 ```
+
+🚨 CRITICAL CATEGORIZATION RULES:
+
+⚠️ CORRECT PRODUCT CATEGORIZATION:
+✅ Oil_Level_Regulators → TK3+, TK4, TK4MB (ALL pressure versions: 46/80/130bar)
+✅ Level_Switches → TK1+ (⚠️), LC-PS, LC-PH, LC-XP, LC-XT, Rotalock
+✅ Sensors → K25, K11, ATEX (ALL sensors in same folder)
+✅ Support → Adapters, Communication guides, Selection guides, Troubleshooting
+✅ General → Company presentations, Full catalog, Technology overview
+
+❌ WRONG CATEGORIZATIONS TO AVOID:
+❌ DO NOT put TK1+ in oil_level_regulators/ (it's a level switch, not a regulator!)
+❌ DO NOT separate K25, K11, ATEX into different folders (all are sensors!)
+❌ DO NOT create single-product folders (K25/, ATEX/, Rotalock/ folders are wrong!)
+❌ DO NOT mix TK1+ with TK3+/TK4 (different product families!)
+
+🎯 METADATA CATEGORIZATION (CRITICAL):
+
+CORRECT metadata structure in chunk:
+```json
+{
+  "metadata": {
+    "product_category": "Oil_Level_Regulators",    // ← Main category (INPUT folder name)
+    "product_family": "TK_Series",                 // ← Sub-family (TK/LC/K series)
+    "product_model": "TK3+",                       // ← Specific model
+    "pressure_class": "46bar",                     // ← Pressure variant
+    "source_folder": "Oil Level Regulators",       // ← Original INPUT folder
+    ...
+  }
+}
+```
+
+PRODUCT CATEGORY MAPPING (use these EXACT values):
+- "Oil_Level_Regulators" → TK3+, TK4, TK4MB models
+- "Level_Switches" → TK1+, LC-PS, LC-PH, LC-XP, LC-XT, Rotalock
+- "Sensors" → K25, K11, ATEX
+- "Support" → Adapters, guides, troubleshooting
+- "General" → Company info, catalog
+
+PRODUCT FAMILY MAPPING (secondary categorization):
+- "TK_Series" → TK1+, TK3+, TK4, TK4MB (all TK models)
+- "LC_Series" → LC-PS, LC-PH, LC-XP, LC-XT
+- "K_Series" → K25, K11
+- "ATEX_Series" → ATEX sensors
+- "Adapters" → Connection adapters
+- "Company" → Teklab company info
 
 🚨 CRITICAL PATH RULES:
 
-1. ✅ Chunks organized by CATEGORY (products/technology/applications/support)
-   - Product chunks: specific product models with full specs
-   - Technology chunks: how IR sensors work, competitive advantages
-   - Application chunks: industry use cases and solutions
-   - Support chunks: selection guides, troubleshooting, FAQ
-   
+1. ✅ Output folder MUST match input folder category
+   - Input: "Oil Level Regulators/" → Output: chunks/oil_level_regulators/
+   - Input: "Level Switches/" → Output: chunks/level_switches/
+   - Input: "Sensors/" → Output: chunks/sensors/
+
 2. ✅ Aggregated folders are SIBLINGS to chunks/, NOT subfolders
-   - Correct: metadata/products_metadata.json ✅
-   - Wrong: chunks/products/metadata/products_metadata.json ❌
-   
+   - Correct: Processati/metadata/products_metadata.json ✅
+   - Wrong: Processati/chunks/metadata/products_metadata.json ❌
+
 3. ✅ Aggregated files CONSOLIDATE cross-cutting information
-   - keywords/teklab_keywords.json: ALL technical terms from all chunks
-   - qa_pairs/teklab_qa.json: Additional Q&A not in chunks
-   - metadata files: Overview and cross-references
+   - summaries/: Per-file summaries (1 summary per input file)
+   - metadata/: Category overviews and comparison tables
+   - keywords/: ALL keywords from all chunks consolidated
+   - qa_pairs/: Additional Q&A not in individual chunks
 
 ================================================================================
 📁 FILE STRUCTURE AND ORGANIZATION
@@ -116,10 +219,11 @@ File naming conventions:
   Example: product_selection_guide.json, common_troubleshooting.json
 
 Location examples:
-- chunks/products/tk3_plus_46bar_version.json
-- chunks/technology/ir_technology_how_it_works.json
-- chunks/applications/compressor_oil_management.json
+- chunks/oil_level_regulators/tk3_plus_46bar_version.json
+- chunks/level_switches/tk1_plus_oil_level_switch.json
+- chunks/sensors/k25_4_20ma_level_switch.json
 - chunks/support/pressure_rating_selection.json
+- chunks/general/refrigeration_principles.json
 
 Each chunk contains ALREADY inside:
 ✅ messages (system/user/assistant conversation)
@@ -136,34 +240,67 @@ Each chunk contains ALREADY inside:
 ✅ difficulty_level, question_type, user_intent
 ✅ importance, relevance
 
-📋 AGGREGATED FILES (SECONDARY - CREATE AFTER CHUNKS):
+📋 AGGREGATED FILES (SECONDARY - CREATE AFTER ALL CHUNKS):
 
-These files DON'T duplicate chunk data, but AGGREGATE and ENRICH:
+⚠️ CRITICAL RULE: 1 INPUT FILE = 1+ OUTPUT CHUNKS (never aggregate multiple input files)
 
-1. metadata/products_metadata.json
-   → OVERVIEW of product catalog: families, pressure ranges, feature matrix
-   → Comparison tables, compatibility charts
-   → Info that crosses all product chunks
+Each chunk ALREADY contains inside its metadata:
+✅ qa_pairs (2-5 Q&A specific to that chunk content)
+✅ keywords_primary (5-8 technical terms)
+✅ key_concepts, iconic_quotes, natural_questions
+✅ technical_specs, applications, installation_notes
+✅ ALL metadata needed for RAG retrieval
 
-2. metadata/technology_metadata.json
-   → IR sensor technology overview
-   → Competitive advantages summary
-   → Installation best practices library
+AGGREGATED files are created AFTER processing all input files to CONSOLIDATE:
 
-3. metadata/applications_metadata.json
-   → Industry use cases overview
-   → Application selection criteria
+1. summaries/{input_filename}_summary.json
+   → ONE summary per INPUT file (even if split into multiple chunks)
+   → Aggregates: total chunks created, main topics, products covered, spec ranges
+   → Example: "Tk3+_46bar_txt_summary.json" consolidates all chunks from "Tk3+ 46bar.txt"
+   
+2. metadata/products_metadata.json
+   → OVERVIEW of entire product catalog
+   → Comparison tables between product families (TK3+ vs TK4 vs TK4MB)
+   → Pressure range matrix (46/80/130 bar options)
+   → Feature comparison across all products
+   → NOT duplicating individual chunk metadata, but providing CATALOG VIEW
+
+3. metadata/technology_metadata.json
+   → IR sensor technology principles (consolidated from all product chunks)
+   → NFC connectivity overview (from TK4 chunks)
+   → Modbus RTU implementation (from TK4MB chunks)
+   → Installation best practices library (from all installation_notes)
+   → Competitive advantages summary (IR vs float vs capacitive)
+
+4. metadata/applications_metadata.json
+   → Industry use cases overview (refrigeration, HVAC, CO2 systems)
+   → Application selection decision tree
+   → Compressor compatibility matrix (Bitzer, Copeland, Dorin, etc.)
    → Success stories and case studies
 
-4. keywords/teklab_keywords.json
-   → ALL technical terms from all chunks aggregated
-   → Organized by category (products, specs, applications)
-   → Includes synonyms and abbreviations
+5. keywords/teklab_keywords.json
+   → ALL keywords_primary from ALL chunks consolidated
+   → Organized by category (products, specifications, applications, technologies)
+   → Frequency counts (how many chunks mention each keyword)
+   → Synonyms and abbreviations aggregated
+   → Chunk references (which chunks contain each keyword)
+   → Example: "oil level regulator" appears in 15 chunks, synonyms: ["oil controller", "level monitor"]
 
-5. qa_pairs/teklab_qa.json (IMPORTANT!)
-   → ADDITIONAL Q&A that are NOT in the chunks
-   → Enrich training dataset with edge cases
-   → Common customer questions from support tickets
+6. qa_pairs/teklab_qa_pairs.json (IMPORTANT!)
+   → ADDITIONAL Q&A that are NOT in individual chunks
+   → Cross-product comparisons: "TK3+ vs TK4 - which one for my application?"
+   → Edge cases: "Can I use TK3+ 46bar with ammonia refrigerant?"
+   → Integration scenarios: "How to connect multiple TK4MB units on same Modbus bus?"
+   → Common support questions from customer tickets
+   → Alternative phrasings of common questions
+   → These ENRICH the training dataset beyond individual chunk Q&A
+
+🎯 WORKFLOW SUMMARY:
+1. Process each INPUT file → Create N chunks (1+ per file based on length)
+2. Each chunk contains COMPLETE metadata including qa_pairs
+3. After all files processed → Create summaries/ (1 per input file)
+4. After all files processed → Create aggregated metadata/keywords/qa_pairs
+5. Aggregated files provide OVERVIEW and CROSS-CUTTING info, never duplicate chunk data
 
 ================================================================================
 🎯 COMPLETE JSON FORMAT
@@ -189,9 +326,11 @@ These files DON'T duplicate chunk data, but AGGREGATE and ENRICH:
   
   "metadata": {
     "chunk_id": "tk3_plus_46bar_oil_level_controller",
-    "product_category": "Oil Level Controllers",        // Main category
-    "product_model": "TK3+ 46bar",                      // Specific model
-    "product_family": "TK Series",                      // Product family
+    "product_category": "Oil_Level_Regulators",         // Main category (INPUT folder name)
+    "product_family": "TK_Series",                      // Sub-family (TK/LC/K series)
+    "product_model": "TK3+",                            // Specific model
+    "pressure_class": "46bar",                          // Pressure variant
+    "source_folder": "Oil Level Regulators",            // Original INPUT folder
     "chunk_type": "product",  // or "technology", "application", "support"
     
     "technical_specs": {
@@ -505,6 +644,7 @@ APPLICATIONS:
 • GOOD example: "Compressor oil level monitoring and control in industrial refrigeration"
 • BAD example: "oil monitoring"
 • 3-6 applications
+• **For each application, add a brief explanation of WHY the product is suitable (e.g., "High-pressure systems: because it withstands up to 130 bar").**
 
 TARGET_AUDIENCE:
 • Who uses this product
@@ -619,7 +759,7 @@ CONTENT:
 BASE METADATA:
 [ ] Unique and descriptive chunk_id
 [ ] Correct product_category, product_model, product_family
-[ ] Chunk_type specified (product/technology/application/support)
+[ ] Chunk_type specified (oil_level_regulator/level_switch/sensor/support/general)
 [ ] Technical_specs complete and accurate
 [ ] 5-8 key_features
 [ ] 3-5 competitive_advantages
@@ -655,7 +795,7 @@ VALID JSON:
 When you receive product documentation/web pages in chat:
 → You must create EVERYTHING in the same session without interruptions:
   • PHASE 1: All chunks for the products/topics (organized by category)
-  • PHASE 2: All aggregated files (metadata, keywords, qa_pairs)
+  • PHASE 2: All aggregated files (summaries, metadata, keywords, qa_pairs)
 
 DON'T stop after 1-2 chunks asking for confirmation!
 Proceed until total completion of the product catalog section.
@@ -664,39 +804,80 @@ Proceed until total completion of the product catalog section.
 
 PHASE 1: CREATING SELF-CONTAINED CHUNKS (PRIORITY)
 
-1. READ product documentation/web pages
-2. IDENTIFY main categories:
-   - Products: Individual product models (TK1+, TK3+ 46bar, TK4 MODBUS, etc.)
-   - Technology: How IR sensors work, competitive advantages
-   - Applications: Refrigeration systems, ATEX environments, etc.
-   - Support: Selection guides, troubleshooting, comparison guides
+1. READ product documentation/files
+2. IDENTIFY correct category based on INPUT folder:
+   
+   📂 INPUT FOLDER → OUTPUT CATEGORY MAPPING:
+   - "Oil Level Regulators/" → chunks/oil_level_regulators/
+     Products: TK3+ (46/80/130bar), TK4 (46/80/130bar), TK4MB (46/80/130bar)
+     
+   - "Level Switches/" → chunks/level_switches/
+     Products: TK1+, LC-PS, LC-PH, LC-XP, LC-XT, Rotalock
+     ⚠️ IMPORTANT: TK1+ goes HERE, NOT in oil_level_regulators!
+     
+   - "Sensors/" → chunks/sensors/
+     Products: K25, K11, ATEX (metallic/plastic)
+     ⚠️ IMPORTANT: ALL sensors in same folder, don't separate!
+     
+   - "Adapters/" → chunks/support/
+     Products: Connection adapters, flanges
+     
+   - "Generali/" → chunks/support/ OR chunks/applications/ OR chunks/general/
+     - Product guides → support/
+     - Use cases → applications/
+     - Company info → general/
 
 3. For EACH product/topic:
    a. Create 1 SELF-CONTAINED chunk with complete structure
    b. Write system/user/assistant conversation IN ENGLISH
    c. Fill ALL base + extended metadata INSIDE the chunk
-   d. Extract ACCURATE technical specifications from source
-   e. Verify valid JSON
-   f. SAVE in appropriate category folder:
-      - Fonti/Autori/Teklab/Processati/chunks/products/
-      - Fonti/Autori/Teklab/Processati/chunks/technology/
-      - Fonti/Autori/Teklab/Processati/chunks/applications/
-      - Fonti/Autori/Teklab/Processati/chunks/support/
+   d. Set CORRECT product_category based on INPUT folder:
+      • "Oil_Level_Regulators" for TK3+, TK4, TK4MB
+      • "Level_Switches" for TK1+, LC series, Rotalock
+      • "Sensors" for K25, K11, ATEX
+      • "Support" for guides/adapters
+      • "General" for company info
+   e. Set correct product_family:
+      • "TK_Series" for all TK models (TK1+, TK3+, TK4, TK4MB)
+      • "LC_Series" for LC-PS, LC-PH, LC-XP, LC-XT
+      • "K_Series" for K25, K11
+      • "ATEX_Series" for ATEX sensors
+   f. Extract ACCURATE technical specifications from source
+   g. Verify valid JSON
+   h. SAVE in correct category folder matching INPUT structure
 
 ✅ At this point you have COMPLETE chunks ready for training!
 
 PHASE 2: CREATING AGGREGATED FILES (AFTER all chunks ready)
 
-4. Create metadata/{category}_metadata.json
-   → Category overview with product families, feature matrices, comparison tables
-   → DON'T duplicate chunk metadata, AGGREGATE higher-level info
+4. Create summaries/{filename}_summary.json
+   → One summary per INPUT file
+   → Aggregate info from all chunks created from that file
+   → Include: total chunks, main topics, products covered, spec ranges
 
-5. Create keywords/teklab_keywords.json
+5. Create metadata/products_metadata.json
+   → Product catalog overview with all families
+   → Comparison tables and feature matrices
+   → Compatibility charts
+   → DON'T duplicate chunk metadata, provide OVERVIEW
+
+6. Create metadata/technology_metadata.json
+   → Technology overviews (IR sensors, NFC, Modbus, etc.)
+   → Competitive advantages summary
+   → Installation best practices library
+
+7. Create metadata/applications_metadata.json
+   → Industry use cases overview
+   → Application selection criteria
+   → Success stories and case studies
+
+8. Create keywords/teklab_keywords.json
    → COLLECT all keywords_primary from all chunks
    → Organize by category (products, specifications, applications, technologies)
    → Include all synonyms and abbreviations
+   → Add frequency counts and chunk references
 
-6. Create qa_pairs/teklab_qa.json (IMPORTANT!)
+9. Create qa_pairs/teklab_qa_pairs.json (IMPORTANT!)
    → ADDITIONAL Q&A that are NOT covered by existing chunks
    → Alternative phrasing, edge cases, cross-product comparisons
    → Common questions from customer support
@@ -706,22 +887,49 @@ PHASE 2: CREATING AGGREGATED FILES (AFTER all chunks ready)
 
 ---
 
-TYPICAL CHUNK DISTRIBUTION:
+TYPICAL CHUNK DISTRIBUTION FOR TEKLAB:
 
-For Teklab product catalog, create approximately:
-- **Products**: 15-20 chunks (one per major product variant)
-  Examples: TK1+, TK3+ (46/80/130bar), TK4 (standard + MODBUS variants), LC series, ATEX sensors
+**Products** (organized by INPUT folder structure):
+- Oil_Level_Regulators: 9 chunks
+  • TK3+ 46bar, TK3+ 80bar, TK3+ 130bar (3 chunks)
+  • TK4 46bar, TK4 80bar, TK4 130bar (3 chunks)
+  • TK4MB 46bar, TK4MB 80bar, TK4MB 130bar (3 chunks)
 
-- **Technology**: 5-7 chunks (technical principles and comparisons)
-  Examples: IR technology basics, IR vs mechanical floats, IR vs capacitive, installation best practices
+- Level_Switches: 6 chunks
+  • TK1+ (1 chunk) ⚠️ Level switch, not regulator!
+  • LC-PS, LC-PH, LC-XP, LC-XT (4 chunks)
+  • Rotalock connection (1 chunk)
 
-- **Applications**: 5-8 chunks (industry use cases)
-  Examples: Refrigeration systems, compressor oil management, ATEX environments, CO2 systems, high-pressure applications
+- Sensors: 4 chunks
+  • K25, K11 (2 chunks)
+  • ATEX metallic, ATEX plastic (2 chunks)
 
-- **Support**: 8-10 chunks (selection and troubleshooting)
-  Examples: Product selection guide, pressure rating selection, refrigerant compatibility, troubleshooting guide, MODBUS vs standard
+- Support: 5-7 chunks
+  • Adapters catalog
+  • Product selection guide
+  • Pressure rating selection
+  • TK series comparison
+  • Troubleshooting guide
 
-Total: ~40-50 comprehensive chunks covering entire Teklab product knowledge base
+**Technology**: 3-5 chunks
+  • IR sensor technology
+  • NFC connectivity (TK4)
+  • Modbus RTU (TK4MB)
+  • Installation best practices
+
+**Applications**: 4-6 chunks
+  • Compressor oil management
+  • Refrigeration systems
+  • CO2 transcritical systems
+  • High pressure applications
+  • ATEX environments
+
+**General**: 2-3 chunks
+  • Company overview
+  • Technology overview
+  • Catalog index
+
+Total: ~35-45 comprehensive chunks covering entire Teklab knowledge base
 
 ================================================================================
 💡 FINAL TIPS
@@ -739,6 +947,14 @@ Total: ~40-50 comprehensive chunks covering entire Teklab product knowledge base
 • 📊 ACCURATE SPECS: Double-check pressure ratings, temperature ranges, model numbers
 • 🔧 COMPETITIVE ADVANTAGES: Always explain WHY Teklab IR sensors are better than alternatives
 
+🚨 CRITICAL CATEGORIZATION REMINDERS:
+✅ TK1+ → Level_Switches (NOT Oil_Level_Regulators!)
+✅ TK3+, TK4, TK4MB → Oil_Level_Regulators (ALL pressure versions)
+✅ K25, K11, ATEX → Sensors (ALL in same folder, don't separate!)
+✅ Rotalock → Level_Switches (connection type, not separate category)
+✅ Use INPUT folder name for product_category metadata field
+✅ Output folder structure MUST mirror INPUT folder structure
+
 REMEMBER:
 ✅ Messages format (system/user/assistant) NOT old question/answer format
 ✅ IDENTICAL system prompt in all chunks
@@ -746,12 +962,22 @@ REMEMBER:
 ✅ YES accurate technical data from source documentation
 ✅ Extended metadata not optional - essential for technical accuracy
 ✅ Each chunk is SELF-CONTAINED - all metadata embedded inside
-✅ Separate files (metadata/keywords/qa) AGGREGATE, DON'T duplicate
+✅ Separate files (summaries/metadata/keywords/qa) AGGREGATE, DON'T duplicate
 ✅ Training reads 1 file per chunk → maximum efficiency
 ✅ 🌍 ENGLISH LANGUAGE for all content (user/assistant/metadata)
 ✅ 🔧 TECHNICAL PRECISION: cite exact specs, model numbers, certifications
 ✅ 📱 CONSULTATIVE TONE: help customer find RIGHT solution, not just any solution
 ✅ ⚡ COMPLETE PHASE 1 + PHASE 2 in one session when you receive documentation
+✅ 📂 CORRECT CATEGORIZATION: Match INPUT folder → OUTPUT folder exactly
+
+PRODUCT CATEGORIZATION CHECKLIST:
+Before saving a chunk, verify:
+- [ ] product_category matches INPUT folder name
+- [ ] Output folder matches INPUT folder category
+- [ ] TK1+ is in level_switches/ NOT oil_level_regulators/
+- [ ] All sensors (K25, K11, ATEX) are in sensors/ together
+- [ ] Rotalock is in level_switches/ NOT in separate folder
+- [ ] source_folder field contains original INPUT folder name
 
 PRODUCT-SPECIFIC GUIDELINES:
 • For product chunks: Include ALL technical specs from datasheet

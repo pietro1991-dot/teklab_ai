@@ -1,7 +1,0 @@
-# Requirements per Telegram Bot Teklab AI
-python-telegram-bot==20.7
-requests==2.31.0
-numpy==1.24.3
-flask==2.3.3
-flask-cors==4.0.0
-pathlib2==2.3.7.post1

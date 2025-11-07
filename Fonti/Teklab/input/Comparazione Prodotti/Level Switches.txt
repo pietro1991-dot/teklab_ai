@@ -1,0 +1,58 @@
+
+### Testo di Comparazione: Guida alla Scelta dei Level Switch Teklab
+
+Quando si sceglie un interruttore di livello Teklab, è fondamentale capire le differenze chiave tra i modelli per selezionare quello più adatto alla propria applicazione. Tutti i nostri sensori di livello ottici (Level Switch) condividono la stessa affidabile tecnologia a infrarossi senza parti in movimento, ma si differenziano per pressione massima, tipo di connessione elettrica, materiali e applicazione principale.
+
+Ecco una guida dettagliata per aiutarti a scegliere.
+
+#### **Tabella Comparativa Rapida**
+
+| Modello | Pressione Massima | Applicazione Principale | Connessione Elettrica | Caratteristica Unica |
+| :--- | :--- | :--- | :--- | :--- |
+| **LC-PS** | 46 bar | Sistemi di refrigerazione standard (HFC, HFO) | Cavo (3 fili) | Il nostro switch standard, ottimo rapporto qualità/prezzo. |
+| **LC-PH** | **120 bar** | Sistemi a **CO2** (transcritici) e alta pressione | Cavo (3 fili) / M12 | Versione per alta pressione del modello a cavo. |
+| **LC-XT** | 46 bar | Sistemi standard che richiedono connettore DIN | Connettore **DIN 43650-A** | Standard, ma con la praticità di un connettore industriale. |
+| **LC-XP** | **120 bar** | Sistemi a **CO2** e alta pressione con connettore DIN | Connettore **DIN 43650-A** | La combinazione di alta pressione e connettore DIN. |
+| **TK1+** | 46 bar / 100 bar | Sostituzione di indicatori di livello a vetro (sight-glass) | Cavo (integrato) | Progettato per il montaggio diretto su compressori al posto degli indicatori visivi. |
+| **Rotalock** | 46 bar | Montaggio diretto su valvole Rotalock | Connettore **DIN 43650-A** | Elimina la necessità di adattatori per connessioni Rotalock. |
+
+---
+
+#### **Analisi Dettagliata dei Modelli**
+
+**1. Serie LC (LC-PS vs LC-PH e LC-XT vs LC-XP): La Pressione è il Fattore Chiave**
+
+La famiglia LC è il cuore della nostra offerta di sensori di livello. La scelta principale all'interno di questa famiglia dipende da due fattori: la **pressione di esercizio** e il **tipo di connessione elettrica**.
+
+*   **LC-PS (fino a 46 bar): La Scelta Standard**
+    È il modello ideale per la maggior parte delle applicazioni di refrigerazione e condizionamento che utilizzano refrigeranti HFC e HFO. Se il tuo sistema opera a pressioni standard (sotto i 46 bar) e preferisci una connessione a cavo, l'LC-PS è la soluzione più economica e affidabile.
+
+*   **LC-PH (fino a 120 bar): Per la CO2 e l'Alta Pressione**
+    Identico all'LC-PS nel principio di funzionamento, ma costruito per resistere a pressioni molto più elevate. È la scelta obbligata per i **sistemi a CO2 transcritici** o qualsiasi altra applicazione dove la pressione supera i 46 bar.
+
+*   **LC-XT (fino a 46 bar) e LC-XP (fino a 120 bar): La Praticità del Connettore DIN**
+    Questi due modelli sono funzionalmente identici a LC-PS e LC-PH, rispettivamente. La vera differenza è la connessione elettrica: invece di un cavo precablato, utilizzano un connettore standard industriale **EN 175301-803A (DIN 43650)**. Questo permette una disconnessione e sostituzione dell'elettronica ancora più rapida e semplice, senza dover gestire il cablaggio.
+    *   Usa **LC-XT** per sistemi a pressione standard.
+    *   Usa **LC-XP** per sistemi a CO2 o ad alta pressione.
+
+**2. TK1+: Il Sostituto Intelligente del Sight-Glass**
+
+Il **TK1+** è un prodotto specializzato, progettato per un'applicazione molto specifica: **sostituire gli indicatori di livello a vetro (sight-glass)** sui carter dei compressori o sui serbatoi.
+
+*   **Differenze chiave rispetto alla serie LC:**
+    *   **Montaggio**: È progettato per essere installato direttamente dove prima c'era un indicatore visivo.
+    *   **Output**: Fornisce un'uscita a relè (NO/NC), a differenza degli output a stato solido della serie LC.
+    *   **LED Integrati**: Dispone di LED di stato per una verifica visiva immediata del livello del liquido.
+
+**Quando scegliere il TK1+?** Quando vuoi aggiungere un controllo di livello elettronico a un compressore esistente senza dover forare o saldare nuovi attacchi.
+
+**3. Rotalock: Connessione Diretta, Zero Adattatori**
+
+Il modello **Rotalock** è un'altra soluzione specializzata, pensata per ottimizzare l'installazione su serbatoi e ricevitori di liquido dotati di **valvole Rotalock**.
+
+*   **Vantaggio Principale:** Si avvita direttamente sulla valvola Rotalock (disponibile per 1” 3/4 e 2” 1/4), eliminando la necessità di adattatori filettati (come NPT o UNEF). Questo riduce i punti di potenziale perdita e semplifica drasticamente l'installazione.
+*   **Specifiche Tecniche:** Opera fino a 46 bar e utilizza un connettore DIN, simile all'LC-XT.
+
+**Quando scegliere il Rotalock?** Quando il tuo serbatoio o sistema ha una connessione Rotalock disponibile e vuoi l'installazione più pulita e sicura possibile.
+
+---

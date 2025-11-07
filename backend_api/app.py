@@ -177,7 +177,7 @@ def load_embeddings():
         # SKIP se offline o problemi di rete
         try:
             from sentence_transformers import SentenceTransformer
-            import os
+            model_name = _embeddings_cache.get('model', 'all-mpnet-base-v2')
             
             logger.info("   Device: CPU (GPU riservata per Llama)")
             logger.info("   ⏳ Caricamento modello embeddings da cache locale...")
@@ -187,9 +187,8 @@ def load_embeddings():
             os.environ['HF_HUB_OFFLINE'] = '1'
             
             _model_embeddings = SentenceTransformer(
-                'sentence-transformers/all-mpnet-base-v2', 
-                device='cpu',
-                local_files_only=True  # USA SOLO CACHE LOCALE
+                model_name, 
+                device='cpu'
             )
             
             chunk_count = len(_embeddings_cache.get('chunk_embeddings', {}))
@@ -244,57 +243,74 @@ def search_relevant_chunks(query, top_k=3):  # ⚡ Allineato a 3 chunks
     # Cerca nei chunks
     chunk_embeddings = _embeddings_cache.get('chunk_embeddings', {})
     chunks_data = _embeddings_cache.get('chunks_data', {})
-    
+
+    # Cerca nelle Q&A
+    qa_embeddings = _embeddings_cache.get('qa_embeddings', {})
+
     # ⚡ OTTIMIZZAZIONE: usa sklearn cosine_similarity (più veloce di NumPy loop)
     from sklearn.metrics.pairwise import cosine_similarity
-    
+    import numpy as np
+
     similarities = []
-    chunk_ids = list(chunk_embeddings.keys())
-    chunk_embs = np.array([chunk_embeddings[cid] for cid in chunk_ids])
     
-    # Calcola similarità in batch (10x più veloce)
-    sims = cosine_similarity([query_embedding], chunk_embs)[0]
+    # Cerca nei chunk
+    if chunk_embeddings:
+        chunk_ids = list(chunk_embeddings.keys())
+        chunk_embs = np.array([chunk_embeddings[cid] for cid in chunk_ids])
+        chunk_sims = cosine_similarity([query_embedding], chunk_embs)[0]
+        for cid, sim in zip(chunk_ids, chunk_sims):
+            similarities.append({'id': cid, 'sim': sim, 'type': 'chunk'})
+
+    # Cerca nelle Q&A
+    if qa_embeddings:
+        qa_ids = list(qa_embeddings.keys())
+        qa_embs = np.array([qa_embeddings[qid] for qid in qa_ids])
+        qa_sims = cosine_similarity([query_embedding], qa_embs)[0]
+        for qid, sim in zip(qa_ids, qa_sims):
+            similarities.append({'id': qid, 'sim': sim, 'type': 'qa'})
+
+    # Ordina per similarità e filtra
+    similarities.sort(key=lambda x: x['sim'], reverse=True)
     
     # Filtra per threshold AUMENTATO (0.28 invece di 0.25 - più selettivo = meno noise)
-    for i, (chunk_id, sim) in enumerate(zip(chunk_ids, sims)):
-        if sim >= 0.28:  # ⚡ Threshold ottimizzato
-            similarities.append((chunk_id, sim))
-    
-    # Ordina per similarità
-    similarities.sort(key=lambda x: x[1], reverse=True)
+    filtered_results = [res for res in similarities if res['sim'] >= 0.28]
     
     # Prendi top_k risultati
     results = []
-    for chunk_id, sim in similarities[:top_k]:
-        chunk_data = chunks_data.get(chunk_id, {})
-        
-        # ARCHITETTURA TEKLAB OTTIMIZZATA: usa messages[2] (assistant formatted)
-        # messages[0] = system prompt template
-        # messages[1] = user prompt (SEMANTIC CONCEPT)
-        # messages[2] = assistant (FORMATTED RESPONSE) ← QUESTO è il contenuto da usare
-        messages = chunk_data.get('messages', [])
-        content = ""
-        
-        # Priorità: assistant message (formatted response)
-        if len(messages) > 2:
-            content = messages[2].get('content', '')
-        # Fallback: user content (raw prompt) se manca assistant
-        elif len(messages) > 1:
-            content = messages[1].get('content', '')
-        
-        # PER BACKEND API: NON troncare - frontend può gestire display
-        # (rimuovere troncamento permette risposte complete)
-        # if len(content) > 500:
-        #     content = content[:500] + "..."
-        
-        metadata = chunk_data.get('metadata', {})
-        
-        results.append({
-            'content': content,
-            'similarity': float(sim),
-            'product': metadata.get('product_model', ''),
-            'category': chunk_data.get('category', '')
-        })
+    for res in filtered_results[:top_k]:
+        item_id = res['id']
+        sim = res['sim']
+        item_type = res['type']
+
+        if item_type == 'chunk':
+            chunk_data = chunks_data.get(item_id, {})
+            content = chunk_data.get('original_text', '')
+            metadata = chunk_data.get('metadata', {})
+            
+            results.append({
+                'content': content,
+                'similarity': float(sim),
+                'product_category': metadata.get('product_category', ''),
+                'chunk_title': metadata.get('chunk_title', '')
+            })
+        elif item_type == 'qa':
+            chunk_id, qa_idx_str = item_id.split('|qa_')
+            qa_idx = int(qa_idx_str)
+            chunk_data = chunks_data.get(chunk_id, {})
+            qa_pair = chunk_data.get('metadata', {}).get('qa_pairs', [])[qa_idx]
+            
+            if qa_pair:
+                question = qa_pair.get('question', '')
+                answer = qa_pair.get('answer', '')
+                content = f"Question: {question}\nAnswer: {answer}"
+                metadata = chunk_data.get('metadata', {})
+
+                results.append({
+                    'content': content,
+                    'similarity': float(sim),
+                    'product_category': metadata.get('product_category', 'Q&A'),
+                    'chunk_title': question
+                })
     
     return results
 
@@ -419,15 +435,15 @@ def generate_response_with_ollama(user_message):
     
     # DEBUG: Stampa chunk recuperati
     logger.info(f"🔍 RAG Search: '{user_message[:50]}'")
-    logger.info(f"   Chunks trovati: {len(relevant_chunks)}")
+    logger.info(f"   Risultati trovati: {len(relevant_chunks)}")
     for i, chunk in enumerate(relevant_chunks):
-        logger.info(f"   [{i+1}] {chunk['product']} | {chunk['category']} | sim={chunk['similarity']:.3f}")
+        logger.info(f"   [{i+1}] {chunk['product_category']} | {chunk['chunk_title'][:30]}... | sim={chunk['similarity']:.3f}")
     
     # Costruisci contesto RAG
     if relevant_chunks:
         context_parts = []
         for chunk in relevant_chunks:
-            context_parts.append(f"[{chunk['category']}] {chunk['content']}")
+            context_parts.append(f"[{chunk['product_category']}] {chunk['content']}")
         rag_context = "\n\n".join(context_parts)
     else:
         rag_context = ""
@@ -491,7 +507,7 @@ ANSWER:"""
         
         return {
             'response': assistant_message,
-            'sources': [{'product': c['product'], 'category': c['category'], 'similarity': c['similarity']} for c in relevant_chunks],
+            'sources': [{'product_category': c['product_category'], 'chunk_title': c['chunk_title'], 'similarity': c['similarity']} for c in relevant_chunks],
             'error': False
         }
         
@@ -585,13 +601,13 @@ def chat_stream():
                 relevant_chunks = search_relevant_chunks(user_message, top_k=3)  # ⚡ Ridotto da 5 a 3
                 
                 logger.info(f"🔍 RAG Search (stream): '{user_message[:50]}'")
-                logger.info(f"   Chunks trovati: {len(relevant_chunks)}")
+                logger.info(f"   Risultati trovati: {len(relevant_chunks)}")
                 
                 # Costruisci contesto RAG
                 if relevant_chunks:
                     context_parts = []
                     for chunk in relevant_chunks:
-                        context_parts.append(f"[{chunk['category']}] {chunk['content']}")
+                        context_parts.append(f"[{chunk['product_category']}] {chunk['content']}")
                     rag_context = "\n\n".join(context_parts)
                 else:
                     rag_context = ""
@@ -611,7 +627,7 @@ def chat_stream():
                 logger.info(f"📤 Sending sources to client ({len(relevant_chunks)} chunks)...")
                 sources_data = {
                     'type': 'sources',
-                    'sources': [{'product': c['product'], 'category': c['category'], 'similarity': c['similarity']} for c in relevant_chunks]
+                    'sources': [{'product_category': c['product_category'], 'chunk_title': c['chunk_title'], 'similarity': c['similarity']} for c in relevant_chunks]
                 }
                 yield f"data: {json.dumps(sources_data)}\n\n"
                 logger.info(f"✅ Sources sent via SSE")

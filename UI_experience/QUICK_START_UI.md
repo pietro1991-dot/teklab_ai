@@ -1,8 +1,8 @@
-# 🚀 QUICK START - Spirituality AI UI
+# 🚀 QUICK START - Teklab AI UI
 
 ## ✅ SETUP COMPLETATO!
 
-Hai creato un'interfaccia ChatGPT-style completa per il tuo chatbot.
+Hai creato un'interfaccia ChatGPT-style completa per il tuo chatbot Teklab.
 
 ---
 
@@ -60,7 +60,7 @@ python backend_api/app.py
 
 **Output atteso:**
 ```
-🌟 SPIRITUALITY AI - Backend API
+🔧 TEKLAB AI - Backend API
 📡 Server in avvio su http://localhost:5000
 ✨ Endpoints disponibili:
    - POST   /chat      → Invia messaggio
@@ -88,7 +88,7 @@ L'interfaccia si aprirà e si connetterà automaticamente al backend!
 ```
 ┌────────────────────────────────────────────────┐
 │  Sidebar       │    Chat Center                │
-│  • New chat    │    🌟 Welcome Screen          │
+│  • New chat    │    🔧 Welcome Screen          │
 │  • Conversaz.  │    💬 Messaggi                │
 │  • Settings    │    📝 Input                   │
 └────────────────────────────────────────────────┘
@@ -97,7 +97,7 @@ L'interfaccia si aprirà e si connetterà automaticamente al backend!
 ### **Mobile:**
 ```
 ┌─────────────────────┐
-│  [☰] Spirituality   │  ← Header
+│  [☰] Teklab AI      │  ← Header
 ├─────────────────────┤
 │  💬 Chat            │
 │  📝 Input           │
@@ -131,7 +131,7 @@ python backend_api/test_api.py
 
 Output:
 ```
-🧪 SPIRITUALITY AI - Backend API Test
+🧪 TEKLAB AI - Backend API Test
 🔍 Testing health endpoint...
 ✅ Health check OK
 💬 Testing chat endpoint...
@@ -176,9 +176,10 @@ REQUEST_TIMEOUT: 120000  // ms (2 minuti)
 
 ### ❌ "Module not found" nel backend
 
-1. Esegui da root progetto: `cd spirituality.ai`
+1. Esegui da root progetto: `cd teklab_ai`
 2. Poi: `python backend_api/app.py`
 3. Verifica percorsi in `app.py` siano corretti
+4. Verifica embeddings: `ai_system/Embedding/teklab_embeddings_cache.pkl`
 
 ### ❌ "CORS error" nel browser
 
@@ -236,9 +237,9 @@ Per testare su mobile nella stessa rete WiFi:
 
 1. ✅ **Test locale**: Avvia backend + apri UI
 2. ✅ **Personalizza**: Colori, avatar, suggestions
-3. ✅ **Scarica Llama**: `python scripts/1_download_llama.py`
+3. ✅ **Genera chunks**: `python scripts/3_create_chunks_with_llama_ollama.py`
 4. ✅ **Genera embeddings**: `python scripts/2_generate_embeddings.py`
-5. ✅ **Testa chat completo**: Domande al bot
+5. ✅ **Testa chat completo**: Domande tecniche Teklab
 6. 🚀 **Deploy online**: Quando pronto
 
 ---
@@ -282,7 +283,7 @@ Per testare su mobile nella stessa rete WiFi:
 
 ---
 
-**🌟 Enjoy your Spirituality AI Chatbot!**
+**🔧 Enjoy your Teklab AI Chatbot!**
 
 Per avviare tutto:
 ```bash
@@ -295,4 +296,4 @@ UI_experience/index.html
 
 ---
 
-_Made with 💜 by Spirituality AI Team_
+_Made with � by Teklab AI Team_

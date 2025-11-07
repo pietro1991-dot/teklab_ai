@@ -1,0 +1,57 @@
+
+
+### Testo di Comparazione: Guida alla Scelta dei Sensori di Livello Teklab (K11, K25, ATEX)
+
+La nostra gamma di sensori di livello ottici è progettata per offrire affidabilità in diverse condizioni operative, dalla refrigerazione standard agli ambienti industriali più esigenti. Tutti i modelli utilizzano la nostra collaudata tecnologia a infrarossi senza parti in movimento, ma si distinguono per funzionalità, pressione massima e certificazioni.
+
+Capire queste differenze è fondamentale per scegliere il sensore giusto per la tua applicazione.
+
+#### **Tabella Comparativa Rapida**
+
+| Modello | Pressione Massima | Output | Certificazione Speciale | Caratteristica Unica |
+| :--- | :--- | :--- | :--- | :--- |
+| **K11** | 60 bar | Digitale (NPN/PNP) | Nessuna | Sensore di livello compatto e versatile per applicazioni standard. |
+| **K25** | **150 bar** | Digitale (NPN) + **Analogico 4-20mA (Temperatura)** | Nessuna | **Due sensori in uno**: livello + temperatura. Ideale per CO2. |
+| **ATEX** | 20 bar (IP68) | Digitale (Open Collector) | **ATEX (Ex ia IIC)** | **Sicurezza intrinseca** per aree con atmosfera potenzialmente esplosiva. |
+
+---
+
+#### **Analisi Dettagliata dei Modelli**
+
+**1. K11: Il Sensore Compatto e Versatile per Applicazioni Standard**
+
+Il **K11** è il nostro sensore di livello "tuttofare". È la scelta ideale per una vasta gamma di applicazioni industriali e di refrigerazione che richiedono un monitoraggio di livello affidabile e compatto, senza la necessità di funzionalità aggiuntive o certificazioni speciali.
+
+*   **Funzionalità**: Fornisce un semplice segnale digitale (ON/OFF) per indicare la presenza o l'assenza di liquido.
+*   **Pressione**: Con una pressione massima di 60 bar, è adatto per la maggior parte dei sistemi di refrigerazione che utilizzano refrigeranti HFC/HFO e per molte applicazioni idrauliche o industriali.
+*   **Flessibilità**: Offre diverse opzioni di output (NPN, PNP, AC) e la possibilità di personalizzare i ritardi per evitare falsi allarmi.
+
+**Quando scegliere il K11?**
+Scegli il K11 quando hai bisogno di un sensore di livello semplice, robusto ed economico per un sistema a pressione standard (fino a 60 bar) e non ti servono né un'uscita di temperatura né una certificazione per aree pericolose.
+
+**2. K25: Due Sensori in Uno per Sistemi ad Alta Pressione (CO2)**
+
+Il **K25** è un sensore ad alte prestazioni progettato specificamente per le sfide dei moderni sistemi di refrigerazione, in particolare quelli che utilizzano **CO2 in cicli transcritici**.
+
+*   **Doppia Funzionalità**: Il suo punto di forza è l'integrazione di due output in un unico dispositivo:
+    1.  **Output Digitale (NPN)**: Per il rilevamento del livello del liquido.
+    2.  **Output Analogico 4-20mA**: Proporzionale alla temperatura del fluido, che permette di monitorare un secondo parametro critico con un solo sensore.
+*   **Altissima Pressione**: È costruito per resistere fino a **150 bar**, rendendolo la scelta perfetta per i circuiti ad alta pressione dei sistemi a CO2.
+*   **Efficienza**: L'uso di un solo sensore per due misurazioni riduce i costi, semplifica l'installazione e riduce i punti di potenziale perdita nel sistema.
+
+**Quando scegliere il K25?**
+È la scelta obbligata per i sistemi di refrigerazione a **CO2 transcritici o subcritici**. Se hai bisogno di monitorare sia il livello che la temperatura in un ambiente ad alta pressione (fino a 150 bar), il K25 offre una soluzione integrata, efficiente e robusta.
+
+**3. Sensore ATEX: Sicurezza Intrinseca per Aree Esplosive**
+
+Il nostro **sensore ATEX** è un dispositivo specializzato, progettato con un unico obiettivo: operare in sicurezza in **ambienti con atmosfera potenzialmente esplosiva (Zone 0, 1, 2)**.
+
+*   **Certificazione ATEX (Ex ia IIC)**: Questa è la sua caratteristica fondamentale. È un sensore a "sicurezza intrinseca" (ia), il che significa che i suoi circuiti elettrici sono progettati per non generare mai abbastanza energia (scintille o calore) da poter innescare un'esplosione, anche in caso di guasto.
+*   **Installazione**: Deve essere obbligatoriamente collegato a una **barriera a sicurezza intrinseca** appropriata, che limita la tensione e la corrente inviate al sensore.
+*   **Applicazioni**: È destinato a industrie come quella chimica, petrolchimica, farmaceutica o qualsiasi processo in cui sono presenti gas o vapori infiammabili (Gruppo IIC, che include idrogeno e acetilene).
+*   **Specifiche**: È realizzato in acciaio inossidabile per la massima compatibilità chimica e ha una protezione IP68. La sua pressione operativa è inferiore rispetto agli altri modelli, poiché il suo scopo primario è la sicurezza, non l'alta pressione.
+
+**Quando scegliere il sensore ATEX?**
+La scelta è dettata dall'ambiente di installazione. Se il sensore deve essere installato in un'area classificata come potenzialmente esplosiva, l'uso di un sensore certificato ATEX non è un'opzione, ma un **obbligo di legge e di sicurezza**.
+
+---

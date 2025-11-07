@@ -18,12 +18,13 @@ import re
 from pathlib import Path
 from typing import Dict, List, Optional
 import sys
+import nltk
 
 # Aggiungi path per import moduli
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+sys.path.insert(0, str(PROJECT_ROOT))
 sys.path.insert(0, str(PROJECT_ROOT / "ai_system" / "src"))
-sys.path.insert(0, str(PROJECT_ROOT / "Prompt"))  # Per chunk_prompts_config
 
 # Import Ollama client
 try:
@@ -34,93 +35,84 @@ except ImportError:
     print("⚠️  requests non disponibile - installa con: pip install requests")
 
 # Configurazioni Path Base - TEKLAB
-FONTI_BASE = PROJECT_ROOT / "Fonti" / "Autori" / "Teklab"  # Path diretto a Teklab
+FONTI_BASE = PROJECT_ROOT / "Fonti" / "Teklab" / "input"  # Path input Teklab
 
 # Ollama settings
 OLLAMA_MODEL = "llama3.2:3b"
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
+# NUOVA CONFIGURAZIONE: Overlapping dei chunk
+OVERLAP_SENTENCES = 2  # Numero di frasi da sovrapporre tra i chunk
+
+# Setup NLTK per sentence tokenization
+try:
+    nltk.data.find('tokenizers/punkt')
+except nltk.downloader.DownloadError:
+    print("⚠️  NLTK 'punkt' tokenizer non trovato. Lo scarico ora...")
+    nltk.download('punkt')
+    print("✅ 'punkt' scaricato.")
+
 # Funzioni per gestione documentazione Teklab
 def get_teklab_files() -> List[Path]:
-    """Restituisce tutti i file di documentazione Teklab (.txt, .html)
-    
-    Cerca in:
-    - Fonti/Autori/Teklab/*.txt|.html (root)
-    - Fonti/Autori/Teklab/Dal Catalogo/TXT/*.txt
-    - Fonti/Autori/Teklab/Dal Sito/**/*.html
+    """
+    Restituisce tutti i file di documentazione Teklab (.txt, .html, .htm)
+    cercando ricorsivamente in tutte le sottocartelle di FONTI_BASE.
     """
     if not FONTI_BASE.exists():
-        print(f"❌ Cartella Teklab non trovata: {FONTI_BASE}")
+        print(f"❌ Cartella Teklab input non trovata: {FONTI_BASE}")
         return []
     
     files = []
+    for ext in ['*.txt', '*.html', '*.htm', '*.json']:
+        # rglob cerca ricorsivamente in tutte le sottocartelle
+        files.extend(FONTI_BASE.rglob(ext))
     
-    # 1. File nella root Teklab
-    for ext in ['*.txt', '*.html', '*.htm']:
-        files.extend(FONTI_BASE.glob(ext))
+    # Escludi file dentro 'Processati' per evitare loop
+    files = [f for f in files if "Processati" not in str(f)]
     
-    # 2. File in Dal Catalogo/TXT/
-    catalogo_txt = FONTI_BASE / "Dal Catalogo" / "TXT"
-    if catalogo_txt.exists():
-        files.extend(catalogo_txt.glob("*.txt"))
-    
-    # 3. File in Dal Sito/ (ricorsivo)
-    dal_sito = FONTI_BASE / "Dal Sito"
-    if dal_sito.exists():
-        for ext in ['*.html', '*.htm']:
-            files.extend(dal_sito.rglob(ext))  # rglob = ricorsivo
-    
-    return sorted(set(files))  # Rimuovi duplicati e ordina
+    print(f"✅ Trovati {len(files)} file sorgente in {FONTI_BASE}")
+    return sorted(set(files))
 
 def get_teklab_categories() -> Dict[str, List[Path]]:
-    """Raggruppa file Teklab per categoria prodotto
-    
-    Returns:
-        Dict con categories: 'Oil_Level_Regulators', 'Level_Switches', 'Sensors', 'Support', 'General'
+    """
+    Raggruppa i file Teklab per categoria basandosi sulla loro cartella padre,
+    come definito in CHUNK_DATA_STRUCTURE_ANALYSIS.md.
     """
     files = get_teklab_files()
-    categories = {
-        'Oil_Level_Regulators': [],  # TK3+, TK4, TK4MB
-        'Level_Switches': [],         # TK1+, LC-XT, LC-XP, LC-PH, LC-PS, Rotalock
-        'Sensors': [],                # K25, K11, ATEX
-        'Support': [],                # Adapters, Communication, Guides
-        'General': []                 # Company info, other docs
-    }
+    # Definisce le categorie attese come da analisi
+    defined_categories = [
+        "Oil Level Regulators",
+        "Level Switches",
+        "Sensors",
+        "Adapters",
+        "Generali",
+        "Fie_PDF"
+    ]
     
+    categories = {cat: [] for cat in defined_categories}
+    
+    unassigned_files = []
+
     for file in files:
-        filename = file.name.lower()
-        parent = file.parent.name.lower()
+        # La categoria è il nome della cartella padre
+        parent_folder_name = file.parent.name
         
-        # Oil Level Regulators: TK3+, TK4, TK4MB (tutti con 46/80/130 bar)
-        if any(x in filename for x in ['tk3+', 'tk3 ', 'tk4 ', 'tk4mb']):
-            categories['Oil_Level_Regulators'].append(file)
-        
-        # Level Switches: TK1+, LC series, Rotalock
-        elif any(x in filename for x in ['tk1+', 'tk1 ', 'lc-ps', 'lc-ph', 'lc-xp', 'lc-xt', 'lc ps', 'lc ph', 'lc xp', 'lc xt', 'rotalock']):
-            categories['Level_Switches'].append(file)
-        
-        # Sensors: K25, K11, ATEX
-        elif any(x in filename for x in ['k25', 'k11', 'atex']):
-            categories['Sensors'].append(file)
-        
-        # Support: Adapters, Communication, Guides
-        elif any(x in filename for x in ['adapter', 'communication', 'innovative', 'guide', 'faq', 'troubleshooting']):
-            categories['Support'].append(file)
-        
-        # General: Company presentation, catalogs, other
-        elif any(x in filename for x in ['presentazione', 'catalogue', 'catalog', 'company', 'compressor']):
-            categories['General'].append(file)
-        
-        # Fallback: se dal sito web, probabilmente general
-        elif 'dal sito' in str(file.parent).lower():
-            categories['General'].append(file)
-        
+        if parent_folder_name in categories:
+            categories[parent_folder_name].append(file)
         else:
-            categories['General'].append(file)
+            unassigned_files.append(file)
+
+    # Assegna i file non mappati a 'General' come fallback
+    if unassigned_files:
+        if 'General' not in categories:
+            categories['General'] = []
+        categories['General'].extend(unassigned_files)
+        print(f"⚠️  {len(unassigned_files)} file non mappati assegnati a 'General'")
+
+    # Rimuovi categorie vuote
+    final_categories = {k: v for k, v in categories.items() if v}
     
-    return categories
-    
-    return categories
+    return final_categories
 
 def select_work_interactive() -> Optional[Dict[str, Path]]:
     """Selezione interattiva categoria Teklab"""
@@ -147,11 +139,12 @@ def select_work_interactive() -> Optional[Dict[str, Path]]:
         
         if choice.lower() == 'all':
             # Processa tutte le categorie
+            all_files = [f for files in categories.values() for f in files]
             return {
                 'name': 'All_Categories',
                 'originali_path': FONTI_BASE,
-                'processati_path': FONTI_BASE / "Processati",
-                'files': [f for files in categories.values() for f in files],
+                'processati_path': FONTI_BASE / "Dal Catalogo" / "Processati", # Salva sempre qui
+                'files': all_files,
                 'category': 'all'
             }
         
@@ -165,15 +158,15 @@ def select_work_interactive() -> Optional[Dict[str, Path]]:
     return {
         'name': selected_cat,
         'originali_path': FONTI_BASE,
-        'processati_path': FONTI_BASE / "Processati" / selected_cat.lower(),
+        'processati_path': FONTI_BASE / "Dal Catalogo" / "Processati", # Salva sempre qui
         'files': categories[selected_cat],
-        'category': selected_cat.lower()
+        'category': selected_cat
     }
 
 # Carica system prompt dal prompt_config (REQUIRED - no fallback)
 try:
-    from prompts_config import SYSTEM_PROMPT
-    from chunk_prompts_config import (
+    from Prompt.prompts_config import SYSTEM_PROMPT
+    from Prompt.chunk_prompts_config import (
         get_chunk_prompt, 
         CHUNK_SYSTEM_PROMPT,
         SEMANTIC_CHUNKING_SYSTEM_PROMPT,
@@ -183,12 +176,12 @@ try:
     )
     print("✅ Prompt Teklab caricati correttamente\n")
 except ImportError as e:
-    print(f"\n❌ ERRORE CRITICO: Impossibile caricare prompt Teklab!")
+    print("\n❌ ERRORE CRITICO: Impossibile caricare prompt Teklab!")
     print(f"   Dettaglio: {e}")
-    print(f"   Verifica che esistano:")
-    print(f"   - Prompt/prompts_config.py")
-    print(f"   - Prompt/chunk_prompts_config.py")
-    print(f"\n   Impossibile procedere senza prompt Teklab.\n")
+    print("   Verifica che esistano:")
+    print("   - Prompt/prompts_config.py")
+    print("   - Prompt/chunk_prompts_config.py")
+    print("\n   Impossibile procedere senza prompt Teklab.\n")
     sys.exit(1)
 
 
@@ -383,33 +376,61 @@ class ChunkCreatorOllama:
         return None
     
     def detect_product_family(self, filename: str) -> str:
-        """Rileva famiglia prodotto dal filename
+        """Rileva famiglia prodotto dal filename usando categorie standard Teklab
         
         Returns:
-            'TK_Series', 'LC_Series', 'K25', 'Rotalock', 'ATEX', 'Support', 'General'
+            'Oil_Level_Regulators', 'Level_Switches', 'Sensors', 'Support', 'General'
         """
         filename_lower = filename.lower()
         
-        if any(x in filename_lower for x in ['tk1', 'tk3', 'tk4']):
-            return 'TK_Series'
-        elif any(x in filename_lower for x in ['lc-ps', 'lc-ph', 'lc-xp', 'lc-xt']):
-            return 'LC_Series'
-        elif 'k25' in filename_lower:
-            return 'K25'
-        elif 'rotalock' in filename_lower or 'rlk' in filename_lower:
-            return 'Rotalock'
-        elif 'atex' in filename_lower:
-            return 'ATEX'
-        elif any(x in filename_lower for x in ['adapter', 'accessory', 'guide', 'faq', 'support']):
+        # Oil Level Regulators: TK3+, TK4, TK4MB (tutti con 46/80/130 bar)
+        # Include anche pagine web Oil Level Regulators
+        if any(x in filename_lower for x in ['tk3+', 'tk3 ', 'tk4 ', 'tk4mb', 'tk4 mb', 'oil level regulator']):
+            return 'Oil_Level_Regulators'
+        
+        # Level Switches: TK1+, LC series, Rotalock
+        # Include anche pagine web Level Switches
+        elif any(x in filename_lower for x in ['tk1+', 'tk1 ', 'lc-ps', 'lc-ph', 'lc-xp', 'lc-xt', 'lc ps', 'lc ph', 'lc xp', 'lc xt', 'rotalock', 'level switch']):
+            return 'Level_Switches'
+        
+        # Sensors: K25, K11, ATEX
+        # Include anche pagine web sensors (infrared, metallic, plastic)
+        elif any(x in filename_lower for x in ['k25', 'k11', 'atex', 'infrared level sensor', 'metallic infrared', 'plastic infrared', 'liquid level sensor', 'temperature output']):
+            return 'Sensors'
+        
+        # Support: Adapters, Communication, Guides
+        elif any(x in filename_lower for x in ['adapter', 'communication', 'innovative', 'guide', 'faq', 'troubleshooting', 'technical note']):
             return 'Support'
+        
+        # General: Company presentation, catalogs, refrigeration overview
+        elif any(x in filename_lower for x in ['presentazione', 'presentation', 'catalogue', 'catalog', 'company', 'compressor', 'spiegazione', 'overview', 'refrigeration']):
+            return 'General'
+        
+        # Fallback: General
         else:
             return 'General'
     
     def load_transcript(self, transcript_path: Path) -> str:
-        """Carica contenuto file documentazione (txt o html)"""
+        """Carica contenuto file documentazione (txt, html, json)"""
         try:
-            with open(transcript_path, 'r', encoding='utf-8') as f:
-                return f.read()
+            if transcript_path.suffix == '.json':
+                with open(transcript_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    # Converte la struttura JSON in una stringa di testo formattata
+                    text_content = []
+                    if isinstance(data, list):
+                        for item in data:
+                            if isinstance(item, dict):
+                                for key, value in item.items():
+                                    text_content.append(f"{key}: {value}")
+                                text_content.append("\n---\n") # Separatore tra oggetti
+                    elif isinstance(data, dict):
+                        for key, value in data.items():
+                            text_content.append(f"{key}: {value}")
+                    return "\n".join(text_content)
+            else:
+                with open(transcript_path, 'r', encoding='utf-8') as f:
+                    return f.read()
         except Exception as e:
             print(f"❌ Errore lettura {transcript_path.name}: {e}")
             return ""
@@ -474,6 +495,7 @@ class ChunkCreatorOllama:
             preview = ' '.join(line.split()[:80])
             if len(line.split()) > 80:
                 preview += "..."
+
             numbered_lines.append(f"[Line {i}] {preview}")
         
         numbered_text = "\n\n".join(numbered_lines)
@@ -544,61 +566,64 @@ TEXT:
             print(f"      ⚠️  Errore semantic chunking: {e}")
             return []
     
-    def split_into_sections(self, text: str, max_words: int = 800) -> List[str]:
+    def split_into_sections(self, text: str, max_words: int = 800, overlap_sentences: int = OVERLAP_SENTENCES) -> List[str]:
         """
-        Divide trascrizione in sezioni semantiche (LEGACY - ora usa identify_semantic_breakpoints)
-        
+        Divide il testo in sezioni con una sovrapposizione di frasi.
+
         Args:
-            text: Testo completo
-            max_words: Massimo parole per sezione
-        
+            text: Testo completo.
+            max_words: Massimo numero di parole per sezione.
+            overlap_sentences: Numero di frasi da sovrapporre.
+
         Returns:
-            Lista di sezioni
+            Lista di sezioni di testo.
         """
-        # Divide per paragrafi
-        paragraphs = [p.strip() for p in text.split('\n\n') if p.strip()]
-        
+        if not text:
+            return []
+
+        # Tokenizza il testo in frasi
+        sentences = nltk.sent_tokenize(text, language='italian')
+        if not sentences:
+            return [text]
+
         sections = []
-        current_section = []
+        current_section_sentences = []
         current_words = 0
         
-        for para in paragraphs:
-            para_words = len(para.split())
-            
-            # Se paragrafo troppo lungo, aggiungilo come sezione separata
-            if para_words > max_words:
-                if current_section:
-                    sections.append('\n\n'.join(current_section))
-                    current_section = []
-                    current_words = 0
-                sections.append(para)
-                continue
-            
-            # Se aggiungere paragrafo supera limite, salva sezione corrente
-            if current_words + para_words > max_words and current_section:
-                sections.append('\n\n'.join(current_section))
-                current_section = [para]
-                current_words = para_words
+        for i, sentence in enumerate(sentences):
+            sentence_words = len(sentence.split())
+
+            # Se l'aggiunta della frase supera il limite, finalizza la sezione corrente
+            if current_words + sentence_words > max_words and current_section_sentences:
+                sections.append(" ".join(current_section_sentences))
+                
+                # Inizia la nuova sezione con una sovrapposizione
+                overlap_start_index = max(0, len(current_section_sentences) - overlap_sentences)
+                new_section_start_sentences = current_section_sentences[overlap_start_index:]
+                
+                current_section_sentences = new_section_start_sentences + [sentence]
+                current_words = sum(len(s.split()) for s in current_section_sentences)
             else:
-                current_section.append(para)
-                current_words += para_words
-        
-        # Aggiungi ultima sezione
-        if current_section:
-            sections.append('\n\n'.join(current_section))
-        
+                current_section_sentences.append(sentence)
+                current_words += sentence_words
+
+        # Aggiungi l'ultima sezione se presente
+        if current_section_sentences:
+            sections.append(" ".join(current_section_sentences))
+
         return sections
     
-    def split_by_semantic_breakpoints(self, text: str, breakpoints: List[int]) -> List[str]:
+    def split_by_semantic_breakpoints(self, text: str, breakpoints: List[int], overlap_sentences: int = OVERLAP_SENTENCES) -> List[str]:
         """
-        Divide testo usando breakpoint semantici (posizioni carattere)
+        Divide il testo usando breakpoint semantici con sovrapposizione di frasi.
         
         Args:
-            text: Testo completo
-            breakpoints: Lista di posizioni carattere dove spezzare
+            text: Testo completo.
+            breakpoints: Lista di posizioni carattere dove spezzare.
+            overlap_sentences: Numero di frasi da sovrapporre.
         
         Returns:
-            Lista di sezioni
+            Lista di sezioni.
         """
         if not breakpoints:
             return [text]
@@ -606,19 +631,48 @@ TEXT:
         sections = []
         start_pos = 0
         
-        for bp in sorted(breakpoints):
-            if bp > start_pos and bp <= len(text):
-                section = text[start_pos:bp].strip()
-                if section:  # Evita sezioni vuote
-                    sections.append(section)
-                start_pos = bp
+        # Tokenizza l'intero testo in frasi per la logica di overlap
+        all_sentences = nltk.sent_tokenize(text, language='italian')
+        sentence_positions = []
+        current_pos = 0
+        for sentence in all_sentences:
+            sentence_positions.append((current_pos, current_pos + len(sentence)))
+            current_pos += len(sentence) + 1 # Aggiungi 1 per lo spazio/newline
+
+        for bp_pos in sorted(breakpoints):
+            if bp_pos > start_pos and bp_pos <= len(text):
+                section_text = text[start_pos:bp_pos].strip()
+                if section_text:
+                    
+                    # Trova l'indice dell'ultima frase nella sezione corrente
+                    last_sentence_index = -1
+                    for i, (s_start, s_end) in enumerate(sentence_positions):
+                        if s_end <= bp_pos:
+                            last_sentence_index = i
+                    
+                    # Calcola l'inizio della sovrapposizione
+                    overlap_start_index = max(0, last_sentence_index - (overlap_sentences -1))
+                    
+                    # Trova la posizione di inizio della prima frase di overlap
+                    if overlap_start_index < len(sentence_positions):
+                         overlap_char_start_pos = sentence_positions[overlap_start_index][0]
+                         # La nuova sezione inizia dalla sovrapposizione
+                         start_pos = overlap_char_start_pos
+                    else:
+                        start_pos = bp_pos
+
+                    sections.append(section_text)
+                else:
+                    start_pos = bp_pos
         
-        # Aggiungi ultima sezione
+        # Aggiungi l'ultima sezione
         if start_pos < len(text):
             section = text[start_pos:].strip()
             if section:
                 sections.append(section)
         
+        # Rimuovi sezioni vuote e assicurati che ci sia almeno una sezione
+        sections = [s for s in sections if s]
         return sections if sections else [text]
     
     def generate_chunk_metadata(self, section_text: str, day_num: int, chunk_num: int) -> Dict:
@@ -635,7 +689,6 @@ TEXT:
         """
         # Calcola dinamicamente quante Q&A servono in base alla complessità
         word_count = len(section_text.split())
-        sentence_count = len(re.split(r'[.!?]+', section_text))
         
         # Formula: Q&A basate su lunghezza e densità
         if word_count < 200:
@@ -674,7 +727,7 @@ TEXT:
         else:
             # Fallback a prompt hardcoded se import fallisce
             text_for_analysis = section_text[:2000]
-            extraction_prompt = f"""Analyze this spiritual teaching transcript and extract structured metadata.
+            extraction_prompt = f"""Analyze this Teklab technical documentation and extract structured metadata.
 
 TEXT:
 {text_for_analysis}
@@ -695,10 +748,10 @@ Generate a JSON response with these fields:
 
 IMPORTANT for domain_metadata:
 - Analyze the content type and extract ONLY relevant domain-specific metadata
-- For spiritual/esoteric: chakra, mantra, element, color, practices
-- For philosophy: philosophical_school, key_thinkers, concepts
-- For history: time_period, locations, events
-- For science: scientific_field, theories, researchers
+- For technical products: product_family, applications, operating_range, key_features
+- For technical specifications: pressure_range, temperature_range, materials, certifications
+- For installation guides: installation_type, tools_required, safety_precautions
+- For troubleshooting: common_issues, solutions, maintenance_schedule
 - Use empty object {{}} if no specific domain metadata applies
 - NEVER force metadata that isn't clearly in the text
 
@@ -976,22 +1029,24 @@ Respond as an expert Teklab technical sales assistant:
             file_index: Indice file (non più day_num)
             output_dir: Directory output (default: Processati/{category}/chunks/)
         """
+        # Determina la cartella di output basata sulla categoria del chunk
+        category = chunk['metadata'].get("product_category", self.category)
+        if isinstance(category, list): # Gestisce il caso in cui Ollama restituisca una lista
+            category = category[0] if category else self.category
+            
+        category_folder = category.lower().replace(' ', '_')
+
         if output_dir is None:
-            # Usa product_family se disponibile, altrimenti category
-            product_family = chunk.get('metadata', {}).get('product_category', 'general')
-            # Gestisci lista da Ollama
-            if isinstance(product_family, list):
-                product_family = product_family[0] if product_family else 'general'
-            safe_family = str(product_family).lower().replace(' ', '_')
-            output_dir = self.processati_path / "chunks" / safe_family
-        
-        # Crea directory se non esiste
-        output_dir.mkdir(parents=True, exist_ok=True)
+            # Se non specificata, usa la directory di default dei chunk
+            output_dir = self.processati_path / "chunks"
+
+        output_path = output_dir / category_folder
+        output_path.mkdir(parents=True, exist_ok=True)
         
         # Nome file
         chunk_id = chunk['id']
         filename = f"{chunk_id}.json"
-        filepath = output_dir / filename
+        filepath = output_path / filename
         
         # Salva JSON
         try:
@@ -1010,29 +1065,43 @@ Respond as an expert Teklab technical sales assistant:
         output_dir: Optional[Path] = None
     ):
         """
-        Genera summary aggregato per file documentazione Teklab
+        Genera summary aggregato per SINGOLO file di input Teklab
+        
+        CRITICAL: 1 INPUT FILE = 1 SUMMARY (anche se genera N chunk)
+        - Se "Tk3+ 46bar.txt" genera 3 chunk → 1 solo summary "Tk3+_46bar_txt_summary.json"
+        - Summary aggrega info da tutti i chunk di quel file specifico
+        - NON mescola mai info da file diversi
+        
+        Salva in: Processati/summaries/{filename}_summary.json
         
         Args:
-            file_index: Indice file
-            product_family: Famiglia prodotto ('TK_Series', 'LC_Series', etc.)
-            chunks: Lista chunk del file
-            filename: Nome file originale
+            file_index: Indice file input
+            product_family: Famiglia prodotto ('Oil_Level_Regulators', etc.)
+            chunks: Lista chunk SOLO di questo file input
+            filename: Nome file originale input
             output_dir: Directory output (default: processati_path/summaries/)
         """
         if not chunks:
             return
         
-        # Directory output
+        # Directory output principale (archivio centrale summaries)
         if output_dir is None:
             output_dir = self.processati_path / "summaries"
         output_dir.mkdir(parents=True, exist_ok=True)
         
-        # Aggrega metadata da tutti i chunk
+        # NON più co-location - summary solo in summaries/
+        # I chunk stanno in chunks/{category}/, summary sta in summaries/
+        
+        # Aggrega metadata da tutti i chunk DI QUESTO FILE
         all_keywords = []
         all_concepts = []
         all_quotes = []
         all_questions = []
         chunk_ids = []
+        total_qa_pairs = 0
+        
+        # Determina category_folder da product_family per path chunk
+        category_folder = product_family.lower().replace(' ', '_')
         
         for chunk in chunks:
             metadata = chunk.get('metadata', {})
@@ -1049,6 +1118,9 @@ Respond as an expert Teklab technical sales assistant:
             
             # Questions
             all_questions.extend(metadata.get('natural_questions', []))
+            
+            # Count Q&A pairs
+            total_qa_pairs += len(metadata.get('qa_pairs', []))
         
         # Rimuovi duplicati mantenendo ordine
         all_keywords = list(dict.fromkeys(all_keywords))
@@ -1056,7 +1128,7 @@ Respond as an expert Teklab technical sales assistant:
         all_quotes = list(dict.fromkeys(all_quotes))
         all_questions = list(dict.fromkeys(all_questions))
         
-        # Crea summary
+        # Crea summary (1 per file input)
         safe_filename = filename.replace(' ', '_').replace('.', '_')
         summary_label = f"{product_family}: {filename}"
         
@@ -1065,8 +1137,9 @@ Respond as an expert Teklab technical sales assistant:
             "filename": filename,
             "product_family": product_family,
             "summary_label": summary_label,
-            "category": self.category,
+            "category": category_folder,
             "total_chunks": len(chunks),
+            "total_qa_pairs": total_qa_pairs,
             "chunk_ids": chunk_ids,
             
             "aggregated_metadata": {
@@ -1080,19 +1153,20 @@ Respond as an expert Teklab technical sales assistant:
             "file_metadata": chunks[0].get('metadata', {}) if chunks else {},
             
             "chunk_files": [
-                f"chunks/{product_family.lower()}/{chunk.get('id', '')}.json"
+                f"chunks/{category_folder}/{chunk.get('id', '')}.json"
                 for chunk in chunks
             ]
         }
         
-        # Salva summary
+        # Salva summary SOLO in summaries/ (non più co-located)
         summary_filename = f"{safe_filename}_summary.json"
         filepath = output_dir / summary_filename
         
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
                 json.dump(summary, f, indent=4, ensure_ascii=False)
-            print(f"   📊 Summary: {summary_filename}")
+            print(f"   📊 Summary salvato: summaries/{summary_filename}")
+            print(f"      Aggrega {len(chunks)} chunk da file '{filename}'")
         except Exception as e:
             print(f"   ❌ Errore salvataggio summary: {e}")
     
@@ -1103,6 +1177,33 @@ Respond as an expert Teklab technical sales assistant:
         max_chunks: Optional[int] = None,
         save: bool = True
     ) -> List[Dict]:
+        """
+        Processa SINGOLO file documentazione Teklab e genera chunk JSON
+        
+        🎯 CRITICAL RULE: 1 INPUT FILE = 1+ OUTPUT CHUNKS (mai aggregare file diversi)
+        
+        - Se file è breve → 1 chunk
+        - Se file è lungo → N chunk (stesso file_index, chunk_number diverso)
+        - Ogni chunk contiene COMPLETE metadata including qa_pairs
+        - Dopo tutti i chunk → genera 1 summary per file
+        
+        Example:
+          INPUT: "Tk3+ 46bar.txt" (lungo 2000 parole)
+          OUTPUT: 
+            - chunks/oil_level_regulators/teklab_chunk_001_001_tk3_plus_46bar.json
+            - chunks/oil_level_regulators/teklab_chunk_001_002_tk3_plus_46bar.json  
+            - chunks/oil_level_regulators/teklab_chunk_001_003_tk3_plus_46bar.json
+            - summaries/Tk3+_46bar_txt_summary.json (aggrega i 3 chunk)
+        
+        Args:
+            transcript_path: Path al file input
+            file_index: Indice file (opzionale, auto-determinato da nome)
+            max_chunks: Massimo chunk da generare (default: tutti)
+            save: Se True, salva chunk su disco
+        
+        Returns:
+            Lista chunk generati da QUESTO SINGOLO FILE
+        """
         """
         Processa un file di documentazione Teklab con sistema checkpoint
         
@@ -1138,7 +1239,12 @@ Respond as an expert Teklab technical sales assistant:
                 print("   🔄 Riprocesso file da zero...")
         
         # Rileva famiglia prodotto e genera label
-        product_family = self.detect_product_family(transcript_path.name)
+        # La categoria viene ora passata dall'esterno o determinata all'inizio,
+        # non è più necessario rilevarla qui.
+        # MODIFICA: Rende la categorizzazione deterministica basata sulla cartella padre
+        # per risolvere l'incoerenza dei nomi delle cartelle di output.
+        product_family = transcript_path.parent.name
+        
         file_label = f"{product_family}: {transcript_path.name}"
         
         print(f"\n📄 Processamento: {file_label}")
@@ -1193,6 +1299,11 @@ Respond as an expert Teklab technical sales assistant:
             print("      🧠 Estrazione metadata...")
             metadata = self.generate_chunk_metadata(section, file_index, i)
             
+            # MODIFICA: Forza la product_family corretta e deterministica nei metadati
+            # per garantire che il salvataggio avvenga nella cartella giusta.
+            # Questo sovrascrive qualsiasi valore errato proveniente dall'LLM.
+            metadata['domain_metadata']['product_family'] = product_family
+            
             # Crea struttura chunk
             print("      📦 Creazione struttura JSON...")
             chunk = self.create_chunk_json(section, file_index, i, metadata)
@@ -1241,10 +1352,21 @@ Respond as an expert Teklab technical sales assistant:
         
         print(f"\n✅ {file_label} completato: {len(chunks)} chunk creati")
         
-        # Genera summary aggregato
-        if save and chunks:
-            self.generate_file_summary(file_index, product_family, chunks, transcript_path.name)
+        # Salva i chunk generati
+        if save:
+            output_chunk_dir = self.processati_path / "chunks"
+            for chunk in chunks:
+                self.save_chunk(chunk, file_index, output_chunk_dir)
         
+            # Genera UN summary per l'INTERO file di input
+            self.generate_file_summary(
+                file_index=file_index,
+                product_family=product_family,
+                chunks=chunks,
+                filename=transcript_path.name,
+                output_dir=self.processati_path / "summaries"
+            )
+            
         return chunks
     
     def process_multiple_files(
@@ -1427,38 +1549,17 @@ def main():
         return
     # else: usa selezione interattiva (gestita in ChunkCreator.__init__)
     
-    # Determina file da processare
-    file_indices = None
-    if args.days:
-        file_indices = args.days  # Riusa come indici file
-    elif args.range:
-        file_indices = list(range(args.range[0], args.range[1] + 1))
-    else:
-        # Default: processa tutti i file (opzionale: chiedi interattivamente)
-        print("\n🦙 CHUNK CREATOR TEKLAB - LLAMA RAG")
-        print("=" * 70)
-        print("\nProcessare tutti i file disponibili?")
-        print("  1. Sì, processa tutto")
-        print("  2. No, seleziona range file (es: 1-5)")
-        
-        choice = input("\nScelta [1/2]: ").strip()
-        
-        if choice == '2':
-            start = int(input("File iniziale (indice): "))
-            end = int(input("File finale (indice): "))
-            file_indices = list(range(start, end + 1))
-        # else: file_indices rimane None = processa tutti
+    # Determina file da processare (logica non più necessaria, gestita da ChunkCreator)
     
     # Inizializza creator con variante prompt e work info (OLLAMA)
     creator = ChunkCreatorOllama(
         model_config=args.config,
         prompt_variant=args.prompt_variant,
-        work_info=work_info  # None = selezione interattiva
+        work_info=work_info
     )
     
     # Processa file Teklab
     creator.process_multiple_files(
-        file_indices=file_indices,
         max_chunks_per_file=args.max_chunks
     )
 

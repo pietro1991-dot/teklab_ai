@@ -117,12 +117,10 @@ class TeklabAIChatbotOllama:
         
         if not embeddings_path.exists():
             print(f"⚠️  Cache embeddings non trovata: {embeddings_path}")
-            print("   Esegui prima: python scripts/generate_teklab_embeddings.py")
+            print("   Esegui prima: python scripts/2_generate_embeddings.py")
             self.chunk_embeddings = {}
             self.qa_embeddings = {}
-            self.summary_embeddings = {}
             self.chunks_data = {}
-            self.summaries_data = {}
             self.embedding_model = None
             return
         
@@ -132,31 +130,32 @@ class TeklabAIChatbotOllama:
             
             self.chunk_embeddings = cache.get('chunk_embeddings', {})
             self.qa_embeddings = cache.get('qa_embeddings', {})
-            self.summary_embeddings = cache.get('summary_embeddings', {})
             self.chunks_data = cache.get('chunks_data', {})
-            self.summaries_data = cache.get('summaries_data', {})
+            
+            # Non più usati nella nuova struttura
+            self.summary_embeddings = {}
+            self.summaries_data = {}
             
             # Carica modello embeddings (FORZA CPU)
             from sentence_transformers import SentenceTransformer
-            model_name = cache.get('model', 'all-MiniLM-L6-v2')
+            model_name = cache.get('model', 'all-mpnet-base-v2')
             print(f"   • Modello embeddings: {model_name}")
-            print(f"   • Device: CPU (GPU riservata per Llama)")
+            print("   • Device: CPU (GPU riservata per Llama)")
             self.embedding_model = SentenceTransformer(model_name, device='cpu')
             
-            total = len(self.chunk_embeddings) + len(self.qa_embeddings) + len(self.summary_embeddings)
+            total = len(self.chunk_embeddings) + len(self.qa_embeddings)
             print(f"✅ Caricati {total} embeddings RAG")
             print(f"   • Chunks: {len(self.chunk_embeddings)}")
             print(f"   • Q&A: {len(self.qa_embeddings)}")
-            print(f"   • Summaries: {len(self.summary_embeddings)}")
             
         except Exception as e:
             print(f"❌ Errore caricamento embeddings: {e}")
             self.embeddings = None
             self.embedding_model = None
     
-    def retrieve_context(self, query: str, top_k: int = 5, include_summaries: bool = True, min_similarity: float = 0.33) -> tuple[str, list[dict]]:
-        """Recupera contesto RAG rilevante con filtro qualità"""
-        if not self.embedding_model or not self.chunk_embeddings:
+    def retrieve_context(self, query: str, top_k: int = 5, min_similarity: float = 0.33) -> tuple[str, list[dict]]:
+        """Recupera contesto RAG rilevante da chunk e Q&A."""
+        if not self.embedding_model or (not self.chunk_embeddings and not self.qa_embeddings):
             return "", []
         
         try:
@@ -165,10 +164,16 @@ class TeklabAIChatbotOllama:
             query_emb = self.embedding_model.encode([query])[0]
             
             similarities = []
+            # Cerca nei chunk
             for chunk_id, chunk_emb in self.chunk_embeddings.items():
                 sim = cosine_similarity([query_emb], [chunk_emb])[0][0]
                 similarities.append((chunk_id, sim, 'chunk'))
-            
+
+            # Cerca nelle Q&A
+            for qa_id, qa_emb in self.qa_embeddings.items():
+                sim = cosine_similarity([query_emb], [qa_emb])[0][0]
+                similarities.append((qa_id, sim, 'qa'))
+
             # DEBUG: Stampa top 5 similarities PRIMA del filtro
             print(f"\n🔍 DEBUG retrieve_context:")
             print(f"   Query: '{query[:50]}'")
@@ -176,23 +181,16 @@ class TeklabAIChatbotOllama:
             print(f"   top_k: {top_k}")
             similarities_sorted = sorted(similarities, key=lambda x: x[1], reverse=True)
             print(f"   Top 5 similarities BEFORE filter:")
-            for i, (cid, sim, _) in enumerate(similarities_sorted[:5], 1):
+            for i, (cid, sim, c_type) in enumerate(similarities_sorted[:5], 1):
                 ok = "✅" if sim >= min_similarity else "❌"
-                print(f"      {ok} [{i}] sim={sim:.4f} - {cid[:50]}")
-            
-            if include_summaries and self.summary_embeddings:
-                for summary_id, summary_emb in self.summary_embeddings.items():
-                    sim = cosine_similarity([query_emb], [summary_emb])[0][0]
-                    similarities.append((summary_id, sim, 'summary'))
-            
-            similarities.sort(key=lambda x: x[1], reverse=True)
+                print(f"      {ok} [{i}] sim={sim:.4f} - type={c_type} - {cid.split('/')[-1][:50]}")
             
             # Filtra per similarity threshold PRIMA, poi prendi top_k
-            filtered = [(item_id, score, item_type) for item_id, score, item_type in similarities if score >= min_similarity]
+            filtered = [(item_id, score, item_type) for item_id, score, item_type in similarities_sorted if score >= min_similarity]
             top_items = filtered[:top_k]
             
             if not top_items:
-                print(f"⚠️  Nessun chunk rilevante (tutti <{min_similarity:.2f} similarity)")
+                print(f"⚠️  Nessun risultato rilevante (tutti <{min_similarity:.2f} similarity)")
                 return "", []
             
             context_parts = []
@@ -201,74 +199,49 @@ class TeklabAIChatbotOllama:
             for item_id, score, item_type in top_items:
                 if item_type == 'chunk':
                     chunk_data = self.chunks_data.get(item_id, {})
-                    
-                    # ARCHITETTURA TEKLAB OTTIMIZZATA: usa messages[2] (assistant formatted)
-                    # messages[0] = system prompt template
-                    # messages[1] = user prompt (SEMANTIC CONCEPT)
-                    # messages[2] = assistant (FORMATTED RESPONSE) ← QUESTO è il contenuto da usare
-                    chunk_text = ''
-                    if 'messages' in chunk_data:
-                        # Priorità: assistant message (formatted response)
-                        if len(chunk_data['messages']) > 2:
-                            chunk_text = chunk_data['messages'][2].get('content', '')
-                        # Fallback: user content (raw prompt) se manca assistant
-                        elif len(chunk_data['messages']) > 1:
-                            chunk_text = chunk_data['messages'][1].get('content', '')
-                    
-                    # Fallback per vecchi chunk (libri meditazione)
-                    if not chunk_text:
-                        chunk_text = chunk_data.get('original_text', chunk_data.get('testo', ''))
+                    # Usa il testo originale completo per il contesto
+                    chunk_text = chunk_data.get('original_text', '')
                     
                     if chunk_text:
                         metadata = chunk_data.get('metadata', {})
+                        product_category = metadata.get('product_category', 'Unknown')
+                        chunk_title = metadata.get('chunk_title', 'Technical Document')
                         
-                        # ARCHITETTURA TEKLAB: metadata.product_model + category separato
-                        product_model = metadata.get('product_model', 'Unknown')
-                        category = chunk_data.get('category', 'unknown')
-                        chunk_type = metadata.get('chunk_type', 'unknown')
-                        
-                        # Fallback per vecchi chunk libri meditazione (se presenti)
-                        if product_model == 'Unknown':
-                            author = metadata.get('author', metadata.get('autore', 'Unknown'))
-                            file_title = metadata.get('file_title', '')
-                            work = file_title if file_title else metadata.get('work', metadata.get('opera', metadata.get('libro', 'Unknown')))
-                            product_model = f"{author} - {work}"
-                        
-                        source_info = chunk_data.get('source', item_id.split('/')[0] if '/' in item_id else 'Unknown')
-                        context_parts.append(f"[Product: {product_model}]\n{chunk_text}\n")
+                        source_info = chunk_data.get('metadata', {}).get('source', 'Teklab')
+                        context_parts.append(f"[Source: {product_category} - {chunk_title}]\n{chunk_text}\n")
                         
                         retrieved_metadata.append({
                             "chunk_id": item_id,
                             "similarity_score": round(float(score), 4),
                             "source": source_info,
-                            "product": product_model,
-                            "category": category,
-                            "chunk_type": chunk_type,
+                            "product_category": product_category,
+                            "chunk_title": chunk_title,
                             "type": "chunk"
                         })
                 
-                elif item_type == 'summary':
-                    summary_data = self.summaries_data.get(item_id, {})
+                elif item_type == 'qa':
+                    # Le Q&A sono memorizzate in chunks_data sotto l'ID del loro chunk padre
+                    chunk_id, qa_idx_str = item_id.split('|qa_')
+                    qa_idx = int(qa_idx_str)
                     
-                    if summary_data:
-                        unit_label = summary_data.get('unit_label', '')
-                        work_name = summary_data.get('work_name', '')
-                        unit_meta = summary_data.get('unit_metadata', {})
-                        overview = unit_meta.get('summary', '')
-                        aggregated = summary_data.get('aggregated_metadata', {})
-                        key_concepts = ', '.join(aggregated.get('all_concepts', [])[:5])
+                    chunk_data = self.chunks_data.get(chunk_id, {})
+                    qa_pair = chunk_data.get('metadata', {}).get('qa_pairs', [])[qa_idx]
+                    
+                    if qa_pair:
+                        question = qa_pair.get('question', '')
+                        answer = qa_pair.get('answer', '')
+                        context_parts.append(f"[Source: Q&A]\nQuestion: {question}\nAnswer: {answer}\n")
                         
-                        summary_text = f"{unit_label} Overview:\n{overview}\n\nKey Concepts: {key_concepts}"
-                        context_parts.append(f"[Summary: {unit_label}]\n{summary_text}\n")
-                        
+                        metadata = chunk_data.get('metadata', {})
+                        product_category = metadata.get('product_category', 'Unknown')
+
                         retrieved_metadata.append({
                             "chunk_id": item_id,
                             "similarity_score": round(float(score), 4),
-                            "source": unit_label,
-                            "author": unit_meta.get('author', 'Unknown'),
-                            "work": work_name,
-                            "title": f"{unit_label} Summary",
-                            "type": "summary"
+                            "source": "Q&A",
+                            "product_category": product_category,
+                            "question": question,
+                            "type": "qa"
                         })
             
             context_text = "\n---\n".join(context_parts) if context_parts else ""
@@ -310,16 +283,19 @@ class TeklabAIChatbotOllama:
         for i, chunk_meta in enumerate(retrieved_chunks[:3]):
             # Recupera chunk_id dal metadata
             chunk_id = chunk_meta.get('chunk_id', 'Unknown')
-            # Recupera chunk_data completo per leggere metadata
-            chunk_data = self.chunks_data.get(chunk_id, {})
-            metadata = chunk_data.get('metadata', {})
-            
-            # Per chunk Teklab: metadata.product_model + category separato
-            product = metadata.get('product_model', metadata.get('product', 'Unknown'))
-            category = chunk_data.get('category', 'unknown')
             sim = chunk_meta.get('similarity_score', 0)
-            print(f"   [{i+1}] {product:25s} | {category:12s} | sim={sim:.3f}")
-        
+            item_type = chunk_meta.get('type', 'chunk')
+            
+            if item_type == 'chunk':
+                # Recupera chunk_data completo per leggere metadata
+                chunk_data = self.chunks_data.get(chunk_id, {})
+                metadata = chunk_data.get('metadata', {})
+                product_category = metadata.get('product_category', 'Unknown')
+                print(f"   [{i+1}] CHUNK: {product_category:20s} | sim={sim:.3f}")
+            elif item_type == 'qa':
+                question = chunk_meta.get('question', 'Unknown Q&A')
+                print(f"   [{i+1}] Q&A:   {question[:40]:<40s} | sim={sim:.3f}")
+
         # Costruisci prompt con cronologia LIMITATA
         history_context = self._get_conversation_context()
         
@@ -476,18 +452,18 @@ class TeklabAIChatbotOllama:
                     
                     print("\n📊 Metriche RAG:")
                     print(f"   • Cronologia: {len(self.conversation_history)} turni")
-                    print(f"   • Chunk recuperati: {len(chunks)}")
+                    print(f"   • Risultati recuperati: {len(chunks)}")
                     if chunks:
                         for i, chunk in enumerate(chunks, 1):
-                            # ARCHITETTURA TEKLAB: usa product + category invece di author/work
-                            product = chunk.get('product', 'Unknown')
-                            category = chunk.get('category', 'unknown')
-                            chunk_id = chunk.get('chunk_id', 'unknown')
-                            sim = chunk['similarity_score']
                             item_type = chunk.get('type', 'chunk')
-                            
-                            # Display compatto: [num] Product | Category | sim
-                            print(f"      {i}. {product} | {category} | sim={sim:.3f}")
+                            sim = chunk['similarity_score']
+                            if item_type == 'chunk':
+                                category = chunk.get('product_category', 'Unknown')
+                                title = chunk.get('chunk_title', '...')
+                                print(f"      {i}. [CHUNK] {category} - {title[:30]}... | sim={sim:.3f}")
+                            elif item_type == 'qa':
+                                question = chunk.get('question', 'Unknown Q&A')
+                                print(f"      {i}. [Q&A]   {question[:45]}... | sim={sim:.3f}")
                     
                     # Metriche generazione adattiva
                     adaptive = last_turn.get('adaptive_generation', {})

@@ -1,0 +1,59 @@
+{
+    "titolo_comparazione": "Guida alla Scelta degli Interruttori di Livello Serie LC e Speciali",
+    "introduzione": "La gamma di interruttori di livello Teklab offre soluzioni precise e affidabili per il rilevamento on/off del livello di liquidi in un'ampia varietà di applicazioni di refrigerazione. La scelta del modello corretto dipende principalmente da tre fattori: la pressione massima di esercizio, il tipo di connessione elettrica richiesta e le specifiche esigenze di montaggio. Questa guida analizza i modelli della serie LC (LC-PS, LC-PH, LC-XT, LC-XP) e i modelli speciali (TK1+, Rotalock) per aiutare a identificare la soluzione perfetta.",
+    "serie_lc": {
+        "titolo": "Serie LC: La Piattaforma Standard",
+        "descrizione": "La serie LC è basata su un design compatto e robusto, ma si differenzia per la resistenza alla pressione e il tipo di connettore.",
+        "modelli": [
+            {
+                "modello": "LC-PS (Standard Pressure, Cable)",
+                "pressione_max": "46 bar",
+                "connessione": "Cavo elettrico diretto",
+                "descrizione_dettagliata": "L'LC-PS è il modello base, progettato per la stragrande maggioranza dei sistemi di refrigerazione che utilizzano refrigeranti HFC/HFO. La sua resistenza a 46 bar è adeguata per applicazioni commerciali standard. La connessione tramite cavo diretto lo rende una soluzione economica e a tenuta stagna, ideale per installazioni 'installa e dimentica' dove non sono previste frequenti disconnessioni.",
+                "quando_sceglierlo": "Per sistemi di refrigerazione standard, chiller e pompe di calore con refrigeranti convenzionali, dove è richiesta una soluzione affidabile e dal costo contenuto."
+            },
+            {
+                "modello": "LC-PH (High Pressure, Cable)",
+                "pressione_max": "120 bar",
+                "connessione": "Cavo elettrico diretto o connettore M12 opzionale",
+                "descrizione_dettagliata": "L'LC-PH è la versione ad alta pressione dell'LC-PS, specificamente ingegnerizzata per i sistemi a CO2 (R744). Il corpo rinforzato garantisce la massima sicurezza in applicazioni subcritiche e transcritiche. Mantiene la connessione a cavo per una tenuta perfetta, ma offre anche l'opzione di un connettore M12 per una maggiore flessibilità e una connessione/disconnessione rapida in ambienti industriali.",
+                "quando_sceglierlo": "Obbligatorio per sistemi a CO2. Raccomandato anche per sistemi HFC in climi freddi dove la pressione differenziale può aumentare notevolmente."
+            },
+            {
+                "modello": "LC-XT (Standard Pressure, Connector)",
+                "pressione_max": "46 bar",
+                "connessione": "Connettore industriale DIN 43650",
+                "descrizione_dettagliata": "L'LC-XT offre le stesse prestazioni dell'LC-PS (46 bar) ma sostituisce il cavo diretto con un pratico connettore DIN. Questo facilita enormemente le operazioni di installazione e manutenzione, permettendo di collegare e scollegare il sensore senza dover intervenire sui cablaggi. È la soluzione ideale per macchinari modulari o per quadri elettrici dove la pulizia e la rapidità di intervento sono fondamentali.",
+                "quando_sceglierlo": "Per sistemi standard (HFC/HFO) dove la facilità di manutenzione e la velocità di sostituzione sono una priorità. Perfetto per OEM che vogliono semplificare le loro linee di assemblaggio."
+            },
+            {
+                "modello": "LC-XP (High Pressure, Connector)",
+                "pressione_max": "120 bar",
+                "connessione": "Connettore industriale DIN 43650",
+                "descrizione_dettagliata": "L'LC-XP combina il meglio di due mondi: la resistenza alle alte pressioni (120 bar) dell'LC-PH e la praticità del connettore DIN dell'LC-XT. Questo lo rende il modello più versatile e di alta gamma della serie LC, perfetto per sistemi a CO2 dove si desidera anche la massima facilità di manutenzione. Permette una sostituzione rapida e sicura del componente anche negli impianti più critici.",
+                "quando_sceglierlo": "Per sistemi a CO2 e ad alta pressione dove la rapidità di intervento e la modularità sono importanti quanto le prestazioni. È la soluzione premium per applicazioni esigenti."
+            }
+        ]
+    },
+    "modelli_speciali": {
+        "titolo": "Modelli Speciali: Soluzioni per Esigenze Specifiche",
+        "descrizione": "Oltre alla serie LC, Teklab offre interruttori di livello progettati per risolvere problemi di installazione specifici.",
+        "modelli": [
+            {
+                "modello": "TK1+",
+                "pressione_max": "100 bar",
+                "montaggio": "Sostituzione diretta di indicatori di livello a vetro (sight-glass)",
+                "descrizione_dettagliata": "Il TK1+ non è un semplice interruttore di livello, ma un upgrade di sicurezza. È progettato per essere avvitato direttamente al posto dei comuni indicatori di livello a vetro presenti sui carter dei compressori. In questo modo, trasforma un punto di ispezione passivo in un controllo di livello attivo, fornendo un segnale di allarme a relè in caso di basso livello d'olio. Con una resistenza a 100 bar, è compatibile con la maggior parte dei sistemi, inclusi quelli a CO2 subcritico.",
+                "quando_sceglierlo": "Quando si vuole aumentare la sicurezza di un compressore esistente senza dover effettuare modifiche meccaniche. È la soluzione ideale per il retrofit e l'ammodernamento di impianti."
+            },
+            {
+                "modello": "Rotalock",
+                "pressione_max": "46 bar",
+                "montaggio": "Installazione diretta su valvole Rotalock",
+                "descrizione_dettagliata": "Questo modello risolve brillantemente il problema dei raccordi e degli adattatori. È progettato con una filettatura che permette di avvitarlo direttamente su una porta libera di una valvola Rotalock, comunemente presente sui ricevitori di liquido. Questo tipo di montaggio è estremamente rapido, pulito e, soprattutto, sicuro, poiché elimina due potenziali punti di perdita (le connessioni dell'adattatore). È dotato di connettore DIN per una facile connessione elettrica.",
+                "quando_sceglierlo": "Quando si deve installare un controllo di livello su un ricevitore di liquido o un separatore d'olio dotato di una valvola Rotalock con una porta di servizio disponibile. Semplifica l'installazione e aumenta l'affidabilità del sistema."
+            }
+        ]
+    },
+    "riepilogo_generale": "La gamma di interruttori di livello Teklab è progettata per offrire una soluzione per ogni esigenza. Per applicazioni standard, la serie LC offre un'ampia scelta basata su pressione e connettività. Per problemi specifici di installazione o per l'aggiornamento di sistemi esistenti, i modelli speciali come il TK1+ e il Rotalock forniscono soluzioni ingegnose e mirate che semplificano il lavoro dell'installatore e aumentano la sicurezza dell'impianto."
+}

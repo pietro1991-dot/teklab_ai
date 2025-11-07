@@ -1,6 +1,6 @@
-# 🌟 Spirituality AI - UI Experience
+# 🔧 Teklab AI - UI Experience
 
-Interfaccia web ChatGPT-style per il chatbot Spirituality AI.
+Interfaccia web ChatGPT-style per il chatbot Teklab AI.
 
 ## 🎯 Features
 
@@ -34,7 +34,7 @@ python app.py
 
 Output atteso:
 ```
-🌟 SPIRITUALITY AI - Backend API
+🔧 TEKLAB AI - Backend API
 📡 Server in avvio su http://localhost:5000
 ✨ Endpoints disponibili:
    - POST   /chat      → Invia messaggio
@@ -132,6 +132,7 @@ Toggle con pulsante in basso a sinistra della sidebar.
 1. Verifica che backend sia avviato: `python backend_api/app.py`
 2. Controlla che sia su porta 5000: http://localhost:5000/health
 3. Verifica firewall non blocchi porta 5000
+4. Verifica embeddings cache: `ai_system/Embedding/teklab_embeddings_cache.pkl`
 
 ### ❌ "Failed to fetch"
 
@@ -144,12 +145,13 @@ Toggle con pulsante in basso a sinistra della sidebar.
 
 ### ❌ "Module not found"
 
-**Problema:** Backend non trova moduli `llama_rag_wrapper`, ecc.
+**Problema:** Backend non trova moduli o embeddings.
 
 **Soluzione:**
 1. Verifica percorso progetto in `backend_api/app.py`
-2. Esegui da root: `cd spirituality.ai && python backend_api/app.py`
-3. Controlla che `ai_system/src/models/` esista
+2. Esegui da root: `cd teklab_ai && python backend_api/app.py`
+3. Controlla che `ai_system/Embedding/teklab_embeddings_cache.pkl` esista
+4. Se manca, genera embeddings: `python scripts/2_generate_embeddings.py`
 
 ### 💾 "Troppi dati in localStorage"
 
@@ -217,11 +219,11 @@ Utils.loadFromStorage('conversations')
 
 ### Cambia Avatar Bot
 
-In `index.html` e `app.js`, sostituisci `🌟` con:
-- `🧘` Meditazione
-- `🕉️` Om
-- `⚡` Energia
-- `👁️` Terzo occhio
+In `index.html` e `app.js`, sostituisci `🔧` con:
+- `🏭` Industria
+- `⚙️` Meccanica
+- `📊` Dati
+- `�` Tecnico
 
 ### Aggiungi Suggestions
 
@@ -247,7 +249,7 @@ In `main.css`:
 
 ## 📝 License
 
-Part of Spirituality AI project.
+Part of Teklab AI project.
 
 ## 🤝 Contributing
 
@@ -262,7 +264,10 @@ Per problemi tecnici, controlla:
 1. Console browser (F12)
 2. Terminal backend (output Python)
 3. File README principale del progetto
+4. Documentazione completa in `/docs/`
 
 ---
+
+**Made with 🔧 by Teklab AI Team**
 
 **Made with 🌟 by Spirituality AI Team**

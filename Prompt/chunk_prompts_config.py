@@ -136,16 +136,15 @@ IMPORTANT:
 - Generate 3-5 natural questions (short form)
 - Keep summary concise but meaningful
 - For qa_pairs: QUALITY over fixed quantity - create as many as needed to cover all concepts thoroughly
-- For domain_metadata: Analyze the text and extract ONLY domain-specific metadata that is ACTUALLY present and relevant
-  * For spiritual/esoteric content: chakra, mantra, element, color, body_location, meditation practices
-  * For philosophical content: philosophical_school, key_thinkers, concepts, arguments
-  * For historical content: time_period, locations, historical_figures, events
-  * For scientific content: scientific_field, theories, experiments, researchers
+- For domain_metadata: Analyze the text and extract ONLY technical metadata that is ACTUALLY present and relevant
+  * For Teklab products: pressure_class, refrigerants, certifications, communication protocols, applications
+  * For technical specifications: operating ranges, accuracy, response time, materials, standards
+  * For installation: mounting, wiring, setup requirements, compatibility
   * Use empty object {{}} if no specific domain metadata is identifiable
   * NEVER force metadata that isn't clearly present in the text
   * Be flexible and adapt to the actual content type
-- Themes should capture the spiritual/personal growth themes (e.g., grounding, self-love, empowerment, intuition)
-- Practices should be specific exercises/meditations mentioned in the text"""
+- Applications should capture the industrial use cases (e.g., compressor lubrication, refrigerant level, HVAC systems)
+- Features should be specific technical capabilities mentioned in the text"""
 
 
 # ============================================================================
@@ -171,94 +170,94 @@ Keep it minimal but accurate. JSON only, no extra text."""
 
 
 # ============================================================================
-# DETAILED VARIANT - Maximum quality and depth
+# DETAILED VARIANT - Maximum quality and depth for TEKLAB PRODUCTS
 # ============================================================================
 
-CHUNK_ANALYSIS_DETAILED = """Perform a deep analysis of the following spiritual/philosophical text chunk. Extract comprehensive metadata for advanced RAG retrieval.
+CHUNK_ANALYSIS_DETAILED = """Perform a deep technical analysis of the following Teklab product documentation. Extract comprehensive metadata for advanced B2B RAG retrieval.
 
 TEXT TO ANALYZE:
 {text}
 
 SOURCE CONTEXT:
 - Language: {source_language}
-- Expected depth: Maximum detail and nuance
-- Purpose: Training data for spirituality AI chatbot
+- Expected depth: Maximum technical detail and precision
+- Purpose: Training data for Teklab B2B technical chatbot
 
 Extract and respond with ONLY a valid JSON object containing:
 
 {{
-  "chunk_title": "Descriptive title capturing the essence (8-15 words)",
+  "chunk_title": "Descriptive product/feature title (8-15 words)",
   
   "key_concepts": [
-    "Concept 1 - foundational principle explained clearly",
-    "Concept 2 - practical application with specific details",
-    "Concept 3 - spiritual/philosophical insight",
-    "Concept 4 - interconnection with other concepts",
-    "Concept 5 - deeper layer of understanding",
-    "Concept 6 - transformative aspect",
-    "Concept 7 - expected results or benefits"
+    "Concept 1 - foundational product specification explained clearly",
+    "Concept 2 - practical application with specific installation details",
+    "Concept 3 - technical feature or capability",
+    "Concept 4 - interconnection with other products or systems",
+    "Concept 5 - deeper layer of technical understanding",
+    "Concept 6 - competitive advantage or unique aspect",
+    "Concept 7 - expected performance or benefits"
   ],
   
   "keywords_primary": [
-    "primary_keyword_1",
-    "primary_keyword_2",
-    "primary_keyword_3",
-    "primary_keyword_4",
-    "primary_keyword_5",
-    "primary_keyword_6",
-    "primary_keyword_7",
-    "primary_keyword_8"
+    "product_model (e.g., TK3+, LC-PS)",
+    "pressure_range (e.g., 130bar, 46bar)",
+    "temperature_range (e.g., -40°C, +125°C)",
+    "communication_protocol (e.g., MODBUS)",
+    "certification (e.g., ATEX, CE)",
+    "application (e.g., compressor, evaporator)",
+    "refrigerant (e.g., R134a, CO2)",
+    "feature (e.g., digital output, analog 4-20mA)"
   ],
   
   "keywords_synonyms": {{
-    "primary_keyword_1": ["synonym1", "synonym2", "synonym3", "synonym4"],
-    "primary_keyword_2": ["variant1", "variant2", "variant3"],
-    "primary_keyword_3": ["alternative1", "alternative2"]
+    "TK3+": ["TK3 plus", "TK3-plus", "TK 3+", "Teklab TK3+"],
+    "MODBUS": ["Modbus RTU", "Modbus protocol", "ModBus communication"],
+    "oil level": ["oil management", "lubrication control", "oil regulation"]
   }},
   
   "keywords_relations": {{
-    "keyword1": ["related_concept1", "related_concept2", "related_concept3"],
-    "keyword2": ["connection1", "connection2"]
+    "TK3+": ["oil level regulator", "compressor protection", "130bar capability"],
+    "MODBUS": ["digital communication", "BMS integration", "remote monitoring"]
   }},
   
   "iconic_quotes": [
-    "Powerful quote 1 that captures core teaching",
-    "Memorable quote 2 with spiritual insight",
-    "Impactful quote 3 that inspires transformation",
-    "Key phrase 4 that synthesizes principles"
+    "Key technical specification that defines product capability",
+    "Important compatibility or certification detail",
+    "Critical performance metric or accuracy statement",
+    "Unique feature or competitive advantage statement"
   ],
   
   "key_formulas": [
-    "Formula 1 = Concept A + Concept B → Result",
-    "Principle 2: Condition → Transformation",
-    "Process 3: Input × Action = Output"
+    "Operating Range = -40°C to +125°C",
+    "Pressure Capability: 46bar / 80bar / 130bar variants",
+    "Accuracy: ±X% or ±X mm at specified conditions"
   ],
   
   "natural_questions": [
-    "Deep question 1 about the core teaching?",
-    "Practical question 2 about application?",
-    "Philosophical question 3 about meaning?",
-    "Transformative question 4 about personal growth?",
-    "Integration question 5 about daily life?"
+    "Technical question 1 about product specifications?",
+    "Application question 2 about installation or setup?",
+    "Selection question 3 about choosing right model?",
+    "Compatibility question 4 about system integration?",
+    "Performance question 5 about accuracy or reliability?"
   ],
   
   "themes": [
-    "primary_theme",
-    "secondary_theme",
-    "tertiary_theme"
+    "product_category (Oil_Level_Regulators, Level_Switches, Sensors)",
+    "application_area (refrigeration, HVAC, industrial)",
+    "technical_focus (pressure, temperature, communication)"
   ],
   
   "difficulty_level": "beginner|intermediate|advanced",
   
-  "tone": "instructional|contemplative|inspirational|practical",
+  "tone": "technical|instructional|specification|application-focused",
   
   "prerequisites": [
-    "Concept or knowledge needed to understand this",
-    "Background understanding helpful"
+    "Technical knowledge needed to understand this product",
+    "System or application context required"
   ],
   
   "natural_followup": [
-    "Topic that naturally follows from this",
+    "Related product that naturally follows from this",
     "Related concept to explore next"
   ],
   
@@ -270,13 +269,13 @@ CRITICAL REQUIREMENTS:
 - Provide 6-10 primary keywords
 - Include 3-5 synonyms for each main keyword
 - Map semantic relationships between keywords
-- Select 3-5 most powerful quotes from the text
-- Create 3-5 key formulas/principles synthesizing the teachings
-- Generate 5-7 diverse natural questions (deep, practical, philosophical)
+- Select 3-5 most powerful technical quotes from the text
+- Create 3-5 key specifications/parameters defining the product
+- Generate 5-7 diverse natural questions (technical, practical, application-focused)
 - Identify 2-4 main themes
 - Assess difficulty level and tone
 - Note prerequisites and natural follow-up topics
-- Write comprehensive summary (3-5 sentences)
+- Write comprehensive technical summary (3-5 sentences)
 - RESPOND ONLY WITH VALID JSON - no markdown, no explanations"""
 
 
@@ -335,20 +334,20 @@ IMPORTANT:
 
 
 # ============================================================================
-# VALIDATION VARIANT - Quality check for generated chunks
+# VALIDATION VARIANT - Quality check for generated TEKLAB chunks
 # ============================================================================
 
-CHUNK_VALIDATION_PROMPT = """Analyze this generated chunk and validate its quality for a spiritual AI RAG system.
+CHUNK_VALIDATION_PROMPT = """Analyze this generated chunk and validate its quality for a Teklab B2B technical RAG system.
 
 CHUNK TO VALIDATE:
 {text}
 
 VALIDATION CRITERIA:
-1. Completeness: All required fields present?
-2. Accuracy: Metadata correctly extracted from source?
-3. Clarity: Concepts and keywords clear and specific?
-4. Relevance: Content appropriate for spiritual chatbot?
-5. Quality: Quotes meaningful, questions natural, summary comprehensive?
+1. Completeness: All required technical fields present (product specs, features, compatibility)?
+2. Accuracy: Technical metadata correctly extracted from product documentation?
+3. Clarity: Product models, specifications, and features clear and precise?
+4. Relevance: Content appropriate for B2B technical chatbot (industrial buyers, engineers)?
+5. Quality: Technical quotes meaningful, questions practical, summary comprehensive?
 
 Respond ONLY with valid JSON:
 
@@ -361,14 +360,14 @@ Respond ONLY with valid JSON:
   "quality_score": 0-100,
   "overall_score": 0-100,
   "issues": [
-    "Issue 1 description if any",
-    "Issue 2 description if any"
+    "Issue 1 description if any (e.g., missing pressure specifications)",
+    "Issue 2 description if any (e.g., unclear product model reference)"
   ],
   "suggestions": [
-    "Suggestion 1 for improvement",
-    "Suggestion 2 for improvement"
+    "Suggestion 1 for improvement (e.g., add refrigerant compatibility)",
+    "Suggestion 2 for improvement (e.g., clarify MODBUS protocol version)"
   ],
-  "validation_summary": "Brief assessment of the chunk quality"
+  "validation_summary": "Brief technical assessment of the chunk quality"
 }}
 
 Respond ONLY with JSON (no markdown, no extra text)."""
@@ -472,44 +471,47 @@ def get_variant_description(variant: str) -> str:
 
 
 # ============================================================================
-# SEMANTIC CHUNKING - AI identifies natural breakpoints
+# SEMANTIC CHUNKING - AI identifies natural breakpoints for TEKLAB PRODUCTS
 # ============================================================================
 
-SEMANTIC_CHUNKING_SYSTEM_PROMPT = """You are an expert at analyzing text structure and identifying natural semantic boundaries. You understand topic transitions, conceptual shifts, and logical flow in diverse content types."""
+SEMANTIC_CHUNKING_SYSTEM_PROMPT = """You are an expert at analyzing technical product documentation and identifying natural semantic boundaries. You understand product families, specification sections, feature descriptions, and technical flow in industrial B2B catalogs."""
 
-SEMANTIC_CHUNKING_PROMPT = """Analyze the following text and identify natural breakpoints where topics, concepts, or themes change significantly.
+SEMANTIC_CHUNKING_PROMPT = """Analyze the following technical product documentation and identify natural breakpoints where products, specifications, or features change significantly.
 
 TEXT TO ANALYZE:
 {text}
 
 Your task:
-1. Read the entire text carefully
+1. Read the entire technical documentation carefully
 2. Identify natural semantic boundaries where:
-   - A new major topic/concept begins
-   - There's a significant shift in focus or perspective
-   - A complete idea/teaching ends and another begins
-   - The narrative or argument transitions naturally
+   - A new product model begins (e.g., TK3+ → TK4)
+   - A new pressure class section starts (e.g., 46bar → 80bar → 130bar)
+   - Technical specifications change to different category (pressure → temperature → communication)
+   - Product family changes (Oil Level Regulators → Level Switches → Sensors)
+   - Application context shifts (compressor → evaporator → refrigeration system)
+   - A complete feature description ends and another begins
 3. Consider optimal chunk size: aim for 400-1000 words per chunk, but PRIORITIZE semantic coherence over strict size
-4. Each chunk should be self-contained and meaningful on its own
+4. Each chunk should be self-contained and meaningful for B2B technical search
 
 Respond ONLY with a JSON array of breakpoint positions (paragraph numbers, 0-indexed):
 
 {{
   "breakpoints": [3, 7, 12, 18],
   "reasoning": [
-    "Paragraph 3: Transition from introduction to first main concept",
-    "Paragraph 7: Shift from theory to practical application",
-    "Paragraph 12: New topic about meditation techniques begins",
-    "Paragraph 18: Conclusion and integration section starts"
+    "Paragraph 3: Transition from TK3+ specifications to TK4 product line",
+    "Paragraph 7: Shift from pressure specs to communication protocols (MODBUS)",
+    "Paragraph 12: New product family LC Series level switches begins",
+    "Paragraph 18: Application section for compressor integration starts"
   ]
 }}
 
 IMPORTANT:
 - Respond ONLY with valid JSON
 - Breakpoints are paragraph indices (0-based)
-- Include brief reasoning for each breakpoint
-- If text is short (<500 words), return empty breakpoints: {{"breakpoints": [], "reasoning": ["Text is cohesive as single chunk"]}}
-- If text is very long, don't create too many tiny chunks - aim for meaningful, substantial sections"""
+- Include brief technical reasoning for each breakpoint
+- If text is short (<500 words), return empty breakpoints: {{"breakpoints": [], "reasoning": ["Product description is cohesive as single chunk"]}}
+- If text is very long, don't create too many tiny chunks - aim for meaningful product/feature sections
+- Prioritize keeping product specifications together (don't split TK3+ 130bar specs across chunks)"""
 
 
 # ============================================================================
@@ -531,5 +533,5 @@ __all__ = [
     'get_variant_description'
 ]
 
-__version__ = '1.0.0'
-__author__ = 'Spirituality.AI Team'
+__version__ = '2.0.0'
+__author__ = 'Teklab AI Team'
