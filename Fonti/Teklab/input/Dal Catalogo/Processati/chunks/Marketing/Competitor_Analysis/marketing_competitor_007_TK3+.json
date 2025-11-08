@@ -1,0 +1,92 @@
+{
+    "id": "marketing_competitor_007_TK3+",
+    "original_text": "CONFRONTO COMPETITOR: TK3+\n\nCategoria: Marketing - Oil Regulator Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38/ORV, Emerson OLR, Alco OLR Series, Sporlan ORCB\n\nQ: TK3+ vs Danfoss AKS 38 per controllo livello olio: differenze?\nA: TK3+ e Danfoss AKS 38 sono entrambi regolatori elettronici con sensore ottico. Vantaggio TK3+: disponibile in 3 versioni pressione (46/80/130 bar) per copertura totale applicazioni con UNICO SKU. Danfoss richiede modelli separati. TK3+ ha valvola solenoide integrata per rabbocco automatico + relè allarme per protezione compressore. Livello tecnologico: EQUIVALENTE. Setup: TK3+ più semplice (soluzione stand-alone completa).\nApplicazione: Controllo livello olio compressori HFC/HFO, ammoniaca, CO2\n\nQ: Quali versioni pressione TK3+ esistono e quando usarle?\nA: TK3+ disponibile in 3 versioni: 1) 46 bar - Sistemi HFC/HFO standard (R134a, R404A, R410A, R407C). 2) 80 bar - Ammoniaca R717 (impianti industriali alimentari). 3) 130 bar - CO2 transcritico R744 (supermercati, cold storage). Vantaggio: stesso design meccanico, stessa installazione, solo differenza pressione differenziale supportata. Riduce SKU magazzino e semplifica selezione prodotto.\nApplicazione: Qualsiasi applicazione refrigerazione da bassa a alta pressione\n\nQ: TK3+ vs Emerson OLR: quale ha diagnostica migliore?\nA: Emerson OLR ha versioni con diagnostica integrata avanzata (superiore), ma TK3+ offre 3 versioni pressione multi-applicazione (più versatile). Trade-off: Emerson migliore per monitoraggio sofisticato, TK3+ migliore per versatilità e riduzione stock. TK3+ ha relè allarme standard per protezione base. Livello tecnologico: TK3+ EQUIVALENTE per regolazione base, Emerson SUPERIORE per diagnostica avanzata.\nApplicazione: TK3+ per applicazioni standard, Emerson per impianti critici con monitoraggio\n\nQ: TK3+ può sostituire Alco OLR meccanico?\nA: Sì, TK3+ sostituisce Alco OLR con upgrade tecnologico significativo. Alco OLR usa galleggiante meccanico (parti mobili, usura, falsi allarmi), TK3+ usa sensore ottico capacitivo elettronico (nessuna parte mobile, maggiore precisione, durata 2x). Retrofit: ⭐⭐⭐⭐ Facile - filettature standard compressori. Livello tecnologico: SUPERIORE (elettronico vs meccanico a galleggiante).\nApplicazione: Upgrade compressori con OLR meccanici legacy\n\nQ: Come funziona rabbocco automatico olio TK3+?\nA: TK3+ integra sensore ottico livello + valvola solenoide + logica controllo elettronica. Funzionamento: 1) Sensore rileva livello olio sceso sotto soglia. 2) Elettronica attiva valvola solenoide per aprire linea rabbocco. 3) Olio fluisce da riserva a carter compressore. 4) Sensore rileva livello ripristinato, chiude valvola. 5) Se livello resta basso (anomalia), attiva relè allarme per protezione compressore. Tutto automatico 24/7, nessun intervento manuale.\nApplicazione: Compressori con rischio basso livello olio (impianti lunghi, rack)\n\n\nVantaggi Competitivi: UNICO con 3 versioni pressione (46/80/130 bar) = copertura 100% applicazioni con riduzione SKU 66%. Sensore ottico elettronico superiore a competitor meccanici (Alco). Soluzione stand-alone completa (sensore + valvola + allarme integrati). Equivalente ai premium brands elettronici (Danfoss, Emerson base).\nFacilità Retrofit: ⭐⭐⭐⭐ Facile - Filettature standard compressori, connessioni elettriche semplici (relè SPDT universale). Configurazione minima richiesta.\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products compare to competitors (Danfoss, Emerson, Carel, etc.) and guide them in making informed purchasing decisions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab competitive analysis):\n\n[Marketing - Oil Regulator Comparison] - TK3+ vs Competitors\n\nCONFRONTO COMPETITOR: TK3+\n\nCategoria: Marketing - Oil Regulator Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38/ORV, Emerson OLR, Alco OLR Series, Sporlan ORCB\n\nQ: TK3+ vs Danfoss AKS 38 per controllo livello olio: differenze?\nA: TK3+ e Danfoss AKS 38 sono entrambi regolatori elettronici con sensore ottico. Vantaggio TK3+: disponibile in 3 versioni pressione (46/80/130 bar) per copertura totale applicazioni con UNICO SKU. Danfoss richiede modelli separati. TK3+ ha valvola solenoide integrata per rabbocco automatico + relè allarme per protezione compressore. Livello tecnologico: EQUIVALENTE. Setup: TK3+ più semplice (soluzione stand-alone completa).\nApplicazione: Controllo livello olio compressori HFC/HFO, ammoniaca, CO2\n\nQ: Quali versioni pressione TK3+ esistono e quando usarle?\nA: TK3+ disponibile in 3 versioni: 1) 46 bar - Sistemi HFC/HFO standard (R134a, R404A, R410A, R407C). 2) 80 bar - Ammoniaca R717 (impianti industriali alimentari). 3) 130 bar - CO2 transcritico R744 (supermercati, cold storage). Vantaggio: stesso design meccanico, stessa installazione, solo differenza pressione differenziale supportata. Riduce SKU magazzino e semplifica selezione prodotto.\nApplicazione: Qualsiasi applicazione refrigerazione da bassa a alta pressione\n\nQ: TK3+ vs Emerson OLR: quale ha diagnostica migliore?\nA: Emerson OLR ha versioni con diagnostica integrata avanzata (superiore), ma TK3+ offre 3 versioni pressione multi-applicazione (più versatile). Trade-off: Emerson migliore per monitoraggio sofisticato, TK3+ migliore per versatilità e riduzione stock. TK3+ ha relè allarme standard per protezione base. Livello tecnologico: TK3+ EQUIVALENTE per regolazione base, Emerson SUPERIORE per diagnostica avanzata.\nApplicazione: TK3+ per applicazioni standard, Emerson per impianti critici con monitoraggio\n\nQ: TK3+ può sostituire Alco OLR meccanico?\nA: Sì, TK3+ sostituisce Alco OLR con upgrade tecnologico significativo. Alco OLR usa galleggiante meccanico (parti mobili, usura, falsi allarmi), TK3+ usa sensore ottico capacitivo elettronico (nessuna parte mobile, maggiore precisione, durata 2x). Retrofit: ⭐⭐⭐⭐ Facile - filettature standard compressori. Livello tecnologico: SUPERIORE (elettronico vs meccanico a galleggiante).\nApplicazione: Upgrade compressori con OLR meccanici legacy\n\nQ: Come funziona rabbocco automatico olio TK3+?\nA: TK3+ integra sensore ottico livello + valvola solenoide + logica controllo elettronica. Funzionamento: 1) Sensore rileva livello olio sceso sotto soglia. 2) Elettronica attiva valvola solenoide per aprire linea rabbocco. 3) Olio fluisce da riserva a carter compressore. 4) Sensore rileva livello ripristinato, chiude valvola. 5) Se livello resta basso (anomalia), attiva relè allarme per protezione compressore. Tutto automatico 24/7, nessun intervento manuale.\nApplicazione: Compressori con rischio basso livello olio (impianti lunghi, rack)\n\n\nVantaggi Competitivi: UNICO con 3 versioni pressione (46/80/130 bar) = copertura 100% applicazioni con riduzione SKU 66%. Sensore ottico elettronico superiore a competitor meccanici (Alco). Soluzione stand-alone completa (sensore + valvola + allarme integrati). Equivalente ai premium brands elettronici (Danfoss, Emerson base).\nFacilità Retrofit: ⭐⭐⭐⭐ Facile - Filettature standard compressori, connessioni elettriche semplici (relè SPDT universale). Configurazione minima richiesta.\n\n\n---\n\nProvide competitive analysis and product comparison guidance."
+        },
+        {
+            "role": "assistant",
+            "content": "TK3+ competitive positioning: UNICO con 3 versioni pressione (46/80/130 bar) = copertura 100% applicazioni con riduzione SKU 66%. Sensore ottico elettronico superiore a competitor meccanici (Alco). Soluzione stand-alone completa (sensore + valvola + allarme integrati). Equivalente ai premium brands elettronici (Danfoss, Emerson base)."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_competitor_007_TK3+",
+        "file_source": "Marketing_Competitor_Analysis",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ - Competitor Comparison",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Competitive Analysis",
+        "product_category": "Marketing - Oil Regulator Comparison",
+        "teklab_product": "TK3+",
+        "competitors": "Danfoss AKS 38/ORV, Emerson OLR, Alco OLR Series, Sporlan ORCB",
+        "qa_pairs": [
+            {
+                "question": "TK3+ vs Danfoss AKS 38 per controllo livello olio: differenze?",
+                "answer": "TK3+ e Danfoss AKS 38 sono entrambi regolatori elettronici con sensore ottico. Vantaggio TK3+: disponibile in 3 versioni pressione (46/80/130 bar) per copertura totale applicazioni con UNICO SKU. Danfoss richiede modelli separati. TK3+ ha valvola solenoide integrata per rabbocco automatico + relè allarme per protezione compressore. Livello tecnologico: EQUIVALENTE. Setup: TK3+ più semplice (soluzione stand-alone completa)."
+            },
+            {
+                "question": "Quali versioni pressione TK3+ esistono e quando usarle?",
+                "answer": "TK3+ disponibile in 3 versioni: 1) 46 bar - Sistemi HFC/HFO standard (R134a, R404A, R410A, R407C). 2) 80 bar - Ammoniaca R717 (impianti industriali alimentari). 3) 130 bar - CO2 transcritico R744 (supermercati, cold storage). Vantaggio: stesso design meccanico, stessa installazione, solo differenza pressione differenziale supportata. Riduce SKU magazzino e semplifica selezione prodotto."
+            },
+            {
+                "question": "TK3+ vs Emerson OLR: quale ha diagnostica migliore?",
+                "answer": "Emerson OLR ha versioni con diagnostica integrata avanzata (superiore), ma TK3+ offre 3 versioni pressione multi-applicazione (più versatile). Trade-off: Emerson migliore per monitoraggio sofisticato, TK3+ migliore per versatilità e riduzione stock. TK3+ ha relè allarme standard per protezione base. Livello tecnologico: TK3+ EQUIVALENTE per regolazione base, Emerson SUPERIORE per diagnostica avanzata."
+            },
+            {
+                "question": "TK3+ può sostituire Alco OLR meccanico?",
+                "answer": "Sì, TK3+ sostituisce Alco OLR con upgrade tecnologico significativo. Alco OLR usa galleggiante meccanico (parti mobili, usura, falsi allarmi), TK3+ usa sensore ottico capacitivo elettronico (nessuna parte mobile, maggiore precisione, durata 2x). Retrofit: ⭐⭐⭐⭐ Facile - filettature standard compressori. Livello tecnologico: SUPERIORE (elettronico vs meccanico a galleggiante)."
+            },
+            {
+                "question": "Come funziona rabbocco automatico olio TK3+?",
+                "answer": "TK3+ integra sensore ottico livello + valvola solenoide + logica controllo elettronica. Funzionamento: 1) Sensore rileva livello olio sceso sotto soglia. 2) Elettronica attiva valvola solenoide per aprire linea rabbocco. 3) Olio fluisce da riserva a carter compressore. 4) Sensore rileva livello ripristinato, chiude valvola. 5) Se livello resta basso (anomalia), attiva relè allarme per protezione compressore. Tutto automatico 24/7, nessun intervento manuale."
+            }
+        ],
+        "competitive_advantages": "UNICO con 3 versioni pressione (46/80/130 bar) = copertura 100% applicazioni con riduzione SKU 66%. Sensore ottico elettronico superiore a competitor meccanici (Alco). Soluzione stand-alone completa (sensore + valvola + allarme integrati). Equivalente ai premium brands elettronici (Danfoss, Emerson base).",
+        "retrofit_ease": "⭐⭐⭐⭐ Facile - Filettature standard compressori, connessioni elettriche semplici (relè SPDT universale). Configurazione minima richiesta.",
+        "keywords_primary": [
+            "product_model (TK3+)",
+            "pressure_range (46/80/130 bar)",
+            "competitor (Danfoss AKS/ORV, Emerson OLR, Alco OLR)",
+            "feature (3 pressure versions, optical sensor, integrated valve, standalone)",
+            "application (oil level regulation, HFC/ammonia/CO2, compressor protection)"
+        ],
+        "keywords_synonyms": {
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "regolatore livello olio"
+            ],
+            "optical sensor": [
+                "electro-optic",
+                "ottico capacitivo"
+            ],
+            "standalone": [
+                "autonomous",
+                "self-contained"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_versions": [
+                "46 bar HFC/HFO",
+                "80 bar ammonia R717",
+                "130 bar CO2 transcritical"
+            ],
+            "advantages": [
+                "optical vs float",
+                "no moving parts",
+                "2x durability"
+            ],
+            "applications": [
+                "compressor lubrication",
+                "rack systems",
+                "long piping systems"
+            ]
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": "marketing_innovation_002_K25",
+    "original_text": "INNOVAZIONE TEKLAB: K25 - Primo Sensore 2-in-1 Livello + Temperatura CO2\n\nK25 è il PRIMO E UNICO sensore mondiale che integra rilevamento livello liquido + misurazione temperatura in singolo corpo per sistemi CO2 transcritico (150 bar). PRODOTTO RIVOLUZIONARIO - tutti competitor (Danfoss, HBControls, Emerson, Carel) richiedono 2 sensori separati.\n\nPERCHÉ È UNICO:\nSistemi CO2 transcritico richiedono monitoraggio simultaneo livello (ricevitore) e temperatura (ottimizzazione efficienza, protezione surriscaldamento). Tradizionalmente: 2 sensori separati = 2 installazioni, 2 punti perdita, 2 calibrazioni. Teklab ha integrato dual-sensing in singolo device con calibrazione factory unica. Nessun competitor ha equivalente.\n\nVANTAGGI CONCRETI:\n• Singola installazione vs 2 separate (risparmio 50% manodopera = 30-60 min = 30-60€)\n• Singolo punto perdita vs 2 (riduzione 50% rischio perdite R744, valore refrigerante + impatto ambientale)\n• Costo device inferiore: 1 sensore vs 2 (risparmio tipico 200-300€ hardware)\n• Calibrazione factory unica: livello + temperatura calibrati insieme (precisione superiore)\n• Output dual: NPN digitale livello (ON/OFF) + 4-20mA analogico temperatura (-50 a +150°C, ±0.5°C)\n• ROI immediato: payback <1 installazione\n\nCOMPATIBILITÀ:\nSistemi CO2 transcritico R744 fino a 150 bar. Range temperatura: -50 a +150°C (copertura completa ciclo transcritico). Output: NPN + 4-20mA standard industriale.\n\nAPPLICAZIONI TIPICHE:\nRicevitori liquido CO2 transcritico supermercati, cold storage, impianti industriali alimentari. Monitoraggio gas discharge alta temperatura. Ottimizzazione controllo heat rejection.\n\nDOMANDE FREQUENTI:\n\nQ: Output 4-20mA temperatura: serve convertitore per PLC?\nA: No, 4-20mA è standard industriale universale. PLC con moduli input analogici leggono direttamente mA. Più semplice di PT1000 che richiede convertitore o modulo specifico. Vantaggio: immunità disturbi elettrici, cablaggio lungo supportato (max 1000m).\n\nQ: K25 può sostituire 2 sensori Danfoss esistenti?\nA: Sì, retrofit possibile ma valuta trade-off. Vantaggi: riduzione a 1 foro (richiude foro extra), risparmio manutenzione futura. Svantaggi: se sensori attuali funzionano, investimento iniziale K25. Consigliato per: nuove installazioni, retrofit con sensori guasti, progetti dove riduzione perdite è critica.\n\n\nTESTIMONIANZA CLIENTE:\n\"Prima ordinavamo sensore livello Danfoss + sensore temperatura separato: 2 ore installazione, 2 fori nel ricevitore, costo doppio. Con K25: tutto integrato, 30 minuti, un foro solo. E costa meno di 2 sensori separati!\"\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differentiators. Help customers understand Teklab's exclusive features and the value they bring to their applications."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab unique innovations):\n\n[Innovazioni Uniche Teklab] - K25 - Primo Sensore 2-in-1 Livello + Temperatura CO2\n\nINNOVAZIONE TEKLAB: K25 - Primo Sensore 2-in-1 Livello + Temperatura CO2\n\nK25 è il PRIMO E UNICO sensore mondiale che integra rilevamento livello liquido + misurazione temperatura in singolo corpo per sistemi CO2 transcritico (150 bar). PRODOTTO RIVOLUZIONARIO - tutti competitor (Danfoss, HBControls, Emerson, Carel) richiedono 2 sensori separati.\n\nPERCHÉ È UNICO:\nSistemi CO2 transcritico richiedono monitoraggio simultaneo livello (ricevitore) e temperatura (ottimizzazione efficienza, protezione surriscaldamento). Tradizionalmente: 2 sensori separati = 2 installazioni, 2 punti perdita, 2 calibrazioni. Teklab ha integrato dual-sensing in singolo device con calibrazione factory unica. Nessun competitor ha equivalente.\n\nVANTAGGI CONCRETI:\n• Singola installazione vs 2 separate (risparmio 50% manodopera = 30-60 min = 30-60€)\n• Singolo punto perdita vs 2 (riduzione 50% rischio perdite R744, valore refrigerante + impatto ambientale)\n• Costo device inferiore: 1 sensore vs 2 (risparmio tipico 200-300€ hardware)\n• Calibrazione factory unica: livello + temperatura calibrati insieme (precisione superiore)\n• Output dual: NPN digitale livello (ON/OFF) + 4-20mA analogico temperatura (-50 a +150°C, ±0.5°C)\n• ROI immediato: payback <1 installazione\n\nCOMPATIBILITÀ:\nSistemi CO2 transcritico R744 fino a 150 bar. Range temperatura: -50 a +150°C (copertura completa ciclo transcritico). Output: NPN + 4-20mA standard industriale.\n\nAPPLICAZIONI TIPICHE:\nRicevitori liquido CO2 transcritico supermercati, cold storage, impianti industriali alimentari. Monitoraggio gas discharge alta temperatura. Ottimizzazione controllo heat rejection.\n\nDOMANDE FREQUENTI:\n\nQ: Output 4-20mA temperatura: serve convertitore per PLC?\nA: No, 4-20mA è standard industriale universale. PLC con moduli input analogici leggono direttamente mA. Più semplice di PT1000 che richiede convertitore o modulo specifico. Vantaggio: immunità disturbi elettrici, cablaggio lungo supportato (max 1000m).\n\nQ: K25 può sostituire 2 sensori Danfoss esistenti?\nA: Sì, retrofit possibile ma valuta trade-off. Vantaggi: riduzione a 1 foro (richiude foro extra), risparmio manutenzione futura. Svantaggi: se sensori attuali funzionano, investimento iniziale K25. Consigliato per: nuove installazioni, retrofit con sensori guasti, progetti dove riduzione perdite è critica.\n\n\nTESTIMONIANZA CLIENTE:\n\"Prima ordinavamo sensore livello Danfoss + sensore temperatura separato: 2 ore installazione, 2 fori nel ricevitore, costo doppio. Con K25: tutto integrato, 30 minuti, un foro solo. E costa meno di 2 sensori separati!\"\n\n\n---\n\nExplain this unique Teklab innovation and its benefits."
+        },
+        {
+            "role": "assistant",
+            "content": "K25 - Primo Sensore 2-in-1 Livello + Temperatura CO2: K25 è il PRIMO E UNICO sensore mondiale che integra rilevamento livello liquido + misurazione temperatura in singolo corpo per sistemi CO2 transcritico (150 bar). PRODOTTO RIVOLUZIONARIO - tutti compe..."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_innovation_002_K25",
+        "file_source": "Marketing_Value_Proposition",
+        "chunk_number": 1,
+        "chunk_title": "K25 - Primo Sensore 2-in-1 Livello + Temperatura CO2",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Unique Innovation",
+        "product_category": "Value Proposition",
+        "innovation_name": "K25 - Primo Sensore 2-in-1 Livello + Temperatura CO2",
+        "qa_pairs": [
+            {
+                "question": "Output 4-20mA temperatura: serve convertitore per PLC?",
+                "answer": "No, 4-20mA è standard industriale universale. PLC con moduli input analogici leggono direttamente mA. Più semplice di PT1000 che richiede convertitore o modulo specifico. Vantaggio: immunità disturbi elettrici, cablaggio lungo supportato (max 1000m)."
+            },
+            {
+                "question": "K25 può sostituire 2 sensori Danfoss esistenti?",
+                "answer": "Sì, retrofit possibile ma valuta trade-off. Vantaggi: riduzione a 1 foro (richiude foro extra), risparmio manutenzione futura. Svantaggi: se sensori attuali funzionano, investimento iniziale K25. Consigliato per: nuove installazioni, retrofit con sensori guasti, progetti dove riduzione perdite è critica."
+            }
+        ],
+        "advantages": [
+            "Singola installazione vs 2 separate (risparmio 50% manodopera = 30-60 min = 30-60€)",
+            "Singolo punto perdita vs 2 (riduzione 50% rischio perdite R744, valore refrigerante + impatto ambientale)",
+            "Costo device inferiore: 1 sensore vs 2 (risparmio tipico 200-300€ hardware)",
+            "Calibrazione factory unica: livello + temperatura calibrati insieme (precisione superiore)",
+            "Output dual: NPN digitale livello (ON/OFF) + 4-20mA analogico temperatura (-50 a +150°C, ±0.5°C)",
+            "ROI immediato: payback <1 installazione"
+        ],
+        "applications": "Ricevitori liquido CO2 transcritico supermercati, cold storage, impianti industriali alimentari. Monitoraggio gas discharge alta temperatura. Ottimizzazione controllo heat rejection.",
+        "compatibility": "Sistemi CO2 transcritico R744 fino a 150 bar. Range temperatura: -50 a +150°C (copertura completa ciclo transcritico). Output: NPN + 4-20mA standard industriale.",
+        "keywords_primary": [
+            "innovation (2-in-1 level + temperature)",
+            "unique_product (only CO2 combo globally)",
+            "savings (50% installation, 200-300€ hardware)",
+            "feature (NPN + 4-20mA, single calibration, one leak point)",
+            "application (CO2 transcritical, dual sensing, gas discharge)"
+        ],
+        "keywords_synonyms": {
+            "2-in-1": [
+                "dual sensor",
+                "integrated combo",
+                "two-in-one"
+            ],
+            "revolutionary": [
+                "market first",
+                "game changer",
+                "innovation exclusive"
+            ]
+        },
+        "keywords_relations": {
+            "vs_competitors": [
+                "1 sensor vs 2 Danfoss",
+                "1 installation vs 2",
+                "1 hole vs 2"
+            ],
+            "4-20mA_benefits": [
+                "no PT1000 converter",
+                "universal PLC",
+                "long cabling",
+                "noise immunity"
+            ],
+            "ROI": [
+                "immediate payback",
+                "30-60€ labor",
+                "200-300€ hardware",
+                "50% leak risk"
+            ]
+        }
+    }
+}

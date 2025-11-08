@@ -1,0 +1,81 @@
+{
+    "id": "marketing_innovation_006_TK4MB",
+    "original_text": "INNOVAZIONE TEKLAB: TK4MB - Tripla Interfaccia (Relè + NFC + Modbus RTU)\n\nTK4MB è l'oil level regulator con TRIPLA INTERFACCIA unica: 1) Relè allarme (protezione base standalone). 2) NFC wireless (configurazione locale rapida smartphone). 3) Modbus RTU (supervisione PLC/SCADA centralizzata). NESSUN competitor offre combinazione completa - massima flessibilità architetturale.\n\nPERCHÉ È UNICO:\nOil regulators tradizionali: o standalone (relè solo) o bus (Modbus/BACnet solo). TK4MB offre ENTRAMBI + NFC: funziona standalone out-of-box (relè), configurabile on-site (NFC), integrabile supervisione (Modbus RTU). Architetto sistema sceglie livello integrazione necessario. Competitor richiedono device separati per ogni livello.\n\nVANTAGGI CONCRETI:\n• Flessibilità deployment: stesso device per standalone, supervisione locale, o Industria 4.0 centralizzata\n• Riduzione SKU: 1 prodotto copre tutti use case (vs 3 modelli separati competitor)\n• Setup rapido NFC: configurazione device prima di integrazione Modbus (risparmio commissioning)\n• Modbus RTU robusto: RS485 2 fili, max 1200m, no switch/router necessari (vs Modbus TCP competitor)\n• Diagnostica multi-livello: relè per allarme locale, NFC per diagnostica on-site, Modbus per analytics centralizzati\n• Registri Modbus esposti: livello real-time, stato valvola, allarmi, cicli rabbocco, configurazione remota parametri\n\nCOMPATIBILITÀ:\n3 versioni pressione: 46/80/130 bar. Modbus RTU RS485 (9600/19200/38400 bps configurabile). Max 32 device su bus. Compatibile PLC: Siemens, Schneider, Allen-Bradley, Omron. SCADA: WinCC, InTouch, FactoryTalk, Ignition.\n\nAPPLICAZIONI TIPICHE:\nSupermercati catene (supervisione centralizzata + manutenzione locale NFC), impianti industriali complessi (PLC integration + diagnostica on-site), retrofit Industria 4.0 (aggiungi Modbus a impianti standalone esistenti).\n\nDOMANDE FREQUENTI:\n\nQ: TK4MB Modbus RTU vs Danfoss Modbus TCP: quale scegliere?\nA: Trade-off architetturali. Modbus RTU (TK4MB): RS485 2 fili, robusto, economico, no infrastruttura Ethernet, max 1200m. Modbus TCP (Danfoss): Ethernet, veloce, flessibile, richiede switch/router, costo maggiore. Scelta: RTU per impianti senza Ethernet o dove robustezza è critica, TCP per impianti IT-integrated moderni. TK4MB ottimizza per costo/robustezza industriale.\n\nQ: TK4MB può funzionare senza Modbus come TK4 semplice?\nA: Sì, assolutamente. TK4MB funziona standalone out-of-box (relè allarme). Modbus è opzionale: se non colleghi RS485, device funziona identico a TK4 (relè + NFC). Flessibilità: installi oggi standalone, domani aggiungi Modbus se serve supervisione. No necessità ricablaggio (RS485 già presente).\n\n\nTESTIMONIANZA CLIENTE:\n\"Abbiamo 200 store: alcuni con SCADA (serve Modbus), altri standalone (serve solo relè). Prima: ordinavamo 2 modelli separati. Con TK4MB: 1 modello unico, configuriamo on-site con NFC se serve Modbus o no. Stock semplificato, flessibilità totale.\"\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differentiators. Help customers understand Teklab's exclusive features and the value they bring to their applications."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab unique innovations):\n\n[Innovazioni Uniche Teklab] - TK4MB - Tripla Interfaccia (Relè + NFC + Modbus RTU)\n\nINNOVAZIONE TEKLAB: TK4MB - Tripla Interfaccia (Relè + NFC + Modbus RTU)\n\nTK4MB è l'oil level regulator con TRIPLA INTERFACCIA unica: 1) Relè allarme (protezione base standalone). 2) NFC wireless (configurazione locale rapida smartphone). 3) Modbus RTU (supervisione PLC/SCADA centralizzata). NESSUN competitor offre combinazione completa - massima flessibilità architetturale.\n\nPERCHÉ È UNICO:\nOil regulators tradizionali: o standalone (relè solo) o bus (Modbus/BACnet solo). TK4MB offre ENTRAMBI + NFC: funziona standalone out-of-box (relè), configurabile on-site (NFC), integrabile supervisione (Modbus RTU). Architetto sistema sceglie livello integrazione necessario. Competitor richiedono device separati per ogni livello.\n\nVANTAGGI CONCRETI:\n• Flessibilità deployment: stesso device per standalone, supervisione locale, o Industria 4.0 centralizzata\n• Riduzione SKU: 1 prodotto copre tutti use case (vs 3 modelli separati competitor)\n• Setup rapido NFC: configurazione device prima di integrazione Modbus (risparmio commissioning)\n• Modbus RTU robusto: RS485 2 fili, max 1200m, no switch/router necessari (vs Modbus TCP competitor)\n• Diagnostica multi-livello: relè per allarme locale, NFC per diagnostica on-site, Modbus per analytics centralizzati\n• Registri Modbus esposti: livello real-time, stato valvola, allarmi, cicli rabbocco, configurazione remota parametri\n\nCOMPATIBILITÀ:\n3 versioni pressione: 46/80/130 bar. Modbus RTU RS485 (9600/19200/38400 bps configurabile). Max 32 device su bus. Compatibile PLC: Siemens, Schneider, Allen-Bradley, Omron. SCADA: WinCC, InTouch, FactoryTalk, Ignition.\n\nAPPLICAZIONI TIPICHE:\nSupermercati catene (supervisione centralizzata + manutenzione locale NFC), impianti industriali complessi (PLC integration + diagnostica on-site), retrofit Industria 4.0 (aggiungi Modbus a impianti standalone esistenti).\n\nDOMANDE FREQUENTI:\n\nQ: TK4MB Modbus RTU vs Danfoss Modbus TCP: quale scegliere?\nA: Trade-off architetturali. Modbus RTU (TK4MB): RS485 2 fili, robusto, economico, no infrastruttura Ethernet, max 1200m. Modbus TCP (Danfoss): Ethernet, veloce, flessibile, richiede switch/router, costo maggiore. Scelta: RTU per impianti senza Ethernet o dove robustezza è critica, TCP per impianti IT-integrated moderni. TK4MB ottimizza per costo/robustezza industriale.\n\nQ: TK4MB può funzionare senza Modbus come TK4 semplice?\nA: Sì, assolutamente. TK4MB funziona standalone out-of-box (relè allarme). Modbus è opzionale: se non colleghi RS485, device funziona identico a TK4 (relè + NFC). Flessibilità: installi oggi standalone, domani aggiungi Modbus se serve supervisione. No necessità ricablaggio (RS485 già presente).\n\n\nTESTIMONIANZA CLIENTE:\n\"Abbiamo 200 store: alcuni con SCADA (serve Modbus), altri standalone (serve solo relè). Prima: ordinavamo 2 modelli separati. Con TK4MB: 1 modello unico, configuriamo on-site con NFC se serve Modbus o no. Stock semplificato, flessibilità totale.\"\n\n\n---\n\nExplain this unique Teklab innovation and its benefits."
+        },
+        {
+            "role": "assistant",
+            "content": "TK4MB - Tripla Interfaccia (Relè + NFC + Modbus RTU): TK4MB è l'oil level regulator con TRIPLA INTERFACCIA unica: 1) Relè allarme (protezione base standalone). 2) NFC wireless (configurazione locale rapida smartphone). 3) Modbus RTU (supervisione PLC/SCA..."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_innovation_006_TK4MB",
+        "file_source": "Marketing_Value_Proposition",
+        "chunk_number": 1,
+        "chunk_title": "TK4MB - Tripla Interfaccia (Relè + NFC + Modbus RTU)",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Unique Innovation",
+        "product_category": "Value Proposition",
+        "innovation_name": "TK4MB - Tripla Interfaccia (Relè + NFC + Modbus RTU)",
+        "qa_pairs": [
+            {
+                "question": "TK4MB Modbus RTU vs Danfoss Modbus TCP: quale scegliere?",
+                "answer": "Trade-off architetturali. Modbus RTU (TK4MB): RS485 2 fili, robusto, economico, no infrastruttura Ethernet, max 1200m. Modbus TCP (Danfoss): Ethernet, veloce, flessibile, richiede switch/router, costo maggiore. Scelta: RTU per impianti senza Ethernet o dove robustezza è critica, TCP per impianti IT-integrated moderni. TK4MB ottimizza per costo/robustezza industriale."
+            },
+            {
+                "question": "TK4MB può funzionare senza Modbus come TK4 semplice?",
+                "answer": "Sì, assolutamente. TK4MB funziona standalone out-of-box (relè allarme). Modbus è opzionale: se non colleghi RS485, device funziona identico a TK4 (relè + NFC). Flessibilità: installi oggi standalone, domani aggiungi Modbus se serve supervisione. No necessità ricablaggio (RS485 già presente)."
+            }
+        ],
+        "advantages": [
+            "Flessibilità deployment: stesso device per standalone, supervisione locale, o Industria 4.0 centralizzata",
+            "Riduzione SKU: 1 prodotto copre tutti use case (vs 3 modelli separati competitor)",
+            "Setup rapido NFC: configurazione device prima di integrazione Modbus (risparmio commissioning)",
+            "Modbus RTU robusto: RS485 2 fili, max 1200m, no switch/router necessari (vs Modbus TCP competitor)",
+            "Diagnostica multi-livello: relè per allarme locale, NFC per diagnostica on-site, Modbus per analytics centralizzati",
+            "Registri Modbus esposti: livello real-time, stato valvola, allarmi, cicli rabbocco, configurazione remota parametri"
+        ],
+        "applications": "Supermercati catene (supervisione centralizzata + manutenzione locale NFC), impianti industriali complessi (PLC integration + diagnostica on-site), retrofit Industria 4.0 (aggiungi Modbus a impianti standalone esistenti).",
+        "compatibility": "3 versioni pressione: 46/80/130 bar. Modbus RTU RS485 (9600/19200/38400 bps configurabile). Max 32 device su bus. Compatibile PLC: Siemens, Schneider, Allen-Bradley, Omron. SCADA: WinCC, InTouch, FactoryTalk, Ignition.",
+        "keywords_primary": [
+            "innovation (NFC wireless config)",
+            "unique_product (first NFC oil regulator globally)",
+            "savings (95% time, 30 sec vs 10 min)",
+            "feature (smartphone app, diagnostic history, no panel opening)",
+            "application (rapid commissioning, field maintenance, multi-site)"
+        ],
+        "keywords_synonyms": {
+            "NFC": [
+                "Near Field Communication",
+                "wireless",
+                "contactless"
+            ],
+            "first globally": [
+                "market pioneer",
+                "innovation leader"
+            ]
+        },
+        "keywords_relations": {
+            "vs_BLE": [
+                "tap-and-go vs pairing",
+                "<5cm vs 10m range",
+                "higher security"
+            ],
+            "time_savings": [
+                "30 sec config",
+                "no panel access",
+                "instant diagnostics"
+            ],
+            "ROI_example": [
+                "10 devices = 95 min saved = 1.5h labor (90-150€)"
+            ]
+        }
+    }
+}

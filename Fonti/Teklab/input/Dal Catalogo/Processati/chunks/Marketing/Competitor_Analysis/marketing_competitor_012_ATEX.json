@@ -1,0 +1,105 @@
+{
+    "id": "marketing_competitor_012_ATEX",
+    "original_text": "CONFRONTO COMPETITOR: ATEX\n\nCategoria: Marketing - Sensor Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38 ATEX, Honeywell Smart Sensor ATEX, Saginomiya SNS-ATEX\n\nQ: Cos'è il sensore ATEX Teklab e quando è obbligatorio?\nA: Sensore ATEX Teklab è certificato per zone con atmosfera potenzialmente esplosiva (ATEX Ex ia IIC T4, Zone 0/1/2). OBBLIGATORIO per legge quando si usano refrigeranti infiammabili Gruppo A3 (ASHRAE 34): Propano R290 (refrigerazione commerciale), Isobutano R600a (frigoriferi domestici), Ammoniaca R717 (in determinate configurazioni), Idrogeno (industria chimica/petrolchimica). Certificazione garantisce energia elettrica/termica insufficiente a innescare esplosione anche in guasto. Pressione: 20 bar (adeguato per R290/R600a, verificare per ammoniaca). Output: Open Collector (compatibile barriere sicurezza intrinseca).\nApplicazione: Refrigerazione commerciale R290, domestic appliances R600a, industria petrochimica\n\nQ: ATEX Teklab vs Danfoss AKS 38 ATEX: differenze?\nA: Entrambi certificati ATEX Ex ia IIC T4 (stessa classe sicurezza intrinseca, massima protezione anche per gas più infiammabili gruppo IIC come idrogeno). Danfoss supporta 25 bar, Teklab 20 bar (differenza minima, entrambi adeguati per R290/R600a tipicamente <15 bar). Livello tecnologico: EQUIVALENTE. Output: entrambi Open Collector. Scelta basata su: disponibilità stock locale, prezzo (verifica distributori), familiarità installatore con brand.\nApplicazione: Conformità normativa ATEX europea\n\nQ: ATEX Teklab vs Honeywell Smart Sensor ATEX: quale scegliere?\nA: Honeywell Smart Sensor ATEX (30 bar) ha diagnostica avanzata NAMUR NE107 (autodiagnostica, segnala fault sensore, cablaggio, alimentazione). Livello tecnologico: SUPERIORE per diagnostica. Ma costo significativamente maggiore e richiede sistema supervisione compatibile NAMUR. Teklab ATEX è soluzione base affidabile, Open Collector universale, barriera Zener standard. Trade-off: Honeywell per impianti critici con supervisione avanzata, Teklab per applicazioni standard conformità base.\nApplicazione: Teklab per conformità normativa economica, Honeywell per safety critical + diagnostica\n\nQ: Sensore ATEX richiede barriera sicurezza intrinseca?\nA: Sì, OBBLIGATORIA. Sensore ATEX Ex ia (sicurezza intrinseca) deve essere connesso tramite barriera Zener o isolator certificato tra zona pericolosa (campo) e zona sicura (quadro elettrico/PLC). Barriera limita energia elettrica massima che può raggiungere zona esplosiva anche in caso guasto. Costo barriera: ~50-150€ a seconda marca/specifiche. Barriera deve essere installata in zona sicura (quadro elettrico) e certificata per stessa classe ATEX del sensore (Ex ia IIC). Verifica schema certificazione ATEX completo impianto.\nApplicazione: Installazione conforme normativa ATEX con barriera certificata\n\nQ: Quali refrigeranti richiedono sensore ATEX certificato?\nA: Refrigeranti infiammabili ASHRAE 34: GRUPPO A3 (alta infiammabilità, bassa tossicità): R290 Propano (GWP 3, eco-friendly, commerciale), R600a Isobutano (GWP 3, domestico), R1270 Propilene (industriale), R441A (blend idrocarburi). GRUPPO A2L (leggera infiammabilità): R32, R1234yf, R1234ze (nuovi HFO, normativa può richiedere precauzioni). GRUPPO B2 (ammoniaca R717 in certe configurazioni). Sempre verificare normativa locale e valutazione rischio impianto specifico. Zona ATEX classificata da ingegnere sicurezza.\nApplicazione: Conformità normativa refrigeranti naturali eco-friendly\n\nQ: ATEX Teklab 20 bar: sufficiente per ammoniaca R717?\nA: Ammoniaca R717 opera tipicamente 10-25 bar (lato alta pressione). ATEX Teklab 20 bar è limite, margine ridotto. Per ammoniaca CONSIGLIATO usare sensore pressione maggiore (40-60 bar) per sicurezza. Verifica pressione massima impianto specifico (dipende da temperatura condensazione, design sistema). Alternativa: considera sensori industriali certificati ATEX specifici per ammoniaca con pressione adeguata. ATEX Teklab ottimale per R290/R600a (<15 bar), margine sufficiente.\nApplicazione: R290/R600a ottimale, ammoniaca solo se pressione verificata <18 bar con margine\n\n\nVantaggi Competitivi: Certificazione ATEX Ex ia IIC T4 completa (Zone 0/1/2, gas gruppo IIC massima protezione). Equivalente a Danfoss/Saginomiya certificati. Output Open Collector universale (compatibile barriere standard). Conformità normativa europea per refrigeranti infiammabili naturali (R290, R600a). Costo tipicamente competitivo vs premium brands.\nFacilità Retrofit: ⭐⭐⭐⭐ Facile (tecnicamente) - Filettatura standard. ATTENZIONE: installazione richiede competenze ATEX certificate, barriera sicurezza obbligatoria, conformità normativa completa. Tempo installazione: +50% vs sensore non-ATEX per cablaggio barriera e verifiche.\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products compare to competitors (Danfoss, Emerson, Carel, etc.) and guide them in making informed purchasing decisions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab competitive analysis):\n\n[Marketing - Sensor Comparison] - ATEX vs Competitors\n\nCONFRONTO COMPETITOR: ATEX\n\nCategoria: Marketing - Sensor Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38 ATEX, Honeywell Smart Sensor ATEX, Saginomiya SNS-ATEX\n\nQ: Cos'è il sensore ATEX Teklab e quando è obbligatorio?\nA: Sensore ATEX Teklab è certificato per zone con atmosfera potenzialmente esplosiva (ATEX Ex ia IIC T4, Zone 0/1/2). OBBLIGATORIO per legge quando si usano refrigeranti infiammabili Gruppo A3 (ASHRAE 34): Propano R290 (refrigerazione commerciale), Isobutano R600a (frigoriferi domestici), Ammoniaca R717 (in determinate configurazioni), Idrogeno (industria chimica/petrolchimica). Certificazione garantisce energia elettrica/termica insufficiente a innescare esplosione anche in guasto. Pressione: 20 bar (adeguato per R290/R600a, verificare per ammoniaca). Output: Open Collector (compatibile barriere sicurezza intrinseca).\nApplicazione: Refrigerazione commerciale R290, domestic appliances R600a, industria petrochimica\n\nQ: ATEX Teklab vs Danfoss AKS 38 ATEX: differenze?\nA: Entrambi certificati ATEX Ex ia IIC T4 (stessa classe sicurezza intrinseca, massima protezione anche per gas più infiammabili gruppo IIC come idrogeno). Danfoss supporta 25 bar, Teklab 20 bar (differenza minima, entrambi adeguati per R290/R600a tipicamente <15 bar). Livello tecnologico: EQUIVALENTE. Output: entrambi Open Collector. Scelta basata su: disponibilità stock locale, prezzo (verifica distributori), familiarità installatore con brand.\nApplicazione: Conformità normativa ATEX europea\n\nQ: ATEX Teklab vs Honeywell Smart Sensor ATEX: quale scegliere?\nA: Honeywell Smart Sensor ATEX (30 bar) ha diagnostica avanzata NAMUR NE107 (autodiagnostica, segnala fault sensore, cablaggio, alimentazione). Livello tecnologico: SUPERIORE per diagnostica. Ma costo significativamente maggiore e richiede sistema supervisione compatibile NAMUR. Teklab ATEX è soluzione base affidabile, Open Collector universale, barriera Zener standard. Trade-off: Honeywell per impianti critici con supervisione avanzata, Teklab per applicazioni standard conformità base.\nApplicazione: Teklab per conformità normativa economica, Honeywell per safety critical + diagnostica\n\nQ: Sensore ATEX richiede barriera sicurezza intrinseca?\nA: Sì, OBBLIGATORIA. Sensore ATEX Ex ia (sicurezza intrinseca) deve essere connesso tramite barriera Zener o isolator certificato tra zona pericolosa (campo) e zona sicura (quadro elettrico/PLC). Barriera limita energia elettrica massima che può raggiungere zona esplosiva anche in caso guasto. Costo barriera: ~50-150€ a seconda marca/specifiche. Barriera deve essere installata in zona sicura (quadro elettrico) e certificata per stessa classe ATEX del sensore (Ex ia IIC). Verifica schema certificazione ATEX completo impianto.\nApplicazione: Installazione conforme normativa ATEX con barriera certificata\n\nQ: Quali refrigeranti richiedono sensore ATEX certificato?\nA: Refrigeranti infiammabili ASHRAE 34: GRUPPO A3 (alta infiammabilità, bassa tossicità): R290 Propano (GWP 3, eco-friendly, commerciale), R600a Isobutano (GWP 3, domestico), R1270 Propilene (industriale), R441A (blend idrocarburi). GRUPPO A2L (leggera infiammabilità): R32, R1234yf, R1234ze (nuovi HFO, normativa può richiedere precauzioni). GRUPPO B2 (ammoniaca R717 in certe configurazioni). Sempre verificare normativa locale e valutazione rischio impianto specifico. Zona ATEX classificata da ingegnere sicurezza.\nApplicazione: Conformità normativa refrigeranti naturali eco-friendly\n\nQ: ATEX Teklab 20 bar: sufficiente per ammoniaca R717?\nA: Ammoniaca R717 opera tipicamente 10-25 bar (lato alta pressione). ATEX Teklab 20 bar è limite, margine ridotto. Per ammoniaca CONSIGLIATO usare sensore pressione maggiore (40-60 bar) per sicurezza. Verifica pressione massima impianto specifico (dipende da temperatura condensazione, design sistema). Alternativa: considera sensori industriali certificati ATEX specifici per ammoniaca con pressione adeguata. ATEX Teklab ottimale per R290/R600a (<15 bar), margine sufficiente.\nApplicazione: R290/R600a ottimale, ammoniaca solo se pressione verificata <18 bar con margine\n\n\nVantaggi Competitivi: Certificazione ATEX Ex ia IIC T4 completa (Zone 0/1/2, gas gruppo IIC massima protezione). Equivalente a Danfoss/Saginomiya certificati. Output Open Collector universale (compatibile barriere standard). Conformità normativa europea per refrigeranti infiammabili naturali (R290, R600a). Costo tipicamente competitivo vs premium brands.\nFacilità Retrofit: ⭐⭐⭐⭐ Facile (tecnicamente) - Filettatura standard. ATTENZIONE: installazione richiede competenze ATEX certificate, barriera sicurezza obbligatoria, conformità normativa completa. Tempo installazione: +50% vs sensore non-ATEX per cablaggio barriera e verifiche.\n\n\n---\n\nProvide competitive analysis and product comparison guidance."
+        },
+        {
+            "role": "assistant",
+            "content": "ATEX competitive positioning: Certificazione ATEX Ex ia IIC T4 completa (Zone 0/1/2, gas gruppo IIC massima protezione). Equivalente a Danfoss/Saginomiya certificati. Output Open Collector universale (compatibile barriere standard). Conformità normativa europea per refrigeranti infiammabili naturali (R290, R600a). Costo tipicamente competitivo vs premium brands."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_competitor_012_ATEX",
+        "file_source": "Marketing_Competitor_Analysis",
+        "chunk_number": 1,
+        "chunk_title": "ATEX - Competitor Comparison",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Competitive Analysis",
+        "product_category": "Marketing - Sensor Comparison",
+        "teklab_product": "ATEX",
+        "competitors": "Danfoss AKS 38 ATEX, Honeywell Smart Sensor ATEX, Saginomiya SNS-ATEX",
+        "qa_pairs": [
+            {
+                "question": "Cos'è il sensore ATEX Teklab e quando è obbligatorio?",
+                "answer": "Sensore ATEX Teklab è certificato per zone con atmosfera potenzialmente esplosiva (ATEX Ex ia IIC T4, Zone 0/1/2). OBBLIGATORIO per legge quando si usano refrigeranti infiammabili Gruppo A3 (ASHRAE 34): Propano R290 (refrigerazione commerciale), Isobutano R600a (frigoriferi domestici), Ammoniaca R717 (in determinate configurazioni), Idrogeno (industria chimica/petrolchimica). Certificazione garantisce energia elettrica/termica insufficiente a innescare esplosione anche in guasto. Pressione: 20 bar (adeguato per R290/R600a, verificare per ammoniaca). Output: Open Collector (compatibile barriere sicurezza intrinseca)."
+            },
+            {
+                "question": "ATEX Teklab vs Danfoss AKS 38 ATEX: differenze?",
+                "answer": "Entrambi certificati ATEX Ex ia IIC T4 (stessa classe sicurezza intrinseca, massima protezione anche per gas più infiammabili gruppo IIC come idrogeno). Danfoss supporta 25 bar, Teklab 20 bar (differenza minima, entrambi adeguati per R290/R600a tipicamente <15 bar). Livello tecnologico: EQUIVALENTE. Output: entrambi Open Collector. Scelta basata su: disponibilità stock locale, prezzo (verifica distributori), familiarità installatore con brand."
+            },
+            {
+                "question": "ATEX Teklab vs Honeywell Smart Sensor ATEX: quale scegliere?",
+                "answer": "Honeywell Smart Sensor ATEX (30 bar) ha diagnostica avanzata NAMUR NE107 (autodiagnostica, segnala fault sensore, cablaggio, alimentazione). Livello tecnologico: SUPERIORE per diagnostica. Ma costo significativamente maggiore e richiede sistema supervisione compatibile NAMUR. Teklab ATEX è soluzione base affidabile, Open Collector universale, barriera Zener standard. Trade-off: Honeywell per impianti critici con supervisione avanzata, Teklab per applicazioni standard conformità base."
+            },
+            {
+                "question": "Sensore ATEX richiede barriera sicurezza intrinseca?",
+                "answer": "Sì, OBBLIGATORIA. Sensore ATEX Ex ia (sicurezza intrinseca) deve essere connesso tramite barriera Zener o isolator certificato tra zona pericolosa (campo) e zona sicura (quadro elettrico/PLC). Barriera limita energia elettrica massima che può raggiungere zona esplosiva anche in caso guasto. Costo barriera: ~50-150€ a seconda marca/specifiche. Barriera deve essere installata in zona sicura (quadro elettrico) e certificata per stessa classe ATEX del sensore (Ex ia IIC). Verifica schema certificazione ATEX completo impianto."
+            },
+            {
+                "question": "Quali refrigeranti richiedono sensore ATEX certificato?",
+                "answer": "Refrigeranti infiammabili ASHRAE 34: GRUPPO A3 (alta infiammabilità, bassa tossicità): R290 Propano (GWP 3, eco-friendly, commerciale), R600a Isobutano (GWP 3, domestico), R1270 Propilene (industriale), R441A (blend idrocarburi). GRUPPO A2L (leggera infiammabilità): R32, R1234yf, R1234ze (nuovi HFO, normativa può richiedere precauzioni). GRUPPO B2 (ammoniaca R717 in certe configurazioni). Sempre verificare normativa locale e valutazione rischio impianto specifico. Zona ATEX classificata da ingegnere sicurezza."
+            },
+            {
+                "question": "ATEX Teklab 20 bar: sufficiente per ammoniaca R717?",
+                "answer": "Ammoniaca R717 opera tipicamente 10-25 bar (lato alta pressione). ATEX Teklab 20 bar è limite, margine ridotto. Per ammoniaca CONSIGLIATO usare sensore pressione maggiore (40-60 bar) per sicurezza. Verifica pressione massima impianto specifico (dipende da temperatura condensazione, design sistema). Alternativa: considera sensori industriali certificati ATEX specifici per ammoniaca con pressione adeguata. ATEX Teklab ottimale per R290/R600a (<15 bar), margine sufficiente."
+            }
+        ],
+        "competitive_advantages": "Certificazione ATEX Ex ia IIC T4 completa (Zone 0/1/2, gas gruppo IIC massima protezione). Equivalente a Danfoss/Saginomiya certificati. Output Open Collector universale (compatibile barriere standard). Conformità normativa europea per refrigeranti infiammabili naturali (R290, R600a). Costo tipicamente competitivo vs premium brands.",
+        "retrofit_ease": "⭐⭐⭐⭐ Facile (tecnicamente) - Filettatura standard. ATTENZIONE: installazione richiede competenze ATEX certificate, barriera sicurezza obbligatoria, conformità normativa completa. Tempo installazione: +50% vs sensore non-ATEX per cablaggio barriera e verifiche.",
+        "keywords_primary": [
+            "product_model (ATEX Sensor)",
+            "pressure_range (20 bar)",
+            "competitor (Danfoss AKS 38 ATEX, Honeywell Smart ATEX)",
+            "feature (ATEX Ex ia IIC T4, intrinsic safety, explosive atmospheres)",
+            "application (R290 propane, R600a isobutane, Zone 0/1/2, petrochemical)"
+        ],
+        "keywords_synonyms": {
+            "ATEX": [
+                "explosive atmosphere",
+                "intrinsic safety",
+                "Ex ia"
+            ],
+            "R290": [
+                "propane",
+                "flammable refrigerant"
+            ],
+            "R600a": [
+                "isobutane",
+                "hydrocarbon refrigerant"
+            ],
+            "Zone 0/1/2": [
+                "hazardous area classification"
+            ]
+        },
+        "keywords_relations": {
+            "certifications": [
+                "ATEX Ex ia IIC T4",
+                "EN 60079-0",
+                "EN 60079-11"
+            ],
+            "mandatory_for": [
+                "Group A3 refrigerants",
+                "R290",
+                "R600a",
+                "hydrogen"
+            ],
+            "installation": [
+                "Zener barrier required",
+                "intrinsic safety loop",
+                "Open Collector output"
+            ],
+            "applications": [
+                "commercial refrigeration R290",
+                "domestic appliances",
+                "petrochemical"
+            ]
+        }
+    }
+}

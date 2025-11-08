@@ -1,19 +1,25 @@
 /**
  * Configurazione API Teklab B2B AI
  * 
- * LOCALE (sviluppo):
- *   API_URL = 'http://localhost:5000'
- * 
- * ONLINE (produzione):
- *   API_URL = 'https://tuo-dominio.com/api'
+ * TAILSCALE DEPLOYMENT:
+ *   - Backend API: http://100.111.187.7:5000 (Tailscale VPN)
+ *   - Frontend UI: http://100.111.187.7:8081 (Python HTTP server)
+ *   - LOCALE (sviluppo): http://localhost:5000
  */
 
 const CONFIG = {
-    // Backend API endpoint
-    // Auto-detect: Cloudflare se su GitHub Pages, localhost se locale
-    API_URL: window.location.hostname.includes('github.io')
-        ? 'https://mrna-checklist-move-talent.trycloudflare.com'  // ✅ Tunnel attivo
-        : 'http://localhost:5000',
+    // Backend API endpoint - Auto-detect intelligente
+    API_URL: (() => {
+        const hostname = window.location.hostname;
+        
+        // Se aperto da localhost → usa localhost (sviluppo locale)
+        if (hostname === 'localhost' || hostname === '127.0.0.1') {
+            return 'http://localhost:5000';
+        }
+        
+        // Altrimenti usa IP Tailscale (accesso remoto via VPN)
+        return 'http://100.111.187.7:5000';
+    })(),
     
     // Bot name
     BOT_NAME: 'Teklab Assistant',

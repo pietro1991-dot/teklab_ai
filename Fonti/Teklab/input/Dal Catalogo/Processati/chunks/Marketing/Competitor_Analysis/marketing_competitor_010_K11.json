@@ -1,0 +1,95 @@
+{
+    "id": "marketing_competitor_010_K11",
+    "original_text": "CONFRONTO COMPETITOR: K11\n\nCategoria: Marketing - Sensor Comparison\n\nCompetitor Equivalenti: Danfoss AKS 33/38, Alco ELS, Sporlan ELS-C, Saginomiya SNS-C110\n\nQ: Cos'è il K11 e qual è la sua caratteristica unica?\nA: K11 è un sensore di livello capacitivo compatto (60 bar) con OUTPUT CONFIGURABILE universale. Caratteristica unica: SINGOLO device configurabile come NPN, PNP o AC tramite DIP switch integrato. Competitor (Danfoss, Alco, Sporlan) richiedono ordinare 3 versioni separate specifiche. Vantaggio K11: riduzione SKU 66% (1 prodotto invece di 3 in magazzino), compatibilità universale PLC (sink/source/relay), retrofit semplificato (stessa parte per qualsiasi impianto). Livello tecnologico: SUPERIORE per design smart.\nApplicazione: Applicazioni industriali generiche refrigerazione/HVAC 60 bar\n\nQ: Come configuro output K11 NPN/PNP/AC?\nA: K11 ha DIP switch interno accessibile (vite frontale). Configurazione: 1) Svita coperchio frontale. 2) Imposta DIP switch: Posizione 1-2 = NPN (sink, common negative), Posizione 3-4 = PNP (source, common positive), Posizione 5-6 = AC (relay output, universale). 3) Richiudi coperchio. Tempo: 2 minuti. Nessun tool speciale necessario. Configurazione mantiene memoria (no batteria, meccanico). Verifica tipo PLC prima (sink o source) per impostare correttamente.\nApplicazione: Setup on-site adattivo a impianto esistente\n\nQ: K11 vs Danfoss AKS 33: perché K11 è più versatile?\nA: Danfoss AKS 33 disponibile in versioni separate: AKS 33-NPN, AKS 33-PNP (devi ordinare versione specifica). K11 è UNICO device configurabile per tutti e 3 gli output. Vantaggi pratici: 1) Magazzino: stock 1 SKU invece di 3 (riduzione capitale immobilizzato). 2) Retrofit: stesso device funziona per qualsiasi sostituzione (no errori ordine). 3) Flessibilità: cambio configurazione on-site in 2 minuti se cambia PLC. Livello tecnologico sensore: EQUIVALENTE (entrambi capacitivi). Livello design: SUPERIORE (configurabilità smart).\nApplicazione: Distributori con stock ridotto, installatori multi-cliente\n\nQ: K11 output AC: quando usarlo?\nA: Output AC (relay) è universale, funziona con qualsiasi PLC/controller (AC/DC, qualsiasi tensione nei limiti 24-250V). Usa AC quando: 1) PLC tipo sconosciuto (universale). 2) Tensioni miste impianto. 3) Serve isolamento galvanico totale (relay isola completamente sensore da PLC). Svantaggio AC: corrente massima 2A (NPN/PNP fino a 200mA). Se carico >2A serve relay esterno. AC è scelta più sicura per retrofit impianti legacy dove specifiche PLC non sono chiare.\nApplicazione: Retrofit impianti vecchi con documentazione mancante\n\nQ: ROI K11 output configurabile: risparmio concreto?\nA: Risparmio per distributore/installatore: STOCK REDUCTION: 1 SKU K11 vs 3 SKU (NPN/PNP/AC separati) = -66% capitale immobilizzato magazzino. ELIMINAZIONE ERRORI ORDINE: No rischio ordinare versione sbagliata (costo reorder + ritardo progetto). FLESSIBILITÀ RETROFIT: Stesso device per qualsiasi sostituzione (riduzione parts inventory). ESEMPIO CONCRETO: Distributore con stock 30 sensori per 10 clienti. Tradizionale: 10 NPN + 10 PNP + 10 AC = 30 pezzi. Con K11: 30 pezzi configurabili = stessa copertura con maggiore flessibilità. ROI: Riduzione 66% rischio obsolescenza + 100% flessibilità.\nApplicazione: Business case per distributori e installatori multi-cliente\n\n\nVantaggi Competitivi: OUTPUT CONFIGURABILE 3-in-1 (NPN/PNP/AC) UNICO sul mercato sensori livello standard. Riduzione SKU 66%, compatibilità universale PLC, eliminazione errori ordine. Tecnologia sensore capacitivo equivalente ai premium brands. Design compatto M18x1 thread standard industriale.\nFacilità Retrofit: ⭐⭐⭐⭐⭐ Massima - Filettatura M18x1 standard industriale. Output configurabile = adatta a qualsiasi impianto. Installazione 5 min + configurazione DIP switch 2 min.\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products compare to competitors (Danfoss, Emerson, Carel, etc.) and guide them in making informed purchasing decisions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab competitive analysis):\n\n[Marketing - Sensor Comparison] - K11 vs Competitors\n\nCONFRONTO COMPETITOR: K11\n\nCategoria: Marketing - Sensor Comparison\n\nCompetitor Equivalenti: Danfoss AKS 33/38, Alco ELS, Sporlan ELS-C, Saginomiya SNS-C110\n\nQ: Cos'è il K11 e qual è la sua caratteristica unica?\nA: K11 è un sensore di livello capacitivo compatto (60 bar) con OUTPUT CONFIGURABILE universale. Caratteristica unica: SINGOLO device configurabile come NPN, PNP o AC tramite DIP switch integrato. Competitor (Danfoss, Alco, Sporlan) richiedono ordinare 3 versioni separate specifiche. Vantaggio K11: riduzione SKU 66% (1 prodotto invece di 3 in magazzino), compatibilità universale PLC (sink/source/relay), retrofit semplificato (stessa parte per qualsiasi impianto). Livello tecnologico: SUPERIORE per design smart.\nApplicazione: Applicazioni industriali generiche refrigerazione/HVAC 60 bar\n\nQ: Come configuro output K11 NPN/PNP/AC?\nA: K11 ha DIP switch interno accessibile (vite frontale). Configurazione: 1) Svita coperchio frontale. 2) Imposta DIP switch: Posizione 1-2 = NPN (sink, common negative), Posizione 3-4 = PNP (source, common positive), Posizione 5-6 = AC (relay output, universale). 3) Richiudi coperchio. Tempo: 2 minuti. Nessun tool speciale necessario. Configurazione mantiene memoria (no batteria, meccanico). Verifica tipo PLC prima (sink o source) per impostare correttamente.\nApplicazione: Setup on-site adattivo a impianto esistente\n\nQ: K11 vs Danfoss AKS 33: perché K11 è più versatile?\nA: Danfoss AKS 33 disponibile in versioni separate: AKS 33-NPN, AKS 33-PNP (devi ordinare versione specifica). K11 è UNICO device configurabile per tutti e 3 gli output. Vantaggi pratici: 1) Magazzino: stock 1 SKU invece di 3 (riduzione capitale immobilizzato). 2) Retrofit: stesso device funziona per qualsiasi sostituzione (no errori ordine). 3) Flessibilità: cambio configurazione on-site in 2 minuti se cambia PLC. Livello tecnologico sensore: EQUIVALENTE (entrambi capacitivi). Livello design: SUPERIORE (configurabilità smart).\nApplicazione: Distributori con stock ridotto, installatori multi-cliente\n\nQ: K11 output AC: quando usarlo?\nA: Output AC (relay) è universale, funziona con qualsiasi PLC/controller (AC/DC, qualsiasi tensione nei limiti 24-250V). Usa AC quando: 1) PLC tipo sconosciuto (universale). 2) Tensioni miste impianto. 3) Serve isolamento galvanico totale (relay isola completamente sensore da PLC). Svantaggio AC: corrente massima 2A (NPN/PNP fino a 200mA). Se carico >2A serve relay esterno. AC è scelta più sicura per retrofit impianti legacy dove specifiche PLC non sono chiare.\nApplicazione: Retrofit impianti vecchi con documentazione mancante\n\nQ: ROI K11 output configurabile: risparmio concreto?\nA: Risparmio per distributore/installatore: STOCK REDUCTION: 1 SKU K11 vs 3 SKU (NPN/PNP/AC separati) = -66% capitale immobilizzato magazzino. ELIMINAZIONE ERRORI ORDINE: No rischio ordinare versione sbagliata (costo reorder + ritardo progetto). FLESSIBILITÀ RETROFIT: Stesso device per qualsiasi sostituzione (riduzione parts inventory). ESEMPIO CONCRETO: Distributore con stock 30 sensori per 10 clienti. Tradizionale: 10 NPN + 10 PNP + 10 AC = 30 pezzi. Con K11: 30 pezzi configurabili = stessa copertura con maggiore flessibilità. ROI: Riduzione 66% rischio obsolescenza + 100% flessibilità.\nApplicazione: Business case per distributori e installatori multi-cliente\n\n\nVantaggi Competitivi: OUTPUT CONFIGURABILE 3-in-1 (NPN/PNP/AC) UNICO sul mercato sensori livello standard. Riduzione SKU 66%, compatibilità universale PLC, eliminazione errori ordine. Tecnologia sensore capacitivo equivalente ai premium brands. Design compatto M18x1 thread standard industriale.\nFacilità Retrofit: ⭐⭐⭐⭐⭐ Massima - Filettatura M18x1 standard industriale. Output configurabile = adatta a qualsiasi impianto. Installazione 5 min + configurazione DIP switch 2 min.\n\n\n---\n\nProvide competitive analysis and product comparison guidance."
+        },
+        {
+            "role": "assistant",
+            "content": "K11 competitive positioning: OUTPUT CONFIGURABILE 3-in-1 (NPN/PNP/AC) UNICO sul mercato sensori livello standard. Riduzione SKU 66%, compatibilità universale PLC, eliminazione errori ordine. Tecnologia sensore capacitivo equivalente ai premium brands. Design compatto M18x1 thread standard industriale."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_competitor_010_K11",
+        "file_source": "Marketing_Competitor_Analysis",
+        "chunk_number": 1,
+        "chunk_title": "K11 - Competitor Comparison",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Competitive Analysis",
+        "product_category": "Marketing - Sensor Comparison",
+        "teklab_product": "K11",
+        "competitors": "Danfoss AKS 33/38, Alco ELS, Sporlan ELS-C, Saginomiya SNS-C110",
+        "qa_pairs": [
+            {
+                "question": "Cos'è il K11 e qual è la sua caratteristica unica?",
+                "answer": "K11 è un sensore di livello capacitivo compatto (60 bar) con OUTPUT CONFIGURABILE universale. Caratteristica unica: SINGOLO device configurabile come NPN, PNP o AC tramite DIP switch integrato. Competitor (Danfoss, Alco, Sporlan) richiedono ordinare 3 versioni separate specifiche. Vantaggio K11: riduzione SKU 66% (1 prodotto invece di 3 in magazzino), compatibilità universale PLC (sink/source/relay), retrofit semplificato (stessa parte per qualsiasi impianto). Livello tecnologico: SUPERIORE per design smart."
+            },
+            {
+                "question": "Come configuro output K11 NPN/PNP/AC?",
+                "answer": "K11 ha DIP switch interno accessibile (vite frontale). Configurazione: 1) Svita coperchio frontale. 2) Imposta DIP switch: Posizione 1-2 = NPN (sink, common negative), Posizione 3-4 = PNP (source, common positive), Posizione 5-6 = AC (relay output, universale). 3) Richiudi coperchio. Tempo: 2 minuti. Nessun tool speciale necessario. Configurazione mantiene memoria (no batteria, meccanico). Verifica tipo PLC prima (sink o source) per impostare correttamente."
+            },
+            {
+                "question": "K11 vs Danfoss AKS 33: perché K11 è più versatile?",
+                "answer": "Danfoss AKS 33 disponibile in versioni separate: AKS 33-NPN, AKS 33-PNP (devi ordinare versione specifica). K11 è UNICO device configurabile per tutti e 3 gli output. Vantaggi pratici: 1) Magazzino: stock 1 SKU invece di 3 (riduzione capitale immobilizzato). 2) Retrofit: stesso device funziona per qualsiasi sostituzione (no errori ordine). 3) Flessibilità: cambio configurazione on-site in 2 minuti se cambia PLC. Livello tecnologico sensore: EQUIVALENTE (entrambi capacitivi). Livello design: SUPERIORE (configurabilità smart)."
+            },
+            {
+                "question": "K11 output AC: quando usarlo?",
+                "answer": "Output AC (relay) è universale, funziona con qualsiasi PLC/controller (AC/DC, qualsiasi tensione nei limiti 24-250V). Usa AC quando: 1) PLC tipo sconosciuto (universale). 2) Tensioni miste impianto. 3) Serve isolamento galvanico totale (relay isola completamente sensore da PLC). Svantaggio AC: corrente massima 2A (NPN/PNP fino a 200mA). Se carico >2A serve relay esterno. AC è scelta più sicura per retrofit impianti legacy dove specifiche PLC non sono chiare."
+            },
+            {
+                "question": "ROI K11 output configurabile: risparmio concreto?",
+                "answer": "Risparmio per distributore/installatore: STOCK REDUCTION: 1 SKU K11 vs 3 SKU (NPN/PNP/AC separati) = -66% capitale immobilizzato magazzino. ELIMINAZIONE ERRORI ORDINE: No rischio ordinare versione sbagliata (costo reorder + ritardo progetto). FLESSIBILITÀ RETROFIT: Stesso device per qualsiasi sostituzione (riduzione parts inventory). ESEMPIO CONCRETO: Distributore con stock 30 sensori per 10 clienti. Tradizionale: 10 NPN + 10 PNP + 10 AC = 30 pezzi. Con K11: 30 pezzi configurabili = stessa copertura con maggiore flessibilità. ROI: Riduzione 66% rischio obsolescenza + 100% flessibilità."
+            }
+        ],
+        "competitive_advantages": "OUTPUT CONFIGURABILE 3-in-1 (NPN/PNP/AC) UNICO sul mercato sensori livello standard. Riduzione SKU 66%, compatibilità universale PLC, eliminazione errori ordine. Tecnologia sensore capacitivo equivalente ai premium brands. Design compatto M18x1 thread standard industriale.",
+        "retrofit_ease": "⭐⭐⭐⭐⭐ Massima - Filettatura M18x1 standard industriale. Output configurabile = adatta a qualsiasi impianto. Installazione 5 min + configurazione DIP switch 2 min.",
+        "keywords_primary": [
+            "product_model (K11)",
+            "pressure_range (60 bar)",
+            "competitor (Danfoss AKS 33, Alco ELS, Sporlan ELS-C)",
+            "feature (configurable output NPN/PNP/AC, 3-in-1, universal PLC)",
+            "application (industrial refrigeration, HVAC, SKU reduction)"
+        ],
+        "keywords_synonyms": {
+            "K11": [
+                "universal level sensor",
+                "configurable sensor"
+            ],
+            "configurable output": [
+                "DIP switch",
+                "NPN/PNP/AC selectable"
+            ],
+            "3-in-1": [
+                "universal",
+                "multi-output"
+            ]
+        },
+        "keywords_relations": {
+            "innovation": [
+                "output configurability",
+                "1 SKU vs 3",
+                "66% SKU reduction"
+            ],
+            "outputs": [
+                "NPN sink",
+                "PNP source",
+                "AC relay"
+            ],
+            "advantages": [
+                "universal PLC compatibility",
+                "eliminate order errors",
+                "stock flexibility"
+            ],
+            "installation": [
+                "M18x1 thread",
+                "2 min DIP switch config"
+            ]
+        }
+    }
+}

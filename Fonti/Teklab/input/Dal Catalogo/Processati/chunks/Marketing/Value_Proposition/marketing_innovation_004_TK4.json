@@ -1,0 +1,82 @@
+{
+    "id": "marketing_innovation_004_TK4",
+    "original_text": "INNOVAZIONE TEKLAB: TK4 - Primo Oil Regulator con NFC Wireless\n\nTK4 è il PRIMO regolatore livello olio mondiale con configurazione wireless NFC (Near Field Communication). INNOVAZIONE ESCLUSIVA - nessun competitor offre NFC in questa categoria. Competitor premium (Danfoss) hanno BLE Bluetooth con complessità maggiore. TK4 rivoluziona commissioning: configurazione parametri in 30 secondi tramite smartphone (vs 10 minuti DIP switch tradizionali).\n\nPERCHÉ È UNICO:\nOil level regulators tradizionali: configurazione via DIP switch/jumper richiede aprire quadro elettrico, manuale tecnico, tempo. TK4 usa NFC: tap smartphone su sensore, app intuitiva modifica parametri (ritardo allarme, tempo rabbocco, soglia livello), diagnostica avanzata (storico allarmi, cicli rabbocco). Zero cablaggio aggiuntivo, zero costi cloud. Primo sul mercato.\n\nVANTAGGI CONCRETI:\n• Configurazione 30 sec vs 10 min tradizionale (risparmio 95% tempo commissioning)\n• No necessità aprire quadro elettrico (sicurezza, velocità)\n• App intuitiva iOS/Android gratuita (zero learning curve)\n• Diagnostica avanzata: storico allarmi con timestamp, numero cicli rabbocco totali, stato sensore real-time\n• Parametri configurabili: ritardo allarme 10-300 sec, tempo rabbocco 5-120 sec, soglia livello 10-90%\n• Zero costi cloud: dati salvati localmente nel device (no abbonamenti)\n• ROI per installatori: 10 device = 95 min risparmiati = 1.5 ore manodopera (90-150€)\n\nCOMPATIBILITÀ:\nStesso TK3+ base (sensore ottico, valvola integrata, relè allarme) + NFC aggiunto. 3 versioni pressione: 46/80/130 bar (HFC, ammoniaca, CO2). Smartphone richiede chip NFC (95% modelli dal 2020).\n\nAPPLICAZIONI TIPICHE:\nGrandi progetti multi-compressore (risparmio commissioning), manutenzione rapida sul campo (diagnostica istantanea), catene retail (configurazione standardizzata veloce).\n\nDOMANDE FREQUENTI:\n\nQ: TK4 NFC vs Danfoss BLE: quale è migliore?\nA: Trade-off diversi. NFC: range <5cm (tap diretto sensore), no pairing, instant, funziona anche device spento, sicurezza massima (impossibile intercettare). BLE: range ~10m (monitoraggio a distanza), richiede pairing, device deve essere acceso. Scelta: NFC per configurazione rapida on-site sicura, BLE per monitoring remoto. TK4 ottimizza per semplicità/sicurezza.\n\nQ: TK4 app NFC richiede internet/cloud?\nA: No, app funziona 100% offline. Dati salvati localmente nel device TK4 (memoria non-volatile). App legge/scrive via NFC diretto. Zero dipendenza cloud, zero abbonamenti, zero problemi connettività. Privacy totale (dati mai escono da device). Aggiornamenti app via store standard (iOS/Android).\n\n\nTESTIMONIANZA CLIENTE:\n\"Gestisco 50 supermercati, ogni store ha 4 compressori. Prima: 200 oil regulators da configurare = 2000 minuti (33 ore!). Con TK4 NFC: 200 device × 30 sec = 100 minuti. Risparmio 31 ore = 2000€ manodopera. Investimento ripagato subito.\"\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differentiators. Help customers understand Teklab's exclusive features and the value they bring to their applications."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab unique innovations):\n\n[Innovazioni Uniche Teklab] - TK4 - Primo Oil Regulator con NFC Wireless\n\nINNOVAZIONE TEKLAB: TK4 - Primo Oil Regulator con NFC Wireless\n\nTK4 è il PRIMO regolatore livello olio mondiale con configurazione wireless NFC (Near Field Communication). INNOVAZIONE ESCLUSIVA - nessun competitor offre NFC in questa categoria. Competitor premium (Danfoss) hanno BLE Bluetooth con complessità maggiore. TK4 rivoluziona commissioning: configurazione parametri in 30 secondi tramite smartphone (vs 10 minuti DIP switch tradizionali).\n\nPERCHÉ È UNICO:\nOil level regulators tradizionali: configurazione via DIP switch/jumper richiede aprire quadro elettrico, manuale tecnico, tempo. TK4 usa NFC: tap smartphone su sensore, app intuitiva modifica parametri (ritardo allarme, tempo rabbocco, soglia livello), diagnostica avanzata (storico allarmi, cicli rabbocco). Zero cablaggio aggiuntivo, zero costi cloud. Primo sul mercato.\n\nVANTAGGI CONCRETI:\n• Configurazione 30 sec vs 10 min tradizionale (risparmio 95% tempo commissioning)\n• No necessità aprire quadro elettrico (sicurezza, velocità)\n• App intuitiva iOS/Android gratuita (zero learning curve)\n• Diagnostica avanzata: storico allarmi con timestamp, numero cicli rabbocco totali, stato sensore real-time\n• Parametri configurabili: ritardo allarme 10-300 sec, tempo rabbocco 5-120 sec, soglia livello 10-90%\n• Zero costi cloud: dati salvati localmente nel device (no abbonamenti)\n• ROI per installatori: 10 device = 95 min risparmiati = 1.5 ore manodopera (90-150€)\n\nCOMPATIBILITÀ:\nStesso TK3+ base (sensore ottico, valvola integrata, relè allarme) + NFC aggiunto. 3 versioni pressione: 46/80/130 bar (HFC, ammoniaca, CO2). Smartphone richiede chip NFC (95% modelli dal 2020).\n\nAPPLICAZIONI TIPICHE:\nGrandi progetti multi-compressore (risparmio commissioning), manutenzione rapida sul campo (diagnostica istantanea), catene retail (configurazione standardizzata veloce).\n\nDOMANDE FREQUENTI:\n\nQ: TK4 NFC vs Danfoss BLE: quale è migliore?\nA: Trade-off diversi. NFC: range <5cm (tap diretto sensore), no pairing, instant, funziona anche device spento, sicurezza massima (impossibile intercettare). BLE: range ~10m (monitoraggio a distanza), richiede pairing, device deve essere acceso. Scelta: NFC per configurazione rapida on-site sicura, BLE per monitoring remoto. TK4 ottimizza per semplicità/sicurezza.\n\nQ: TK4 app NFC richiede internet/cloud?\nA: No, app funziona 100% offline. Dati salvati localmente nel device TK4 (memoria non-volatile). App legge/scrive via NFC diretto. Zero dipendenza cloud, zero abbonamenti, zero problemi connettività. Privacy totale (dati mai escono da device). Aggiornamenti app via store standard (iOS/Android).\n\n\nTESTIMONIANZA CLIENTE:\n\"Gestisco 50 supermercati, ogni store ha 4 compressori. Prima: 200 oil regulators da configurare = 2000 minuti (33 ore!). Con TK4 NFC: 200 device × 30 sec = 100 minuti. Risparmio 31 ore = 2000€ manodopera. Investimento ripagato subito.\"\n\n\n---\n\nExplain this unique Teklab innovation and its benefits."
+        },
+        {
+            "role": "assistant",
+            "content": "TK4 - Primo Oil Regulator con NFC Wireless: TK4 è il PRIMO regolatore livello olio mondiale con configurazione wireless NFC (Near Field Communication). INNOVAZIONE ESCLUSIVA - nessun competitor offre NFC in questa categoria. Competitor premium ..."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_innovation_004_TK4",
+        "file_source": "Marketing_Value_Proposition",
+        "chunk_number": 1,
+        "chunk_title": "TK4 - Primo Oil Regulator con NFC Wireless",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Unique Innovation",
+        "product_category": "Value Proposition",
+        "innovation_name": "TK4 - Primo Oil Regulator con NFC Wireless",
+        "qa_pairs": [
+            {
+                "question": "TK4 NFC vs Danfoss BLE: quale è migliore?",
+                "answer": "Trade-off diversi. NFC: range <5cm (tap diretto sensore), no pairing, instant, funziona anche device spento, sicurezza massima (impossibile intercettare). BLE: range ~10m (monitoraggio a distanza), richiede pairing, device deve essere acceso. Scelta: NFC per configurazione rapida on-site sicura, BLE per monitoring remoto. TK4 ottimizza per semplicità/sicurezza."
+            },
+            {
+                "question": "TK4 app NFC richiede internet/cloud?",
+                "answer": "No, app funziona 100% offline. Dati salvati localmente nel device TK4 (memoria non-volatile). App legge/scrive via NFC diretto. Zero dipendenza cloud, zero abbonamenti, zero problemi connettività. Privacy totale (dati mai escono da device). Aggiornamenti app via store standard (iOS/Android)."
+            }
+        ],
+        "advantages": [
+            "Configurazione 30 sec vs 10 min tradizionale (risparmio 95% tempo commissioning)",
+            "No necessità aprire quadro elettrico (sicurezza, velocità)",
+            "App intuitiva iOS/Android gratuita (zero learning curve)",
+            "Diagnostica avanzata: storico allarmi con timestamp, numero cicli rabbocco totali, stato sensore real-time",
+            "Parametri configurabili: ritardo allarme 10-300 sec, tempo rabbocco 5-120 sec, soglia livello 10-90%",
+            "Zero costi cloud: dati salvati localmente nel device (no abbonamenti)",
+            "ROI per installatori: 10 device = 95 min risparmiati = 1.5 ore manodopera (90-150€)"
+        ],
+        "applications": "Grandi progetti multi-compressore (risparmio commissioning), manutenzione rapida sul campo (diagnostica istantanea), catene retail (configurazione standardizzata veloce).",
+        "compatibility": "Stesso TK3+ base (sensore ottico, valvola integrata, relè allarme) + NFC aggiunto. 3 versioni pressione: 46/80/130 bar (HFC, ammoniaca, CO2). Smartphone richiede chip NFC (95% modelli dal 2020).",
+        "keywords_primary": [
+            "innovation (NFC wireless config)",
+            "unique_product (first NFC oil regulator globally)",
+            "savings (95% time, 30 sec vs 10 min)",
+            "feature (smartphone app, diagnostic history, no panel opening)",
+            "application (rapid commissioning, field maintenance, multi-site)"
+        ],
+        "keywords_synonyms": {
+            "NFC": [
+                "Near Field Communication",
+                "wireless",
+                "contactless"
+            ],
+            "first globally": [
+                "market pioneer",
+                "innovation leader"
+            ]
+        },
+        "keywords_relations": {
+            "vs_BLE": [
+                "tap-and-go vs pairing",
+                "<5cm vs 10m range",
+                "higher security"
+            ],
+            "time_savings": [
+                "30 sec config",
+                "no panel access",
+                "instant diagnostics"
+            ],
+            "ROI_example": [
+                "10 devices = 95 min saved = 1.5h labor (90-150€)"
+            ]
+        }
+    }
+}

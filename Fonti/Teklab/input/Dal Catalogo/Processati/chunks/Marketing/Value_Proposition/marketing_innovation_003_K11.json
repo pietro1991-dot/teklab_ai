@@ -1,0 +1,81 @@
+{
+    "id": "marketing_innovation_003_K11",
+    "original_text": "INNOVAZIONE TEKLAB: K11 - Output Configurabile Universale 3-in-1\n\nK11 è il primo sensore livello capacitivo con OUTPUT CONFIGURABILE universale tramite DIP switch: singolo device funziona come NPN, PNP o AC (relay). Competitor (Danfoss AKS 33, Alco ELS, Sporlan) richiedono ordinare 3 versioni separate specifiche. INNOVAZIONE SMART riduce SKU 66%.\n\nPERCHÉ È UNICO:\nProblema tradizionale: devi ordinare versione sensore specifica per tipo PLC (sink NPN o source PNP). Errori ordine comuni, stock magazzino triplicato. Teklab ha risolto con design configurabile: 1 device = 3 versioni. Nessun competitor offre configurabilità in sensori livello standard.\n\nVANTAGGI CONCRETI:\n• Riduzione SKU 66%: 1 prodotto in magazzino invece di 3 (capitale immobilizzato ridotto)\n• Compatibilità universale PLC: funziona con qualsiasi controller (Siemens, Allen-Bradley, Schneider, Omron, Mitsubishi)\n• Eliminazione errori ordine: no rischio ordinare versione sbagliata (costo reorder + ritardo progetto)\n• Flessibilità retrofit: stesso device per qualsiasi sostituzione, configurazione on-site in 2 minuti\n• Output AC universale: opzione relay per PLC tipo sconosciuto (isolamento galvanico totale)\n\nCOMPATIBILITÀ:\nPressione 60 bar, applicazioni refrigerazione/HVAC industriali generiche. Filettatura M18x1 standard. Configurazione: DIP switch interno accessibile (vite frontale).\n\nAPPLICAZIONI TIPICHE:\nDistributori con clienti multipli (riduzione stock), installatori retrofit (flessibilità), OEM con varianti prodotto (riduzione BOM).\n\nDOMANDE FREQUENTI:\n\nQ: Configurazione DIP switch K11: è difficile?\nA: No, semplicissimo. Svita coperchio frontale (vite standard), imposta DIP switch (posizioni 1-2 NPN, 3-4 PNP, 5-6 AC), richiudi. Tempo: 2 minuti. Nessun tool speciale. Configurazione meccanica (mantiene memoria senza batteria). Istruzioni chiare su datasheet.\n\nQ: Posso cambiare configurazione K11 dopo installazione?\nA: Sì, configurazione modificabile infinite volte. Utile se: cambi PLC impianto, riutilizzi sensore su altro progetto. Nota: se già cablato, verifica polarità prima di alimentare con nuova configurazione (evita danni PLC).\n\n\nTESTIMONIANZA CLIENTE:\n\"Gestisco stock per 20 clienti con PLC diversi. Prima: 10 sensori NPN + 10 PNP + 10 AC = 30 pezzi magazzino. Ora con K11: 30 pezzi configurabili = stessa copertura, zero rischio obsolescenza. Brillante!\"\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differentiators. Help customers understand Teklab's exclusive features and the value they bring to their applications."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab unique innovations):\n\n[Innovazioni Uniche Teklab] - K11 - Output Configurabile Universale 3-in-1\n\nINNOVAZIONE TEKLAB: K11 - Output Configurabile Universale 3-in-1\n\nK11 è il primo sensore livello capacitivo con OUTPUT CONFIGURABILE universale tramite DIP switch: singolo device funziona come NPN, PNP o AC (relay). Competitor (Danfoss AKS 33, Alco ELS, Sporlan) richiedono ordinare 3 versioni separate specifiche. INNOVAZIONE SMART riduce SKU 66%.\n\nPERCHÉ È UNICO:\nProblema tradizionale: devi ordinare versione sensore specifica per tipo PLC (sink NPN o source PNP). Errori ordine comuni, stock magazzino triplicato. Teklab ha risolto con design configurabile: 1 device = 3 versioni. Nessun competitor offre configurabilità in sensori livello standard.\n\nVANTAGGI CONCRETI:\n• Riduzione SKU 66%: 1 prodotto in magazzino invece di 3 (capitale immobilizzato ridotto)\n• Compatibilità universale PLC: funziona con qualsiasi controller (Siemens, Allen-Bradley, Schneider, Omron, Mitsubishi)\n• Eliminazione errori ordine: no rischio ordinare versione sbagliata (costo reorder + ritardo progetto)\n• Flessibilità retrofit: stesso device per qualsiasi sostituzione, configurazione on-site in 2 minuti\n• Output AC universale: opzione relay per PLC tipo sconosciuto (isolamento galvanico totale)\n\nCOMPATIBILITÀ:\nPressione 60 bar, applicazioni refrigerazione/HVAC industriali generiche. Filettatura M18x1 standard. Configurazione: DIP switch interno accessibile (vite frontale).\n\nAPPLICAZIONI TIPICHE:\nDistributori con clienti multipli (riduzione stock), installatori retrofit (flessibilità), OEM con varianti prodotto (riduzione BOM).\n\nDOMANDE FREQUENTI:\n\nQ: Configurazione DIP switch K11: è difficile?\nA: No, semplicissimo. Svita coperchio frontale (vite standard), imposta DIP switch (posizioni 1-2 NPN, 3-4 PNP, 5-6 AC), richiudi. Tempo: 2 minuti. Nessun tool speciale. Configurazione meccanica (mantiene memoria senza batteria). Istruzioni chiare su datasheet.\n\nQ: Posso cambiare configurazione K11 dopo installazione?\nA: Sì, configurazione modificabile infinite volte. Utile se: cambi PLC impianto, riutilizzi sensore su altro progetto. Nota: se già cablato, verifica polarità prima di alimentare con nuova configurazione (evita danni PLC).\n\n\nTESTIMONIANZA CLIENTE:\n\"Gestisco stock per 20 clienti con PLC diversi. Prima: 10 sensori NPN + 10 PNP + 10 AC = 30 pezzi magazzino. Ora con K11: 30 pezzi configurabili = stessa copertura, zero rischio obsolescenza. Brillante!\"\n\n\n---\n\nExplain this unique Teklab innovation and its benefits."
+        },
+        {
+            "role": "assistant",
+            "content": "K11 - Output Configurabile Universale 3-in-1: K11 è il primo sensore livello capacitivo con OUTPUT CONFIGURABILE universale tramite DIP switch: singolo device funziona come NPN, PNP o AC (relay). Competitor (Danfoss AKS 33, Alco ELS, Sporlan) ric..."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_innovation_003_K11",
+        "file_source": "Marketing_Value_Proposition",
+        "chunk_number": 1,
+        "chunk_title": "K11 - Output Configurabile Universale 3-in-1",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Unique Innovation",
+        "product_category": "Value Proposition",
+        "innovation_name": "K11 - Output Configurabile Universale 3-in-1",
+        "qa_pairs": [
+            {
+                "question": "Configurazione DIP switch K11: è difficile?",
+                "answer": "No, semplicissimo. Svita coperchio frontale (vite standard), imposta DIP switch (posizioni 1-2 NPN, 3-4 PNP, 5-6 AC), richiudi. Tempo: 2 minuti. Nessun tool speciale. Configurazione meccanica (mantiene memoria senza batteria). Istruzioni chiare su datasheet."
+            },
+            {
+                "question": "Posso cambiare configurazione K11 dopo installazione?",
+                "answer": "Sì, configurazione modificabile infinite volte. Utile se: cambi PLC impianto, riutilizzi sensore su altro progetto. Nota: se già cablato, verifica polarità prima di alimentare con nuova configurazione (evita danni PLC)."
+            }
+        ],
+        "advantages": [
+            "Riduzione SKU 66%: 1 prodotto in magazzino invece di 3 (capitale immobilizzato ridotto)",
+            "Compatibilità universale PLC: funziona con qualsiasi controller (Siemens, Allen-Bradley, Schneider, Omron, Mitsubishi)",
+            "Eliminazione errori ordine: no rischio ordinare versione sbagliata (costo reorder + ritardo progetto)",
+            "Flessibilità retrofit: stesso device per qualsiasi sostituzione, configurazione on-site in 2 minuti",
+            "Output AC universale: opzione relay per PLC tipo sconosciuto (isolamento galvanico totale)"
+        ],
+        "applications": "Distributori con clienti multipli (riduzione stock), installatori retrofit (flessibilità), OEM con varianti prodotto (riduzione BOM).",
+        "compatibility": "Pressione 60 bar, applicazioni refrigerazione/HVAC industriali generiche. Filettatura M18x1 standard. Configurazione: DIP switch interno accessibile (vite frontale).",
+        "keywords_primary": [
+            "innovation (configurable output 3-in-1)",
+            "unique_feature (NPN/PNP/AC selectable)",
+            "savings (66% SKU reduction)",
+            "feature (DIP switch config, universal PLC, 2 min setup)",
+            "application (stock optimization, order error elimination, retrofit flexibility)"
+        ],
+        "keywords_synonyms": {
+            "configurable": [
+                "selectable",
+                "programmable",
+                "universal"
+            ],
+            "3-in-1": [
+                "triple output",
+                "multi-mode"
+            ]
+        },
+        "keywords_relations": {
+            "vs_competitors": [
+                "1 SKU vs 3 Danfoss",
+                "eliminates version selection"
+            ],
+            "outputs": [
+                "NPN sink",
+                "PNP source",
+                "AC relay"
+            ],
+            "business_benefits": [
+                "stock reduction",
+                "capital savings",
+                "flexibility"
+            ]
+        }
+    }
+}

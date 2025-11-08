@@ -1,0 +1,100 @@
+{
+    "id": "marketing_competitor_001_LC-PS",
+    "original_text": "CONFRONTO COMPETITOR: LC-PS\n\nCategoria: Marketing - Level Switch Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38, Alco FS-C/FS-J, Sporlan OLS-C, Emerson ELS, Saginomiya SNS\n\nQ: Quale prodotto Teklab sostituisce il Danfoss AKS 38?\nA: Il Teklab LC-PS (46 bar, output digitale via cavo) è l'equivalente diretto del Danfoss AKS 38. Entrambi sono sensori capacitivi digitali con prestazioni comparabili. Vantaggi LC-PS: setup più semplice, segnale digitale stabile. Retrofit: ⭐⭐⭐⭐ Facile - filettatura standard 1/4\" SAE o M10x1, alimentazione 12-24V DC universale, cablaggio 2 fili. Livello tecnologico: EQUIVALENTE.\nApplicazione: Sistemi refrigerazione standard HFC/HFO fino a 46 bar\n\nQ: Ho un Alco FS-C installato, posso sostituirlo con Teklab?\nA: Sì, il Teklab LC-PS sostituisce Alco FS-C/FS-J con vantaggio tecnologico: Alco usa microswitch meccanico (usura nel tempo), LC-PS è elettronico capacitivo (nessuna parte mobile, durata superiore). Retrofit: ⭐⭐⭐⭐⭐ Diretto - stessa filettatura. Livello tecnologico: SUPERIORE (elettronico vs meccanico).\nApplicazione: Upgrade da controllo meccanico a elettronico\n\nQ: Differenza LC-PS vs Sporlan OLS-C?\nA: Entrambi elettronici digitali con output PNP/NPN. Prestazioni equivalenti. LC-PS offre compatibilità PLC universale e setup semplificato. Retrofit diretto grazie a standard industriali comuni. Livello tecnologico: EQUIVALENTE.\nApplicazione: Controllo livello olio compressori standard\n\n\nVantaggi Competitivi: Tecnologia elettronica capacitiva (superiore ai competitor meccanici come Alco, Saginomiya). Equivalente ai premium brands (Danfoss, Emerson) con setup più semplice. Compatibilità PLC universale.\nFacilità Retrofit: ⭐⭐⭐⭐ Facile - Filettature standard, tensione universale 12-24V DC, 2 fili\n",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products compare to competitors (Danfoss, Emerson, Carel, etc.) and guide them in making informed purchasing decisions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab competitive analysis):\n\n[Marketing - Level Switch Comparison] - LC-PS vs Competitors\n\nCONFRONTO COMPETITOR: LC-PS\n\nCategoria: Marketing - Level Switch Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38, Alco FS-C/FS-J, Sporlan OLS-C, Emerson ELS, Saginomiya SNS\n\nQ: Quale prodotto Teklab sostituisce il Danfoss AKS 38?\nA: Il Teklab LC-PS (46 bar, output digitale via cavo) è l'equivalente diretto del Danfoss AKS 38. Entrambi sono sensori capacitivi digitali con prestazioni comparabili. Vantaggi LC-PS: setup più semplice, segnale digitale stabile. Retrofit: ⭐⭐⭐⭐ Facile - filettatura standard 1/4\" SAE o M10x1, alimentazione 12-24V DC universale, cablaggio 2 fili. Livello tecnologico: EQUIVALENTE.\nApplicazione: Sistemi refrigerazione standard HFC/HFO fino a 46 bar\n\nQ: Ho un Alco FS-C installato, posso sostituirlo con Teklab?\nA: Sì, il Teklab LC-PS sostituisce Alco FS-C/FS-J con vantaggio tecnologico: Alco usa microswitch meccanico (usura nel tempo), LC-PS è elettronico capacitivo (nessuna parte mobile, durata superiore). Retrofit: ⭐⭐⭐⭐⭐ Diretto - stessa filettatura. Livello tecnologico: SUPERIORE (elettronico vs meccanico).\nApplicazione: Upgrade da controllo meccanico a elettronico\n\nQ: Differenza LC-PS vs Sporlan OLS-C?\nA: Entrambi elettronici digitali con output PNP/NPN. Prestazioni equivalenti. LC-PS offre compatibilità PLC universale e setup semplificato. Retrofit diretto grazie a standard industriali comuni. Livello tecnologico: EQUIVALENTE.\nApplicazione: Controllo livello olio compressori standard\n\n\nVantaggi Competitivi: Tecnologia elettronica capacitiva (superiore ai competitor meccanici come Alco, Saginomiya). Equivalente ai premium brands (Danfoss, Emerson) con setup più semplice. Compatibilità PLC universale.\nFacilità Retrofit: ⭐⭐⭐⭐ Facile - Filettature standard, tensione universale 12-24V DC, 2 fili\n\n\n---\n\nProvide competitive analysis and product comparison guidance."
+        },
+        {
+            "role": "assistant",
+            "content": "LC-PS competitive positioning: Tecnologia elettronica capacitiva (superiore ai competitor meccanici come Alco, Saginomiya). Equivalente ai premium brands (Danfoss, Emerson) con setup più semplice. Compatibilità PLC universale."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "marketing_competitor_001_LC-PS",
+        "file_source": "Marketing_Competitor_Analysis",
+        "chunk_number": 1,
+        "chunk_title": "LC-PS - Competitor Comparison",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Marketing - Competitive Analysis",
+        "product_category": "Marketing - Level Switch Comparison",
+        "teklab_product": "LC-PS",
+        "competitors": "Danfoss AKS 38, Alco FS-C/FS-J, Sporlan OLS-C, Emerson ELS, Saginomiya SNS",
+        "qa_pairs": [
+            {
+                "question": "Quale prodotto Teklab sostituisce il Danfoss AKS 38?",
+                "answer": "Il Teklab LC-PS (46 bar, output digitale via cavo) è l'equivalente diretto del Danfoss AKS 38. Entrambi sono sensori capacitivi digitali con prestazioni comparabili. Vantaggi LC-PS: setup più semplice, segnale digitale stabile. Retrofit: ⭐⭐⭐⭐ Facile - filettatura standard 1/4\" SAE o M10x1, alimentazione 12-24V DC universale, cablaggio 2 fili. Livello tecnologico: EQUIVALENTE."
+            },
+            {
+                "question": "Ho un Alco FS-C installato, posso sostituirlo con Teklab?",
+                "answer": "Sì, il Teklab LC-PS sostituisce Alco FS-C/FS-J con vantaggio tecnologico: Alco usa microswitch meccanico (usura nel tempo), LC-PS è elettronico capacitivo (nessuna parte mobile, durata superiore). Retrofit: ⭐⭐⭐⭐⭐ Diretto - stessa filettatura. Livello tecnologico: SUPERIORE (elettronico vs meccanico)."
+            },
+            {
+                "question": "Differenza LC-PS vs Sporlan OLS-C?",
+                "answer": "Entrambi elettronici digitali con output PNP/NPN. Prestazioni equivalenti. LC-PS offre compatibilità PLC universale e setup semplificato. Retrofit diretto grazie a standard industriali comuni. Livello tecnologico: EQUIVALENTE."
+            }
+        ],
+        "competitive_advantages": "Tecnologia elettronica capacitiva (superiore ai competitor meccanici come Alco, Saginomiya). Equivalente ai premium brands (Danfoss, Emerson) con setup più semplice. Compatibilità PLC universale.",
+        "retrofit_ease": "⭐⭐⭐⭐ Facile - Filettature standard, tensione universale 12-24V DC, 2 fili",
+        "keywords_primary": [
+            "product_model (LC-PS)",
+            "pressure_range (46 bar)",
+            "competitor (Danfoss AKS 38, Alco FS-C, Sporlan OLS-C, Emerson ELS)",
+            "feature (capacitive sensor, digital output, PNP/NPN)",
+            "application (level switch, oil level control, HFC/HFO refrigeration)"
+        ],
+        "keywords_synonyms": {
+            "LC-PS": [
+                "level switch",
+                "interruttore di livello",
+                "sensore livello"
+            ],
+            "Danfoss AKS 38": [
+                "AKS38",
+                "Danfoss level switch"
+            ],
+            "Alco FS-C": [
+                "Alco FS-J",
+                "Alco float switch"
+            ],
+            "capacitive": [
+                "capacitivo",
+                "electronic sensor",
+                "sensore elettronico"
+            ],
+            "retrofit": [
+                "sostituzione",
+                "replacement",
+                "upgrade"
+            ]
+        },
+        "keywords_relations": {
+            "LC-PS_replaces": [
+                "Danfoss AKS 38",
+                "Alco FS-C",
+                "Alco FS-J",
+                "Sporlan OLS-C"
+            ],
+            "technology_advantage": [
+                "electronic vs mechanical",
+                "no moving parts",
+                "capacitive technology"
+            ],
+            "compatibility": [
+                "PLC universal",
+                "12-24V DC",
+                "2-wire connection"
+            ],
+            "installation": [
+                "1/4 inch SAE",
+                "M10x1 thread",
+                "easy retrofit"
+            ]
+        }
+    }
+}
