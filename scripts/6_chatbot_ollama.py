@@ -51,7 +51,7 @@ class TeklabAIChatbotOllama:
     
     # Context window management
     MAX_HISTORY_TOKENS = 6000
-    MAX_HISTORY_TURNS = 10
+    MAX_HISTORY_TURNS = 10  # ⚡ OTTIMIZZATO: 10 turni (20 messaggi) per conversazioni tecniche lunghe
     
     # Ollama settings
     OLLAMA_MODEL = "llama3.2:3b"
@@ -305,8 +305,12 @@ class TeklabAIChatbotOllama:
         
         context_parts = []
         for turn in recent_history:
-            context_parts.append(f"User: {turn['user']}")
-            context_parts.append(f"Assistant: {turn['assistant']}")
+            # ⚡ LIMITI per evitare prompt troppo lunghi
+            # Ma più generosi dell'API per accuratezza locale
+            user_msg = turn['user'][:500]  # Allineato API
+            asst_msg = turn['assistant'][:800]  # Allineato API
+            context_parts.append(f"User: {user_msg}")
+            context_parts.append(f"Assistant: {asst_msg}")
         
         return "\n".join(context_parts)
     
@@ -368,9 +372,13 @@ class TeklabAIChatbotOllama:
         history_context = self._get_conversation_context()
         
         if rag_context:
-            # ⚡ OTTIMIZZATO: Ridotto per velocità (3 chunk @ 800 chars = ~2400)
-            # Con top_k=3 chunks, context più compatto e veloce
-            max_context_length = 2500  # ⚡ Allineato a backend_api (era 4000)
+            # ⚡ OTTIMIZZATO: Context ottimale per RAG accurato
+            # Con top_k=5 e chunk Teklab da ~3000-8000 chars
+            # Context window: 8192 token ≈ 24000-32000 chars disponibili
+            # Budget INPUT: SYSTEM(800) + HISTORY_10x(5200) + RAG(8000) + GUIDELINES(600) = ~14600 chars ≈ 3650 token
+            # Budget OUTPUT: 3200 token (L4 max: 4×800)
+            # Margine sicurezza: ~1340 token liberi (sufficiente)
+            max_context_length = 8000  # ⚡ OTTIMO: supporta 2 chunk completi + 1 parziale
             if len(rag_context) > max_context_length:
                 rag_context = rag_context[:max_context_length] + "\n\n[... Additional technical details available on request ...]"
             
@@ -391,9 +399,10 @@ class TeklabAIChatbotOllama:
             print("⏳ Generazione in corso (Ollama)...", flush=True)
             start_generation = time.time()
             
-            # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 400 → 800 → 1200 → 1600
+            # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 800 → 1600 → 2400 → 3200
             # CONTINUE MODE: ogni retry CONTINUA da dove si era fermato (no re-generazione)
-            num_predict_levels = [400, 400, 400, 400]  # Ogni livello aggiunge 400 token
+            # ⚡ OTTIMIZZATO: Livello base 800 token per risposte tecniche B2B complete
+            num_predict_levels = [800, 800, 800, 800]  # Ogni livello aggiunge 800 token (max 3200)
             current_level = 0
             full_response = ""
             done_reason = 'stop'
@@ -427,9 +436,9 @@ TEKLAB ASSISTANT RESPONSE:
                     "stream": False,
                     "options": {
                         "temperature": 0.6,
-                        "num_predict": num_predict,  # 🔄 ADATTIVO: 400 token per livello
+                        "num_predict": num_predict,  # 🔄 ADATTIVO: 800 token per livello
                         "top_p": 0.85,
-                        "num_ctx": 4096,
+                        "num_ctx": 8192,  # ⚡ AUMENTATO da 4096 - context window più largo per RAG complesso
                         "repeat_penalty": 1.1,
                         "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
                     }

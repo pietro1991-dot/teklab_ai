@@ -8,6 +8,7 @@ from flask import Flask, request, jsonify, Response, stream_with_context, sessio
 from flask_cors import CORS
 import json
 import sys
+import os
 import logging
 import pickle
 import numpy as np
@@ -139,15 +140,6 @@ class RequestQueue:
 # Istanza globale della coda
 request_queue = RequestQueue(max_concurrent=1)
 
-# Session storage per conversation history
-_conversation_sessions = {}  # session_id -> conversation_history
-
-def get_session_id():
-    """Ottieni o crea session ID per utente"""
-    if 'session_id' not in session:
-        session['session_id'] = str(uuid.uuid4())
-    return session['session_id']
-
 # Ollama configuration
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3.2:3b"
@@ -237,6 +229,10 @@ def expand_query(query):
         'differenza': ['confronto', 'comparazione', 'differenze tra'],
         'scegliere': ['selezionare', 'quale', 'decidere'],
         'pressione': ['bar', 'pressioni'],
+        # Follow-up questions
+        'altre informazioni': ['dettagli aggiuntivi', 'specifiche tecniche', 'caratteristiche'],
+        'altro': ['dettagli', 'informazioni aggiuntive', 'specifiche'],
+        'più dettagli': ['specifiche', 'caratteristiche tecniche', 'informazioni'],
         'types': ['versions', 'variants', 'models'],
         'versions': ['types', 'variants', 'models'],
         'variants': ['versions', 'types', 'models'],
@@ -244,7 +240,11 @@ def expand_query(query):
         'how many': ['what are', 'list', 'which'],
         'difference': ['comparison', 'compare', 'differences between'],
         'choose': ['select', 'which', 'decide'],
-        'pressure': ['bar', 'pressures']
+        'pressure': ['bar', 'pressures'],
+        # Follow-up questions (English)
+        'more information': ['additional details', 'specifications', 'features'],
+        'anything else': ['more details', 'additional info', 'specifications'],
+        'more details': ['specifications', 'technical features', 'information']
     }
     
     query_lower = query.lower()
@@ -419,6 +419,39 @@ request_queue = RequestQueue(max_concurrent=1)  # Ollama single-threaded
 # Session-specific conversation history
 _conversation_sessions = {}  # session_id -> conversation_history
 
+def get_conversation_context(session_id, max_turns=2):
+    """
+    Costruisce contesto dalla cronologia conversazione.
+    Limita a ultimi N turni per evitare prompt troppo lunghi.
+    
+    Args:
+        session_id: ID sessione utente
+        max_turns: Numero massimo turni da includere (default: 2)
+    
+    Returns:
+        str: Contesto formattato con cronologia recente
+    """
+    history = get_conversation_history(session_id)
+    if not history or len(history) == 0:
+        return ""
+    
+    # Prendi ultimi N turni
+    recent_turns = history[-max_turns:] if len(history) > max_turns else history
+    
+    context_parts = []
+    for turn in recent_turns:
+        user_msg = turn.get('user', '')
+        bot_msg = turn.get('assistant', '')
+        if user_msg and bot_msg:
+            # ⚡ AUMENTATO: Contesto più completo per follow-up questions
+            context_parts.append(f"Previous Q: {user_msg[:500]}")  # ⚡ 200→500 chars
+            context_parts.append(f"Previous A: {bot_msg[:800]}")   # ⚡ 300→800 chars
+    
+    if context_parts:
+        return "CONVERSATION HISTORY (recent context):\n" + "\n".join(context_parts) + "\n\n---\n\n"
+    return ""
+
+
 def get_session_id():
     """Ottiene o crea session ID per utente"""
     if 'session_id' not in session:
@@ -525,7 +558,14 @@ ANSWER:"""
         
         return {
             'response': assistant_message,
-            'sources': [{'product_category': c['product_category'], 'chunk_title': c['chunk_title'], 'similarity': c['similarity']} for c in relevant_chunks],
+            'sources': [
+                {
+                    'product': c.get('product_category', 'Unknown Product'),  # ✅ Frontend si aspetta 'product'
+                    'similarity': c['similarity'],
+                    'title': c.get('chunk_title', '')
+                }
+                for c in relevant_chunks
+            ],
             'error': False
         }
         
@@ -630,29 +670,52 @@ def chat_stream():
                 else:
                     rag_context = ""
                 
-                # ⚡ OTTIMIZZAZIONE: Tronca context se troppo lungo
-                max_context_length = 2500  # Supporta ~3 chunks completi
+                # ⚡ OTTIMIZZAZIONE: Context ottimale per RAG accurato
+                # Con top_k=5 e chunk Teklab da ~3000-8000 chars
+                # Context window: 8192 token ≈ 24000-32000 chars disponibili
+                # Budget INPUT: SYSTEM(800) + HISTORY_10x(5200) + RAG(8000) + GUIDELINES(600) = ~14600 chars ≈ 3650 token
+                # Budget OUTPUT: 3200 token (L4 max: 4×800)
+                # Margine sicurezza: ~1340 token liberi (sufficiente)
+                max_context_length = 8000  # ⚡ OTTIMO: supporta 2 chunk completi + 1 parziale
                 if rag_context and len(rag_context) > max_context_length:
                     rag_context = rag_context[:max_context_length] + "\n\n[... Additional technical details available on request ...]"
+                
+                # 🧠 CRONOLOGIA CONVERSAZIONE: Recupera contesto recente
+                # ⚡ AUMENTATO: 10 turni (20 messaggi) per conversazioni tecniche lunghe
+                history_context = get_conversation_context(session_id, max_turns=10)
                 
                 # 🎯 USA TEMPLATE CENTRALIZZATO da prompts_config.py
                 if rag_context:
                     full_prompt = build_rag_prompt(rag_context, user_message)
+                    # Aggiungi cronologia se presente
+                    if history_context:
+                        full_prompt = full_prompt.replace("TEKLAB ASSISTANT RESPONSE:", 
+                                                          f"{history_context}TEKLAB ASSISTANT RESPONSE:")
                 else:
                     full_prompt = build_simple_prompt(user_message)
+                    if history_context:
+                        full_prompt = f"{history_context}{full_prompt}"
                 
                 # Invia sources prima della risposta
                 logger.info(f"📤 Sending sources to client ({len(relevant_chunks)} chunks)...")
                 sources_data = {
                     'type': 'sources',
-                    'sources': [{'product_category': c['product_category'], 'chunk_title': c['chunk_title'], 'similarity': c['similarity']} for c in relevant_chunks]
+                    'sources': [
+                        {
+                            'product': c.get('product_category', 'Unknown Product'),  # ✅ Frontend si aspetta 'product'
+                            'similarity': c['similarity'],
+                            'title': c.get('chunk_title', '')
+                        } 
+                        for c in relevant_chunks
+                    ]
                 }
                 yield f"data: {json.dumps(sources_data)}\n\n"
                 logger.info(f"✅ Sources sent via SSE")
                 
-                # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 400 → 800 → 1200 → 1600
+                # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 800 → 1600 → 2400 → 3200
                 # CONTINUE MODE: ogni retry CONTINUA da dove si era fermato (no re-generazione)
-                num_predict_levels = [400, 400, 400, 400]  # Ogni livello aggiunge 400 token
+                # ⚡ OTTIMIZZATO: Livello base 800 token per risposte tecniche B2B complete
+                num_predict_levels = [800, 800, 800, 800]  # Ogni livello aggiunge 800 token (max 3200)
                 current_level = 0
                 full_response = ""
                 
@@ -687,9 +750,9 @@ TEKLAB ASSISTANT RESPONSE:
                         "stream": True,  # ✅ STREAMING ENABLED
                         "options": {
                             "temperature": 0.6,
-                            "num_predict": num_predict,  # 🔄 ADATTIVO: sempre 400 per livello
+                            "num_predict": num_predict,  # 🔄 ADATTIVO: 800 token per livello
                             "top_p": 0.85,
-                            "num_ctx": 4096,  # ⚡ AUMENTATO da 2048 - supporta RAG context più lunghi
+                            "num_ctx": 8192,  # ⚡ AUMENTATO da 4096 - context window più largo per RAG complesso
                             "repeat_penalty": 1.1,
                             "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
                         }
@@ -756,6 +819,18 @@ TEKLAB ASSISTANT RESPONSE:
                 yield f"data: {json.dumps(error_data)}\n\n"
             
             finally:
+                # 💾 SALVA CONVERSAZIONE in cronologia sessione (se completata con successo)
+                if 'full_response' in locals() and full_response:
+                    history = get_conversation_history(session_id)
+                    history.append({
+                        'user': user_message,
+                        'assistant': full_response,
+                        'timestamp': datetime.now().isoformat()
+                    })
+                    # Limita cronologia a ultimi 10 turni (memoria estesa per conversazioni lunghe)
+                    if len(history) > 10:
+                        _conversation_sessions[session_id] = history[-10:]
+                
                 # ✅ RELEASE QUEUE LOCK quando finito (success o error)
                 request_queue.finish_processing(session_id)
                 logger.info(f"🔓 Session {session_id[:8]}... released Ollama lock")
