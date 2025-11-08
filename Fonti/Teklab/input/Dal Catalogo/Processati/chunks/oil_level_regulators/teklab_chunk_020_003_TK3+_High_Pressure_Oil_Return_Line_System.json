@@ -30,14 +30,41 @@
             "Solenoid Valve and Relay Output"
         ],
         "keywords_primary": [
-            "TK3+",
-            "High Pressure Oil Return Line System",
-            "Electro-Optic Sensor",
-            "Solenoid Valve",
-            "Relay Output"
+            "product_model (TK3+)",
+            "pressure_range (100 bar)",
+            "pressure_range (130 bar)",
+            "feature (relay)",
+            "application (oil level, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "100 bar",
+                "130 bar"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK3+ is designed to control the oil level in the compressor crankcase in order to avoid the compressor to run without oil and so improve its lifetime.",
             "The TK3+ comprises a solenoid valve for oil filling and a relay output contact to give an alarm."

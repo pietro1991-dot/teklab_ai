@@ -32,14 +32,48 @@
             "High reliability due to mechanical parts absence"
         ],
         "keywords_primary": [
-            "TK4",
-            "130bar",
-            "CO2",
-            "oil level regulator",
-            "MODBUS"
+            "product_model (TK4)",
+            "pressure_range (130 bar)",
+            "refrigerant (CO2)",
+            "feature (MODBUS)",
+            "application (oil level)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "130 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "Revolutionary connectivity capabilities.",
             "High reliability ensured by absence of mechanical moving parts."

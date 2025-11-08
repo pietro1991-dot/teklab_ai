@@ -30,12 +30,15 @@
             "Power / not powered operating mode"
         ],
         "keywords_primary": [
-            "TK4",
-            "wireless proximity communication",
-            "MODBUS",
-            "Android device compatibility"
+            "product_model (TK4)"
         ],
-        "keywords_synonyms": {},
+        "keywords_synonyms": {
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
         "keywords_relations": {},
         "iconic_quotes": [
             "The wireless proximity communication with the TK4 is established simply connecting the supplied USB dongle to the PC or to the Android device",

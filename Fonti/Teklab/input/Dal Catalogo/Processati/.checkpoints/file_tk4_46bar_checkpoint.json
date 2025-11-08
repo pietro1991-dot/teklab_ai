@@ -507,7 +507,7 @@
         ],
         "keywords_primary": [
           "product_model (TK4-A50AC16-01)",
-          "pressure_range (0-600bar)",
+          "pressure_range (46bar, 80bar, 130bar, 150bar)",
           "temperature (-40°C to +125°C)",
           "feature (ATEX, MODBUS)",
           "application (compressor lubrication)"
@@ -521,7 +521,7 @@
         "qa_pairs": [
           {
             "question": "What is the maximum pressure range supported by TK4-A50AC16-01?",
-            "answer": "The TK4-A50AC16-01 oil level controller supports a pressure range of 0-600bar. This makes it an ideal solution for compressor lubrication applications where precise control over pressure is critical.",
+            "answer": "The TK4-A50AC16-01 oil level controller supports a pressure range of 46bar, 80bar, 130bar, or 150bar. This makes it an ideal solution for compressor lubrication applications where precise control over pressure is critical.",
             "difficulty": "beginner",
             "intent": [
               "product_selection",
@@ -555,7 +555,7 @@
         "summary": "The TK4-A50AC16-01 oil level controller is a reliable and safe solution for compressor lubrication applications. With its ATEX certification and fast response time, it provides optimal control over pressure and ensures the protection of equipment.",
         "domain_metadata": {
           "product_family": "Oil Level Regulators",
-          "pressure_class": "0-600bar",
+          "pressure_class": "46bar, 80bar, 130bar, or 150bar",
           "refrigerants": [
             "R134a",
             "R404A"

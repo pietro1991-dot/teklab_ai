@@ -30,14 +30,36 @@
             "Relay Alarm System"
         ],
         "keywords_primary": [
-            "TK3+",
-            "Oil Level Controller",
-            "130bar CO2",
-            "Modbus RTU",
-            "ATEX Certification"
+            "product_model (TK3+)",
+            "product_model (Rotalock)",
+            "feature (relay)",
+            "application (oil level, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "È un regolatore di livello olio completo, progettato per controllare il livello dell'olio nel crankcase del compressore per prevenire danni da mancanza di olio."
         ],

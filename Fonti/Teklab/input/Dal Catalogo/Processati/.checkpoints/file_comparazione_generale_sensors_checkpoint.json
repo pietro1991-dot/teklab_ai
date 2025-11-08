@@ -501,7 +501,7 @@
         ],
         "keywords_primary": [
           "product_model (e.g., TK3+)",
-          "pressure_range (e.g., 130bar, 0-600bar)",
+          "pressure_range (e.g., 46bar, 80bar, 130bar, 150bar)",
           "temperature (e.g., -40°C, +125°C)",
           "feature (e.g., MODBUS, ATEX)",
           "application (e.g., compressor, refrigeration)"
@@ -516,7 +516,7 @@
         "qa_pairs": [
           {
             "question": "What is the maximum pressure range supported by TK3+?",
-            "answer": "The TK3+ oil level controller supports a maximum pressure range of 130bar, making it suitable for high-pressure applications. Additionally, it can operate within a pressure range of 0-600bar, ensuring flexibility in various industrial settings.",
+            "answer": "The TK3+ oil level controller supports a maximum pressure range of 130bar, making it suitable for high-pressure applications. Additionally, it can operate within a pressure range of 46bar, 80bar, 130bar, or 150bar, ensuring flexibility in various industrial settings.",
             "difficulty": "intermediate",
             "intent": [
               "product_selection",
@@ -540,7 +540,7 @@
         "summary": "The ATEX compliant oil level controller, such as TK3+, is designed for high-pressure applications and ensures safe operation in explosive environments.",
         "domain_metadata": {
           "product_family": "Comparazione Prodotti",
-          "pressure_class": "130bar / 0-600bar",
+          "pressure_class": "130bar / 46bar, 80bar, 130bar, or 150bar",
           "refrigerants": [
             "R134a",
             "R404A",

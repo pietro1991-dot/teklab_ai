@@ -34,15 +34,42 @@
             "Use in level monitoring applications for control of low viscosity liquids"
         ],
         "keywords_primary": [
-            "LC-XT LC-XP",
-            "optical level switch",
-            "infrared-ray emitter and optical receiver",
-            "230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC",
-            "EN 175301-803A connector (EX DIN 43650 size A)",
-            "M20x1.5 or 1”1/8 – 18 UNEF adapter"
+            "product_model (LC-XT)",
+            "product_model (LC-XP)",
+            "pressure_range (46 bar)",
+            "pressure_range (120 bar)",
+            "refrigerant (CO2)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "120 bar"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The absence of mechanical moving parts ensures High reliability",
             "Well consolidated steel with fused glass technology  ensures no leakage and good chemical compati bility"

@@ -34,16 +34,45 @@
             "LEDs integrated in the electronic module allow to verify liquid status"
         ],
         "keywords_primary": [
-            "TK1+",
-            "Level control unit",
-            "24VAC / 230VAC power supply",
-            "Pressure range: 46bar",
-            "Temperature: -40°C÷+85°C",
-            "Modbus protocol",
-            "ATEX certification"
+            "product_model (TK1+)",
+            "pressure_range (46 bar)",
+            "pressure_range (100 bar)",
+            "refrigerant (CO2)",
+            "feature (optical, relay)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "TK1+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "100 bar"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The two parts design allows the fast replacement of the electronic parts without depressurizing the system.",
             "The electronic module of the TK1+ contains an infrared-ray emitter and an optical receiver."

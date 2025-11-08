@@ -257,8 +257,66 @@ def expand_query(query):
     
     return variants[:5]
 
+def calculate_keyword_boost(query, chunk_data):
+    """
+    Calcola boost score basato su keyword matching
+    Returns: boost score (0.0 to 0.5)
+    
+    Logica:
+    - keywords_primary exact match: +0.15 per match
+    - keywords_synonyms match: +0.1 per key, +0.08 per synonym
+    - keywords_relations match: +0.05 per match
+    - Boost massimo cumulativo: 0.5
+    """
+    boost = 0.0
+    query_lower = query.lower()
+    metadata = chunk_data.get('metadata', {})
+    
+    # Estrai keywords
+    keywords_primary = metadata.get('keywords_primary', [])
+    keywords_synonyms = metadata.get('keywords_synonyms', {})
+    keywords_relations = metadata.get('keywords_relations', {})
+    
+    # 1️⃣ Check keywords_primary (peso massimo)
+    for kw in keywords_primary:
+        # Estrai valore tra parentesi: "product_model (LC-PS)" -> "LC-PS"
+        if '(' in kw and ')' in kw:
+            value = kw.split('(')[1].split(')')[0].strip().lower()
+            if value in query_lower:
+                boost += 0.15
+    
+    # 2️⃣ Check keywords_synonyms (peso medio)
+    for key, synonyms in keywords_synonyms.items():
+        key_lower = key.lower()
+        if key_lower in query_lower:
+            boost += 0.1
+        else:
+            # Check anche i sinonimi
+            for syn in synonyms:
+                if syn.lower() in query_lower:
+                    boost += 0.08
+                    break
+    
+    # 3️⃣ Check keywords_relations (peso basso ma utile)
+    for rel_type, values in keywords_relations.items():
+        for val in values:
+            if val.lower() in query_lower:
+                boost += 0.05
+                break  # Max 1 match per relation type
+    
+    # 📊 Limita boost massimo a 0.5 (evita dominio su embeddings)
+    boost = min(boost, 0.5)
+    
+    return boost
+
 def search_relevant_chunks(query, top_k=3):
-    """Ricerca semantica con QUERY EXPANSION e NUOVA STRUTTURA embeddings."""
+    """
+    Ricerca semantica IBRIDA: Embeddings + Keywords
+    1. Query expansion per varianti semantiche
+    2. Calcolo similarità embeddings con aggregazione MAX
+    3. Keyword boost intelligente (primary/synonyms/relations)
+    4. Score finale combinato per accuracy massima
+    """
     if not load_embeddings():
         return []
     
@@ -268,7 +326,7 @@ def search_relevant_chunks(query, top_k=3):
     
     # QUERY EXPANSION: genera varianti
     query_variants = expand_query(query)
-    logger.info(f"🔍 Query expansion: {len(query_variants)} varianti generate")
+    logger.info(f"🔍 HYBRID Search (Embeddings + Keywords): {len(query_variants)} query variants")
     for i, variant in enumerate(query_variants, 1):
         logger.debug(f"   [{i}] '{variant[:50]}'")
     
@@ -299,16 +357,39 @@ def search_relevant_chunks(query, top_k=3):
     # Aggrega: MAX similarity tra varianti
     aggregated_similarities = np.max(all_similarities, axis=0)
     
-    # Crea lista risultati
-    similarities = [(embedding_ids[i], aggregated_similarities[i]) for i in range(len(embedding_ids))]
-    similarities.sort(key=lambda x: x[1], reverse=True)
+    # 🆕 HYBRID BOOST: Aggiungi keyword matching score
+    hybrid_scores = []
+    for i, emb_id in enumerate(embedding_ids):
+        base_score = aggregated_similarities[i]
+        
+        # Recupera chunk per calcolare keyword boost
+        chunk_id = embedding_to_chunk_id.get(emb_id)
+        keyword_boost = 0.0
+        
+        if chunk_id:
+            chunk_data = chunks_data.get(chunk_id, {})
+            if chunk_data:
+                keyword_boost = calculate_keyword_boost(query, chunk_data)
+        
+        # Score finale = embedding similarity + keyword boost
+        final_score = base_score + keyword_boost
+        hybrid_scores.append((emb_id, final_score, base_score, keyword_boost))
     
-    # Filtra per threshold
-    filtered_results = [(eid, sim) for eid, sim in similarities if sim >= 0.28]
+    # Ordina per score ibrido
+    hybrid_scores.sort(key=lambda x: x[1], reverse=True)
+    
+    # DEBUG: Log top 5 con breakdown
+    logger.info("   Top 5 HYBRID scores (embedding + keywords):")
+    for i, (emb_id, final, base, boost) in enumerate(hybrid_scores[:5], 1):
+        boost_icon = "🚀" if boost > 0 else ""
+        logger.info(f"      [{i}] final={final:.4f} (emb={base:.4f} + kw={boost:.4f}) {boost_icon}")
+    
+    # Filtra per threshold (usa score finale)
+    filtered_results = [(eid, final, base, boost) for eid, final, base, boost in hybrid_scores if final >= 0.28]
     
     # Prendi top_k
     results = []
-    for emb_id, sim in filtered_results[:top_k]:
+    for emb_id, final_score, base_score, keyword_boost in filtered_results[:top_k]:
         chunk_id = embedding_to_chunk_id.get(emb_id)
         if not chunk_id:
             continue
@@ -322,14 +403,17 @@ def search_relevant_chunks(query, top_k=3):
         
         results.append({
             'content': content,
-            'similarity': float(sim),
+            'similarity': float(final_score),
+            'embedding_score': float(base_score),
+            'keyword_boost': float(keyword_boost),
             'product_category': metadata.get('product_category', ''),
             'chunk_title': metadata.get('chunk_title', '')
         })
     
-    logger.info(f"✅ RAG search: {len(results)} chunk recuperati (threshold=0.28)")
-    return results
-
+    logger.info(f"✅ HYBRID RAG search: {len(results)} chunks retrieved (threshold=0.28)")
+    for i, r in enumerate(results, 1):
+        logger.info(f"   [{i}] {r['product_category']} - score={r['similarity']:.4f} (emb={r['embedding_score']:.4f} + kw={r['keyword_boost']:.4f})")
+    
     return results
 
 

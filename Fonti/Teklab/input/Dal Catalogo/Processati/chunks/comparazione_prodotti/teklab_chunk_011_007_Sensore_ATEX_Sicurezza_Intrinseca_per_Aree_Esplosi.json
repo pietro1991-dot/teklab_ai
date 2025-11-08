@@ -32,22 +32,19 @@
             "applicazioni industriali"
         ],
         "keywords_primary": [
-            "ATEX",
-            "sensore sicuro",
-            "barriera a sicurezza intrinseca",
-            "industria chimica",
-            "petrochimica"
+            "product_model (ATEX)",
+            "application (ATEX)"
         ],
         "keywords_synonyms": {},
         "keywords_relations": {},
         "iconic_quotes": [
-            "Il nostro sensore ATEX è un dispositivo specializzato, progettato con un unico obiettivo: operare in sicurezza in ambienti con atmosfera potenzialmente esplosiva (Zone 0, 1, 2).",
-            "Questo è il suo carattere fondamentale. È un sensore a 'sicurezza intrinseca' (ia), il che significa che i suoi circuiti elettrici sono progettati per non generare mai abbastanza energia (scintille o calore) da poter innescare un'esplosione, anche in caso di guasto."
+            "Our ATEX sensor is a specialized device, designed with a single objective: to operate safely in environments with potentially explosive atmospheres (Zones 0, 1, 2).",
+            "This is its fundamental characteristic. It is an 'intrinsically safe' (ia) sensor, which means its electrical circuits are designed never to generate enough energy (sparks or heat) to trigger an explosion, even in case of failure."
         ],
         "qa_pairs": [
             {
-                "question": "Qual è la certificazione ATEX richiesta per il sensore sicuro?",
-                "answer": "La certificazione ATEX (Ex ia IIC) è richiesta per garantire la sicurezza intrinseca del sensore in ambienti con atmosfera potenzialmente esplosiva. Questo significa che i suoi circuiti elettrici sono progettati per non generare mai abbastanza energia da poter innescare un'esplosione, anche in caso di guasto.",
+                "question": "What is the ATEX certification required for the safe sensor?",
+                "answer": "ATEX certification (Ex ia IIC) is required to ensure the intrinsic safety of the sensor in environments with potentially explosive atmospheres. This means its electrical circuits are designed never to generate enough energy to trigger an explosion, even in case of failure.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -55,8 +52,8 @@
                 ]
             },
             {
-                "question": "Come devo installare il sensore sicuro per garantire la sicurezza?",
-                "answer": "Il sensore sicuro deve essere installato in un ambiente sicuro, con una barriera a sicurezza intrinseca appropriata che limiti la tensione e la corrente inviate al sensore. Questo è fondamentale per garantire la sicurezza del sensore e degli operai.",
+                "question": "How should I install the safe sensor to ensure safety?",
+                "answer": "The safe sensor must be installed in a safe environment, with an appropriate intrinsically safe barrier that limits the voltage and current sent to the sensor. This is essential to ensure the safety of the sensor and workers.",
                 "difficulty": "beginner",
                 "intent": [
                     "installation",
@@ -65,10 +62,10 @@
             }
         ],
         "natural_questions": [
-            "Qual è la certificazione ATEX richiesta per il sensore sicuro?",
-            "Come devo installare il sensore sicuro?"
+            "What is the ATEX certification required for the safe sensor?",
+            "How should I install the safe sensor?"
         ],
-        "summary": "Il nostro sensore ATEX è un dispositivo specializzato progettato per operare in sicurezza in ambienti con atmosfera potenzialmente esplosiva. È dotato di una certificazione ATEX (Ex ia IIC) che garantisce la sicurezza intrinseca.",
+        "summary": "Our ATEX sensor is a specialized device designed to operate safely in environments with potentially explosive atmospheres. It is equipped with ATEX certification (Ex ia IIC) which guarantees intrinsic safety.",
         "domain_metadata": {
             "product_family": "Comparazione Prodotti",
             "pressure_class": "",

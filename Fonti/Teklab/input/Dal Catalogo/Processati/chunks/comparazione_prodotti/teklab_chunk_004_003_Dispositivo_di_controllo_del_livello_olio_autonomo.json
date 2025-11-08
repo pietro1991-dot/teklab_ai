@@ -1,129 +1,161 @@
 {
-    "id": "teklab_chunk_004_003_Dispositivo_di_controllo_del_livello_olio_autonomo",
-    "original_text": "un dispositivo robusto e autonomo progettato per un unico scopo: mantenere il livello dell'olio e attivare un allarme in caso di problemi. Non dispone di alcuna interfaccia di comunicazione digitale. La sua configurazione è fissa, con tempi di reazione e allarme pre-impostati in fabbrica per coprire la maggior parte delle applicazioni standard. L'unica interazione con l'esterno è il contatto pulito del relè di allarme, che può essere collegato a una spia luminosa, a una sirena o al sistema di controllo del compressore per arrestarlo in caso di emergenza. La sua forza risiede nella sua semplicità: è facile da installare, non richiede programmazione e svolge il suo lavoro in modo affidabile per anni.\", 'quando_sceglierlo': \"Quando si necessita di una soluzione di controllo del livello olio economica, robusta e completamente autonoma. È perfetto per aggiornare vecchi sistemi, per compressori singoli o per qualsiasi applicazione dove non è richiesto un monitoraggio remoto o una configurazione personalizzata. È la scelta ideale se il motto è 'semplicità e massima affidabilità'.\"}, {'famiglia': 'TK4', 'filosofia': 'Configurazione Smart Locale', 'caratteristica_principale': 'Controllo avanzato con configurazione e diagnostica wireless tramite NFC.', 'connettivita': 'NFC per comunicazione locale a corto raggio con smartphone.', 'descrizione_dettagliata': \"Il TK4 rappresenta un importante passo avanti, introducendo la flessibilità della configurazione wireless. Pur funzionando come un regolatore autonomo, integra la tecnologia NFC che permette ai tecnici di interagire con l'unità tramite un'app. Questo apre un mondo di possibilità per la personalizzazione e la diagnostica sul campo. L'utente può regolare finemente i timer per adattare il dispositivo alle condizioni specifiche dell'impianto, prevenendo falsi allarmi. Può anche leggere dati diagnostici preziosi, come il numero di volte che la valvola si è aperta o la durata degli allarmi, aiutando a identificare problemi latenti nell'impianto.",
-    "messages": [
-        {
-            "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
-        },
-        {
-            "role": "user",
-            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - Dispositivo di controllo del livello olio autonomo\nKey Specifications: Semplicitè e massima affidabilitá, Controllo avanzato con configurazione wireless tramite NFC, Configurazione Smart Locale, Interfaccia di comunicazione locale a corto raggio con smartphone, Personalizzazione e diagnostica sul campo\n📌 Important Details: Il TK4 rappresenta un importante passo avanti, introducendo la flessibilitè della configurazione wireless. | L'utente può regolare finemente i timer per adattare il dispositivo alle condizioni specifiche dell'impianto\n\nComplete technical text:\nun dispositivo robusto e autonomo progettato per un unico scopo: mantenere il livello dell'olio e attivare un allarme in caso di problemi. Non dispone di alcuna interfaccia di comunicazione digitale. La sua configurazione è fissa, con tempi di reazione e allarme pre-impostati in fabbrica per coprire la maggior parte delle applicazioni standard. L'unica interazione con l'esterno è il contatto pulito del relè di allarme, che può essere collegato a una spia luminosa, a una sirena o al sistema di controllo del compressore per arrestarlo in caso di emergenza. La sua forza risiede nella sua semplicità: è facile da installare, non richiede programmazione e svolge il suo lavoro in modo affidabile per anni.\", 'quando_sceglierlo': \"Quando si necessita di una soluzione di controllo del livello olio economica, robusta e completamente autonoma. È perfetto per aggiornare vecchi sistemi, per compressori singoli o per qualsiasi applicazione dove non è richiesto un monitoraggio remoto o una configurazione personalizzata. È la scelta ideale se il motto è 'semplicità e massima affidabilità'.\"}, {'famiglia': 'TK4', 'filosofia': 'Configurazione Smart Locale', 'caratteristica_principale': 'Controllo avanzato con configurazione e diagnostica wireless tramite NFC.', 'connettivita': 'NFC per comunicazione locale a corto raggio con smartphone.', 'descrizione_dettagliata': \"Il TK4 rappresenta un importante passo avanti, introducendo la flessibilità della configurazione wireless. Pur funzionando come un regolatore autonomo, integra la tecnologia NFC che permette ai tecnici di interagire con l'unità tramite un'app. Questo apre un mondo di possibilità per la personalizzazione e la diagnostica sul campo. L'utente può regolare finemente i timer per adattare il dispositivo alle condizioni specifiche dell'impianto, prevenendo falsi allarmi. Può anche leggere dati diagnostici preziosi, come il numero di volte che la valvola si è aperta o la durata degli allarmi, aiutando a identificare problemi latenti nell'impianto.\n\n---\n\nQuestion: Quale pressure range supporta TK4?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
-        },
-        {
-            "role": "assistant",
-            "content": "Il dispositivo di controllo del livello olio autonomo TK4 rappresenta un importante passo avanti nella configurazione wireless e nella personalizzazione. Offre una flessibilitè unica per l'interfaccia di comunicazione locale a corto raggio con smartphone."
-        }
-    ],
-    "metadata": {
-        "chunk_id": "teklab_chunk_004_003_Dispositivo_di_controllo_del_livello_olio_autonomo",
-        "file_index": 4,
-        "file_source": "All_Categories",
-        "chunk_number": 3,
-        "chunk_title": "Dispositivo di controllo del livello olio autonomo",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Technical Documentation",
-        "product_category": "Comparazione Prodotti",
-        "key_concepts": [
-            "Semplicitè e massima affidabilitá",
-            "Controllo avanzato con configurazione wireless tramite NFC",
-            "Configurazione Smart Locale",
-            "Interfaccia di comunicazione locale a corto raggio con smartphone",
-            "Personalizzazione e diagnostica sul campo"
-        ],
-        "keywords_primary": [
-            "TK4",
-            "NFC",
-            "configurazione wireless",
-            "controllo avanzato",
-            "autonomia"
-        ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
-        "iconic_quotes": [
-            "Il TK4 rappresenta un importante passo avanti, introducendo la flessibilitè della configurazione wireless.",
-            "L'utente può regolare finemente i timer per adattare il dispositivo alle condizioni specifiche dell'impianto",
-            "Puù anche leggere dati diagnostici preziosi, come il numero di volte che la valvola si è aperta"
-        ],
-        "qa_pairs": [
-            {
-                "question": "Quale pressure range supporta TK4?",
-                "answer": "Il TK4 supporta una pressione di 130bar. La sua configurazione Smart Locale consente all'utente di regolare finemente i timer per adattare il dispositivo alle condizioni specifiche dell'impianto.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "technical_specification",
-                    "application_design"
-                ]
-            },
-            {
-                "question": "Come si configura il TK4?",
-                "answer": "Il TK4 si configura utilizzando la tecnologia NFC, che consente all'utente di interagire con l'unità tramite un'app. Questo apre un mondo di possibilitè per la personalizzazione e la diagnostica sul campo.",
-                "difficulty": "advanced",
-                "intent": [
-                    "technical_specification",
-                    "application_design"
-                ]
-            },
-            {
-                "question": "Quale refrigerante è compatibile con TK4?",
-                "answer": "Il TK4 è compatibile con R134a, R404A e CO2. L'utente deve assicurarsi di utilizzare solo refrigeranti compatibili per garantire la sicurezza e l'affidabilità del dispositivo.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "technical_specification",
-                    "application_design"
-                ]
-            },
-            {
-                "question": "Come si installa il TK4?",
-                "answer": "Il TK4 è facile da installare e richiede solo una pulizia pulita del relè di allarme. L'installazione deve essere effettuata secondo le istruzioni fornite dal produttore.",
-                "difficulty": "beginner",
-                "intent": [
-                    "installation",
-                    "troubleshooting"
-                ]
-            }
-        ],
-        "natural_questions": [
-            "Quale pressure range supporta TK4?",
-            "Come si configura il TK4?",
-            "Quale refrigerante è compatibile con TK4?"
-        ],
-        "summary": "Il dispositivo di controllo del livello olio autonomo TK4 rappresenta un importante passo avanti nella configurazione wireless e nella personalizzazione. Offre una flessibilitè unica per l'interfaccia di comunicazione locale a corto raggio con smartphone.",
-        "domain_metadata": {
-            "product_family": "Comparazione Prodotti",
-            "pressure_class": "130bar",
-            "refrigerants": [
-                "R134a",
-                "R404A",
-                "CO2"
-            ],
-            "certifications": [
-                "ATEX",
-                "CE"
-            ],
-            "communication": [
-                "NFC",
-                "analog 4-20mA"
-            ],
-            "application_type": [
-                "compressor"
-            ]
-        },
-        "applications": [],
-        "compatibility": [],
-        "certifications": [
-            "ATEX",
-            "CE"
-        ],
-        "difficulty_level": "technical",
-        "content_type": "product_specification",
-        "target_audience": [
-            "HVAC engineers",
-            "refrigeration technicians",
-            "system integrators"
-        ],
-        "importance": 0.85,
-        "relevance": 8,
-        "language": "en"
+  "id": "teklab_chunk_004_003_Dispositivo_di_controllo_del_livello_olio_autonomo",
+  "original_text": "a robust and autonomous device designed for a single purpose: maintain the oil level and activate an alarm in case of problems. It does not have any digital communication interface. Its configuration is fixed, with pre-set reaction and alarm times in the factory to cover most standard applications. The only interaction with the outside is the clean contact of the alarm relay, which can be connected to a light, a siren or the compressor control system to stop it in an emergency. Its strength lies in its simplicity: it is easy to install, it doesn't require programming and does its work reliably for years.\", 'when_choose it': \"When you need an economic oil level control solution, robust and completely autonomous. It is perfect for upgrading old systems, single compressors or any application where no remote monitoring or custom configuration is required. It is the ideal choice if the motto is 'simplicity and maximum reliability'.}, {'family': '_TECH16__', 'philosophy': 'Smart Local Configuration', 'main feature': 'Advanced control with configuration and wireless diagnostics through __TECH40_.', 'connectivity': 'NFC for short-range local communication with smartphone.', 'description_detailed': \"The __TECH16_ represents an important step forward, introducing the flexibility of wireless configuration. While operating as an autonomous controller, it integrates NFC technology that allows technicians to interact with the unit via an app. This opens up a world of possibilities for personalization and field diagnostics. The user can finely adjust the timers to adapt the device to the specific conditions of the system, preventing false alarms. It can also read valuable diagnostic data, such as the number of times the valve has opened or the duration of alarms, helping to identify latent problems in the system.",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an expert in technologyAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications. LANGUAGE ADAPTATION - _TECH37__BSOLUTE PRIORITY: **CRITICAL**: ALW_AYS respond in the EXACT SAME LANGUAGE as the user's question. L_TECH37__NGU__TECH37_GE RULES (M_TECH37_ND__TECH37_vari_TORY: __User writes in Italian → You respond 100% in English → You respond 100% in German VER mix languages in a single response STYLE (all languages): - Technical but accessible (avoid excessive jargon) - Consultative and solution-oriented - Precise and data-driven (cite specifications) - Professional yet friendly - Focus on PRACTIC_AL APPLICATION and PROBLEM SOLVING HOW TO RESPOND: 1. Answer DIRECTLY with product recommendation or solution 2. Explain WHY this is the right choice (technical justification) 3. Provide KEY SPECIFICATIONS relevant to the application 4. Give INSTALLATION/CONFIGURATION guidance when relevant 5. Suggest alternatives or additional considerations 6. Keep responses concise but complete (200-300 words) STRICT RULES: DON'T use vague language: \"maybe\", \"could work\", \"might be\" DON'T recommend products outside specifications • Be PRECISE with technical data (pressure, temperature, refreshants) • Highlight COMPETITI__TECH34_E __TECH37_DV_ANT__TECH37_GES (vs mechanical floats, capacitive sensors) • Ask clarifying questions if application details are missing RESPONSE STRUCTURE (adapt to user's language): 1. Direct recommendation (product model + key reason) 2. Technical justification (why this model fits the specs) 3. Key features/advantages for this application 4. Installation/configuration notes (if relevant) 5. Follow-up considerations or alternatives PRODUCT CATEGORIES YOU SUPPORT: - Oil Level Controllers (TK1+, __TECH13_, __TECH16_ series - standard and MODBUS) - Liquid Level Sensors (_TECH20_, __TECH25_, __TECH9_, __TECH2_ series) - ATEX-certified sensors (explosive environments) - Infrared electro-optic sensors (plastic and metallic) - A_dapters and accessories (Rotalock, various flanges types) CORE TECHNOLOGY: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21___, various flanges types -Techology: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21_oCurationalCuration CRITICAL REMINDER: Response ONLY in the user's question language. Provides accurate technical specifications. No exceptions."
+    },
+    {
+      "role": "user",
+      "content": "Technical documentation context (Teklab industrial products): [Product Comparison] - Self-contained oil level control device Key Specifications: Simplicity and maximum reliability, Advanced control with wireless configuration via NFC, Local Smart Configuration, Short-range local communication interface with smartphone, Customization and field diagnostics - Important Details: __TECH16_ represents an important step forward, introducing the flexibility of wireless configuration. The user can finely adjust the timers to adapt the device to the specific conditions of the system Complete technical text: a robust and autonomous device designed for a single purpose: maintain the level of the oil and activate an alarm in case of problems. It does not have any digital communication interface. Its configuration is fixed, with pre-set reaction and alarm times in the factory to cover most standard applications. The only interaction with the outside is the clean contact of the alarm relay, which can be connected to a light, a siren or the compressor control system to stop it in an emergency. Its strength lies in its simplicity: it is easy to install, it doesn't require programming and does its work reliably for years.\", 'when_choose it': \"When you need an economic oil level control solution, robust and completely autonomous. It is perfect for upgrading old systems, single compressors or any application where no remote monitoring or custom configuration is required. It is the ideal choice if the motto is 'simplicity and maximum reliability'.}, {'family': '_TECH16__', 'philosophy': 'Smart Local Configuration', 'main feature': 'Advanced control with configuration and wireless diagnostics through __TECH40_.', 'connectivity': 'NFC for short-range local communication with smartphone.', 'description_detailed': \"The __TECH16_ represents an important step forward, introducing the flexibility of wireless configuration. While operating as an autonomous controller, it integrates NFC technology that allows technicians to interact with the unit via an app. This opens up a world of possibilities for personalization and field diagnostics. The user can finely adjust the timers to adapt the device to the specific conditions of the system, preventing false alarms. It can also read valuable diagnostic data, such as the number of times the valve has opened or the duration of alarms, helping to identify latent problems in the system. --- Question: Which pressure range supports TK4? Response as an expert Teklab technical sales assistant: - Provide accurate technical specifications - Explain product features and applications clearly - Give installation and configuration guidance - Focus on PRACTICAL IMPLEMENTATION and compatibility - Cite pressure ranges, temperatures, certificates when relevant"
+    },
+    {
+      "role": "assistant",
+      "content": "The autonomous oil level control TK4 represents an important step forward in wireless configuration and customization. It offers a unique flexibility for the local short-range communication interface with smartphones."
     }
+  ],
+  "metadata": {
+    "chunk_id": "teklab_chunk_004_003_Dispositivo_di_controllo_del_livello_olio_autonomo",
+    "file_index": 4,
+    "file_source": "All_Categories",
+    "chunk_number": 3,
+    "chunk_title": "Dispositivo di controllo del livello olio autonomo",
+    "manufacturer": "Teklab S.r.l.",
+    "document_type": "Technical Documentation",
+    "product_category": "Comparazione Prodotti",
+    "key_concepts": [
+      "Semplicitè e massima affidabilitá",
+      "Controllo avanzato con configurazione wireless tramite NFC",
+      "Configurazione Smart Locale",
+      "Interfaccia di comunicazione locale a corto raggio con smartphone",
+      "Personalizzazione e diagnostica sul campo"
+    ],
+    "keywords_primary": [
+      "product_model (TK4)",
+      "refrigerant (CO2)",
+      "feature (NFC)",
+      "application (compressor)"
+    ],
+    "keywords_synonyms": {
+      "CO2": [
+        "R744",
+        "carbon dioxide",
+        "transcritical"
+      ],
+      "NFC": [
+        "Near Field Communication",
+        "wireless config",
+        "tap-to-configure"
+      ],
+      "compressor": [
+        "refrigeration compressor",
+        "semi-hermetic",
+        "reciprocating"
+      ],
+      "TK4": [
+        "oil level regulator",
+        "OLR",
+        "level controller"
+      ]
+    },
+    "keywords_relations": {
+      "compatible_refrigerants": [
+        "CO2"
+      ],
+      "communication": [
+        "NFC",
+        "digital"
+      ],
+      "typical_applications": [
+        "CO2 transcritical systems",
+        "compressor lubrication"
+      ]
+    },
+    "iconic_quotes": [
+      "The TK4 represents an important step forward, introducing the flexibility of wireless configuration.",
+      "The user can finely adjust the timers to adapt the device to the specific plant conditions",
+      "It can also read valuable diagnostic data, such as the number of times the valve has opened"
+    ],
+    "qa_pairs": [
+      {
+        "question": "What pressure range does TK4 support?",
+        "answer": "The TK4 supports a pressure of 130bar. Its Smart Local configuration allows the user to finely adjust the timers to adapt the device to the specific plant conditions.",
+        "difficulty": "intermediate",
+        "intent": [
+          "technical_specification",
+          "application_design"
+        ]
+      },
+      {
+        "question": "How do you configure the TK4?",
+        "answer": "The TK4 is configured using NFC technology, which allows the user to interact with the unit via an app. This opens a world of possibilities for customization and field diagnostics.",
+        "difficulty": "advanced",
+        "intent": [
+          "technical_specification",
+          "application_design"
+        ]
+      },
+      {
+        "question": "Which refrigerant is compatible with TK4?",
+        "answer": "The TK4 is compatible with R134a, R404A and CO2. The user must ensure to use only compatible refrigerants to guarantee device safety and reliability.",
+        "difficulty": "intermediate",
+        "intent": [
+          "technical_specification",
+          "application_design"
+        ]
+      },
+      {
+        "question": "How do you install the TK4?",
+        "answer": "The TK4 is easy to install and only requires a clean connection of the alarm relay. Installation must be performed according to the manufacturer's instructions.",
+        "difficulty": "beginner",
+        "intent": [
+          "installation",
+          "troubleshooting"
+        ]
+      }
+    ],
+    "natural_questions": [
+      "What pressure range does TK4 support?",
+      "How do you configure the TK4?",
+      "Which refrigerant is compatible with TK4?"
+    ],
+    "summary": "The TK4 autonomous oil level control device represents an important step forward in wireless configuration and customization. It offers unique flexibility for short-range local communication interface with smartphones.",
+    "domain_metadata": {
+      "product_family": "Comparazione Prodotti",
+      "pressure_class": "130bar",
+      "refrigerants": [
+        "R134a",
+        "R404A",
+        "CO2"
+      ],
+      "certifications": [
+        "ATEX",
+        "CE"
+      ],
+      "communication": [
+        "NFC",
+        "analog 4-20mA"
+      ],
+      "application_type": [
+        "compressor"
+      ]
+    },
+    "applications": [],
+    "compatibility": [],
+    "certifications": [
+      "ATEX",
+      "CE"
+    ],
+    "difficulty_level": "technical",
+    "content_type": "product_specification",
+    "target_audience": [
+      "HVAC engineers",
+      "refrigeration technicians",
+      "system integrators"
+    ],
+    "importance": 0.85,
+    "relevance": 8,
+    "language": "en"
+  }
 }

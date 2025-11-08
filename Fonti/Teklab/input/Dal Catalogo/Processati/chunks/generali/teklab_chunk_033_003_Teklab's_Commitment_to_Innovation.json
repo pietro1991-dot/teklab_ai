@@ -32,14 +32,31 @@
             "Smart connectivity technologies"
         ],
         "keywords_primary": [
-            "product_model (Teklab)",
-            "pressure_range (130bar, 0-600bar)",
-            "temperature (-40°C, +125°C)",
-            "feature (MODBUS, ATEX)",
-            "application (compressor, refrigeration)"
+            "feature (MODBUS)",
+            "application (level switch, refrigeration)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "MODBUS"
+            ]
+        },
         "iconic_quotes": [
             "low cost high technology solutions",
             "programmable microcontroller-based devices"

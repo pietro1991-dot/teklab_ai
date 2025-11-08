@@ -32,14 +32,33 @@
             "Focus on oil management solutions for refrigeration compressors"
         ],
         "keywords_primary": [
-            "Teklab S.r.l.",
-            "liquid level sensors",
-            "controllers for industrial applications",
-            "oil management solutions",
-            "refrigeration compressors"
+            "pressure_range (150 bar)",
+            "refrigerant (HFC)",
+            "application (refrigeration, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC"
+            ],
+            "pressure_ratings": [
+                "150 bar"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Our products are engineered for reliability in harsh environments.",
             "We offer oil management solutions for refrigeration compressors using natural refrigerants like CO₂."

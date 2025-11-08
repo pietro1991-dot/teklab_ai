@@ -32,22 +32,59 @@
             "ATEX certification"
         ],
         "keywords_primary": [
-            "LC-PS",
-            "pressure range (46bar)",
-            "temperature (-40°C to +125°C)",
-            "refrigerants (HFC, HFO)",
-            "MODBUS protocol"
+            "product_model (LC-PS)",
+            "product_model (LC-PH)",
+            "product_model (LC-XT)",
+            "product_model (LC-XP)",
+            "product_model (ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC",
+                "HFO",
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "120 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
-            "La Pressione è il Fattore Chiave",
-            "È il modello ideale per la maggior parte delle applicazioni di refrigerazione e condizionamento"
+            "Pressure is the Key Factor",
+            "It is the ideal model for most refrigeration and air conditioning applications"
         ],
         "qa_pairs": [
             {
-                "question": "LC-PS o LC-PH: quale scegliere?",
-                "answer": "Scegli LC-PS (46 bar, cavo) per sistemi HFC/HFO standard (R134a, R404A, R410A). Scegli LC-PH (120 bar, cavo/M12) per CO2 transcritico, applicazioni alta pressione o climi freddi dove pressione differenziale aumenta. LC-PH costa più ma è obbligatorio sopra 46 bar.",
+                "question": "LC-PS or LC-PH: which to choose?",
+                "answer": "Choose LC-PS (46 bar, cable) for standard HFC/HFO systems (R134a, R404A, R410A). Choose LC-PH (120 bar, cable/M12) for transcritical CO2, high-pressure applications, or cold climates where differential pressure increases. LC-PH costs more but is mandatory above 46 bar.",
                 "difficulty": "beginner",
                 "intent": [
                     "product_selection",

@@ -32,14 +32,42 @@
             "Critical performance characteristic"
         ],
         "keywords_primary": [
-            "product_model (e.g., TK4)",
-            "pressure_range (e.g., 130bar, 0-600bar)",
-            "temperature (e.g., -40°C, +125°C)",
-            "feature (e.g., MODBUS, ATEX)",
-            "application (e.g., compressor)"
+            "product_model (TK4)",
+            "product_model (ATEX)",
+            "feature (MODBUS, relay)",
+            "application (oil level, compressor, ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "MODBUS",
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK4 is designed to control the oil level in the compressor crankcase",
             "To avoid the compressor to run without oil and so improve its performance"
@@ -47,7 +75,7 @@
         "qa_pairs": [
             {
                 "question": "What pressure range does TK4 support?",
-                "answer": "The TK4 supports a pressure range of 0-600bar, making it suitable for various industrial applications.",
+                "answer": "The TK4 oil level controller is available in three pressure variants: 46 bar, 80 bar, and 130 bar maximum pressure. The specific model should be selected based on your system's operating pressure requirements.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",

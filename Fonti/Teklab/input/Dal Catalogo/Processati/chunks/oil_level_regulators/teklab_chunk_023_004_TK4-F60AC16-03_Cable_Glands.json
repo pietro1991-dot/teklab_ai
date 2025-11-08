@@ -12,7 +12,7 @@
         },
         {
             "role": "assistant",
-            "content": "The TK4-F60AC16-03 cable gland is designed for 230 V and supports a pressure range of up to 230 V. Adapters must be ordered separately."
+            "content": "The TK4-F60AC16-03 cable gland configuration is designed for 230 V power supply. The TK4 series is available in three pressure variants: 46 bar, 80 bar, and 130 bar maximum pressure. Adapters must be ordered separately."
         }
     ],
     "metadata": {
@@ -30,13 +30,15 @@
             "Pressure range and voltage options"
         ],
         "keywords_primary": [
-            "TK4-F60AC16-03",
-            "cable gland",
-            "adapter",
-            "pressure range",
-            "voltage"
+            "product_model (TK4)"
         ],
-        "keywords_synonyms": {},
+        "keywords_synonyms": {
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
         "keywords_relations": {},
         "iconic_quotes": [
             "Quotes in mm - L and L1 can vary depending on the adapter",
@@ -54,7 +56,7 @@
             },
             {
                 "question": "What is the maximum pressure range supported by a TK4-F60AC16-03 cable gland?",
-                "answer": "The product supports a pressure range of 230 V. The actual pressure range may vary depending on the adapter.",
+                "answer": "The TK4 series supports three pressure variants: 46 bar, 80 bar, and 130 bar. The specific model should be selected based on your system's operating pressure requirements.",
                 "difficulty": "intermediate",
                 "intent": [
                     "technical_specification",
@@ -75,9 +77,9 @@
             "What is the maximum pressure range supported by TK4-F60AC16-03?",
             "Can I use a different voltage with TK4-F60AC16-03?"
         ],
-        "summary": "The TK4-F60AC16-03 cable gland is designed for 230 V and supports a pressure range of up to 230 V. Adapters must be ordered separately.",
+        "summary": "The TK4-F60AC16-03 cable gland configuration is designed for 230 V power supply. The TK4 series is available in three pressure variants: 46 bar, 80 bar, and 130 bar. Adapters must be ordered separately.",
         "domain_metadata": {
-            "pressure_class": "230bar",
+            "pressure_class": "46bar / 80bar / 130bar",
             "refrigerants": [
                 "CO2"
             ],

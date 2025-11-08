@@ -33,12 +33,45 @@
         ],
         "keywords_primary": [
             "product_model (TK4)",
-            "pressure_range (130bar, custom)",
-            "temperature_limits (-40°C, +125°C)",
-            "refrigerants (CO2, ammonia)"
+            "refrigerant (CO2)",
+            "feature (relay)",
+            "application (oil level, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "NH3 industrial refrigeration",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK4 is designed to control the oil level in the compressor crankcase",
             "Avoiding the compressor to run without oil improves its performance"

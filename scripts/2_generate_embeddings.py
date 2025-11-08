@@ -102,7 +102,9 @@ class EmbeddingsGenerator:
             
             print(f"   - Caricamento da: {category}/")
             
-            chunk_files = sorted(category_path.glob("*.json"))
+            # 🔧 RICERCA RICORSIVA: usa rglob() invece di glob() per sottocartelle
+            # Necessario per Marketing/ che ha Competitor_Analysis/ e Value_Proposition/
+            chunk_files = sorted(category_path.rglob("*.json"))
             category_chunk_count = 0
             
             for chunk_file in chunk_files:

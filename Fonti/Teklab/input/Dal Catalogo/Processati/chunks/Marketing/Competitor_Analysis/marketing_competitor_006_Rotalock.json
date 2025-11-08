@@ -1,92 +1,86 @@
 {
-    "id": "marketing_competitor_006_Rotalock",
-    "original_text": "CONFRONTO COMPETITOR: Rotalock\n\nCategoria: Marketing - Level Switch Comparison\n\nCompetitor Equivalenti: NESSUNO - Prodotto Unico\n\nQ: Cos'è il Rotalock switch Teklab e perché è unico?\nA: Rotalock switch Teklab è l'UNICO level switch sul mercato con montaggio diretto nativo su valvole Rotalock (standard onnipresente nei ricevitori liquido e compressori). NESSUN competitor offre equivalente - INNOVAZIONE ESCLUSIVA. Elimina completamente necessità di adattatori Rotalock→NPT/SAE, guarnizioni aggiuntive, raccordi. Vantaggi: installazione 5 min vs 45 min con adattatori, zero punti di perdita aggiuntivi, riduzione costo materiali + manodopera.\nApplicazione: Ricevitori liquido, compressori con valvole Rotalock\n\nQ: Come si installa Rotalock switch? Serve adattatore?\nA: NO, nessun adattatore necessario. Montaggio diretto: 1) Chiudi valvola Rotalock. 2) Rimuovi tappo cieco Rotalock. 3) Avvita direttamente Rotalock switch (filettatura nativa compatibile). 4) Collega connettore DIN 43650-A elettrico. Tempo totale: 5 minuti. Risparmio vs metodo tradizionale con adattatori: ~90-150€ manodopera + 30-40€ materiali per installazione.\nApplicazione: Retrofit veloce senza fermo impianto prolungato\n\nQ: Rotalock switch è compatibile con valvole di quale marca?\nA: Compatibile con valvole Rotalock standard di tutte le marche principali: Sporlan, Castel, Parker, Emerson/Alco, Danfoss serie EVRA/EVRST/EVR. Filettatura Rotalock è standard industriale globale. Pressione supportata: 46 bar (adeguato per sistemi HFC/HFO standard). Output: Digitale via connettore DIN 43650-A.\nApplicazione: Tutti i sistemi refrigerazione con valvole Rotalock\n\nQ: Quali vantaggi economici offre Rotalock switch?\nA: ROI immediato rispetto a installazione tradizionale con adattatori: RISPARMIO MATERIALI: Adattatore Rotalock→NPT (~30€) + Guarnizioni (~5€) = 35€. RISPARMIO MANODOPERA: 1.5 ore frigorista (90-150€ a seconda di area geografica). RIDUZIONE RISCHI: -50% punti di perdita (1 connessione vs 2). TOTALE RISPARMIO: 125-185€ per installazione + beneficio sicurezza (meno perdite refrigerante). Payback: Immediato su prima installazione.\nApplicazione: Progetti con multiple installazioni, grandi impianti\n\n\nVantaggi Competitivi: PRODOTTO UNICO SUL MERCATO - vantaggio competitivo assoluto. Nessun competitor offre montaggio Rotalock nativo. Elimina adattatori, riduce perdite, risparmia tempo/costi. Innovazione esclusiva Teklab.\nFacilità Retrofit: ⭐⭐⭐⭐⭐ Massima - Montaggio diretto nativo, zero adattatori, 5 min installazione. Compatibile con valvole Rotalock standard globali.\n",
-    "messages": [
-        {
-            "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products compare to competitors (Danfoss, Emerson, Carel, etc.) and guide them in making informed purchasing decisions."
-        },
-        {
-            "role": "user",
-            "content": "Technical documentation context (Teklab competitive analysis):\n\n[Marketing - Level Switch Comparison] - Rotalock vs Competitors\n\nCONFRONTO COMPETITOR: Rotalock\n\nCategoria: Marketing - Level Switch Comparison\n\nCompetitor Equivalenti: NESSUNO - Prodotto Unico\n\nQ: Cos'è il Rotalock switch Teklab e perché è unico?\nA: Rotalock switch Teklab è l'UNICO level switch sul mercato con montaggio diretto nativo su valvole Rotalock (standard onnipresente nei ricevitori liquido e compressori). NESSUN competitor offre equivalente - INNOVAZIONE ESCLUSIVA. Elimina completamente necessità di adattatori Rotalock→NPT/SAE, guarnizioni aggiuntive, raccordi. Vantaggi: installazione 5 min vs 45 min con adattatori, zero punti di perdita aggiuntivi, riduzione costo materiali + manodopera.\nApplicazione: Ricevitori liquido, compressori con valvole Rotalock\n\nQ: Come si installa Rotalock switch? Serve adattatore?\nA: NO, nessun adattatore necessario. Montaggio diretto: 1) Chiudi valvola Rotalock. 2) Rimuovi tappo cieco Rotalock. 3) Avvita direttamente Rotalock switch (filettatura nativa compatibile). 4) Collega connettore DIN 43650-A elettrico. Tempo totale: 5 minuti. Risparmio vs metodo tradizionale con adattatori: ~90-150€ manodopera + 30-40€ materiali per installazione.\nApplicazione: Retrofit veloce senza fermo impianto prolungato\n\nQ: Rotalock switch è compatibile con valvole di quale marca?\nA: Compatibile con valvole Rotalock standard di tutte le marche principali: Sporlan, Castel, Parker, Emerson/Alco, Danfoss serie EVRA/EVRST/EVR. Filettatura Rotalock è standard industriale globale. Pressione supportata: 46 bar (adeguato per sistemi HFC/HFO standard). Output: Digitale via connettore DIN 43650-A.\nApplicazione: Tutti i sistemi refrigerazione con valvole Rotalock\n\nQ: Quali vantaggi economici offre Rotalock switch?\nA: ROI immediato rispetto a installazione tradizionale con adattatori: RISPARMIO MATERIALI: Adattatore Rotalock→NPT (~30€) + Guarnizioni (~5€) = 35€. RISPARMIO MANODOPERA: 1.5 ore frigorista (90-150€ a seconda di area geografica). RIDUZIONE RISCHI: -50% punti di perdita (1 connessione vs 2). TOTALE RISPARMIO: 125-185€ per installazione + beneficio sicurezza (meno perdite refrigerante). Payback: Immediato su prima installazione.\nApplicazione: Progetti con multiple installazioni, grandi impianti\n\n\nVantaggi Competitivi: PRODOTTO UNICO SUL MERCATO - vantaggio competitivo assoluto. Nessun competitor offre montaggio Rotalock nativo. Elimina adattatori, riduce perdite, risparmia tempo/costi. Innovazione esclusiva Teklab.\nFacilità Retrofit: ⭐⭐⭐⭐⭐ Massima - Montaggio diretto nativo, zero adattatori, 5 min installazione. Compatibile con valvole Rotalock standard globali.\n\n\n---\n\nProvide competitive analysis and product comparison guidance."
-        },
-        {
-            "role": "assistant",
-            "content": "Rotalock competitive positioning: PRODOTTO UNICO SUL MERCATO - vantaggio competitivo assoluto. Nessun competitor offre montaggio Rotalock nativo. Elimina adattatori, riduce perdite, risparmia tempo/costi. Innovazione esclusiva Teklab."
-        }
-    ],
-    "metadata": {
-        "chunk_id": "marketing_competitor_006_Rotalock",
-        "file_source": "Marketing_Competitor_Analysis",
-        "chunk_number": 1,
-        "chunk_title": "Rotalock - Competitor Comparison",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Marketing - Competitive Analysis",
-        "product_category": "Marketing - Level Switch Comparison",
-        "teklab_product": "Rotalock",
-        "competitors": "NESSUNO - Prodotto Unico",
-        "qa_pairs": [
-            {
-                "question": "Cos'è il Rotalock switch Teklab e perché è unico?",
-                "answer": "Rotalock switch Teklab è l'UNICO level switch sul mercato con montaggio diretto nativo su valvole Rotalock (standard onnipresente nei ricevitori liquido e compressori). NESSUN competitor offre equivalente - INNOVAZIONE ESCLUSIVA. Elimina completamente necessità di adattatori Rotalock→NPT/SAE, guarnizioni aggiuntive, raccordi. Vantaggi: installazione 5 min vs 45 min con adattatori, zero punti di perdita aggiuntivi, riduzione costo materiali + manodopera."
-            },
-            {
-                "question": "Come si installa Rotalock switch? Serve adattatore?",
-                "answer": "NO, nessun adattatore necessario. Montaggio diretto: 1) Chiudi valvola Rotalock. 2) Rimuovi tappo cieco Rotalock. 3) Avvita direttamente Rotalock switch (filettatura nativa compatibile). 4) Collega connettore DIN 43650-A elettrico. Tempo totale: 5 minuti. Risparmio vs metodo tradizionale con adattatori: ~90-150€ manodopera + 30-40€ materiali per installazione."
-            },
-            {
-                "question": "Rotalock switch è compatibile con valvole di quale marca?",
-                "answer": "Compatibile con valvole Rotalock standard di tutte le marche principali: Sporlan, Castel, Parker, Emerson/Alco, Danfoss serie EVRA/EVRST/EVR. Filettatura Rotalock è standard industriale globale. Pressione supportata: 46 bar (adeguato per sistemi HFC/HFO standard). Output: Digitale via connettore DIN 43650-A."
-            },
-            {
-                "question": "Quali vantaggi economici offre Rotalock switch?",
-                "answer": "ROI immediato rispetto a installazione tradizionale con adattatori: RISPARMIO MATERIALI: Adattatore Rotalock→NPT (~30€) + Guarnizioni (~5€) = 35€. RISPARMIO MANODOPERA: 1.5 ore frigorista (90-150€ a seconda di area geografica). RIDUZIONE RISCHI: -50% punti di perdita (1 connessione vs 2). TOTALE RISPARMIO: 125-185€ per installazione + beneficio sicurezza (meno perdite refrigerante). Payback: Immediato su prima installazione."
-            }
-        ],
-        "competitive_advantages": "PRODOTTO UNICO SUL MERCATO - vantaggio competitivo assoluto. Nessun competitor offre montaggio Rotalock nativo. Elimina adattatori, riduce perdite, risparmia tempo/costi. Innovazione esclusiva Teklab.",
-        "retrofit_ease": "⭐⭐⭐⭐⭐ Massima - Montaggio diretto nativo, zero adattatori, 5 min installazione. Compatibile con valvole Rotalock standard globali.",
-        "keywords_primary": [
-            "product_model (Rotalock Switch)",
-            "pressure_range (46 bar)",
-            "competitor (NONE - unique product)",
-            "feature (direct Rotalock mount, no adapters, zero additional leak points)",
-            "application (liquid receivers, Rotalock valves, retrofit without shutdown)"
-        ],
-        "keywords_synonyms": {
-            "Rotalock": [
-                "Rotalock valve",
-                "valvola Rotalock"
-            ],
-            "unique product": [
-                "market innovation",
-                "exclusive Teklab"
-            ],
-            "no adapters": [
-                "direct mount",
-                "native installation"
-            ]
-        },
-        "keywords_relations": {
-            "market_positioning": [
-                "ONLY Rotalock-native globally",
-                "absolute competitive advantage"
-            ],
-            "savings": [
-                "90-150€ labor",
-                "35€ materials",
-                "immediate ROI"
-            ],
-            "advantages": [
-                "5 min vs 45 min installation",
-                "50% fewer leak points",
-                "no Rotalock-NPT adapter"
-            ],
-            "compatibility": [
-                "Sporlan valves",
-                "Castel",
-                "Parker",
-                "Danfoss EVRA"
-            ]
-        }
+  "id": "marketing_competitor_006_Rotalock",
+  "original_text": "COMPETITOR COMPARISON: Rotalock Category: Marketing - Level Switch Comparison Competitor Equivalent: NO - Unique Product Q: What is the Rotalock Teklab switch and why is it unique?A: Rotalock switch __TECH32_ is the UNICO level switch on the market with direct native mounting on __TECH21_ valves (standard omnipresent in liquid receivers and compressors). NO COMPETITOR offers equivalent - EXCLUSIVE INNOV___TECH37_TION. Completely eliminates the need for Rotalock adapters→NPT/SAE, additional gaskets, fittings. Advantages: installation 5 min vs 45 min with adapters, zero additional loss points, reduction of material cost + labor. Application: Liquid receivers, compressors with __TECH21_ Q valves: How do I install Rotalock switch? Need adapter? __TECH37_: NO, no adapter needed. Direct assembly: 1) Close Rotalock valve. 2) Remove Rotalock blind cap. 3) Screw Rotalock switch directly (compatible native thread). 4) Connect DIN 43650-A electrical connector. Total time: 5 minutes. Saving vs traditional method with adapters: ~90-150€ labor + 30-40€ installation materials. Application: Fast retrofit without extended system stop Q: Rotalock switch is compatible with valves of which brand? A: Compatible with standard Rotalock valves of all major brands: Sporlan, Castel, Parker, Emerson/_TECH8_, Danfoss EVR_A/EVRST/EV_R series. Rotalock thread is a standard global industrial. Supported pressure: 46 bar (adapted for HFC/HFO standard systems). Output: Digital via DIN 43650-A_ connector. Application: All refrigeration systems with Rotalock Q valves: What economic benefits does Rotalock switch offer? A: ROI immediate appeared to traditional installation with adapters: SA_VING MATERIALS: Rotalock→NPT adapter (~30€) + Seals (~5€) = 35€. DOUBLE SA__VING: 1.5 hours fridge (90-150€ depending on geographical area). RISK REDUCTION: -50% loss points (1 connection vs 2). TOTAL SA_VING: 125-185€ per installation + safety benefit (less cooling losses). Payback: Immediate on first installation. Application: Projects with multiple installations, large plants Competitive advantages: SINGLE PRODUCT ON THE MARKET - absolute competitive advantage. No competitor offers native Rotalock motive. Deletetes adapters, reduces losses, saves time/cost. Exclusive Teklab innovation. Easy Retrofit: Maximum - Direct assembly native, zero adapters, 5 min installation. Compatible with global standard Rotalock valves. .",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products appears to competitors (Danfoss, Emerson, Carel, etc.) and guides them in making informed purchasing decisions."
+    },
+    {
+      "role": "user",
+      "content": "Technical documentation context (Teklab competitive analysis): [Marketing - Level Switch Comparison] - Rotalock vs Competitors COMPETITOR COMPETITOR: Rotalock Category: Marketing - Level Switch Comparison Competitor Equivalent: NO - Unique Product Q: What is the Rotalock switch Teklab and why is it unique?A: Rotalock switch __TECH32_ is the UNICo level switch on the market with direct native moving on Rotalock valves (standard omnipresent in liquid receivers and compressors). NO COMPETITOR offers equivalent - EXCLUSIVE INNOV___TECH37_TION. Completely eliminates the need for Rotalock adapters→NPT/SAE, additional gaskets, fittings. Advantages: installation 5 min vs 45 min with adapters, zero additional loss points, reduction of material cost + labor. Application: Liquid receivers, compressors with __TECH21_ Q valves: How do I install Rotalock switch? Need adapter? __TECH37_: NO, no adapter needed. Direct assembly: 1) Close Rotalock valve. 2) Remove Rotalock blind cap. 3) Screw Rotalock switch directly (compatible native thread). 4) Connect DIN 43650-A electrical connector. Total time: 5 minutes. Saving vs traditional method with adapters: ~90-150€ labor + 30-40€ installation materials. Application: Fast retrofit without extended system stop Q: Rotalock switch is compatible with valves of which brand? A: Compatible with standard Rotalock valves of all major brands: Sporlan, Castel, Parker, Emerson/_TECH8_, Danfoss EVR_A/EVRST/EV_R series. Rotalock thread is a standard global industrial. Supported pressure: 46 bar (adapted for HFC/HFO standard systems). Output: Digital via DIN 43650-A_ connector. Application: All refrigeration systems with Rotalock Q valves: What economic benefits does Rotalock switch offer? A: ROI immediate appeared to traditional installation with adapters: SA_VING MATERIALS: Rotalock→NPT adapter (~30€) + Seals (~5€) = 35€. DOUBLE SA__VING: 1.5 hours fridge (90-150€ depending on geographical area). RISK REDUCTION: -50% loss points (1 connection vs 2). TOTAL SA_VING: 125-185€ per installation + safety benefit (less cooling losses). Payback: Immediate on first installation. Application: Projects with multiple installations, large plants Competitive advantages: SINGLE PRODUCT ON THE MARKET - absolute competitive advantage. No competitor offers native Rotalock motive. Deletetes adapters, reduces losses, saves time/cost. Exclusive Teklab innovation. Easy Retrofit: Maximum - Direct assembly native, zero adapters, 5 min installation. Compatible with global standard Rotalock valves. --- Provide competitive analysis and product comparison guidance.."
+    },
+    {
+      "role": "assistant",
+      "content": "Rotalock competitive positioning: SINGLE PRODUCT ON THE MARKET - absolute competitive advantage. No competitor offers native Rotalock mounting. Eliminates adapters, reduces losses, saves time/costs."
     }
+  ],
+  "metadata": {
+    "chunk_title": "Rotalock - Competitor Comparison",
+    "product_category": "Marketing - Level Switch Comparison",
+    "teklab_product": "Rotalock",
+    "retrofit_ease": "⭐⭐⭐⭐⭐ Massima - Montaggio diretto nativo, zero adattatori, 5 min installazione. Compatibile con valvole Rotalock standard globali.",
+    "qa_pairs": [
+      {
+        "question": "What is the Rotalock Teklab switch and why is it unique?",
+        "answer": "Rotalock switch Teklab is the UNICO level switch on the market with direct native mounting on Rotalock valves (standard omnipresent in liquid receivers and compressors). NO COMPETITOR offers equivalent - EXCLUSIVE INNOVATION. Completely eliminates the need for Rotalock adapters→NPT/SAE, additional gaskets, fittings. Advantages: installation 5 min vs 45 min with adapters, zero additional loss points, reduction of material cost + labor.."
+      },
+      {
+        "question": "How do I install Rotalock switch? Do I need adapter?",
+        "answer": "NO, no adapter needed. Direct mounting: 1) Close Rotalock valve. 2) Remove Rotalock blind cap. 3) Screw directly Rotalock switch (native thread compatible). 4) Connect DIN 43650-A connector electric. Total time: 5 minutes. Saving vs traditional method with adapters: ~90-150€ labor + 30-40€ materials for installation."
+      },
+      {
+        "question": "Is Rotalock switch compatible with valves of which brand?",
+        "answer": "Compatible with standard Rotalock valves of all major brands: Sporlan, Castel, Parker, Emerson/Alco, Danfoss EVRA/EVRST/EVR series. Rotalock thread is global industrial standard. Supported pressure: 46 bar (adapted for HFC/HFO standard systems). Output: Digital via DIN 43650-A connector."
+      },
+      {
+        "question": "What economic benefits does Rotalock switch offer?",
+        "answer": "ROI immediate compared to traditional installation with adapters: SAVING MATERIALS: Rotalock adapter→NPT (~30€) + Seals (~5€) = 35€. DOUBLE SAVING: 1.5 hours fridge (90-150€ depending on geographical area). RISK REDUCTION: -50% loss points (1 connection vs 2). TOTAL SAVING: 125-185€ per installation + safety benefit (less cooling losses). Payback: Immediate on first installation.."
+      }
+    ],
+    "keywords_primary": [
+      "product_model (Rotalock Switch)",
+      "pressure_range (46 bar)",
+      "competitor (NONE - unique product)",
+      "feature (direct Rotalock mount, no adapters, zero additional leak points)",
+      "application (liquid receivers, Rotalock valves, retrofit without shutdown)"
+    ],
+    "keywords_synonyms": {
+      "Rotalock": [
+        "Rotalock valve",
+        "Rotalock valve"
+      ],
+      "unique product": [
+        "market innovation",
+        "exclusive Teklab"
+      ],
+      "no adapters": [
+        "direct mount",
+        "native installation"
+      ]
+    },
+    "keywords_relations": {
+      "market_positioning": [
+        "ONLY Rotalock-native globally",
+        "absolute competitive advantage"
+      ],
+      "savings": [
+        "90-150€ labor",
+        "35€ materials",
+        "immediate ROI"
+      ],
+      "advantages": [
+        "5 min vs 45 min installation",
+        "50% fewer leak points",
+        "no Rotalock-NPT adapter"
+      ],
+      "compatibility": [
+        "Sporlan valves",
+        "Castel",
+        "Parker",
+        "Danfoss EVRA"
+      ]
+    },
+    "competitive_advantages": "SINGLE PRODUCT ON THE MARKET - absolute competitive advantage. No competitor offers native Rotalock mounting. Eliminates adapters, reduces losses, saves time/cost. Exclusive innovation Teklab."
+  }
 }

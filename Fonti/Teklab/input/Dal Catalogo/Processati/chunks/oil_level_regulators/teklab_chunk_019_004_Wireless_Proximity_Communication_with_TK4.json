@@ -30,13 +30,35 @@
             "Standard Modbus RTU protocol integration"
         ],
         "keywords_primary": [
-            "TK4",
-            "Modbus RTU",
-            "Wireless proximity communication",
-            "USB dongle connection"
+            "product_model (TK4)",
+            "feature (MODBUS)",
+            "application (compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Establishing wireless proximity communication with TK4 is extremely easy-to-use",
             "Connecting the supplied USB dongle to the PC or Android device allows for seamless integration"

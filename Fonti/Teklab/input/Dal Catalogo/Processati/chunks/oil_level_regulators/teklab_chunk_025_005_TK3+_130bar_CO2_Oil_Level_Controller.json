@@ -32,14 +32,56 @@
             "Critical performance characteristic"
         ],
         "keywords_primary": [
-            "product_model (e.g., TK3+)",
-            "pressure_range (e.g., 130bar, 0-600bar)",
-            "temperature (e.g., -40°C, +125°C)",
-            "feature (e.g., MODBUS)",
-            "application (e.g., compressor)"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "refrigerant (CO2)",
+            "feature (MODBUS)",
+            "application (oil level, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "L = 134.5",
             "Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum)"
@@ -47,7 +89,7 @@
         "qa_pairs": [
             {
                 "question": "What pressure range does TK3+ 130bar support?",
-                "answer": "The TK3+ 130bar CO2 oil level controller supports a pressure range of 0-600bar. This makes it suitable for applications where high-pressure environments are present. The device is designed to provide accurate and reliable oil level measurement, even in challenging conditions. Additionally, the TK3+ features a MODBUS interface for easy integration with existing control systems.",
+                "answer": "The TK3+ 130bar CO2 oil level controller supports a maximum pressure of 130 bar. This makes it specifically designed for CO2 transcritical applications where high-pressure environments are present. The device is designed to provide accurate and reliable oil level measurement, even in challenging conditions. Additionally, the TK3+ features a MODBUS interface for easy integration with existing control systems.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",

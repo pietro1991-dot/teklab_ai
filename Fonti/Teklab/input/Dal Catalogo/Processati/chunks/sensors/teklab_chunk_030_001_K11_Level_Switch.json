@@ -32,14 +32,37 @@
             "AC/DC output current up to 100mA"
         ],
         "keywords_primary": [
-            "K11 level switch",
-            "infrared technology",
-            "stainless steel",
-            "glass construction",
-            "compact size"
+            "product_model (K11)",
+            "pressure_range (120 bar)",
+            "feature (optical, PNP, NPN)",
+            "application (level switch, refrigeration)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "120 bar"
+            ]
+        },
         "iconic_quotes": [
             "Detect liquid presence with contact",
             "Maximum pressure of 60 bar",

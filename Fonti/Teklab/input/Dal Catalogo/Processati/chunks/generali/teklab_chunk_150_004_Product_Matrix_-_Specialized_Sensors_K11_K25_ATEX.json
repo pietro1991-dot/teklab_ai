@@ -1,0 +1,103 @@
+{
+    "id": "teklab_chunk_150_004_Product_Matrix_-_Specialized_Sensors_K11_K25_ATEX",
+    "original_text": "Specialized Sensors - K11, K25, and ATEX-Certified Models\n\nK11 - Universal Capacitive Level Sensor\nTechnology: Capacitive sensing (different from IR optical of LC/TK series)\n\nKey Features:\n- Capacitive detection principle\n- Universal output (NPN/PNP/AC in one model)\n- Ultra-compact design (ideal for OEM equipment integration)\n- Global PLC compatibility (works with all major brands)\n- Reduces BOM complexity (one part number for all applications)\n- Easy inventory management\n\nIdeal For:\n- OEM manufacturers (chillers, heat pumps, condensing units)\n- Space-constrained installations\n- Applications requiring PLC flexibility\n- Simplifying spare parts inventory\n\nK25 - Dual Sensor (Level + Temperature in One Unit)\nTechnology: Combined IR optical level sensor + PT1000 temperature sensor\n\nRevolutionary Innovation:\n- Replaces 2 separate sensors (level + temperature) with one device\n- 50% installation time reduction (one mounting vs two)\n- Single leak point instead of two (increased system safety)\n- 4-20mA temperature output (no need for PT1000 signal converter)\n- Factory calibrated (level + temperature)\n\nTechnical Specifications:\n- Level sensing: IR optical (same as LC series)\n- Temperature sensing: PT1000 integrated\n- Temperature output: 4-20mA analog signal\n- Pressure rating: 46 bar (standard version)\n- Single M12 connector for both signals\n\nCost-Benefit vs Separate Sensors:\n- Installation: 50% time savings\n- Leak points: Reduced from 2 to 1\n- Cable management: Simplified (one cable vs two)\n- Commissioning: Faster (one device to configure)\n- Maintenance: Single spare part\n\nATEX-Certified Sensors (Explosive Environments)\nSafety Certification: ATEX intrinsic safety for explosive atmospheres\n\nAvailable Models:\n- LC-PS ATEX (46 bar) - Standard pressure with ATEX certification\n- LC-PH ATEX (120 bar) - High pressure with ATEX certification\n\nCritical Applications:\n- Mandatory for flammable refrigerants: R290 (propane), R600a (isobutane), R1270 (propylene)\n- Ammonia systems (NH3/R717) in hazardous zones\n- Explosive atmosphere classifications: Zone 1, Zone 2 (ATEX directive compliance)\n- Safety-critical installations where intrinsic safety is required by regulation\n\nKey Compliance:\n- ATEX Directive 2014/34/EU\n- Intrinsic safety (equipment cannot cause ignition)\n- Non-negotiable for flammable refrigerant installations\n- Required for insurance and regulatory approval",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application.\n\nSTYLE: Technical but accessible, consultative and solution-oriented, precise and data-driven.\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors\n- Specialized sensors (K11, K25)"
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab Product Matrix):\n\n[Product Matrix] - Specialized Sensors: K11 (capacitive universal), K25 (level+temperature dual), ATEX-certified models\nKey Specifications: K11 for OEM compact applications with universal output, K25 combines level + PT1000 temperature in one unit, ATEX models mandatory for flammable refrigerants (R290, R600a, NH3)\n📌 Important Details: K25 replaces 2 sensors with 1, saving 50% installation time and creating single leak point | ATEX certification is NON-NEGOTIABLE for R290, R600a, NH3 in hazardous zones | K11 uses capacitive technology (different from IR optical)\n\nComplete technical text:\nSpecialized Sensors - K11, K25, and ATEX-Certified Models\n\nK11 - Universal Capacitive Level Sensor\nTechnology: Capacitive sensing (different from IR optical of LC/TK series)\n\nKey Features:\n- Capacitive detection principle\n- Universal output (NPN/PNP/AC in one model)\n- Ultra-compact design (ideal for OEM equipment integration)\n- Global PLC compatibility (works with all major brands)\n- Reduces BOM complexity (one part number for all applications)\n\nK25 - Dual Sensor (Level + Temperature in One Unit)\nTechnology: Combined IR optical level sensor + PT1000 temperature sensor\n\nRevolutionary Innovation:\n- Replaces 2 separate sensors (level + temperature) with one device\n- 50% installation time reduction\n- Single leak point instead of two\n- 4-20mA temperature output (no PT1000 signal converter needed)\n- Factory calibrated\n\nATEX-Certified Sensors:\n- LC-PS ATEX (46 bar)\n- LC-PH ATEX (120 bar)\n\nMandatory for:\n- Flammable refrigerants: R290 (propane), R600a (isobutane)\n- Ammonia (NH3/R717) in hazardous zones\n- Zone 1, Zone 2 explosive atmospheres\n- ATEX Directive 2014/34/EU compliance\n\n---\n\nQuestion: Do you have sensors for R290 systems?\n\nRespond as an expert Teklab technical sales assistant with accurate product specifications."
+        },
+        {
+            "role": "assistant",
+            "content": "For R290 (propane) systems, you must use ATEX-certified sensors due to the flammable nature of the refrigerant. Teklab offers LC-PS ATEX (46 bar) and LC-PH ATEX (120 bar) with intrinsic safety certification for explosive atmospheres. ATEX is mandatory for regulatory compliance."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_150_004_Product_Matrix_-_Specialized_Sensors_K11_K25_ATEX",
+        "file_index": 150,
+        "file_source": "Product_Matrix",
+        "chunk_number": 4,
+        "chunk_title": "Product Matrix - Specialized Sensors (K11, K25, ATEX)",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Product Selection Guide",
+        "product_category": "Generali",
+        "key_concepts": [
+            "K11 capacitive sensor for OEM compact applications",
+            "K25 dual sensor combines level + temperature in one unit",
+            "ATEX certification mandatory for flammable refrigerants",
+            "K25 saves 50% installation time vs separate sensors",
+            "ATEX intrinsic safety for explosive atmospheres"
+        ],
+        "keywords_primary": [
+            "K11",
+            "K25",
+            "ATEX",
+            "LC-PS ATEX",
+            "LC-PH ATEX",
+            "R290",
+            "R600a",
+            "propane",
+            "isobutane",
+            "NH3",
+            "ammonia",
+            "capacitive sensor",
+            "dual sensor",
+            "temperature sensor",
+            "PT1000",
+            "4-20mA",
+            "explosive atmosphere",
+            "Zone 1",
+            "Zone 2"
+        ],
+        "keywords_synonyms": {
+            "K11": ["capacitive level sensor", "universal output sensor", "OEM sensor"],
+            "K25": ["dual sensor", "level + temperature", "combined sensor"],
+            "ATEX": ["intrinsic safety", "explosion proof", "hazardous area"],
+            "R290": ["propane", "flammable refrigerant"],
+            "R600a": ["isobutane"],
+            "NH3": ["ammonia", "R717"]
+        },
+        "keywords_relations": {
+            "k11_applications": ["OEM", "chiller", "heat pump", "compact", "BOM simplification"],
+            "k25_benefits": ["50% installation time", "single leak point", "4-20mA output", "factory calibrated"],
+            "atex_requirements": ["R290", "R600a", "NH3", "Zone 1", "Zone 2", "flammable", "explosive"],
+            "atex_models": ["LC-PS ATEX", "LC-PH ATEX", "46 bar", "120 bar"],
+            "compliance": ["ATEX Directive 2014/34/EU", "intrinsic safety", "regulatory approval"]
+        },
+        "iconic_quotes": [
+            "K25 replaces 2 separate sensors with one device, saving 50% installation time and creating a single leak point",
+            "ATEX certification is mandatory and non-negotiable for flammable refrigerants like R290, R600a, or NH3 in hazardous zones",
+            "K11 uses capacitive sensing technology, different from the IR optical used in LC and TK series",
+            "K25 provides 4-20mA temperature output with no need for PT1000 signal converters"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is K25 and when should I use it?",
+                "answer": "K25 is a revolutionary dual sensor that combines IR optical level sensing with a PT1000 temperature sensor in one unit. Use it when you need both measurements - it saves 50% installation time, creates only one leak point instead of two, and provides 4-20mA temperature output without needing converters.",
+                "difficulty": "intermediate",
+                "intent": ["product_selection", "application_design"]
+            },
+            {
+                "question": "Do I need ATEX sensors for R290 heat pumps?",
+                "answer": "Yes, ATEX certification is mandatory for R290 (propane) because it's a flammable refrigerant. You must use LC-PS ATEX (46 bar) or LC-PH ATEX (120 bar) depending on your pressure requirements. This is required for Zone 1 or Zone 2 explosive atmosphere compliance and regulatory approval.",
+                "difficulty": "beginner",
+                "intent": ["safety_compliance", "product_selection", "regulatory"]
+            },
+            {
+                "question": "What's different about K11 compared to LC sensors?",
+                "answer": "K11 uses capacitive sensing technology (not IR optical like LC series). It's designed for OEM applications with ultra-compact size, universal output (NPN/PNP/AC in one model), and works with all PLC brands. It simplifies BOM and inventory management for manufacturers.",
+                "difficulty": "advanced",
+                "intent": ["technology_comparison", "product_selection", "OEM_application"]
+            },
+            {
+                "question": "Can I use standard LC sensors with ammonia?",
+                "answer": "For ammonia (NH3/R717) in hazardous zones (Zone 1/2), you must use ATEX-certified models (LC-PS ATEX or LC-PH ATEX) to comply with explosive atmosphere regulations. Standard LC sensors without ATEX are only for non-hazardous applications.",
+                "difficulty": "intermediate",
+                "intent": ["safety_compliance", "refrigerant_compatibility", "regulatory"]
+            }
+        ]
+    }
+}

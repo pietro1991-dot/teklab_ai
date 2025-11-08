@@ -30,12 +30,32 @@
             "Passive Operation"
         ],
         "keywords_primary": [
-            "TK4+",
-            "Diagnostica avanzata",
-            "Sicurezza attiva"
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "application (compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Un regolatore meccanico è un dispositivo puramente passivo.",
             "Se il galleggiante si blocca in posizione 'alta', il compressore si svuoterà d'olio senza che venga generato alcun allarme, portando a un guasto catastrofico."

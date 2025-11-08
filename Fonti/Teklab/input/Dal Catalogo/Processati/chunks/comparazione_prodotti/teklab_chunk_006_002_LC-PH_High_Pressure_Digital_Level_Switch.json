@@ -30,14 +30,45 @@
             "Specifically designed for modern eco-friendly refrigeration systems"
         ],
         "keywords_primary": [
-            "LC-PH",
-            "high pressure",
-            "digital level switch",
-            "CO2",
-            "MODBUS RTU"
+            "product_model (LC-PS)",
+            "product_model (LC-PH)",
+            "pressure_range (120 bar)",
+            "refrigerant (CO2, R744)",
+            "feature (M12)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2",
+                "R744"
+            ],
+            "pressure_ratings": [
+                "120 bar"
+            ],
+            "communication": [
+                "digital"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Versione per alta pressione del modello LC-PS",
             "Rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici"

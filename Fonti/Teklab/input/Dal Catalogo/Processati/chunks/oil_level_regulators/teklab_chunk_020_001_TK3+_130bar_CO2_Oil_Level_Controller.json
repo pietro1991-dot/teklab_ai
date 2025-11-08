@@ -32,14 +32,39 @@
             "Direct sight glass replacement"
         ],
         "keywords_primary": [
-            "TK3+ 130bar",
-            "CO2 oil level controller",
-            "Compact dimensions",
-            "MODBUS",
-            "ATEX certification"
+            "product_model (TK3+)",
+            "pressure_range (130 bar)",
+            "refrigerant (CO2)",
+            "application (oil level)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "130 bar"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "Extremely compact dimensions",
             "Left/Right mounting possibility with the same TK3+ reduces junctions and components",

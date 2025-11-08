@@ -34,15 +34,45 @@
             "Well Consolidated Steel"
         ],
         "keywords_primary": [
-            "TK4MB",
-            "46bar",
-            "Oil Level Regulator",
-            "Modbus RTU",
-            "Compact",
-            "ATEX Certification"
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "product_model (ATEX)",
+            "pressure_range (46 bar)",
+            "refrigerant (CO2)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "• Modbus RTU Serial connection to system controller",
             "• Extremely compact dimensions",

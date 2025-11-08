@@ -29,7 +29,7 @@
             "feature (MODBUS, ATEX)",
             "application (compressor lubrication)",
             "product_model (Teklab)",
-            "pressure_range (130bar, 0-600bar)",
+            "pressure_range (130bar, 46bar, 80bar, 130bar, or 150bar)",
             "application (compressor, refrigeration)",
             "TK Series",
             "CO₂ sensors",

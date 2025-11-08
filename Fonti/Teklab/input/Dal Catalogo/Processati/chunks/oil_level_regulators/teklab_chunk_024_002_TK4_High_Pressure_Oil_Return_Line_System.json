@@ -32,14 +32,35 @@
             "Critical performance characteristic"
         ],
         "keywords_primary": [
-            "product_model (e.g., TK4)",
-            "pressure_range (e.g., high pressure oil return line system)",
-            "temperature (e.g., -40°C, +125°C)",
-            "feature (e.g., MODBUS, ATEX)",
-            "application (e.g., compressor lubrication)"
+            "product_model (TK4)",
+            "feature (relay)",
+            "application (oil level, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility.",
             "Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant."

@@ -32,17 +32,46 @@
             "Comparison to other Teklab products"
         ],
         "keywords_primary": [
-            "LC-PS",
-            "46bar",
-            "optical level switch",
-            "standard",
-            "HFC, HFO refrigerants"
+            "product_model (LC-PS)",
+            "pressure_range (46 bar)",
+            "refrigerant (HFC, HFO)",
+            "feature (optical)",
+            "application (level switch, refrigeration)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC",
+                "HFO"
+            ],
+            "pressure_ratings": [
+                "46 bar"
+            ]
+        },
         "iconic_quotes": [
-            "Il nostro switch standard, ottimo rapporto qualità/prezzo",
-            "Tutti i nostri sensori di livello ottici condividono la stessa affidabile tecnologia a infrarossi senza parti in movimento"
+            "Our standard switch, excellent quality-price ratio",
+            "All our optical level sensors share the same reliable infrared technology without moving parts"
         ],
         "qa_pairs": [
             {

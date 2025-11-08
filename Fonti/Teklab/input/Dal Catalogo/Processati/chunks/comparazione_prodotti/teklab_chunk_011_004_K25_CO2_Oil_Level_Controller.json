@@ -32,16 +32,43 @@
             "Economic and simple sensor solution"
         ],
         "keywords_primary": [
-            "K25",
-            "CO2",
-            "Dual output",
-            "High pressure",
-            "MODBUS",
-            "ATEX certification",
-            "Temperature monitoring"
+            "product_model (K11)",
+            "product_model (K25)",
+            "pressure_range (150 bar)",
+            "refrigerant (CO2)",
+            "feature (NPN, 4-20mA)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "150 bar"
+            ],
+            "communication": [
+                "4-20mA",
+                "digital"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "Il suo punto di forza è l'integrazione di due output in un unico dispositivo: Output Digitale (NPN) e Output Analogico 4-20mA.",
             "È costruito per resistere fino a **150 bar**, rendendolo la scelta perfetta per i circuiti ad alta pressione"

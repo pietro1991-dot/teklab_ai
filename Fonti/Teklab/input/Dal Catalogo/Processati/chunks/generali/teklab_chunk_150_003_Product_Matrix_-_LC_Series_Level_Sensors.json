@@ -1,0 +1,96 @@
+{
+    "id": "teklab_chunk_150_003_Product_Matrix_-_LC_Series_Level_Sensors",
+    "original_text": "LC Series - Liquid Level Sensors (Optical Switches)\n\nLC-PS Family - Standard Pressure Optical Switch (46 bar)\nTechnology: Infrared optical detection, digital ON/OFF output\n\nModel Variants:\n- LC-PS Cable (3-wire pre-wired cable) - Standard installation\n- LC-XT M12 (M12 industrial connector) - Same as LC-PS with removable connector for easier maintenance\n\nTechnical Specifications:\n- Maximum pressure: 46 bar\n- Compatible refrigerants: HFC, HFO, R134a, R404A, R410A\n- Universal output: NPN/PNP/AC in single model\n- Protection: IP67\n- Operating temperature: -40°C to +125°C\n- Response time: Instantaneous (<1 second)\n\nLC-PH Family - High Pressure Optical Switch (120 bar)\nTechnology: Infrared optical with reinforced structural design\n\nModel Variants:\n- LC-PH Cable (3-wire cable) - 120 bar for CO2 transcritical\n- LC-XP M12 (M12 connector) - 120 bar industrial connector version\n\nTechnical Specifications:\n- Maximum pressure: 120 bar (for CO2 transcritical)\n- Compatible refrigerants: CO2 (R744), HFC, HFO, high-pressure applications\n- Reinforced body for extreme mechanical/thermal stress\n- Same universal output as LC-PS\n- Rotalock adapter compatibility\n\nWhen to Choose:\n- LC-PS/XT: Pressure ≤46 bar, standard refrigeration (HFC/HFO)\n- LC-PH/XP: Pressure >46 bar up to 120 bar, CO2 transcritical systems (mandatory)\n- XT/XP variants: Choose M12 connector for easier maintenance and replacement",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application.\n\nSTYLE: Technical but accessible, consultative and solution-oriented, precise and data-driven.\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors\n- Specialized sensors (K11, K25)"
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab Product Matrix):\n\n[Product Matrix] - LC Series Level Sensors - Optical switches with 2 pressure families (46 bar and 120 bar)\nKey Specifications: LC-PS/XT for 46 bar standard pressure, LC-PH/XP for 120 bar CO2 transcritical, Universal NPN/PNP/AC output, IP67 protection, Instantaneous response time\n📌 Important Details: LC-PS and LC-XT are the same except connector type (cable vs M12) | LC-PH and LC-XP are the same except connector type | Choose LC-PH/XP for CO2 transcritical (mandatory 120 bar rating) | M12 variants (XT/XP) offer easier maintenance\n\nComplete technical text:\nLC Series - Liquid Level Sensors (Optical Switches)\n\nLC-PS Family - Standard Pressure Optical Switch (46 bar)\nTechnology: Infrared optical detection, digital ON/OFF output\n\nModel Variants:\n- LC-PS Cable (3-wire pre-wired cable) - Standard installation\n- LC-XT M12 (M12 industrial connector) - Same as LC-PS with removable connector for easier maintenance\n\nTechnical Specifications:\n- Maximum pressure: 46 bar\n- Compatible refrigerants: HFC, HFO, R134a, R404A, R410A\n- Universal output: NPN/PNP/AC in single model\n- Protection: IP67\n- Operating temperature: -40°C to +125°C\n- Response time: Instantaneous (<1 second)\n\nLC-PH Family - High Pressure Optical Switch (120 bar)\nTechnology: Infrared optical with reinforced structural design\n\nModel Variants:\n- LC-PH Cable (3-wire cable) - 120 bar for CO2 transcritical\n- LC-XP M12 (M12 connector) - 120 bar industrial connector version\n\nTechnical Specifications:\n- Maximum pressure: 120 bar (for CO2 transcritical)\n- Compatible refrigerants: CO2 (R744), HFC, HFO, high-pressure applications\n- Reinforced body for extreme mechanical/thermal stress\n- Same universal output as LC-PS\n- Rotalock adapter compatibility\n\n---\n\nQuestion: What LC sensors do you offer?\n\nRespond as an expert Teklab technical sales assistant with accurate product specifications."
+        },
+        {
+            "role": "assistant",
+            "content": "Teklab offers 2 LC sensor families: LC-PS/XT for standard pressure (46 bar) with HFC/HFO refrigerants, and LC-PH/XP for high pressure (120 bar) including CO2 transcritical systems. Each family comes with cable or M12 connector variants."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_150_003_Product_Matrix_-_LC_Series_Level_Sensors",
+        "file_index": 150,
+        "file_source": "Product_Matrix",
+        "chunk_number": 3,
+        "chunk_title": "Product Matrix - LC Series Level Sensors",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Product Selection Guide",
+        "product_category": "Generali",
+        "key_concepts": [
+            "LC-PS and LC-XT for 46 bar standard pressure",
+            "LC-PH and LC-XP for 120 bar CO2 transcritical",
+            "Universal NPN/PNP/AC output in single model",
+            "M12 connector variants for easier maintenance",
+            "Instantaneous response time with IR optical technology"
+        ],
+        "keywords_primary": [
+            "LC-PS",
+            "LC-XT",
+            "LC-PH",
+            "LC-XP",
+            "46 bar",
+            "120 bar",
+            "CO2 transcritical",
+            "R744",
+            "M12 connector",
+            "level sensor",
+            "optical switch",
+            "universal output"
+        ],
+        "keywords_synonyms": {
+            "LC-PS": ["LC-PS cable", "standard pressure sensor"],
+            "LC-XT": ["LC-PS M12", "LC-PS with connector"],
+            "LC-PH": ["LC-PH cable", "high pressure sensor", "CO2 sensor"],
+            "LC-XP": ["LC-PH M12", "LC-PH with connector"],
+            "M12 connector": ["industrial connector", "EN 175301-803A"],
+            "CO2 transcritical": ["R744", "high pressure CO2"]
+        },
+        "keywords_relations": {
+            "standard_pressure": ["LC-PS", "LC-XT", "46 bar"],
+            "high_pressure": ["LC-PH", "LC-XP", "120 bar", "CO2"],
+            "connector_types": ["3-wire cable", "M12 industrial connector"],
+            "refrigerants": ["HFC", "HFO", "R134a", "R404A", "R410A", "CO2", "R744"],
+            "output": ["NPN", "PNP", "AC", "universal"]
+        },
+        "iconic_quotes": [
+            "LC-PS and LC-XT are functionally identical - the only difference is connector type (cable vs M12)",
+            "For CO2 transcritical systems, LC-PH or LC-XP with 120 bar rating is mandatory",
+            "M12 connector variants (LC-XT, LC-XP) offer easier maintenance and faster replacement",
+            "Universal output means one model works with NPN, PNP, or AC - no need for multiple SKUs"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What's the difference between LC-PS and LC-XT?",
+                "answer": "LC-PS and LC-XT are functionally identical sensors rated for 46 bar. The only difference is the connector: LC-PS has a pre-wired 3-wire cable, while LC-XT has an M12 industrial connector for easier maintenance and replacement.",
+                "difficulty": "beginner",
+                "intent": ["product_comparison", "product_selection"]
+            },
+            {
+                "question": "Which LC sensor should I use for CO2 transcritical systems?",
+                "answer": "For CO2 transcritical systems, you must use LC-PH or LC-XP, which are rated for 120 bar maximum pressure. These models have reinforced construction to handle the extreme pressures found in R744 transcritical applications. LC-PS/XT (46 bar) are not suitable.",
+                "difficulty": "intermediate",
+                "intent": ["product_selection", "refrigerant_compatibility"]
+            },
+            {
+                "question": "What does universal output mean for LC sensors?",
+                "answer": "Universal output means the LC sensor can work with NPN, PNP, or AC signals in a single model. You don't need to order different versions for different PLC types - one part number works with all, reducing BOM complexity and inventory.",
+                "difficulty": "intermediate",
+                "intent": ["technical_specification", "application_design"]
+            },
+            {
+                "question": "When should I choose M12 connector variants (LC-XT or LC-XP)?",
+                "answer": "Choose M12 connector variants when you need easier maintenance, faster sensor replacement, or modular installation. The removable industrial connector (EN 175301-803A standard) allows quick disconnect without cutting cables, ideal for frequent maintenance or OEM applications.",
+                "difficulty": "advanced",
+                "intent": ["product_selection", "installation", "maintenance"]
+            }
+        ]
+    }
+}

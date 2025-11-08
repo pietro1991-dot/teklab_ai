@@ -32,14 +32,37 @@
             "High reliability with no mechanical moving parts"
         ],
         "keywords_primary": [
-            "TK4",
-            "46bar",
-            "Oil Level Regulator",
-            "MODBUS",
-            "ATEX certification"
+            "product_model (TK4)",
+            "product_model (ATEX)",
+            "pressure_range (46 bar)",
+            "feature (MODBUS)",
+            "application (oil level, ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ]
+        },
         "iconic_quotes": [
             "Extremely compact dimensions",
             "Revolutionary connectivity capabilities",

@@ -32,22 +32,54 @@
             "Digital output for level measurement"
         ],
         "keywords_primary": [
-            "K25",
-            "150bar",
-            "CO2",
-            "dual sensor",
-            "ATEX certification"
+            "product_model (TK3+)",
+            "product_model (K11)",
+            "product_model (K25)",
+            "product_model (ATEX)",
+            "pressure_range (130 bar)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2",
+                "R290",
+                "R600a"
+            ],
+            "pressure_ratings": [
+                "130 bar",
+                "150 bar"
+            ],
+            "communication": [
+                "4-20mA",
+                "digital"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "\"Two sensor in uno\": livello + temperatura. Ideale per CO2.",
             "Sicurezza intrinseca per aree con atmosfera potenzialmente esplosiva."
         ],
         "qa_pairs": [
             {
-                "question": "Qual è la differenza tra K11, K25 e ATEX?",
-                "answer": "K11 (60 bar) è versatile con output configurabile NPN/PNP/AC per applicazioni standard. K25 (150 bar) è specifico per CO2 transcritico, offre doppio sensore (livello + temperatura 4-20mA). ATEX (20 bar) è certificato Ex ia IIC per aree esplosive, obbligatorio per refrigeranti infiammabili come R290, R600a.",
+                "question": "What is the difference between K11, K25 and ATEX?",
+                "answer": "K11 (60 bar) is versatile with configurable NPN/PNP/AC output for standard applications. K25 (150 bar) is specific for transcritical CO2, offers dual sensor (level + temperature 4-20mA). ATEX (20 bar) is Ex ia IIC certified for explosive areas, mandatory for flammable refrigerants like R290, R600a.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -64,8 +96,8 @@
                 ]
             },
             {
-                "question": "Quando è obbligatorio usare il sensore ATEX?",
-                "answer": "Il sensore ATEX è obbligatorio per legge in aree classificate a rischio esplosione (Zone ATEX 0, 1, 2): impianti chimici, petrolchimici, farmaceutici, e sistemi refrigerazione con refrigeranti infiammabili come propano R290, isobutano R600a. La certificazione Ex ia IIC garantisce sicurezza intrinseca.",
+                "question": "When is it mandatory to use the ATEX sensor?",
+                "answer": "The ATEX sensor is mandatory by law in areas classified as explosion risk zones (ATEX Zones 0, 1, 2): chemical, petrochemical, pharmaceutical plants, and refrigeration systems with flammable refrigerants such as propane R290, isobutane R600a. The Ex ia IIC certification guarantees intrinsic safety.",
                 "difficulty": "beginner",
                 "intent": [
                     "safety",
@@ -73,8 +105,8 @@
                 ]
             },
             {
-                "question": "Perché scegliere K25 invece di TK3+ per CO2?",
-                "answer": "K25 supporta fino a 150 bar (vs 130 bar del TK3+) ed è l'unico con doppia funzionalità: sensore livello digitale + sensore temperatura analogico 4-20mA integrato. Questo elimina necessità di sensori separati, riduce punti di connessione e costi installazione per sistemi CO2 transcritici ad altissima pressione.",
+                "question": "Why choose K25 instead of TK3+ for CO2?",
+                "answer": "K25 supports up to 150 bar (vs 130 bar of TK3+) and is the only one with dual functionality: digital level sensor + integrated analog temperature sensor 4-20mA. This eliminates the need for separate sensors, reduces connection points and installation costs for ultra-high pressure transcritical CO2 systems.",
                 "difficulty": "advanced",
                 "intent": [
                     "product_selection",

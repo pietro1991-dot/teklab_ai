@@ -32,14 +32,39 @@
             "High accuracy and response time for precise control"
         ],
         "keywords_primary": [
-            "TK4-MB",
-            "Modbus RTU",
-            "oil level regulation",
-            "wireless communication",
-            "ATEX certification"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "product_model (ATEX)",
+            "feature (MODBUS)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "MODBUS"
+            ]
+        },
         "iconic_quotes": [
             "Teklab is continuously in contact with customers for adding features to the product.",
             "TK4-MB integrates two possibilities of communication interface: wired serial interface based on Modbus RTU protocol and wireless near field communication protocol."

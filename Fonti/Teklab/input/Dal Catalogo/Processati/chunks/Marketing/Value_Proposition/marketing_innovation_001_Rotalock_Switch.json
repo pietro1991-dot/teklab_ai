@@ -1,88 +1,73 @@
 {
-    "id": "marketing_innovation_001_Rotalock_Switch",
-    "original_text": "INNOVAZIONE TEKLAB: Rotalock Switch - Montaggio Diretto Valvole\n\nIl Rotalock Switch Teklab è l'UNICO level switch sul mercato mondiale con montaggio diretto nativo su valvole Rotalock (standard globale nei ricevitori liquido e compressori refrigerazione). NESSUN competitor offre equivalente - innovazione esclusiva totale. Elimina completamente necessità di adattatori Rotalock→NPT/SAE, guarnizioni multiple, raccordi intermedi.\n\nPERCHÉ È UNICO:\nValvole Rotalock sono onnipresenti ma nessun produttore aveva mai progettato sensore con attacco nativo. Tutti competitor richiedono adattatori esterni con svantaggi: costi materiali, tempo installazione, punti perdita aggiuntivi. Teklab ha identificato nicchia non coperta e creato prodotto unico.\n\nVANTAGGI CONCRETI:\n• Installazione 5 min vs 45 min con adattatori tradizionali (risparmio 40 min manodopera = 40-70€)\n• Zero punti di perdita aggiuntivi: 1 connessione vs 2 (riduzione 50% rischio perdite refrigerante)\n• Risparmio materiali: elimina adattatore Rotalock→NPT (~30€) + guarnizioni (~5€) = 35€ per installazione\n• Connettore DIN 43650-A elettrico per manutenzione rapida plug-and-play\n• ROI immediato: payback su prima installazione (risparmio totale 75-105€)\n\nCOMPATIBILITÀ:\nValvole Rotalock standard di tutte le marche: Sporlan, Castel, Parker, Emerson/Alco, Danfoss serie EVRA/EVRST/EVR. Pressione: 46 bar (sistemi HFC/HFO standard).\n\nAPPLICAZIONI TIPICHE:\nRicevitori liquido, compressori con valvole Rotalock, retrofit impianti esistenti senza fermo prolungato.\n\nDOMANDE FREQUENTI:\n\nQ: Funziona con valvole Rotalock di qualsiasi marca?\nA: Sì, filettatura Rotalock è standard industriale internazionale. Compatibile con tutte le marche principali (Sporlan, Castel, Parker, Danfoss, Emerson/Alco). Verifica solo che valvola abbia porto disponibile (tipicamente ricevitori hanno 2-4 porti).\n\nQ: Serve svuotare impianto per installare Rotalock Switch?\nA: No, valvole Rotalock hanno chiusura integrata. Procedura: chiudi valvola Rotalock, rimuovi tappo cieco, installa switch, riapri valvola. Nessuno svuotamento refrigerante necessario. Installazione in pressione sicura.\n\n\nTESTIMONIANZA CLIENTE:\n\"Prima ci volevano 2 tecnici e 1 ora per montare sensore con adattatori e rischio perdite. Con Rotalock Switch: 1 tecnico, 5 minuti, zero perdite. Game changer per manutenzioni urgenti.\"\n",
-    "messages": [
-        {
-            "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differentiators. Help customers understand Teklab's exclusive features and the value they bring to their applications."
-        },
-        {
-            "role": "user",
-            "content": "Technical documentation context (Teklab unique innovations):\n\n[Innovazioni Uniche Teklab] - Rotalock Switch - Montaggio Diretto Valvole\n\nINNOVAZIONE TEKLAB: Rotalock Switch - Montaggio Diretto Valvole\n\nIl Rotalock Switch Teklab è l'UNICO level switch sul mercato mondiale con montaggio diretto nativo su valvole Rotalock (standard globale nei ricevitori liquido e compressori refrigerazione). NESSUN competitor offre equivalente - innovazione esclusiva totale. Elimina completamente necessità di adattatori Rotalock→NPT/SAE, guarnizioni multiple, raccordi intermedi.\n\nPERCHÉ È UNICO:\nValvole Rotalock sono onnipresenti ma nessun produttore aveva mai progettato sensore con attacco nativo. Tutti competitor richiedono adattatori esterni con svantaggi: costi materiali, tempo installazione, punti perdita aggiuntivi. Teklab ha identificato nicchia non coperta e creato prodotto unico.\n\nVANTAGGI CONCRETI:\n• Installazione 5 min vs 45 min con adattatori tradizionali (risparmio 40 min manodopera = 40-70€)\n• Zero punti di perdita aggiuntivi: 1 connessione vs 2 (riduzione 50% rischio perdite refrigerante)\n• Risparmio materiali: elimina adattatore Rotalock→NPT (~30€) + guarnizioni (~5€) = 35€ per installazione\n• Connettore DIN 43650-A elettrico per manutenzione rapida plug-and-play\n• ROI immediato: payback su prima installazione (risparmio totale 75-105€)\n\nCOMPATIBILITÀ:\nValvole Rotalock standard di tutte le marche: Sporlan, Castel, Parker, Emerson/Alco, Danfoss serie EVRA/EVRST/EVR. Pressione: 46 bar (sistemi HFC/HFO standard).\n\nAPPLICAZIONI TIPICHE:\nRicevitori liquido, compressori con valvole Rotalock, retrofit impianti esistenti senza fermo prolungato.\n\nDOMANDE FREQUENTI:\n\nQ: Funziona con valvole Rotalock di qualsiasi marca?\nA: Sì, filettatura Rotalock è standard industriale internazionale. Compatibile con tutte le marche principali (Sporlan, Castel, Parker, Danfoss, Emerson/Alco). Verifica solo che valvola abbia porto disponibile (tipicamente ricevitori hanno 2-4 porti).\n\nQ: Serve svuotare impianto per installare Rotalock Switch?\nA: No, valvole Rotalock hanno chiusura integrata. Procedura: chiudi valvola Rotalock, rimuovi tappo cieco, installa switch, riapri valvola. Nessuno svuotamento refrigerante necessario. Installazione in pressione sicura.\n\n\nTESTIMONIANZA CLIENTE:\n\"Prima ci volevano 2 tecnici e 1 ora per montare sensore con adattatori e rischio perdite. Con Rotalock Switch: 1 tecnico, 5 minuti, zero perdite. Game changer per manutenzioni urgenti.\"\n\n\n---\n\nExplain this unique Teklab innovation and its benefits."
-        },
-        {
-            "role": "assistant",
-            "content": "Rotalock Switch - Montaggio Diretto Valvole: Il Rotalock Switch Teklab è l'UNICO level switch sul mercato mondiale con montaggio diretto nativo su valvole Rotalock (standard globale nei ricevitori liquido e compressori refrigerazione). NESSUN co..."
-        }
-    ],
-    "metadata": {
-        "chunk_id": "marketing_innovation_001_Rotalock_Switch",
-        "file_source": "Marketing_Value_Proposition",
-        "chunk_number": 1,
-        "chunk_title": "Rotalock Switch - Montaggio Diretto Valvole",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Marketing - Unique Innovation",
-        "product_category": "Value Proposition",
-        "innovation_name": "Rotalock Switch - Montaggio Diretto Valvole",
-        "qa_pairs": [
-            {
-                "question": "Funziona con valvole Rotalock di qualsiasi marca?",
-                "answer": "Sì, filettatura Rotalock è standard industriale internazionale. Compatibile con tutte le marche principali (Sporlan, Castel, Parker, Danfoss, Emerson/Alco). Verifica solo che valvola abbia porto disponibile (tipicamente ricevitori hanno 2-4 porti)."
-            },
-            {
-                "question": "Serve svuotare impianto per installare Rotalock Switch?",
-                "answer": "No, valvole Rotalock hanno chiusura integrata. Procedura: chiudi valvola Rotalock, rimuovi tappo cieco, installa switch, riapri valvola. Nessuno svuotamento refrigerante necessario. Installazione in pressione sicura."
-            }
-        ],
-        "advantages": [
-            "Installazione 5 min vs 45 min con adattatori tradizionali (risparmio 40 min manodopera = 40-70€)",
-            "Zero punti di perdita aggiuntivi: 1 connessione vs 2 (riduzione 50% rischio perdite refrigerante)",
-            "Risparmio materiali: elimina adattatore Rotalock→NPT (~30€) + guarnizioni (~5€) = 35€ per installazione",
-            "Connettore DIN 43650-A elettrico per manutenzione rapida plug-and-play",
-            "ROI immediato: payback su prima installazione (risparmio totale 75-105€)"
-        ],
-        "applications": "Ricevitori liquido, compressori con valvole Rotalock, retrofit impianti esistenti senza fermo prolungato.",
-        "compatibility": "Valvole Rotalock standard di tutte le marche: Sporlan, Castel, Parker, Emerson/Alco, Danfoss serie EVRA/EVRST/EVR. Pressione: 46 bar (sistemi HFC/HFO standard).",
-        "keywords_primary": [
-            "innovation (Rotalock native mount)",
-            "unique_product (only globally)",
-            "savings (75-105€ per installation)",
-            "feature (zero adapters, direct installation, 5 min setup)",
-            "application (Rotalock valves, liquid receivers, quick retrofit)"
-        ],
-        "keywords_synonyms": {
-            "Rotalock innovation": [
-                "market first",
-                "exclusive Teklab",
-                "uncovered niche"
-            ],
-            "no adapters": [
-                "direct mount",
-                "native connection",
-                "plug-and-play"
-            ],
-            "ROI": [
-                "immediate payback",
-                "first installation savings"
-            ]
-        },
-        "keywords_relations": {
-            "problem_solved": [
-                "adapter elimination",
-                "leak point reduction",
-                "installation time"
-            ],
-            "valve_compatibility": [
-                "Sporlan",
-                "Castel",
-                "Parker",
-                "Danfoss EVRA"
-            ],
-            "savings_breakdown": [
-                "40 min labor (40-70€)",
-                "adapter 30€",
-                "gaskets 5€"
-            ]
-        }
+  "id": "marketing_innovation_001_Rotalock_Switch",
+  "original_text": "INNOV_ATION TEKLAB: Rotalock Switch - Direct Mounting Valves The Rotalock Switch Teklab is the UNICO level switch on the world market with direct native mounting on Rotalock valves (global standard in liquid receivers and refrigeration compressors). NO Competitor offers equivalent - total exclusive innovation. It fully eliminates the need for Rotalock adapters→NPT/SAE, multiple gaskets, intermediate fittings. WHY IT IS SINGLE: Rotalock valves are ubiquitous but no manufacturer had ever designed sensor with native attachment. All competitors require external adapters with disadvantages: material costs, installation time, additional loss points. Teklab has identified uncovered nice and created unique product. ADV_ANTAGES CONCRETE: • Installation 5 min vs 45 min with traditional adapters (saving 40 min labor = 40-70€) • Zero additional loss points: 1 connection vs 2 (reduction 50% cooling risk) • Saving materials: eliminates Rotalock adapter→NPT (~30€) + gaskets (~5€) = 35€ per installation • Connector DIN 43650-_TECH37__ electrical for quick plug-and-play maintenance • Instant ROI: payback on first installation (total savings 75-105€) Bracket: Standard Rotalock_ valves of all brands: __TECH24_, __TECH33_E_PACK_TEC_TECH26_TEC_24_TECH3_TECH14_TECH3_TECH3_TECH3_T_T_TECH34_T_TECH3_T_T_T_TECH34_TECH3_T_T_T_T_T_T_TECH34_TECH34_TECH34_T_T_T_T_T_TECH34_T_TECH34_T_T_T_TECH34_T_T_T_TECH34_T_T_T_T_T_TECH34_T_T_T_TECH34_T_T_T_T_T_T_T_TECH34_T_T_T_T_T_T_T_TECH34_T_T_TECH34 Pressure: 46 bar (standard HFC/HFO systems).TYPICAL APPLICATIONS: Liquid receivers, compressors with Rotalock valves, retrofit existing systems without extended stop. FREQUENT QUESTIONS: Q: Works with Rotalock valves of any brand? __TECH37_: Yes, Rotalock thread is international industrial standard. Compatible with all major brands (Sporlan, Castel, Parker, __TECH14_, Emerson/_TECH8__). Only check that valve has port available (typically receipts have 2-4 ports).Q: Do you need to empty system to install Rotalock Switch?A: No, Rotalock valves have built-in closure. Procedures: close Rotalock valve, remove blind cap, install switch, reopen valve. No cool emptying required. Secure pressure installation. CUSTOMER WITNESS: \"Before it took 2 technicians and 1 hour to mount sensor with adapters and leak risk. With Rotalock Switch: 1 technicalian, 5 minutes, zero losses. Game changer for urgent maintenance.\" .",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differences. Help customers understand Teklab's exclusive features and the value they bring to their applications."
+    },
+    {
+      "role": "user",
+      "content": "Technical documentation context (Teklab unique innovations): [Unique Innovations Teklab] - Rotalock Switch - Direct Mounting TEKLAB INNOV_ATION Valves: Rotalock Switch - Direct Mounting Valves The Rotalock Switch Teklab is the UNICO level switch on the world market with direct native assembly on __TECH21_ valves (global standard in liquid receivers and refrigeration compressors). NO Competitor offers equivalent - total exclusive innovation. It fully eliminates the need for Rotalock adapters→NPT/SAE, multiple gaskets, intermediate fittings. WHY IT IS SINGLE: Rotalock valves are ubiquitous but no manufacturer had ever designed sensor with native attachment. All competitors require external adapters with disadvantages: material costs, installation time, additional loss points. Teklab has identified uncovered nice and created unique product. ADV_ANTAGES CONCRETE: • Installation 5 min vs 45 min with traditional adapters (saving 40 min labor = 40-70€) • Zero additional loss points: 1 connection vs 2 (reduction 50% cooling risk) • Saving materials: eliminates Rotalock adapter→NPT (~30€) + gaskets (~5€) = 35€ per installation • Connector DIN 43650-_TECH37__ electrical for quick plug-and-play maintenance • Instant ROI: payback on first installation (total savings 75-105€) Bracket: Standard Rotalock_ valves of all brands: __TECH24_, __TECH33_E_PACK_TEC_TECH26_TEC_24_TECH3_TECH14_TECH3_TECH3_TECH3_T_T_TECH34_T_TECH3_T_T_T_TECH34_TECH3_T_T_T_T_T_T_TECH34_TECH34_TECH34_T_T_T_T_T_TECH34_T_TECH34_T_T_T_TECH34_T_T_T_TECH34_T_T_T_T_T_TECH34_T_T_T_TECH34_T_T_T_T_T_T_T_TECH34_T_T_T_T_T_T_T_TECH34_T_T_TECH34 Pressure: 46 bar (standard HFC/HFO systems).TYPICAL APPLICATIONS: Liquid receivers, compressors with Rotalock valves, retrofit existing systems without extended stop. FREQUENT QUESTIONS: Q: Works with Rotalock valves of any brand? __TECH37_: Yes, Rotalock thread is international industrial standard. Compatible with all major brands (Sporlan, Castel, Parker, __TECH14_, Emerson/_TECH8__). Only check that valve has port available (typically receipts have 2-4 ports).Q: Do you need to empty system to install Rotalock Switch?A: No, Rotalock valves have built-in closure. Procedures: close Rotalock valve, remove blind cap, install switch, reopen valve. No cool emptying required. Secure pressure installation. CUSTOMER WITNESS: \"Before it took 2 technicians and 1 hour to mount sensor with adapters and leak risk. With Rotalock Switch: 1 technicalian, 5 minutes, zero losses. Game changer for urgent maintenance.\" --- Explain this unique Teklab innovation and its benefits.."
+    },
+    {
+      "role": "assistant",
+      "content": "Rotalock Switch - Direct Mounting Valves: The Rotalock Switch Teklab is the UNICO level switch on the world market with direct native mounting on Rotalock valves (global standard in liquid receivers and refrigeration compressors)."
     }
+  ],
+  "metadata": {
+    "chunk_title": "Rotalock Switch - Montaggio Diretto Valvole",
+    "product_category": "Value Proposition",
+    "qa_pairs": [
+      {
+        "question": "Does it work with Rotalock valves of any brand?",
+        "answer": "Yes, Rotalock thread is international industrial standard. Compatible with all major brands (Sporlan, Castel, Parker, Danfoss, Emerson/Alco). Only check that valve has port available (typically receivers have 2-4 ports)."
+      },
+      {
+        "question": "Do you need to empty plant to install Rotalock Switch?",
+        "answer": "No, Rotalock valves have built-in closure. Procedure: close Rotalock valve, remove blind cap, install switch, reopen valve. No coolant emptying required. Secure pressure installation."
+      }
+    ],
+    "keywords_primary": [
+      "innovation (Rotalock native mount)",
+      "unique_product (only globally)",
+      "savings (75-105€ per installation)",
+      "feature (zero adapters, direct installation, 5 min setup)",
+      "application (Rotalock valves, liquid receivers, quick retrofit)"
+    ],
+    "keywords_synonyms": {
+      "Rotalock innovation": [
+        "market first",
+        "exclusive Teklab",
+        "Uncovered"
+      ],
+      "no adapters": [
+        "direct mount",
+        "native connection",
+        "plug-and-play"
+      ],
+      "ROI": [
+        "immediate payback",
+        "first installation savings"
+      ]
+    },
+    "keywords_relations": {
+      "problem_solved": [
+        "adapter elimination",
+        "leak point reduction",
+        "installation time"
+      ],
+      "valve_compatibility": [
+        "Sporlan",
+        "Castel",
+        "Parker",
+        "Danfoss EVRA"
+      ],
+      "savings_breakdown": [
+        "40 min labor (40-70€)",
+        "adapter 30€",
+        "gaskets 5€"
+      ]
+    }
+  }
 }

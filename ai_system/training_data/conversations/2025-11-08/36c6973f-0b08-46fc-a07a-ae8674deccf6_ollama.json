@@ -1,0 +1,87 @@
+{
+  "session_id": "36c6973f-0b08-46fc-a07a-ae8674deccf6",
+  "timestamp": "2025-11-08T16:14:28.311167",
+  "total_turns": 1,
+  "engine": "ollama",
+  "turns": [
+    {
+      "timestamp": "2025-11-08T16:14:28.309936",
+      "user": "Quale prodotto Teklab sostituisce il Danfoss AKS 38?",
+      "assistant": "**Quale prodotto Teklab sostituisce il Danfoss AKS 38?**\n\nIl **Teklab LC-PS (46 bar, output digitale via cavo)** è l'equivalente diretto del Danfoss AKS 38. Entrambi sono sensori capacitivi digitali con prestazioni comparabili.\n\n* Vantaggi LC-PS:\n + Setup più semplice\n + Segnale digitale stabile\n* Retrofit: \n - Filettatura standard 1/4\" SAE o M10x1\n - Alimentazione 12-24V DC universale\n - Cablaggio 2 fili\n* Livello tecnologico: EQUIVALENTE.\n* Applicazione: Sistemi refrigerazione standard HFC/HFO fino a 46 bar\n\n**Istruzioni per l'installazione e la configurazione:**\n\n1. Verifica che il sistema di alimentazione sia compatibile con il prodotto LC-PS (12-24V DC).\n2. Installa il prodotto in posizione sicura e stabile.\n3. Configura il prodotto secondo le istruzioni del manuale dell'utente.\n\n**Ricorda:** se hai dubbi o necessità di ulteriore assistenza, non esitare a contattare il supporto tecnico di Teklab.",
+      "rag_context": "[Source: Marketing - Level Switch Comparison - LC-PS - Competitor Comparison]\nCONFRONTO COMPETITOR: LC-PS\n\nCategoria: Marketing - Level Switch Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38, Alco FS-C/FS-J, Sporlan OLS-C, Emerson ELS, Saginomiya SNS\n\nQ: Quale prodotto Teklab sostituisce il Danfoss AKS 38?\nA: Il Teklab LC-PS (46 bar, output digitale via cavo) è l'equivalente diretto del Danfoss AKS 38. Entrambi sono sensori capacitivi digitali con prestazioni comparabili. Vantaggi LC-PS: setup più semplice, segnale digitale stabile. Retrofit: ⭐⭐⭐⭐ Facile - filettatura standard 1/4\" SAE o M10x1, alimentazione 12-24V DC universale, cablaggio 2 fili. Livello tecnologico: EQUIVALENTE.\nApplicazione: Sistemi refrigerazione standard HFC/HFO fino a 46 bar\n\nQ: Ho un Alco FS-C installato, posso sostituirlo con Teklab?\nA: Sì, il Teklab LC-PS sostituisce Alco FS-C/FS-J con vantaggio tecnologico: Alco usa microswitch meccanico (usura nel tempo), LC-PS è elettronico capacitivo (nessuna parte mobile, durata superiore). Retrofit: ⭐⭐⭐⭐⭐ Diretto - stessa filettatura. Livello tecnologico: SUPERIORE (elettronico vs meccanico).\nApplicazione: Upgrade da controllo meccanico a elettronico\n\nQ: Differenza LC-PS vs Sporlan OLS-C?\nA: Entrambi elettronici digitali con output PNP/NPN. Prestazioni equivalenti. LC-PS offre compatibilità PLC universale e setup semplificato. Retrofit diretto grazie a standard industriali comuni. Livello tecnologico: EQUIVALENTE.\nApplicazione: Controllo livello olio compressori standard\n\n\nVantaggi Competitivi: Tecnologia elettronica capacitiva (superiore ai competitor meccanici come Alco, Saginomiya). Equivalente ai premium brands (Danfoss, Emerson) con setup più semplice. Compatibilità PLC universale.\nFacilità Retrofit: ⭐⭐⭐⭐ Facile - Filettature standard, tensione universale 12-24V DC, 2 fili\n\n\n---\n[Source: Marketing - Level Switch Comparison - LC-PS - Competitor Comparison]\nCONFRONTO COMPETITOR: LC-PS\n\nCategoria: Marketing - Level Switch Comparison\n\nCompetitor Equivalenti: Danfoss AKS 38, Alco FS-C/FS-J, Sporlan OLS-C, Emerson ELS, Saginomiya SNS\n\nQ: Quale prodotto Teklab sostituisce il Danfoss AKS 38?\nA: Il Teklab LC-PS (46 bar, output digitale via cavo) è l'equivalente diretto del Danfoss AKS 38. Entrambi sono sensori capacitivi digitali con prestazioni comparabili. Vantaggi LC-PS: setup più semplice, segnale digitale stabile. Retrofit: ⭐⭐⭐⭐ Facile - filettatura standard 1/4\" SAE o M10x1, alimentazione 12-24V DC universale, cablaggio 2 fili. Livello tecnologico: EQUIVALENTE.\nApplicazione: Sistemi refrigerazione standard HFC/HFO fino a 46 bar\n\nQ: Ho un Alco FS-C installato, posso sostituirlo con Teklab?\nA: Sì, il Teklab LC-PS sostituisce Alco FS-C/FS-J con vantaggio tecnologico: Alco usa microswitch meccanico (usura nel tempo), LC-PS è elettronico capacitivo (nessuna parte mobile, durata superiore). Retrofit: ⭐⭐⭐⭐⭐ Diretto - stessa filettatura. Livello tecnologico: SUPERIORE (elettronico vs meccanico).\nApplicazione: Upgrade da controllo meccanico a elettronico\n\nQ: Differenza LC-PS vs Sporlan OLS-C?\nA: Entrambi elettronici digitali con output PNP/NPN. Prestazioni equivalenti. LC-PS offre compatibilità PLC universale e setup semplificato. Retrofit diretto grazie a standard industriali comuni. Livello tecnologico: EQUIVALENTE.\nApplicazione: Controllo livello olio compressori standard\n\n\nVantaggi Competitivi: Tecnologia elettronica capacitiva (superiore ai competitor meccanici come Alco, Saginomiya). Equivalente ai premium brands (Danfoss, Emerson) con setup più semplice. Compatibilità PLC universale.\nFacilità Retrofit: ⭐⭐⭐⭐ Facile - Filettature standard, tensione universale 12-24V DC, 2 fili\n\n\n---\n[Source: Generali - Teklab's Commitment to Innovation]\nTheir slogan underscores a commitment to \"low cost, high technology\" solutions that undergo rigorous testing.\nTeklab's core philosophy revolves around leveraging over 30 years of expertise in electronics development to create programmable, microcontroller-based devices that eliminate mechanical moving parts, enhancing longevity and performance. The company is located at Via Emilia Ovest, 1179, 41123 Modena, Italy, with contact details including phone (+39 059 375498) and fax (+39 059 376294). As a dynamic entity, Teklab invests heavily in research and development (R&D) to incorporate cutting-edge technologies, such as smart connectivity (e.g., Modbus RTU and wireless near-field communication), making their products adaptable to modern IoT-enabled systems.\nHistory and Milestones\nTeklab S.r.l. was founded in 1990 in Modena, Italy, initially focusing on electronics development for industrial sensors. The company's origins trace back to addressing market gaps in reliable, cost-effective liquid level detection, particularly for refrigeration and air conditioning applications. By the mid-1990s, Teklab had begun exporting its Infra-Red liquid level switches internationally, capitalizing on Italy's strong manufacturing heritage in the HVAC&R sector.\n\n---\n[Source: Generali - Teklab's Commitment to Innovation]\nTheir slogan underscores a commitment to \"low cost, high technology\" solutions that undergo rigorous testing.\nTeklab's core philosophy revolves around leveraging over 30 years of expertise in electronics development to create programmable, microcontroller-based devices that eliminate mechanical moving parts, enhancing longevity and performance. The company is located at Via Emilia Ovest, 1179, 41123 Modena, Italy, with contact details including phone (+39 059 375498) and fax (+39 059 376294). As a dynamic entity, Teklab invests heavily in research and development (R&D) to incorporate cutting-edge technologies, such as smart connectivity (e.g., Modbus RTU and wireless near-field communication), making their products adaptable to modern IoT-enabled systems.\nHistory and Milestones\nTeklab S.r.l. was founded in 1990 in Modena, Italy, initially focusing on electronics development for industrial sensors. The company's origins trace back to addressing market gaps in reliable, cost-effective liquid level detection, particularly for refrigeration and air conditioning applications. By the mid-1990s, Teklab had begun exporting its Infra-Red liquid level switches internationally, capitalizing on Italy's strong manufacturing heritage in the HVAC&R sector.\n\n---\n[Source: Generali - Teklab's Commitment to Innovation]\nTheir slogan underscores a commitment to \"low cost, high technology\" solutions that undergo rigorous testing.\nTeklab's core philosophy revolves around leveraging over 30 years of expertise in electronics development to create programmable, microcontroller-based devices that eliminate mechanical moving parts, enhancing longevity and performance. The company is located at Via Emilia Ovest, 1179, 41123 Modena, Italy, with contact details including phone (+39 059 375498) and fax (+39 059 376294). As a dynamic entity, Teklab invests heavily in research and development (R&D) to incorporate cutting-edge technologies, such as smart connectivity (e.g., Modbus RTU and wireless near-field communication), making their products adaptable to modern IoT-enabled systems.\nHistory and Milestones\nTeklab S.r.l. was founded in 1990 in Modena, Italy, initially focusing on electronics development for industrial sensors. The company's origins trace back to addressing market gaps in reliable, cost-effective liquid level detection, particularly for refrigeration and air conditioning applications. By the mid-1990s, Teklab had begun exporting its Infra-Red liquid level switches internationally, capitalizing on Italy's strong manufacturing heritage in the HVAC&R sector.\n",
+      "retrieved_chunks": [
+        {
+          "chunk_id": "marketing_competitor_001_LC-PS",
+          "embedding_id": "marketing_competitor_001_LC-PS|qa_0",
+          "similarity_score": 1.0656,
+          "embedding_score": 0.9156,
+          "keyword_boost": 0.15,
+          "source": "Teklab",
+          "product_category": "Marketing - Level Switch Comparison",
+          "chunk_title": "LC-PS - Competitor Comparison",
+          "type": "qa"
+        },
+        {
+          "chunk_id": "marketing_competitor_001_LC-PS",
+          "embedding_id": "marketing_competitor_001_LC-PS|qa_1",
+          "similarity_score": 1.0002,
+          "embedding_score": 0.8502,
+          "keyword_boost": 0.15,
+          "source": "Teklab",
+          "product_category": "Marketing - Level Switch Comparison",
+          "chunk_title": "LC-PS - Competitor Comparison",
+          "type": "qa"
+        },
+        {
+          "chunk_id": "teklab_chunk_033_003_Teklab's_Commitment_to_Innovation",
+          "embedding_id": "teklab_chunk_033_003_Teklab's_Commitment_to_Innovation|nq_1",
+          "similarity_score": 0.9767,
+          "embedding_score": 0.8267,
+          "keyword_boost": 0.15,
+          "source": "Teklab",
+          "product_category": "Generali",
+          "chunk_title": "Teklab's Commitment to Innovation",
+          "type": "nq"
+        },
+        {
+          "chunk_id": "teklab_chunk_033_003_Teklab's_Commitment_to_Innovation",
+          "embedding_id": "teklab_chunk_033_003_Teklab's_Commitment_to_Innovation|nq_0",
+          "similarity_score": 0.969,
+          "embedding_score": 0.819,
+          "keyword_boost": 0.15,
+          "source": "Teklab",
+          "product_category": "Generali",
+          "chunk_title": "Teklab's Commitment to Innovation",
+          "type": "nq"
+        },
+        {
+          "chunk_id": "teklab_chunk_033_003_Teklab's_Commitment_to_Innovation",
+          "embedding_id": "teklab_chunk_033_003_Teklab's_Commitment_to_Innovation|qa_0",
+          "similarity_score": 0.9429,
+          "embedding_score": 0.7929,
+          "keyword_boost": 0.15,
+          "source": "Teklab",
+          "product_category": "Generali",
+          "chunk_title": "Teklab's Commitment to Innovation",
+          "type": "qa"
+        }
+      ],
+      "timing_metrics": {
+        "retrieval_time": 0.111,
+        "generation_time": 31.986,
+        "total_time": 32.097
+      },
+      "generation_mode": "adaptive_multi_level",
+      "num_predict_levels": [
+        800,
+        800,
+        800,
+        800
+      ],
+      "levels_used": 1,
+      "total_tokens_budget": 800,
+      "done_reason": "stop",
+      "engine": "ollama"
+    }
+  ]
+}

@@ -32,16 +32,39 @@
             "Robustness and versatility for high-pressure circuits"
         ],
         "keywords_primary": [
-            "LC-XT",
-            "Level Switch",
-            "Pressure range (46bar)",
-            "Digital output (DIN connector)",
-            "IP67 rating",
-            "Industrial applications",
-            "High-pressure circuits"
+            "product_model (LC-XT)",
+            "pressure_range (46 bar)",
+            "feature (DIN connector, M12)",
+            "application (level switch, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "digital"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Ideale per ambienti industriali gravosi",
             "Componente essenziale per garantire sicurezza e prestazioni"

@@ -32,14 +32,51 @@
             "Importance of ATEX certification"
         ],
         "keywords_primary": [
-            "TK3+ 130bar CO2 Oil Level Controller",
-            "pressure_range (130bar)",
-            "temperature (-40°C to +125°C)",
-            "feature (MODBUS, ATEX)",
-            "application (compressor lubrication)"
+            "product_model (TK3+)",
+            "product_model (ATEX)",
+            "refrigerant (CO2)",
+            "feature (MODBUS)",
+            "application (oil level, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK3+ is designed to control the oil level in the compressor crankcase",
             "Avoid the compressor to run without oil and improve its performance"

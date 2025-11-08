@@ -201,8 +201,72 @@ class TeklabAIChatbotOllama:
         # Limita a 5 varianti totali per evitare overhead
         return variants[:5]
     
+    def _calculate_keyword_boost(self, query: str, chunk_data: dict) -> float:
+        """
+        Calcola boost score basato su keyword matching
+        Returns: boost score (0.0 to 0.5)
+        
+        Logica:
+        - keywords_primary exact match: +0.3
+        - keywords_synonyms match: +0.2
+        - keywords_relations match: +0.15
+        - Multiple matches: bonus cumulativo
+        """
+        boost = 0.0
+        query_lower = query.lower()
+        metadata = chunk_data.get('metadata', {})
+        
+        # Estrai keywords
+        keywords_primary = metadata.get('keywords_primary', [])
+        keywords_synonyms = metadata.get('keywords_synonyms', {})
+        keywords_relations = metadata.get('keywords_relations', {})
+        
+        # 1️⃣ Check keywords_primary (peso massimo)
+        primary_matches = 0
+        for kw in keywords_primary:
+            # Estrai valore tra parentesi: "product_model (LC-PS)" -> "LC-PS"
+            if '(' in kw and ')' in kw:
+                value = kw.split('(')[1].split(')')[0].strip().lower()
+                if value in query_lower:
+                    primary_matches += 1
+                    boost += 0.15
+        
+        # 2️⃣ Check keywords_synonyms (peso medio)
+        synonym_matches = 0
+        for key, synonyms in keywords_synonyms.items():
+            key_lower = key.lower()
+            if key_lower in query_lower:
+                synonym_matches += 1
+                boost += 0.1
+            else:
+                # Check anche i sinonimi
+                for syn in synonyms:
+                    if syn.lower() in query_lower:
+                        synonym_matches += 1
+                        boost += 0.08
+                        break
+        
+        # 3️⃣ Check keywords_relations (peso basso ma utile)
+        relation_matches = 0
+        for rel_type, values in keywords_relations.items():
+            for val in values:
+                if val.lower() in query_lower:
+                    relation_matches += 1
+                    boost += 0.05
+                    break  # Max 1 match per relation type
+        
+        # 📊 Limita boost massimo a 0.5 (evita dominio su embeddings)
+        boost = min(boost, 0.5)
+        
+        return boost
+    
     def retrieve_context(self, query: str, top_k: int = 5, min_similarity: float = 0.28) -> tuple[str, list[dict]]:
-        """Recupera contesto RAG rilevante usando la nuova struttura embeddings con QUERY EXPANSION."""
+        """
+        Recupera contesto RAG con RICERCA IBRIDA:
+        1. Embeddings semantici (query expansion)
+        2. Keyword matching (primary, synonyms, relations)
+        3. Score combinato con boost intelligente
+        """
         if not self.embedding_model or not self.embeddings:
             return "", []
         
@@ -212,7 +276,7 @@ class TeklabAIChatbotOllama:
             
             # QUERY EXPANSION: Genera varianti della query
             query_variants = self._expand_query(query)
-            print(f"\n🔍 DEBUG retrieve_context (QUERY EXPANSION):")
+            print(f"\n🔍 DEBUG retrieve_context (HYBRID: Embeddings + Keywords):")
             print(f"   Query originale: '{query[:60]}'")
             print(f"   Varianti generate: {len(query_variants)}")
             for i, variant in enumerate(query_variants, 1):
@@ -234,21 +298,39 @@ class TeklabAIChatbotOllama:
             # Aggrega: prendi MAX similarity tra tutte le varianti per ogni embedding
             aggregated_similarities = np.max(all_similarities, axis=0)
             
-            # Crea lista con ID e similarity
-            results = [(embedding_ids[i], aggregated_similarities[i]) for i in range(len(embedding_ids))]
-            results.sort(key=lambda x: x[1], reverse=True)
+            # 🆕 HYBRID BOOST: Aggiungi keyword matching score
+            hybrid_scores = []
+            for i, emb_id in enumerate(embedding_ids):
+                base_score = aggregated_similarities[i]
+                
+                # Recupera chunk per calcolare keyword boost
+                chunk_id = self.embedding_to_chunk_id.get(emb_id)
+                keyword_boost = 0.0
+                
+                if chunk_id:
+                    chunk_data = self.chunks_data.get(chunk_id, {})
+                    if chunk_data:
+                        keyword_boost = self._calculate_keyword_boost(query, chunk_data)
+                
+                # Score finale = embedding similarity + keyword boost
+                final_score = base_score + keyword_boost
+                hybrid_scores.append((emb_id, final_score, base_score, keyword_boost))
             
-            # DEBUG: Stampa top 5 similarities
+            # Ordina per score ibrido
+            hybrid_scores.sort(key=lambda x: x[1], reverse=True)
+            
+            # DEBUG: Stampa top 5 con breakdown
             print(f"   min_similarity: {min_similarity}")
             print(f"   top_k: {top_k}")
-            print(f"   Top 5 similarities AFTER aggregation:")
-            for i, (emb_id, sim) in enumerate(results[:5], 1):
-                ok = "✅" if sim >= min_similarity else "❌"
+            print(f"   Top 5 HYBRID scores (embedding + keywords):")
+            for i, (emb_id, final, base, boost) in enumerate(hybrid_scores[:5], 1):
+                ok = "✅" if final >= min_similarity else "❌"
                 emb_type = "Q&A" if '|qa_' in emb_id else "NQ" if '|nq_' in emb_id else "UNKNOWN"
-                print(f"      {ok} [{i}] sim={sim:.4f} - type={emb_type} - {emb_id[:60]}")
+                boost_icon = "🚀" if boost > 0 else ""
+                print(f"      {ok} [{i}] final={final:.4f} (emb={base:.4f} + kw={boost:.4f}) {boost_icon} - {emb_id[:50]}")
             
             # Filtra per similarity threshold e prendi top_k
-            filtered = [(emb_id, score) for emb_id, score in results if score >= min_similarity]
+            filtered = [(emb_id, final, base, boost) for emb_id, final, base, boost in hybrid_scores if final >= min_similarity]
             top_items = filtered[:top_k]
             
             if not top_items:
@@ -258,7 +340,7 @@ class TeklabAIChatbotOllama:
             context_parts = []
             retrieved_metadata = []
             
-            for emb_id, score in top_items:
+            for emb_id, final_score, base_score, keyword_boost in top_items:
                 # Recupera chunk_id dalla mappa
                 chunk_id = self.embedding_to_chunk_id.get(emb_id)
                 if not chunk_id:
@@ -280,7 +362,9 @@ class TeklabAIChatbotOllama:
                     retrieved_metadata.append({
                         "chunk_id": chunk_id,
                         "embedding_id": emb_id,
-                        "similarity_score": round(float(score), 4),
+                        "similarity_score": round(float(final_score), 4),
+                        "embedding_score": round(float(base_score), 4),
+                        "keyword_boost": round(float(keyword_boost), 4),
                         "source": "Teklab",
                         "product_category": product_category,
                         "chunk_title": chunk_title,

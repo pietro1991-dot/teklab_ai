@@ -32,14 +32,38 @@
             "ATEX certification"
         ],
         "keywords_primary": [
-            "LC-PH 120bar",
-            "CO2",
-            "Transcritical refrigeration",
-            "Pressure range",
-            "Oil level control"
+            "product_model (LC-PS)",
+            "product_model (LC-PH)",
+            "product_model (ATEX)",
+            "pressure_range (46 bar)",
+            "pressure_range (120 bar)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC",
+                "HFO",
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "120 bar"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "È la scelta obbligata per i sistemi a CO2 transcritici",
             "Identico all'LC-PS nel principio di funzionamento, ma costruito per resistere a pressioni molto più elevate"

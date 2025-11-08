@@ -32,7 +32,7 @@
             "Oil Level Control Unit",
             "Solenoid Valve and Relay Output",
             "product_model (TK4-A50AC16-01)",
-            "pressure_range (0-600bar)",
+            "pressure_range (46bar, 80bar, 130bar, 150bar)",
             "temperature (-40°C to +125°C)",
             "feature (ATEX, MODBUS)",
             "application (compressor lubrication)"

@@ -36,7 +36,7 @@
             "Certificazione",
             "Sensore ottico",
             "product_model (e.g., TK3+)",
-            "pressure_range (e.g., 130bar, 0-600bar)",
+            "pressure_range (e.g., 46bar, 80bar, 130bar, 150bar)",
             "temperature (e.g., -40°C, +125°C)",
             "feature (e.g., MODBUS, ATEX)",
             "application (e.g., compressor, refrigeration)"

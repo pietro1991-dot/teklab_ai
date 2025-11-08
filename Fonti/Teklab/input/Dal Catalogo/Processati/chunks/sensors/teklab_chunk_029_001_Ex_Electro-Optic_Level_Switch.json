@@ -32,13 +32,21 @@
             "Power supply and storage temperature"
         ],
         "keywords_primary": [
-            "TK3+",
-            "Ex Electro-Optic Level Switch",
-            "Infrared-ray emitter",
-            "Optical receiver",
-            "Glass dome material"
+            "feature (optical, NPN)",
+            "application (level switch)"
         ],
-        "keywords_synonyms": {},
+        "keywords_synonyms": {
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ]
+        },
         "keywords_relations": {},
         "iconic_quotes": [
             "The sensor contains an infrared-ray emitter and an optical receiver.",

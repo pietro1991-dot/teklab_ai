@@ -15,14 +15,14 @@
     "aggregated_metadata": {
         "all_keywords": [
             "TK4MB",
-            "Grande Distribuzione Organizzata",
-            "Massima affidabilità",
-            "Monitoraggio centralizzato",
-            "Efficienza energetica",
+            "Large Retail Distribution",
+            "Maximum reliability",
+            "Centralized monitoring",
+            "Energy efficiency",
             "Modbus RTU",
-            "Regolatore di Livello Olio",
-            "Connessione Modbus",
-            "Integrazione con BMS",
+            "Oil Level Regulator",
+            "Modbus Connection",
+            "BMS Integration",
             "K11",
             "capacitive level sensor",
             "universal output",
@@ -35,34 +35,34 @@
             "Safety with flammable refrigerants"
         ],
         "all_concepts": [
-            "Massima affidabilità (H24/7)",
-            "Monitoraggio centralizzato",
-            "Efficienza energetica",
-            "Conformità con normative sui refrigeranti",
-            "Sicurezza",
-            "Regolatore di Livello Olio",
-            "Connessione Modbus RTU",
-            "Integrazione con sistemi di supervisione",
-            "Controllo del livello dell'olio",
-            "Manutenzione predittiva",
+            "Maximum reliability (H24/7)",
+            "Centralized monitoring",
+            "Energy efficiency",
+            "Compliance with refrigerant regulations",
+            "Safety",
+            "Oil Level Regulator",
+            "Modbus RTU Connection",
+            "Integration with supervision systems",
+            "Oil level control",
+            "Predictive maintenance",
             "Capacitive sensing technology",
             "Universal output compatibility",
             "Compact design for ease of integration",
             "Global PLC compatibility",
             "Reduced BOM complexity",
-            "Robustezza e affidabilità in ambienti gravosi",
-            "Sicurezza con refrigeranti infiammabili",
-            "Lunghi cicli di vita",
-            "Compatibilità con sistemi industriali",
-            "Importanza della sicurezza per il personale"
+            "Robustness and reliability in harsh environments",
+            "Safety with flammable refrigerants",
+            "Long life cycles",
+            "Compatibility with industrial systems",
+            "Importance of personnel safety"
         ],
         "technical_specs": [
-            "È la scelta d'elezione.",
-            "Fornendo raccomandazioni mirate per ottimizzare l'efficienza, la sicurezza e l'affidabilità degli impianti di refrigerazione.",
-            "'È la scelta d'elezione. La connettività Modbus RTU permette di integrare il controllo del livello dell'olio di tutte le centrali frigorifere in un unico sistema di supervisione (BMS).'",
-            "È il sensore ideale per gli OEM. Le sue dimensioni ridotte lo rendono facile da integrare in macchinari compatti.",
-            "La sua uscita universale (NPN/PNP/AC in un unico modello) riduce la complessità della distinta base (BOM) e semplifica la gestione del magazzino,",
-            "È una scelta obbligatoria e non negoziabile per qualsiasi applicazione che utilizzi refrigeranti infiammabili (es. R290 - propano) o che si trova in un'area classificata a rischio di esplosione."
+            "It is the preferred choice.",
+            "Providing targeted recommendations to optimize the efficiency, safety and reliability of refrigeration systems.",
+            "'It is the preferred choice. Modbus RTU connectivity allows integration of oil level control for all refrigeration units into a single supervision system (BMS).'",
+            "It is the ideal sensor for OEMs. Its compact size makes it easy to integrate into compact machinery.",
+            "Its universal output (NPN/PNP/AC in a single model) reduces BOM complexity and simplifies inventory management,",
+            "It is a mandatory and non-negotiable choice for any application using flammable refrigerants (e.g. R290 - propane) or located in an area classified as explosion risk."
         ],
         "natural_questions": [
             "What is the purpose of TK4MB?",
@@ -85,29 +85,29 @@
         "document_type": "Technical Documentation",
         "product_category": "Comparazione Prodotti",
         "key_concepts": [
-            "Massima affidabilità (H24/7)",
-            "Monitoraggio centralizzato",
-            "Efficienza energetica",
-            "Conformità con normative sui refrigeranti",
-            "Sicurezza"
+            "Maximum reliability (H24/7)",
+            "Centralized monitoring",
+            "Energy efficiency",
+            "Compliance with refrigerant regulations",
+            "Safety"
         ],
         "keywords_primary": [
             "TK4MB",
-            "Grande Distribuzione Organizzata",
-            "Massima affidabilità",
-            "Monitoraggio centralizzato",
-            "Efficienza energetica"
+            "Large Retail Distribution",
+            "Maximum reliability",
+            "Centralized monitoring",
+            "Energy efficiency"
         ],
         "keywords_synonyms": {},
         "keywords_relations": {},
         "iconic_quotes": [
-            "È la scelta d'elezione.",
-            "Fornendo raccomandazioni mirate per ottimizzare l'efficienza, la sicurezza e l'affidabilità degli impianti di refrigerazione."
+            "It is the preferred choice.",
+            "Providing targeted recommendations to optimize the efficiency, safety and reliability of refrigeration systems."
         ],
         "qa_pairs": [
             {
                 "question": "What is the maximum pressure for TK4MB?",
-                "answer": "Il prodotto TK4MB supporta pressioni massime di 130bar, garantendo una massima affidabilità e sicurezza per le applicazioni industriali.",
+                "answer": "The TK4MB product supports maximum pressures of 130bar, ensuring maximum reliability and safety for industrial applications.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -116,7 +116,7 @@
             },
             {
                 "question": "How does TK4MB ensure maximum efficiency?",
-                "answer": "Il prodotto TK4MB è progettato per garantire un monitoraggio centralizzato e una massima efficienza energetica, attraverso la sua capacità di regolare il livello dell'olio con precisione.",
+                "answer": "The TK4MB product is designed to ensure centralized monitoring and maximum energy efficiency, through its ability to regulate oil level with precision.",
                 "difficulty": "advanced",
                 "intent": [
                     "application_design",
@@ -128,7 +128,7 @@
             "What is the purpose of TK4MB?",
             "How does TK4MB ensure maximum safety?"
         ],
-        "summary": "Il prodotto Teklab TK4MB è una scelta d'elezione per le applicazioni industriali di refrigerazione, garantendo massima affidabilità, sicurezza e efficienza energetica.",
+        "summary": "The Teklab TK4MB product is the preferred choice for industrial refrigeration applications, ensuring maximum reliability, safety and energy efficiency.",
         "domain_metadata": {
             "product_family": "Comparazione Prodotti",
             "pressure_class": "130bar",

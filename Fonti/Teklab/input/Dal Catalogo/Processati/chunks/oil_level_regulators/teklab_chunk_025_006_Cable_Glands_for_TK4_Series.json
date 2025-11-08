@@ -32,13 +32,15 @@
             "L1 value"
         ],
         "keywords_primary": [
-            "TK4-C60AA11-02",
-            "TK4-C60AC13-02",
-            "TK4-C60BC16-02",
-            "24 V",
-            "230 V"
+            "product_model (TK4)"
         ],
-        "keywords_synonyms": {},
+        "keywords_synonyms": {
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
         "keywords_relations": {},
         "iconic_quotes": [
             "Quotes in mm - L and L1 can vary depending on the adapter (see Adapters Addendum)"

@@ -30,14 +30,44 @@
             "Integrated LED lights for level verification"
         ],
         "keywords_primary": [
-            "TK1+",
-            "sight-glass controller",
-            "pressure range",
-            "temperature limits",
-            "refrigerant compatibility"
+            "product_model (TK1+)",
+            "product_model (LC-XT)",
+            "product_model (LC-XP)",
+            "product_model (Rotalock)",
+            "pressure_range (46 bar)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK1+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Il TK1+ è un prodotto specializzato, progettato per un'applicazione molto specifica: sostituire gli indicatori di livello a vetro (sight-glass) sui carter dei compressori o sui serbatoi."
         ],

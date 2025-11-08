@@ -32,14 +32,31 @@
             "Critical performance characteristic: Fast response time and low maintenance requirements"
         ],
         "keywords_primary": [
-            "product_model (e.g., TK3+)",
-            "pressure_range (e.g., 130bar, 0-600bar)",
-            "temperature (e.g., -40°C, +125°C)",
-            "feature (e.g., MODBUS, ATEX)",
-            "application (e.g., compressor, refrigeration)"
+            "product_model (TK3+)",
+            "application (oil level, level control, refrigeration)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Il TK3+ è il nostro regolatore di livello olio fondamentale.",
             "È un dispositivo 'installa e dimentica', progettato per svolgere un compito in modo estremamente affidabile: mantenere il corretto livello dell'olio e attivare un allarme in caso di problemi."
@@ -47,7 +64,7 @@
         "qa_pairs": [
             {
                 "question": "What is the maximum pressure range supported by TK3+?",
-                "answer": "The TK3+ supports a pressure range of 0-600bar, making it suitable for use in a variety of industrial refrigeration applications. However, it's essential to consult the product specifications and application guidelines to determine the optimal pressure range for your specific use case.",
+                "answer": "The TK3+ 130bar variant supports a maximum pressure of 130 bar, making it suitable for use in CO2 transcritical refrigeration systems and high-pressure industrial applications. It's essential to consult the product specifications and application guidelines to determine the optimal pressure rating for your specific use case.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -71,7 +88,7 @@
         "summary": "The TK3+ is a high-accuracy oil level controller designed for compressor lubrication in industrial refrigeration systems. It features automatic oil level control, alarm functionality, and ATEX certification for safe operation in hazardous environments.",
         "domain_metadata": {
             "product_family": "Comparazione Prodotti",
-            "pressure_class": "0-600bar",
+            "pressure_class": "130bar",
             "refrigerants": [
                 "R134a",
                 "R404A",

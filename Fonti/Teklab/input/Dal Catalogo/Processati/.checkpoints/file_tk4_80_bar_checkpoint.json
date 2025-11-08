@@ -156,7 +156,7 @@
         ],
         "keywords_primary": [
           "product_model (e.g., TK4)",
-          "pressure_range (e.g., 130bar, 0-600bar)",
+          "pressure_range (e.g., 46bar, 80bar, 130bar, 150bar)",
           "temperature (e.g., -40°C, +125°C)",
           "feature (e.g., MODBUS, ATEX)",
           "application (e.g., compressor)"
@@ -170,7 +170,7 @@
         "qa_pairs": [
           {
             "question": "What pressure range does TK4 support?",
-            "answer": "The TK4 supports a pressure range of 0-600bar, making it suitable for various industrial applications.",
+            "answer": "The TK4 supports a pressure range of 46bar, 80bar, 130bar, or 150bar, making it suitable for various industrial applications.",
             "difficulty": "intermediate",
             "intent": [
               "product_selection",
@@ -535,7 +535,7 @@
         ],
         "keywords_primary": [
           "product_model (e.g., TK3+)",
-          "pressure_range (e.g., 130bar, 0-600bar)",
+          "pressure_range (e.g., 46bar, 80bar, 130bar, 150bar)",
           "temperature (e.g., -40°C, +125°C)",
           "feature (e.g., MODBUS)",
           "application (e.g., compressor)"
@@ -549,7 +549,7 @@
         "qa_pairs": [
           {
             "question": "What pressure range does TK3+ 130bar support?",
-            "answer": "The TK3+ 130bar CO2 oil level controller supports a pressure range of 0-600bar. This makes it suitable for applications where high-pressure environments are present. The device is designed to provide accurate and reliable oil level measurement, even in challenging conditions. Additionally, the TK3+ features a MODBUS interface for easy integration with existing control systems.",
+            "answer": "The TK3+ 130bar CO2 oil level controller supports a pressure range of 46bar, 80bar, 130bar, or 150bar. This makes it suitable for applications where high-pressure environments are present. The device is designed to provide accurate and reliable oil level measurement, even in challenging conditions. Additionally, the TK3+ features a MODBUS interface for easy integration with existing control systems.",
             "difficulty": "intermediate",
             "intent": [
               "product_selection",

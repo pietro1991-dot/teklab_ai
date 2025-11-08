@@ -34,16 +34,59 @@
             "Unit conforms to directives 2014/30/UE and 2014/35/UE"
         ],
         "keywords_primary": [
-            "LC-PS",
-            "optical level control unit",
-            "pressure range up to 46bar",
-            "temperature limits",
-            "refrigerant compatibility",
-            "MODBUS protocol",
-            "ATEX certification"
+            "product_model (LC-PS)",
+            "pressure_range (46 bar)",
+            "refrigerant (CO2)",
+            "feature (MODBUS, optical)",
+            "application (level switch, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The absence of mechanical moving parts ensures High reliability",
             "Well consolidated steel with fused glass technology ensures no leakage and good chemical compatibility"

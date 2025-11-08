@@ -32,14 +32,47 @@
             "Critical performance characteristic: Fast response time and high accuracy"
         ],
         "keywords_primary": [
-            "TK4MB",
-            "oil level control",
-            "MODBUS",
-            "ATEX",
-            "high-pressure"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "pressure_range (46 bar)",
+            "pressure_range (80 bar)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC",
+                "HFO",
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "80 bar",
+                "130 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "Specifically designed for systems with CO2 transcritics where pressures are very high",
             "Always choose a version with a pressure maximum of exercise superiour to the pressure maximum of your system"

@@ -32,14 +32,43 @@
             "Italian-made products with ISO 9001:2008 certification"
         ],
         "keywords_primary": [
-            "product_model (TK Series)",
-            "pressure_range (up to 150bar)",
-            "temperature (-40°C, +125°C)",
-            "feature (MODBUS, ATEX)",
-            "application (compressor lubrication)"
+            "product_model (ATEX)",
+            "pressure_range (150 bar)",
+            "refrigerant (HFC)",
+            "feature (MODBUS)",
+            "application (refrigeration, compressor, ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC"
+            ],
+            "pressure_ratings": [
+                "150 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Our products are engineered for reliability in harsh environments.",
             "We leverage over 30 years of expertise in electronics development to create programmable, microcontroller-based devices."

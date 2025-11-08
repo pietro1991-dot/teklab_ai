@@ -30,12 +30,38 @@
             "Standard applications"
         ],
         "keywords_primary": [
-            "K11",
-            "digital level sensor",
-            "standard application"
+            "product_model (K11)",
+            "product_model (K25)",
+            "product_model (ATEX)",
+            "feature (optical, PNP, NPN)",
+            "application (refrigeration, ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "digital"
+            ]
+        },
         "iconic_quotes": [
             "Sensore di livello compatto e versatile per applicazioni standard"
         ],

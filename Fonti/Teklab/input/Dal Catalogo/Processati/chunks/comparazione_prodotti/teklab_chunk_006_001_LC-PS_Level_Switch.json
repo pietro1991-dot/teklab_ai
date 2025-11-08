@@ -32,17 +32,47 @@
             "Funzionamento in condizioni di pressione elevate"
         ],
         "keywords_primary": [
-            "LC-PS",
-            "Livello",
-            "Pressione",
-            "Refrigeranti",
-            "MODBUS",
-            "ATEX",
-            "Sicurezza",
-            "Affidabilità"
+            "product_model (LC-PS)",
+            "product_model (ATEX)",
+            "pressure_range (46 bar)",
+            "refrigerant (HFC, HFO, CO2)",
+            "feature (MODBUS)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC",
+                "HFO",
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "digital"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "La soluzione standard, affidabile ed economica per il controllo di livello.",
             "Il suo design è il risultato di un'ingegnerizzazione mirata alla sostanza e alla durabilità;",
@@ -60,7 +90,7 @@
             },
             {
                 "question": "How does LC-PS ensure accurate level detection?",
-                "answer": "Il principio di funzionamento si basa su una tecnologia collaudata che assicura una risposta precisa al variare del livello del fluido.",
+                "answer": "The operating principle is based on proven technology that ensures a precise response to fluid level variations.",
                 "difficulty": "advanced",
                 "intent": [
                     "technical_specification",
@@ -69,7 +99,7 @@
             },
             {
                 "question": "Is LC-PS compatible with ATEX certification?",
-                "answer": "Sì, LC-PS è certificato ATEX, garantendo una sicurezza e un'affidabilità elevate.",
+                "answer": "Yes, LC-PS is ATEX certified, guaranteeing high safety and reliability.",
                 "difficulty": "beginner",
                 "intent": [
                     "certifications",
@@ -78,7 +108,7 @@
             },
             {
                 "question": "Can I use MODBUS protocol with LC-PS?",
-                "answer": "Sì, LC-PS è compatibile con il protocollo MODBUS RTU, consentendo una comunicazione efficiente.",
+                "answer": "Yes, LC-PS is compatible with the MODBUS RTU protocol, enabling efficient communication.",
                 "difficulty": "intermediate",
                 "intent": [
                     "communication",
@@ -105,7 +135,7 @@
             },
             {
                 "question": "Can I use LC-PS in applications with high temperatures?",
-                "answer": "Sì, LC-PS può essere utilizzato in applicazioni con temperature elevate, ma è importante verificare le specifiche richieste di applicazione per garantire una sicurezza e un'efficienza ottimali.",
+                "answer": "Yes, LC-PS can be used in high-temperature applications, but it is important to check the application specifications to ensure optimal safety and efficiency.",
                 "difficulty": "advanced",
                 "intent": [
                     "temperature",

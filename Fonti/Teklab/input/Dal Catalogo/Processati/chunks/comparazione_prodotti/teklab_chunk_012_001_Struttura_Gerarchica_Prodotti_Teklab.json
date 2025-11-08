@@ -34,25 +34,91 @@
             "Certificazioni e comunicazione"
         ],
         "keywords_primary": [
-            "TK3+",
-            "TK4",
-            "LC-PS",
-            "MODBUS",
-            "ATEX",
-            "46bar",
-            "80bar",
-            "130bar"
+            "product_model (TK1+)",
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "product_model (LC-PS)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK1+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC",
+                "HFO",
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "80 bar",
+                "120 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "NFC"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Soluzione 'installa e dimentica', robusta e affidabile, per un controllo autonomo senza necessità di configurazione o monitoraggio remoto.",
             "Regolatori avanzati con connettività per configurazione e diagnostica, disponibili in due versioni principali: TK4 con NFC per gestione locale e TK4MB con NFC e Modbus per integrazione remota."
         ],
         "qa_pairs": [
             {
-                "question": "Quanti modelli di LC esistono nella serie standard?",
-                "answer": "La Serie LC (Piattaforma Standard) include 4 modelli principali: LC-PS (46 bar con cavo), LC-PH (120 bar con cavo/M12 per CO2), LC-XT (46 bar con connettore DIN), e LC-XP (120 bar con connettore DIN per CO2). La scelta dipende da due fattori: pressione di esercizio (46 vs 120 bar) e tipo di connessione elettrica preferito (cavo vs connettore DIN).",
+                "question": "How many LC models exist in the standard series?",
+                "answer": "The LC Series (Standard Platform) includes 4 main models: LC-PS (46 bar with cable), LC-PH (120 bar with cable/M12 for CO2), LC-XT (46 bar with DIN connector), and LC-XP (120 bar with DIN connector for CO2). The choice depends on two factors: operating pressure (46 vs 120 bar) and preferred electrical connection type (cable vs DIN connector).",
                 "difficulty": "beginner",
                 "intent": [
                     "product_selection",
@@ -69,8 +135,8 @@
                 ]
             },
             {
-                "question": "Quali sono i modelli LC per alta pressione?",
-                "answer": "Per applicazioni ad alta pressione (fino a 120 bar) Teklab offre due modelli LC: LC-PH (con connessione a cavo o M12) e LC-XP (con connettore DIN 43650). Entrambi sono progettati specificamente per sistemi a CO2 transcritici e applicazioni che superano i 46 bar. La scelta tra i due dipende dal tipo di connessione elettrica preferito.",
+                "question": "Which LC models are for high pressure?",
+                "answer": "For high-pressure applications (up to 120 bar) Teklab offers two LC models: LC-PH (with cable or M12 connection) and LC-XP (with DIN 43650 connector). Both are specifically designed for transcritical CO2 systems and applications exceeding 46 bar. The choice between them depends on the preferred electrical connection type.",
                 "difficulty": "beginner",
                 "intent": [
                     "product_selection"

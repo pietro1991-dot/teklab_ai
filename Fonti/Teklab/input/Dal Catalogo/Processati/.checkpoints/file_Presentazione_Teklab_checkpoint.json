@@ -301,7 +301,7 @@
         ],
         "keywords_primary": [
           "product_model (Teklab)",
-          "pressure_range (130bar, 0-600bar)",
+          "pressure_range (130bar, 46bar, 80bar, 130bar, or 150bar)",
           "temperature (-40°C, +125°C)",
           "feature (MODBUS, ATEX)",
           "application (compressor, refrigeration)"
@@ -403,7 +403,7 @@
         ],
         "keywords_primary": [
           "product_model (TK Series)",
-          "pressure_range (130bar, 0-600bar)",
+          "pressure_range (130bar, 46bar, 80bar, 130bar, or 150bar)",
           "temperature (-40°C, +125°C)",
           "feature (MODBUS, ATEX)",
           "application (compressor, refrigeration)"

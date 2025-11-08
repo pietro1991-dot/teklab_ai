@@ -32,14 +32,16 @@
             "Critical performance characteristic: Fast response time and reliability"
         ],
         "keywords_primary": [
-            "ATEX certified",
-            "oil level sensor",
-            "pressure range (0-600bar)",
-            "temperature (-40°C to +125°C)",
-            "IP68 protection",
-            "explosion-proof application"
+            "product_model (ATEX)",
+            "application (oil level, ATEX)"
         ],
-        "keywords_synonyms": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ]
+        },
         "keywords_relations": {},
         "iconic_quotes": [
             "La scelta è dettata dall'ambiente di installazione. Se il sensore deve essere installato in un'area classificata come potenzialmente esplosiva, l'uso di un sensore certificato ATEX non è un'opzione, ma un obbligo di legge e di sicurezza."
@@ -47,7 +49,7 @@
         "qa_pairs": [
             {
                 "question": "What is the maximum pressure range supported by this oil level sensor?",
-                "answer": "This oil level sensor supports a maximum pressure range of 0-600bar, making it suitable for high-pressure applications. The sensor's ATEX certification ensures its reliability and accuracy in explosion-proof environments.",
+                "answer": "This ATEX certified oil level sensor supports a maximum pressure of 20 bar, making it suitable for explosion-proof applications in hazardous environments. The sensor's ATEX certification ensures its reliability and accuracy in compliance with strict safety standards.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -68,10 +70,10 @@
             "What is the maximum pressure range for this oil level sensor?",
             "How does ATEX certification ensure safety in explosive environments?"
         ],
-        "summary": "This ATEX certified oil level sensor provides high accuracy and reliability in explosion-proof applications, making it suitable for industrial processes with flammable gases or vapors.",
+        "summary": "This ATEX certified oil level sensor provides high accuracy and reliability in explosion-proof applications, with a maximum pressure of 20 bar, making it suitable for industrial processes with flammable gases or vapors.",
         "domain_metadata": {
             "product_family": "Comparazione Prodotti",
-            "pressure_class": "0-600bar",
+            "pressure_class": "20bar",
             "refrigerants": [
                 "R134a",
                 "R404A"

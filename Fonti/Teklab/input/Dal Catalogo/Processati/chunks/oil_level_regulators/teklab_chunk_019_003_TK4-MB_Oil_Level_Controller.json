@@ -32,14 +32,41 @@
             "Compressor pack optimization"
         ],
         "keywords_primary": [
-            "TK4-MB",
-            "Modbus RTU",
-            "Wireless NFC",
-            "ATEX",
-            "Compressor pack"
+            "product_model (TK4)",
+            "product_model (ATEX)",
+            "feature (MODBUS)",
+            "application (oil level, compressor, ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK4-MB is designed to be connected to widely diffused Modbus RTU networks as a slave node.",
             "Consequently it is possible to have remote monitoring of the compressor pack even further reliable and effective",

@@ -32,14 +32,58 @@
             "Manutenzione predittiva"
         ],
         "keywords_primary": [
-            "TK4MB",
-            "Modbus RTU",
-            "Regolatore di Livello Olio",
-            "Connessione Modbus",
-            "Integrazione con BMS"
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "product_model (LC-PH)",
+            "product_model (LC-XP)",
+            "product_model (K11)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "120 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "'È la scelta d'elezione. La connettività Modbus RTU permette di integrare il controllo del livello dell'olio di tutte le centrali frigorifere in un unico sistema di supervisione (BMS).'"
         ],

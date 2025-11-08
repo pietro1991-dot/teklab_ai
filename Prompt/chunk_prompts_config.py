@@ -66,11 +66,11 @@ Extract the following information and respond ONLY with a valid JSON object (no 
     "Critical performance characteristic"
   ],
   "keywords_primary": [
-    "product_model (e.g., TK3+, LC-PS)",
-    "pressure_range (e.g., 130bar, 0-600bar)",
-    "temperature (e.g., -40°C, +125°C)",
-    "feature (e.g., MODBUS, ATEX)",
-    "application (e.g., compressor, refrigeration)"
+    "product_model (e.g., TK3+, LC-PS, K25)",
+    "pressure_range (e.g., 46bar, 80bar, 130bar, 150bar)",
+    "temperature (e.g., -40°C to +125°C)",
+    "feature (e.g., MODBUS, ATEX, NFC)",
+    "application (e.g., compressor, refrigeration, CO2 transcritical)"
   ],
   "keywords_synonyms": {{
     "TK3+": ["TK3 plus", "TK3-plus", "TK 3+"],

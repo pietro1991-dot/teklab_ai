@@ -32,14 +32,43 @@
             "Critical performance characteristic"
         ],
         "keywords_primary": [
-            "TK3+",
-            "130bar",
-            "CO2",
-            "oil level",
-            "temperature"
+            "product_model (TK3+)",
+            "product_model (K25)",
+            "pressure_range (150 bar)",
+            "refrigerant (CO2)",
+            "feature (4-20mA)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "150 bar"
+            ],
+            "communication": [
+                "4-20mA"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "È costruito per resistere fino a **150 bar**, rendendolo la scelta perfetta per i circuiti ad alta pressione dei sistemi a CO2.",
             "È la scelta obbligata per i sistemi di refrigerazione a **CO2 transcritici o subcritici**."

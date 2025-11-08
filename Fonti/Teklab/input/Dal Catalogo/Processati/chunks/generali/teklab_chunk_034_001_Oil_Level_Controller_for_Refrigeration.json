@@ -32,14 +32,47 @@
             "Compatibility with various refrigerants"
         ],
         "keywords_primary": [
-            "TK3+ 130bar",
-            "MODBUS RTU",
-            "pressure range",
-            "temperature limits",
-            "refrigerant compatibility"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "product_model (ATEX)",
+            "product_model (Rotalock)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "80 bar",
+                "130 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "NH3 industrial refrigeration",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Il catalogo descrive questi dispositivi come regolatori di livello olio basati su tecnologia elettro-ottica infrarossa.",
             "Per i modelli TK3+ e TK4 (inclusa la variante Modbus TK4MB), esistono 3 versioni principali in base alla pressione massima di lavoro:"

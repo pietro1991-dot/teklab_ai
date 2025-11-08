@@ -32,14 +32,21 @@
             "Critical performance characteristic"
         ],
         "keywords_primary": [
-            "TK3+",
-            "130bar CO2",
-            "oil level controller",
-            "pressure range",
-            "temperature limits"
+            "product_model (Rotalock)",
+            "application (compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ]
+        },
+        "keywords_relations": {
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [],
         "qa_pairs": [],
         "natural_questions": [

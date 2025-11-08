@@ -32,14 +32,39 @@
             "Electrical Connection and Housing Material"
         ],
         "keywords_primary": [
-            "TK4",
-            "High Pressure Oil Return Line System",
-            "Oil Level Control Unit",
-            "Compressor Crankcase Monitoring",
-            "Solenoid Valve and Relay Output"
+            "product_model (TK4)",
+            "pressure_range (46 bar)",
+            "feature (relay)",
+            "application (oil level, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK4 is designed to control the oil level in the compressor crankcase in order to avoid the compressor to run without oil and so improve its lifetime.",
             "Each TK4 requires 20VA (depending on the solenoid valve)"

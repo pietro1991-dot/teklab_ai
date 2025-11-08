@@ -34,16 +34,37 @@
             "Nickel plated steel housing"
         ],
         "keywords_primary": [
-            "TK4",
-            "High pressure oil return line system",
-            "Electro-optic sensor",
-            "Solenoid valve",
-            "Relay output",
-            "Modbus RTU",
-            "ATEX certification"
+            "product_model (TK4)",
+            "product_model (ATEX)",
+            "pressure_range (100 bar)",
+            "pressure_range (130 bar)",
+            "feature (MODBUS, relay)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "100 bar",
+                "130 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK4 is designed to control the oil level in the compressor crankcase in order to avoid the compressor to run without oil and so improve its lifetime.",
             "Each TK4 requires 30VA (depending on the solenoid valve)"

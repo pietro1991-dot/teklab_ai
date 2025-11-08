@@ -32,22 +32,38 @@
             "Misura temperatura del fluido"
         ],
         "keywords_primary": [
-            "ATEX",
-            "Infrarossi",
-            "Sicurezza intrinseca",
-            "Certificazione",
-            "Sensore ottico"
+            "product_model (ATEX)",
+            "refrigerant (CO2)",
+            "feature (NPN, 4-20mA)",
+            "application (ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "communication": [
+                "4-20mA",
+                "digital"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
-            "Il sensore ATEX è un dispositivo di sicurezza specializzato, la cui progettazione è interamente focalizzata sulla prevenzione delle esplosioni.",
-            "È certificato secondo la direttiva ATEX con il livello di protezione 'Ex ia IIC', che è il più alto per la sicurezza intrinseca."
+            "The ATEX sensor is a specialized safety device, whose design is entirely focused on explosion prevention.",
+            "It is certified according to the ATEX directive with the protection level 'Ex ia IIC', which is the highest for intrinsic safety."
         ],
         "qa_pairs": [
             {
                 "question": "What is the maximum pressure for ATEX Infrarossi Sensore?",
-                "answer": "Il sensore ATEX supporta pressioni massime di 20 bar, garantendo una sicurezza intrinseca in aree a rischio di esplosione. La sua progettazione è focalizzata sulla prevenzione delle esplosioni, garantendo un livello di protezione 'Ex ia IIC'.",
+                "answer": "The ATEX sensor supports maximum pressures of 20 bar, ensuring intrinsic safety in explosion-risk areas. Its design is focused on explosion prevention, guaranteeing a protection level of 'Ex ia IIC'.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -56,7 +72,7 @@
             },
             {
                 "question": "How does ATEX Infrarossi Sensore ensure safety?",
-                "answer": "Il sensore ATEX è progettato per garantire una sicurezza intrinseca in aree a rischio di esplosione. La sua certificazione secondo la direttiva ATEX con il livello di protezione 'Ex ia IIC' garantisce che i suoi circuiti interni operino con livelli di energia e temperatura così bassi da non poter innescare un'esplosione.",
+                "answer": "The ATEX sensor is designed to ensure intrinsic safety in explosion-risk areas. Its certification according to the ATEX directive with protection level 'Ex ia IIC' guarantees that its internal circuits operate with energy and temperature levels so low that they cannot trigger an explosion.",
                 "difficulty": "advanced",
                 "intent": [
                     "product_selection",
@@ -68,7 +84,7 @@
             "What is ATEX Infrarossi Sensore used for?",
             "How does ATEX Infrarossi Sensore work?"
         ],
-        "summary": "Il sensore ATEX è un dispositivo di sicurezza specializzato progettato per garantire una sicurezza intrinseca in aree a rischio di esplosione.",
+        "summary": "The ATEX sensor is a specialized safety device designed to ensure intrinsic safety in explosion-risk areas.",
         "domain_metadata": {
             "product_family": "Comparazione Prodotti",
             "pressure_class": "20 bar",

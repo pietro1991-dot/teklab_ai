@@ -30,12 +30,35 @@
             "Main application or use case"
         ],
         "keywords_primary": [
-            "product_model (e.g., TK3+)",
-            "pressure_range (e.g., 130bar)",
-            "temperature (e.g., -40°C, +125°C)"
+            "product_model (TK3+)",
+            "refrigerant (CO2)",
+            "application (oil level, level control)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "L = 134.5 mm - Quotes in mm - L and L1 can vary depending on the adapter (see Adapters Addendum)"
         ],

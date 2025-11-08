@@ -32,22 +32,60 @@
             "Sicurezza"
         ],
         "keywords_primary": [
-            "TK4MB",
-            "Grande Distribuzione Organizzata",
-            "Massima affidabilità",
-            "Monitoraggio centralizzato",
-            "Efficienza energetica"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "refrigerant (CO2)",
+            "feature (MODBUS)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication",
+                "rack systems"
+            ]
+        },
         "iconic_quotes": [
             "È la scelta d'elezione.",
             "Fornendo raccomandazioni mirate per ottimizzare l'efficienza, la sicurezza e l'affidabilità degli impianti di refrigerazione."
         ],
         "qa_pairs": [
             {
-                "question": "Quale prodotto Teklab è consigliato per supermercati?",
-                "answer": "Per supermercati e GDO si raccomanda il TK4MB (Regolatore di Livello Olio) perché garantisce massima affidabilità H24/7, monitoraggio centralizzato tramite Modbus RTU, efficienza energetica e conformità con normative F-Gas. È perfetto per sistemi CO2 transcritici con rack di compressori che richiedono supervisione remota.",
+                "question": "Which Teklab product is recommended for supermarkets?",
+                "answer": "For supermarkets and large retail we recommend the TK4MB (Oil Level Regulator) because it ensures maximum 24/7 reliability, centralized monitoring via Modbus RTU, energy efficiency and compliance with F-Gas regulations. It's perfect for transcritical CO2 systems with compressor racks requiring remote supervision.",
                 "difficulty": "beginner",
                 "intent": [
                     "product_selection",
@@ -74,7 +112,7 @@
             },
             {
                 "question": "What is the maximum pressure for TK4MB?",
-                "answer": "Il prodotto TK4MB supporta pressioni massime di 130bar, garantendo una massima affidabilità e sicurezza per le applicazioni industriali.",
+                "answer": "The TK4MB product supports maximum pressures of 130bar, ensuring maximum reliability and safety for industrial applications.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -83,7 +121,7 @@
             },
             {
                 "question": "How does TK4MB ensure maximum efficiency?",
-                "answer": "Il prodotto TK4MB è progettato per garantire un monitoraggio centralizzato e una massima efficienza energetica, attraverso la sua capacità di regolare il livello dell'olio con precisione.",
+                "answer": "The TK4MB product is designed to ensure centralized monitoring and maximum energy efficiency through its ability to regulate oil levels with precision.",
                 "difficulty": "advanced",
                 "intent": [
                     "application_design",
@@ -95,7 +133,7 @@
             "What is the purpose of TK4MB?",
             "How does TK4MB ensure maximum safety?"
         ],
-        "summary": "Il prodotto Teklab TK4MB è una scelta d'elezione per le applicazioni industriali di refrigerazione, garantendo massima affidabilità, sicurezza e efficienza energetica.",
+        "summary": "The Teklab TK4MB product is the ideal choice for industrial refrigeration applications, ensuring maximum reliability, safety, and energy efficiency.",
         "domain_metadata": {
             "product_family": "Comparazione Prodotti",
             "pressure_class": "130bar",

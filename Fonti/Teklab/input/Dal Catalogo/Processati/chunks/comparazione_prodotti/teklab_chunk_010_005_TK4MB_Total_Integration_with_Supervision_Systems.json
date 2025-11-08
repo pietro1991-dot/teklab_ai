@@ -34,15 +34,43 @@
             "Industrial 4.0 applications"
         ],
         "keywords_primary": [
-            "TK4MB",
-            "MODBUS RTU",
-            "Wireless NFC",
-            "Pressure ranges",
-            "Temperature limits",
-            "Refrigerant compatibility"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "pressure_range (46 bar)",
+            "pressure_range (130 bar)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar",
+                "130 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "NFC"
+            ],
+            "typical_applications": [
+                "compressor lubrication",
+                "rack systems"
+            ]
+        },
         "iconic_quotes": [
             "Monitoraggio Remoto: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.",
             "Controllo Centralizzato: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota."

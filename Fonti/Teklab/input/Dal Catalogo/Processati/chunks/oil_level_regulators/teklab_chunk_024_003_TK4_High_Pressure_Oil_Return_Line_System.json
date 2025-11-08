@@ -32,14 +32,35 @@
             "Relay Output Contact"
         ],
         "keywords_primary": [
-            "TK4",
-            "High Pressure Oil Return Line System",
-            "Oil Level Control",
-            "Compressor Crankcase Monitoring",
-            "Solenoid Valve"
+            "product_model (TK4)",
+            "feature (relay)",
+            "application (oil level, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK4 is designed to control the oil level in the compressor crankcase in order to avoid the compressor to run without oil and so improve its lifetime.",
             "TK4 monitors the oil level with the embedded electro-optic sensor and comprises a solenoid valve for oil filling"

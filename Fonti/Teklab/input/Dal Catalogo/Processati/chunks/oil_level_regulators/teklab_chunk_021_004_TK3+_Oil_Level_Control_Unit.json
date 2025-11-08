@@ -30,14 +30,39 @@
             "Relay output contact for alarm"
         ],
         "keywords_primary": [
-            "TK3+",
-            "oil level control",
-            "solenoid valve",
-            "relay output",
-            "pressure range (46bar)"
+            "product_model (TK3+)",
+            "pressure_range (46 bar)",
+            "feature (relay)",
+            "application (oil level, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK3+ monitors the oil level with the embedded electro-optic sensor and comprises a solenoid valve for oil filling and a relay output contact to give an alarm.",
             "Each TK3+ requires 20VA (depending on the solenoid valve)"

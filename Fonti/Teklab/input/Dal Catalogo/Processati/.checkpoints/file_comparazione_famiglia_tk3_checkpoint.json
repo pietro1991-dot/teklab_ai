@@ -40,7 +40,7 @@
         ],
         "keywords_primary": [
           "TK3+ 130bar CO2 Oil Level Controller",
-          "pressure range (0-600bar)",
+          "pressure ranges: 46 bar (LC-PS, TK4), 80 bar (TK4MB), 130 bar (TK3+, TK4), 150 bar (K25 CO2)",
           "temperature (-40°C to +125°C)",
           "MODBUS protocol",
           "ATEX certification"
@@ -54,7 +54,7 @@
         "qa_pairs": [
           {
             "question": "What is the maximum pressure range supported by TK3+ 130bar?",
-            "answer": "The TK3+ 130bar CO2 Oil Level Controller supports a pressure range of 0-600bar, with an accuracy of ±1% of full scale. This ensures reliable control of oil levels in compressors operating within this pressure range.",
+            "answer": "The TK3+ 130bar CO2 Oil Level Controller supports a pressure range of 46bar, 80bar, 130bar, or 150bar, with an accuracy of ±1% of full scale. This ensures reliable control of oil levels in compressors operating within this pressure range.",
             "difficulty": "intermediate",
             "intent": [
               "product_selection",

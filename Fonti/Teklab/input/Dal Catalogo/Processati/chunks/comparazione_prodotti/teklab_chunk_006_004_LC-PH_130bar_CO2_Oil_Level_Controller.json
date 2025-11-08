@@ -32,14 +32,43 @@
             "Modbus protocol for easy integration"
         ],
         "keywords_primary": [
-            "LC-PH",
-            "130bar",
-            "CO2",
-            "MODBUS",
-            "ATEX"
+            "product_model (LC-PS)",
+            "product_model (LC-PH)",
+            "product_model (ATEX)",
+            "pressure_range (120 bar)",
+            "refrigerant (CO2)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "120 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "Our LC-PH model boasts a robust design that can withstand pressures up to 120 bar.",
             "The LC-PH offers multiple connectivity options, including a standard cable and M12 connector for secure and rapid connections."

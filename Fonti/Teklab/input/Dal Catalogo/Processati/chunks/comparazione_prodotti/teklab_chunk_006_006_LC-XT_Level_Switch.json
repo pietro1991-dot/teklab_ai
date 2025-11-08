@@ -32,17 +32,39 @@
             "Funzionalità del LC-PS con la Comodità di un Connettore Industriale"
         ],
         "keywords_primary": [
-            "LC-XT Level Switch",
-            "46bar Pressure Range",
-            "Digital Output/Connettività",
-            "Sistemi di Refrigerazione Standard",
-            "Funzionalità del LC-PS con Connettore Industriale"
+            "product_model (LC-PS)",
+            "product_model (LC-XT)",
+            "pressure_range (46 bar)",
+            "application (level switch)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "communication": [
+                "digital"
+            ]
+        },
         "iconic_quotes": [
-            "Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione",
-            "Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard"
+            "This combination of robustness and versatility makes it an essential component to ensure safety and performance in high-pressure circuits",
+            "The LC-XT model is the pragmatic answer to the needs of installers and maintainers working on standard refrigeration systems"
         ],
         "qa_pairs": [
             {

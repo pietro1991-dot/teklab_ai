@@ -32,14 +32,49 @@
             "Simplified installation and cost savings"
         ],
         "keywords_primary": [
-            "TK3+ 130bar",
-            "CO2 oil level controller",
-            "Compact dimensions",
-            "MODBUS RTU protocol",
-            "ATEX certification"
+            "product_model (TK3+)",
+            "pressure_range (80 bar)",
+            "refrigerant (CO2)",
+            "feature (relay)",
+            "application (oil level, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "80 bar"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Extremely compact dimensions",
             "Left/Right mounting possibility with the same TK3+ reduces junctions and simplifies installation"

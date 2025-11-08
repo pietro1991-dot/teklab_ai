@@ -30,14 +30,35 @@
             "Main application or use case"
         ],
         "keywords_primary": [
-            "product_model (e.g., K25)",
-            "pressure_range (e.g., 150bar, 0-600bar)",
-            "temperature (e.g., -40°C, +125°C)",
-            "feature (e.g., ATEX certification)",
-            "application (e.g., compressor, refrigeration)"
+            "product_model (K25)",
+            "product_model (ATEX)",
+            "pressure_range (150 bar)",
+            "refrigerant (CO2)",
+            "application (ATEX)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "150 bar"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "È la scelta obbligata per i sistemi di refrigerazione a CO2 transcritici o subcritici.",
             "Il nostro sensore ATEX è un dispositivo specializzato, progettato con un unico obiettivo: operare in sicurezza in ambienti con atmosfera potenzialmente esplosiva (Zone 0, 1, 2)."
@@ -54,7 +75,7 @@
             },
             {
                 "question": "How does the K25 ATEX sensor operate?",
-                "answer": "Il nostro sensore ATEX è un dispositivo specializzato, progettato con un unico obiettivo: operare in sicurezza in ambienti con atmosfera potenzialmente esplosiva (Zone 0, 1, 2). La sua caratteristica fondamentale è la certificazione ATEX (Ex ia IIC), che garantisce una sicurezza intrinseca.",
+                "answer": "Our ATEX sensor is a specialized device, designed with a single objective: to operate safely in environments with potentially explosive atmospheres (Zones 0, 1, 2). Its fundamental characteristic is ATEX certification (Ex ia IIC), which guarantees intrinsic safety.",
                 "difficulty": "advanced",
                 "intent": [
                     "technical_specification",

@@ -66,7 +66,7 @@
           },
           {
             "question": "How do Teklab's electronic oil level regulators handle pressure ranges?",
-            "answer": "Teklab's electronic oil level regulators are designed to handle a wide range of pressure ranges, including 0-600bar for the TK3+ model. They also offer custom pressure ranges for specific applications.",
+            "answer": "Teklab's electronic oil level regulators are designed to handle a wide range of pressure ranges, including 46bar, 80bar, 130bar, or 150bar for the TK3+ model. They also offer custom pressure ranges for specific applications.",
             "difficulty": "advanced",
             "intent": [
               "technical_specification",
@@ -81,7 +81,7 @@
         "summary": "Teklab's electronic oil level regulators offer advanced features and higher accuracy compared to traditional mechanical regulators, but require more complex installation setup.",
         "domain_metadata": {
           "product_family": "Comparazione Prodotti",
-          "pressure_class": "0-600bar",
+          "pressure_class": "46bar, 80bar, 130bar, or 150bar",
           "refrigerants": [
             "R134a",
             "R404A",

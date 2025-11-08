@@ -42,9 +42,9 @@
             "application (e.g., compressor)",
             "TCO",
             "guasto",
-            "manutenzione",
-            "affidabilità",
-            "sicurezza"
+            "maintenance",
+            "reliability",
+            "safety"
         ],
         "all_concepts": [
             "Tecnologia elettronica avanzata",
@@ -52,42 +52,42 @@
             "Compressore",
             "Refrigerazione",
             "Sistemi HVAC",
-            "Precisione e Affidabilità del Rilevamento",
-            "Diagnostica, Sicurezza e Intelligenza",
-            "Sistema a Galleggiante",
-            "Controllo a Microprocessore",
-            "Vantaggi della Tecnologia Elettronica Teklab",
-            "Sicurezza attiva",
-            "Diagnostica avanzata",
-            "Flessibilità",
+            "Precision and Detection Reliability",
+            "Diagnostics, Safety and Intelligence",
+            "Float System",
+            "Microprocessor Control",
+            "Advantages of Teklab Electronic Technology",
+            "Active safety",
+            "Advanced diagnostics",
+            "Flexibility",
             "Diagnostics",
             "Security",
             "Passive Operation",
-            "Adattabilit e Compatibilit ",
-            "Investimento sulla Longevit ",
-            "Costo Totale di Gestione (TCO)",
-            "Limiti Fisici",
-            "Basso Costo Iniziale",
-            "Efficienza energetica",
-            "Prevenzione di guasti costosi",
-            "Manutenzione ottimizzata",
-            "Investimento nell'affidabilità",
-            "Sicurezza dell'intero impianto"
+            "Adaptability and Compatibility",
+            "Investment in Longevity",
+            "Total Cost of Ownership (TCO)",
+            "Physical Limitations",
+            "Low Initial Cost",
+            "Energy efficiency",
+            "Prevention of costly failures",
+            "Optimized maintenance",
+            "Investment in reliability",
+            "Safety of the entire plant"
         ],
         "technical_specs": [
-            "La scelta di un regolatore di livello olio impatta direttamente sull'affidabilità e sui costi di gestione di un compressore.",
-            "Questo documento confronta la tecnologia elettronica avanzata della serie Teklab (TK3+, TK4, TK4MB) con i tradizionali regolatori meccanici a galleggiante.",
-            "I regolatori Teklab utilizzano un sensore ottico a infrarossi (un prisma che rileva la presenza o l'assenza di liquido).",
-            "Il galleggiante può bloccarsi a causa di morchia, sporcizia o particelle metalliche presenti nell'olio.",
-            "Tutti i modelli Teklab sono dotati di un microprocessore che gestisce logiche intelligenti.",
-            "Il relè di allarme integrato fornisce una sicurezza attiva, segnalando un problema prima che causi un danno.",
-            "I modelli avanzati (TK4, TK4MB) offrono una diagnostica storica completa.",
-            "Un regolatore meccanico è un dispositivo puramente passivo.",
-            "Se il galleggiante si blocca in posizione 'alta', il compressore si svuoterà d'olio senza che venga generato alcun allarme, portando a un guasto catastrofico.",
-            "La gamma Teklab è progettata per il futuro. Con varianti che supportano pressioni differenziali fino a 130 bar, sono pienamente compatibili con tutti i refrigeranti moderni, inclusi HFC, HFO e, soprattutto, CO2 (R744) in cicli subcritici e transcritici.",
-            "I regolatori meccanici sono generalmente progettati per basse pressioni differenziali e non sono adatti per i sistemi a CO2.",
-            "Il principale vantaggio di un regolatore meccanico è il suo basso costo di acquisto.",
-            "Tuttavia, questo risparmio iniziale è spesso annullato al primo grave problema non diagnosticato,"
+            "The choice of an oil level regulator directly impacts the reliability and operating costs of a compressor.",
+            "This document compares the advanced electronic technology of the Teklab series (TK3+, TK4, TK4MB) with traditional mechanical float regulators.",
+            "Teklab regulators use an infrared optical sensor (a prism that detects the presence or absence of liquid).",
+            "The float can get stuck due to sludge, dirt or metal particles present in the oil.",
+            "All Teklab models are equipped with a microprocessor that manages intelligent logic.",
+            "The integrated alarm relay provides active safety, signaling a problem before it causes damage.",
+            "Advanced models (TK4, TK4MB) offer complete historical diagnostics.",
+            "A mechanical regulator is a purely passive device.",
+            "If the float gets stuck in the 'high' position, the compressor will drain oil without any alarm being generated, leading to catastrophic failure.",
+            "The Teklab range is designed for the future. With variants that support differential pressures up to 130 bar, they are fully compatible with all modern refrigerants, including HFC, HFO and, most importantly, CO2 (R744) in subcritical and transcritical cycles.",
+            "Mechanical regulators are generally designed for low differential pressures and are not suitable for CO2 systems.",
+            "The main advantage of a mechanical regulator is its low purchase cost.",
+            "However, this initial savings is often canceled out by the first serious undiagnosed problem,"
         ],
         "natural_questions": [
             "What is the maximum pressure range supported by Teklab's TK3+ oil level regulator?",
@@ -133,8 +133,8 @@
         "keywords_synonyms": {},
         "keywords_relations": {},
         "iconic_quotes": [
-            "La scelta di un regolatore di livello olio impatta direttamente sull'affidabilità e sui costi di gestione di un compressore.",
-            "Questo documento confronta la tecnologia elettronica avanzata della serie Teklab (TK3+, TK4, TK4MB) con i tradizionali regolatori meccanici a galleggiante."
+            "The choice of an oil level regulator directly impacts the reliability and operating costs of a compressor.",
+            "This document compares the advanced electronic technology of the Teklab series (TK3+, TK4, TK4MB) with traditional mechanical float regulators."
         ],
         "qa_pairs": [
             {
@@ -148,7 +148,7 @@
             },
             {
                 "question": "How do Teklab's electronic oil level regulators handle pressure ranges?",
-                "answer": "Teklab's electronic oil level regulators are designed to handle a wide range of pressure ranges, including 0-600bar for the TK3+ model. They also offer custom pressure ranges for specific applications.",
+                "answer": "Teklab's electronic oil level regulators are designed to handle a wide range of pressure ranges, including 46bar, 80bar, 130bar, or 150bar for the TK3+ model. They also offer custom pressure ranges for specific applications.",
                 "difficulty": "advanced",
                 "intent": [
                     "technical_specification",
@@ -163,7 +163,7 @@
         "summary": "Teklab's electronic oil level regulators offer advanced features and higher accuracy compared to traditional mechanical regulators, but require more complex installation setup.",
         "domain_metadata": {
             "product_family": "Comparazione Prodotti",
-            "pressure_class": "0-600bar",
+            "pressure_class": "46bar, 80bar, 130bar, or 150bar",
             "refrigerants": [
                 "R134a",
                 "R404A",

@@ -32,14 +32,52 @@
             "230 VAC /2A alarm relay output suitable for direct connection in the security chain of the system"
         ],
         "keywords_primary": [
-            "TK3+ 130bar CO2 Oil Level Controller",
-            "pressure range (130bar)",
-            "temperature (-40°C to +125°C)",
-            "feature (MODBUS, ATEX)",
-            "application (compressor lubrication)"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "refrigerant (CO2)",
+            "feature (relay)",
+            "application (oil level, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "communication": [
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "NH3 industrial refrigeration",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility.",
             "Direct sight glass replacement (3/4/6 holes flange connection).",

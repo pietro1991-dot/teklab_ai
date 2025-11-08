@@ -34,14 +34,59 @@
             "Optical level switch design for low viscosity liquids"
         ],
         "keywords_primary": [
-            "LC-PH",
-            "up to 120 bar",
-            "CO2 oil level controller",
-            "mechanical moving parts",
-            "fused glass technology"
+            "product_model (LC-PH)",
+            "pressure_range (120 bar)",
+            "refrigerant (CO2)",
+            "feature (MODBUS, optical, M12)",
+            "application (level switch, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "120 bar"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The optical level switch LC-PH has been designed for use in level monitoring applications for the control of low viscosity liquids.",
             "The sensor is suitable as minimum or maximum alarm."

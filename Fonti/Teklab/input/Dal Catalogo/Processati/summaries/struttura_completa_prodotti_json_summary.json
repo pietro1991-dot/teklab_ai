@@ -23,15 +23,15 @@
         "all_concepts": [
             "Oil Level Regulators",
             "Level Switches",
-            "Serie TK3+ e TK4",
-            "MODBUS e ATEX",
-            "Pressione e temperatura",
-            "Compatibilità con refrigeranti",
-            "Certificazioni e comunicazione"
+            "TK3+ and TK4 Series",
+            "MODBUS and ATEX",
+            "Pressure and temperature",
+            "Refrigerant compatibility",
+            "Certifications and communication"
         ],
         "technical_specs": [
-            "Soluzione 'installa e dimentica', robusta e affidabile, per un controllo autonomo senza necessità di configurazione o monitoraggio remoto.",
-            "Regolatori avanzati con connettività per configurazione e diagnostica, disponibili in due versioni principali: TK4 con NFC per gestione locale e TK4MB con NFC e Modbus per integrazione remota."
+            "'Install and forget' solution, robust and reliable, for autonomous control without the need for configuration or remote monitoring.",
+            "Advanced regulators with connectivity for configuration and diagnostics, available in two main versions: TK4 with NFC for local management and TK4MB with NFC and Modbus for remote integration."
         ],
         "natural_questions": [
             "What is the maximum pressure range supported by TK3+?",
@@ -51,11 +51,11 @@
         "key_concepts": [
             "Oil Level Regulators",
             "Level Switches",
-            "Serie TK3+ e TK4",
-            "MODBUS e ATEX",
-            "Pressione e temperatura",
-            "Compatibilità con refrigeranti",
-            "Certificazioni e comunicazione"
+            "TK3+ and TK4 Series",
+            "MODBUS and ATEX",
+            "Pressure and temperature",
+            "Refrigerant compatibility",
+            "Certifications and communication"
         ],
         "keywords_primary": [
             "TK3+",
@@ -70,8 +70,8 @@
         "keywords_synonyms": {},
         "keywords_relations": {},
         "iconic_quotes": [
-            "Soluzione 'installa e dimentica', robusta e affidabile, per un controllo autonomo senza necessità di configurazione o monitoraggio remoto.",
-            "Regolatori avanzati con connettività per configurazione e diagnostica, disponibili in due versioni principali: TK4 con NFC per gestione locale e TK4MB con NFC e Modbus per integrazione remota."
+            "'Install and forget' solution, robust and reliable, for autonomous control without the need for configuration or remote monitoring.",
+            "Advanced regulators with connectivity for configuration and diagnostics, available in two main versions: TK4 with NFC for local management and TK4MB with NFC and Modbus for remote integration."
         ],
         "qa_pairs": [
             {

@@ -1,48 +1,75 @@
 {
     "id": "marketing_innovation_005_LC-XP",
-    "original_text": "INNOVAZIONE TEKLAB: LC-XP - Unico Level Switch DIN a 120 bar\n\nLC-XP è l'UNICO level switch sul mercato con connettore DIN 43650-A a 120 bar per CO2 transcritico. NICCHIA SCOPERTA - tutti competitor alta pressione CO2 (Danfoss AKS 4100, HBControls, Emerson PSL) usano esclusivamente M12. Teklab ha identificato opportunità: DIN più diffuso in aftermarket EU, cavi più economici, stock maggiore.\n\nPERCHÉ È UNICO:\nM12 è standard USA/OEM, DIN 43650-A è standard EU industriale. Mercato CO2 transcritico in rapida crescita EU (supermercati, legislazione F-gas), ma nessun produttore offriva DIN ad alta pressione. Teklab ha colmato gap: frigoristi EU hanno maggiore familiarità con DIN, cavi DIN costano 50% meno di M12, disponibilità locale superiore.\n\nVANTAGGI CONCRETI:\n• Connettore DIN standard EU industriale (familiarità tecnici maggiore vs M12)\n• Cavi DIN 50% più economici vs M12 (15€ vs 30€ tipici)\n• Stock cavi DIN ricambi più diffuso in distributori EU locali\n• Tenuta IP67 equivalente a M12 (ambienti industriali gravosi)\n• Materiali 316L certificati CO2 (EN 12263 compliant)\n• Pressione 120 bar adeguata per 95% applicazioni transcritiche\n\nCOMPATIBILITÀ:\nSistemi CO2 transcritico R744 fino a 120 bar. Filettatura 7/16\" UNF-20 o M14x1.5 (standard CO2). Connettore DIN 43650-A industrial-grade. Output digitale PNP/NPN.\n\nAPPLICAZIONI TIPICHE:\nImpianti CO2 EU market dove DIN è standard aziendale esistente, retrofit con cavi DIN già disponibili, standardizzazione magazzino ricambi su DIN.\n\nDOMANDE FREQUENTI:\n\nQ: LC-XP DIN vs competitor M12: qualità equivalente?\nA: Sì, livello tecnologico sensore EQUIVALENTE (entrambi capacitivi digitali). DIN e M12 sono entrambi standard industriali con tenuta IP67. Differenza è solo connettore, non prestazioni sensore. Scelta basata su: preferenza tecnici, cavi disponibili, standard impianto esistente.\n\nQ: Posso sostituire sensore M12 con LC-XP DIN?\nA: Sì, retrofit meccanico facile (stessa filettatura CO2 standard). Retrofit elettrico: serve nuovo cavo DIN (~15€, 20 min installazione). Valuta trade-off: investimento iniziale cavo vs vantaggi futuri DIN (economia, disponibilità). Consigliato se: standardizzi su DIN, hai già stock cavi DIN, tecnici preferiscono DIN.\n\n\nTESTIMONIANZA CLIENTE:\n\"Nostri tecnici conoscono DIN da 20 anni, M12 meno. Cavi DIN li abbiamo sempre in furgone. LC-XP perfetto: alta pressione CO2 + connettore familiare. Zero training necessario.\"\n",
+    "original_text": "INNOVATION TEKLAB: LC-XP - Unique Level Switch DIN at 120 bar LC-XP is the UNICO level switch on the market with DIN 43650-A connector at 120 bar for transcritical CO2. DISCOVERED NICH - all CO2 high pressure competitors (Danfoss AKS 4100, HBControls, Emerson PSL) use only M12. Teklab has identified opportunities: more widespread DIN in aftermarket EU, cheaper cables, larger stock. WHY IT IS SINGLE: M12 is US/OEM standard, DIN 43650-A is industrial EU standard. Transcritical fast-growing EU CO2 market (supermarkets, F-gas legislation), but no manufacturer offered high-pressure DIN. Teklab has filled gap: EU coolers are more familiar with DIN, DIN cables cost 50% less than M12, superior local availability. CONCRETE ADVANTAGES: • EU standard industrial DIN connector (major technical familiarity vs M12) • DIN cables 50% cheaper vs M12 (15€ vs 30€ typical) • DIN cable stock most popular spare parts in local EU distributors • IP67 holding equivalent to M12 (critical industrial environments) • 316L materials certified CO2 (EN 12263 compliant) • 120 bar pressure suitable for 95% transcritical applications: R744 transcritical CO2 systems up to 120 bar. Thread 7/16\" UNF-20 or M14x1.5 (standard CO2). DIN 43650-A industrial-grade connector. Digital output PNP/NPN. TYPE APPLICATIONS: CO2 plants EU market where DIN is an existing company standard, retrofit with DIN cables already available, stock standardization spare parts on DIN. FREQUENT QUESTIONS: Q: LC-XP DIN vs M12 competitor: equivalent quality? A: Yes, technological level sensor EQUIVALENT (both digital capacitives). DIN and M12 are both industrial standards with IP67 seal. Difference is only connector, not sensor performance. Choice based on: technical preference, available cables, existing standard plant. Q: Can I replace M12 sensor with LC-XP DIN? A: Yes, easy mechanical retrofit (same standard CO2 thread). Electric Retrofit: Needs new DIN cable (~15€, 20 min installation). Trade-off currency: Cable initial investment vs future benefits DIN (economy, availability). Recommended if: standards on DIN, you already have stock DIN cables, technicians prefer DIN. TESTIMONIANCE CUSTOMER: \"Our technicians have known DIN for 20 years, M12 less. DIN cables are always in the van. Perfect LC-XP: high pressure CO2 + familiar connector. Zero training required.\" .",
     "messages": [
         {
             "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differentiators. Help customers understand Teklab's exclusive features and the value they bring to their applications."
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in showcasing unique product innovations and competitive differences. Help customers understand Teklab's exclusive features and the value they bring to their applications."
         },
         {
             "role": "user",
-            "content": "Technical documentation context (Teklab unique innovations):\n\n[Innovazioni Uniche Teklab] - LC-XP - Unico Level Switch DIN a 120 bar\n\nINNOVAZIONE TEKLAB: LC-XP - Unico Level Switch DIN a 120 bar\n\nLC-XP è l'UNICO level switch sul mercato con connettore DIN 43650-A a 120 bar per CO2 transcritico. NICCHIA SCOPERTA - tutti competitor alta pressione CO2 (Danfoss AKS 4100, HBControls, Emerson PSL) usano esclusivamente M12. Teklab ha identificato opportunità: DIN più diffuso in aftermarket EU, cavi più economici, stock maggiore.\n\nPERCHÉ È UNICO:\nM12 è standard USA/OEM, DIN 43650-A è standard EU industriale. Mercato CO2 transcritico in rapida crescita EU (supermercati, legislazione F-gas), ma nessun produttore offriva DIN ad alta pressione. Teklab ha colmato gap: frigoristi EU hanno maggiore familiarità con DIN, cavi DIN costano 50% meno di M12, disponibilità locale superiore.\n\nVANTAGGI CONCRETI:\n• Connettore DIN standard EU industriale (familiarità tecnici maggiore vs M12)\n• Cavi DIN 50% più economici vs M12 (15€ vs 30€ tipici)\n• Stock cavi DIN ricambi più diffuso in distributori EU locali\n• Tenuta IP67 equivalente a M12 (ambienti industriali gravosi)\n• Materiali 316L certificati CO2 (EN 12263 compliant)\n• Pressione 120 bar adeguata per 95% applicazioni transcritiche\n\nCOMPATIBILITÀ:\nSistemi CO2 transcritico R744 fino a 120 bar. Filettatura 7/16\" UNF-20 o M14x1.5 (standard CO2). Connettore DIN 43650-A industrial-grade. Output digitale PNP/NPN.\n\nAPPLICAZIONI TIPICHE:\nImpianti CO2 EU market dove DIN è standard aziendale esistente, retrofit con cavi DIN già disponibili, standardizzazione magazzino ricambi su DIN.\n\nDOMANDE FREQUENTI:\n\nQ: LC-XP DIN vs competitor M12: qualità equivalente?\nA: Sì, livello tecnologico sensore EQUIVALENTE (entrambi capacitivi digitali). DIN e M12 sono entrambi standard industriali con tenuta IP67. Differenza è solo connettore, non prestazioni sensore. Scelta basata su: preferenza tecnici, cavi disponibili, standard impianto esistente.\n\nQ: Posso sostituire sensore M12 con LC-XP DIN?\nA: Sì, retrofit meccanico facile (stessa filettatura CO2 standard). Retrofit elettrico: serve nuovo cavo DIN (~15€, 20 min installazione). Valuta trade-off: investimento iniziale cavo vs vantaggi futuri DIN (economia, disponibilità). Consigliato se: standardizzi su DIN, hai già stock cavi DIN, tecnici preferiscono DIN.\n\n\nTESTIMONIANZA CLIENTE:\n\"Nostri tecnici conoscono DIN da 20 anni, M12 meno. Cavi DIN li abbiamo sempre in furgone. LC-XP perfetto: alta pressione CO2 + connettore familiare. Zero training necessario.\"\n\n\n---\n\nExplain this unique Teklab innovation and its benefits."
+            "content": "Technical documentation context (Teklab unique innovations): [Unique Innovations Teklab] - LC-XP - Unico Level Switch DIN a 120 bar INNOVATION TEKLAB: LC-XP - Unico Level Switch DIN a 120 bar LC-XP is the UNICO level switch on the market with DIN 43650-A connector at 120 bar for transcritical CO2. DISCOVERED NICH - all CO2 high pressure competitors (Danfoss AKS 4100, HBControls, Emerson PSL) use only M12. Teklab has identified opportunities: more widespread DIN in aftermarket EU, cheaper cables, larger stock. WHY IT IS SINGLE: M12 is US/OEM standard, DIN 43650-A is industrial EU standard. Transcritical fast-growing EU CO2 market (supermarkets, F-gas legislation), but no manufacturer offered high-pressure DIN. Teklab has filled gap: EU coolers are more familiar with DIN, DIN cables cost 50% less than M12, superior local availability. CONCRETE ADVANTAGES: • EU standard industrial DIN connector (major technical familiarity vs M12) • DIN cables 50% cheaper vs M12 (15€ vs 30€ typical) • DIN cable stock most popular spare parts in local EU distributors • IP67 holding equivalent to M12 (critical industrial environments) • 316L materials certified CO2 (EN 12263 compliant) • 120 bar pressure suitable for 95% transcritical applications: R744 transcritical CO2 systems up to 120 bar. Thread 7/16\" UNF-20 or M14x1.5 (standard CO2). DIN 43650-A industrial-grade connector. Digital output PNP/NPN. TYPE APPLICATIONS: CO2 plants EU market where DIN is an existing company standard, retrofit with DIN cables already available, stock standardization spare parts on DIN. FREQUENT QUESTIONS: Q: LC-XP DIN vs M12 competitor: equivalent quality? A: Yes, technological level sensor EQUIVALENT (both digital capacitives). DIN and M12 are both industrial standards with IP67 seal. Difference is only connector, not sensor performance. Choice based on: technical preference, available cables, existing standard plant. Q: Can I replace M12 sensor with LC-XP DIN? A: Yes, easy mechanical retrofit (same standard CO2 thread). Electric Retrofit: Needs new DIN cable (~15€, 20 min installation). Trade-off currency: Cable initial investment vs future benefits DIN (economy, availability). Recommended if: standards on DIN, you already have stock DIN cables, technicians prefer DIN. TESTIMONIANCE CUSTOMER: \"Our technicians have known DIN for 20 years, M12 less. DIN cables are always in the van. Perfect LC-XP: high pressure CO2 + familiar connector. Zero training required.\" --- Explain this unique Teklab innovation and its benefits.."
         },
         {
             "role": "assistant",
-            "content": "LC-XP - Unico Level Switch DIN a 120 bar: LC-XP è l'UNICO level switch sul mercato con connettore DIN 43650-A a 120 bar per CO2 transcritico. NICCHIA SCOPERTA - tutti competitor alta pressione CO2 (Danfoss AKS 4100, HBControls, Emerson PSL) u..."
+            "content": "LC-XP - Unico Level Switch DIN a 120 bar: LC-XP is the UNICO level switch on the market with DIN 43650-A 120 bar connector for transcritical CO2. Discovered NICCHIA - all CO2 high pressure competitors (Danfoss AKS 4100, HBControls, Emerson PSL) u..."
         }
     ],
     "metadata": {
-        "chunk_id": "marketing_innovation_005_LC-XP",
-        "file_source": "Marketing_Value_Proposition",
-        "chunk_number": 1,
         "chunk_title": "LC-XP - Unico Level Switch DIN a 120 bar",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Marketing - Unique Innovation",
         "product_category": "Value Proposition",
-        "innovation_name": "LC-XP - Unico Level Switch DIN a 120 bar",
         "qa_pairs": [
             {
-                "question": "LC-XP DIN vs competitor M12: qualità equivalente?",
-                "answer": "Sì, livello tecnologico sensore EQUIVALENTE (entrambi capacitivi digitali). DIN e M12 sono entrambi standard industriali con tenuta IP67. Differenza è solo connettore, non prestazioni sensore. Scelta basata su: preferenza tecnici, cavi disponibili, standard impianto esistente."
+                "question": "LC-XP DIN vs M12 competitor: equivalent quality?",
+                "answer": "Yes, technology level sensor EQUIVALENT (both digital capacitives). DIN and M12 are both industrial standards with IP67 seal. Difference is only connector, not sensor performance. Choice based on: technical preference, available cables, existing standard plant."
             },
             {
-                "question": "Posso sostituire sensore M12 con LC-XP DIN?",
-                "answer": "Sì, retrofit meccanico facile (stessa filettatura CO2 standard). Retrofit elettrico: serve nuovo cavo DIN (~15€, 20 min installazione). Valuta trade-off: investimento iniziale cavo vs vantaggi futuri DIN (economia, disponibilità). Consigliato se: standardizzi su DIN, hai già stock cavi DIN, tecnici preferiscono DIN."
+                "question": "Can I replace M12 sensor with LC-XP DIN?",
+                "answer": "Yes, easy mechanical retrofit (same standard CO2 thread). Electric retrofit: need new DIN cable (~15€, 20 min installation). Trade-off currency: initial cable investment vs future DIN benefits (economy, availability). Recommended if: standardize on DIN, you already have stock DIN cables, technicians prefer DIN."
             }
         ],
-        "advantages": [
-            "Connettore DIN standard EU industriale (familiarità tecnici maggiore vs M12)",
-            "Cavi DIN 50% più economici vs M12 (15€ vs 30€ tipici)",
-            "Stock cavi DIN ricambi più diffuso in distributori EU locali",
-            "Tenuta IP67 equivalente a M12 (ambienti industriali gravosi)",
-            "Materiali 316L certificati CO2 (EN 12263 compliant)",
-            "Pressione 120 bar adeguata per 95% applicazioni transcritiche"
+        "keywords_primary": [
+            "product_model (LC-XP)",
+            "pressure_range (120 bar)",
+            "refrigerant (CO2, R744)",
+            "feature (capacitive, DIN connector, M12)",
+            "application (level switch, transcritical)"
         ],
-        "applications": "Impianti CO2 EU market dove DIN è standard aziendale esistente, retrofit con cavi DIN già disponibili, standardizzazione magazzino ricambi su DIN.",
-        "compatibility": "Sistemi CO2 transcritico R744 fino a 120 bar. Filettatura 7/16\" UNF-20 o M14x1.5 (standard CO2). Connettore DIN 43650-A industrial-grade. Output digitale PNP/NPN."
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "capacitive": [
+                "electronic sensor",
+                "non-mechanical"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2",
+                "R744"
+            ],
+            "pressure_ratings": [
+                "120 bar"
+            ],
+            "communication": [
+                "digital"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        }
     }
 }

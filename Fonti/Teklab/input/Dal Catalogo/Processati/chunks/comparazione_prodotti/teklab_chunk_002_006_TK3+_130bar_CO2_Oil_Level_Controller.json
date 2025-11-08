@@ -1,98 +1,130 @@
 {
-    "id": "teklab_chunk_002_006_TK3+_130bar_CO2_Oil_Level_Controller",
-    "original_text": "azioni industriali pesanti e impianti con condizioni di pressione estreme.', 'descrizione_dettagliata': \"Il TK3+ da 130 bar è la versione più robusta della gamma, progettata per resistere alle condizioni più estreme che si trovano nei sistemi di refrigerazione a CO2 transcritico. In questi impianti, soprattutto durante le fasi di fermo o in determinate condizioni operative, la pressione nel lato di alta può raggiungere valori molto elevati. Questo regolatore è costruito con una valvola solenoide e un corpo rinforzati per gestire in sicurezza queste pressioni eccezionali, garantendo che il rabbocco dell'olio sia sempre possibile. È la soluzione definitiva per la protezione dei compressori negli impianti a CO2 più moderni e complessi, dove l'affidabilità in condizioni estreme è un requisito non negoziabile.",
-    "messages": [
-        {
-            "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
-        },
-        {
-            "role": "user",
-            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK3+ 130bar CO2 Oil Level Controller\nKey Specifications: High-pressure robustness, Transcritical CO2 applications, Oil level management for compressor protection\n📌 Important Details: Il TK3+ da 130 bar è la versione più robusta della gamma, progettata per resistere alle condizioni più estreme che si trovano nei sistemi di refrigerazione a CO2 transcritico. | Questo regolatore è costruito con una valvola solenoide e un corpo rinforzati per gestire in sicurezza queste pressioni eccezionali, garantendo che il rabbocco dell'olio sia sempre possibile.\n\nComplete technical text:\nazioni industriali pesanti e impianti con condizioni di pressione estreme.', 'descrizione_dettagliata': \"Il TK3+ da 130 bar è la versione più robusta della gamma, progettata per resistere alle condizioni più estreme che si trovano nei sistemi di refrigerazione a CO2 transcritico. In questi impianti, soprattutto durante le fasi di fermo o in determinate condizioni operative, la pressione nel lato di alta può raggiungere valori molto elevati. Questo regolatore è costruito con una valvola solenoide e un corpo rinforzati per gestire in sicurezza queste pressioni eccezionali, garantendo che il rabbocco dell'olio sia sempre possibile. È la soluzione definitiva per la protezione dei compressori negli impianti a CO2 più moderni e complessi, dove l'affidabilità in condizioni estreme è un requisito non negoziabile.\n\n---\n\nQuestion: What is the maximum pressure range supported by the TK3+ 130bar?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
-        },
-        {
-            "role": "assistant",
-            "content": "The TK3+ 130bar CO2 oil level controller is a high-pressure, robust solution designed for transcritical CO2 applications. It features a solenoid valve and reinforced body, ensuring safe management of oil levels in compressors."
-        }
-    ],
-    "metadata": {
-        "chunk_id": "teklab_chunk_002_006_TK3+_130bar_CO2_Oil_Level_Controller",
-        "file_index": 2,
-        "file_source": "All_Categories",
-        "chunk_number": 6,
-        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Technical Documentation",
-        "product_category": "Comparazione Prodotti",
-        "key_concepts": [
-            "High-pressure robustness",
-            "Transcritical CO2 applications",
-            "Oil level management for compressor protection"
-        ],
-        "keywords_primary": [
-            "TK3+ 130bar",
-            "CO2 oil level controller",
-            "transcritical refrigeration",
-            "high-pressure applications"
-        ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
-        "iconic_quotes": [
-            "Il TK3+ da 130 bar è la versione più robusta della gamma, progettata per resistere alle condizioni più estreme che si trovano nei sistemi di refrigerazione a CO2 transcritico.",
-            "Questo regolatore è costruito con una valvola solenoide e un corpo rinforzati per gestire in sicurezza queste pressioni eccezionali, garantendo che il rabbocco dell'olio sia sempre possibile."
-        ],
-        "qa_pairs": [
-            {
-                "question": "What makes the TK3+ 130bar CO2 oil level controller suitable for transcritical CO2 applications?",
-                "answer": "The TK3+ 130bar is designed to withstand extreme conditions found in transcritical CO2 systems, ensuring reliable operation and protection of compressors. Its robust construction features a solenoid valve and reinforced body, allowing safe management of high pressures. This makes it an ideal solution for modern, complex CO2-based refrigeration systems where high reliability is crucial.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            },
-            {
-                "question": "How does the TK3+ 130bar oil level controller handle oil level management in compressor applications?",
-                "answer": "The TK3+ 130bar features a solenoid valve and reinforced body, enabling safe and reliable management of oil levels in compressors. This ensures that the oil level is always manageable, preventing damage to the compressor and ensuring optimal performance. The controller's design also allows for easy installation and wiring, making it a convenient solution for compressor lubrication applications.",
-                "difficulty": "beginner",
-                "intent": [
-                    "product_selection",
-                    "installation"
-                ]
-            }
-        ],
-        "natural_questions": [
-            "What is the maximum pressure range supported by the TK3+ 130bar?",
-            "Which refrigerants are compatible with the TK3+ 130bar?"
-        ],
-        "summary": "The TK3+ 130bar CO2 oil level controller is a high-pressure, robust solution designed for transcritical CO2 applications. It features a solenoid valve and reinforced body, ensuring safe management of oil levels in compressors.",
-        "domain_metadata": {
-            "product_family": "Comparazione Prodotti",
-            "pressure_class": "130bar",
-            "refrigerants": [
-                "CO2"
-            ],
-            "certifications": [
-                "ATEX"
-            ],
-            "communication": [
-                "MODBUS RTU"
-            ]
-        },
-        "applications": [],
-        "compatibility": [],
-        "certifications": [
-            "ATEX"
-        ],
-        "difficulty_level": "technical",
-        "content_type": "product_specification",
-        "target_audience": [
-            "HVAC engineers",
-            "refrigeration technicians",
-            "system integrators"
-        ],
-        "importance": 0.85,
-        "relevance": 8,
-        "language": "en"
+  "id": "teklab_chunk_002_006_TK3+_130bar_CO2_Oil_Level_Controller",
+  "original_text": "heavy industrial actions and systems with extreme pressure conditions.', 'description_detail': \"The __TECH13_ from 130 bar is the most robust version of the range, designed to withstand the most extreme conditions found in the transcritical CO2 refrigeration systems. In these plants, especially during the shut-off phase or under certain operating conditions, the pressure on the high side can reach very high values. This controller is built with a solenoid valve and a reinforced body to safely manage these exceptional pressures, ensuring that oil filling is always possible. It is the ultimate solution for the protection of compressors in the most modern and complex systems, where reliability in extreme conditions is a non-negotiable requirement.",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an expert in technologyAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications. LANGUAGE ADAPTATION - _TECH37__BSOLUTE PRIORITY: **CRITICAL**: ALW_AYS respond in the EXACT SAME LANGUAGE as the user's question. L_TECH37__NGU__TECH37_GE RULES (M_TECH37_ND__TECH37_vari_TORY: __User writes in Italian → You respond 100% in English → You respond 100% in German VER mix languages in a single response STYLE (all languages): - Technical but accessible (avoid excessive jargon) - Consultative and solution-oriented - Precise and data-driven (cite specifications) - Professional yet friendly - Focus on PRACTIC_AL APPLICATION and PROBLEM SOLVING HOW TO RESPOND: 1. Answer DIRECTLY with product recommendation or solution 2. Explain WHY this is the right choice (technical justification) 3. Provide KEY SPECIFICATIONS relevant to the application 4. Give INSTALLATION/CONFIGURATION guidance when relevant 5. Suggest alternatives or additional considerations 6. Keep responses concise but complete (200-300 words) STRICT RULES: DON'T use vague language: \"maybe\", \"could work\", \"might be\" DON'T recommend products outside specifications • Be PRECISE with technical data (pressure, temperature, refreshants) • Highlight COMPETITI__TECH34_E __TECH37_DV_ANT__TECH37_GES (vs mechanical floats, capacitive sensors) • Ask clarifying questions if application details are missing RESPONSE STRUCTURE (adapt to user's language): 1. Direct recommendation (product model + key reason) 2. Technical justification (why this model fits the specs) 3. Key features/advantages for this application 4. Installation/configuration notes (if relevant) 5. Follow-up considerations or alternatives PRODUCT CATEGORIES YOU SUPPORT: - Oil Level Controllers (TK1+, __TECH13_, __TECH16_ series - standard and MODBUS) - Liquid Level Sensors (_TECH20_, __TECH25_, __TECH9_, __TECH2_ series) - ATEX-certified sensors (explosive environments) - Infrared electro-optic sensors (plastic and metallic) - A_dapters and accessories (Rotalock, various flanges types) CORE TECHNOLOGY: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21___, various flanges types -Techology: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21_oCurationalCuration CRITICAL REMINDER: Response ONLY in the user's question language. Provides accurate technical specifications. No exceptions."
+    },
+    {
+      "role": "user",
+      "content": "Technical documentation context (Teklab industrial products): [Product Comparison] - TK3+ 130bar CO2 Oil Level Controller Key Specifications: High-pressure Robustness, Transcritical CO2 applications, Oil level management for compressor protection › Important Details: The __TECH13_ from 130 __TECH39_ is the most robust version of the range, designed to withstand the most extreme conditions found in __TECH41_ transcritical refrigeration systems. This regulator is built with a solenoid valve and a reinforced body to safely manage these exceptional pressures, ensuring that oil filling is always possible. Complete technical text: heavy industrial actions and systems with extreme pressure conditions.', 'description_detail': \"The TK3+ from 130 bar is the most robust version of the range, designed to withstand the most extreme conditions found in CO2 transcritical refrigeration systems. In these plants, especially during the shut-off phase or under certain operating conditions, the pressure on the high side can reach very high values. This controller is built with a solenoid valve and a reinforced body to safely manage these exceptional pressures, ensuring that oil filling is always possible. It is the ultimate solution for the protection of compressors in the most modern and complex systems, where reliability in extreme conditions is a non-negotiable requirement. --- Question: What is the maximum pressure range supported by the TK3+ 130__TECH39_? Response as an expert Teklab technical sales assistant: - Provide accurate technical specifications - Explain product features and applications clearly - Give installation and configuration guidance - Focus on PRACTICAL IMPLEMENTATION and compatibility - Cite pressure ranges, temperatures, certificates when relevant"
+    },
+    {
+      "role": "assistant",
+      "content": "The TK3+ 130bar CO2 oil level controller is a high-pressure, robust solution designed for transcritical CO2 applications. It features a solenoid valve and reinforced body, ensuring safe management of oil levels in compressors."
     }
+  ],
+  "metadata": {
+    "chunk_id": "teklab_chunk_002_006_TK3+_130bar_CO2_Oil_Level_Controller",
+    "file_index": 2,
+    "file_source": "All_Categories",
+    "chunk_number": 6,
+    "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+    "manufacturer": "Teklab S.r.l.",
+    "document_type": "Technical Documentation",
+    "product_category": "Comparazione Prodotti",
+    "key_concepts": [
+      "High-pressure robustness",
+      "Transcritical CO2 applications",
+      "Oil level management for compressor protection"
+    ],
+    "keywords_primary": [
+      "product_model (TK3+)",
+      "pressure_range (130 bar)",
+      "refrigerant (CO2)",
+      "application (oil level, level control, refrigeration)"
+    ],
+    "keywords_synonyms": {
+      "CO2": [
+        "R744",
+        "carbon dioxide",
+        "transcritical"
+      ],
+      "oil level": [
+        "level control",
+        "oil management",
+        "lubrication control"
+      ],
+      "refrigeration": [
+        "cooling system",
+        "HVAC",
+        "cold chain"
+      ],
+      "TK3+": [
+        "oil level regulator",
+        "OLR",
+        "level controller"
+      ]
+    },
+    "keywords_relations": {
+      "compatible_refrigerants": [
+        "CO2"
+      ],
+      "pressure_ratings": [
+        "130 bar"
+      ],
+      "typical_applications": [
+        "CO2 transcritical systems",
+        "compressor lubrication"
+      ]
+    },
+    "iconic_quotes": [
+      "Il TK3+ da 130 bar è la versione più robusta della gamma, progettata per resistere alle condizioni più estreme che si trovano nei sistemi di refrigerazione a CO2 transcritico.",
+      "Questo regolatore è costruito con una valvola solenoide e un corpo rinforzati per gestire in sicurezza queste pressioni eccezionali, garantendo che il rabbocco dell'olio sia sempre possibile."
+    ],
+    "qa_pairs": [
+      {
+        "question": "What makes the TK3+ 130bar CO2 oil level controller suitable for transcritical CO2 applications?",
+        "answer": "The TK3+ 130bar is designed to withstand extreme conditions found in transcritical CO2 systems, ensuring reliable operation and protection of compressors. Its robust construction features a solenoid valve and reinforced body, allowing safe management of high pressures. This makes it an ideal solution for modern, complex CO2-based refrigeration systems where high reliability is crucial.",
+        "difficulty": "intermediate",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      },
+      {
+        "question": "How does the TK3+ 130bar oil level controller handle oil level management in compressor applications?",
+        "answer": "The TK3+ 130bar features a solenoid valve and reinforced body, enabling safe and reliable management of oil levels in compressors. This ensures that the oil level is always manageable, preventing damage to the compressor and ensuring optimal performance. The controller's design also allows for easy installation and wiring, making it a convenient solution for compressor lubrication applications.",
+        "difficulty": "beginner",
+        "intent": [
+          "product_selection",
+          "installation"
+        ]
+      }
+    ],
+    "natural_questions": [
+      "What is the maximum pressure range supported by the TK3+ 130bar?",
+      "Which refrigerants are compatible with the TK3+ 130bar?"
+    ],
+    "summary": "The TK3+ 130bar CO2 oil level controller is a high-pressure, robust solution designed for transcritical CO2 applications. It features a solenoid valve and reinforced body, ensuring safe management of oil levels in compressors.",
+    "domain_metadata": {
+      "product_family": "Comparazione Prodotti",
+      "pressure_class": "130bar",
+      "refrigerants": [
+        "CO2"
+      ],
+      "certifications": [
+        "ATEX"
+      ],
+      "communication": [
+        "MODBUS RTU"
+      ]
+    },
+    "applications": [],
+    "compatibility": [],
+    "certifications": [
+      "ATEX"
+    ],
+    "difficulty_level": "technical",
+    "content_type": "product_specification",
+    "target_audience": [
+      "HVAC engineers",
+      "refrigeration technicians",
+      "system integrators"
+    ],
+    "importance": 0.85,
+    "relevance": 8,
+    "language": "en"
+  }
 }

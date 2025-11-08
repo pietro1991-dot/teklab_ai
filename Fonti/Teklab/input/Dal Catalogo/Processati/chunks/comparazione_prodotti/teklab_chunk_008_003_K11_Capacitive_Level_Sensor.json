@@ -32,14 +32,39 @@
             "Reduced BOM complexity"
         ],
         "keywords_primary": [
-            "K11",
-            "capacitive level sensor",
-            "universal output",
-            "compact design",
-            "PLC compatibility"
+            "product_model (TK4)",
+            "product_model (LC-XT)",
+            "product_model (K11)",
+            "product_model (ATEX)",
+            "refrigerant (R290)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "R290"
+            ],
+            "communication": [
+                "NFC"
+            ],
+            "typical_applications": [
+                "NH3 industrial refrigeration"
+            ]
+        },
         "iconic_quotes": [
             "È il sensore ideale per gli OEM. Le sue dimensioni ridotte lo rendono facile da integrare in macchinari compatti.",
             "La sua uscita universale (NPN/PNP/AC in un unico modello) riduce la complessità della distinta base (BOM) e semplifica la gestione del magazzino,"

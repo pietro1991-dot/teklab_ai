@@ -661,7 +661,7 @@
         ],
         "keywords_primary": [
           "product_model (e.g., K25)",
-          "pressure_range (e.g., 150bar, 0-600bar)",
+          "pressure_range (e.g., 150bar, 46bar, 80bar, 130bar, or 150bar)",
           "temperature (e.g., -40°C, +125°C)",
           "feature (e.g., ATEX certification)",
           "application (e.g., compressor, refrigeration)"
@@ -874,7 +874,7 @@
         "keywords_primary": [
           "ATEX certified",
           "oil level sensor",
-          "pressure range (0-600bar)",
+          "pressure ranges: 46 bar (LC-PS, TK4), 80 bar (TK4MB), 130 bar (TK3+, TK4), 150 bar (K25 CO2)",
           "temperature (-40°C to +125°C)",
           "IP68 protection",
           "explosion-proof application"
@@ -887,7 +887,7 @@
         "qa_pairs": [
           {
             "question": "What is the maximum pressure range supported by this oil level sensor?",
-            "answer": "This oil level sensor supports a maximum pressure range of 0-600bar, making it suitable for high-pressure applications. The sensor's ATEX certification ensures its reliability and accuracy in explosion-proof environments.",
+            "answer": "This oil level sensor supports a maximum pressure range of 46bar, 80bar, 130bar, or 150bar, making it suitable for high-pressure applications. The sensor's ATEX certification ensures its reliability and accuracy in explosion-proof environments.",
             "difficulty": "intermediate",
             "intent": [
               "product_selection",
@@ -911,7 +911,7 @@
         "summary": "This ATEX certified oil level sensor provides high accuracy and reliability in explosion-proof applications, making it suitable for industrial processes with flammable gases or vapors.",
         "domain_metadata": {
           "product_family": "Comparazione Prodotti",
-          "pressure_class": "0-600bar",
+          "pressure_class": "46bar, 80bar, 130bar, or 150bar",
           "refrigerants": [
             "R134a",
             "R404A"

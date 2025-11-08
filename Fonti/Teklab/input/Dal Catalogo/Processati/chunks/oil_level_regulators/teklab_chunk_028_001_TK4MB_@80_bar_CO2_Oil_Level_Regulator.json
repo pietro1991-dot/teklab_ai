@@ -34,15 +34,50 @@
             "Extremely compact dimensions"
         ],
         "keywords_primary": [
-            "TK4MB",
-            "CO2",
-            "80bar",
-            "Oil Level Regulator",
-            "Modbus RTU",
-            "Compact Dimensions"
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "pressure_range (80 bar)",
+            "refrigerant (CO2)",
+            "feature (MODBUS, relay)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "80 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Integrated filtering element in series with the valve. Please contact Teklab for more info.",
             "Reduction of the number of junctions in the circuit with less possibility of having leakages"

@@ -32,14 +32,41 @@
             "Relay output contact"
         ],
         "keywords_primary": [
-            "TK4",
-            "Oil level control",
-            "Pressure range (130bar)",
-            "Temperature limits (-40°C to +125°C)",
-            "Modbus protocol"
+            "product_model (TK4)",
+            "feature (MODBUS, relay)",
+            "application (oil level, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "MODBUS",
+                "relay"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "The TK4 is designed to control the oil level in the compressor crankcase.",
             "The TK4 monitors the oil level with the embedded electro-optic sensor."

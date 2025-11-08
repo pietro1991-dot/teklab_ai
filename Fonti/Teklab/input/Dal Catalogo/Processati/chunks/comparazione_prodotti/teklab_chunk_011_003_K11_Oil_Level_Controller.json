@@ -30,14 +30,36 @@
             "Limited functionality without additional certifications or features"
         ],
         "keywords_primary": [
-            "TK11",
-            "Oil level controller",
-            "Pressure range: 0-60bar",
-            "Temperature range: -40°C to +125°C",
-            "MODBUS protocol support"
+            "product_model (K11)",
+            "refrigerant (HFC, HFO)",
+            "feature (PNP, NPN)",
+            "application (oil level, level control, refrigeration)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "HFC",
+                "HFO"
+            ],
+            "communication": [
+                "digital"
+            ]
+        },
         "iconic_quotes": [
             "È la scelta ideale per una vasta gamma di applicazioni industriali e di refrigerazione",
             "Scegli il K11 quando hai bisogno di un sensore di livello semplice, robusto ed economico"

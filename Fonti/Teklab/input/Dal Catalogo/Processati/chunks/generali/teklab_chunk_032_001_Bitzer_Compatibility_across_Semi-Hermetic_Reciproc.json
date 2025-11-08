@@ -32,14 +32,52 @@
             "Significance of adapting to different compressor models"
         ],
         "keywords_primary": [
-            "Bitzer",
-            "semi-hermetic reciprocating compressors",
-            "pressure range",
-            "temperature limits",
-            "refrigerant compatibility"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "refrigerant (CO2)",
+            "application (oil level, refrigeration, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6",
             "Bock (now part of Danfoss): Compatible with hydrocarbon and low-GWP models. Examples: HA4, HA5, HA6"

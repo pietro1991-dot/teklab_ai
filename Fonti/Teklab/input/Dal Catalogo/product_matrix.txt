@@ -1,0 +1,431 @@
+# TEKLAB PRODUCT MATRIX - Complete Product Line Overview
+
+## OIL LEVEL REGULATORS (TK Series)
+
+### TK3+ Family - Electronic Oil Level Regulator
+**Base Technology**: Infrared electro-optic sensor, microprocessor control, no moving parts
+
+**Pressure Variants**:
+- **TK3+ Standard (46 bar)** - Standard refrigeration systems with HFC, HFO refrigerants
+- **TK3+ MP (Medium Pressure, 60-80 bar)** - Medium pressure applications
+- **TK3+ HP (High Pressure, 90 bar)** - High pressure systems
+- **TK3+ CO2 (130 bar)** - CO2 transcritical systems (R744), specifically designed for high differential pressure
+
+**Connectivity Variants**:
+- **TK3+ Base** - Relay output only, no digital communication, standalone installations
+- **TK3+ MB (MODBUS)** - MODBUS RTU RS485 protocol for BMS/SCADA integration and centralized monitoring
+
+**Key Features**:
+- IR optical sensor with prism technology (no moving parts, no wear)
+- Integrated alarm relay for active safety
+- Operating temperature: -40°C to +125°C
+- Fast response time (instantaneous detection)
+- Programmable timers to filter transients
+- "Install and forget" reliability
+- Compatible with all modern refrigerants (HFC, HFO, CO2, NH3)
+
+**Typical Applications**:
+- Compressor oil level regulation
+- Refrigeration systems (commercial and industrial)
+- Heat pumps and chillers
+- Large retail distribution (supermarkets)
+- Cold storage facilities
+
+---
+
+### TK4 Family - Advanced Oil Level Regulator with NFC Configuration
+**Base Technology**: Same IR optical technology as TK3+ PLUS NFC wireless configuration
+
+**Pressure Variants**:
+- **TK4 Standard (46 bar)** - Standard refrigeration
+- **TK4 HP (90 bar)** - High pressure systems
+- **TK4 CO2 (130 bar)** - CO2 transcritical applications
+
+**Connectivity Variants**:
+- **TK4 Base** - NFC configuration + relay output
+- **TK4 MB (MODBUS)** - NFC configuration + MODBUS RTU RS485 + advanced diagnostics
+
+**Unique Features vs TK3+**:
+- **NFC wireless configuration** via smartphone app (no need to power the device)
+- **Advanced diagnostics** with historical data logging
+- **Parameter adjustment** without opening electrical panel
+- **Remote troubleshooting** capabilities
+- All TK3+ features included
+
+**When to Choose TK4 over TK3+**:
+- Multiple units to configure (NFC speeds up commissioning)
+- Need advanced diagnostics and predictive maintenance
+- Want smartphone-based parameter adjustment
+- MODBUS + comprehensive diagnostics required
+- Higher initial investment justified by maintenance savings
+
+---
+
+### TK1+ - Sight Glass Replacement Controller
+**Single Model Configuration**:
+- **TK1+ (46 bar)** - Direct replacement for mechanical sight glasses
+
+**Specialized Application**:
+- Replaces traditional glass level indicators on compressor crankcases or oil reservoirs
+- Provides electronic safety vs. passive glass observation
+- Compact design for tight installation spaces
+- Same reliability as TK3+ family
+
+**Key Features**:
+- Ultra-compact footprint
+- Relay alarm output
+- Eliminates glass breakage risk
+- Visual + electronic monitoring
+- Easy retrofit on existing compressors
+
+---
+
+## LIQUID LEVEL SENSORS (LC Series)
+
+### LC-PS Family - Standard Pressure Optical Switch (46 bar)
+**Technology**: Infrared optical detection, digital ON/OFF output
+
+**Model Variants**:
+- **LC-PS Cable** (3-wire pre-wired cable) - Standard installation with cable
+- **LC-XT M12** (M12 industrial connector) - Same functionality as LC-PS with removable connector for easier maintenance
+
+**Technical Specifications**:
+- Maximum pressure: 46 bar
+- Compatible refrigerants: HFC, HFO, R134a, R404A, R410A
+- Universal output: NPN/PNP/AC in single model (no need for separate SKUs)
+- Protection: IP67
+- Operating temperature: -40°C to +125°C
+- Response time: Instantaneous (<1 second)
+
+**Key Advantages**:
+- Excellent cost-effectiveness (vs mechanical floats)
+- No moving parts (vs. float switches)
+- High accuracy (±2mm detection point)
+- Works with viscous oil, foam, turbulence
+- Universal output reduces BOM complexity
+
+---
+
+### LC-PH Family - High Pressure Optical Switch (120 bar)
+**Technology**: Infrared optical with reinforced structural design for extreme pressure
+
+**Model Variants**:
+- **LC-PH Cable** (3-wire cable) - 120 bar, for CO2 transcritical systems
+- **LC-XP M12** (M12 connector) - 120 bar, industrial connector version
+
+**Technical Specifications**:
+- Maximum pressure: 120 bar (specifically for CO2 transcritical)
+- Compatible refrigerants: CO2 (R744), HFC, HFO, high-pressure applications
+- Reinforced machine body and materials for extreme mechanical/thermal stress
+- Same universal output as LC-PS
+- Rotalock adapter compatibility (eliminates need for connection adapters)
+
+**When to Choose LC-PH over LC-PS**:
+- CO2 transcritical systems (mandatory choice)
+- Operating pressure >46 bar
+- High-pressure NH3 applications
+- Need for reinforced construction in demanding environments
+
+---
+
+## SPECIALIZED SENSORS
+
+### K11 - Universal Capacitive Level Sensor
+**Technology**: Capacitive sensing (different from IR optical of LC/TK series)
+
+**Single Model**: K11 (multi-output configuration)
+
+**Key Features**:
+- Capacitive detection principle
+- Universal output (NPN/PNP/AC in one model)
+- Ultra-compact design (ideal for OEM equipment integration)
+- Global PLC compatibility (works with all major brands)
+- Reduces BOM complexity (one part number for all applications)
+- Easy inventory management
+
+**Ideal For**:
+- OEM manufacturers (chillers, heat pumps, condensing units)
+- Space-constrained installations
+- Applications requiring PLC flexibility
+- Simplifying spare parts inventory
+
+---
+
+### K25 - Dual Sensor (Level + Temperature in One Unit)
+**Technology**: Combined IR optical level sensor + PT1000 temperature sensor
+
+**Single Model**: K25 (integrated dual sensing)
+
+**Revolutionary Innovation**:
+- **Replaces 2 separate sensors** (level + temperature) with one device
+- **50% installation time reduction** (one mounting vs two)
+- **Single leak point** instead of two (increased system safety)
+- **4-20mA temperature output** (no need for PT1000 signal converter)
+- Factory calibrated (level + temperature)
+
+**Technical Specifications**:
+- Level sensing: IR optical (same as LC series)
+- Temperature sensing: PT1000 integrated
+- Temperature output: 4-20mA analog signal
+- Pressure rating: 46 bar (standard version)
+- Single M12 connector for both signals
+
+**Cost-Benefit vs Separate Sensors**:
+- Installation: 50% time savings
+- Leak points: Reduced from 2 to 1 (safety improvement)
+- Cable management: Simplified (one cable vs two)
+- Commissioning: Faster (one device to configure)
+- Maintenance: Single spare part
+
+**Typical Applications**:
+- Systems requiring both level and temperature monitoring
+- Evaporator monitoring (level + superheat temperature)
+- Condenser applications (level + subcooling)
+- BMS integration requiring both measurements
+
+---
+
+### ATEX-Certified Sensors (Explosive Environments)
+**Safety Certification**: ATEX intrinsic safety for explosive atmospheres
+
+**Available Models**:
+- **LC-PS ATEX** (46 bar) - Standard pressure with ATEX certification
+- **LC-PH ATEX** (120 bar) - High pressure with ATEX certification
+
+**Critical Applications**:
+- **Mandatory for flammable refrigerants**: R290 (propane), R600a (isobutane), R1270 (propylene)
+- **Ammonia systems** (NH3/R717) in hazardous zones
+- **Explosive atmosphere classifications**: Zone 1, Zone 2 (ATEX directive compliance)
+- **Safety-critical installations** where intrinsic safety is required by regulation
+
+**Key Compliance**:
+- ATEX Directive 2014/34/EU
+- Intrinsic safety (equipment cannot cause ignition)
+- Non-negotiable for flammable refrigerant installations
+- Required for insurance and regulatory approval
+
+---
+
+## PRODUCT SELECTION DECISION TREE
+
+### Question 1: Do you need OIL LEVEL REGULATION or just LEVEL DETECTION?
+
+**If REGULATION (automatic oil return control)**:
+→ Go to TK Series (TK1+, TK3+, TK4)
+
+**If DETECTION only (level switch, ON/OFF signal)**:
+→ Go to LC Series (LC-PS, LC-PH, LC-XT, LC-XP) or K11/K25
+
+---
+
+### TK Series Selection: TK1+ vs TK3+ vs TK4
+
+**Choose TK1+ if**:
+- Replacing mechanical sight glass on compressor crankcase
+- Need compact footprint for tight spaces
+- Application: Oil reservoir visual + electronic monitoring
+- Budget: Most economical TK option
+
+**Choose TK3+ if**:
+- Need reliable oil level regulation with "install and forget" simplicity
+- Budget-conscious vs TK4 (no need for NFC diagnostics)
+- Single-unit or few installations (NFC benefit minimal)
+- Standalone systems without BMS (TK3+ Base) OR centralized monitoring (TK3+ MB)
+- Proven technology, lower cost than TK4
+
+**Choose TK4 if**:
+- Multiple units to configure (NFC saves commissioning time)
+- Need advanced diagnostics and historical data logging
+- Want smartphone-based parameter adjustment (no panel opening)
+- Predictive maintenance strategy (TK4 MB with diagnostics)
+- Higher initial cost justified by maintenance savings and troubleshooting ease
+
+---
+
+### LC Series Selection: LC-PS/XT vs LC-PH/XP
+
+**Choose LC-PS or LC-XT if**:
+- Operating pressure ≤46 bar
+- Standard refrigeration (HFC, HFO refrigerants: R134a, R404A, R410A)
+- Simple level detection (not regulation)
+- Cost-effective solution vs mechanical floats
+- **LC-XT variant**: Prefer M12 connector for easier maintenance/replacement
+
+**Choose LC-PH or LC-XP if**:
+- Operating pressure >46 bar (up to 120 bar)
+- **CO2 transcritical systems** (mandatory choice, 120 bar required)
+- High-pressure NH3 applications
+- Need reinforced construction for extreme conditions
+- **LC-XP variant**: M12 connector for maintenance convenience
+
+---
+
+### Specialized Sensor Selection
+
+**Choose K11 if**:
+- OEM equipment manufacturer (chillers, heat pumps)
+- Need universal output compatibility (NPN/PNP/AC single model)
+- Compact size is critical
+- Want to simplify BOM and inventory (one part for all PLCs)
+- Global supply chain (works with any PLC brand)
+
+**Choose K25 if**:
+- Need BOTH level AND temperature measurement
+- Want to reduce installation time (50% vs 2 separate sensors)
+- Single leak point preferred (safety/reliability)
+- 4-20mA temperature output required (vs PT1000 converters)
+- Streamlined commissioning (one device to configure)
+
+**Choose ATEX-certified sensors if**:
+- **Mandatory**: Using flammable refrigerants (R290, R600a, R1270, NH3)
+- Installation in explosive atmosphere zones (Zone 1/2)
+- Safety certification required by regulation or insurance
+- Non-negotiable for legal compliance
+
+---
+
+## PRESSURE RATING SUMMARY
+
+**46 bar models** (Standard Refrigeration):
+- TK1+, TK3+ Standard, TK4 Standard
+- LC-PS, LC-XT
+- K11, K25
+- ATEX: LC-PS ATEX
+
+**60-90 bar models** (Medium/High Pressure):
+- TK3+ MP (60-80 bar)
+- TK3+ HP (90 bar)
+- TK4 HP (90 bar)
+
+**120-130 bar models** (CO2 Transcritical):
+- TK3+ CO2 (130 bar)
+- TK4 CO2 (130 bar)
+- LC-PH, LC-XP (120 bar)
+- ATEX: LC-PH ATEX (120 bar)
+
+---
+
+## CONNECTIVITY OPTIONS SUMMARY
+
+**Relay Output Only** (Standalone):
+- TK3+ Base, TK4 Base, TK1+
+- All LC series (LC-PS, LC-PH, LC-XT, LC-XP)
+- K11, K25
+
+**MODBUS RTU RS485** (BMS/SCADA Integration):
+- TK3+ MB
+- TK4 MB
+
+**NFC Wireless Configuration** (Smartphone App):
+- TK4 Base
+- TK4 MB
+
+**4-20mA Analog Output** (Temperature):
+- K25 (temperature measurement only)
+
+---
+
+## COMPETITIVE ADVANTAGES BY PRODUCT
+
+**TK3+/TK4 vs Mechanical Floats (Danfoss, Alco, Ranco)**:
+- IR optical (no moving parts) vs float (mechanical wear)
+- Instant response vs 30-60s delay
+- ±2mm accuracy vs ±10-20mm
+- Active safety (alarm relay) vs passive device
+- Works with viscous oil, foam, turbulence
+
+**TK4 vs Danfoss AKS Series**:
+- NFC configuration without power (Danfoss requires powered unit)
+- Lower cost than dedicated MODBUS-only competitors
+- Smartphone diagnostics (no proprietary tools)
+
+**K25 vs Separate Level + Temperature Sensors**:
+- 50% installation time reduction
+- Single leak point (vs two)
+- Integrated factory calibration
+- Simplified cable management
+
+**LC Series vs Capacitive/Mechanical Switches**:
+- IR precision vs capacitive drift
+- No calibration needed (vs capacitive)
+- No mechanical wear (vs float switches)
+- Universal output (one model for all PLCs)
+
+---
+
+## REFRIGERANT COMPATIBILITY MATRIX
+
+**All Products Compatible With**:
+- HFC refrigerants: R134a, R404A, R407C, R410A
+- HFO refrigerants: R1234yf, R1234ze, R513A
+- Natural refrigerants: CO2 (R744), NH3 (R717)
+- HCFC refrigerants: R22 (legacy systems)
+
+**Pressure-Specific Requirements**:
+- **R744 (CO2) transcritical**: MUST use 120-130 bar models (TK3+/TK4 CO2, LC-PH/XP)
+- **R290, R600a (flammable)**: MUST use ATEX-certified models for safety zones
+
+---
+
+## INSTALLATION ENVIRONMENT CONSIDERATIONS
+
+**Temperature Range**: All products operate from **-40°C to +125°C**
+
+**Protection Rating**: IP67 (dust-tight, water immersion up to 1m)
+
+**Mounting Options**:
+- TK series: Flange mounting (various Rotalock and SAE sizes)
+- LC series: Screw-in installation (1/2" NPT, 3/4" UNF standard)
+- Adapters available for all major connection types
+
+**Electrical Connection**:
+- Cable models: 3-wire pre-wired cable (standard 2m, custom lengths available)
+- M12 connector models (LC-XT, LC-XP): Industrial EN 175301-803A standard
+
+---
+
+## TYPICAL APPLICATION SCENARIOS
+
+**Scenario 1: Large Supermarket (CO2 Transcritical)**
+- Recommendation: **TK4 CO2 MB** (130 bar, MODBUS, NFC)
+- Reason: High pressure, centralized BMS monitoring, multiple units (NFC speeds commissioning)
+
+**Scenario 2: Small Commercial Refrigeration (R404A, 30 bar)**
+- Recommendation: **TK3+ Standard Base** (46 bar, relay only)
+- Reason: Cost-effective, standalone, proven reliability
+
+**Scenario 3: Industrial Cold Storage (R717 Ammonia)**
+- Recommendation: **TK3+ HP MB** + **LC-PH ATEX** (if in hazardous zone)
+- Reason: High pressure capability, MODBUS for monitoring, ATEX for safety compliance
+
+**Scenario 4: OEM Chiller Manufacturer (R410A)**
+- Recommendation: **K11** (capacitive universal)
+- Reason: Compact size, universal PLC compatibility, simplified BOM
+
+**Scenario 5: Heat Pump with Temperature Monitoring**
+- Recommendation: **K25** (level + temperature)
+- Reason: Single device, 50% installation time, 4-20mA output for temperature
+
+**Scenario 6: Propane (R290) Heat Pump**
+- Recommendation: **LC-PS ATEX** (mandatory)
+- Reason: Flammable refrigerant requires intrinsic safety certification
+
+---
+
+## SUMMARY: QUICK PRODUCT FINDER
+
+| **Need** | **Best Product** | **Why** |
+|----------|------------------|---------|
+| Oil level regulation, budget-friendly | TK3+ Standard Base | Proven, economical |
+| Oil level regulation + BMS monitoring | TK3+ MB or TK4 MB | MODBUS integration |
+| Oil level regulation + smartphone diagnostics | TK4 (Base or MB) | NFC configuration |
+| Sight glass replacement | TK1+ | Compact, electronic safety |
+| Level switch, standard pressure | LC-PS or LC-XT | Cost-effective, reliable |
+| Level switch, CO2 transcritical | LC-PH or LC-XP | 120 bar rated |
+| Level + temperature in one device | K25 | Saves installation time/cost |
+| OEM compact level sensor | K11 | Universal output, small size |
+| Flammable refrigerants (R290, R600a) | ATEX models (LC-PS ATEX, LC-PH ATEX) | Safety certification mandatory |
+
+---
+
+This product matrix provides comprehensive guidance for selecting the optimal Teklab solution based on application requirements, pressure ratings, connectivity needs, and regulatory compliance.

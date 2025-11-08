@@ -30,14 +30,45 @@
             "Flessibilità"
         ],
         "keywords_primary": [
-            "MODBUS RTU",
-            "ATEX",
-            "CO2",
-            "ammonia",
-            "compressor lubrication"
+            "product_model (TK4)",
+            "product_model (TK4MB)",
+            "product_model (ATEX)",
+            "refrigerant (CO2)",
+            "feature (MODBUS)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4MB": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "communication": [
+                "MODBUS"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "Il relè di allarme integrato fornisce una sicurezza attiva, segnalando un problema prima che causi un danno.",
             "I modelli avanzati (TK4, TK4MB) offrono una diagnostica storica completa."

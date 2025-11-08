@@ -1,0 +1,100 @@
+{
+    "id": "teklab_chunk_150_005_Product_Matrix_-_Selection_Guide_Decision_Tree",
+    "original_text": "Product Selection Decision Tree and Quick Finder\n\nQuestion 1: Do you need OIL LEVEL REGULATION or just LEVEL DETECTION?\n\nIf REGULATION (automatic oil return control):\n→ Go to TK Series (TK1+, TK3+, TK4)\n\nIf DETECTION only (level switch, ON/OFF signal):\n→ Go to LC Series (LC-PS, LC-PH, LC-XT, LC-XP) or K11/K25\n\nTK Series Selection: TK1+ vs TK3+ vs TK4\n\nChoose TK1+ if:\n- Replacing mechanical sight glass on compressor crankcase\n- Need compact footprint for tight spaces\n- Application: Oil reservoir visual + electronic monitoring\n- Budget: Most economical TK option\n\nChoose TK3+ if:\n- Need reliable oil level regulation with \"install and forget\" simplicity\n- Budget-conscious vs TK4 (no need for NFC diagnostics)\n- Single-unit or few installations (NFC benefit minimal)\n- Standalone systems without BMS (TK3+ Base) OR centralized monitoring (TK3+ MB)\n\nChoose TK4 if:\n- Multiple units to configure (NFC saves commissioning time)\n- Need advanced diagnostics and historical data logging\n- Want smartphone-based parameter adjustment (no panel opening)\n- Predictive maintenance strategy (TK4 MB with diagnostics)\n- Higher initial cost justified by maintenance savings\n\nLC Series Selection: LC-PS/XT vs LC-PH/XP\n\nChoose LC-PS or LC-XT if:\n- Operating pressure ≤46 bar\n- Standard refrigeration (HFC, HFO: R134a, R404A, R410A)\n- Simple level detection (not regulation)\n- Cost-effective solution vs mechanical floats\n- LC-XT variant: Prefer M12 connector for easier maintenance\n\nChoose LC-PH or LC-XP if:\n- Operating pressure >46 bar (up to 120 bar)\n- CO2 transcritical systems (mandatory choice, 120 bar required)\n- High-pressure NH3 applications\n- Need reinforced construction for extreme conditions\n- LC-XP variant: M12 connector for maintenance convenience\n\nSpecialized Sensor Selection\n\nChoose K11 if:\n- OEM equipment manufacturer (chillers, heat pumps)\n- Need universal output compatibility (NPN/PNP/AC single model)\n- Compact size is critical\n- Want to simplify BOM and inventory\n- Global supply chain (works with any PLC brand)\n\nChoose K25 if:\n- Need BOTH level AND temperature measurement\n- Want to reduce installation time (50% vs 2 separate sensors)\n- Single leak point preferred (safety/reliability)\n- 4-20mA temperature output required\n- Streamlined commissioning (one device to configure)\n\nChoose ATEX-certified sensors if:\n- MANDATORY: Using flammable refrigerants (R290, R600a, R1270, NH3)\n- Installation in explosive atmosphere zones (Zone 1/2)\n- Safety certification required by regulation or insurance\n- Non-negotiable for legal compliance\n\nPressure Rating Summary:\n\n46 bar models (Standard Refrigeration):\n- TK1+, TK3+ Standard, TK4 Standard\n- LC-PS, LC-XT\n- K11, K25\n- ATEX: LC-PS ATEX\n\n60-90 bar models (Medium/High Pressure):\n- TK3+ MP (60-80 bar)\n- TK3+ HP (90 bar)\n- TK4 HP (90 bar)\n\n120-130 bar models (CO2 Transcritical):\n- TK3+ CO2 (130 bar)\n- TK4 CO2 (130 bar)\n- LC-PH, LC-XP (120 bar)\n- ATEX: LC-PH ATEX (120 bar)\n\nConnectivity Options Summary:\n\nRelay Output Only (Standalone):\n- TK3+ Base, TK4 Base, TK1+\n- All LC series\n- K11, K25\n\nMODBUS RTU RS485 (BMS/SCADA Integration):\n- TK3+ MB\n- TK4 MB\n\nNFC Wireless Configuration (Smartphone App):\n- TK4 Base\n- TK4 MB\n\n4-20mA Analog Output (Temperature):\n- K25 only",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application.\n\nSTYLE: Technical but accessible, consultative and solution-oriented, precise and data-driven.\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors\n- Specialized sensors (K11, K25)"
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab Product Selection Guide):\n\n[Selection Guide] - Complete decision tree for choosing the right Teklab product based on application requirements\nKey Concepts: Regulation vs Detection, Pressure ratings (46, 90, 120-130 bar), Connectivity options (relay, MODBUS, NFC), ATEX mandatory for flammable refrigerants\n📌 Important Details: First decide: regulation (TK series) or detection (LC series) | Pressure determines model: 46 bar standard, 120-130 bar for CO2 | ATEX is NON-NEGOTIABLE for R290/R600a/NH3 | K25 saves 50% installation time | TK4 adds NFC for multiple units\n\nComplete technical text:\nProduct Selection Decision Tree\n\nFirst Question: Do you need REGULATION or DETECTION?\n- Regulation (automatic oil return) → TK Series (TK1+, TK3+, TK4)\n- Detection (level switch ON/OFF) → LC Series or K11/K25\n\nTK Series Selection:\n- TK1+ → Sight glass replacement, most economical\n- TK3+ → Reliable regulation, budget-friendly, \"install and forget\"\n- TK4 → TK3+ plus NFC configuration and advanced diagnostics\n\nLC Series Selection:\n- LC-PS/XT → 46 bar, standard HFC/HFO refrigeration\n- LC-PH/XP → 120 bar, CO2 transcritical (mandatory)\n- XT/XP variants → M12 connector for easier maintenance\n\nSpecialized:\n- K11 → OEM compact, universal output, capacitive technology\n- K25 → Level + temperature in one unit, 50% time savings\n- ATEX → Mandatory for R290, R600a, NH3 in hazardous zones\n\nPressure Summary:\n- 46 bar: TK1+, TK3+ Std, TK4 Std, LC-PS, LC-XT, K11, K25\n- 90 bar: TK3+ HP, TK4 HP\n- 120-130 bar: TK3+ CO2, TK4 CO2, LC-PH, LC-XP\n\nConnectivity:\n- Relay only: TK3+ Base, TK4 Base, TK1+, all LC, K11, K25\n- MODBUS: TK3+ MB, TK4 MB\n- NFC: TK4 Base, TK4 MB\n- 4-20mA: K25 (temperature)\n\n---\n\nQuestion: How do I choose the right Teklab product?\n\nRespond as an expert Teklab technical sales assistant with clear selection guidance."
+        },
+        {
+            "role": "assistant",
+            "content": "Start by determining if you need oil level regulation (TK series) or just detection (LC series). Then consider pressure rating: 46 bar for standard systems, 120-130 bar for CO2 transcritical. For flammable refrigerants (R290, R600a, NH3), ATEX certification is mandatory."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_150_005_Product_Matrix_-_Selection_Guide_Decision_Tree",
+        "file_index": 150,
+        "file_source": "Product_Matrix",
+        "chunk_number": 5,
+        "chunk_title": "Product Matrix - Selection Guide and Decision Tree",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Product Selection Guide",
+        "product_category": "Generali",
+        "key_concepts": [
+            "Regulation vs detection decision",
+            "Pressure-based model selection",
+            "ATEX mandatory for flammable refrigerants",
+            "Connectivity options comparison",
+            "Complete product line overview"
+        ],
+        "keywords_primary": [
+            "product selection",
+            "decision tree",
+            "regulation vs detection",
+            "pressure rating",
+            "46 bar",
+            "90 bar",
+            "120 bar",
+            "130 bar",
+            "MODBUS",
+            "NFC",
+            "ATEX",
+            "flammable refrigerant",
+            "CO2 transcritical"
+        ],
+        "keywords_synonyms": {
+            "regulation": ["oil level control", "automatic oil return"],
+            "detection": ["level switch", "ON/OFF signal", "level sensing"],
+            "46 bar": ["standard pressure"],
+            "120-130 bar": ["high pressure", "CO2 transcritical pressure"],
+            "MODBUS": ["MODBUS RTU", "RS485", "BMS integration"],
+            "NFC": ["wireless configuration", "smartphone app"]
+        },
+        "keywords_relations": {
+            "regulation_products": ["TK1+", "TK3+", "TK4"],
+            "detection_products": ["LC-PS", "LC-PH", "LC-XT", "LC-XP", "K11", "K25"],
+            "standard_pressure": ["46 bar", "TK1+", "TK3+ Standard", "TK4 Standard", "LC-PS", "LC-XT"],
+            "high_pressure": ["90 bar", "TK3+ HP", "TK4 HP"],
+            "co2_pressure": ["120 bar", "130 bar", "LC-PH", "LC-XP", "TK3+ CO2", "TK4 CO2"],
+            "atex_required": ["R290", "R600a", "NH3", "Zone 1", "Zone 2"],
+            "connectivity": ["relay", "MODBUS RTU", "NFC", "4-20mA"]
+        },
+        "iconic_quotes": [
+            "First decision: do you need regulation (TK series) or just detection (LC series)?",
+            "For CO2 transcritical, 120-130 bar rating is mandatory - use LC-PH/XP or TK3+/TK4 CO2",
+            "ATEX certification is non-negotiable for flammable refrigerants like R290, R600a, or NH3",
+            "TK4 adds NFC configuration - ideal for multiple units where commissioning speed matters",
+            "K25 replaces 2 sensors with 1, saving 50% installation time"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What's the first step in selecting a Teklab product?",
+                "answer": "First determine if you need oil level regulation (automatic oil return control) or just level detection (ON/OFF switch). Regulation requires TK series (TK1+, TK3+, TK4). Detection uses LC series (LC-PS, LC-PH, LC-XT, LC-XP) or specialized sensors (K11, K25).",
+                "difficulty": "beginner",
+                "intent": ["product_selection", "application_design"]
+            },
+            {
+                "question": "How do I know which pressure rating I need?",
+                "answer": "Check your system's maximum operating pressure: use 46 bar models for standard HFC/HFO refrigeration (≤46 bar), 90 bar models for high-pressure systems, and 120-130 bar models for CO2 transcritical applications. CO2 transcritical REQUIRES 120-130 bar rated sensors.",
+                "difficulty": "intermediate",
+                "intent": ["technical_specification", "product_selection"]
+            },
+            {
+                "question": "When is ATEX certification required?",
+                "answer": "ATEX certification is mandatory and non-negotiable when using flammable refrigerants (R290/propane, R600a/isobutane, R1270, NH3/ammonia) or installing in explosive atmosphere zones (Zone 1 or Zone 2). It's required for regulatory compliance and insurance approval.",
+                "difficulty": "intermediate",
+                "intent": ["safety_compliance", "regulatory", "refrigerant_compatibility"]
+            },
+            {
+                "question": "Should I choose TK3+ MB or TK4 MB for BMS integration?",
+                "answer": "Both offer MODBUS RTU RS485 for BMS integration. Choose TK3+ MB for cost-effectiveness with proven technology. Choose TK4 MB if you also need NFC wireless configuration, advanced diagnostics with historical data logging, and smartphone-based parameter adjustment. TK4 MB is ideal for multiple units or predictive maintenance strategies.",
+                "difficulty": "advanced",
+                "intent": ["product_comparison", "application_design", "BMS_integration"]
+            }
+        ]
+    }
+}

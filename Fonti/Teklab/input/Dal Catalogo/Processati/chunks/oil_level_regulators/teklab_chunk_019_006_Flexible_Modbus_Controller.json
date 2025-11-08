@@ -32,14 +32,20 @@
             "Modbus Interface"
         ],
         "keywords_primary": [
-            "TK Series",
-            "Modbus RTU",
-            "ATEX Certification",
-            "Wireless Interface",
-            "Pressure Range"
+            "feature (MODBUS)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "MODBUS": [
+                "Modbus RTU",
+                "RS485",
+                "fieldbus"
+            ]
+        },
+        "keywords_relations": {
+            "communication": [
+                "MODBUS"
+            ]
+        },
         "iconic_quotes": [
             "Really Flexible: possibility of modifying functioning parameters and verify working conditions (also in real time) to optimize system’s operation.",
             "Highly safe: password protected point to point single link with limited range of operation to avoid unwanted changes from unauthorized personnel."

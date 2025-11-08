@@ -1,95 +1,89 @@
 {
-    "id": "marketing_competitor_008_TK4",
-    "original_text": "CONFRONTO COMPETITOR: TK4\n\nCategoria: Marketing - Oil Regulator Comparison\n\nCompetitor Equivalenti: Danfoss AKS 4100 BLE, Emerson (no wireless), Carel (concept NFC)\n\nQ: Cos'è TK4 NFC e perché è innovativo?\nA: TK4 è il PRIMO oil level regulator sul mercato con configurazione wireless NFC (Near Field Communication). Mantiene tutte le funzioni TK3+ (sensore ottico, valvola integrata, allarme) + aggiunge NFC per setup/diagnostica tramite smartphone Android/iOS. INNOVAZIONE ESCLUSIVA Teklab. Vantaggi: configura parametri in 30 secondi (vs 10 minuti con DIP switch tradizionali), diagnostica avanzata (storico allarmi, cicli rabbocco), no necessità aprire quadro elettrico. Livello tecnologico: SUPERIORE per interfaccia utente.\nApplicazione: Manutenzione sul campo rapida, commissioning veloce\n\nQ: TK4 NFC vs Danfoss AKS 4100 BLE: quale scegliere?\nA: Entrambi wireless, ma tecnologie diverse. TK4 usa NFC (tap&go <5cm, no pairing, funziona anche con device spento), Danfoss usa BLE Bluetooth (range ~10m, richiede pairing, device deve essere acceso). Trade-off: BLE ha range maggiore (monitoring a distanza), NFC più sicuro (impossibile intercettare da distanza) e più semplice (tap istantaneo). Livello tecnologico: PARZIALE - BLE migliore per range, NFC migliore per semplicità/sicurezza. Scelta dipende da use case.\nApplicazione: TK4 per configurazione rapida on-site, Danfoss per monitoring remoto\n\nQ: Quali parametri posso configurare con app NFC TK4?\nA: Parametri configurabili via app NFC: 1) Ritardo allarme: 10-300 secondi (evita falsi allarmi transitori). 2) Tempo rabbocco: 5-120 secondi (adatta a portata linea olio). 3) Soglia livello: 10-90% (personalizza per carter specifico). 4) Visualizzazione diagnostica: storico allarmi (timestamp), numero cicli rabbocco totali, stato sensore real-time. App gratuita Android/iOS, nessun costo abbonamento cloud. Dati salvati localmente nel device.\nApplicazione: Personalizzazione fine per ogni compressore\n\nQ: TK4 funziona se smartphone non ha NFC?\nA: No, serve smartphone con chip NFC integrato (standard su 95% smartphone moderni dal 2020). Alternativa: se serve configurare senza NFC, usa TK3+ (configurazione tradizionale con DIP switch/jumper). TK4 mantiene anche configurazione base factory default funzionante out-of-box, NFC serve solo per personalizzazione avanzata.\nApplicazione: Verifica compatibilità smartphone prima dell'acquisto\n\nQ: ROI di TK4 NFC: vale l'investimento vs TK3+?\nA: ROI dipende da numero installazioni. Risparmio tempo commissioning: 30 sec (TK4 NFC) vs 10 min (TK3+ DIP switch) = 9.5 min risparmiati per device. Con 10 device: 95 min risparmiati = 1.5 ore manodopera frigorista (90-150€ risparmio). Più installazioni = maggiore ROI. Vantaggio aggiuntivo: diagnostica remota riduce visite on-site per troubleshooting (risparmio trasferte). Consigliato per: installatori con >5 device, manutentori con impianti distribuiti.\nApplicazione: Grandi progetti multi-compressore, catene retail\n\n\nVantaggi Competitivi: PRIMO oil regulator con NFC wireless sul mercato - innovazione esclusiva. Configurazione 30 sec vs 10 min tradizionale (risparmio 95% tempo). Diagnostica avanzata (storico allarmi, cicli). No costi cloud. Superiore per facilità uso, equivalente per regolazione olio.\nFacilità Retrofit: ⭐⭐⭐⭐⭐ Massima - Stesso retrofit TK3+ + vantaggio configurazione istantanea NFC. Zero cablaggio aggiuntivo per NFC (wireless).\n",
-    "messages": [
-        {
-            "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products compare to competitors (Danfoss, Emerson, Carel, etc.) and guide them in making informed purchasing decisions."
-        },
-        {
-            "role": "user",
-            "content": "Technical documentation context (Teklab competitive analysis):\n\n[Marketing - Oil Regulator Comparison] - TK4 vs Competitors\n\nCONFRONTO COMPETITOR: TK4\n\nCategoria: Marketing - Oil Regulator Comparison\n\nCompetitor Equivalenti: Danfoss AKS 4100 BLE, Emerson (no wireless), Carel (concept NFC)\n\nQ: Cos'è TK4 NFC e perché è innovativo?\nA: TK4 è il PRIMO oil level regulator sul mercato con configurazione wireless NFC (Near Field Communication). Mantiene tutte le funzioni TK3+ (sensore ottico, valvola integrata, allarme) + aggiunge NFC per setup/diagnostica tramite smartphone Android/iOS. INNOVAZIONE ESCLUSIVA Teklab. Vantaggi: configura parametri in 30 secondi (vs 10 minuti con DIP switch tradizionali), diagnostica avanzata (storico allarmi, cicli rabbocco), no necessità aprire quadro elettrico. Livello tecnologico: SUPERIORE per interfaccia utente.\nApplicazione: Manutenzione sul campo rapida, commissioning veloce\n\nQ: TK4 NFC vs Danfoss AKS 4100 BLE: quale scegliere?\nA: Entrambi wireless, ma tecnologie diverse. TK4 usa NFC (tap&go <5cm, no pairing, funziona anche con device spento), Danfoss usa BLE Bluetooth (range ~10m, richiede pairing, device deve essere acceso). Trade-off: BLE ha range maggiore (monitoring a distanza), NFC più sicuro (impossibile intercettare da distanza) e più semplice (tap istantaneo). Livello tecnologico: PARZIALE - BLE migliore per range, NFC migliore per semplicità/sicurezza. Scelta dipende da use case.\nApplicazione: TK4 per configurazione rapida on-site, Danfoss per monitoring remoto\n\nQ: Quali parametri posso configurare con app NFC TK4?\nA: Parametri configurabili via app NFC: 1) Ritardo allarme: 10-300 secondi (evita falsi allarmi transitori). 2) Tempo rabbocco: 5-120 secondi (adatta a portata linea olio). 3) Soglia livello: 10-90% (personalizza per carter specifico). 4) Visualizzazione diagnostica: storico allarmi (timestamp), numero cicli rabbocco totali, stato sensore real-time. App gratuita Android/iOS, nessun costo abbonamento cloud. Dati salvati localmente nel device.\nApplicazione: Personalizzazione fine per ogni compressore\n\nQ: TK4 funziona se smartphone non ha NFC?\nA: No, serve smartphone con chip NFC integrato (standard su 95% smartphone moderni dal 2020). Alternativa: se serve configurare senza NFC, usa TK3+ (configurazione tradizionale con DIP switch/jumper). TK4 mantiene anche configurazione base factory default funzionante out-of-box, NFC serve solo per personalizzazione avanzata.\nApplicazione: Verifica compatibilità smartphone prima dell'acquisto\n\nQ: ROI di TK4 NFC: vale l'investimento vs TK3+?\nA: ROI dipende da numero installazioni. Risparmio tempo commissioning: 30 sec (TK4 NFC) vs 10 min (TK3+ DIP switch) = 9.5 min risparmiati per device. Con 10 device: 95 min risparmiati = 1.5 ore manodopera frigorista (90-150€ risparmio). Più installazioni = maggiore ROI. Vantaggio aggiuntivo: diagnostica remota riduce visite on-site per troubleshooting (risparmio trasferte). Consigliato per: installatori con >5 device, manutentori con impianti distribuiti.\nApplicazione: Grandi progetti multi-compressore, catene retail\n\n\nVantaggi Competitivi: PRIMO oil regulator con NFC wireless sul mercato - innovazione esclusiva. Configurazione 30 sec vs 10 min tradizionale (risparmio 95% tempo). Diagnostica avanzata (storico allarmi, cicli). No costi cloud. Superiore per facilità uso, equivalente per regolazione olio.\nFacilità Retrofit: ⭐⭐⭐⭐⭐ Massima - Stesso retrofit TK3+ + vantaggio configurazione istantanea NFC. Zero cablaggio aggiuntivo per NFC (wireless).\n\n\n---\n\nProvide competitive analysis and product comparison guidance."
-        },
-        {
-            "role": "assistant",
-            "content": "TK4 competitive positioning: PRIMO oil regulator con NFC wireless sul mercato - innovazione esclusiva. Configurazione 30 sec vs 10 min tradizionale (risparmio 95% tempo). Diagnostica avanzata (storico allarmi, cicli). No costi cloud. Superiore per facilità uso, equivalente per regolazione olio."
-        }
-    ],
-    "metadata": {
-        "chunk_id": "marketing_competitor_008_TK4",
-        "file_source": "Marketing_Competitor_Analysis",
-        "chunk_number": 1,
-        "chunk_title": "TK4 - Competitor Comparison",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Marketing - Competitive Analysis",
-        "product_category": "Marketing - Oil Regulator Comparison",
-        "teklab_product": "TK4",
-        "competitors": "Danfoss AKS 4100 BLE, Emerson (no wireless), Carel (concept NFC)",
-        "qa_pairs": [
-            {
-                "question": "Cos'è TK4 NFC e perché è innovativo?",
-                "answer": "TK4 è il PRIMO oil level regulator sul mercato con configurazione wireless NFC (Near Field Communication). Mantiene tutte le funzioni TK3+ (sensore ottico, valvola integrata, allarme) + aggiunge NFC per setup/diagnostica tramite smartphone Android/iOS. INNOVAZIONE ESCLUSIVA Teklab. Vantaggi: configura parametri in 30 secondi (vs 10 minuti con DIP switch tradizionali), diagnostica avanzata (storico allarmi, cicli rabbocco), no necessità aprire quadro elettrico. Livello tecnologico: SUPERIORE per interfaccia utente."
-            },
-            {
-                "question": "TK4 NFC vs Danfoss AKS 4100 BLE: quale scegliere?",
-                "answer": "Entrambi wireless, ma tecnologie diverse. TK4 usa NFC (tap&go <5cm, no pairing, funziona anche con device spento), Danfoss usa BLE Bluetooth (range ~10m, richiede pairing, device deve essere acceso). Trade-off: BLE ha range maggiore (monitoring a distanza), NFC più sicuro (impossibile intercettare da distanza) e più semplice (tap istantaneo). Livello tecnologico: PARZIALE - BLE migliore per range, NFC migliore per semplicità/sicurezza. Scelta dipende da use case."
-            },
-            {
-                "question": "Quali parametri posso configurare con app NFC TK4?",
-                "answer": "Parametri configurabili via app NFC: 1) Ritardo allarme: 10-300 secondi (evita falsi allarmi transitori). 2) Tempo rabbocco: 5-120 secondi (adatta a portata linea olio). 3) Soglia livello: 10-90% (personalizza per carter specifico). 4) Visualizzazione diagnostica: storico allarmi (timestamp), numero cicli rabbocco totali, stato sensore real-time. App gratuita Android/iOS, nessun costo abbonamento cloud. Dati salvati localmente nel device."
-            },
-            {
-                "question": "TK4 funziona se smartphone non ha NFC?",
-                "answer": "No, serve smartphone con chip NFC integrato (standard su 95% smartphone moderni dal 2020). Alternativa: se serve configurare senza NFC, usa TK3+ (configurazione tradizionale con DIP switch/jumper). TK4 mantiene anche configurazione base factory default funzionante out-of-box, NFC serve solo per personalizzazione avanzata."
-            },
-            {
-                "question": "ROI di TK4 NFC: vale l'investimento vs TK3+?",
-                "answer": "ROI dipende da numero installazioni. Risparmio tempo commissioning: 30 sec (TK4 NFC) vs 10 min (TK3+ DIP switch) = 9.5 min risparmiati per device. Con 10 device: 95 min risparmiati = 1.5 ore manodopera frigorista (90-150€ risparmio). Più installazioni = maggiore ROI. Vantaggio aggiuntivo: diagnostica remota riduce visite on-site per troubleshooting (risparmio trasferte). Consigliato per: installatori con >5 device, manutentori con impianti distribuiti."
-            }
-        ],
-        "competitive_advantages": "PRIMO oil regulator con NFC wireless sul mercato - innovazione esclusiva. Configurazione 30 sec vs 10 min tradizionale (risparmio 95% tempo). Diagnostica avanzata (storico allarmi, cicli). No costi cloud. Superiore per facilità uso, equivalente per regolazione olio.",
-        "retrofit_ease": "⭐⭐⭐⭐⭐ Massima - Stesso retrofit TK3+ + vantaggio configurazione istantanea NFC. Zero cablaggio aggiuntivo per NFC (wireless).",
-        "keywords_primary": [
-            "product_model (TK4)",
-            "pressure_range (46/80/130 bar)",
-            "competitor (Danfoss AKS 4100 BLE)",
-            "feature (NFC wireless, smartphone config, first in market, diagnostic history)",
-            "application (rapid commissioning, field maintenance, multi-compressor projects)"
-        ],
-        "keywords_synonyms": {
-            "TK4": [
-                "NFC oil regulator",
-                "wireless OLR"
-            ],
-            "NFC": [
-                "Near Field Communication",
-                "tap-and-go",
-                "contactless"
-            ],
-            "wireless config": [
-                "smartphone setup",
-                "app configuration"
-            ]
-        },
-        "keywords_relations": {
-            "innovation": [
-                "FIRST NFC oil regulator globally",
-                "market exclusive"
-            ],
-            "advantages": [
-                "30 sec vs 10 min config",
-                "no panel opening",
-                "diagnostic history"
-            ],
-            "NFC_vs_BLE": [
-                "<5cm range vs 10m",
-                "no pairing vs pairing required",
-                "higher security"
-            ],
-            "ROI": [
-                "95% time saving",
-                "10 devices = 1.5h labor saved"
-            ]
-        }
+  "id": "marketing_competitor_008_TK4",
+  "original_text": "COMPETITOR COMPARISON: TK4 Category: Marketing - Oil Regulator Comparison Competition Equivalent: Danfoss AKS 4100 BLE, Emerson (no wireless), __TECH19_ (_TECH40___ concept) Q: What is __TECH16_ NFC and why is it innovative?A: __TECH16_ is the FIRST level regulator on the market with __TECH40_ (Near Field Communication) wireless configuration. It maintains all functions TK3+ (optical sensor, integrated valve, alarm) + adds NFC for setup/diagnostic via Android/iOS smartphone. EXCLUSIVE INNOVATION Teklab. Advantages: configure parameters in 30 seconds (vs 10 minutes with traditional DIP switches), advanced diagnostics (historical alarms, bouncing cycles), no need to open electrical panel. Technology level: UPPER for user interface. Application: Quick field maintenance, fast commissioning Q: TK4 NFC vs Danfoss AKS 4100 BLE: Which one to choose? A: Both wireless, but different technologies. TK4 uses NFC (tap&go <5cm, no pairing, also works with off device), Danfoss uses BLE Bluetooth (range ~10m, requires pairing, device needs to be switched on). Trade-off: BLE has greatest range (distance monitoring), safer NFC (impossible to intercept from distance) and simpler (instant tap). Technological level: PARTIAL - BLE best for range, NFC best for simplicity/security. Choosing depends on use case. Application: TK4 for quick configuration on-site, Danfoss for remote monitoring Q: What parameters can I configure with NFC __TECH16_ app? A: Parameters configurable via NFC app: 1) Late alarm: 10-300 seconds (avoid fake transient alarms). 2) Bubble time: 5-120 seconds (adapted to oil line flow rate). 3) Level threshold: 10-90% (customize for specific carter). 4) Diagnostic visualization: historical alarms (timestamp), total number of bouncing cycles, real-time sensor status. Free Android/iOS app, no cloud subscription fee. Data stored locally in the device. Application: Fine customization for each Q compressor: Does TK4 work if your smartphone doesn't have NFC? A: No, it serves smartphones with integrated NFC chip (standard on 95% modern smartphones since 2020). Aternative: If you need to configure without NFC, use __TECH13_ (traditional configuration with DIP switch/jumper). TK4 also maintain default factory base configuration working out-of-box, __TECH40_ only serves for advanced customization. Application: Check smartphone compatibility before purchase Q: TK4 NFC ROI: Is investment worth vs __TECH13_? A: ROI depends on number of installations. Saving commissioning time: 30 sec (TK4 NFC) vs 10 min (_TECH13__ DIP switch) = 9.5 min saved per device. __TECH6_ith 10 devices: 95 min saved = 1.5 hours cold labor (90-150€ savings). More installations = greater ROI. Adictional advantage: Remote diagnostics reduces on-site visits to troubleshooting (transfer saving). Recommended for: installers with >5 devices, maintainers with distributed systems. Application: Large multi-compressor projects, retail chains Competitive advantages: FIRST oil regulator with wireless NFC on the market - exclusive innovation. Configuration 30 sec vs 10 min traditional (95% time saving). Advanced diagnostics (historical alarms, cycles). No cloud costs. Superior for ease of use, equivalent for oil regulation. Easy Retrofit: Maximum - Same retrofit TK3+ + benefit instant configuration NFC. Zero additional wiring for NFC (wireless). .",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, specializing in competitive analysis and product comparison. Help customers understand how Teklab products appears to competitors (Danfoss, Emerson, Carel, etc.) and guides them in making informed purchasing decisions."
+    },
+    {
+      "role": "user",
+      "content": "Technical documentation context (Teklab competitive analysis): [Marketing - Oil Regulator Comparison] - TK4 vs Competitors COMPETITOR COMPETITOR: TK4 Category: Marketing - Oil Regulator Comparison Competition Equivalent: Danfoss AKS 4100 BLE, __TECH26_ (no wireless), __TECH19_ (_TECH40__ concept) Q: What is TK4 __TECH40_ and why is it innovative?__TECH37_: __TECH16_ is the FIRST oil level regulator on the market with NFC (Near Field Communication) wireless configuration. It maintains all functions TK3+ (optical sensor, integrated valve, alarm) + adds NFC for setup/diagnostic via Android/iOS smartphone. EXCLUSIVE INNOVATION Teklab. Advantages: configure parameters in 30 seconds (vs 10 minutes with traditional DIP switches), advanced diagnostics (historical alarms, bouncing cycles), no need to open electrical panel. Technology level: UPPER for user interface. Application: Quick field maintenance, fast commissioning Q: TK4 NFC vs Danfoss AKS 4100 BLE: Which one to choose? A: Both wireless, but different technologies. TK4 uses NFC (tap&go <5cm, no pairing, also works with off device), Danfoss uses BLE Bluetooth (range ~10m, requires pairing, device needs to be switched on). Trade-off: BLE has greatest range (distance monitoring), safer NFC (impossible to intercept from distance) and simpler (instant tap). Technological level: PARTIAL - BLE best for range, NFC best for simplicity/security. Choosing depends on use case. Application: TK4 for quick configuration on-site, Danfoss for remote monitoring Q: What parameters can I configure with NFC __TECH16_ app? A: Parameters configurable via NFC app: 1) Late alarm: 10-300 seconds (avoid fake transient alarms). 2) Bubble time: 5-120 seconds (adapted to oil line flow rate). 3) Level threshold: 10-90% (customize for specific carter). 4) Diagnostic visualization: historical alarms (timestamp), total number of bouncing cycles, real-time sensor status. Free Android/iOS app, no cloud subscription fee. Data stored locally in the device. Application: Fine customization for each Q compressor: Does TK4 work if your smartphone doesn't have NFC? A: No, it serves smartphones with integrated NFC chip (standard on 95% modern smartphones since 2020). Aternative: If you need to configure without NFC, use __TECH13_ (traditional configuration with DIP switch/jumper). TK4 also maintain default factory base configuration working out-of-box, __TECH40_ only serves for advanced customization. Application: Check smartphone compatibility before purchase Q: TK4 NFC ROI: Is investment worth vs __TECH13_? A: ROI depends on number of installations. Saving commissioning time: 30 sec (TK4 NFC) vs 10 min (_TECH13__ DIP switch) = 9.5 min saved per device. __TECH6_ith 10 devices: 95 min saved = 1.5 hours cold labor (90-150€ savings). More installations = greater ROI. Adictional advantage: Remote diagnostics reduces on-site visits to troubleshooting (transfer saving). Recommended for: installers with >5 devices, maintainers with distributed systems. Application: Large multi-compressor projects, retail chains Competitive advantages: FIRST oil regulator with wireless NFC on the market - exclusive innovation. Configuration 30 sec vs 10 min traditional (95% time saving). Advanced diagnostics (historical alarms, cycles). No cloud costs. Superior for ease of use, equivalent for oil regulation. Easy Retrofit: Maximum - Same retrofit TK3+ + benefit instant configuration NFC. Zero additional wiring for NFC (wireless). --- Provide competitive analysis and product comparison guidance.."
+    },
+    {
+      "role": "assistant",
+      "content": "TK4 competitive positioning: FIRST oil regulator with wireless NFC on the market - exclusive innovation. Configuration 30 sec vs 10 min traditional (save 95% time). Advanced diagnostics (historical alarms, cycles). No cloud costs. Superior for ease of use, equivalent for oil regulation."
     }
+  ],
+  "metadata": {
+    "chunk_title": "TK4 - Competitor Comparison",
+    "product_category": "Marketing - Oil Regulator Comparison",
+    "teklab_product": "TK4",
+    "retrofit_ease": "⭐⭐⭐⭐⭐ Massima - Stesso retrofit TK3+ + vantaggio configurazione istantanea NFC. Zero cablaggio aggiuntivo per NFC (wireless).",
+    "qa_pairs": [
+      {
+        "question": "What is TK4 NFC and why is it innovative?",
+        "answer": "TK4 is the FIRST level regulator on the market with NFC (Near Field Communication) wireless configuration. It maintains all functions TK3+ (optical sensor, integrated valve, alarm) + adds NFC for setup/diagnostic via Android/iOS smartphone. EXCLUSIVE INNOVATION Teklab. Advantages: configure parameters in 30 seconds (vs 10 minutes with traditional DIP switches), advanced diagnostics (historical alarms, bouncing cycles), no need to open electrical panel. Technological level: UPPER for user interface.."
+      },
+      {
+        "question": "TK4 NFC vs Danfoss AKS 4100 BLE: which to choose?",
+        "answer": "Both wireless, but different technologies. TK4 uses NFC (tap&go <5cm, no pairing, also works with off device), Danfoss uses BLE Bluetooth (range ~10m, requires pairing, device needs to be switched on). Trade-off: BLE has greater range (distance monitoring), safer NFC (impossible to intercept from distance) and simpler (instant tap). Technological level: PARTIAL - BLE best for range, NFC best for simplicity/security. Choice depends on use houses.."
+      },
+      {
+        "question": "What parameters can I configure with NFC TK4 apps?",
+        "answer": "Parameters configurable via NFC app: 1) Alarm delay: 10-300 seconds (avoids false transient alarms). 2) Bubble time: 5-120 seconds (adapted to oil line flow rate). 3) Level threshold: 10-90% (customize for specific carter). 4) Diagnostic visualization: historical alarms (timestamp), total number of bouncing cycles, real-time sensor status. Free Android/iOS app, no cloud subscription fee. Data saved locally in the device.."
+      },
+      {
+        "question": "Does TK4 work if your smartphone doesn't have NFC?",
+        "answer": "No, you need smartphones with integrated NFC chip (standard 95% on modern smartphones since 2020). Alternative: If you need to configure without NFC, use TK3+ (traditional configuration with DIP switch/jumper). TK4 also maintains default factory base configuration working out-of-box, NFC only serves for advanced customization."
+      },
+      {
+        "question": "TK4 NFC ROI: Is the investment against TK3+ worth?",
+        "answer": "ROI depends on number of installations. Saving commissioning time: 30 sec (TK4 NFC) vs 10 min (TK3+ DIP switch) = 9.5 min saved per device. With 10 devices: 95 min saved = 1.5 hours cold labor (90-150€ savings). More installations = greater ROI. Additional advantage: Remote diagnostics reduces on-site visits to troubleshooting (transfer saving). Recommended for: installers with >5 devices, maintainers with distributed systems.."
+      }
+    ],
+    "keywords_primary": [
+      "product_model (TK4)",
+      "pressure_range (46/80/130 bar)",
+      "competitor (Danfoss AKS 4100 BLE)",
+      "feature (NFC wireless, smartphone config, first in market, diagnostic history)",
+      "application (rapid commissioning, field maintenance, multi-compressor projects)"
+    ],
+    "keywords_synonyms": {
+      "TK4": [
+        "NFC oil regulator",
+        "wireless OLR"
+      ],
+      "NFC": [
+        "Near Field Communication",
+        "tap-and-go",
+        "contactless"
+      ],
+      "wireless config": [
+        "smartphone setup",
+        "configuration app"
+      ]
+    },
+    "keywords_relations": {
+      "innovation": [
+        "FIRST NFC oil regulator globally",
+        "market exclusive"
+      ],
+      "advantages": [
+        "30 sec vs 10 min config",
+        "no panel opening",
+        "diagnostic history"
+      ],
+      "NFC_vs_BLE": [
+        "<5cm range vs 10m",
+        "no pairing vs pairing required",
+        "higher security"
+      ],
+      "ROI": [
+        "95% time saving",
+        "10 devices = 1.5h labor saved"
+      ]
+    },
+    "competitive_advantages": "FIRST oil regulator with wireless NFC on the market - exclusive innovation. Configuration 30 sec vs 10 min traditional (save 95% time). Advanced diagnostics (historical alarms, cycles). No cloud costs. Superior for ease of use, equivalent for oil regulation."
+  }
 }

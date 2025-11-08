@@ -12,7 +12,7 @@
         },
         {
             "role": "assistant",
-            "content": "The LC-PS pressure sensor offers precise control over industrial systems, with a operating pressure range of 0-600bar and temperature limits of -40°C to +125°C."
+            "content": "The LC-PS pressure sensor offers precise control over industrial systems, with a maximum operating pressure of 46 bar and temperature limits of -40°C to +125°C."
         }
     ],
     "metadata": {
@@ -32,14 +32,42 @@
             "ATEX certification"
         ],
         "keywords_primary": [
-            "pressure_range (0-600bar)",
-            "temperature (-40°C, +125°C)",
-            "refrigerants (R134a, R404A, CO2)",
-            "MODBUS RTU",
-            "ATEX"
+            "product_model (LC-PS)",
+            "product_model (LC-PH)",
+            "product_model (LC-XT)",
+            "product_model (LC-XP)",
+            "product_model (Rotalock)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar"
+            ],
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "\"Elimina la necessità di adattatori per connessioni Rotalock.\"",
             "\"La famiglia LC è il cuore della nostra offerta di sensori di livello.\""
@@ -47,7 +75,7 @@
         "qa_pairs": [
             {
                 "question": "What is the operating pressure range for LC-PS?",
-                "answer": "The LC-PS pressure sensor operates within a pressure range of 0-600bar. This makes it suitable for various industrial applications, including compressor lubrication and refrigerant level monitoring. The sensor's accuracy and response time are critical in ensuring precise control over the system.",
+                "answer": "The LC-PS pressure sensor operates with a maximum pressure of 46 bar. This makes it suitable for standard industrial refrigeration applications, including compressor lubrication and refrigerant level monitoring. The sensor's accuracy and response time are critical in ensuring precise control over the system.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -68,9 +96,9 @@
             "What is the maximum pressure for LC-PS?",
             "How does LC-PS handle high temperatures?"
         ],
-        "summary": "The LC-PS pressure sensor offers precise control over industrial systems, with a operating pressure range of 0-600bar and temperature limits of -40°C to +125°C.",
+        "summary": "The LC-PS pressure sensor offers precise control over industrial systems, with a maximum operating pressure of 46 bar and temperature limits of -40°C to +125°C.",
         "domain_metadata": {
-            "pressure_class": "0-600bar",
+            "pressure_class": "46bar",
             "refrigerants": [
                 "R134a",
                 "R404A",

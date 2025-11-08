@@ -32,14 +32,27 @@
             "Direct sight glass replacement"
         ],
         "keywords_primary": [
-            "TK3+",
-            "Oil level regulator",
-            "46bar",
-            "Compact",
-            "ATEX certification"
+            "product_model (TK3+)",
+            "pressure_range (46 bar)",
+            "application (oil level)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "pressure_ratings": [
+                "46 bar"
+            ]
+        },
         "iconic_quotes": [
             "Extremely compact dimensions",
             "Reduced number of junctions in the circuit with less possibility of having leakages",

@@ -1,163 +1,186 @@
 {
-    "id": "teklab_chunk_002_004_TK3+_130bar_CO2_Oil_Level_Controller",
-    "original_text": "scelta ideale per i sistemi a CO2 subcritici, dove le pressioni sono intrinsecamente più elevate rispetto ai sistemi HFC. Inoltre, è fortemente raccomandata per impianti che utilizzano refrigeranti standard ma sono installati in aree geografiche con climi molto freddi. A basse temperature esterne, la pressione di condensazione può scendere notevolmente, aumentando la differenza di pressione tra la linea dell'olio e il carter. In queste condizioni, un regolatore da 46 bar potrebbe non avere la forza sufficiente per aprire la valvola. La versione da 80 bar garantisce un funzionamento affidabile anche in queste situazioni più impegnative, offrendo un margine di sicurezza superiore.\", 'quando_sceglierla': 'Scegliere questa versione per sistemi a CO2 subcritici, impianti in climi freddi, o applicazioni industriali dove le pressioni operative sono più elevate della norma ma non raggiungono i picchi dei sistemi transcritici.'}, {'modello': 'TK3+ 130 bar', 'pressione_massima_differenziale': '130 bar (1885 psi)', 'applicazione_ideale': 'Sistemi a CO2 (R744) in configurazione transcritica.",
-    "messages": [
-        {
-            "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
-        },
-        {
-            "role": "user",
-            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK3+ 130bar CO2 Oil Level Controller\nKey Specifications: Primary product feature or specification, Maximum pressure range and its significance, Temperature limits for safe operation, Refrigerant compatibility and safety considerations, Importance of ATEX certification for industrial applications\n📌 Important Details: When operating in extreme cold temperatures, a regulator with sufficient pressure may not be able to open the valve. | The version of 80bar guarantees a reliable operation even in these challenging conditions.\n\nComplete technical text:\nscelta ideale per i sistemi a CO2 subcritici, dove le pressioni sono intrinsecamente più elevate rispetto ai sistemi HFC. Inoltre, è fortemente raccomandata per impianti che utilizzano refrigeranti standard ma sono installati in aree geografiche con climi molto freddi. A basse temperature esterne, la pressione di condensazione può scendere notevolmente, aumentando la differenza di pressione tra la linea dell'olio e il carter. In queste condizioni, un regolatore da 46 bar potrebbe non avere la forza sufficiente per aprire la valvola. La versione da 80 bar garantisce un funzionamento affidabile anche in queste situazioni più impegnative, offrendo un margine di sicurezza superiore.\", 'quando_sceglierla': 'Scegliere questa versione per sistemi a CO2 subcritici, impianti in climi freddi, o applicazioni industriali dove le pressioni operative sono più elevate della norma ma non raggiungono i picchi dei sistemi transcritici.'}, {'modello': 'TK3+ 130 bar', 'pressione_massima_differenziale': '130 bar (1885 psi)', 'applicazione_ideale': 'Sistemi a CO2 (R744) in configurazione transcritica.\n\n---\n\nQuestion: What is the maximum pressure range for TK3+ 130bar CO2 Oil Level Controller?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
-        },
-        {
-            "role": "assistant",
-            "content": "The TK3+ 130bar CO2 Oil Level Controller offers reliable operation in high-pressure applications, ensuring accurate oil level readings and maintaining safety standards."
-        }
-    ],
-    "metadata": {
-        "chunk_id": "teklab_chunk_002_004_TK3+_130bar_CO2_Oil_Level_Controller",
-        "file_index": 2,
-        "file_source": "All_Categories",
-        "chunk_number": 4,
-        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Technical Documentation",
-        "product_category": "Comparazione Prodotti",
-        "key_concepts": [
-            "Primary product feature or specification",
-            "Maximum pressure range and its significance",
-            "Temperature limits for safe operation",
-            "Refrigerant compatibility and safety considerations",
-            "Importance of ATEX certification for industrial applications"
-        ],
-        "keywords_primary": [
-            "TK3+ 130bar CO2 Oil Level Controller",
-            "Pressure range (130bar)",
-            "Temperature limits (-40°C to +125°C)",
-            "Refrigerant compatibility (CO2, R744)",
-            "ATEX certification for industrial applications"
-        ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
-        "iconic_quotes": [
-            "When operating in extreme cold temperatures, a regulator with sufficient pressure may not be able to open the valve.",
-            "The version of 80bar guarantees a reliable operation even in these challenging conditions."
-        ],
-        "qa_pairs": [
-            {
-                "question": "What is the maximum pressure range for TK3+ 130bar CO2 Oil Level Controller?",
-                "answer": "The TK3+ 130bar CO2 Oil Level Controller supports a maximum pressure range of 130bar, which ensures reliable operation even in high-pressure applications.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            },
-            {
-                "question": "What temperature limits should be considered for safe operation of TK3+ 130bar CO2 Oil Level Controller?",
-                "answer": "The recommended operating temperature range for the TK3+ 130bar CO2 Oil Level Controller is -40°C to +125°C, ensuring reliable performance and safety.",
-                "difficulty": "beginner",
-                "intent": [
-                    "application_design",
-                    "troubleshooting"
-                ]
-            },
-            {
-                "question": "Which refrigerants are compatible with TK3+ 130bar CO2 Oil Level Controller?",
-                "answer": "The TK3+ 130bar CO2 Oil Level Controller is designed to work with CO2 (R744) and other standard refrigerants, ensuring safe and reliable operation.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            },
-            {
-                "question": "What ATEX certification does for industrial applications of TK3+ 130bar CO2 Oil Level Controller?",
-                "answer": "The ATEX certification ensures that the TK3+ 130bar CO2 Oil Level Controller meets the highest standards for safety and reliability in industrial environments.",
-                "difficulty": "advanced",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            },
-            {
-                "question": "How does the MODBUS protocol affect the operation of TK3+ 130bar CO2 Oil Level Controller?",
-                "answer": "The MODBUS protocol enables seamless communication and control of the TK3+ 130bar CO2 Oil Level Controller, ensuring efficient operation in industrial settings.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            },
-            {
-                "question": "What is the recommended installation procedure for TK3+ 130bar CO2 Oil Level Controller?",
-                "answer": "The recommended installation procedure involves mounting the controller in a secure location, connecting it to the relevant sensors and actuators, and configuring the MODBUS protocol for communication.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "installation",
-                    "troubleshooting"
-                ]
-            },
-            {
-                "question": "How does the TK3+ 130bar CO2 Oil Level Controller handle extreme cold temperatures?",
-                "answer": "The version of 80bar guarantees a reliable operation even in these challenging conditions, ensuring that the controller can maintain accurate oil level readings and perform reliably.",
-                "difficulty": "advanced",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            },
-            {
-                "question": "What is the significance of ATEX certification for industrial applications of TK3+ 130bar CO2 Oil Level Controller?",
-                "answer": "The ATEX certification ensures that the TK3+ 130bar CO2 Oil Level Controller meets the highest standards for safety and reliability in industrial environments, providing peace of mind for operators and ensuring compliance with regulatory requirements.",
-                "difficulty": "advanced",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            }
-        ],
-        "natural_questions": [
-            "What is the maximum pressure range for TK3+ 130bar CO2 Oil Level Controller?",
-            "Which refrigerants are compatible with TK3+ 130bar CO2 Oil Level Controller?"
-        ],
-        "summary": "The TK3+ 130bar CO2 Oil Level Controller offers reliable operation in high-pressure applications, ensuring accurate oil level readings and maintaining safety standards.",
-        "domain_metadata": {
-            "product_family": "Comparazione Prodotti",
-            "pressure_class": "130bar",
-            "refrigerants": [
-                "CO2",
-                "R744"
-            ],
-            "certifications": [
-                "ATEX",
-                "CE",
-                "UL"
-            ],
-            "communication": [
-                "MODBUS RTU"
-            ],
-            "application_type": [
-                "compressor"
-            ]
-        },
-        "applications": [],
-        "compatibility": [],
-        "certifications": [
-            "ATEX",
-            "CE",
-            "UL"
-        ],
-        "difficulty_level": "technical",
-        "content_type": "product_specification",
-        "target_audience": [
-            "HVAC engineers",
-            "refrigeration technicians",
-            "system integrators"
-        ],
-        "importance": 0.85,
-        "relevance": 8,
-        "language": "en"
+  "id": "teklab_chunk_002_004_TK3+_130bar_CO2_Oil_Level_Controller",
+  "original_text": "ideal choice for subcritical CO2 systems, where pressures are intrinsically higher than HFC systems. In addition, it is strongly recommended for plants that use standard refrigerants but are installed in geographical areas with very cold climates. A low external temperatures, condensation pressure can drop considerably, increasing the pressure difference between the oil line and the carter. Under these conditions, a 46 bar regulator may not have enough force to open the valve. The 80 bar version ensures reliable operation even in these more challenging situations, offering a higher safety margin.\", 'when_choose it': 'Choose this version for systems at CO2 subcritical, plants in cold climates, or industrial applications where operating pressures are higher than the norm but do not reach the peaks of transcritical systems.'}, {'model': '_TECH13__ 130 bar', 'pressure_maximum_differential': '130 bar (1885 psi) 'ideal application': 'Systems at __TECH41_ (R744) in transcritical configuration.",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an expert in technologyAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications. LANGUAGE ADAPTATION - _TECH37__BSOLUTE PRIORITY: **CRITICAL**: ALW_AYS respond in the EXACT SAME LANGUAGE as the user's question. L_TECH37__NGU__TECH37_GE RULES (M_TECH37_ND__TECH37_vari_TORY: __User writes in Italian → You respond 100% in English → You respond 100% in German VER mix languages in a single response STYLE (all languages): - Technical but accessible (avoid excessive jargon) - Consultative and solution-oriented - Precise and data-driven (cite specifications) - Professional yet friendly - Focus on PRACTIC_AL APPLICATION and PROBLEM SOLVING HOW TO RESPOND: 1. Answer DIRECTLY with product recommendation or solution 2. Explain WHY this is the right choice (technical justification) 3. Provide KEY SPECIFICATIONS relevant to the application 4. Give INSTALLATION/CONFIGURATION guidance when relevant 5. Suggest alternatives or additional considerations 6. Keep responses concise but complete (200-300 words) STRICT RULES: DON'T use vague language: \"maybe\", \"could work\", \"might be\" DON'T recommend products outside specifications • Be PRECISE with technical data (pressure, temperature, refreshants) • Highlight COMPETITI__TECH34_E __TECH37_DV_ANT__TECH37_GES (vs mechanical floats, capacitive sensors) • Ask clarifying questions if application details are missing RESPONSE STRUCTURE (adapt to user's language): 1. Direct recommendation (product model + key reason) 2. Technical justification (why this model fits the specs) 3. Key features/advantages for this application 4. Installation/configuration notes (if relevant) 5. Follow-up considerations or alternatives PRODUCT CATEGORIES YOU SUPPORT: - Oil Level Controllers (TK1+, __TECH13_, __TECH16_ series - standard and MODBUS) - Liquid Level Sensors (_TECH20_, __TECH25_, __TECH9_, __TECH2_ series) - ATEX-certified sensors (explosive environments) - Infrared electro-optic sensors (plastic and metallic) - A_dapters and accessories (Rotalock, various flanges types) CORE TECHNOLOGY: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21___, various flanges types -Techology: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21_oCurationalCuration CRITICAL REMINDER: Response ONLY in the user's question language. Provides accurate technical specifications. No exceptions."
+    },
+    {
+      "role": "user",
+      "content": "Technical documentation context (Teklab industrial products): [Product Comparison] - TK3+ 130bar CO2 Oil Level Controller Key Specifications: Primary product feature or specification, Maximum pressure range and its significance, Temperature limits for safe operation, Refrigerating compatibility and safety considerations, Importance of __TECH18_ certification for industrial applications The version of 80bar guarantees a reliable operation even in these challenging conditions. Complete technical text: ideal choice for subcritical CO2 systems, where pressures are intrinsically higher than HFC systems. In addition, it is strongly recommended for plants that use standard refrigerants but are installed in geographical areas with very cold climates. A low external temperatures, condensation pressure can drop considerably, increasing the pressure difference between the oil line and the carter. Under these conditions, a 46 bar regulator may not have enough force to open the valve. The 80 bar version ensures reliable operation even in these more challenging situations, offering a higher safety margin.\", 'when_choose it': 'Choose this version for systems at CO2 subcritical, plants in cold climates, or industrial applications where operating pressures are higher than the norm but do not reach the peaks of transcritical systems.'}, {'model': '_TECH13__ 130 bar', 'pressure_maximum_differential': '130 bar (1885 psi) 'ideal application': 'Systems at __TECH41_ (R744) in transcritical configuration. --- Question: What is the maximum pressure range for TK3+ 130bar CO2 Oil Level Controller? Response as an expert Teklab technical sales assistant: - Provide accurate technical specifications - Explain product features and applications clearly - Give installation and configuration guidance - Focus on PRACTICAL IMPLEMENTATION and compatibility - Cite pressure ranges, temperatures, certificates when relevant"
+    },
+    {
+      "role": "assistant",
+      "content": "The TK3+ 130bar CO2 Oil Level Controller offers reliable operation in high-pressure applications, ensuring accurate oil level readings and maintaining safety standards."
     }
+  ],
+  "metadata": {
+    "chunk_id": "teklab_chunk_002_004_TK3+_130bar_CO2_Oil_Level_Controller",
+    "file_index": 2,
+    "file_source": "All_Categories",
+    "chunk_number": 4,
+    "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+    "manufacturer": "Teklab S.r.l.",
+    "document_type": "Technical Documentation",
+    "product_category": "Comparazione Prodotti",
+    "key_concepts": [
+      "Primary product feature or specification",
+      "Maximum pressure range and its significance",
+      "Temperature limits for safe operation",
+      "Refrigerant compatibility and safety considerations",
+      "Importance of ATEX certification for industrial applications"
+    ],
+    "keywords_primary": [
+      "product_model (TK3+)",
+      "product_model (ATEX)",
+      "pressure_range (46 bar)",
+      "pressure_range (80 bar)",
+      "pressure_range (130 bar)"
+    ],
+    "keywords_synonyms": {
+      "TK3+": [
+        "oil level regulator",
+        "OLR",
+        "level controller"
+      ]
+    },
+    "keywords_relations": {
+      "compatible_refrigerants": [
+        "HFC",
+        "CO2",
+        "R744"
+      ],
+      "pressure_ratings": [
+        "46 bar",
+        "80 bar",
+        "130 bar"
+      ],
+      "communication": [
+        "MODBUS"
+      ],
+      "typical_applications": [
+        "CO2 transcritical systems"
+      ]
+    },
+    "iconic_quotes": [
+      "When operating in extreme cold temperatures, a regulator with sufficient pressure may not be able to open the valve.",
+      "The version of 80bar guarantees a reliable operation even in these challenging conditions."
+    ],
+    "qa_pairs": [
+      {
+        "question": "What is the maximum pressure range for TK3+ 130bar CO2 Oil Level Controller?",
+        "answer": "The TK3+ 130bar CO2 Oil Level Controller supports a maximum pressure range of 130bar, which ensures reliable operation even in high-pressure applications.",
+        "difficulty": "intermediate",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      },
+      {
+        "question": "What temperature limits should be considered for safe operation of TK3+ 130bar CO2 Oil Level Controller?",
+        "answer": "The recommended operating temperature range for the TK3+ 130bar CO2 Oil Level Controller is -40°C to +125°C, ensuring reliable performance and safety.",
+        "difficulty": "beginner",
+        "intent": [
+          "application_design",
+          "troubleshooting"
+        ]
+      },
+      {
+        "question": "Which refrigerants are compatible with TK3+ 130bar CO2 Oil Level Controller?",
+        "answer": "The TK3+ 130bar CO2 Oil Level Controller is designed to work with CO2 (R744) and other standard refrigerants, ensuring safe and reliable operation.",
+        "difficulty": "intermediate",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      },
+      {
+        "question": "What ATEX certification does for industrial applications of TK3+ 130bar CO2 Oil Level Controller?",
+        "answer": "The ATEX certification ensures that the TK3+ 130bar CO2 Oil Level Controller meets the highest standards for safety and reliability in industrial environments.",
+        "difficulty": "advanced",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      },
+      {
+        "question": "How does the MODBUS protocol affect the operation of TK3+ 130bar CO2 Oil Level Controller?",
+        "answer": "The MODBUS protocol enables seamless communication and control of the TK3+ 130bar CO2 Oil Level Controller, ensuring efficient operation in industrial settings.",
+        "difficulty": "intermediate",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      },
+      {
+        "question": "What is the recommended installation procedure for TK3+ 130bar CO2 Oil Level Controller?",
+        "answer": "The recommended installation procedure involves mounting the controller in a secure location, connecting it to the relevant sensors and actuators, and configuring the MODBUS protocol for communication.",
+        "difficulty": "intermediate",
+        "intent": [
+          "installation",
+          "troubleshooting"
+        ]
+      },
+      {
+        "question": "How does the TK3+ 130bar CO2 Oil Level Controller handle extreme cold temperatures?",
+        "answer": "The version of 80bar guarantees a reliable operation even in these challenging conditions, ensuring that the controller can maintain accurate oil level readings and perform reliably.",
+        "difficulty": "advanced",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      },
+      {
+        "question": "What is the significance of ATEX certification for industrial applications of TK3+ 130bar CO2 Oil Level Controller?",
+        "answer": "The ATEX certification ensures that the TK3+ 130bar CO2 Oil Level Controller meets the highest standards for safety and reliability in industrial environments, providing peace of mind for operators and ensuring compliance with regulatory requirements.",
+        "difficulty": "advanced",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      }
+    ],
+    "natural_questions": [
+      "What is the maximum pressure range for TK3+ 130bar CO2 Oil Level Controller?",
+      "Which refrigerants are compatible with TK3+ 130bar CO2 Oil Level Controller?"
+    ],
+    "summary": "The TK3+ 130bar CO2 Oil Level Controller offers reliable operation in high-pressure applications, ensuring accurate oil level readings and maintaining safety standards.",
+    "domain_metadata": {
+      "product_family": "Comparazione Prodotti",
+      "pressure_class": "130bar",
+      "refrigerants": [
+        "CO2",
+        "R744"
+      ],
+      "certifications": [
+        "ATEX",
+        "CE",
+        "UL"
+      ],
+      "communication": [
+        "MODBUS RTU"
+      ],
+      "application_type": [
+        "compressor"
+      ]
+    },
+    "applications": [],
+    "compatibility": [],
+    "certifications": [
+      "ATEX",
+      "CE",
+      "UL"
+    ],
+    "difficulty_level": "technical",
+    "content_type": "product_specification",
+    "target_audience": [
+      "HVAC engineers",
+      "refrigeration technicians",
+      "system integrators"
+    ],
+    "importance": 0.85,
+    "relevance": 8,
+    "language": "en"
+  }
 }

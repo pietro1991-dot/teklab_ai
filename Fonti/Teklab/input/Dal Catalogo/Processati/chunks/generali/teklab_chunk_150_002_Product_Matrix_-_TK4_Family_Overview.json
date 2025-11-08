@@ -1,0 +1,94 @@
+{
+    "id": "teklab_chunk_150_002_Product_Matrix_-_TK4_Family_Overview",
+    "original_text": "TK4 Family - Advanced Oil Level Regulator with NFC Configuration\n\nBase Technology: Same IR optical technology as TK3+ PLUS NFC wireless configuration\n\nPressure Variants:\n- TK4 Standard (46 bar) - Standard refrigeration\n- TK4 HP (90 bar) - High pressure systems\n- TK4 CO2 (130 bar) - CO2 transcritical applications\n\nConnectivity Variants:\n- TK4 Base - NFC configuration + relay output\n- TK4 MB (MODBUS) - NFC configuration + MODBUS RTU RS485 + advanced diagnostics\n\nUnique Features vs TK3+:\n- NFC wireless configuration via smartphone app (no need to power the device)\n- Advanced diagnostics with historical data logging\n- Parameter adjustment without opening electrical panel\n- Remote troubleshooting capabilities\n- All TK3+ features included\n\nWhen to Choose TK4 over TK3+:\n- Multiple units to configure (NFC speeds up commissioning)\n- Need advanced diagnostics and predictive maintenance\n- Want smartphone-based parameter adjustment\n- MODBUS + comprehensive diagnostics required\n- Higher initial investment justified by maintenance savings",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application.\n\nSTYLE: Technical but accessible, consultative and solution-oriented, precise and data-driven.\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors\n- Specialized sensors (K11, K25)"
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab Product Matrix):\n\n[Product Matrix] - TK4 Family - Advanced Oil Level Regulator with NFC wireless configuration and diagnostics\nKey Specifications: 3 pressure variants (46, 90, 130 bar), NFC wireless configuration, Advanced diagnostics, MODBUS RTU option, All TK3+ features included\n📌 Important Details: TK4 adds NFC wireless configuration via smartphone (no power needed) | TK4 MB includes advanced diagnostics with historical data logging | TK4 is ideal for multiple unit installations where NFC speeds commissioning\n\nComplete technical text:\nTK4 Family - Advanced Oil Level Regulator with NFC Configuration\n\nBase Technology: Same IR optical technology as TK3+ PLUS NFC wireless configuration\n\nPressure Variants:\n- TK4 Standard (46 bar) - Standard refrigeration\n- TK4 HP (90 bar) - High pressure systems\n- TK4 CO2 (130 bar) - CO2 transcritical applications\n\nConnectivity Variants:\n- TK4 Base - NFC configuration + relay output\n- TK4 MB (MODBUS) - NFC configuration + MODBUS RTU RS485 + advanced diagnostics\n\nUnique Features vs TK3+:\n- NFC wireless configuration via smartphone app (no need to power the device)\n- Advanced diagnostics with historical data logging\n- Parameter adjustment without opening electrical panel\n- Remote troubleshooting capabilities\n- All TK3+ features included\n\nWhen to Choose TK4 over TK3+:\n- Multiple units to configure (NFC speeds up commissioning)\n- Need advanced diagnostics and predictive maintenance\n- Want smartphone-based parameter adjustment\n- MODBUS + comprehensive diagnostics required\n- Higher initial investment justified by maintenance savings\n\n---\n\nQuestion: What's the difference between TK3+ and TK4?\n\nRespond as an expert Teklab technical sales assistant with accurate product specifications."
+        },
+        {
+            "role": "assistant",
+            "content": "TK4 adds NFC wireless configuration via smartphone and advanced diagnostics to the proven TK3+ platform. The key advantages are: parameter adjustment without opening panels, historical data logging, faster commissioning for multiple units, and remote troubleshooting capabilities."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_150_002_Product_Matrix_-_TK4_Family_Overview",
+        "file_index": 150,
+        "file_source": "Product_Matrix",
+        "chunk_number": 2,
+        "chunk_title": "Product Matrix - TK4 Family Overview",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Product Selection Guide",
+        "product_category": "Generali",
+        "key_concepts": [
+            "TK4 with NFC wireless configuration",
+            "TK4 advanced diagnostics and data logging",
+            "TK4 vs TK3+ comparison",
+            "Smartphone-based parameter adjustment",
+            "Predictive maintenance capabilities"
+        ],
+        "keywords_primary": [
+            "TK4",
+            "TK4 Standard",
+            "TK4 HP",
+            "TK4 CO2",
+            "TK4 Base",
+            "TK4 MB",
+            "NFC",
+            "NFC configuration",
+            "advanced diagnostics",
+            "smartphone app",
+            "46 bar",
+            "90 bar",
+            "130 bar"
+        ],
+        "keywords_synonyms": {
+            "TK4": ["TK4 with NFC", "advanced TK controller"],
+            "NFC configuration": ["wireless configuration", "contactless setup"],
+            "advanced diagnostics": ["data logging", "historical data", "predictive maintenance"],
+            "TK4 MB": ["TK4 MODBUS", "TK4 with diagnostics"]
+        },
+        "keywords_relations": {
+            "pressure_variants": ["46 bar", "90 bar", "130 bar"],
+            "connectivity": ["NFC", "MODBUS RTU RS485", "relay output"],
+            "unique_features": ["wireless configuration", "smartphone app", "diagnostics", "data logging"],
+            "comparison": ["TK3+ vs TK4", "when to choose TK4"]
+        },
+        "iconic_quotes": [
+            "TK4 adds NFC wireless configuration via smartphone app with no need to power the device",
+            "TK4 MB includes MODBUS RTU RS485 plus advanced diagnostics with historical data logging",
+            "Choose TK4 when you need smartphone-based parameter adjustment without opening electrical panels",
+            "TK4 is ideal for multiple unit installations where NFC speeds up commissioning"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What's the main difference between TK3+ and TK4?",
+                "answer": "TK4 adds NFC wireless configuration via smartphone and advanced diagnostics capabilities to the proven TK3+ platform. You can adjust parameters without opening panels, view historical data, and troubleshoot remotely. All TK3+ features are included.",
+                "difficulty": "beginner",
+                "intent": ["product_comparison", "product_selection"]
+            },
+            {
+                "question": "When should I choose TK4 over TK3+?",
+                "answer": "Choose TK4 when you have multiple units to configure (NFC speeds commissioning), need advanced diagnostics for predictive maintenance, want smartphone-based adjustments, or require MODBUS with comprehensive diagnostics. The higher cost is justified by maintenance savings.",
+                "difficulty": "intermediate",
+                "intent": ["product_selection", "application_design"]
+            },
+            {
+                "question": "Does TK4 require power for NFC configuration?",
+                "answer": "No, TK4's NFC configuration works without powering the device. You can configure parameters using a smartphone app via wireless NFC communication, making commissioning faster and safer.",
+                "difficulty": "intermediate",
+                "intent": ["technical_specification", "installation"]
+            },
+            {
+                "question": "What diagnostics does TK4 MB provide?",
+                "answer": "TK4 MB provides advanced diagnostics including historical data logging, alarm history, operating hours, valve cycle counts, and real-time status monitoring. This enables predictive maintenance and faster troubleshooting compared to standard TK3+ models.",
+                "difficulty": "advanced",
+                "intent": ["technical_specification", "maintenance"]
+            }
+        ]
+    }
+}

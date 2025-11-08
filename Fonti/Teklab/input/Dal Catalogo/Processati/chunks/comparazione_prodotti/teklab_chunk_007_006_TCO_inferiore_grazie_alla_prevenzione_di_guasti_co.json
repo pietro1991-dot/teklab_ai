@@ -32,14 +32,41 @@
             "Sicurezza dell'intero impianto"
         ],
         "keywords_primary": [
-            "TCO",
-            "guasto",
-            "manutenzione",
-            "affidabilità",
-            "sicurezza"
+            "product_model (TK3+)",
+            "refrigerant (CO2)",
+            "application (oil level, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Il principale vantaggio di un regolatore meccanico è il suo basso costo di acquisto.",
             "Tuttavia, questo risparmio iniziale è spesso annullato al primo grave problema non diagnosticato,"

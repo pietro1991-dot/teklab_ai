@@ -34,16 +34,48 @@
             "Maximum temperature range from -40°C to +125°C"
         ],
         "keywords_primary": [
-            "K25 Level Switch",
-            "High Pressure environments",
-            "4-20mA analog temperature output",
-            "150 Bar pressure resistance",
-            "CO2 systems compatibility",
-            "Infrared-ray emitter and optical receiver",
-            "Glass dome material"
+            "product_model (K25)",
+            "pressure_range (150 bar)",
+            "refrigerant (CO2)",
+            "feature (optical, NPN)",
+            "application (level switch, transcritical)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "optical": [
+                "electro-optic",
+                "opto-electronic",
+                "infrared"
+            ],
+            "level switch": [
+                "level sensor",
+                "oil sensor",
+                "switch sensor"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "150 bar"
+            ],
+            "communication": [
+                "digital"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "The sensor contains an infrared-ray emitter and an optical receiver.",
             "When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence."

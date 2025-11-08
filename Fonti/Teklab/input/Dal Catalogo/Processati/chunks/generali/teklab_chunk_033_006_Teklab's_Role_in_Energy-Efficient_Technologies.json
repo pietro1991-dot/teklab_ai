@@ -32,13 +32,32 @@
             "Evaporator management"
         ],
         "keywords_primary": [
-            "Teklab Evaporator Management",
-            "Energy consumption reduction",
-            "Refrigerant charge decrease",
-            "System complexity reduction",
-            "European Innovation Council (EIC) Accelerator"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "application (oil level, refrigeration)"
         ],
-        "keywords_synonyms": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
         "keywords_relations": {},
         "iconic_quotes": [
             "This initiative aimed to develop an innovative system for optimizing evaporator performance in refrigeration and air conditioning, targeting a 15% reduction in energy consumption,"

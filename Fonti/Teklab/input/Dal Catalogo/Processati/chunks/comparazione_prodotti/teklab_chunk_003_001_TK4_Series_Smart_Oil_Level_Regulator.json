@@ -1,108 +1,136 @@
 {
-    "id": "teklab_chunk_003_001_TK4_Series_Smart_Oil_Level_Regulator",
-    "original_text": "titolo_comparazione: Analisi Comparativa della Famiglia di Regolatori Olio TK4: TK4 vs TK4MB\nprodotto_principale: TK4 Series\nintroduzione: La serie TK4 rappresenta l'evoluzione dei regolatori di livello olio, introducendo funzionalità smart per la configurazione e la diagnostica. Sebbene entrambi i modelli, TK4 e TK4MB, condividano la stessa robusta piattaforma meccanica e le stesse varianti di pressione (46, 80, 130 bar), la loro differenza fondamentale risiede nelle capacità di comunicazione. Questa scelta definisce il loro ambito di applicazione, da unità stand-alone avanzate a componenti pienamente integrati in sistemi di supervisione centralizzati (BMS/SCADA).",
-    "messages": [
-        {
-            "role": "system",
-            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
-        },
-        {
-            "role": "user",
-            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK4 Series Smart Oil Level Regulator\nKey Specifications: Smart oil level regulation with advanced configuration and diagnostics, Different communication protocols for various applications, Robust mechanical platform and pressure variants, Integration with supervisory control and data acquisition (SCADA) systems, ATEX certification for safe operation in hazardous environments\n📌 Important Details: La serie TK4 rappresenta l'evoluzione dei regolatori di livello olio, introducendo funzionalità smart per la configurazione e la diagnostica. | Questo scelta definisce il loro ambito di applicazione, da unità stand-alone avanzate a componenti pienamente integrati in sistemi di supervisione centralizzati (BMS/SCADA).\n\nComplete technical text:\ntitolo_comparazione: Analisi Comparativa della Famiglia di Regolatori Olio TK4: TK4 vs TK4MB\nprodotto_principale: TK4 Series\nintroduzione: La serie TK4 rappresenta l'evoluzione dei regolatori di livello olio, introducendo funzionalità smart per la configurazione e la diagnostica. Sebbene entrambi i modelli, TK4 e TK4MB, condividano la stessa robusta piattaforma meccanica e le stesse varianti di pressione (46, 80, 130 bar), la loro differenza fondamentale risiede nelle capacità di comunicazione. Questa scelta definisce il loro ambito di applicazione, da unità stand-alone avanzate a componenti pienamente integrati in sistemi di supervisione centralizzati (BMS/SCADA).\n\n---\n\nQuestion: What is the maximum pressure range for TK4 Series?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
-        },
-        {
-            "role": "assistant",
-            "content": "The TK4 Series is a smart oil level regulator that offers advanced configuration and diagnostics, making it suitable for various applications."
-        }
-    ],
-    "metadata": {
-        "chunk_id": "teklab_chunk_003_001_TK4_Series_Smart_Oil_Level_Regulator",
-        "file_index": 3,
-        "file_source": "All_Categories",
-        "chunk_number": 1,
-        "chunk_title": "TK4 Series Smart Oil Level Regulator",
-        "manufacturer": "Teklab S.r.l.",
-        "document_type": "Technical Documentation",
-        "product_category": "Comparazione Prodotti",
-        "key_concepts": [
-            "Smart oil level regulation with advanced configuration and diagnostics",
-            "Different communication protocols for various applications",
-            "Robust mechanical platform and pressure variants",
-            "Integration with supervisory control and data acquisition (SCADA) systems",
-            "ATEX certification for safe operation in hazardous environments"
-        ],
-        "keywords_primary": [
-            "TK4 Series",
-            "Smart oil level regulation",
-            "MODBUS RTU communication protocol",
-            "ATEX certification",
-            "pressure variants (46bar, 80bar, 130bar)"
-        ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
-        "iconic_quotes": [
-            "La serie TK4 rappresenta l'evoluzione dei regolatori di livello olio, introducendo funzionalità smart per la configurazione e la diagnostica.",
-            "Questo scelta definisce il loro ambito di applicazione, da unità stand-alone avanzate a componenti pienamente integrati in sistemi di supervisione centralizzati (BMS/SCADA)."
-        ],
-        "qa_pairs": [
-            {
-                "question": "What is the maximum pressure range supported by the TK4 Series?",
-                "answer": "The TK4 Series supports pressure variants of 46bar, 80bar, and 130bar. The choice of pressure variant depends on the specific application and requirements.",
-                "difficulty": "intermediate",
-                "intent": [
-                    "product_selection",
-                    "technical_specification"
-                ]
-            },
-            {
-                "question": "How does the TK4 Series communicate with SCADA systems?",
-                "answer": "The TK4 Series uses MODBUS RTU communication protocol for integration with supervisory control and data acquisition (SCADA) systems. This allows for remote monitoring and control of the oil level regulator.",
-                "difficulty": "advanced",
-                "intent": [
-                    "installation",
-                    "integration"
-                ]
-            }
-        ],
-        "natural_questions": [
-            "What is the maximum pressure range for TK4 Series?",
-            "How does TK4 Series communicate with SCADA?"
-        ],
-        "summary": "The TK4 Series is a smart oil level regulator that offers advanced configuration and diagnostics, making it suitable for various applications.",
-        "domain_metadata": {
-            "product_family": "Comparazione Prodotti",
-            "pressure_class": "46bar / 80bar / 130bar",
-            "refrigerants": [
-                "R134a",
-                "R404A",
-                "R410A",
-                "CO2"
-            ],
-            "certifications": [
-                "ATEX",
-                "CE",
-                "UL"
-            ],
-            "communication": [
-                "MODBUS RTU"
-            ]
-        },
-        "applications": [],
-        "compatibility": [],
-        "certifications": [
-            "ATEX",
-            "CE",
-            "UL"
-        ],
-        "difficulty_level": "technical",
-        "content_type": "product_specification",
-        "target_audience": [
-            "HVAC engineers",
-            "refrigeration technicians",
-            "system integrators"
-        ],
-        "importance": 0.85,
-        "relevance": 8,
-        "language": "en"
+  "id": "teklab_chunk_003_001_TK4_Series_Smart_Oil_Level_Regulator",
+  "original_text": "title_comparation: AComparative Analysis of the Oil Regulatory Family TK4: TK4 vs TK4MB product_main: __TECH16_ Series introduction: The __TECH16_ series represents the evolution of oil level regulators, introducing smart functionality for configuration and diagnostics. Although both models, TK4 and TK4MB, share the same robust mechanical platform and pressure variants (46, 80, 130 __TECH39_), their fundamental difference lies in communication capabilities. This choice defines their scope, from advanced stand-alone units to fully integrated components in centralised supervision systems (BMS/SCADA).",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an expert in technologyAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications. LANGUAGE ADAPTATION - _TECH37__BSOLUTE PRIORITY: **CRITICAL**: ALW_AYS respond in the EXACT SAME LANGUAGE as the user's question. L_TECH37__NGU__TECH37_GE RULES (M_TECH37_ND__TECH37_vari_TORY: __User writes in Italian → You respond 100% in English → You respond 100% in German VER mix languages in a single response STYLE (all languages): - Technical but accessible (avoid excessive jargon) - Consultative and solution-oriented - Precise and data-driven (cite specifications) - Professional yet friendly - Focus on PRACTIC_AL APPLICATION and PROBLEM SOLVING HOW TO RESPOND: 1. Answer DIRECTLY with product recommendation or solution 2. Explain WHY this is the right choice (technical justification) 3. Provide KEY SPECIFICATIONS relevant to the application 4. Give INSTALLATION/CONFIGURATION guidance when relevant 5. Suggest alternatives or additional considerations 6. Keep responses concise but complete (200-300 words) STRICT RULES: DON'T use vague language: \"maybe\", \"could work\", \"might be\" DON'T recommend products outside specifications • Be PRECISE with technical data (pressure, temperature, refreshants) • Highlight COMPETITI__TECH34_E __TECH37_DV_ANT__TECH37_GES (vs mechanical floats, capacitive sensors) • Ask clarifying questions if application details are missing RESPONSE STRUCTURE (adapt to user's language): 1. Direct recommendation (product model + key reason) 2. Technical justification (why this model fits the specs) 3. Key features/advantages for this application 4. Installation/configuration notes (if relevant) 5. Follow-up considerations or alternatives PRODUCT CATEGORIES YOU SUPPORT: - Oil Level Controllers (TK1+, __TECH13_, __TECH16_ series - standard and MODBUS) - Liquid Level Sensors (_TECH20_, __TECH25_, __TECH9_, __TECH2_ series) - ATEX-certified sensors (explosive environments) - Infrared electro-optic sensors (plastic and metallic) - A_dapters and accessories (Rotalock, various flanges types) CORE TECHNOLOGY: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21___, various flanges types -Techology: - Electro-optic infrared (IR) detection - Fast response time (instantaneous) - High21_oCurationalCuration CRITICAL REMINDER: Response ONLY in the user's question language. Provides accurate technical specifications. No exceptions."
+    },
+    {
+      "role": "user",
+      "content": "Technical documentation context (Teklab industrial products): [Comparazione Prodotti] - _TECH16__ Series Smart Oil Level Regulator Key Specification: Smart oil level regulation with advanced configuration and diagnostics, Different communication protocols for various applications, Robust mechanical platform and pressure variables, Integration with supervision control and data acquisition (SCAD__TECH37_) systems, __TECH18_ certificate for safe operation in hazardous environments: The __TECH16_ series represents the evolution of oil level regulators, introducing smart functionality for configuration and diagnostics. This choice defines their scope, from advanced stand-alone units to fully integrated components in centralised supervision systems (BMS/SCADA). Complete technical text: title_comparation: AComparative Analysis of the Oil Regulatory Family TK4: TK4 vs TK4MB product_main: __TECH16_ Series introduction: The __TECH16_ series represents the evolution of oil level regulators, introducing smart functionality for configuration and diagnostics. Although both models, TK4 and TK4MB, share the same robust mechanical platform and pressure variants (46, 80, 130 __TECH39_), their fundamental difference lies in communication capabilities. This choice defines their scope, from advanced stand-alone units to fully integrated components in centralised supervision systems (BMS/SCADA). --- Question: What is the maximum pressure range for TK4 Series? Response as an expert Teklab technical sales assistant: - Provide accurate technical specifications - Explain product features and applications clearly - Give installation and configuration guidance - Focus on PRACTICAL IMPLEMENTATION and compatibility - Cite pressure ranges, temperatures, certificates when relevant"
+    },
+    {
+      "role": "assistant",
+      "content": "The TK4 Series is a smart oil level regulator that offers advanced configuration and diagnostics, making it suitable for various applications."
     }
+  ],
+  "metadata": {
+    "chunk_id": "teklab_chunk_003_001_TK4_Series_Smart_Oil_Level_Regulator",
+    "file_index": 3,
+    "file_source": "All_Categories",
+    "chunk_number": 1,
+    "chunk_title": "TK4 Series Smart Oil Level Regulator",
+    "manufacturer": "Teklab S.r.l.",
+    "document_type": "Technical Documentation",
+    "product_category": "Comparazione Prodotti",
+    "key_concepts": [
+      "Smart oil level regulation with advanced configuration and diagnostics",
+      "Different communication protocols for various applications",
+      "Robust mechanical platform and pressure variants",
+      "Integration with supervisory control and data acquisition (SCADA) systems",
+      "ATEX certification for safe operation in hazardous environments"
+    ],
+    "keywords_primary": [
+      "product_model (TK4)",
+      "product_model (TK4MB)",
+      "pressure_range (130 bar)",
+      "feature (MODBUS)",
+      "application (oil level)"
+    ],
+    "keywords_synonyms": {
+      "MODBUS": [
+        "Modbus RTU",
+        "RS485",
+        "fieldbus"
+      ],
+      "oil level": [
+        "level control",
+        "oil management",
+        "lubrication control"
+      ],
+      "TK4": [
+        "oil level regulator",
+        "OLR",
+        "level controller"
+      ],
+      "TK4MB": [
+        "oil level regulator",
+        "OLR",
+        "level controller"
+      ]
+    },
+    "keywords_relations": {
+      "pressure_ratings": [
+        "130 bar"
+      ],
+      "communication": [
+        "MODBUS"
+      ]
+    },
+    "iconic_quotes": [
+      "La serie TK4 rappresenta l'evoluzione dei regolatori di livello olio, introducendo funzionalità smart per la configurazione e la diagnostica.",
+      "Questo scelta definisce il loro ambito di applicazione, da unità stand-alone avanzate a componenti pienamente integrati in sistemi di supervisione centralizzati (BMS/SCADA)."
+    ],
+    "qa_pairs": [
+      {
+        "question": "What is the maximum pressure range supported by the TK4 Series?",
+        "answer": "The TK4 Series supports pressure variants of 46bar, 80bar, and 130bar. The choice of pressure variant depends on the specific application and requirements.",
+        "difficulty": "intermediate",
+        "intent": [
+          "product_selection",
+          "technical_specification"
+        ]
+      },
+      {
+        "question": "How does the TK4 Series communicate with SCADA systems?",
+        "answer": "The TK4 Series uses MODBUS RTU communication protocol for integration with supervisory control and data acquisition (SCADA) systems. This allows for remote monitoring and control of the oil level regulator.",
+        "difficulty": "advanced",
+        "intent": [
+          "installation",
+          "integration"
+        ]
+      }
+    ],
+    "natural_questions": [
+      "What is the maximum pressure range for TK4 Series?",
+      "How does TK4 Series communicate with SCADA?"
+    ],
+    "summary": "The TK4 Series is a smart oil level regulator that offers advanced configuration and diagnostics, making it suitable for various applications.",
+    "domain_metadata": {
+      "product_family": "Comparazione Prodotti",
+      "pressure_class": "46bar / 80bar / 130bar",
+      "refrigerants": [
+        "R134a",
+        "R404A",
+        "R410A",
+        "CO2"
+      ],
+      "certifications": [
+        "ATEX",
+        "CE",
+        "UL"
+      ],
+      "communication": [
+        "MODBUS RTU"
+      ]
+    },
+    "applications": [],
+    "compatibility": [],
+    "certifications": [
+      "ATEX",
+      "CE",
+      "UL"
+    ],
+    "difficulty_level": "technical",
+    "content_type": "product_specification",
+    "target_audience": [
+      "HVAC engineers",
+      "refrigeration technicians",
+      "system integrators"
+    ],
+    "importance": 0.85,
+    "relevance": 8,
+    "language": "en"
+  }
 }

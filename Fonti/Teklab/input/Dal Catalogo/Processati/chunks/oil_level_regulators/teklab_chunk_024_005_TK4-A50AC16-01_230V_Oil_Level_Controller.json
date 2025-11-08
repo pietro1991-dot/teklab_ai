@@ -32,14 +32,32 @@
             "Critical performance characteristic: response time"
         ],
         "keywords_primary": [
-            "product_model (TK4-A50AC16-01)",
-            "pressure_range (0-600bar)",
-            "temperature (-40°C to +125°C)",
-            "feature (ATEX, MODBUS)",
-            "application (compressor lubrication)"
+            "product_model (TK4)",
+            "product_model (ATEX)",
+            "application (oil level, level control, compressor)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "compressor": [
+                "refrigeration compressor",
+                "semi-hermetic",
+                "reciprocating"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "typical_applications": [
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "L = 110.3 cm, L1 = 37 cm",
             "Quotes in mm - L and L1 can vary depending on the adapter (see Adapters Addendum)"
@@ -47,7 +65,7 @@
         "qa_pairs": [
             {
                 "question": "What is the maximum pressure range supported by TK4-A50AC16-01?",
-                "answer": "The TK4-A50AC16-01 oil level controller supports a pressure range of 0-600bar. This makes it an ideal solution for compressor lubrication applications where precise control over pressure is critical.",
+                "answer": "The TK4-A50AC16-01 oil level controller supports a maximum pressure of 46 bar. This makes it an ideal solution for standard compressor lubrication applications where precise control over oil level is critical.",
                 "difficulty": "beginner",
                 "intent": [
                     "product_selection",
@@ -78,10 +96,10 @@
             "How does ATEX certification impact the safety of TK4-A50AC16-01?",
             "What is the response time of TK4-A50AC16-01?"
         ],
-        "summary": "The TK4-A50AC16-01 oil level controller is a reliable and safe solution for compressor lubrication applications. With its ATEX certification and fast response time, it provides optimal control over pressure and ensures the protection of equipment.",
+        "summary": "The TK4-A50AC16-01 oil level controller is a reliable and safe solution for compressor lubrication applications with a maximum pressure of 46 bar. With its ATEX certification and fast response time, it provides optimal control over pressure and ensures the protection of equipment.",
         "domain_metadata": {
             "product_family": "Oil Level Regulators",
-            "pressure_class": "0-600bar",
+            "pressure_class": "46bar",
             "refrigerants": [
                 "R134a",
                 "R404A"

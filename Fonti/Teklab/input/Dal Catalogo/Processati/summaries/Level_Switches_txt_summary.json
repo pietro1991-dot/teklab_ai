@@ -32,7 +32,7 @@
             "high pressure",
             "cable",
             "M12 connector",
-            "pressure_range (0-600bar)",
+            "pressure_range (46bar, 80bar, 130bar, 150bar)",
             "temperature (-40°C, +125°C)",
             "refrigerants (R134a, R404A, CO2)",
             "MODBUS RTU",
@@ -97,22 +97,22 @@
             "Integrated LED lights for level verification"
         ],
         "technical_specs": [
-            "Il nostro switch standard, ottimo rapporto qualità/prezzo",
-            "Tutti i nostri sensori di livello ottici condividono la stessa affidabile tecnologia a infrarossi senza parti in movimento",
-            "Versione per alta pressione del modello a cavo.",
-            "Il nostro switch standard, ottimo rapporto qualità/prezzo.",
-            "\"Sistemi a CO2 (transcritici) e alta pressione\"",
-            "\"Cavo (3 fili) / M12\"",
-            "\"Elimina la necessità di adattatori per connessioni Rotalock.\"",
-            "\"La famiglia LC è il cuore della nostra offerta di sensori di livello.\"",
-            "La Pressione è il Fattore Chiave",
-            "È il modello ideale per la maggior parte delle applicazioni di refrigerazione e condizionamento",
-            "È la scelta obbligata per i sistemi a CO2 transcritici",
-            "Identico all'LC-PS nel principio di funzionamento, ma costruito per resistere a pressioni molto più elevate",
-            "Identico all'LC-PS nel principio di funzionamento, ma costruito per resistere a pressioni molto più elevate.",
-            "Questi due modelli sono funzionalmente identici a LC-PS e LC-PH, rispettivamente.",
-            "Invece di un cavo precablato, utilizzano un connettore standard industriale EN 175301-803A.",
-            "Il TK1+ è un prodotto specializzato, progettato per un'applicazione molto specifica: sostituire gli indicatori di livello a vetro (sight-glass) sui carter dei compressori o sui serbatoi."
+            "Our standard switch, excellent quality/price ratio",
+            "All our optical level sensors share the same reliable infrared technology without moving parts",
+            "High-pressure version of the cable model.",
+            "Our standard switch, excellent quality/price ratio.",
+            "\"CO2 systems (transcritical) and high pressure\"",
+            "\"Cable (3 wires) / M12\"",
+            "\"Eliminates the need for adapters for Rotalock connections.\"",
+            "\"The LC family is the heart of our level sensor offering.\"",
+            "Pressure is the Key Factor",
+            "It is the ideal model for most refrigeration and air conditioning applications",
+            "It is the mandatory choice for transcritical CO2 systems",
+            "Identical to LC-PS in operating principle, but built to withstand much higher pressures",
+            "Identical to LC-PS in operating principle, but built to withstand much higher pressures.",
+            "These two models are functionally identical to LC-PS and LC-PH, respectively.",
+            "Instead of a pre-wired cable, they use a standard industrial connector EN 175301-803A.",
+            "The TK1+ is a specialized product, designed for a very specific application: replacing glass level indicators (sight-glass) on compressor crankcases or tanks."
         ],
         "natural_questions": [
             "What is the maximum pressure range supported by LC-PS?",
@@ -160,8 +160,8 @@
         "keywords_synonyms": {},
         "keywords_relations": {},
         "iconic_quotes": [
-            "Il nostro switch standard, ottimo rapporto qualità/prezzo",
-            "Tutti i nostri sensori di livello ottici condividono la stessa affidabile tecnologia a infrarossi senza parti in movimento"
+            "Our standard switch, excellent quality/price ratio",
+            "All our optical level sensors share the same reliable infrared technology without moving parts"
         ],
         "qa_pairs": [
             {

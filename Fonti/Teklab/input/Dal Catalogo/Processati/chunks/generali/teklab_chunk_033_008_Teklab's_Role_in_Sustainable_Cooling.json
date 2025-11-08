@@ -32,14 +32,78 @@
             "Eco-friendly initiatives"
         ],
         "keywords_primary": [
-            "Teklab",
-            "sustainable cooling",
-            "energy efficiency",
-            "market access",
-            "global events"
+            "product_model (TK1+)",
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (LC-PS)",
+            "product_model (LC-PH)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK1+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "LC-PS": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-PH": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XT": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "LC-XP": [
+                "level switch",
+                "oil sensor",
+                "level sensor"
+            ],
+            "K11": [
+                "universal sensor",
+                "configurable switch"
+            ],
+            "K25": [
+                "dual sensor",
+                "level+temp",
+                "2-in-1"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2",
+                "R744"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "100 bar",
+                "120 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "NFC",
+                "4-20mA"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "positioning it as a forward-thinking entity in the green technology space",
             "achieving UL recognition for the entire family of oil level regulators"

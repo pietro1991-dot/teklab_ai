@@ -30,12 +30,42 @@
             "Main application or use case"
         ],
         "keywords_primary": [
-            "product_model (e.g., TK3+)",
-            "pressure_range (e.g., 130bar)",
-            "temperature (e.g., -40°C, +125°C)"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "pressure_range (46 bar)",
+            "pressure_range (80 bar)",
+            "pressure_range (130 bar)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "80 bar",
+                "130 bar"
+            ],
+            "communication": [
+                "NFC"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "NH3 industrial refrigeration",
+                "compressor lubrication"
+            ]
+        },
         "iconic_quotes": [
             "Identico a TK3+, con aggiunta di NFC per accesso a dati e customizzazioni",
             "Puè utilizzato con diversi adattatori adatti a ogni modello di compressore per una compatibilità ampia"

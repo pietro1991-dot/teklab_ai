@@ -32,14 +32,43 @@
             "Critical performance characteristic"
         ],
         "keywords_primary": [
-            "product_model (e.g., TK3+)",
-            "pressure_range (130bar)",
-            "temperature (-40°C to +85°C)",
-            "feature (MODBUS, ATEX)",
-            "application (compressor, refrigeration)"
+            "product_model (TK3+)",
+            "product_model (TK4)",
+            "product_model (ATEX)",
+            "pressure_range (46 bar)",
+            "pressure_range (80 bar)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ],
+            "TK4": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "pressure_ratings": [
+                "46 bar",
+                "80 bar",
+                "100 bar"
+            ],
+            "communication": [
+                "MODBUS",
+                "relay"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems",
+                "compressor lubrication",
+                "rack systems"
+            ]
+        },
         "iconic_quotes": [
             "Pressione massima di lavoro (MWP): 46 bar, 80 bar o 130 bar;",
             "Temperatura media/ambiente: -40°C a +85°C (media), -40°C a +60°C (ambiente)."

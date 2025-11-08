@@ -12,7 +12,7 @@
         },
         {
             "role": "assistant",
-            "content": "The TK3+ 130bar CO2 oil level controller is a high-pressure oil level controller designed for use in applications where precise control over oil levels is critical. It supports a pressure range of 0-600bar and operates within a temperature range of -40°C to +125°C."
+            "content": "The TK3+ 130bar CO2 oil level controller is a high-pressure oil level controller designed for CO2 transcritical refrigeration systems where precise control over oil levels is critical. It supports a maximum pressure of 130 bar and operates within a temperature range of -40°C to +125°C."
         }
     ],
     "metadata": {
@@ -32,14 +32,40 @@
             "Critical performance characteristic"
         ],
         "keywords_primary": [
-            "TK3+",
-            "130bar CO2",
-            "oil level controller",
-            "pressure range",
-            "temperature limits"
+            "product_model (TK3+)",
+            "refrigerant (CO2)",
+            "application (oil level, level control, refrigeration)"
         ],
-        "keywords_synonyms": {},
-        "keywords_relations": {},
+        "keywords_synonyms": {
+            "CO2": [
+                "R744",
+                "carbon dioxide",
+                "transcritical"
+            ],
+            "oil level": [
+                "level control",
+                "oil management",
+                "lubrication control"
+            ],
+            "refrigeration": [
+                "cooling system",
+                "HVAC",
+                "cold chain"
+            ],
+            "TK3+": [
+                "oil level regulator",
+                "OLR",
+                "level controller"
+            ]
+        },
+        "keywords_relations": {
+            "compatible_refrigerants": [
+                "CO2"
+            ],
+            "typical_applications": [
+                "CO2 transcritical systems"
+            ]
+        },
         "iconic_quotes": [
             "Quotes in mm - L and L1 can vary depending on the adapter (see Adapters Addendum)",
             "Suggested ordering codes not include oil strainer element. Adapters must be ordered separately."
@@ -47,7 +73,7 @@
         "qa_pairs": [
             {
                 "question": "What is the pressure range supported by TK3+ 130bar?",
-                "answer": "The TK3+ 130bar CO2 oil level controller supports a pressure range of 0-600bar. This makes it suitable for use in high-pressure applications where precise control over oil levels is critical.",
+                "answer": "The TK3+ 130bar CO2 oil level controller supports a maximum pressure of 130 bar. This makes it specifically designed for CO2 transcritical refrigeration systems and high-pressure applications where precise control over oil levels is critical.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
@@ -77,7 +103,7 @@
             "What is the maximum pressure for TK3+ 130bar?",
             "Which refrigerants are compatible with TK3+ 130bar?"
         ],
-        "summary": "The TK3+ 130bar CO2 oil level controller is a high-pressure oil level controller designed for use in applications where precise control over oil levels is critical. It supports a pressure range of 0-600bar and operates within a temperature range of -40°C to +125°C.",
+        "summary": "The TK3+ 130bar CO2 oil level controller is a high-pressure oil level controller designed for CO2 transcritical refrigeration systems where precise control over oil levels is critical. It supports a maximum pressure of 130 bar and operates within a temperature range of -40°C to +125°C.",
         "domain_metadata": {
             "product_family": "Oil Level Regulators",
             "pressure_class": "130bar",
