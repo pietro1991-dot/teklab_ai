@@ -386,48 +386,84 @@ class TeklabAIChatbotOllama:
             if history_context:
                 full_prompt = f"{history_context}\n\n{full_prompt}"
         
-        # Genera risposta con Ollama
+        # Genera risposta con Ollama - SISTEMA MULTI-LIVELLO ADATTIVO
         try:
             print("⏳ Generazione in corso (Ollama)...", flush=True)
             start_generation = time.time()
             
-            # 🎯 GENERAZIONE COMPLETA in un solo colpo (no retry/continue)
-            # num_predict ALTO per evitare troncamenti
-            payload = {
-                "model": self.OLLAMA_MODEL,
-                "prompt": full_prompt,
-                "system": SYSTEM_PROMPT,
-                "stream": False,
-                "options": {
-                    "temperature": 0.6,
-                    "num_predict": 800,  # Token sufficienti per risposta completa
-                    "top_p": 0.85,
-                    "num_ctx": 4096,
-                    "repeat_penalty": 1.1,
-                    "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
+            # 🔄 SISTEMA ADATTIVO a 4 LIVELLI: 400 → 800 → 1200 → 1600
+            # CONTINUE MODE: ogni retry CONTINUA da dove si era fermato (no re-generazione)
+            num_predict_levels = [400, 400, 400, 400]  # Ogni livello aggiunge 400 token
+            current_level = 0
+            full_response = ""
+            done_reason = 'stop'
+            
+            while current_level < len(num_predict_levels):
+                num_predict = num_predict_levels[current_level]
+                
+                if current_level > 0:
+                    # CONTINUE MODE: notifica utente del continue
+                    print(f"\n   🔄 Continue generation (level {current_level + 1}/4, +{num_predict} token)...", end='', flush=True)
+                
+                # CONTINUE MODE: CRITICAL FIX
+                # Per far CONTINUARE (non ri-generare), costruiamo il prompt
+                # come se l'assistente avesse già iniziato a rispondere
+                if current_level > 0 and full_response:
+                    # Formato: mostra la risposta parziale come già scritta,
+                    # poi Ollama automaticamente continua da lì
+                    continue_prompt = f"""{full_prompt}
+
+TEKLAB ASSISTANT RESPONSE:
+{full_response}"""
+                    # Il modello vede la risposta parziale e continua naturalmente
+                else:
+                    continue_prompt = full_prompt
+                
+                # Chiama Ollama
+                payload = {
+                    "model": self.OLLAMA_MODEL,
+                    "prompt": continue_prompt,
+                    "system": SYSTEM_PROMPT,
+                    "stream": False,
+                    "options": {
+                        "temperature": 0.6,
+                        "num_predict": num_predict,  # 🔄 ADATTIVO: 400 token per livello
+                        "top_p": 0.85,
+                        "num_ctx": 4096,
+                        "repeat_penalty": 1.1,
+                        "stop": ["\n\n\n", "CUSTOMER:", "QUESTION:", "---"]
+                    }
                 }
-            }
-            
-            timeout = 240  # 4 minuti max
-            response = requests.post(self.OLLAMA_URL, json=payload, timeout=timeout)
-            response.raise_for_status()
-            
-            result = response.json()
-            assistant_message = result.get('response', '').strip()
-            done_reason = result.get('done_reason', 'stop')
-            
-            # Log se troncato
-            if done_reason == 'length':
-                print("\n⚠️  Risposta troncata a 800 token - considera di aumentare num_predict")
+                
+                timeout = 240  # 4 minuti max
+                response = requests.post(self.OLLAMA_URL, json=payload, timeout=timeout)
+                response.raise_for_status()
+                
+                result = response.json()
+                chunk_response = result.get('response', '').strip()
+                done_reason = result.get('done_reason', 'stop')
+                
+                # APPEND alla risposta completa
+                full_response += chunk_response
+                
+                # Check se completato o troncato
+                if done_reason == 'length' and current_level < len(num_predict_levels) - 1:
+                    # Troncato! CONTINUA al livello successivo
+                    current_level += 1
+                    continue
+                else:
+                    # Completato o ultimo livello raggiunto
+                    break
             
             generation_time = time.time() - start_generation
             total_time = time.time() - start_total
+            total_tokens_used = sum(num_predict_levels[:current_level + 1])
             
             # Salva in conversazione
             self.conversation_history.append({
                 "timestamp": datetime.now().isoformat(),
                 "user": user_message,
-                "assistant": assistant_message,
+                "assistant": full_response,
                 "rag_context": rag_context,
                 "retrieved_chunks": retrieved_chunks,
                 "timing_metrics": {
@@ -435,13 +471,15 @@ class TeklabAIChatbotOllama:
                     "generation_time": round(generation_time, 3),
                     "total_time": round(total_time, 3)
                 },
-                "generation_mode": "single_shot",  # Generazione completa in un colpo
-                "num_predict": 800,
+                "generation_mode": "adaptive_multi_level",  # 🔄 NUOVO: generazione adattiva
+                "num_predict_levels": num_predict_levels,
+                "levels_used": current_level + 1,
+                "total_tokens_budget": total_tokens_used,
                 "done_reason": done_reason,
                 "engine": "ollama"
             })
             
-            return assistant_message
+            return full_response
             
         except Exception as e:
             import traceback
@@ -534,12 +572,11 @@ class TeklabAIChatbotOllama:
                                 print(f"      {i}. [Q&A]   {question[:45]}... | sim={sim:.3f}")
                     
                     # Metriche generazione adattiva
-                    adaptive = last_turn.get('adaptive_generation', {})
-                    num_predict_used = adaptive.get('num_predict_used', 0)
-                    level = adaptive.get('level_reached', 1)
-                    retries = adaptive.get('retries', 0)
+                    levels_used = last_turn.get('levels_used', 1)
+                    total_tokens = last_turn.get('total_tokens_budget', 0)
+                    retries = levels_used - 1
                     
-                    adaptive_info = f"livello {level}/4 ({num_predict_used} token)"
+                    adaptive_info = f"livello {levels_used}/4 ({total_tokens} token)"
                     if retries > 0:
                         adaptive_info += f" 🔄 +{retries} retry"
                     
