@@ -1,0 +1,107 @@
+{
+    "id": "teklab_chunk_002_002_TK3+_46bar_Oil_Level_Controller",
+    "original_text": "Questa pressione rappresenta la differenza massima tra la linea dell'olio ad alta pressione e il carter del compressore a bassa pressione contro cui la valvola solenoide del TK3+ può operare efficacemente. La scelta della variante corretta è fondamentale per assicurare il corretto rabbocco dell'olio e la protezione del compressore.\nvarianti: [{'modello': 'TK3+ 46 bar', 'pressione_massima_differenziale': '46 bar (667 psi)', 'applicazione_ideale': 'Sistemi di refrigerazione standard con refrigeranti HFC/HFO in media temperatura. È la scelta più comune per supermercati, celle frigorifere e applicazioni commerciali dove la differenza di pressione tra alta e bassa non raggiunge valori estremi.', 'descrizione_dettagliata': \"La versione da 46 bar è il cavallo di battaglia della famiglia TK3+. È progettata per la grande maggioranza degli impianti di refrigerazione commerciale che utilizzano refrigeranti tradizionali come R404A, R134a, R448A, R449A, ecc. In questi sistemi, la pressione nel serbatoio dell'olio (collegato al lato di alta pressione) è tipicamente ben al di sotto di questa soglia rispetto alla pressione nel carter del compressore. Questa variante offre un equilibrio perfetto tra prestazioni e costo, garantendo un rabbocco dell'olio affidabile in condizioni operative normali.",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK3+ 46bar Oil Level Controller\nKey Specifications: Primary product feature or specification: Pressure range and temperature limits, Key technical parameter or capability: MODBUS communication protocol, Main application or use case: Compressor lubrication and refrigerant level control, Important compatibility or standard: ATEX certification for hazardous areas, Critical performance characteristic: Response time and accuracy\n📌 Important Details: La versione da 46 bar è il cavallo di battaglia della famiglia TK3+. | Questa variante offre un equilibrio perfetto tra prestazioni e costo, garantendo un rabbocco dell'olio affidabile in condizioni operative normali.\n\nComplete technical text:\nQuesta pressione rappresenta la differenza massima tra la linea dell'olio ad alta pressione e il carter del compressore a bassa pressione contro cui la valvola solenoide del TK3+ può operare efficacemente. La scelta della variante corretta è fondamentale per assicurare il corretto rabbocco dell'olio e la protezione del compressore.\nvarianti: [{'modello': 'TK3+ 46 bar', 'pressione_massima_differenziale': '46 bar (667 psi)', 'applicazione_ideale': 'Sistemi di refrigerazione standard con refrigeranti HFC/HFO in media temperatura. È la scelta più comune per supermercati, celle frigorifere e applicazioni commerciali dove la differenza di pressione tra alta e bassa non raggiunge valori estremi.', 'descrizione_dettagliata': \"La versione da 46 bar è il cavallo di battaglia della famiglia TK3+. È progettata per la grande maggioranza degli impianti di refrigerazione commerciale che utilizzano refrigeranti tradizionali come R404A, R134a, R448A, R449A, ecc. In questi sistemi, la pressione nel serbatoio dell'olio (collegato al lato di alta pressione) è tipicamente ben al di sotto di questa soglia rispetto alla pressione nel carter del compressore. Questa variante offre un equilibrio perfetto tra prestazioni e costo, garantendo un rabbocco dell'olio affidabile in condizioni operative normali.\n\n---\n\nQuestion: What is the maximum pressure range supported by TK3+ 46bar?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The TK3+ 46bar oil level controller is a reliable and efficient solution for commercial refrigeration systems, featuring a maximum pressure range of 46bar and MODBUS communication protocol."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_002_002_TK3+_46bar_Oil_Level_Controller",
+        "file_index": 2,
+        "file_source": "All_Categories",
+        "chunk_number": 2,
+        "chunk_title": "TK3+ 46bar Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Primary product feature or specification: Pressure range and temperature limits",
+            "Key technical parameter or capability: MODBUS communication protocol",
+            "Main application or use case: Compressor lubrication and refrigerant level control",
+            "Important compatibility or standard: ATEX certification for hazardous areas",
+            "Critical performance characteristic: Response time and accuracy"
+        ],
+        "keywords_primary": [
+            "TK3+ 46bar",
+            "pressure range (46bar)",
+            "temperature limits (-40°C to +125°C)",
+            "MODBUS protocol",
+            "ATEX certification"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "La versione da 46 bar è il cavallo di battaglia della famiglia TK3+.",
+            "Questa variante offre un equilibrio perfetto tra prestazioni e costo, garantendo un rabbocco dell'olio affidabile in condizioni operative normali."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by the TK3+ 46bar oil level controller?",
+                "answer": "The TK3+ 46bar oil level controller supports a maximum pressure range of 46bar, which is suitable for most commercial refrigeration systems. This pressure range allows for efficient lubrication and protection of the compressor. The controller also features a temperature range of -40°C to +125°C, making it suitable for use in various industrial applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK3+ 46bar oil level controller communicate with the system?",
+                "answer": "The TK3+ 46bar oil level controller features MODBUS communication protocol, which allows for easy integration with existing control systems. This protocol enables real-time monitoring and control of the oil level, ensuring optimal performance and reliability. The controller also provides a relay output for additional control options.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "installation"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+ 46bar?",
+            "How does TK3+ 46bar communicate with the system?"
+        ],
+        "summary": "The TK3+ 46bar oil level controller is a reliable and efficient solution for commercial refrigeration systems, featuring a maximum pressure range of 46bar and MODBUS communication protocol.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "R134a",
+                "R404A"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

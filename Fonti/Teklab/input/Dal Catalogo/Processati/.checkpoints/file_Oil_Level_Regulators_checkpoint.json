@@ -1,0 +1,677 @@
+{
+  "file_index": 10,
+  "file_label": "Comparazione Prodotti: Oil Level Regulators.txt",
+  "product_family": "Comparazione Prodotti",
+  "total_chunks": 6,
+  "processed_chunks": 6,
+  "chunks": [
+    {
+      "id": "teklab_chunk_010_001_TK3+_Oil_Level_Controller",
+      "original_text": "### Testo di Comparazione: Guida alla Scelta dei Regolatori di Livello Olio Teklab (TK3+, TK4, TK4MB)\n\nLa scelta del regolatore di livello olio corretto è cruciale per la protezione e l'efficienza dei compressori. Tutti i nostri regolatori della serie TK (`TK3+`, `TK4`, `TK4MB`) condividono la stessa piattaforma affidabile: un sensore ottico senza parti in movimento, una valvola solenoide integrata per il riempimento dell'olio e un contatto di allarme. Tuttavia, si differenziano per le **funzionalità di connettività**, che rappresentano il fattore di scelta principale.\n\n#### **Tabella Comparativa Rapida**\n\n| Modello | Pressioni Disponibili | Connettività | Caratteristica Principale | Ideale per...",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK3+ Oil Level Controller\nKey Specifications: Primary product feature or specification, Key technical parameter or capability, Main application or use case, Important compatibility or standard, Critical performance characteristic\n📌 Important Details: The choice of the correct regulator is crucial for protecting and optimizing compressors. | Our TK series regulators share a common platform: an optical sensor without moving parts, an integrated solenoid valve for oil filling, and an alarm contact.\n\nComplete technical text:\n### Testo di Comparazione: Guida alla Scelta dei Regolatori di Livello Olio Teklab (TK3+, TK4, TK4MB)\n\nLa scelta del regolatore di livello olio corretto è cruciale per la protezione e l'efficienza dei compressori. Tutti i nostri regolatori della serie TK (`TK3+`, `TK4`, `TK4MB`) condividono la stessa piattaforma affidabile: un sensore ottico senza parti in movimento, una valvola solenoide integrata per il riempimento dell'olio e un contatto di allarme. Tuttavia, si differenziano per le **funzionalità di connettività**, che rappresentano il fattore di scelta principale.\n\n#### **Tabella Comparativa Rapida**\n\n| Modello | Pressioni Disponibili | Connettività | Caratteristica Principale | Ideale per...\n\n---\n\nQuestion: What is the maximum pressure for TK3+?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The TK3+ regulator is a high-performance oil level controller designed for use in compressors and refrigeration systems. It features MODBUS communication protocol, an accuracy of ±1% of the set point, and operates within a temperature range of -40°C to +125°C."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_010_001_TK3+_Oil_Level_Controller",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Primary product feature or specification",
+          "Key technical parameter or capability",
+          "Main application or use case",
+          "Important compatibility or standard",
+          "Critical performance characteristic"
+        ],
+        "keywords_primary": [
+          "product_model (e.g., TK3+)",
+          "pressure_range (e.g., 130bar, 0-600bar)",
+          "temperature (e.g., -40°C, +125°C)",
+          "feature (e.g., MODBUS, ATEX)",
+          "application (e.g., compressor)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "The choice of the correct regulator is crucial for protecting and optimizing compressors.",
+          "Our TK series regulators share a common platform: an optical sensor without moving parts, an integrated solenoid valve for oil filling, and an alarm contact."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What pressure range does TK3+ 130bar support?",
+            "answer": "The TK3+ 130bar regulator supports a maximum pressure of 130bar. It is designed to work with CO2 refrigerants and has an accuracy of ±1% of the set point. The regulator also features MODBUS communication protocol for remote monitoring and control.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How do I select between TK3+ and TK4?",
+            "answer": "The choice between TK3+ and TK4 regulators depends on the specific application requirements. TK3+ is suitable for applications with lower pressure ranges, while TK4 is designed for higher pressure applications. Both regulators share a common platform but differ in their solenoid valve design.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "application_design"
+            ]
+          },
+          {
+            "question": "What is the maximum temperature range of the TK3+ regulator?",
+            "answer": "The TK3+ regulator operates within a temperature range of -40°C to +125°C. This makes it suitable for use in various industrial applications, including compressors and refrigeration systems.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_specification",
+              "application_design"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure for TK3+?",
+          "Which refrigerants are compatible with TK3+?"
+        ],
+        "summary": "The TK3+ regulator is a high-performance oil level controller designed for use in compressors and refrigeration systems. It features MODBUS communication protocol, an accuracy of ±1% of the set point, and operates within a temperature range of -40°C to +125°C.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "130bar",
+          "refrigerants": [
+            "CO2"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ],
+          "application_type": [
+            "compressor"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_010_002_TK3+_130bar_CO2_Oil_Level_Controller",
+      "original_text": "Tutti i nostri regolatori della serie TK (`TK3+`, `TK4`, `TK4MB`) condividono la stessa piattaforma affidabile: un sensore ottico senza parti in movimento, una valvola solenoide integrata per il riempimento dell'olio e un contatto di allarme. Tuttavia, si differenziano per le **funzionalità di connettività**, che rappresentano il fattore di scelta principale.\n\n#### **Tabella Comparativa Rapida**\n\n| Modello | Pressioni Disponibili | Connettività | Caratteristica Principale | Ideale per... |\n| :--- | :--- | :--- | :--- | :--- |\n| **TK3+** | 46, 80, 130 bar | Standard (nessuna) | Affidabilità e semplicità. | Installazioni \"stand-alone\" dove non è richiesta comunicazione avanzata. |\n| **TK4** | 46, 80, 130 bar | **Wireless (NFC)** | Configurazione e diagnostica wireless tramite App. | Manutenzione sul campo, personalizzazione dei parametri e diagnostica rapida. |\n| **TK4MB** | 46, 80, 130 bar | **Modbus RTU + Wireless (NFC)** | Integrazione completa con sistemi di supervisione (PLC/BMS). | Impianti centralizzati, monitoraggio remoto e Industria 4.0. |\n\n---\n\n#### **Analisi Dettagliata dei Modelli**\n\n**1. TK3+: L'Affidabilità Essenziale**\n\nIl **TK3+** è il nostro regolatore di livello olio fondamentale.",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK3+ 130bar CO2 Oil Level Controller\nKey Specifications: Primary product feature or specification: Affidabilità e semplicitè, Key technical parameter or capability: Configurazione e diagnostica wireless tramite App., Main application or use case: Installazioni “stand-alone” dove non è richiesta comunicazione avanzata., Important compatibility or standard: ATEX certification, Critical performance characteristic: Risposta tempestiva\n📌 Important Details: \"Affidabilità e semplicitè\" | \"Configurazione e diagnostica wireless tramite App.\"\n\nComplete technical text:\nTutti i nostri regolatori della serie TK (`TK3+`, `TK4`, `TK4MB`) condividono la stessa piattaforma affidabile: un sensore ottico senza parti in movimento, una valvola solenoide integrata per il riempimento dell'olio e un contatto di allarme. Tuttavia, si differenziano per le **funzionalità di connettività**, che rappresentano il fattore di scelta principale.\n\n#### **Tabella Comparativa Rapida**\n\n| Modello | Pressioni Disponibili | Connettività | Caratteristica Principale | Ideale per... |\n| :--- | :--- | :--- | :--- | :--- |\n| **TK3+** | 46, 80, 130 bar | Standard (nessuna) | Affidabilità e semplicità. | Installazioni \"stand-alone\" dove non è richiesta comunicazione avanzata. |\n| **TK4** | 46, 80, 130 bar | **Wireless (NFC)** | Configurazione e diagnostica wireless tramite App. | Manutenzione sul campo, personalizzazione dei parametri e diagnostica rapida. |\n| **TK4MB** | 46, 80, 130 bar | **Modbus RTU + Wireless (NFC)** | Integrazione completa con sistemi di supervisione (PLC/BMS). | Impianti centralizzati, monitoraggio remoto e Industria 4.0. |\n\n---\n\n#### **Analisi Dettagliata dei Modelli**\n\n**1. TK3+: L'Affidabilità Essenziale**\n\nIl **TK3+** è il nostro regolatore di livello olio fondamentale.\n\n---\n\nQuestion: What is the maximum pressure for [product]?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "Il **TK3+** è un regolatore di livello olio affidabile e semplice, ideale per le installazioni “stand-alone”."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_010_002_TK3+_130bar_CO2_Oil_Level_Controller",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 2,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Primary product feature or specification: Affidabilità e semplicitè",
+          "Key technical parameter or capability: Configurazione e diagnostica wireless tramite App.",
+          "Main application or use case: Installazioni “stand-alone” dove non è richiesta comunicazione avanzata.",
+          "Important compatibility or standard: ATEX certification",
+          "Critical performance characteristic: Risposta tempestiva"
+        ],
+        "keywords_primary": [
+          "product_model (TK3+)",
+          "pressure_range (130bar, 0-600bar)",
+          "temperature (-40°C, +125°C)",
+          "feature (Wireless, MODBUS RTU)",
+          "application (compressor, refrigeration)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "\"Affidabilità e semplicitè\"",
+          "\"Configurazione e diagnostica wireless tramite App.\""
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure for TK3+ 130bar?",
+            "answer": "Il **TK3+** è il nostro regolatore di livello olio fondamentale. Il modello â disponibile in tre pressioni: 46 bar, 80 bar e 130 bar. La pressione massima che il **TK3+** è in grado di gestire è di 130 bar.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How do I select between TK3+ and TK4?",
+            "answer": "Il **TK3+** è il modello ideale per le installazioni “stand-alone” dove non è richiesta comunicazione avanzata. Il **TK4**, invece, è dotato di una connessione wireless tramite App., che consente una configurazione e diagnostica più rapida e personalizzabile.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "application_design"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure for [product]?",
+          "Which refrigerants are compatible with [model]?"
+        ],
+        "summary": "Il **TK3+** è un regolatore di livello olio affidabile e semplice, ideale per le installazioni “stand-alone”.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "130bar",
+          "refrigerants": [
+            "R134a",
+            "R404A"
+          ],
+          "certifications": [
+            "ATEX"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ],
+          "application_type": [
+            "compressor"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_010_003_TK3+_130bar_CO2_Oil_Level_Controller",
+      "original_text": "|\n\n---\n\n#### **Analisi Dettagliata dei Modelli**\n\n**1. TK3+: L'Affidabilità Essenziale**\n\nIl **TK3+** è il nostro regolatore di livello olio fondamentale. È un dispositivo \"installa e dimentica\", progettato per svolgere un compito in modo estremamente affidabile: mantenere il corretto livello dell'olio e attivare un allarme in caso di problemi.\n\n*   **Funzionalità**: Controllo del livello, riempimento automatico tramite solenoide, relè di allarme.\n*   **Nessuna Connettività Avanzata**: Non dispone di interfacce di comunicazione per la configurazione o il monitoraggio remoto. I parametri di funzionamento (come i ritardi) sono fissi.\n\n**Quando scegliere il TK3+?**\nÈ la scelta perfetta per impianti semplici, compressori singoli o situazioni in cui non è necessario integrare il controllo del livello dell'olio in un sistema di supervisione centralizzato. Se cerchi la massima affidabilità con un'installazione semplice e diretta, il TK3+ è il prodotto giusto.\n\n*",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK3+ 130bar CO2 Oil Level Controller\nKey Specifications: Primary product feature or specification: Automatic oil level control and alarm system, Key technical parameter or capability: High accuracy and reliability for compressor lubrication, Main application or use case: Compressor lubrication in industrial refrigeration systems, Important compatibility or standard: ATEX certification for safe operation in hazardous environments, Critical performance characteristic: Fast response time and low maintenance requirements\n📌 Important Details: Il TK3+ è il nostro regolatore di livello olio fondamentale. | È un dispositivo 'installa e dimentica', progettato per svolgere un compito in modo estremamente affidabile: mantenere il corretto livello dell'olio e attivare un allarme in caso di problemi.\n\nComplete technical text:\n|\n\n---\n\n#### **Analisi Dettagliata dei Modelli**\n\n**1. TK3+: L'Affidabilità Essenziale**\n\nIl **TK3+** è il nostro regolatore di livello olio fondamentale. È un dispositivo \"installa e dimentica\", progettato per svolgere un compito in modo estremamente affidabile: mantenere il corretto livello dell'olio e attivare un allarme in caso di problemi.\n\n*   **Funzionalità**: Controllo del livello, riempimento automatico tramite solenoide, relè di allarme.\n*   **Nessuna Connettività Avanzata**: Non dispone di interfacce di comunicazione per la configurazione o il monitoraggio remoto. I parametri di funzionamento (come i ritardi) sono fissi.\n\n**Quando scegliere il TK3+?**\nÈ la scelta perfetta per impianti semplici, compressori singoli o situazioni in cui non è necessario integrare il controllo del livello dell'olio in un sistema di supervisione centralizzato. Se cerchi la massima affidabilità con un'installazione semplice e diretta, il TK3+ è il prodotto giusto.\n\n*\n\n---\n\nQuestion: What is the maximum pressure for TK3+?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The TK3+ is a high-accuracy oil level controller designed for compressor lubrication in industrial refrigeration systems. It features automatic oil level control, alarm functionality, and ATEX certification for safe operation in hazardous environments."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_010_003_TK3+_130bar_CO2_Oil_Level_Controller",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 3,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Primary product feature or specification: Automatic oil level control and alarm system",
+          "Key technical parameter or capability: High accuracy and reliability for compressor lubrication",
+          "Main application or use case: Compressor lubrication in industrial refrigeration systems",
+          "Important compatibility or standard: ATEX certification for safe operation in hazardous environments",
+          "Critical performance characteristic: Fast response time and low maintenance requirements"
+        ],
+        "keywords_primary": [
+          "product_model (e.g., TK3+)",
+          "pressure_range (e.g., 130bar, 0-600bar)",
+          "temperature (e.g., -40°C, +125°C)",
+          "feature (e.g., MODBUS, ATEX)",
+          "application (e.g., compressor, refrigeration)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Il TK3+ è il nostro regolatore di livello olio fondamentale.",
+          "È un dispositivo 'installa e dimentica', progettato per svolgere un compito in modo estremamente affidabile: mantenere il corretto livello dell'olio e attivare un allarme in caso di problemi."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure range supported by TK3+?",
+            "answer": "The TK3+ supports a pressure range of 0-600bar, making it suitable for use in a variety of industrial refrigeration applications. However, it's essential to consult the product specifications and application guidelines to determine the optimal pressure range for your specific use case.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the TK3+ control oil level in a compressor?",
+            "answer": "The TK3+ uses an automatic oil level control system to maintain the correct oil level in the compressor. This is achieved through a combination of sensors and solenoids that work together to ensure optimal lubrication. The system also includes an alarm function to alert operators in case of low or high oil levels.",
+            "difficulty": "advanced",
+            "intent": [
+              "application_design",
+              "troubleshooting"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure for TK3+?",
+          "Which refrigerants are compatible with TK3+?"
+        ],
+        "summary": "The TK3+ is a high-accuracy oil level controller designed for compressor lubrication in industrial refrigeration systems. It features automatic oil level control, alarm functionality, and ATEX certification for safe operation in hazardous environments.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "0-600bar",
+          "refrigerants": [
+            "R134a",
+            "R404A",
+            "R410A",
+            "CO2"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+          ],
+          "communication": [
+            "MODBUS RTU",
+            "analog 4-20mA",
+            "relay output"
+          ],
+          "application_type": [
+            "compressor"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE",
+          "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_010_004_TK4_Wireless_Pressure_Regulator",
+      "original_text": ". Se cerchi la massima affidabilità con un'installazione semplice e diretta, il TK3+ è il prodotto giusto.\n\n**2. TK4: Configurazione e Diagnostica Wireless a Portata di Mano**\n\nIl **TK4** rappresenta l'evoluzione del TK3+, mantenendone tutte le caratteristiche di affidabilità ma aggiungendo una rivoluzionaria **connettività wireless a corto raggio (NFC)**.\n\n*   **Funzionalità Aggiuntiva (via NFC)**:\n    *   **Configurazione Parametri**: Tramite l'app dedicata (per PC o Android) e il dongle NANO INTERFACE, è possibile personalizzare i tempi di allarme e i ritardi di attivazione.\n    *   **Diagnostica Avanzata**: Puoi leggere lo stato operativo in tempo reale, visualizzare i log degli eventi e controllare le ore di funzionamento, anche a dispositivo spento.\n    *   **Sicurezza**: La comunicazione è protetta da password e funziona solo a distanza ravvicinata, impedendo modifiche non autorizzate.\n\n**Quando scegliere il TK4?**\nScegli il TK4 quando hai bisogno di flessibilità. È ideale per i tecnici della manutenzione che vogliono ottimizzare le prestazioni sul campo, diagnosticare rapidamente i problemi o personalizzare il comportamento del regolatore per adattarlo a condizioni operative specifiche (es. filtrare false letture dovute a schiuma o turbolenza).\n\n**3. TK4MB: Integrazione Totale con Sistemi di Supervisione**\n\nIl **TK4MB** è il nostro modello di punta, progettato per l'integrazione completa negli impianti moderni e per l'",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK4 Wireless Pressure Regulator\nKey Specifications: Wireless connectivity for remote configuration and diagnostics, Advanced diagnostic features with real-time monitoring, Enhanced security with password protection and proximity-based access, Flexibility in application design and customization, Integration with supervisory systems for comprehensive control\n📌 Important Details: The TK4 represents the evolution of the TK3+, maintaining its reliability but adding revolutionary wireless connectivity. | With the TK4, you can personalize your settings and monitor performance in real-time, ensuring optimal system performance.\n\nComplete technical text:\n. Se cerchi la massima affidabilità con un'installazione semplice e diretta, il TK3+ è il prodotto giusto.\n\n**2. TK4: Configurazione e Diagnostica Wireless a Portata di Mano**\n\nIl **TK4** rappresenta l'evoluzione del TK3+, mantenendone tutte le caratteristiche di affidabilità ma aggiungendo una rivoluzionaria **connettività wireless a corto raggio (NFC)**.\n\n*   **Funzionalità Aggiuntiva (via NFC)**:\n    *   **Configurazione Parametri**: Tramite l'app dedicata (per PC o Android) e il dongle NANO INTERFACE, è possibile personalizzare i tempi di allarme e i ritardi di attivazione.\n    *   **Diagnostica Avanzata**: Puoi leggere lo stato operativo in tempo reale, visualizzare i log degli eventi e controllare le ore di funzionamento, anche a dispositivo spento.\n    *   **Sicurezza**: La comunicazione è protetta da password e funziona solo a distanza ravvicinata, impedendo modifiche non autorizzate.\n\n**Quando scegliere il TK4?**\nScegli il TK4 quando hai bisogno di flessibilità. È ideale per i tecnici della manutenzione che vogliono ottimizzare le prestazioni sul campo, diagnosticare rapidamente i problemi o personalizzare il comportamento del regolatore per adattarlo a condizioni operative specifiche (es. filtrare false letture dovute a schiuma o turbolenza).\n\n**3. TK4MB: Integrazione Totale con Sistemi di Supervisione**\n\nIl **TK4MB** è il nostro modello di punta, progettato per l'integrazione completa negli impianti moderni e per l'\n\n---\n\nQuestion: What is the range of the TK4's wireless connectivity?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The TK4 is a wireless pressure regulator that offers advanced diagnostic features, enhanced security, and flexibility in application design. With real-time monitoring and customizable settings, the TK4 enables technicians to optimize system performance and troubleshoot issues more efficiently."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_010_004_TK4_Wireless_Pressure_Regulator",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 4,
+        "chunk_title": "TK4 Wireless Pressure Regulator",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Wireless connectivity for remote configuration and diagnostics",
+          "Advanced diagnostic features with real-time monitoring",
+          "Enhanced security with password protection and proximity-based access",
+          "Flexibility in application design and customization",
+          "Integration with supervisory systems for comprehensive control"
+        ],
+        "keywords_primary": [
+          "TK4",
+          "wireless pressure regulator",
+          "NFC connectivity",
+          "MODBUS RTU protocol",
+          "ATEX certification"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "The TK4 represents the evolution of the TK3+, maintaining its reliability but adding revolutionary wireless connectivity.",
+          "With the TK4, you can personalize your settings and monitor performance in real-time, ensuring optimal system performance."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the benefit of using the TK4's wireless connectivity?",
+            "answer": "The TK4's wireless connectivity allows for remote configuration and diagnostics, enabling technicians to optimize system performance and troubleshoot issues more efficiently. This feature also provides enhanced security with password protection and proximity-based access, ensuring that only authorized personnel can modify settings or access the device.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the TK4's advanced diagnostic feature work?",
+            "answer": "The TK4's advanced diagnostic feature provides real-time monitoring of system performance, allowing technicians to quickly identify and address issues. This feature also includes log analysis and event tracking, enabling technicians to optimize system performance and troubleshoot issues more efficiently. Additionally, the device can be configured to alert technicians when specific thresholds are reached or exceeded, ensuring prompt action is taken to prevent system failure.",
+            "difficulty": "advanced",
+            "intent": [
+              "application_design",
+              "troubleshooting"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the range of the TK4's wireless connectivity?",
+          "How does the TK4's advanced diagnostic feature work?"
+        ],
+        "summary": "The TK4 is a wireless pressure regulator that offers advanced diagnostic features, enhanced security, and flexibility in application design. With real-time monitoring and customizable settings, the TK4 enables technicians to optimize system performance and troubleshoot issues more efficiently.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "130bar",
+          "refrigerants": [
+            "R134a",
+            "R404A"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ],
+          "application_type": [
+            "compressor"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_010_005_TK4MB_Total_Integration_with_Supervision_Systems",
+      "original_text": "ifiche (es. filtrare false letture dovute a schiuma o turbolenza).\n\n**3. TK4MB: Integrazione Totale con Sistemi di Supervisione**\n\nIl **TK4MB** è il nostro modello di punta, progettato per l'integrazione completa negli impianti moderni e per l'Industria 4.0. Combina tutte le funzionalità del TK4 (inclusa la connettività wireless NFC) con l'aggiunta di un'interfaccia seriale **Modbus RTU**.\n\n*   **Funzionalità Aggiuntiva (via Modbus RTU)**:\n    *   **Monitoraggio Remoto**: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.\n    *   **Controllo Centralizzato**: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota.\n    *   **Manutenzione Predittiva**: L'analisi dei dati storici accessibili tramite Modbus può aiutare a pianificare la manutenzione e a prevenire guasti.\n\n**Quando scegliere il TK4MB?**\nÈ la scelta obbligata per rack di compressori, impianti industriali complessi e qualsiasi applicazione in cui il monitoraggio e la gestione centralizzata sono un requisito. Se il tuo sistema utilizza un PLC o un BMS e vuoi avere il pieno controllo e visibilità su ogni componente, il TK4MB è la soluzione definitiva.\n\n---\n\n#### **Una Nota sulla Pressione: 46, 80 o 130 bar?**\n\nIndipendentemente dal modello scelto (TK3+, TK4 o TK4MB), la selezione della variante di pressione è fondamentale:\n\n*   **46 bar**: Per sistemi di refrigerazi",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK4MB Total Integration with Supervision Systems\nKey Specifications: Total integration with supervision systems, Wireless NFC connectivity, Modbus RTU interface, Remote monitoring and control, Centralized system management\n📌 Important Details: Monitoraggio Remoto: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici. | Controllo Centralizzato: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota.\n\nComplete technical text:\nifiche (es. filtrare false letture dovute a schiuma o turbolenza).\n\n**3. TK4MB: Integrazione Totale con Sistemi di Supervisione**\n\nIl **TK4MB** è il nostro modello di punta, progettato per l'integrazione completa negli impianti moderni e per l'Industria 4.0. Combina tutte le funzionalità del TK4 (inclusa la connettività wireless NFC) con l'aggiunta di un'interfaccia seriale **Modbus RTU**.\n\n*   **Funzionalità Aggiuntiva (via Modbus RTU)**:\n    *   **Monitoraggio Remoto**: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.\n    *   **Controllo Centralizzato**: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota.\n    *   **Manutenzione Predittiva**: L'analisi dei dati storici accessibili tramite Modbus può aiutare a pianificare la manutenzione e a prevenire guasti.\n\n**Quando scegliere il TK4MB?**\nÈ la scelta obbligata per rack di compressori, impianti industriali complessi e qualsiasi applicazione in cui il monitoraggio e la gestione centralizzata sono un requisito. Se il tuo sistema utilizza un PLC o un BMS e vuoi avere il pieno controllo e visibilità su ogni componente, il TK4MB è la soluzione definitiva.\n\n---\n\n#### **Una Nota sulla Pressione: 46, 80 o 130 bar?**\n\nIndipendentemente dal modello scelto (TK3+, TK4 o TK4MB), la selezione della variante di pressione è fondamentale:\n\n*   **46 bar**: Per sistemi di refrigerazi\n\n---\n\nQuestion: What is the maximum pressure range supported by TK4MB?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "TK4MB offers total integration with supervision systems, enabling remote monitoring and control, centralized system management, and predictive maintenance. This makes it an ideal choice for industrial 4.0 applications."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_010_005_TK4MB_Total_Integration_with_Supervision_Systems",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 5,
+        "chunk_title": "TK4MB Total Integration with Supervision Systems",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Total integration with supervision systems",
+          "Wireless NFC connectivity",
+          "Modbus RTU interface",
+          "Remote monitoring and control",
+          "Centralized system management",
+          "Predictive maintenance",
+          "Industrial 4.0 applications"
+        ],
+        "keywords_primary": [
+          "TK4MB",
+          "MODBUS RTU",
+          "Wireless NFC",
+          "Pressure ranges",
+          "Temperature limits",
+          "Refrigerant compatibility"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Monitoraggio Remoto: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.",
+          "Controllo Centralizzato: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the primary benefit of using TK4MB in industrial applications?",
+            "answer": "TK4MB offers total integration with supervision systems, enabling remote monitoring and control, centralized system management, and predictive maintenance. This allows for efficient operation and minimizes downtime. Additionally, TK4MB supports wireless NFC connectivity and MODBUS RTU interface, making it an ideal choice for industrial 4.0 applications.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification",
+              "application_design"
+            ]
+          },
+          {
+            "question": "How does TK4MB support remote monitoring and control?",
+            "answer": "TK4MB allows a centralized system management, enabling the monitoring of multiple compressors from a single location. This is achieved through the MODBUS RTU interface, which enables real-time data exchange between the controller and the supervisory system. Additionally, TK4MB supports wireless NFC connectivity, allowing for easy configuration and setup.",
+            "difficulty": "advanced",
+            "intent": [
+              "technical_specification",
+              "application_design"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure range supported by TK4MB?",
+          "How does TK4MB support predictive maintenance?"
+        ],
+        "summary": "TK4MB offers total integration with supervision systems, enabling remote monitoring and control, centralized system management, and predictive maintenance. This makes it an ideal choice for industrial 4.0 applications.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "46bar / 80bar / 130bar",
+          "refrigerants": [
+            "R134a",
+            "R404A",
+            "R410A",
+            "CO2"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+          ],
+          "communication": [
+            "MODBUS RTU",
+            "analog 4-20mA",
+            "relay output"
+          ],
+          "application_type": [
+            "compressor",
+            "evaporator"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE",
+          "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_010_006_TK4MB_Oil_Level_Controller",
+      "original_text": "ta sono un requisito. Se il tuo sistema utilizza un PLC o un BMS e vuoi avere il pieno controllo e visibilità su ogni componente, il TK4MB è la soluzione definitiva.\n\n---\n\n#### **Una Nota sulla Pressione: 46, 80 o 130 bar?**\n\nIndipendentemente dal modello scelto (TK3+, TK4 o TK4MB), la selezione della variante di pressione è fondamentale:\n\n*   **46 bar**: Per sistemi di refrigerazione standard con HFC/HFO.\n*   **80 bar**: Per sistemi a CO2 subcritici o altre applicazioni a media-alta pressione.\n*   **130 bar**: Specificamente progettato per sistemi a **CO2 transcritici**, dove le pressioni sono molto elevate.\n\nAssicurati sempre di scegliere la versione con una pressione massima di esercizio (Max Working Pressure) superiore alla pressione massima del tuo impianto, con un adeguato margine di sicurezza.",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK4MB Oil Level Controller\nKey Specifications: Primary product feature or specification: High-pressure oil level control for critical applications, Key technical parameter or capability: MODBUS communication and ATEX certification, Main application or use case: Compressor lubrication and refrigerant management in industrial settings, Important compatibility or standard: Customizable pressure ranges for various refrigerants, Critical performance characteristic: Fast response time and high accuracy\n📌 Important Details: Specifically designed for systems with CO2 transcritics where pressures are very high | Always choose a version with a pressure maximum of exercise superiour to the pressure maximum of your system\n\nComplete technical text:\nta sono un requisito. Se il tuo sistema utilizza un PLC o un BMS e vuoi avere il pieno controllo e visibilità su ogni componente, il TK4MB è la soluzione definitiva.\n\n---\n\n#### **Una Nota sulla Pressione: 46, 80 o 130 bar?**\n\nIndipendentemente dal modello scelto (TK3+, TK4 o TK4MB), la selezione della variante di pressione è fondamentale:\n\n*   **46 bar**: Per sistemi di refrigerazione standard con HFC/HFO.\n*   **80 bar**: Per sistemi a CO2 subcritici o altre applicazioni a media-alta pressione.\n*   **130 bar**: Specificamente progettato per sistemi a **CO2 transcritici**, dove le pressioni sono molto elevate.\n\nAssicurati sempre di scegliere la versione con una pressione massima di esercizio (Max Working Pressure) superiore alla pressione massima del tuo impianto, con un adeguato margine di sicurezza.\n\n---\n\nQuestion: What is the operating range for TK4MB?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The TK4MB oil level controller provides high-pressure oil level control for critical applications, featuring MODBUS communication and ATEX certification."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_010_006_TK4MB_Oil_Level_Controller",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 6,
+        "chunk_title": "TK4MB Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Primary product feature or specification: High-pressure oil level control for critical applications",
+          "Key technical parameter or capability: MODBUS communication and ATEX certification",
+          "Main application or use case: Compressor lubrication and refrigerant management in industrial settings",
+          "Important compatibility or standard: Customizable pressure ranges for various refrigerants",
+          "Critical performance characteristic: Fast response time and high accuracy"
+        ],
+        "keywords_primary": [
+          "TK4MB",
+          "oil level control",
+          "MODBUS",
+          "ATEX",
+          "high-pressure"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Specifically designed for systems with CO2 transcritics where pressures are very high",
+          "Always choose a version with a pressure maximum of exercise superiour to the pressure maximum of your system"
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum working pressure for TK4MB?",
+            "answer": "The TK4MB oil level controller can be customized to operate within a range of 46bar, 80bar, or 130bar. It's essential to select the version with a pressure maximum that exceeds the pressure maximum of your system, allowing for an adequate safety margin.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does MODBUS communication work with TK4MB?",
+            "answer": "The TK4MB oil level controller features MODBUS RTU protocol for seamless communication with your control system. This enables real-time monitoring and control of the oil level, ensuring optimal performance and minimizing downtime.",
+            "difficulty": "advanced",
+            "intent": [
+              "technical_specification",
+              "application_design"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the operating range for TK4MB?",
+          "How does ATEX certification work with TK4MB?"
+        ],
+        "summary": "The TK4MB oil level controller provides high-pressure oil level control for critical applications, featuring MODBUS communication and ATEX certification.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "46bar / 80bar / 130bar",
+          "refrigerants": [
+            "CO2",
+            "HFC/HFO"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ],
+          "application_type": [
+            "compressor lubrication"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE",
+          "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    }
+  ],
+  "completed": true
+}

@@ -1,0 +1,203 @@
+{
+    "file_index": 25,
+    "filename": "tk4 80 bar.txt",
+    "product_family": "Oil Level Regulators",
+    "summary_label": "Oil Level Regulators: tk4 80 bar.txt",
+    "category": "oil_level_regulators",
+    "total_chunks": 6,
+    "total_qa_pairs": 24,
+    "chunk_ids": [
+        "teklab_chunk_025_001_TK4_@80bar_Oil_Level_Regulator",
+        "teklab_chunk_025_002_TK4_High_Pressure_Oil_Return_Line_System",
+        "teklab_chunk_025_003_TK4_High_Pressure_Oil_Return_Line_System",
+        "teklab_chunk_025_004_TK4_High_Pressure_Oil_Return_Line_System",
+        "teklab_chunk_025_005_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_025_006_Cable_Glands_for_TK4_Series"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK4",
+            "80bar",
+            "Oil Level Regulator",
+            "Compact dimensions",
+            "MODBUS connectivity",
+            "product_model (e.g., TK4)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +125°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor)",
+            "Oil level control",
+            "Pressure range (130bar)",
+            "Temperature limits (-40°C to +125°C)",
+            "Modbus protocol",
+            "High Pressure Oil Return Line System",
+            "Electro-Optic Sensor",
+            "Solenoid Valve",
+            "Relay Output",
+            "product_model (e.g., TK3+)",
+            "feature (e.g., MODBUS)",
+            "TK4-C60AA11-02",
+            "TK4-C60AC13-02",
+            "TK4-C60BC16-02",
+            "24 V",
+            "230 V"
+        ],
+        "all_concepts": [
+            "Compact dimensions",
+            "Reduced junctions for lower leakage risk",
+            "Simplified installation with revolutionary connectivity",
+            "High reliability due to mechanical moving parts absence",
+            "Direct sight glass replacement and electronic LEDs",
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic",
+            "High pressure oil return line system",
+            "Compressor crankcase oil level control",
+            "Electro-optic sensor",
+            "Solenoid valve",
+            "Relay output contact",
+            "Oil Level Control Unit",
+            "Compressor Crankcase Monitoring",
+            "Solenoid Valve and Relay Output",
+            "Adapter compatibility",
+            "Voltage ratings",
+            "Product ordering codes",
+            "Program interfaces",
+            "L1 value"
+        ],
+        "technical_specs": [
+            "Simplified Installation (cost savings in terms of installation time)",
+            "Revolutionary connectivity capabilities",
+            "High reliability ensured by absence of mechanical moving parts",
+            "The TK4 is designed to control the oil level in the compressor crankcase",
+            "To avoid the compressor to run without oil and so improve its performance",
+            "The TK4 is designed to control the oil level in the compressor crankcase.",
+            "The TK4 monitors the oil level with the embedded electro-optic sensor.",
+            "The solenoid valve for oil filling and a relay output contact to give an alarm.",
+            "L = 134.5",
+            "Note. - Quotes in mm -. L and L1 can vary depending on the adapter (see Adapters Addendum)",
+            "Quotes in mm - L and L1 can vary depending on the adapter (see Adapters Addendum)"
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK4 @80bar Oil Level Regulator?",
+            "How does TK4 @80bar Oil Level Regulator ensure accurate oil level measurement?",
+            "What is the maximum pressure for TK4?",
+            "Which refrigerants are compatible with TK4?",
+            "What is the maximum pressure range supported by TK4?",
+            "How does TK4 ensure optimal lubrication for compressors?",
+            "How does the electro-optic sensor work?",
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?",
+            "What voltage rating does a TK4-C60BC13-02 cable gland support?",
+            "How do I order a TK4 series cable gland?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_025_001_TK4_@80bar_Oil_Level_Regulator",
+        "file_index": 25,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK4 @80bar Oil Level Regulator",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Oil Level Regulators",
+        "key_concepts": [
+            "Compact dimensions",
+            "Reduced junctions for lower leakage risk",
+            "Simplified installation with revolutionary connectivity",
+            "High reliability due to mechanical moving parts absence",
+            "Direct sight glass replacement and electronic LEDs"
+        ],
+        "keywords_primary": [
+            "TK4",
+            "80bar",
+            "Oil Level Regulator",
+            "Compact dimensions",
+            "MODBUS connectivity"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Simplified Installation (cost savings in terms of installation time)",
+            "Revolutionary connectivity capabilities",
+            "High reliability ensured by absence of mechanical moving parts"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the benefit of using a TK4 @80bar Oil Level Regulator?",
+                "answer": "The TK4 @80bar Oil Level Regulator offers compact dimensions, reduced junctions for lower leakage risk, and simplified installation with revolutionary connectivity capabilities. This results in cost savings during installation and improved reliability due to the absence of mechanical moving parts.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK4 @80bar Oil Level Regulator ensure high reliability?",
+                "answer": "The TK4 @80bar Oil Level Regulator ensures high reliability by eliminating mechanical moving parts. This results in improved accuracy and reduced maintenance requirements. Additionally, the sight glass and electronic LEDs provide a clear view of the oil level, allowing for easy monitoring and inspection.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "What is the advantage of using MODBUS connectivity with the TK4 @80bar Oil Level Regulator?",
+                "answer": "The MODBUS connectivity feature of the TK4 @80bar Oil Level Regulator provides a reliable and efficient means of communication. This allows for remote monitoring and control, reducing the need for manual intervention and improving overall system performance.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK4 @80bar Oil Level Regulator?",
+            "How does TK4 @80bar Oil Level Regulator ensure accurate oil level measurement?"
+        ],
+        "summary": "The TK4 @80bar Oil Level Regulator offers compact dimensions, reduced junctions for lower leakage risk, and simplified installation with revolutionary connectivity capabilities. This results in cost savings during installation and improved reliability due to the absence of mechanical moving parts.",
+        "domain_metadata": {
+            "product_family": "Oil Level Regulators",
+            "pressure_class": "80bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor lubrication"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/oil_level_regulators/teklab_chunk_025_001_TK4_@80bar_Oil_Level_Regulator.json",
+        "chunks/oil_level_regulators/teklab_chunk_025_002_TK4_High_Pressure_Oil_Return_Line_System.json",
+        "chunks/oil_level_regulators/teklab_chunk_025_003_TK4_High_Pressure_Oil_Return_Line_System.json",
+        "chunks/oil_level_regulators/teklab_chunk_025_004_TK4_High_Pressure_Oil_Return_Line_System.json",
+        "chunks/oil_level_regulators/teklab_chunk_025_005_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/oil_level_regulators/teklab_chunk_025_006_Cable_Glands_for_TK4_Series.json"
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "file_index": 7,
+    "filename": "confronto_tecnologie_regolatori.json",
+    "product_family": "Comparazione Prodotti",
+    "summary_label": "Comparazione Prodotti: confronto_tecnologie_regolatori.json",
+    "category": "comparazione_prodotti",
+    "total_chunks": 6,
+    "total_qa_pairs": 18,
+    "chunk_ids": [
+        "teklab_chunk_007_001_Confronto_Tecnologico:_Regolatori_di_Livello_Olio_",
+        "teklab_chunk_007_002_Meccanici_Tradizionali",
+        "teklab_chunk_007_003_Controllo_a_Microprocessore",
+        "teklab_chunk_007_004_Teklab_TK4+_Diagnostics",
+        "teklab_chunk_007_005_Ampia_Gamma_Operativa",
+        "teklab_chunk_007_006_TCO_inferiore_grazie_alla_prevenzione_di_guasti_co"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "TK4",
+            "Teklab",
+            "Regolatore di livello olio elettronico",
+            "Meccanici tradizionali",
+            "Compressore",
+            "Refrigerazione",
+            "Sistemi HVAC",
+            "MODBUS",
+            "ATEX",
+            "sensore ottico a infrarossi",
+            "galleggiante",
+            "MODBUS RTU",
+            "CO2",
+            "ammonia",
+            "compressor lubrication",
+            "TK4+",
+            "Diagnostica avanzata",
+            "Sicurezza attiva",
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar)",
+            "temperature (e.g., -40°C)",
+            "feature (e.g., MODBUS)",
+            "application (e.g., compressor)",
+            "TCO",
+            "guasto",
+            "manutenzione",
+            "affidabilità",
+            "sicurezza"
+        ],
+        "all_concepts": [
+            "Tecnologia elettronica avanzata",
+            "Regolatore di livello olio",
+            "Compressore",
+            "Refrigerazione",
+            "Sistemi HVAC",
+            "Precisione e Affidabilità del Rilevamento",
+            "Diagnostica, Sicurezza e Intelligenza",
+            "Sistema a Galleggiante",
+            "Controllo a Microprocessore",
+            "Vantaggi della Tecnologia Elettronica Teklab",
+            "Sicurezza attiva",
+            "Diagnostica avanzata",
+            "Flessibilità",
+            "Diagnostics",
+            "Security",
+            "Passive Operation",
+            "Adattabilit e Compatibilit ",
+            "Investimento sulla Longevit ",
+            "Costo Totale di Gestione (TCO)",
+            "Limiti Fisici",
+            "Basso Costo Iniziale",
+            "Efficienza energetica",
+            "Prevenzione di guasti costosi",
+            "Manutenzione ottimizzata",
+            "Investimento nell'affidabilità",
+            "Sicurezza dell'intero impianto"
+        ],
+        "technical_specs": [
+            "La scelta di un regolatore di livello olio impatta direttamente sull'affidabilità e sui costi di gestione di un compressore.",
+            "Questo documento confronta la tecnologia elettronica avanzata della serie Teklab (TK3+, TK4, TK4MB) con i tradizionali regolatori meccanici a galleggiante.",
+            "I regolatori Teklab utilizzano un sensore ottico a infrarossi (un prisma che rileva la presenza o l'assenza di liquido).",
+            "Il galleggiante può bloccarsi a causa di morchia, sporcizia o particelle metalliche presenti nell'olio.",
+            "Tutti i modelli Teklab sono dotati di un microprocessore che gestisce logiche intelligenti.",
+            "Il relè di allarme integrato fornisce una sicurezza attiva, segnalando un problema prima che causi un danno.",
+            "I modelli avanzati (TK4, TK4MB) offrono una diagnostica storica completa.",
+            "Un regolatore meccanico è un dispositivo puramente passivo.",
+            "Se il galleggiante si blocca in posizione 'alta', il compressore si svuoterà d'olio senza che venga generato alcun allarme, portando a un guasto catastrofico.",
+            "La gamma Teklab è progettata per il futuro. Con varianti che supportano pressioni differenziali fino a 130 bar, sono pienamente compatibili con tutti i refrigeranti moderni, inclusi HFC, HFO e, soprattutto, CO2 (R744) in cicli subcritici e transcritici.",
+            "I regolatori meccanici sono generalmente progettati per basse pressioni differenziali e non sono adatti per i sistemi a CO2.",
+            "Il principale vantaggio di un regolatore meccanico è il suo basso costo di acquisto.",
+            "Tuttavia, questo risparmio iniziale è spesso annullato al primo grave problema non diagnosticato,"
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by Teklab's TK3+ oil level regulator?",
+            "Which refrigerants are compatible with Teklab's electronic oil level regulators?",
+            "What is the maximum pressure supported by TK3+?",
+            "Which refrigerants are compatible with Teklab products?",
+            "What is the benefit of using CO2 as a refrigerant?",
+            "How does ATEX certification improve system safety?",
+            "What is the benefit of using Teklab TK4+ diagnostics?",
+            "How does passive operation work in Teklab TK4+?",
+            "What is the maximum pressure range supported by TK3+?",
+            "Which refrigerants are compatible with TK3+?",
+            "What is the maximum pressure for TK3+ 130bar?",
+            "Which refrigerants are compatible with LC-PS?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_007_001_Confronto_Tecnologico:_Regolatori_di_Livello_Olio_",
+        "file_index": 7,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Confronto Tecnologico: Regolatori di Livello Olio Elettronici Teklab vs. Meccanici Tradizionali",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Tecnologia elettronica avanzata",
+            "Regolatore di livello olio",
+            "Compressore",
+            "Refrigerazione",
+            "Sistemi HVAC"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "TK4",
+            "Teklab",
+            "Regolatore di livello olio elettronico",
+            "Meccanici tradizionali",
+            "Compressore",
+            "Refrigerazione",
+            "Sistemi HVAC"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "La scelta di un regolatore di livello olio impatta direttamente sull'affidabilità e sui costi di gestione di un compressore.",
+            "Questo documento confronta la tecnologia elettronica avanzata della serie Teklab (TK3+, TK4, TK4MB) con i tradizionali regolatori meccanici a galleggiante."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What are the main differences between Teklab's electronic oil level regulators and traditional mechanical ones?",
+                "answer": "Teklab's electronic oil level regulators offer advanced features such as MODBUS communication, ATEX certification, and higher accuracy compared to traditional mechanical regulators. However, they also have a lower response time and require more complex installation setup.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How do Teklab's electronic oil level regulators handle pressure ranges?",
+                "answer": "Teklab's electronic oil level regulators are designed to handle a wide range of pressure ranges, including 0-600bar for the TK3+ model. They also offer custom pressure ranges for specific applications.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by Teklab's TK3+ oil level regulator?",
+            "Which refrigerants are compatible with Teklab's electronic oil level regulators?"
+        ],
+        "summary": "Teklab's electronic oil level regulators offer advanced features and higher accuracy compared to traditional mechanical regulators, but require more complex installation setup.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "0-600bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "R410A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/comparazione_prodotti/teklab_chunk_007_001_Confronto_Tecnologico:_Regolatori_di_Livello_Olio_.json",
+        "chunks/comparazione_prodotti/teklab_chunk_007_002_Meccanici_Tradizionali.json",
+        "chunks/comparazione_prodotti/teklab_chunk_007_003_Controllo_a_Microprocessore.json",
+        "chunks/comparazione_prodotti/teklab_chunk_007_004_Teklab_TK4+_Diagnostics.json",
+        "chunks/comparazione_prodotti/teklab_chunk_007_005_Ampia_Gamma_Operativa.json",
+        "chunks/comparazione_prodotti/teklab_chunk_007_006_TCO_inferiore_grazie_alla_prevenzione_di_guasti_co.json"
+    ]
+}

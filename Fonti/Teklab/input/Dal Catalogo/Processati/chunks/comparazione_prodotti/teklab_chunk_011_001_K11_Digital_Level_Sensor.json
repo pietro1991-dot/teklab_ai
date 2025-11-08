@@ -1,0 +1,136 @@
+{
+    "id": "teklab_chunk_011_001_K11_Digital_Level_Sensor",
+    "original_text": "### Testo di Comparazione: Guida alla Scelta dei Sensori di Livello Teklab (K11, K25, ATEX)\n\nLa nostra gamma di sensori di livello ottici è progettata per offrire affidabilità in diverse condizioni operative, dalla refrigerazione standard agli ambienti industriali più esigenti. Tutti i modelli utilizzano la nostra collaudata tecnologia a infrarossi senza parti in movimento, ma si distinguono per funzionalità, pressione massima e certificazioni.\n\nCapire queste differenze è fondamentale per scegliere il sensore giusto per la tua applicazione.\n\n#### **Tabella Comparativa Rapida**\n\n| Modello | Pressione Massima | Output | Certificazione Speciale | Caratteristica Unica |\n| :--- | :--- | :--- | :--- | :--- |\n| **K11** | 60 bar | Digitale (NPN/PNP) | Nessuna | Sensore di livello compatto e versatile per applicazioni standard",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - K11 Digital Level Sensor\nKey Specifications: Digital output, Compact design, Standard applications\n📌 Important Details: Sensore di livello compatto e versatile per applicazioni standard\n\nComplete technical text:\n### Testo di Comparazione: Guida alla Scelta dei Sensori di Livello Teklab (K11, K25, ATEX)\n\nLa nostra gamma di sensori di livello ottici è progettata per offrire affidabilità in diverse condizioni operative, dalla refrigerazione standard agli ambienti industriali più esigenti. Tutti i modelli utilizzano la nostra collaudata tecnologia a infrarossi senza parti in movimento, ma si distinguono per funzionalità, pressione massima e certificazioni.\n\nCapire queste differenze è fondamentale per scegliere il sensore giusto per la tua applicazione.\n\n#### **Tabella Comparativa Rapida**\n\n| Modello | Pressione Massima | Output | Certificazione Speciale | Caratteristica Unica |\n| :--- | :--- | :--- | :--- | :--- |\n| **K11** | 60 bar | Digitale (NPN/PNP) | Nessuna | Sensore di livello compatto e versatile per applicazioni standard\n\n---\n\nQuestion: What is the maximum pressure range supported by K11?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The K11 digital level sensor offers high accuracy, reliability, and ease of use for standard applications with moderate pressure ranges."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_011_001_K11_Digital_Level_Sensor",
+        "file_index": 11,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "K11 Digital Level Sensor",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Digital output",
+            "Compact design",
+            "Standard applications"
+        ],
+        "keywords_primary": [
+            "K11",
+            "digital level sensor",
+            "standard application"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Sensore di livello compatto e versatile per applicazioni standard"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by K11?",
+                "answer": "The K11 digital level sensor supports a pressure range of up to 60 bar. This makes it suitable for a wide range of applications, including those in the refrigeration industry. The compact design and versatile nature of the K11 make it an ideal choice for standard applications.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the K11 digital level sensor work?",
+                "answer": "The K11 digital level sensor uses a proven optical technology without moving parts to provide accurate and reliable level measurements. This eliminates the risk of mechanical failure and ensures consistent performance over time. The sensor is designed for standard applications, making it easy to integrate into existing systems.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What are the benefits of using a digital level sensor like K11?",
+                "answer": "The K11 digital level sensor offers several benefits, including high accuracy, reliability, and ease of use. The compact design makes it ideal for standard applications, while the digital output provides flexibility in terms of communication protocols. Additionally, the optical technology without moving parts reduces maintenance requirements and ensures consistent performance.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How do I select between K11 and other level sensors?",
+                "answer": "When selecting a level sensor, consider the specific application requirements, including pressure range, accuracy, and communication protocols. The K11 digital level sensor is suitable for standard applications with moderate pressure ranges. If you require higher or lower pressure ranges, or more advanced features, consider alternative options. It's essential to evaluate your specific needs and choose the best sensor for your application.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the response time of K11?",
+                "answer": "The response time of the K11 digital level sensor depends on various factors, including the specific application and system configuration. In general, the sensor provides fast response times, making it suitable for applications requiring rapid level measurement. However, the exact response time may vary depending on the system setup and operating conditions.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "Can K11 be used in harsh environments?",
+                "answer": "The K11 digital level sensor is designed for standard applications and may not be suitable for extreme environments. However, it can be used in moderate to harsh environments with proper installation and maintenance. If you require a sensor for extremely harsh conditions, consider alternative options that meet the specific requirements of your application.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by K11?",
+            "How does K11 work?"
+        ],
+        "summary": "The K11 digital level sensor offers high accuracy, reliability, and ease of use for standard applications with moderate pressure ranges.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "60bar",
+            "refrigerants": [
+                "R134a",
+                "R404A"
+            ],
+            "certifications": [
+                "CE"
+            ],
+            "communication": [
+                "digital output"
+            ],
+            "application_type": [
+                "standard application"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "file_index": 32,
+    "filename": "Compressori con Prodotti teklab.txt",
+    "product_family": "Generali",
+    "summary_label": "Generali: Compressori con Prodotti teklab.txt",
+    "category": "generali",
+    "total_chunks": 1,
+    "total_qa_pairs": 3,
+    "chunk_ids": [
+        "teklab_chunk_032_001_Bitzer_Compatibility_across_Semi-Hermetic_Reciproc"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "Bitzer",
+            "semi-hermetic reciprocating compressors",
+            "pressure range",
+            "temperature limits",
+            "refrigerant compatibility"
+        ],
+        "all_concepts": [
+            "Compatibility with various Bitzer compressor models",
+            "Wide range of semi-hermetic compressors supported",
+            "Importance of compatibility for industrial applications",
+            "Standardization in the industry for compressor compatibility",
+            "Significance of adapting to different compressor models"
+        ],
+        "technical_specs": [
+            "Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6",
+            "Bock (now part of Danfoss): Compatible with hydrocarbon and low-GWP models. Examples: HA4, HA5, HA6"
+        ],
+        "natural_questions": [
+            "What Bitzer compressors are supported by this product?",
+            "Which refrigerants are compatible with the supported compressors?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_032_001_Bitzer_Compatibility_across_Semi-Hermetic_Reciproc",
+        "file_index": 32,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Bitzer Compatibility across Semi-Hermetic Reciprocating Compressors",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Generali",
+        "key_concepts": [
+            "Compatibility with various Bitzer compressor models",
+            "Wide range of semi-hermetic compressors supported",
+            "Importance of compatibility for industrial applications",
+            "Standardization in the industry for compressor compatibility",
+            "Significance of adapting to different compressor models"
+        ],
+        "keywords_primary": [
+            "Bitzer",
+            "semi-hermetic reciprocating compressors",
+            "pressure range",
+            "temperature limits",
+            "refrigerant compatibility"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Examples: 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6",
+            "Bock (now part of Danfoss): Compatible with hydrocarbon and low-GWP models. Examples: HA4, HA5, HA6"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What Bitzer compressor models are supported by the product?",
+                "answer": "The product supports a wide range of semi-hermetic reciprocating compressors from Bitzer, including 4G, 4H, 4J, 4NC, 4PC, 4TC, 4VC, 6F, 6G, 6H, 6J, 8FC, S4, S6 series. This ensures compatibility with various industrial applications.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What refrigerants are compatible with the supported compressor models?",
+                "answer": "The product supports a range of refrigerants, including R134a, R404A, and CO2. It is essential to note that compatibility may vary depending on the specific compressor model and application requirements.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How do I select between TK3+ and TK4 for my industrial refrigeration system?",
+                "answer": "The selection between TK3+ and TK4 depends on your specific application requirements, including the type of compressor, refrigerant, and pressure range. It is recommended to consult the product documentation and contact a Teklab expert for guidance.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What Bitzer compressors are supported by this product?",
+            "Which refrigerants are compatible with the supported compressors?"
+        ],
+        "summary": "This product supports a wide range of semi-hermetic reciprocating compressors from Bitzer, ensuring compatibility with various industrial applications. It also supports a range of refrigerants and can be used in conjunction with other products for optimal performance.",
+        "domain_metadata": {
+            "product_family": "Generali",
+            "pressure_class": "46bar / 80bar / 130bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/generali/teklab_chunk_032_001_Bitzer_Compatibility_across_Semi-Hermetic_Reciproc.json"
+    ]
+}

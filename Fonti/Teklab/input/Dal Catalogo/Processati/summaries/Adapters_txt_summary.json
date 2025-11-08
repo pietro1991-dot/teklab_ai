@@ -1,0 +1,101 @@
+{
+    "file_index": 13,
+    "filename": "Adapters.txt",
+    "product_family": "Adapters",
+    "summary_label": "Adapters: Adapters.txt",
+    "category": "adapters",
+    "total_chunks": 1,
+    "total_qa_pairs": 0,
+    "chunk_ids": [
+        "teklab_chunk_013_001_TK3+_130bar_CO2_Oil_Level_Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "130bar CO2",
+            "oil level controller",
+            "pressure range",
+            "temperature limits"
+        ],
+        "all_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "technical_specs": [],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_013_001_TK3+_130bar_CO2_Oil_Level_Controller",
+        "file_index": 13,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Adapters",
+        "key_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "130bar CO2",
+            "oil level controller",
+            "pressure range",
+            "temperature limits"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [],
+        "qa_pairs": [],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?"
+        ],
+        "summary": "The TK3+ oil level controller is designed for use in compressors, evaporators, and other industrial applications. It features a direct mounting option and supports a maximum pressure range of 130bar.",
+        "domain_metadata": {
+            "product_family": "Adapters",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor",
+                "evaporator"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/adapters/teklab_chunk_013_001_TK3+_130bar_CO2_Oil_Level_Controller.json"
+    ]
+}

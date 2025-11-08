@@ -1,0 +1,160 @@
+{
+    "id": "teklab_chunk_015_001_Optical_Level_Control_Unit_LC-PS",
+    "original_text": "﻿Optical Level Control Unit  \n40\nLC-PS up to 46 bar \nMain Features   \n• The absence of mechanical moving parts ensures   \nHigh reliability  \n• Well consolidated steel with fused glass technology    \nensures no leakage and good chemical compati \nbility   \n• Electronic sensor can be easily replaced without  \nemptying and/or depressurizing the plant due to \nthe two parts design \n• No need for calibrations on the field   \n• Direct mounting onto various types of compressors      \n(M20x1.5 or 1”1/8 – 18 UNEF adapter) and tanks \n(1/2”NPT adapter), etc... \n• Customizable delays on request \n• Unit conform to directives 2014/30/UE and  \n2014/35/UE. Application Description \nThe optical level switch LC-PS has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible to replace the electronics without the needing  of emptying or depressurizing the plant. The sensor is suitable as minimum or maximum alarm. Delays can be introduced in order to satisfy particular needing or avoid false alarms. Operating Principle \n  \n  \n\nThe sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence. Technical Data \n41\nSUPPLY VOLTAGE (± 10%) \n\t230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model\n\tELECTRONIC PROTECTIONS \n\tTransient over voltage protection\n\tELECTRICAL CONNECTION \n\t3 wires cable, 1m length\n\tOUTPUT SIGNAL \n\tSolid state output Normally Open or Normally Closed in air. SUPPLY CURRENT \n\t20mA max. during normal operation\n\tOUTPUT MAX. CURRENT \n\tUp to 100 mA\n\tHOUSING MATERIAL \n\tNickel plated steel / PA glass fibre reinforced\n\tENCLOSURE PROTECTION CLASS \n\tIP 65\n\tWORKING TEMPERATURE RANGE \n\t-40°C÷ +85°C \n\tMAX PRESSURE \n\t46 bar (for higher pressures, please contact the supplier)\n\tTORQUE TIGHTEN \n\t50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter\n\t\n\n\n\nOrdering Codes \nPower supply/ Adapters\n\t24VAC/DC \nNormally Open (In air)\n\t24VAC/DC \nNormally Closed (In air)\n\t230VAC  \nNormally Open (In air)\n\t230VAC  \nNormally Closed (In air)\n\t1/2 NPT \n\tLC-PS7071000101A \n\tLC-PS7071010101A \n\tLC-PS707D000101A \n\tLC-PS707D010101A\n\t3/4 NPT \n\tLC-PSA071000101A \n\tLC-PSA071010101A \n\tLC-PSA07D000101A \n\tLC-PSA07D000101A\n\t1”NPT \n\tLC-PSB071000101A \n\tLC-PSB071010101A \n\tLC-PSB07D000101A \n\tLC-PSB07D010101A\n\tM20X1,5 \n\tLC-PS6071000101A \n\tLC-PS6071010101A \n\tLC-PS607D000101A \n\tLC-PS607D010101A\n\t1” 1/8 UNEF \n\tLC-PS8071000101A \n\tLC-PS8071010101A \n\tLC-PS807D000101A \n\tLC-PS807D010101A\n\t1” 1/4 RLK \n\tLC-PSC071000101A \n\tLC-PSC071010101A \n\tLC-PSC07D000101A \n\tLC-PSC07D010101A\n\t\n\n\n\n\n\n\n\n\tTHREAD \n\tDIMENSIONS \nB (MM)\n\t  \n\n\t1/2 NPT \n\t24\n\t  \n\n\t3/4 NPT \n\t22\n\t  \n\n\t1” NPT \n\t27,9\n\t  \n\n\tM20 X 1,5 \n\t18,1\n\t  \n\n\t1 - 1/8” UNEF \n\t19\n\t  \n\n\t1” 1/4 RLK \n\t30\n\t\n\n\n\nMechanical Dimensions \n\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\n\n\"B\"",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Level Switches] - Optical Level Control Unit LC-PS\nKey Specifications: High reliability due to absence of mechanical moving parts, Good chemical compatibility and no leakage thanks to fused glass technology, Electronic sensor can be easily replaced without emptying or depressurizing the plant, No need for calibrations on the field, Direct mounting onto various types of compressors and tanks\n📌 Important Details: The absence of mechanical moving parts ensures High reliability | Well consolidated steel with fused glass technology ensures no leakage and good chemical compatibility\n\nComplete technical text:\n﻿Optical Level Control Unit  \n40\nLC-PS up to 46 bar \nMain Features   \n• The absence of mechanical moving parts ensures   \nHigh reliability  \n• Well consolidated steel with fused glass technology    \nensures no leakage and good chemical compati \nbility   \n• Electronic sensor can be easily replaced without  \nemptying and/or depressurizing the plant due to \nthe two parts design \n• No need for calibrations on the field   \n• Direct mounting onto various types of compressors      \n(M20x1.5 or 1”1/8 – 18 UNEF adapter) and tanks \n(1/2”NPT adapter), etc... \n• Customizable delays on request \n• Unit conform to directives 2014/30/UE and  \n2014/35/UE. Application Description \nThe optical level switch LC-PS has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible to replace the electronics without the needing  of emptying or depressurizing the plant. The sensor is suitable as minimum or maximum alarm. Delays can be introduced in order to satisfy particular needing or avoid false alarms. Operating Principle \n  \n  \n\nThe sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence. Technical Data \n41\nSUPPLY VOLTAGE (± 10%) \n\t230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model\n\tELECTRONIC PROTECTIONS \n\tTransient over voltage protection\n\tELECTRICAL CONNECTION \n\t3 wires cable, 1m length\n\tOUTPUT SIGNAL \n\tSolid state output Normally Open or Normally Closed in air. SUPPLY CURRENT \n\t20mA max. during normal operation\n\tOUTPUT MAX. CURRENT \n\tUp to 100 mA\n\tHOUSING MATERIAL \n\tNickel plated steel / PA glass fibre reinforced\n\tENCLOSURE PROTECTION CLASS \n\tIP 65\n\tWORKING TEMPERATURE RANGE \n\t-40°C÷ +85°C \n\tMAX PRESSURE \n\t46 bar (for higher pressures, please contact the supplier)\n\tTORQUE TIGHTEN \n\t50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter\n\t\n\n\n\nOrdering Codes \nPower supply/ Adapters\n\t24VAC/DC \nNormally Open (In air)\n\t24VAC/DC \nNormally Closed (In air)\n\t230VAC  \nNormally Open (In air)\n\t230VAC  \nNormally Closed (In air)\n\t1/2 NPT \n\tLC-PS7071000101A \n\tLC-PS7071010101A \n\tLC-PS707D000101A \n\tLC-PS707D010101A\n\t3/4 NPT \n\tLC-PSA071000101A \n\tLC-PSA071010101A \n\tLC-PSA07D000101A \n\tLC-PSA07D000101A\n\t1”NPT \n\tLC-PSB071000101A \n\tLC-PSB071010101A \n\tLC-PSB07D000101A \n\tLC-PSB07D010101A\n\tM20X1,5 \n\tLC-PS6071000101A \n\tLC-PS6071010101A \n\tLC-PS607D000101A \n\tLC-PS607D010101A\n\t1” 1/8 UNEF \n\tLC-PS8071000101A \n\tLC-PS8071010101A \n\tLC-PS807D000101A \n\tLC-PS807D010101A\n\t1” 1/4 RLK \n\tLC-PSC071000101A \n\tLC-PSC071010101A \n\tLC-PSC07D000101A \n\tLC-PSC07D010101A\n\t\n\n\n\n\n\n\n\n\tTHREAD \n\tDIMENSIONS \nB (MM)\n\t  \n\n\t1/2 NPT \n\t24\n\t  \n\n\t3/4 NPT \n\t22\n\t  \n\n\t1” NPT \n\t27,9\n\t  \n\n\tM20 X 1,5 \n\t18,1\n\t  \n\n\t1 - 1/8” UNEF \n\t19\n\t  \n\n\t1” 1/4 RLK \n\t30\n\t\n\n\n\nMechanical Dimensions \n\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\t\n\n\n\n\"B\"\n\n---\n\nQuestion: What is the maximum pressure range supported by LC-PS?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "LC-PS is a reliable and accurate optical level control unit designed for use in low viscosity liquids. Its high reliability, good chemical compatibility, and absence of mechanical moving parts make it an ideal choice for critical applications."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_015_001_Optical_Level_Control_Unit_LC-PS",
+        "file_index": 15,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Optical Level Control Unit LC-PS",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Level Switches",
+        "key_concepts": [
+            "High reliability due to absence of mechanical moving parts",
+            "Good chemical compatibility and no leakage thanks to fused glass technology",
+            "Electronic sensor can be easily replaced without emptying or depressurizing the plant",
+            "No need for calibrations on the field",
+            "Direct mounting onto various types of compressors and tanks",
+            "Customizable delays on request",
+            "Unit conforms to directives 2014/30/UE and 2014/35/UE"
+        ],
+        "keywords_primary": [
+            "LC-PS",
+            "optical level control unit",
+            "pressure range up to 46bar",
+            "temperature limits",
+            "refrigerant compatibility",
+            "MODBUS protocol",
+            "ATEX certification"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The absence of mechanical moving parts ensures High reliability",
+            "Well consolidated steel with fused glass technology ensures no leakage and good chemical compatibility"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by LC-PS?",
+                "answer": "LC-PS supports a maximum pressure range of up to 46bar. This makes it suitable for use in level monitoring applications for low viscosity liquids. The unit's high reliability and good chemical compatibility ensure accurate readings even in harsh environments. Additionally, the absence of mechanical moving parts eliminates the risk of mechanical failure, making LC-PS an ideal choice for critical applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the electronic sensor in LC-PS work?",
+                "answer": "The electronic sensor in LC-PS uses an infrared-ray emitter and optical receiver to detect the presence of liquid. When the liquid reaches the sensor dome, a significant amount of light is lost, allowing the sensor to accurately detect the liquid level. This technology ensures reliable readings even in low-light environments. The electronic sensor can be easily replaced without emptying or depressurizing the plant, making maintenance and repair straightforward.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the IP rating of LC-PS?",
+                "answer": "LC-PS has an IP rating of 65, indicating its ability to withstand harsh environments and protect against dust and water ingress. This makes it suitable for use in industrial applications where reliability and durability are paramount. The unit's robust design and construction ensure accurate readings even in challenging conditions.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "Can LC-PS be customized to meet specific requirements?",
+                "answer": "Yes, LC-PS can be customized to meet specific requirements. The unit's delay function allows for adjustable response times, ensuring that the sensor accurately detects changes in liquid level. Additionally, the electronic sensor can be easily replaced without emptying or depressurizing the plant, making maintenance and repair straightforward. This flexibility makes LC-PS an ideal choice for applications where customization is required.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What refrigerants are compatible with LC-PS?",
+                "answer": "LC-PS is compatible with a range of refrigerants, including R134a, R404A, and CO2. This makes it suitable for use in applications where specific refrigerant requirements need to be met. The unit's robust design and construction ensure accurate readings even in challenging environments.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How does LC-PS integrate with MODBUS protocol?",
+                "answer": "LC-PS integrates seamlessly with the MODBUS protocol, allowing for easy communication and control. This makes it an ideal choice for applications where remote monitoring and control are required. The unit's robust design and construction ensure accurate readings even in challenging environments.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the warranty period for LC-PS?",
+                "answer": "The warranty period for LC-PS varies depending on the specific model and application. However, all Teklab products are backed by a comprehensive warranty that covers manufacturing defects and ensures reliable performance. This provides peace of mind for customers and ensures that their investment in LC-PS is protected.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by LC-PS?",
+            "How does the electronic sensor in LC-PS work?"
+        ],
+        "summary": "LC-PS is a reliable and accurate optical level control unit designed for use in low viscosity liquids. Its high reliability, good chemical compatibility, and absence of mechanical moving parts make it an ideal choice for critical applications.",
+        "domain_metadata": {
+            "product_family": "Level Switches",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor",
+                "separator"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

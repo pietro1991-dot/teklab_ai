@@ -1,0 +1,111 @@
+{
+    "id": "teklab_chunk_006_006_LC-XT_Level_Switch",
+    "original_text": "Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XT\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi standard che richiedono la praticità di un connettore.\nCaratteristica Unica e Distintiva: Funzionalità del LC-PS con la comodità di un connettore industriale.\nDescrizione del prodotto: Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard (fino a 46 bar). Questo interruttore unisce la comprovata affidabilità e le prestazioni del modello LC-PS con la significativa praticità di un connettore industriale standard DIN",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-XT Level Switch\nKey Specifications: Robustness and Versatility, Practicality of Industrial Connector, Comprovata Affidabilità e Prestazioni, Significativa Praticità di un Connettore Industriale Standard DIN, Funzionalità del LC-PS con la Comodità di un Connettore Industriale\n📌 Important Details: Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione | Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard\n\nComplete technical text:\nQuesta combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XT\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi standard che richiedono la praticità di un connettore.\nCaratteristica Unica e Distintiva: Funzionalità del LC-PS con la comodità di un connettore industriale.\nDescrizione del prodotto: Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard (fino a 46 bar). Questo interruttore unisce la comprovata affidabilità e le prestazioni del modello LC-PS con la significativa praticità di un connettore industriale standard DIN\n\n---\n\nQuestion: What is the maximum pressure range supported by LC-XT?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The LC-XT Level Switch offers a unique combination of robustness, versatility, and practicality, making it an ideal solution for applications requiring high-pressure reliability."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_006_006_LC-XT_Level_Switch",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 6,
+        "chunk_title": "LC-XT Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Robustness and Versatility",
+            "Practicality of Industrial Connector",
+            "Comprovata Affidabilità e Prestazioni",
+            "Significativa Praticità di un Connettore Industriale Standard DIN",
+            "Funzionalità del LC-PS con la Comodità di un Connettore Industriale"
+        ],
+        "keywords_primary": [
+            "LC-XT Level Switch",
+            "46bar Pressure Range",
+            "Digital Output/Connettività",
+            "Sistemi di Refrigerazione Standard",
+            "Funzionalità del LC-PS con Connettore Industriale"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione",
+            "Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by the LC-XT Level Switch?",
+                "answer": "The LC-XT Level Switch supports a maximum pressure range of 46bar, making it an ideal solution for applications requiring high-pressure reliability. This feature is particularly useful in systems where a loss of pressure would have severe consequences. The LC-XT's robust design and versatility ensure that it can withstand the rigors of high-pressure environments, providing unparalleled safety and performance.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the LC-XT Level Switch provide practicality for industrial connectors?",
+                "answer": "The LC-XT Level Switch offers a unique combination of functionality and practicality through its industrial connector. This feature allows users to easily integrate the level switch into their existing systems, reducing installation time and costs. The industrial connector also ensures that the level switch can withstand the rigors of high-pressure environments, providing reliable performance and minimizing downtime. By incorporating an industrial connector, the LC-XT Level Switch provides a convenient solution for applications requiring high-pressure reliability.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "installation"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by LC-XT?",
+            "How does LC-XT provide practicality for industrial connectors?"
+        ],
+        "summary": "The LC-XT Level Switch offers a unique combination of robustness, versatility, and practicality, making it an ideal solution for applications requiring high-pressure reliability.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "R410A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU",
+                "analog 4-20mA"
+            ],
+            "application_type": [
+                "compressor",
+                "evaporator"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

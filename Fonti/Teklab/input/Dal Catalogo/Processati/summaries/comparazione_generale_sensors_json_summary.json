@@ -1,0 +1,203 @@
+{
+    "file_index": 5,
+    "filename": "comparazione_generale_sensors.json",
+    "product_family": "Comparazione Prodotti",
+    "summary_label": "Comparazione Prodotti: comparazione_generale_sensors.json",
+    "category": "comparazione_prodotti",
+    "total_chunks": 5,
+    "total_qa_pairs": 13,
+    "chunk_ids": [
+        "teklab_chunk_005_001_Guida_alla_Scelta_dei_Sensori_di_Livello_Teklab:_K",
+        "teklab_chunk_005_002_I_modelli_K11,_K25_e_ATEX",
+        "teklab_chunk_005_003_K25_Multifunctional_Sensor",
+        "teklab_chunk_005_004_TEKLAB_ATEX_Infrarossi_Sensore",
+        "teklab_chunk_005_005_ATEX_Compliant_Oil_Level_Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "K11",
+            "K25",
+            "ATEX",
+            "MODBUS",
+            "pressure range",
+            "temperature limits",
+            "refrigerant compatibility",
+            "Capacitiva",
+            "Versatilità dell'Output (NPN/PNP/AC)",
+            "sensore multifunzione",
+            "doppia misurazione",
+            "integrazione sensori",
+            "infrarossi",
+            "temperatura",
+            "robustezza",
+            "Infrarossi",
+            "Sicurezza intrinseca",
+            "Certificazione",
+            "Sensore ottico",
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +125°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor, refrigeration)"
+        ],
+        "all_concepts": [
+            "Versatilità e applicabilità dei sensori di livello Teklab",
+            "Caratteristiche tecniche dei modelli K11, K25 e ATEX",
+            "Sicurezza e conformità alle normative",
+            "Applicazioni industriali e settori di utilizzo",
+            "Compatibilità con refrigeranti e condizioni ambientali",
+            "Versatilità dell'Output (NPN/PNP/AC) e Compattezza",
+            "Tecnologie diverse per rispondere a esigenze uniche",
+            "Controllo di processo industriale generale",
+            "Ambienti a rischio di esplosione",
+            "Sensore di livello capacitivo",
+            "Doppia Misurazione: Livello e Temperatura in un Unico Dispositivo",
+            "Integrazione di due sensori in un unico corpo robusto",
+            "Sensore ottico a infrarossi rileva la presenza del liquido con precisione",
+            "Sensore di temperatura di alta qualità misura la temperatura del fluido",
+            "Robustezza e resistenza a 150 bar",
+            "Unicitè estrema: riduce i punti di installazione, minimizza i rischi di perdita",
+            "Semplifica il cablaggio e abbassa i costi complessivi",
+            "Certificazione a Sicurezza Intrinseca per Aree a Rischio di Esplosione",
+            "Sicurezza intrinseca",
+            "Protezione contro esplosioni",
+            "Sensore ottico a infrarossi",
+            "Misura temperatura del fluido",
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "technical_specs": [
+            "I modelli K11, K25 e ATEX utilizzano tecnologie diverse per rispondere a esigenze uniche",
+            "La scelta del sensore di livello dipende dalle specifiche richieste dell'applicazione",
+            "Il K11 è un sensore di livello capacitivo, il che significa che rileva la presenza di un liquido misurando la variazione della capacità elettrica causata dal fluido stesso.",
+            "La sua caratteristica più distintiva è l'estrema versatilità dell'uscita elettronica: un unico modello può essere configurato dall'utente per funzionare come NPN, PNP o AC",
+            "Il K25 è un sensore multifunzione ad alte prestazioni, progettato specificamente per le applicazioni più esigenti",
+            "La sua unicitè risiede nell'integrazione di due sensori in un unico corpo robusto",
+            "Il sensore ATEX è un dispositivo di sicurezza specializzato, la cui progettazione è interamente focalizzata sulla prevenzione delle esplosioni.",
+            "È certificato secondo la direttiva ATEX con il livello di protezione 'Ex ia IIC', che è il più alto per la sicurezza intrinseca.",
+            "La scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX (Zone 0, 1, 2).",
+            "Quando sceglierlo, la scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX.",
+            "La sua installazione è obbligatoria per legge in qualsiasi area classificata come a rischio di esplosione."
+        ],
+        "natural_questions": [
+            "Quali sono le caratteristiche tecniche del modello K11?",
+            "Perché è necessario scegliere il modello ATEX?",
+            "Come posso selezionare tra i modelli K11 e K25?",
+            "What is the maximum pressure range for K11?",
+            "Which type of fluids can K11 handle?",
+            "What is the maximum pressure range supported by K25?",
+            "How does the K25 multifunctional sensor work?",
+            "What is ATEX Infrarossi Sensore used for?",
+            "How does ATEX Infrarossi Sensore work?",
+            "What is the maximum pressure range for TK3+?",
+            "Which refrigerants are compatible with TK3+?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_005_001_Guida_alla_Scelta_dei_Sensori_di_Livello_Teklab:_K",
+        "file_index": 5,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Guida alla Scelta dei Sensori di Livello Teklab: K11 vs K25 vs ATEX",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Versatilità e applicabilità dei sensori di livello Teklab",
+            "Caratteristiche tecniche dei modelli K11, K25 e ATEX",
+            "Sicurezza e conformità alle normative",
+            "Applicazioni industriali e settori di utilizzo",
+            "Compatibilità con refrigeranti e condizioni ambientali"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "K11",
+            "K25",
+            "ATEX",
+            "MODBUS",
+            "pressure range",
+            "temperature limits",
+            "refrigerant compatibility"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "I modelli K11, K25 e ATEX utilizzano tecnologie diverse per rispondere a esigenze uniche",
+            "La scelta del sensore di livello dipende dalle specifiche richieste dell'applicazione"
+        ],
+        "qa_pairs": [
+            {
+                "question": "Quali sono le caratteristiche tecniche dei modelli K11 e K25?",
+                "answer": "I modelli K11 e K25 offrono una serie di caratteristiche tecniche che li distinguono tra loro. Il modello K11 presenta una pressione massima di 130bar, mentre il modello K25 offre una pressione massima di 80bar. Entrambi i modelli sono progettati per garantire una precisione e una risposta rapida alle variazioni di livello. Inoltre, entrambi i modelli sono dotati di un sistema di comunicazione MODBUS RTU che consente una facile integrazione con sistemi industriali.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "product_selection"
+                ]
+            },
+            {
+                "question": "Perché è necessario scegliere il modello ATEX?",
+                "answer": "Il modello ATEX è progettato per garantire la sicurezza in ambienti a rischio di esplosione. La sua tecnologia unica consente di misurare i livelli di liquido con una precisione e una rapidità che sono fondamentali per garantire la sicurezza. Inoltre, l'ATEX è certificato secondo le normative più severe, garantendo che il modello possa essere utilizzato in ambienti estremamente pericolosi.",
+                "difficulty": "advanced",
+                "intent": [
+                    "safety",
+                    "product_selection"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "Quali sono le caratteristiche tecniche del modello K11?",
+            "Perché è necessario scegliere il modello ATEX?",
+            "Come posso selezionare tra i modelli K11 e K25?"
+        ],
+        "summary": "Il modello K11 e K25 offrono una serie di caratteristiche tecniche che li distinguono tra loro. La scelta del modello dipende dalle specifiche richieste dell'applicazione.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": [
+                "130bar",
+                "80bar"
+            ],
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/comparazione_prodotti/teklab_chunk_005_001_Guida_alla_Scelta_dei_Sensori_di_Livello_Teklab:_K.json",
+        "chunks/comparazione_prodotti/teklab_chunk_005_002_I_modelli_K11,_K25_e_ATEX.json",
+        "chunks/comparazione_prodotti/teklab_chunk_005_003_K25_Multifunctional_Sensor.json",
+        "chunks/comparazione_prodotti/teklab_chunk_005_004_TEKLAB_ATEX_Infrarossi_Sensore.json",
+        "chunks/comparazione_prodotti/teklab_chunk_005_005_ATEX_Compliant_Oil_Level_Controller.json"
+    ]
+}

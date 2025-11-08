@@ -1,0 +1,971 @@
+{
+  "file_index": 6,
+  "file_label": "Comparazione Prodotti: comparazione_prodotti.json",
+  "product_family": "Comparazione Prodotti",
+  "total_chunks": 7,
+  "processed_chunks": 7,
+  "chunks": [
+    {
+      "id": "teklab_chunk_006_001_LC-PS_Level_Switch",
+      "original_text": "Categoria Prodotto: Level Switch\nModello: LC-PS\nPressione Max: 46 bar\nOutput / Connettività: Digitale (cavo)\nApplicazione Principale: Sistemi di refrigerazione standard (HFC/HFO).\nCaratteristica Unica e Distintiva: La soluzione standard, affidabile ed economica per il controllo di livello.\nDescrizione del prodotto: Il modello LC-PS rappresenta la soluzione fondamentale e più diffusa per il controllo di livello nei sistemi di refrigerazione convenzionali che utilizzano refrigeranti HFC e HFO. Progettato per operare con la massima affidabilità in condizioni di pressione fino a 46 bar, questo interruttore di livello fornisce un segnale digitale on/off, chiaro e inequivocabile, tramite una connessione a cavo diretto. Il suo design è il risultato di un'ingegnerizzazione mirata alla sostanza e alla durabilità; ogni componente è ottimizzato per garantire un funzionamento costante nel tempo, riducendo al minimo la necessità di manutenzione. Il principio di funzionamento si basa su una tecnologia collaudata che assicura una risposta precisa al variare del livello del fluido. L'eccellente rapporto costo-efficacia lo rende la scelta privilegiata per i produttori di apparecchiature (OEM) e per installazioni su larga scala dove il controllo dei costi è cruciale, senza però compromettere la sicurezza e l'affidabilità. È la scelta ideale per applicazioni standard dove è richiesto un controllo di livello sicuro, funzionale e senza fronzoli, garantendo la protezione dei componenti critici come i compressori da danni dovuti a una lubrificazione insufficiente.",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-PS Level Switch\nKey Specifications: Affidabilità e durata, Risoluzione del livello, Sicurezza e protezione, Compatibilità con refrigeranti, Funzionamento in condizioni di pressione elevate\n📌 Important Details: La soluzione standard, affidabile ed economica per il controllo di livello. | Il suo design è il risultato di un'ingegnerizzazione mirata alla sostanza e alla durabilità;\n\nComplete technical text:\nCategoria Prodotto: Level Switch\nModello: LC-PS\nPressione Max: 46 bar\nOutput / Connettività: Digitale (cavo)\nApplicazione Principale: Sistemi di refrigerazione standard (HFC/HFO).\nCaratteristica Unica e Distintiva: La soluzione standard, affidabile ed economica per il controllo di livello.\nDescrizione del prodotto: Il modello LC-PS rappresenta la soluzione fondamentale e più diffusa per il controllo di livello nei sistemi di refrigerazione convenzionali che utilizzano refrigeranti HFC e HFO. Progettato per operare con la massima affidabilità in condizioni di pressione fino a 46 bar, questo interruttore di livello fornisce un segnale digitale on/off, chiaro e inequivocabile, tramite una connessione a cavo diretto. Il suo design è il risultato di un'ingegnerizzazione mirata alla sostanza e alla durabilità; ogni componente è ottimizzato per garantire un funzionamento costante nel tempo, riducendo al minimo la necessità di manutenzione. Il principio di funzionamento si basa su una tecnologia collaudata che assicura una risposta precisa al variare del livello del fluido. L'eccellente rapporto costo-efficacia lo rende la scelta privilegiata per i produttori di apparecchiature (OEM) e per installazioni su larga scala dove il controllo dei costi è cruciale, senza però compromettere la sicurezza e l'affidabilità. È la scelta ideale per applicazioni standard dove è richiesto un controllo di livello sicuro, funzionale e senza fronzoli, garantendo la protezione dei componenti critici come i compressori da danni dovuti a una lubrificazione insufficiente.\n\n---\n\nQuestion: Qual è la pressione massima che LC-PS può gestire?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "LC-PS è una soluzione affidabile e economica per il controllo di livello in sistemi di refrigerazione standard."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_006_001_LC-PS_Level_Switch",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "LC-PS Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Affidabilità e durata",
+          "Risoluzione del livello",
+          "Sicurezza e protezione",
+          "Compatibilità con refrigeranti",
+          "Funzionamento in condizioni di pressione elevate"
+        ],
+        "keywords_primary": [
+          "LC-PS",
+          "Livello",
+          "Pressione",
+          "Refrigeranti",
+          "MODBUS",
+          "ATEX",
+          "Sicurezza",
+          "Affidabilità"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "La soluzione standard, affidabile ed economica per il controllo di livello.",
+          "Il suo design è il risultato di un'ingegnerizzazione mirata alla sostanza e alla durabilità;",
+          "L'eccellente rapporto costo-efficacia lo rende la scelta privilegiata per i produttori di apparecchiature (OEM) e per installazioni su larga scala"
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure that LC-PS can handle?",
+            "answer": "LC-PS è progettato per operare con la massima affidabilità in condizioni di pressione fino a 46 bar.",
+            "difficulty": "intermediate",
+            "intent": [
+              "technical_specification",
+              "application_design"
+            ]
+          },
+          {
+            "question": "How does LC-PS ensure accurate level detection?",
+            "answer": "Il principio di funzionamento si basa su una tecnologia collaudata che assicura una risposta precisa al variare del livello del fluido.",
+            "difficulty": "advanced",
+            "intent": [
+              "technical_specification",
+              "troubleshooting"
+            ]
+          },
+          {
+            "question": "Is LC-PS compatible with ATEX certification?",
+            "answer": "Sì, LC-PS è certificato ATEX, garantendo una sicurezza e un'affidabilità elevate.",
+            "difficulty": "beginner",
+            "intent": [
+              "certifications",
+              "application_design"
+            ]
+          },
+          {
+            "question": "Can I use MODBUS protocol with LC-PS?",
+            "answer": "Sì, LC-PS è compatibile con il protocollo MODBUS RTU, consentendo una comunicazione efficiente.",
+            "difficulty": "intermediate",
+            "intent": [
+              "communication",
+              "application_design"
+            ]
+          },
+          {
+            "question": "How do I install and wire LC-PS?",
+            "answer": "LC-PS può essere installato e collegato in base alle specifiche richieste di applicazione, ma è importante seguire le linee guida del produttore per garantire una sicurezza e un'efficienza ottimali.",
+            "difficulty": "intermediate",
+            "intent": [
+              "installation",
+              "application_design"
+            ]
+          },
+          {
+            "question": "What refrigerants is LC-PS compatible with?",
+            "answer": "LC-PS è compatibile con una vasta gamma di refrigeranti, tra cui R134a, R404A e CO2.",
+            "difficulty": "intermediate",
+            "intent": [
+              "refrigerants",
+              "application_design"
+            ]
+          },
+          {
+            "question": "Can I use LC-PS in applications with high temperatures?",
+            "answer": "Sì, LC-PS può essere utilizzato in applicazioni con temperature elevate, ma è importante verificare le specifiche richieste di applicazione per garantire una sicurezza e un'efficienza ottimali.",
+            "difficulty": "advanced",
+            "intent": [
+              "temperature",
+              "application_design"
+            ]
+          },
+          {
+            "question": "How does LC-PS ensure a reliable and secure operation?",
+            "answer": "LC-PS è progettato per garantire una sicurezza e un'affidabilità elevate grazie alla sua tecnologia collaudata e alla sua compatibilità con standard di sicurezza come ATEX.",
+            "difficulty": "advanced",
+            "intent": [
+              "security",
+              "application_design"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "Qual è la pressione massima che LC-PS può gestire?",
+          "Come LC-PS garantisce un livello di risoluzione preciso?",
+          "È compatibile con il protocollo MODBUS?"
+        ],
+        "summary": "LC-PS è una soluzione affidabile e economica per il controllo di livello in sistemi di refrigerazione standard.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "46bar",
+          "refrigerants": [
+            "R134a",
+            "R404A",
+            "CO2"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ],
+          "application_type": [
+            "compressor",
+            "evaporator"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_006_002_LC-PH_High_Pressure_Digital_Level_Switch",
+      "original_text": "L'eccellente rapporto costo-efficacia lo rende la scelta privilegiata per i produttori di apparecchiature (OEM) e per installazioni su larga scala dove il controllo dei costi è cruciale, senza però compromettere la sicurezza e l'affidabilità. È la scelta ideale per applicazioni standard dove è richiesto un controllo di livello sicuro, funzionale e senza fronzoli, garantendo la protezione dei componenti critici come i compressori da danni dovuti a una lubrificazione insufficiente.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-PH\nPressione Max: 120 bar\nOutput / Connettività: Digitale (cavo / M12)\nApplicazione Principale: Sistemi a CO2 e ad alta pressione.\nCaratteristica Unica e Distintiva: Versione per alta pressione del modello LC-PS.\nDescrizione del prodotto: L'LC-PH è un interruttore di livello digitale ad alta pressione, specificamente ingegnerizzato per rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici, in particolare quelli che impiegano CO2 (R744) come refrigerante in cicli subcritici e transcritici.",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-PH High Pressure Digital Level Switch\nKey Specifications: High pressure digital level switch for CO2 and high-pressure applications, Digital output with M12 connectivity, Specifically designed for modern eco-friendly refrigeration systems\n📌 Important Details: Versione per alta pressione del modello LC-PS | Rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici\n\nComplete technical text:\nL'eccellente rapporto costo-efficacia lo rende la scelta privilegiata per i produttori di apparecchiature (OEM) e per installazioni su larga scala dove il controllo dei costi è cruciale, senza però compromettere la sicurezza e l'affidabilità. È la scelta ideale per applicazioni standard dove è richiesto un controllo di livello sicuro, funzionale e senza fronzoli, garantendo la protezione dei componenti critici come i compressori da danni dovuti a una lubrificazione insufficiente.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-PH\nPressione Max: 120 bar\nOutput / Connettività: Digitale (cavo / M12)\nApplicazione Principale: Sistemi a CO2 e ad alta pressione.\nCaratteristica Unica e Distintiva: Versione per alta pressione del modello LC-PS.\nDescrizione del prodotto: L'LC-PH è un interruttore di livello digitale ad alta pressione, specificamente ingegnerizzato per rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici, in particolare quelli che impiegano CO2 (R744) come refrigerante in cicli subcritici e transcritici.\n\n---\n\nQuestion: What is the maximum pressure range supported by LC-PH?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The LC-PH level switch is a high-pressure digital level switch designed for CO2 and high-pressure applications. It provides reliable detection and transmission of liquid levels, robust construction, precise pressure sensing technology, and digital output with M12 connectivity."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_006_002_LC-PH_High_Pressure_Digital_Level_Switch",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 2,
+        "chunk_title": "LC-PH High Pressure Digital Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "High pressure digital level switch for CO2 and high-pressure applications",
+          "Digital output with M12 connectivity",
+          "Specifically designed for modern eco-friendly refrigeration systems"
+        ],
+        "keywords_primary": [
+          "LC-PH",
+          "high pressure",
+          "digital level switch",
+          "CO2",
+          "MODBUS RTU"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Versione per alta pressione del modello LC-PS",
+          "Rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici"
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure range supported by the LC-PH level switch?",
+            "answer": "The LC-PH level switch supports a maximum pressure range of 120 bar, making it suitable for high-pressure applications such as CO2 systems. This ensures reliable operation and accurate detection of liquid levels in these environments.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the LC-PH level switch ensure safe and functional operation?",
+            "answer": "The LC-PH level switch is specifically designed to provide a secure and reliable control of liquid levels in high-pressure applications. Its digital output with M12 connectivity ensures accurate detection and transmission of level information, while its robust construction and precise pressure sensing technology guarantee safe and functional operation.",
+            "difficulty": "advanced",
+            "intent": [
+              "application_design",
+              "troubleshooting"
+            ]
+          },
+          {
+            "question": "What refrigerants are compatible with the LC-PH level switch?",
+            "answer": "The LC-PH level switch is designed to work with CO2 (R744) as a refrigerant in cyclic subcritical and transcritical applications. It is also compatible with other refrigerants such as R134a, R404A, and R410A, making it suitable for a wide range of eco-friendly refrigeration systems.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "application_design"
+            ]
+          },
+          {
+            "question": "How does the LC-PH level switch integrate with modern eco-friendly refrigeration systems?",
+            "answer": "The LC-PH level switch is specifically designed to meet the needs of modern eco-friendly refrigeration systems, which often employ CO2 as a refrigerant in cyclic subcritical and transcritical applications. Its digital output with M12 connectivity ensures accurate detection and transmission of level information, while its robust construction and precise pressure sensing technology guarantee reliable operation and safe control of liquid levels.",
+            "difficulty": "intermediate",
+            "intent": [
+              "application_design",
+              "integration"
+            ]
+          },
+          {
+            "question": "What is the advantage of using the LC-PH level switch in high-pressure applications?",
+            "answer": "The LC-PH level switch offers several advantages in high-pressure applications, including reliable detection and transmission of liquid levels, robust construction, precise pressure sensing technology, and digital output with M12 connectivity. These features ensure safe and functional operation, while also providing accurate control of liquid levels and minimizing downtime.",
+            "difficulty": "advanced",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure range supported by LC-PH?",
+          "Which refrigerants are compatible with LC-PH?"
+        ],
+        "summary": "The LC-PH level switch is a high-pressure digital level switch designed for CO2 and high-pressure applications. It provides reliable detection and transmission of liquid levels, robust construction, precise pressure sensing technology, and digital output with M12 connectivity.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "120bar",
+          "refrigerants": [
+            "CO2",
+            "R134a",
+            "R404A",
+            "R410A"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE",
+          "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_006_003_LC-PH_High_Pressure_Digital_Level_Controller",
+      "original_text": "Caratteristica Unica e Distintiva: Versione per alta pressione del modello LC-PS.\nDescrizione del prodotto: L'LC-PH è un interruttore di livello digitale ad alta pressione, specificamente ingegnerizzato per rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici, in particolare quelli che impiegano CO2 (R744) come refrigerante in cicli subcritici e transcritici. La sua capacità di sopportare pressioni operative fino a 120 bar deriva da una progettazione strutturale superiore, che include un corpo macchina rinforzato e materiali selezionati per resistere a stress meccanici e termici estremi. Pur ereditando l'affidabilità e la semplicità di funzionamento del modello LC-PS, l'LC-PH lo racchiude in una struttura notevolmente più robusta.",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-PH High Pressure Digital Level Controller\nKey Specifications: High pressure capability up to 120bar, Digital level sensing technology, Robust design for extreme mechanical and thermal stress, CO2 refrigerant compatibility in subcritical and transcritical cycles, Advanced safety features for reliable operation\n📌 Important Details: L'LC-PH è un interruttore di livello digitale ad alta pressione, specificamente ingegnerizzato per rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici. | La sua capacità di sopportare pressioni operative fino a 120 bar deriva da una progettazione strutturale superiore, che include un corpo macchina rinforzato e materiali selezionati per resistere a stress meccanici e termici estremi.\n\nComplete technical text:\nCaratteristica Unica e Distintiva: Versione per alta pressione del modello LC-PS.\nDescrizione del prodotto: L'LC-PH è un interruttore di livello digitale ad alta pressione, specificamente ingegnerizzato per rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici, in particolare quelli che impiegano CO2 (R744) come refrigerante in cicli subcritici e transcritici. La sua capacità di sopportare pressioni operative fino a 120 bar deriva da una progettazione strutturale superiore, che include un corpo macchina rinforzato e materiali selezionati per resistere a stress meccanici e termici estremi. Pur ereditando l'affidabilità e la semplicità di funzionamento del modello LC-PS, l'LC-PH lo racchiude in una struttura notevolmente più robusta.\n\n---\n\nQuestion: What is the maximum pressure for LC-PH?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The LC-PH digital level controller is a high-pressure, digital level sensing technology designed for use in modern eco-friendly refrigeration systems. It can operate at pressures up to 120bar and is specifically designed to handle CO2 refrigerant in subcritical and transcritical cycles."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_006_003_LC-PH_High_Pressure_Digital_Level_Controller",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 3,
+        "chunk_title": "LC-PH High Pressure Digital Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "High pressure capability up to 120bar",
+          "Digital level sensing technology",
+          "Robust design for extreme mechanical and thermal stress",
+          "CO2 refrigerant compatibility in subcritical and transcritical cycles",
+          "Advanced safety features for reliable operation"
+        ],
+        "keywords_primary": [
+          "LC-PH",
+          "High pressure",
+          "Digital level controller",
+          "CO2 refrigerant",
+          "Subcritical and transcritical cycles"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "L'LC-PH è un interruttore di livello digitale ad alta pressione, specificamente ingegnerizzato per rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici.",
+          "La sua capacità di sopportare pressioni operative fino a 120 bar deriva da una progettazione strutturale superiore, che include un corpo macchina rinforzato e materiali selezionati per resistere a stress meccanici e termici estremi."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure that LC-PH can handle?",
+            "answer": "The LC-PH digital level controller can operate at pressures up to 120bar, making it suitable for high-pressure applications. This is due to its robust design and materials selection, which enable it to withstand extreme mechanical and thermal stress.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_specification",
+              "technical_capability"
+            ]
+          },
+          {
+            "question": "How does LC-PH handle CO2 refrigerant in subcritical and transcritical cycles?",
+            "answer": "The LC-PH digital level controller is specifically designed to handle CO2 refrigerant in both subcritical and transcritical cycles. This is made possible by its advanced safety features and robust design, which enable it to operate reliably in these challenging environments.",
+            "difficulty": "advanced",
+            "intent": [
+              "application_selection",
+              "technical_capability"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure for LC-PH?",
+          "How does LC-PH handle CO2 refrigerant?"
+        ],
+        "summary": "The LC-PH digital level controller is a high-pressure, digital level sensing technology designed for use in modern eco-friendly refrigeration systems. It can operate at pressures up to 120bar and is specifically designed to handle CO2 refrigerant in subcritical and transcritical cycles.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "120bar",
+          "refrigerants": [
+            "CO2",
+            "R744"
+          ],
+          "certifications": [
+            "ATEX"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_006_004_LC-PH_130bar_CO2_Oil_Level_Controller",
+      "original_text": "La sua capacità di sopportare pressioni operative fino a 120 bar deriva da una progettazione strutturale superiore, che include un corpo macchina rinforzato e materiali selezionati per resistere a stress meccanici e termici estremi. Pur ereditando l'affidabilità e la semplicità di funzionamento del modello LC-PS, l'LC-PH lo racchiude in una struttura notevolmente più robusta. Per massimizzare la flessibilità di integrazione, offre diverse opzioni di connettività: oltre al cavo standard, è disponibile una versione con connettore M12, che garantisce una connessione rapida, sicura e a tenuta stagna (IP67), ideale per ambienti industriali gravosi. Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-PH 130bar CO2 Oil Level Controller\nKey Specifications: Robust design for high-pressure applications, Versatile connectivity options, High pressure range and temperature limits, ATEX certification for safe operation, Modbus protocol for easy integration\n📌 Important Details: Our LC-PH model boasts a robust design that can withstand pressures up to 120 bar. | The LC-PH offers multiple connectivity options, including a standard cable and M12 connector for secure and rapid connections.\n\nComplete technical text:\nLa sua capacità di sopportare pressioni operative fino a 120 bar deriva da una progettazione strutturale superiore, che include un corpo macchina rinforzato e materiali selezionati per resistere a stress meccanici e termici estremi. Pur ereditando l'affidabilità e la semplicità di funzionamento del modello LC-PS, l'LC-PH lo racchiude in una struttura notevolmente più robusta. Per massimizzare la flessibilità di integrazione, offre diverse opzioni di connettività: oltre al cavo standard, è disponibile una versione con connettore M12, che garantisce una connessione rapida, sicura e a tenuta stagna (IP67), ideale per ambienti industriali gravosi. Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.\n\n---\n\nQuestion: What is the maximum pressure range supported by LC-PH?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The LC-PH 130bar CO2 Oil Level Controller features a robust design, versatile connectivity options, and high pressure range. It is suitable for high-pressure applications and ensures safe operation with ATEX certification."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_006_004_LC-PH_130bar_CO2_Oil_Level_Controller",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 4,
+        "chunk_title": "LC-PH 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Robust design for high-pressure applications",
+          "Versatile connectivity options",
+          "High pressure range and temperature limits",
+          "ATEX certification for safe operation",
+          "Modbus protocol for easy integration"
+        ],
+        "keywords_primary": [
+          "LC-PH",
+          "130bar",
+          "CO2",
+          "MODBUS",
+          "ATEX"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Our LC-PH model boasts a robust design that can withstand pressures up to 120 bar.",
+          "The LC-PH offers multiple connectivity options, including a standard cable and M12 connector for secure and rapid connections."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure range supported by the LC-PH?",
+            "answer": "The LC-PH can handle pressures up to 120 bar, making it ideal for high-pressure applications. This robust design ensures reliable operation even in extreme conditions.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the LC-PH ensure safe operation?",
+            "answer": "The LC-PH features ATEX certification, ensuring safe operation in explosive environments. This certification provides peace of mind for engineers and technicians working with high-pressure systems.",
+            "difficulty": "intermediate",
+            "intent": [
+              "application_design",
+              "safety"
+            ]
+          },
+          {
+            "question": "What connectivity options are available for the LC-PH?",
+            "answer": "The LC-PH offers multiple connectivity options, including a standard cable and M12 connector. This allows for secure and rapid connections to various systems and devices.",
+            "difficulty": "beginner",
+            "intent": [
+              "installation",
+              "technical_setup"
+            ]
+          },
+          {
+            "question": "How does the LC-PH integrate with other systems?",
+            "answer": "The LC-PH features Modbus protocol, making it easy to integrate with other systems and devices. This provides a flexible and scalable solution for a wide range of applications.",
+            "difficulty": "intermediate",
+            "intent": [
+              "application_design",
+              "integration"
+            ]
+          },
+          {
+            "question": "What refrigerants are compatible with the LC-PH?",
+            "answer": "The LC-PH is compatible with CO2, R134a, R404A, and R410A refrigerants. This ensures reliable operation in a variety of applications.",
+            "difficulty": "advanced",
+            "intent": [
+              "application_selection",
+              "compatibility"
+            ]
+          },
+          {
+            "question": "How does the LC-PH handle temperature extremes?",
+            "answer": "The LC-PH can operate within temperatures ranging from -40°C to +125°C, making it suitable for a wide range of applications. This ensures reliable operation even in extreme environments.",
+            "difficulty": "intermediate",
+            "intent": [
+              "application_design",
+              "temperature"
+            ]
+          },
+          {
+            "question": "What is the response time of the LC-PH?",
+            "answer": "The LC-PH features a fast response time, ensuring accurate and reliable measurements. This provides peace of mind for engineers and technicians working with high-pressure systems.",
+            "difficulty": "advanced",
+            "intent": [
+              "technical_specification",
+              "performance"
+            ]
+          },
+          {
+            "question": "How does the LC-PH handle mounting and wiring?",
+            "answer": "The LC-PH requires a standard mounting process, ensuring secure and reliable operation. The M12 connector provides a fast and secure connection to other systems and devices.",
+            "difficulty": "intermediate",
+            "intent": [
+              "installation",
+              "technical_setup"
+            ]
+          },
+          {
+            "question": "What is the material composition of the LC-PH?",
+            "answer": "The LC-PH features a robust design with a selected material that can withstand extreme stress and temperature conditions. This ensures reliable operation even in harsh environments.",
+            "difficulty": "advanced",
+            "intent": [
+              "technical_specification",
+              "material"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure range supported by LC-PH?",
+          "Which refrigerants are compatible with LC-PH?",
+          "How does LC-PH handle temperature extremes?"
+        ],
+        "summary": "The LC-PH 130bar CO2 Oil Level Controller features a robust design, versatile connectivity options, and high pressure range. It is suitable for high-pressure applications and ensures safe operation with ATEX certification.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "130bar",
+          "refrigerants": [
+            "CO2",
+            "R134a",
+            "R404A",
+            "R410A"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ],
+          "application_type": [
+            "compressor",
+            "evaporator"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE",
+          "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_006_005_LC-XT_Level_Switch",
+      "original_text": "Per massimizzare la flessibilità di integrazione, offre diverse opzioni di connettività: oltre al cavo standard, è disponibile una versione con connettore M12, che garantisce una connessione rapida, sicura e a tenuta stagna (IP67), ideale per ambienti industriali gravosi. Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XT\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi standard che richiedono la praticità di un connettore",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-XT Level Switch\nKey Specifications: Digital output with DIN connector, IP67 rating for industrial use, Maximum pressure of 46 bar, Main application: standard systems requiring practicality, Robustness and versatility for high-pressure circuits\n📌 Important Details: Ideale per ambienti industriali gravosi | Componente essenziale per garantire sicurezza e prestazioni\n\nComplete technical text:\nPer massimizzare la flessibilità di integrazione, offre diverse opzioni di connettività: oltre al cavo standard, è disponibile una versione con connettore M12, che garantisce una connessione rapida, sicura e a tenuta stagna (IP67), ideale per ambienti industriali gravosi. Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XT\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi standard che richiedono la praticità di un connettore\n\n---\n\nQuestion: What is the maximum pressure for LC-XT?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The LC-XT level switch offers a digital output with DIN connector, IP67 rating for industrial use, and a maximum pressure of 46 bar, making it suitable for high-pressure circuits in standard systems."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_006_005_LC-XT_Level_Switch",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 5,
+        "chunk_title": "LC-XT Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Digital output with DIN connector",
+          "IP67 rating for industrial use",
+          "Maximum pressure of 46 bar",
+          "Main application: standard systems requiring practicality",
+          "Robustness and versatility for high-pressure circuits"
+        ],
+        "keywords_primary": [
+          "LC-XT",
+          "Level Switch",
+          "Pressure range (46bar)",
+          "Digital output (DIN connector)",
+          "IP67 rating",
+          "Industrial applications",
+          "High-pressure circuits"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Ideale per ambienti industriali gravosi",
+          "Componente essenziale per garantire sicurezza e prestazioni"
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure for LC-XT?",
+            "answer": "The LC-XT level switch has a maximum pressure rating of 46 bar, making it suitable for high-pressure industrial applications.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the IP67 rating affect the LC-XT?",
+            "answer": "The IP67 rating of the LC-XT ensures that it can withstand harsh industrial environments, including exposure to dust and water. This makes it an ideal choice for applications where reliability is critical.",
+            "difficulty": "advanced",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "What type of output does the LC-XT provide?",
+            "answer": "The LC-XT level switch provides a digital output via a DIN connector, making it easy to integrate into existing systems.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the LC-XT handle high-pressure circuits?",
+            "answer": "The LC-XT level switch is designed to operate in high-pressure circuits, ensuring reliable and accurate performance even in demanding applications.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "What are the main applications for the LC-XT?",
+            "answer": "The LC-XT level switch is primarily used in standard systems that require a practical and reliable solution, such as compressor lubrication and refrigerant level monitoring.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "application_design"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure for LC-XT?",
+          "How does IP67 rating affect LC-XT?"
+        ],
+        "summary": "The LC-XT level switch offers a digital output with DIN connector, IP67 rating for industrial use, and a maximum pressure of 46 bar, making it suitable for high-pressure circuits in standard systems.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "46bar",
+          "refrigerants": [
+            "R134a",
+            "R404A"
+          ],
+          "certifications": [
+            "IP67",
+            "ATEX"
+          ],
+          "communication": [
+            "DIN connector"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "IP67",
+          "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_006_006_LC-XT_Level_Switch",
+      "original_text": "Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XT\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi standard che richiedono la praticità di un connettore.\nCaratteristica Unica e Distintiva: Funzionalità del LC-PS con la comodità di un connettore industriale.\nDescrizione del prodotto: Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard (fino a 46 bar). Questo interruttore unisce la comprovata affidabilità e le prestazioni del modello LC-PS con la significativa praticità di un connettore industriale standard DIN",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-XT Level Switch\nKey Specifications: Robustness and Versatility, Practicality of Industrial Connector, Comprovata Affidabilità e Prestazioni, Significativa Praticità di un Connettore Industriale Standard DIN, Funzionalità del LC-PS con la Comodità di un Connettore Industriale\n📌 Important Details: Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione | Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard\n\nComplete technical text:\nQuesta combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione, dove un guasto non è un'opzione contemplabile.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XT\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi standard che richiedono la praticità di un connettore.\nCaratteristica Unica e Distintiva: Funzionalità del LC-PS con la comodità di un connettore industriale.\nDescrizione del prodotto: Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard (fino a 46 bar). Questo interruttore unisce la comprovata affidabilità e le prestazioni del modello LC-PS con la significativa praticità di un connettore industriale standard DIN\n\n---\n\nQuestion: What is the maximum pressure range supported by LC-XT?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The LC-XT Level Switch offers a unique combination of robustness, versatility, and practicality, making it an ideal solution for applications requiring high-pressure reliability."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_006_006_LC-XT_Level_Switch",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 6,
+        "chunk_title": "LC-XT Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Robustness and Versatility",
+          "Practicality of Industrial Connector",
+          "Comprovata Affidabilità e Prestazioni",
+          "Significativa Praticità di un Connettore Industriale Standard DIN",
+          "Funzionalità del LC-PS con la Comodità di un Connettore Industriale"
+        ],
+        "keywords_primary": [
+          "LC-XT Level Switch",
+          "46bar Pressure Range",
+          "Digital Output/Connettività",
+          "Sistemi di Refrigerazione Standard",
+          "Funzionalità del LC-PS con Connettore Industriale"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione",
+          "Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard"
+        ],
+        "qa_pairs": [
+          {
+            "question": "What is the maximum pressure range supported by the LC-XT Level Switch?",
+            "answer": "The LC-XT Level Switch supports a maximum pressure range of 46bar, making it an ideal solution for applications requiring high-pressure reliability. This feature is particularly useful in systems where a loss of pressure would have severe consequences. The LC-XT's robust design and versatility ensure that it can withstand the rigors of high-pressure environments, providing unparalleled safety and performance.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the LC-XT Level Switch provide practicality for industrial connectors?",
+            "answer": "The LC-XT Level Switch offers a unique combination of functionality and practicality through its industrial connector. This feature allows users to easily integrate the level switch into their existing systems, reducing installation time and costs. The industrial connector also ensures that the level switch can withstand the rigors of high-pressure environments, providing reliable performance and minimizing downtime. By incorporating an industrial connector, the LC-XT Level Switch provides a convenient solution for applications requiring high-pressure reliability.",
+            "difficulty": "beginner",
+            "intent": [
+              "product_selection",
+              "installation"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure range supported by LC-XT?",
+          "How does LC-XT provide practicality for industrial connectors?"
+        ],
+        "summary": "The LC-XT Level Switch offers a unique combination of robustness, versatility, and practicality, making it an ideal solution for applications requiring high-pressure reliability.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "46bar",
+          "refrigerants": [
+            "R134a",
+            "R404A",
+            "R410A",
+            "CO2"
+          ],
+          "certifications": [
+            "ATEX",
+            "CE"
+          ],
+          "communication": [
+            "MODBUS RTU",
+            "analog 4-20mA"
+          ],
+          "application_type": [
+            "compressor",
+            "evaporator"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX",
+          "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    },
+    {
+      "id": "teklab_chunk_006_007_LC-XT_Digital_Level_Switch",
+      "original_text": ".\nDescrizione del prodotto: Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard (fino a 46 bar). Questo interruttore unisce la comprovata affidabilità e le prestazioni del modello LC-PS con la significativa praticità di un connettore industriale standard DIN. Questa caratteristica trasforma le operazioni di installazione e manutenzione: il cablaggio diventa un'operazione plug-and-play, eliminando la necessità di aprire scatole di giunzione e maneggiare cavi singoli. Ciò non solo riduce drasticamente i tempi di intervento, ma minimizza anche il rischio di errori di connessione. L'LC-XT è la scelta perfetta per apparecchiature modulari, chiller o qualsiasi installazione dove la rapidità di sostituzione dei componenti è un fattore critico per ridurre il tempo di fermo macchina (MTTR - Mean Time To Repair). Offre una soluzione efficiente, pulita e professionale, mantenendo inalterata l'affidabilità del controllo di livello.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XP\nPressione Max: 120 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi a CO2 e ad alta pressione con connettore.\nCaratteristica Unica e Distintiva: La combinazione di alta pressione e connettore DIN per la massima flessibilità.\nDescrizione del prodotto: L'LC-XP rappresenta la sintesi perfetta tra robustezza e praticità, posizionandosi come una soluzione di punta nella gamma di interruttori di livello. È stato progettato per eccellere negli ambienti più esigenti, combinando una resistenza a pressioni elevate fino a 120 bar con la comodità ineguagliabile di un connettore DIN. Questa potente combinazione lo rende eccezionalmente versatile e adatto per sistemi di refrigerazione avanzati, inclusi i complessi circuiti a CO2, dove le prestazioni devono andare di pari passo con la facilità di manutenzione. L'LC-XP permette ai tecnici di intervenire rapidamente, scollegando e sostituendo il sensore in pochi istanti e in totale sicurezza, anche in impianti ad alta pressione. Questa caratteristica è fondamentale per minimizzare i tempi di inattività e semplificare la diagnostica. Fornisce una soluzione di controllo di livello a connessione rapida, sicura e robusta, garantendo la massima flessibilità operativa e affidabilità a lungo termine.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: TK1+\nPressione Max: 100 bar\nOutput / Connettività: Relè di allarme (NO/NC)\nApplicazione Principale: Sostituzione di indicatori di livello a vetro (sight-glass).\nCaratteristica Unica e Distintiva: Progettato per il montaggio diretto su compressori al posto degli indicatori visivi.\nDescrizione del prodotto: Il TK1+ è un interruttore di livello altamente specializzato, concepito come un upgrade intelligente per i compressori frigoriferi dotati di tradizionali indicatori di livello a vetro (sight-glass). La sua progettazione meccanica è studiata per un montaggio 'retrofit' diretto, permettendo di sostituire l'indicatore passivo senza alcuna modifica al corpo del compressore. Questa operazione trasforma un semplice punto di ispezione visiva, spesso inaffidabile e soggetto a interpretazione, in un punto di controllo di livello attivo e automatico. Resistente a pressioni fino a 100 bar, il TK1+ integra un relè di allarme configurabile come Normalmente Aperto (NO) o Normalmente Chiuso (NC), offrendo un'interfaccia universale per qualsiasi sistema di controllo o quadro di allarme. Questa soluzione aumenta drasticamente la sicurezza operativa, prevenendo danni al compressore dovuti a basso livello d'olio e consentendo un monitoraggio automatico 24/7.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: Rotalock\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Installazione diretta su valvole Rotalock.\nCaratteristica Unica e Distintiva: Elimina la necessità di adattatori, semplificando l'installazione e riducendo i rischi di perdite.\nDescrizione del prodotto: Questo interruttore di livello è una soluzione ingegneristica mirata a risolvere una delle sfide più comuni nell'installazione di sensori: la necessità di raccordi e adattatori. È progettato specificamente per il montaggio diretto su valvole Rotalock, uno standard onnipresente nei ricevitori di liquido e nei compressori dei sistemi di refrigerazione. Grazie a questa integrazione nativa, l'installazione diventa estremamente rapida e sicura. Si elimina la necessità di filettature aggiuntive, guarnizioni e potenziali punti di perdita del prezioso gas refrigerante, un vantaggio cruciale sia dal punto di vista economico che ambientale. Operando fino a 46 bar e dotato di un pratico connettore DIN per una connessione elettrica immediata, questo modello rappresenta la soluzione più elegante, rapida e sicura per aggiungere un controllo di livello affidabile a un circuito frigorifero esistente, garantendo la massima integrità del sistema.\n\n---\n\nCategoria Prodotto: Oil Regulator\nModello: TK3+\nPressione Max: 46 / 80 / 130 bar\nOutput / Connettività: Relè di allarme\nApplicazione Principale: Regolazione del livello olio \"stand-alone\".\nCaratteristica Unica e Distintiva: Semplicità e affidabilità: la soluzione essenziale per il controllo del livello olio.\nDescrizione del prodotto: Il TK3+ è un regolatore di livello dell'olio elettronico che incarna i principi di affidabilità, semplicità ed efficacia. Progettato per funzionare come un'unità completamente autonoma, il suo compito è garantire che il livello dell'olio nel carter del compressore sia mantenuto costantemente entro i limiti di sicurezza. Utilizzando un sensore ottico preciso, rileva quando il livello scende al di sotto della soglia e comanda l'apertura di una valvola solenoide integrata per rabboccare l'olio dalla linea principale. Disponibile in versioni adatte a diverse pressioni differenziali (fino a 130 bar), si adatta a un'ampia varietà di impianti. Integra inoltre un relè di allarme che si attiva in caso di anomalie, come un livello persistentemente basso, proteggendo il compressore da costosi danni. È la soluzione 'installa e dimentica' ideale per chi cerca un controllo del livello olio robusto e di facile installazione, senza la complessità di sistemi di supervisione esterni.\n\n---\n\nCategoria Prodotto: Oil Regulator\nModello: TK4\nPressione Max: 46 / 80 / 130 bar\nOutput / Connettività: Relè di allarme + NFC Wireless\nApplicazione Principale: Manutenzione sul campo e personalizzazione.\nCaratteristica Unica e Distintiva: Configurazione Wireless: permette di modificare parametri e fare diagnostica tramite App.\nDescrizione del prodotto: Il TK4 rivoluziona la gestione del livello dell'olio introducendo la connettività wireless NFC (Near Field Communication). Pur mantenendo tutte le funzioni fondamentali di regolazione e protezione del modello TK3+, il TK4 aggiunge un livello di interazione senza precedenti. Grazie all'NFC, i tecnici possono utilizzare una semplice app su smartphone per comunicare con il dispositivo senza alcun contatto fisico. Questo permette di personalizzare in modo intuitivo e rapido i parametri operativi critici, come i tempi di ritardo dell'allarme e del rabbocco, adattandoli perfettamente alle specifiche dell'impianto. Inoltre, l'app consente di effettuare una diagnostica avanzata, visualizzando lo stato del sensore, il numero di cicli di rabbocco e lo storico degli allarmi. Questa funzionalità semplifica drasticamente le operazioni di messa in servizio, la ricerca guasti e la manutenzione preventiva, rendendo il lavoro del tecnico più efficiente e accurato.\n\n---\n\nCategoria Prodotto: Oil Regulator\nModello: TK4MB\nPressione Max: 46 / 80 / 130 bar\nOutput / Connettività: Relè di allarme + NFC + Modbus RTU\nApplicazione Principale: Integrazione in sistemi di supervisione (PLC/BMS).\nCaratteristica Unica e Distintiva: Connettività Totale: per monitoraggio e controllo remoto in impianti centralizzati (Industria 4.0).\nDescrizione del prodotto: Il TK4MB è il regolatore di livello olio più avanzato della gamma, un vero e proprio dispositivo smart progettato per l'era dell'Industria 4.0 e dell'IIoT (Industrial Internet of Things). Mantiene tutte le collaudate funzionalità del TK4, inclusa la preziosa configurazione locale tramite NFC, ma le espande aggiungendo una porta di comunicazione seriale Modbus RTU su RS485. Questa interfaccia standard permette una piena e trasparente integrazione del dispositivo all'interno di sistemi di controllo centralizzati, come PLC, SCADA o BMS (Building Management Systems). Tutti i dati operativi (livello, stato, allarmi) e i parametri di configurazione possono essere letti e, in alcuni casi, scritti da remoto. Ciò abilita strategie di monitoraggio continuo, controllo centralizzato degli impianti e manutenzione predittiva, analizzando i trend di funzionamento per anticipare possibili guasti. Il TK4MB è la scelta d'elezione per supermercati, centri logistici e impianti industriali complessi.\n\n---\n\nCategoria Prodotto: Sensor\nModello: K11\nPressione Max: 60 bar\nOutput / Connettività: Digitale (NPN / PNP / AC)\nApplicazione Principale: Applicazioni industriali e di refrigerazione generiche.\nCaratteristica Unica e Distintiva: Sensore di livello compatto, versatile ed economico per pressioni standard.\nDescrizione del prodotto: Il K11 è un sensore di livello di tipo capacitivo, caratterizzato da un design estremamente compatto e da una notevole versatilità. Progettato per operare in un'ampia gamma di applicazioni industriali e di refrigerazione con pressioni fino a 60 bar, la sua forza principale risiede nella flessibilità della sua uscita elettronica. Può essere facilmente configurato come NPN, PNP o AC, garantendo una compatibilità pressoché universale con la stragrande maggioranza dei controller logici programmabili (PLC) e dei sistemi di controllo presenti sul mercato. Questa polivalenza, unita a un design economico e a dimensioni molto contenute, lo rende una soluzione eccellente per il rilevamento di livello on/off (presenza/assenza di liquido) in spazi ristretti, su macchinari compatti o in applicazioni dove il controllo dei costi è un fattore determinante, senza sacrificare l'affidabilità del rilevamento.\n\n---\n\nCategoria Prodotto: Sensor\nModello: K25\nPressione Max: 150 bar\nOutput / Connettività: Digitale (NPN) + Analogico 4-20mA (Temperatura)\nApplicazione Principale: Sistemi a CO2 transcritici e ad alta pressione.\nCaratteristica Unica e Distintiva: Due sensori in uno: rileva sia il livello del liquido che la sua temperatura.\nDescrizione del prodotto: Il K25 è un sensore multifunzione ad alte prestazioni, una soluzione integrata e intelligente sviluppata specificamente per le sfide dei moderni sistemi a CO2 in ciclo transcritico, capaci di operare fino a 150 bar. La sua caratteristica realmente distintiva è la capacità di fornire due misurazioni critiche e indipendenti con un unico dispositivo e un unico punto di installazione. Fornisce un segnale digitale NPN per un preciso rilevamento del livello del liquido e, contemporaneamente, un segnale analogico standard industriale 4-20mA che rappresenta in modo continuo e accurato la temperatura del fluido. Questa doppia funzionalità porta a significativi vantaggi: semplifica il design del sistema, riduce il numero di connessioni e i potenziali punti di perdita, e abbassa i costi complessivi di installazione. Fornire dati sia di livello che di temperatura è essenziale per ottimizzare l'efficienza e la sicurezza di questi impianti avanzati.\n\n---\n\nCategoria Prodotto: Sensor\nModello: ATEX\nPressione Max: 20 bar\nOutput / Connettività: Digitale (Open Collector)\nApplicazione Principale: Aree con atmosfera potenzialmente esplosiva.\nCaratteristica Unica e Distintiva: Certificazione ATEX (Ex ia IIC): progettato per la massima sicurezza in ambienti pericolosi.\nDescrizione del prodotto: Questo sensore di livello è una componente di sicurezza critica, progettato e certificato per operare in totale sicurezza all'interno di aree con atmosfera potenzialmente esplosiva (zone classificate secondo la direttiva ATEX). La sua certificazione a sicurezza intrinseca 'Ex ia IIC' garantisce che l'energia elettrica e termica generata dal sensore durante il suo normale funzionamento e in condizioni di guasto sia insufficiente a innescare un'esplosione, anche in presenza dei gas più infiammabili (gruppo IIC, es. idrogeno). Fornisce un segnale di livello digitale affidabile tramite un'uscita Open Collector, compatibile con barriere a sicurezza intrinseca. L'installazione di questo sensore è obbligatoria e fondamentale per garantire la massima sicurezza del personale e degli impianti in settori ad alto rischio come l'industria chimica, petrolchimica, farmaceutica o nei sistemi di refrigerazione che utilizzano refrigeranti infiammabili come il propano (R290).\n\n---",
+      "messages": [
+        {
+          "role": "system",
+          "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+          "role": "user",
+          "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-XT Digital Level Switch\nKey Specifications: Digital Level Switch for High-Pressure Applications, Plug-and-Play Installation with DIN Connector, Robustness and Praticity in High-Efficiency Systems\n📌 Important Details: The LC-XT represents the perfect blend of robustness and practicability, making it an ideal solution for high-efficiency systems. | This digital level switch is designed to excel in demanding environments, combining a high-pressure range with the convenience of a DIN connector.\n\nComplete technical text:\n.\nDescrizione del prodotto: Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard (fino a 46 bar). Questo interruttore unisce la comprovata affidabilità e le prestazioni del modello LC-PS con la significativa praticità di un connettore industriale standard DIN. Questa caratteristica trasforma le operazioni di installazione e manutenzione: il cablaggio diventa un'operazione plug-and-play, eliminando la necessità di aprire scatole di giunzione e maneggiare cavi singoli. Ciò non solo riduce drasticamente i tempi di intervento, ma minimizza anche il rischio di errori di connessione. L'LC-XT è la scelta perfetta per apparecchiature modulari, chiller o qualsiasi installazione dove la rapidità di sostituzione dei componenti è un fattore critico per ridurre il tempo di fermo macchina (MTTR - Mean Time To Repair). Offre una soluzione efficiente, pulita e professionale, mantenendo inalterata l'affidabilità del controllo di livello.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: LC-XP\nPressione Max: 120 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Sistemi a CO2 e ad alta pressione con connettore.\nCaratteristica Unica e Distintiva: La combinazione di alta pressione e connettore DIN per la massima flessibilità.\nDescrizione del prodotto: L'LC-XP rappresenta la sintesi perfetta tra robustezza e praticità, posizionandosi come una soluzione di punta nella gamma di interruttori di livello. È stato progettato per eccellere negli ambienti più esigenti, combinando una resistenza a pressioni elevate fino a 120 bar con la comodità ineguagliabile di un connettore DIN. Questa potente combinazione lo rende eccezionalmente versatile e adatto per sistemi di refrigerazione avanzati, inclusi i complessi circuiti a CO2, dove le prestazioni devono andare di pari passo con la facilità di manutenzione. L'LC-XP permette ai tecnici di intervenire rapidamente, scollegando e sostituendo il sensore in pochi istanti e in totale sicurezza, anche in impianti ad alta pressione. Questa caratteristica è fondamentale per minimizzare i tempi di inattività e semplificare la diagnostica. Fornisce una soluzione di controllo di livello a connessione rapida, sicura e robusta, garantendo la massima flessibilità operativa e affidabilità a lungo termine.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: TK1+\nPressione Max: 100 bar\nOutput / Connettività: Relè di allarme (NO/NC)\nApplicazione Principale: Sostituzione di indicatori di livello a vetro (sight-glass).\nCaratteristica Unica e Distintiva: Progettato per il montaggio diretto su compressori al posto degli indicatori visivi.\nDescrizione del prodotto: Il TK1+ è un interruttore di livello altamente specializzato, concepito come un upgrade intelligente per i compressori frigoriferi dotati di tradizionali indicatori di livello a vetro (sight-glass). La sua progettazione meccanica è studiata per un montaggio 'retrofit' diretto, permettendo di sostituire l'indicatore passivo senza alcuna modifica al corpo del compressore. Questa operazione trasforma un semplice punto di ispezione visiva, spesso inaffidabile e soggetto a interpretazione, in un punto di controllo di livello attivo e automatico. Resistente a pressioni fino a 100 bar, il TK1+ integra un relè di allarme configurabile come Normalmente Aperto (NO) o Normalmente Chiuso (NC), offrendo un'interfaccia universale per qualsiasi sistema di controllo o quadro di allarme. Questa soluzione aumenta drasticamente la sicurezza operativa, prevenendo danni al compressore dovuti a basso livello d'olio e consentendo un monitoraggio automatico 24/7.\n\n---\n\nCategoria Prodotto: Level Switch\nModello: Rotalock\nPressione Max: 46 bar\nOutput / Connettività: Digitale (connettore DIN)\nApplicazione Principale: Installazione diretta su valvole Rotalock.\nCaratteristica Unica e Distintiva: Elimina la necessità di adattatori, semplificando l'installazione e riducendo i rischi di perdite.\nDescrizione del prodotto: Questo interruttore di livello è una soluzione ingegneristica mirata a risolvere una delle sfide più comuni nell'installazione di sensori: la necessità di raccordi e adattatori. È progettato specificamente per il montaggio diretto su valvole Rotalock, uno standard onnipresente nei ricevitori di liquido e nei compressori dei sistemi di refrigerazione. Grazie a questa integrazione nativa, l'installazione diventa estremamente rapida e sicura. Si elimina la necessità di filettature aggiuntive, guarnizioni e potenziali punti di perdita del prezioso gas refrigerante, un vantaggio cruciale sia dal punto di vista economico che ambientale. Operando fino a 46 bar e dotato di un pratico connettore DIN per una connessione elettrica immediata, questo modello rappresenta la soluzione più elegante, rapida e sicura per aggiungere un controllo di livello affidabile a un circuito frigorifero esistente, garantendo la massima integrità del sistema.\n\n---\n\nCategoria Prodotto: Oil Regulator\nModello: TK3+\nPressione Max: 46 / 80 / 130 bar\nOutput / Connettività: Relè di allarme\nApplicazione Principale: Regolazione del livello olio \"stand-alone\".\nCaratteristica Unica e Distintiva: Semplicità e affidabilità: la soluzione essenziale per il controllo del livello olio.\nDescrizione del prodotto: Il TK3+ è un regolatore di livello dell'olio elettronico che incarna i principi di affidabilità, semplicità ed efficacia. Progettato per funzionare come un'unità completamente autonoma, il suo compito è garantire che il livello dell'olio nel carter del compressore sia mantenuto costantemente entro i limiti di sicurezza. Utilizzando un sensore ottico preciso, rileva quando il livello scende al di sotto della soglia e comanda l'apertura di una valvola solenoide integrata per rabboccare l'olio dalla linea principale. Disponibile in versioni adatte a diverse pressioni differenziali (fino a 130 bar), si adatta a un'ampia varietà di impianti. Integra inoltre un relè di allarme che si attiva in caso di anomalie, come un livello persistentemente basso, proteggendo il compressore da costosi danni. È la soluzione 'installa e dimentica' ideale per chi cerca un controllo del livello olio robusto e di facile installazione, senza la complessità di sistemi di supervisione esterni.\n\n---\n\nCategoria Prodotto: Oil Regulator\nModello: TK4\nPressione Max: 46 / 80 / 130 bar\nOutput / Connettività: Relè di allarme + NFC Wireless\nApplicazione Principale: Manutenzione sul campo e personalizzazione.\nCaratteristica Unica e Distintiva: Configurazione Wireless: permette di modificare parametri e fare diagnostica tramite App.\nDescrizione del prodotto: Il TK4 rivoluziona la gestione del livello dell'olio introducendo la connettività wireless NFC (Near Field Communication). Pur mantenendo tutte le funzioni fondamentali di regolazione e protezione del modello TK3+, il TK4 aggiunge un livello di interazione senza precedenti. Grazie all'NFC, i tecnici possono utilizzare una semplice app su smartphone per comunicare con il dispositivo senza alcun contatto fisico. Questo permette di personalizzare in modo intuitivo e rapido i parametri operativi critici, come i tempi di ritardo dell'allarme e del rabbocco, adattandoli perfettamente alle specifiche dell'impianto. Inoltre, l'app consente di effettuare una diagnostica avanzata, visualizzando lo stato del sensore, il numero di cicli di rabbocco e lo storico degli allarmi. Questa funzionalità semplifica drasticamente le operazioni di messa in servizio, la ricerca guasti e la manutenzione preventiva, rendendo il lavoro del tecnico più efficiente e accurato.\n\n---\n\nCategoria Prodotto: Oil Regulator\nModello: TK4MB\nPressione Max: 46 / 80 / 130 bar\nOutput / Connettività: Relè di allarme + NFC + Modbus RTU\nApplicazione Principale: Integrazione in sistemi di supervisione (PLC/BMS).\nCaratteristica Unica e Distintiva: Connettività Totale: per monitoraggio e controllo remoto in impianti centralizzati (Industria 4.0).\nDescrizione del prodotto: Il TK4MB è il regolatore di livello olio più avanzato della gamma, un vero e proprio dispositivo smart progettato per l'era dell'Industria 4.0 e dell'IIoT (Industrial Internet of Things). Mantiene tutte le collaudate funzionalità del TK4, inclusa la preziosa configurazione locale tramite NFC, ma le espande aggiungendo una porta di comunicazione seriale Modbus RTU su RS485. Questa interfaccia standard permette una piena e trasparente integrazione del dispositivo all'interno di sistemi di controllo centralizzati, come PLC, SCADA o BMS (Building Management Systems). Tutti i dati operativi (livello, stato, allarmi) e i parametri di configurazione possono essere letti e, in alcuni casi, scritti da remoto. Ciò abilita strategie di monitoraggio continuo, controllo centralizzato degli impianti e manutenzione predittiva, analizzando i trend di funzionamento per anticipare possibili guasti. Il TK4MB è la scelta d'elezione per supermercati, centri logistici e impianti industriali complessi.\n\n---\n\nCategoria Prodotto: Sensor\nModello: K11\nPressione Max: 60 bar\nOutput / Connettività: Digitale (NPN / PNP / AC)\nApplicazione Principale: Applicazioni industriali e di refrigerazione generiche.\nCaratteristica Unica e Distintiva: Sensore di livello compatto, versatile ed economico per pressioni standard.\nDescrizione del prodotto: Il K11 è un sensore di livello di tipo capacitivo, caratterizzato da un design estremamente compatto e da una notevole versatilità. Progettato per operare in un'ampia gamma di applicazioni industriali e di refrigerazione con pressioni fino a 60 bar, la sua forza principale risiede nella flessibilità della sua uscita elettronica. Può essere facilmente configurato come NPN, PNP o AC, garantendo una compatibilità pressoché universale con la stragrande maggioranza dei controller logici programmabili (PLC) e dei sistemi di controllo presenti sul mercato. Questa polivalenza, unita a un design economico e a dimensioni molto contenute, lo rende una soluzione eccellente per il rilevamento di livello on/off (presenza/assenza di liquido) in spazi ristretti, su macchinari compatti o in applicazioni dove il controllo dei costi è un fattore determinante, senza sacrificare l'affidabilità del rilevamento.\n\n---\n\nCategoria Prodotto: Sensor\nModello: K25\nPressione Max: 150 bar\nOutput / Connettività: Digitale (NPN) + Analogico 4-20mA (Temperatura)\nApplicazione Principale: Sistemi a CO2 transcritici e ad alta pressione.\nCaratteristica Unica e Distintiva: Due sensori in uno: rileva sia il livello del liquido che la sua temperatura.\nDescrizione del prodotto: Il K25 è un sensore multifunzione ad alte prestazioni, una soluzione integrata e intelligente sviluppata specificamente per le sfide dei moderni sistemi a CO2 in ciclo transcritico, capaci di operare fino a 150 bar. La sua caratteristica realmente distintiva è la capacità di fornire due misurazioni critiche e indipendenti con un unico dispositivo e un unico punto di installazione. Fornisce un segnale digitale NPN per un preciso rilevamento del livello del liquido e, contemporaneamente, un segnale analogico standard industriale 4-20mA che rappresenta in modo continuo e accurato la temperatura del fluido. Questa doppia funzionalità porta a significativi vantaggi: semplifica il design del sistema, riduce il numero di connessioni e i potenziali punti di perdita, e abbassa i costi complessivi di installazione. Fornire dati sia di livello che di temperatura è essenziale per ottimizzare l'efficienza e la sicurezza di questi impianti avanzati.\n\n---\n\nCategoria Prodotto: Sensor\nModello: ATEX\nPressione Max: 20 bar\nOutput / Connettività: Digitale (Open Collector)\nApplicazione Principale: Aree con atmosfera potenzialmente esplosiva.\nCaratteristica Unica e Distintiva: Certificazione ATEX (Ex ia IIC): progettato per la massima sicurezza in ambienti pericolosi.\nDescrizione del prodotto: Questo sensore di livello è una componente di sicurezza critica, progettato e certificato per operare in totale sicurezza all'interno di aree con atmosfera potenzialmente esplosiva (zone classificate secondo la direttiva ATEX). La sua certificazione a sicurezza intrinseca 'Ex ia IIC' garantisce che l'energia elettrica e termica generata dal sensore durante il suo normale funzionamento e in condizioni di guasto sia insufficiente a innescare un'esplosione, anche in presenza dei gas più infiammabili (gruppo IIC, es. idrogeno). Fornisce un segnale di livello digitale affidabile tramite un'uscita Open Collector, compatibile con barriere a sicurezza intrinseca. L'installazione di questo sensore è obbligatoria e fondamentale per garantire la massima sicurezza del personale e degli impianti in settori ad alto rischio come l'industria chimica, petrolchimica, farmaceutica o nei sistemi di refrigerazione che utilizzano refrigeranti infiammabili come il propano (R290).\n\n---\n\n---\n\nQuestion: What is the maximum pressure for LC-XT?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+          "role": "assistant",
+          "content": "The LC-XT digital level switch offers a robust and practical solution for high-pressure applications, providing reliable operation and simplified maintenance."
+        }
+      ],
+      "metadata": {
+        "chunk_id": "teklab_chunk_006_007_LC-XT_Digital_Level_Switch",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 7,
+        "chunk_title": "LC-XT Digital Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+          "Digital Level Switch for High-Pressure Applications",
+          "Plug-and-Play Installation with DIN Connector",
+          "Robustness and Praticity in High-Efficiency Systems"
+        ],
+        "keywords_primary": [
+          "LC-XT",
+          "High-Pressure Digital Level Switch",
+          "DIN Connector",
+          "Modular Design for Easy Maintenance"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+          "The LC-XT represents the perfect blend of robustness and practicability, making it an ideal solution for high-efficiency systems.",
+          "This digital level switch is designed to excel in demanding environments, combining a high-pressure range with the convenience of a DIN connector."
+        ],
+        "qa_pairs": [
+          {
+            "question": "What pressure range does LC-XT support?",
+            "answer": "The LC-XT digital level switch supports pressures up to 120 bar, making it suitable for high-pressure applications. This level of robustness ensures reliable operation in demanding environments.",
+            "difficulty": "intermediate",
+            "intent": [
+              "product_selection",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does the LC-XT's DIN connector facilitate installation?",
+            "answer": "The LC-XT's DIN connector enables plug-and-play installation, eliminating the need to open boxes of connectors and handle individual cables. This simplifies maintenance tasks and reduces downtime.",
+            "difficulty": "beginner",
+            "intent": [
+              "installation",
+              "troubleshooting"
+            ]
+          },
+          {
+            "question": "What are the primary applications for LC-XT?",
+            "answer": "The LC-XT digital level switch is designed for use in high-pressure systems, including compressors, evaporators, and refrigeration systems. Its modular design makes it an ideal choice for easy maintenance and replacement of components.",
+            "difficulty": "intermediate",
+            "intent": [
+              "application_design",
+              "product_selection"
+            ]
+          },
+          {
+            "question": "What is the advantage of using LC-XT in high-efficiency systems?",
+            "answer": "The LC-XT's robustness and practicability make it an excellent choice for high-efficiency systems. Its ability to handle demanding environments and provide reliable operation ensures optimal performance and minimizes downtime.",
+            "difficulty": "advanced",
+            "intent": [
+              "application_design",
+              "technical_specification"
+            ]
+          },
+          {
+            "question": "How does LC-XT's modular design facilitate maintenance?",
+            "answer": "The LC-XT's modular design allows for easy replacement of components, reducing the time and effort required for maintenance tasks. This enables technicians to quickly identify and address issues, minimizing downtime and ensuring optimal system performance.",
+            "difficulty": "intermediate",
+            "intent": [
+              "installation",
+              "troubleshooting"
+            ]
+          },
+          {
+            "question": "What are the benefits of using LC-XT in high-pressure applications?",
+            "answer": "The LC-XT digital level switch offers several benefits for high-pressure applications, including reliable operation, reduced downtime, and simplified maintenance. Its ability to handle demanding environments ensures optimal performance and minimizes the risk of system failure.",
+            "difficulty": "advanced",
+            "intent": [
+              "application_design",
+              "technical_specification"
+            ]
+          }
+        ],
+        "natural_questions": [
+          "What is the maximum pressure for LC-XT?",
+          "How does LC-XT's DIN connector work?"
+        ],
+        "summary": "The LC-XT digital level switch offers a robust and practical solution for high-pressure applications, providing reliable operation and simplified maintenance.",
+        "domain_metadata": {
+          "product_family": "Comparazione Prodotti",
+          "pressure_class": "120bar",
+          "refrigerants": [
+            "CO2"
+          ],
+          "certifications": [
+            "ATEX"
+          ],
+          "communication": [
+            "MODBUS RTU"
+          ],
+          "application_type": [
+            "compressor",
+            "evaporator"
+          ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+          "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+          "HVAC engineers",
+          "refrigeration technicians",
+          "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+      }
+    }
+  ],
+  "completed": true
+}

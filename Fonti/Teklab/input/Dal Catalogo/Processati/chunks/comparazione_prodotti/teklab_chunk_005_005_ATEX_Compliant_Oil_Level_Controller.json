@@ -1,0 +1,109 @@
+{
+    "id": "teklab_chunk_005_005_ATEX_Compliant_Oil_Level_Controller",
+    "original_text": "cita è di tipo Open Collector e deve essere collegata a una barriera a sicurezza intrinseca, che limita la corrente e la tensione inviate al sensore dalla zona sicura. La sua installazione è obbligatoria per legge in qualsiasi area classificata come a rischio di esplosione.\", 'quando_sceglierlo': 'La scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX (Zone 0, 1, 2). Esempi includono impianti chimici, petrolchimici, farmaceutici, o sistemi di refrigerazione che utilizzano refrigeranti infiammabili come propano (R290), isobutano (R600a) o ammoniaca (in alcuni casi).'}]\ntabella_riassuntiva: {'headers': ['Caratteristica', 'K11', 'K25', 'ATEX'], 'rows': [['Tecnologia', 'Capacitiva', 'Ottica + Temperatura', 'Ottica'], ['Pressione Max', '60 bar', '150 bar', '20 bar'], ['Output Primario', 'Digitale (NPN/PNP/AC)', 'Digitale (NPN)', 'Digitale (Open Collector)'], ['Output Secondario', 'Nessuno', 'Analogico 4-20mA (Temp.)', 'Nessuno'], ['Applicazione Chiave', 'Versatilità Industriale', 'CO2 Transcritico', 'Aree Esplosive (ATEX)'], ['Certificazione Sicurezza', 'Standard CE', 'Standard CE/PED', 'ATEX Ex ia IIC']]}",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - ATEX Compliant Oil Level Controller\nKey Specifications: Primary product feature or specification, Key technical parameter or capability, Main application or use case, Important compatibility or standard, Critical performance characteristic\n📌 Important Details: La scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX (Zone 0, 1, 2). | Quando sceglierlo, la scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX.\n\nComplete technical text:\ncita è di tipo Open Collector e deve essere collegata a una barriera a sicurezza intrinseca, che limita la corrente e la tensione inviate al sensore dalla zona sicura. La sua installazione è obbligatoria per legge in qualsiasi area classificata come a rischio di esplosione.\", 'quando_sceglierlo': 'La scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX (Zone 0, 1, 2). Esempi includono impianti chimici, petrolchimici, farmaceutici, o sistemi di refrigerazione che utilizzano refrigeranti infiammabili come propano (R290), isobutano (R600a) o ammoniaca (in alcuni casi).'}]\ntabella_riassuntiva: {'headers': ['Caratteristica', 'K11', 'K25', 'ATEX'], 'rows': [['Tecnologia', 'Capacitiva', 'Ottica + Temperatura', 'Ottica'], ['Pressione Max', '60 bar', '150 bar', '20 bar'], ['Output Primario', 'Digitale (NPN/PNP/AC)', 'Digitale (NPN)', 'Digitale (Open Collector)'], ['Output Secondario', 'Nessuno', 'Analogico 4-20mA (Temp.)', 'Nessuno'], ['Applicazione Chiave', 'Versatilità Industriale', 'CO2 Transcritico', 'Aree Esplosive (ATEX)'], ['Certificazione Sicurezza', 'Standard CE', 'Standard CE/PED', 'ATEX Ex ia IIC']]}\n\n---\n\nQuestion: What is the maximum pressure range for TK3+?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The ATEX compliant oil level controller, such as TK3+, is designed for high-pressure applications and ensures safe operation in explosive environments."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_005_005_ATEX_Compliant_Oil_Level_Controller",
+        "file_index": 5,
+        "file_source": "All_Categories",
+        "chunk_number": 5,
+        "chunk_title": "ATEX Compliant Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "keywords_primary": [
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +125°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor, refrigeration)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "La scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX (Zone 0, 1, 2).",
+            "Quando sceglierlo, la scelta non è opzionale ma obbligatoria per qualsiasi applicazione in aree classificate ATEX.",
+            "La sua installazione è obbligatoria per legge in qualsiasi area classificata come a rischio di esplosione."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by TK3+?",
+                "answer": "The TK3+ oil level controller supports a maximum pressure range of 130bar, making it suitable for high-pressure applications. Additionally, it can operate within a pressure range of 0-600bar, ensuring flexibility in various industrial settings.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the ATEX certification ensure safety?",
+                "answer": "The ATEX certification ensures that the TK3+ oil level controller meets the necessary standards for safe operation in explosive environments. This certification guarantees that the device can withstand the harsh conditions and prevent any potential risks to personnel or equipment.",
+                "difficulty": "advanced",
+                "intent": [
+                    "application_design",
+                    "safety"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range for TK3+?",
+            "Which refrigerants are compatible with TK3+?"
+        ],
+        "summary": "The ATEX compliant oil level controller, such as TK3+, is designed for high-pressure applications and ensures safe operation in explosive environments.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "130bar / 0-600bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

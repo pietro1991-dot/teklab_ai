@@ -158,7 +158,7 @@ _embeddings_cache = None
 _model_embeddings = None
 
 def load_embeddings():
-    """Carica cache embeddings una volta sola"""
+    """Carica cache embeddings una volta sola - NUOVA STRUTTURA"""
     global _embeddings_cache, _model_embeddings
     
     if _embeddings_cache is not None:
@@ -169,15 +169,10 @@ def load_embeddings():
         with open(EMBEDDINGS_CACHE, 'rb') as f:
             _embeddings_cache = pickle.load(f)
         
-        # Verifica versione cache
-        cache_version = _embeddings_cache.get('version', 'unknown')
-        logger.info(f"   Cache version: {cache_version}")
-        
         # Carica modello per query encoding (FORZA CPU)
-        # SKIP se offline o problemi di rete
         try:
             from sentence_transformers import SentenceTransformer
-            model_name = _embeddings_cache.get('model', 'all-mpnet-base-v2')
+            model_name = _embeddings_cache.get('model', 'BAAI/bge-base-en-v1.5')
             
             logger.info("   Device: CPU (GPU riservata per Llama)")
             logger.info("   ⏳ Caricamento modello embeddings da cache locale...")
@@ -191,9 +186,10 @@ def load_embeddings():
                 device='cpu'
             )
             
-            chunk_count = len(_embeddings_cache.get('chunk_embeddings', {}))
-            qa_count = len(_embeddings_cache.get('qa_embeddings', {}))
-            logger.info(f"✅ Embeddings caricati: {chunk_count} chunks, {qa_count} Q&A")
+            # NUOVA STRUTTURA
+            embeddings_count = len(_embeddings_cache.get('embeddings', {}))
+            chunks_count = len(_embeddings_cache.get('chunks_data', {}))
+            logger.info(f"✅ Embeddings caricati: {embeddings_count} vettori, {chunks_count} chunk unici")
             return True
             
         except (Exception, KeyboardInterrupt) as e:

@@ -1,0 +1,153 @@
+{
+    "file_index": 30,
+    "filename": "K11.txt",
+    "product_family": "Sensors",
+    "summary_label": "Sensors: K11.txt",
+    "category": "sensors",
+    "total_chunks": 1,
+    "total_qa_pairs": 5,
+    "chunk_ids": [
+        "teklab_chunk_030_001_K11_Level_Switch"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "K11 level switch",
+            "infrared technology",
+            "stainless steel",
+            "glass construction",
+            "compact size"
+        ],
+        "all_concepts": [
+            "Infrared technology for operation",
+            "Stainless steel and glass construction",
+            "Compact size with no moving parts",
+            "Programmable timer for delay time setting",
+            "AC/DC output current up to 100mA"
+        ],
+        "technical_specs": [
+            "Detect liquid presence with contact",
+            "Maximum pressure of 60 bar",
+            "AC/DC output current up to 100mA"
+        ],
+        "natural_questions": [
+            "What is the operating principle of K11 level switches?",
+            "How do K11 level switches work?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_030_001_K11_Level_Switch",
+        "file_index": 30,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "K11 Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Sensors",
+        "key_concepts": [
+            "Infrared technology for operation",
+            "Stainless steel and glass construction",
+            "Compact size with no moving parts",
+            "Programmable timer for delay time setting",
+            "AC/DC output current up to 100mA"
+        ],
+        "keywords_primary": [
+            "K11 level switch",
+            "infrared technology",
+            "stainless steel",
+            "glass construction",
+            "compact size"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Detect liquid presence with contact",
+            "Maximum pressure of 60 bar",
+            "AC/DC output current up to 100mA"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the operating principle of K11 level switches?",
+                "answer": "K11 level switches use infrared technology for their operation. They have a sensor dome made of glass and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the maximum pressure that K11 level switches can withstand?",
+                "answer": "K11 level switches can withstand a maximum pressure of 60 bar. This makes them suitable for high-pressure applications such as pressurized vessels, HVAC, and refrigeration systems.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the output mode of K11 level switches?",
+                "answer": "K11 level switches have an output mode that can be set to normally open or closed in air. This allows for flexibility in application design and ensures reliable operation.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the temperature range of K11 level switches?",
+                "answer": "K11 level switches have an operating temperature range of -40°C to 125°C. This makes them suitable for use in a wide range of applications, including those that operate in extreme temperatures.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the programmable timer feature of K11 level switches?",
+                "answer": "K11 level switches have a programmable timer feature that allows for delay time setting. This feature can be used to delay the output switching, which can be useful in applications where precise timing is required.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the operating principle of K11 level switches?",
+            "How do K11 level switches work?"
+        ],
+        "summary": "K11 level switches are compact, stainless steel and glass construction infrared technology-based devices that can withstand high pressures and operate in extreme temperatures.",
+        "domain_metadata": {
+            "product_family": "Sensors",
+            "pressure_class": "60bar",
+            "refrigerants": [],
+            "certifications": [
+                "ATEX"
+            ],
+            "communication": [
+                "AC/DC output current up to 100mA"
+            ],
+            "application_type": [
+                "HVAC",
+                "refrigeration"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/sensors/teklab_chunk_030_001_K11_Level_Switch.json"
+    ]
+}

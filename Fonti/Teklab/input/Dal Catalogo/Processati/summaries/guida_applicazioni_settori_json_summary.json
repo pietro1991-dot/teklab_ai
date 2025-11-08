@@ -1,0 +1,172 @@
+{
+    "file_index": 8,
+    "filename": "guida_applicazioni_settori.json",
+    "product_family": "Comparazione Prodotti",
+    "summary_label": "Comparazione Prodotti: guida_applicazioni_settori.json",
+    "category": "comparazione_prodotti",
+    "total_chunks": 4,
+    "total_qa_pairs": 9,
+    "chunk_ids": [
+        "teklab_chunk_008_001_Guida_alle_Applicazioni_Teklab_per_Settore_Industr",
+        "teklab_chunk_008_002_TK4MB_Regolatore_di_Livello_Olio",
+        "teklab_chunk_008_003_K11_Capacitive_Level_Sensor",
+        "teklab_chunk_008_004_ATEX_(Sensore_di_Livello_a_Sicurezza_Intrinseca)_f"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK4MB",
+            "Grande Distribuzione Organizzata",
+            "Massima affidabilità",
+            "Monitoraggio centralizzato",
+            "Efficienza energetica",
+            "Modbus RTU",
+            "Regolatore di Livello Olio",
+            "Connessione Modbus",
+            "Integrazione con BMS",
+            "K11",
+            "capacitive level sensor",
+            "universal output",
+            "compact design",
+            "PLC compatibility",
+            "ATEX certification",
+            "Refrigerant compatibility",
+            "Robustness and reliability",
+            "Industrial refrigeration systems",
+            "Safety with flammable refrigerants"
+        ],
+        "all_concepts": [
+            "Massima affidabilità (H24/7)",
+            "Monitoraggio centralizzato",
+            "Efficienza energetica",
+            "Conformità con normative sui refrigeranti",
+            "Sicurezza",
+            "Regolatore di Livello Olio",
+            "Connessione Modbus RTU",
+            "Integrazione con sistemi di supervisione",
+            "Controllo del livello dell'olio",
+            "Manutenzione predittiva",
+            "Capacitive sensing technology",
+            "Universal output compatibility",
+            "Compact design for ease of integration",
+            "Global PLC compatibility",
+            "Reduced BOM complexity",
+            "Robustezza e affidabilità in ambienti gravosi",
+            "Sicurezza con refrigeranti infiammabili",
+            "Lunghi cicli di vita",
+            "Compatibilità con sistemi industriali",
+            "Importanza della sicurezza per il personale"
+        ],
+        "technical_specs": [
+            "È la scelta d'elezione.",
+            "Fornendo raccomandazioni mirate per ottimizzare l'efficienza, la sicurezza e l'affidabilità degli impianti di refrigerazione.",
+            "'È la scelta d'elezione. La connettività Modbus RTU permette di integrare il controllo del livello dell'olio di tutte le centrali frigorifere in un unico sistema di supervisione (BMS).'",
+            "È il sensore ideale per gli OEM. Le sue dimensioni ridotte lo rendono facile da integrare in macchinari compatti.",
+            "La sua uscita universale (NPN/PNP/AC in un unico modello) riduce la complessità della distinta base (BOM) e semplifica la gestione del magazzino,",
+            "È una scelta obbligatoria e non negoziabile per qualsiasi applicazione che utilizzi refrigeranti infiammabili (es. R290 - propano) o che si trova in un'area classificata a rischio di esplosione."
+        ],
+        "natural_questions": [
+            "What is the purpose of TK4MB?",
+            "How does TK4MB ensure maximum safety?",
+            "What is the maximum pressure range supported by TK4MB Regolatore di Livello Olio?",
+            "How does TK4MB Regolatore di Livello Olio improve system efficiency?",
+            "What is the K11 level sensor?",
+            "How does the K11 level sensor work?",
+            "What is ATEX certification for industrial refrigeration?",
+            "Which products are compatible with flammable refrigerants?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_008_001_Guida_alle_Applicazioni_Teklab_per_Settore_Industr",
+        "file_index": 8,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Guida alle Applicazioni Teklab per Settore Industriale",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Massima affidabilità (H24/7)",
+            "Monitoraggio centralizzato",
+            "Efficienza energetica",
+            "Conformità con normative sui refrigeranti",
+            "Sicurezza"
+        ],
+        "keywords_primary": [
+            "TK4MB",
+            "Grande Distribuzione Organizzata",
+            "Massima affidabilità",
+            "Monitoraggio centralizzato",
+            "Efficienza energetica"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "È la scelta d'elezione.",
+            "Fornendo raccomandazioni mirate per ottimizzare l'efficienza, la sicurezza e l'affidabilità degli impianti di refrigerazione."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure for TK4MB?",
+                "answer": "Il prodotto TK4MB supporta pressioni massime di 130bar, garantendo una massima affidabilità e sicurezza per le applicazioni industriali.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does TK4MB ensure maximum efficiency?",
+                "answer": "Il prodotto TK4MB è progettato per garantire un monitoraggio centralizzato e una massima efficienza energetica, attraverso la sua capacità di regolare il livello dell'olio con precisione.",
+                "difficulty": "advanced",
+                "intent": [
+                    "application_design",
+                    "troubleshooting"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the purpose of TK4MB?",
+            "How does TK4MB ensure maximum safety?"
+        ],
+        "summary": "Il prodotto Teklab TK4MB è una scelta d'elezione per le applicazioni industriali di refrigerazione, garantendo massima affidabilità, sicurezza e efficienza energetica.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/comparazione_prodotti/teklab_chunk_008_001_Guida_alle_Applicazioni_Teklab_per_Settore_Industr.json",
+        "chunks/comparazione_prodotti/teklab_chunk_008_002_TK4MB_Regolatore_di_Livello_Olio.json",
+        "chunks/comparazione_prodotti/teklab_chunk_008_003_K11_Capacitive_Level_Sensor.json",
+        "chunks/comparazione_prodotti/teklab_chunk_008_004_ATEX_(Sensore_di_Livello_a_Sicurezza_Intrinseca)_f.json"
+    ]
+}

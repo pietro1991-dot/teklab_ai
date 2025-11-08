@@ -1,0 +1,144 @@
+{
+    "file_index": 26,
+    "filename": "Tk4 mb 130bar.txt",
+    "product_family": "Oil Level Regulators",
+    "summary_label": "Oil Level Regulators: Tk4 mb 130bar.txt",
+    "category": "oil_level_regulators",
+    "total_chunks": 1,
+    "total_qa_pairs": 4,
+    "chunk_ids": [
+        "teklab_chunk_026_001_TK4MB_@130bar_CO2_Oil_Level_Regulator"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK4MB",
+            "130bar",
+            "CO2",
+            "Modbus RTU",
+            "oil level regulator"
+        ],
+        "all_concepts": [
+            "Integrated filtering element",
+            "Compact dimensions",
+            "Left/Right mounting possibility",
+            "High reliability ensured by absence of mechanical moving parts",
+            "Direct sight glass replacement"
+        ],
+        "technical_specs": [
+            "Integrated filtering element in series with the valve.",
+            "High reliability ensured by absence of mechanical moving parts.",
+            "Direct sight glass replacement (3/4/6 holes flange connection)."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK4MB?",
+            "Which refrigerants are compatible with TK4MB?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_026_001_TK4MB_@130bar_CO2_Oil_Level_Regulator",
+        "file_index": 26,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK4MB @130bar CO2 Oil Level Regulator",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Oil Level Regulators",
+        "key_concepts": [
+            "Integrated filtering element",
+            "Compact dimensions",
+            "Left/Right mounting possibility",
+            "High reliability ensured by absence of mechanical moving parts",
+            "Direct sight glass replacement"
+        ],
+        "keywords_primary": [
+            "TK4MB",
+            "130bar",
+            "CO2",
+            "Modbus RTU",
+            "oil level regulator"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Integrated filtering element in series with the valve.",
+            "High reliability ensured by absence of mechanical moving parts.",
+            "Direct sight glass replacement (3/4/6 holes flange connection)."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the advantage of using the integrated filtering element in the TK4MB?",
+                "answer": "The integrated filtering element provides a compact solution, reducing the number of junctions in the circuit and minimizing the possibility of leakages. This feature ensures high reliability by eliminating mechanical moving parts.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK4MB ensure oil level control for compressor crankcase?",
+                "answer": "The TK4MB monitors the oil level with an embedded electro-optic sensor and comprises a solenoid valve for oil filling. It also features a relay output contact to give an alarm, ensuring the compressor runs without oil and improving its lifetime.",
+                "difficulty": "advanced",
+                "intent": [
+                    "application_design",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "What is the benefit of using the TK4MB with three compressors plus one satellite?",
+                "answer": "The TK4MB provides a simplified installation solution, reducing costs in terms of installation time. It also offers revolutionary connectivity capabilities and easy maintenance of the coil and electro-optic sensor.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "installation"
+                ]
+            },
+            {
+                "question": "How does the TK4MB meet ATEX certification standards?",
+                "answer": "The TK4MB meets ATEX certification standards, ensuring safe operation in explosive environments. This feature is particularly important for applications involving flammable gases or vapors.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "application_design",
+                    "certifications"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK4MB?",
+            "Which refrigerants are compatible with TK4MB?"
+        ],
+        "summary": "The TK4MB is a compact oil level regulator designed for CO2 systems, featuring integrated filtering and high reliability. It provides revolutionary connectivity capabilities and easy maintenance, making it an ideal solution for compressor lubrication applications.",
+        "domain_metadata": {
+            "product_family": "Oil Level Regulators",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "Modbus RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/oil_level_regulators/teklab_chunk_026_001_TK4MB_@130bar_CO2_Oil_Level_Regulator.json"
+    ]
+}

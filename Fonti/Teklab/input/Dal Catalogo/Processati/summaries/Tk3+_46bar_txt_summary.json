@@ -1,0 +1,185 @@
+{
+    "file_index": 21,
+    "filename": "Tk3+ 46bar.txt",
+    "product_family": "Oil Level Regulators",
+    "summary_label": "Oil Level Regulators: Tk3+ 46bar.txt",
+    "category": "oil_level_regulators",
+    "total_chunks": 5,
+    "total_qa_pairs": 15,
+    "chunk_ids": [
+        "teklab_chunk_021_001_TK3+_46bar_Oil_Level_Regulator",
+        "teklab_chunk_021_002_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_021_003_TK3+_High_Pressure_Oil_Return_Line_System",
+        "teklab_chunk_021_004_TK3+_Oil_Level_Control_Unit",
+        "teklab_chunk_021_005_TK3+_130bar_CO2_Oil_Level_Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "Oil level regulator",
+            "46bar",
+            "Compact",
+            "ATEX certification",
+            "TK3+ 130bar CO2 Oil Level Controller",
+            "pressure range (130bar)",
+            "temperature (-40°C to +125°C)",
+            "feature (MODBUS, ATEX)",
+            "application (compressor lubrication)",
+            "High Pressure Oil Return Line System",
+            "Compressor Crankcase Oil Level Control",
+            "Electro-Optic Sensor",
+            "Solenoid Valve",
+            "Relay Output",
+            "oil level control",
+            "solenoid valve",
+            "relay output",
+            "pressure range (46bar)",
+            "130bar CO2",
+            "oil level controller",
+            "pressure range",
+            "temperature limits"
+        ],
+        "all_concepts": [
+            "Compact dimensions",
+            "Reduced junctions and leakages",
+            "Simplified installation",
+            "High reliability",
+            "Direct sight glass replacement",
+            "Primary product feature or specification",
+            "High pressure oil return line system example",
+            "Integrated filtering element in series with the valve",
+            "Easy maintenance of the coil of the valve and Electro Optic sensor",
+            "230 VAC /2A alarm relay output suitable for direct connection in the security chain of the system",
+            "Oil Level Control for Compressor Crankcase",
+            "Electro-Optic Sensor Technology",
+            "Solenoid Valve and Relay Output",
+            "Oil level monitoring and control",
+            "Solenoid valve for oil filling",
+            "Relay output contact for alarm",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "technical_specs": [
+            "Extremely compact dimensions",
+            "Reduced number of junctions in the circuit with less possibility of having leakages",
+            "Usage of less components (simplified circuit and easier warehouse management)",
+            "Well consolidated steel with fused glass technology with absence of seals ensures no leakage and good chemical compatibility.",
+            "Direct sight glass replacement (3/4/6 holes flange connection).",
+            "Easy maintenance of the coil of the valve and of the Electro Optic sensor that can be easily replaced without emptying or depressurizing the plant.",
+            "The TK3+ is designed to control the oil level in the compressor crankcase in order to avoid the compressor to run without oil and so improve its lifetime.",
+            "TK3+ monitors the oil level with the embedded electro-optic sensor and comprises a solenoid valve for oil filling and a relay output contact to give an alarm.",
+            "The TK3+ monitors the oil level with the embedded electro-optic sensor and comprises a solenoid valve for oil filling and a relay output contact to give an alarm.",
+            "Each TK3+ requires 20VA (depending on the solenoid valve)",
+            "Quotes in mm - L and L1 can vary depending on the adapter (see Adapters Addendum)",
+            "Suggested ordering codes not include oil strainer element. Adapters must be ordered separately."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+?",
+            "How does TK3+ simplify lubrication control?",
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?",
+            "What is the purpose of a high pressure oil return line system?",
+            "How does an electro-optic sensor work in an oil level control system?",
+            "How does the solenoid valve in TK3+ work?",
+            "What is the maximum pressure for TK3+ 130bar?",
+            "Which refrigerants are compatible with TK3+ 130bar?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_021_001_TK3+_46bar_Oil_Level_Regulator",
+        "file_index": 21,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ 46bar Oil Level Regulator",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Oil Level Regulators",
+        "key_concepts": [
+            "Compact dimensions",
+            "Reduced junctions and leakages",
+            "Simplified installation",
+            "High reliability",
+            "Direct sight glass replacement"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "Oil level regulator",
+            "46bar",
+            "Compact",
+            "ATEX certification"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Extremely compact dimensions",
+            "Reduced number of junctions in the circuit with less possibility of having leakages",
+            "Usage of less components (simplified circuit and easier warehouse management)"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the advantage of using a TK3+ oil level regulator?",
+                "answer": "The TK3+ oil level regulator offers several advantages, including extremely compact dimensions, reduced junctions in the circuit with less possibility of having leakages, and usage of less components (simplified circuit and easier warehouse management). These features result in a simplified installation process, cost savings in terms of installation time, and improved reliability. Additionally, the TK3+ regulator is designed to ensure high reliability by eliminating mechanical moving parts.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK3+ oil level regulator simplify installation?",
+                "answer": "The TK3+ oil level regulator simplifies installation through its compact dimensions and reduced junctions in the circuit. This results in a reduced number of components needed, making it easier to manage inventory and reduce costs associated with warehouse storage. Furthermore, the simplified circuit design enables faster and more efficient installation, leading to cost savings in terms of installation time. The absence of mechanical moving parts also ensures high reliability and reduces the risk of errors or malfunctions during installation.",
+                "difficulty": "advanced",
+                "intent": [
+                    "installation",
+                    "troubleshooting"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+?",
+            "How does TK3+ simplify lubrication control?"
+        ],
+        "summary": "The TK3+ oil level regulator offers compact dimensions, reduced junctions in the circuit, and simplified installation. It ensures high reliability through its design and eliminates mechanical moving parts.",
+        "domain_metadata": {
+            "product_family": "Oil Level Regulators",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "R134a",
+                "R404A"
+            ],
+            "certifications": [
+                "ATEX"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor lubrication"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/oil_level_regulators/teklab_chunk_021_001_TK3+_46bar_Oil_Level_Regulator.json",
+        "chunks/oil_level_regulators/teklab_chunk_021_002_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/oil_level_regulators/teklab_chunk_021_003_TK3+_High_Pressure_Oil_Return_Line_System.json",
+        "chunks/oil_level_regulators/teklab_chunk_021_004_TK3+_Oil_Level_Control_Unit.json",
+        "chunks/oil_level_regulators/teklab_chunk_021_005_TK3+_130bar_CO2_Oil_Level_Controller.json"
+    ]
+}

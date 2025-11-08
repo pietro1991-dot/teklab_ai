@@ -1,0 +1,212 @@
+{
+    "file_index": 10,
+    "filename": "Oil Level Regulators.txt",
+    "product_family": "Comparazione Prodotti",
+    "summary_label": "Comparazione Prodotti: Oil Level Regulators.txt",
+    "category": "comparazione_prodotti",
+    "total_chunks": 6,
+    "total_qa_pairs": 13,
+    "chunk_ids": [
+        "teklab_chunk_010_001_TK3+_Oil_Level_Controller",
+        "teklab_chunk_010_002_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_010_003_TK3+_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_010_004_TK4_Wireless_Pressure_Regulator",
+        "teklab_chunk_010_005_TK4MB_Total_Integration_with_Supervision_Systems",
+        "teklab_chunk_010_006_TK4MB_Oil_Level_Controller"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +125°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor)",
+            "product_model (TK3+)",
+            "pressure_range (130bar, 0-600bar)",
+            "temperature (-40°C, +125°C)",
+            "feature (Wireless, MODBUS RTU)",
+            "application (compressor, refrigeration)",
+            "application (e.g., compressor, refrigeration)",
+            "TK4",
+            "wireless pressure regulator",
+            "NFC connectivity",
+            "MODBUS RTU protocol",
+            "ATEX certification",
+            "TK4MB",
+            "MODBUS RTU",
+            "Wireless NFC",
+            "Pressure ranges",
+            "Temperature limits",
+            "Refrigerant compatibility",
+            "oil level control",
+            "MODBUS",
+            "ATEX",
+            "high-pressure"
+        ],
+        "all_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic",
+            "Primary product feature or specification: Affidabilità e semplicitè",
+            "Key technical parameter or capability: Configurazione e diagnostica wireless tramite App.",
+            "Main application or use case: Installazioni “stand-alone” dove non è richiesta comunicazione avanzata.",
+            "Important compatibility or standard: ATEX certification",
+            "Critical performance characteristic: Risposta tempestiva",
+            "Primary product feature or specification: Automatic oil level control and alarm system",
+            "Key technical parameter or capability: High accuracy and reliability for compressor lubrication",
+            "Main application or use case: Compressor lubrication in industrial refrigeration systems",
+            "Important compatibility or standard: ATEX certification for safe operation in hazardous environments",
+            "Critical performance characteristic: Fast response time and low maintenance requirements",
+            "Wireless connectivity for remote configuration and diagnostics",
+            "Advanced diagnostic features with real-time monitoring",
+            "Enhanced security with password protection and proximity-based access",
+            "Flexibility in application design and customization",
+            "Integration with supervisory systems for comprehensive control",
+            "Total integration with supervision systems",
+            "Wireless NFC connectivity",
+            "Modbus RTU interface",
+            "Remote monitoring and control",
+            "Centralized system management",
+            "Predictive maintenance",
+            "Industrial 4.0 applications",
+            "Primary product feature or specification: High-pressure oil level control for critical applications",
+            "Key technical parameter or capability: MODBUS communication and ATEX certification",
+            "Main application or use case: Compressor lubrication and refrigerant management in industrial settings",
+            "Important compatibility or standard: Customizable pressure ranges for various refrigerants",
+            "Critical performance characteristic: Fast response time and high accuracy"
+        ],
+        "technical_specs": [
+            "The choice of the correct regulator is crucial for protecting and optimizing compressors.",
+            "Our TK series regulators share a common platform: an optical sensor without moving parts, an integrated solenoid valve for oil filling, and an alarm contact.",
+            "\"Affidabilità e semplicitè\"",
+            "\"Configurazione e diagnostica wireless tramite App.\"",
+            "Il TK3+ è il nostro regolatore di livello olio fondamentale.",
+            "È un dispositivo 'installa e dimentica', progettato per svolgere un compito in modo estremamente affidabile: mantenere il corretto livello dell'olio e attivare un allarme in caso di problemi.",
+            "The TK4 represents the evolution of the TK3+, maintaining its reliability but adding revolutionary wireless connectivity.",
+            "With the TK4, you can personalize your settings and monitor performance in real-time, ensuring optimal system performance.",
+            "Monitoraggio Remoto: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.",
+            "Controllo Centralizzato: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota.",
+            "Specifically designed for systems with CO2 transcritics where pressures are very high",
+            "Always choose a version with a pressure maximum of exercise superiour to the pressure maximum of your system"
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?",
+            "What is the maximum pressure for [product]?",
+            "Which refrigerants are compatible with [model]?",
+            "What is the range of the TK4's wireless connectivity?",
+            "How does the TK4's advanced diagnostic feature work?",
+            "What is the maximum pressure range supported by TK4MB?",
+            "How does TK4MB support predictive maintenance?",
+            "What is the operating range for TK4MB?",
+            "How does ATEX certification work with TK4MB?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_010_001_TK3+_Oil_Level_Controller",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "keywords_primary": [
+            "product_model (e.g., TK3+)",
+            "pressure_range (e.g., 130bar, 0-600bar)",
+            "temperature (e.g., -40°C, +125°C)",
+            "feature (e.g., MODBUS, ATEX)",
+            "application (e.g., compressor)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The choice of the correct regulator is crucial for protecting and optimizing compressors.",
+            "Our TK series regulators share a common platform: an optical sensor without moving parts, an integrated solenoid valve for oil filling, and an alarm contact."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What pressure range does TK3+ 130bar support?",
+                "answer": "The TK3+ 130bar regulator supports a maximum pressure of 130bar. It is designed to work with CO2 refrigerants and has an accuracy of ±1% of the set point. The regulator also features MODBUS communication protocol for remote monitoring and control.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How do I select between TK3+ and TK4?",
+                "answer": "The choice between TK3+ and TK4 regulators depends on the specific application requirements. TK3+ is suitable for applications with lower pressure ranges, while TK4 is designed for higher pressure applications. Both regulators share a common platform but differ in their solenoid valve design.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the maximum temperature range of the TK3+ regulator?",
+                "answer": "The TK3+ regulator operates within a temperature range of -40°C to +125°C. This makes it suitable for use in various industrial applications, including compressors and refrigeration systems.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_specification",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?"
+        ],
+        "summary": "The TK3+ regulator is a high-performance oil level controller designed for use in compressors and refrigeration systems. It features MODBUS communication protocol, an accuracy of ±1% of the set point, and operates within a temperature range of -40°C to +125°C.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/comparazione_prodotti/teklab_chunk_010_001_TK3+_Oil_Level_Controller.json",
+        "chunks/comparazione_prodotti/teklab_chunk_010_002_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/comparazione_prodotti/teklab_chunk_010_003_TK3+_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/comparazione_prodotti/teklab_chunk_010_004_TK4_Wireless_Pressure_Regulator.json",
+        "chunks/comparazione_prodotti/teklab_chunk_010_005_TK4MB_Total_Integration_with_Supervision_Systems.json",
+        "chunks/comparazione_prodotti/teklab_chunk_010_006_TK4MB_Oil_Level_Controller.json"
+    ]
+}

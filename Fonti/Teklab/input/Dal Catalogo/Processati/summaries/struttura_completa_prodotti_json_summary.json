@@ -1,0 +1,169 @@
+{
+    "file_index": 12,
+    "filename": "struttura_completa_prodotti.json",
+    "product_family": "Comparazione Prodotti",
+    "summary_label": "Comparazione Prodotti: struttura_completa_prodotti.json",
+    "category": "comparazione_prodotti",
+    "total_chunks": 1,
+    "total_qa_pairs": 5,
+    "chunk_ids": [
+        "teklab_chunk_012_001_Struttura_Gerarchica_Prodotti_Teklab"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "TK3+",
+            "TK4",
+            "LC-PS",
+            "MODBUS",
+            "ATEX",
+            "46bar",
+            "80bar",
+            "130bar"
+        ],
+        "all_concepts": [
+            "Oil Level Regulators",
+            "Level Switches",
+            "Serie TK3+ e TK4",
+            "MODBUS e ATEX",
+            "Pressione e temperatura",
+            "Compatibilità con refrigeranti",
+            "Certificazioni e comunicazione"
+        ],
+        "technical_specs": [
+            "Soluzione 'installa e dimentica', robusta e affidabile, per un controllo autonomo senza necessità di configurazione o monitoraggio remoto.",
+            "Regolatori avanzati con connettività per configurazione e diagnostica, disponibili in due versioni principali: TK4 con NFC per gestione locale e TK4MB con NFC e Modbus per integrazione remota."
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+?",
+            "Which refrigerants are compatible with LC-PS?",
+            "How does ATEX certification affect TK4?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_012_001_Struttura_Gerarchica_Prodotti_Teklab",
+        "file_index": 12,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "Struttura Gerarchica Prodotti Teklab",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Oil Level Regulators",
+            "Level Switches",
+            "Serie TK3+ e TK4",
+            "MODBUS e ATEX",
+            "Pressione e temperatura",
+            "Compatibilità con refrigeranti",
+            "Certificazioni e comunicazione"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "TK4",
+            "LC-PS",
+            "MODBUS",
+            "ATEX",
+            "46bar",
+            "80bar",
+            "130bar"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Soluzione 'installa e dimentica', robusta e affidabile, per un controllo autonomo senza necessità di configurazione o monitoraggio remoto.",
+            "Regolatori avanzati con connettività per configurazione e diagnostica, disponibili in due versioni principali: TK4 con NFC per gestione locale e TK4MB con NFC e Modbus per integrazione remota."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by the TK3+ series?",
+                "answer": "The TK3+ series supports a maximum pressure range of 130bar, making it suitable for high-pressure applications. Additionally, the TK3+ series also offers a lower pressure range of 46bar and 80bar for more precise control. The choice of pressure range depends on the specific application and requirements.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the TK4 series differ from the TK3+ series?",
+                "answer": "The TK4 series offers advanced features such as NFC-based configuration and diagnosis, making it suitable for more complex applications. The TK4 series also supports Modbus protocol for remote monitoring and control. In contrast, the TK3+ series is a more basic solution with a 'install and forget' approach. The choice between the two series depends on the specific application requirements and level of complexity.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What refrigerants are compatible with the LC-PS series?",
+                "answer": "The LC-PS series is compatible with a range of refrigerants, including R134a, R404A, and CO2. The choice of refrigerant depends on the specific application requirements and environmental considerations. It's essential to consult the manufacturer's documentation for specific compatibility information.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How does the ATEX certification affect the TK4 series?",
+                "answer": "The ATEX certification ensures that the TK4 series meets the necessary safety standards for explosive environments. This makes it an ideal choice for applications in hazardous areas. The ATEX certification also provides peace of mind for users, as it guarantees compliance with relevant safety regulations.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "safety"
+                ]
+            },
+            {
+                "question": "What is the response time of the MODBUS protocol?",
+                "answer": "The response time of the MODBUS protocol varies depending on the specific implementation and network conditions. However, in general, MODBUS protocols have a response time of around 1-2 milliseconds, making it suitable for real-time applications. It's essential to consult the manufacturer's documentation for specific information on response times.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK3+?",
+            "Which refrigerants are compatible with LC-PS?",
+            "How does ATEX certification affect TK4?"
+        ],
+        "summary": "Teklab offers a range of oil level regulators and level switches, including the popular TK3+ and TK4 series. These products offer advanced features such as MODBUS protocol and ATEX certification, making them suitable for complex applications. The choice between these products depends on specific application requirements and level of complexity.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "46bar / 80bar / 130bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU",
+                "analog 4-20mA",
+                "relay output"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/comparazione_prodotti/teklab_chunk_012_001_Struttura_Gerarchica_Prodotti_Teklab.json"
+    ]
+}

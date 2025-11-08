@@ -110,7 +110,7 @@ class TeklabAIChatbotOllama:
             sys.exit(1)
     
     def _load_embeddings(self):
-        """Carica embeddings cache per RAG - NUOVA STRUTTURA TEKLAB"""
+        """Carica embeddings cache per RAG - NUOVA STRUTTURA BASATA SU DOMANDE"""
         embeddings_path = PROJECT_ROOT / "ai_system" / "Embedding" / "teklab_embeddings_cache.pkl"
         
         print("\n📚 Caricamento Knowledge Base RAG (TEKLAB chunks)...")
@@ -118,8 +118,8 @@ class TeklabAIChatbotOllama:
         if not embeddings_path.exists():
             print(f"⚠️  Cache embeddings non trovata: {embeddings_path}")
             print("   Esegui prima: python scripts/2_generate_embeddings.py")
-            self.chunk_embeddings = {}
-            self.qa_embeddings = {}
+            self.embeddings = {}
+            self.embedding_to_chunk_id = {}
             self.chunks_data = {}
             self.embedding_model = None
             return
@@ -128,65 +128,65 @@ class TeklabAIChatbotOllama:
             with open(embeddings_path, 'rb') as f:
                 cache = pickle.load(f)
             
-            self.chunk_embeddings = cache.get('chunk_embeddings', {})
-            self.qa_embeddings = cache.get('qa_embeddings', {})
+            # NUOVA STRUTTURA: embeddings unificato + mappa
+            self.embeddings = cache.get('embeddings', {})
+            self.embedding_to_chunk_id = cache.get('embedding_to_chunk_id', {})
             self.chunks_data = cache.get('chunks_data', {})
-            
-            # Non più usati nella nuova struttura
-            self.summary_embeddings = {}
-            self.summaries_data = {}
             
             # Carica modello embeddings (FORZA CPU)
             from sentence_transformers import SentenceTransformer
-            model_name = cache.get('model', 'all-mpnet-base-v2')
+            model_name = cache.get('model', 'BAAI/bge-base-en-v1.5')
             print(f"   • Modello embeddings: {model_name}")
             print("   • Device: CPU (GPU riservata per Llama)")
             self.embedding_model = SentenceTransformer(model_name, device='cpu')
             
-            total = len(self.chunk_embeddings) + len(self.qa_embeddings)
+            total = len(self.embeddings)
+            unique_chunks = len(set(self.embedding_to_chunk_id.values()))
             print(f"✅ Caricati {total} embeddings RAG")
-            print(f"   • Chunks: {len(self.chunk_embeddings)}")
-            print(f"   • Q&A: {len(self.qa_embeddings)}")
+            print(f"   • Vettori totali: {total}")
+            print(f"   • Chunk unici: {unique_chunks}")
             
         except Exception as e:
             print(f"❌ Errore caricamento embeddings: {e}")
-            self.embeddings = None
+            self.embeddings = {}
+            self.embedding_to_chunk_id = {}
+            self.chunks_data = {}
             self.embedding_model = None
     
-    def retrieve_context(self, query: str, top_k: int = 5, min_similarity: float = 0.33) -> tuple[str, list[dict]]:
-        """Recupera contesto RAG rilevante da chunk e Q&A."""
-        if not self.embedding_model or (not self.chunk_embeddings and not self.qa_embeddings):
+    def retrieve_context(self, query: str, top_k: int = 5, min_similarity: float = 0.28) -> tuple[str, list[dict]]:
+        """Recupera contesto RAG rilevante usando la nuova struttura embeddings."""
+        if not self.embedding_model or not self.embeddings:
             return "", []
         
         try:
             from sklearn.metrics.pairwise import cosine_similarity
+            import numpy as np
             
             query_emb = self.embedding_model.encode([query])[0]
             
-            similarities = []
-            # Cerca nei chunk
-            for chunk_id, chunk_emb in self.chunk_embeddings.items():
-                sim = cosine_similarity([query_emb], [chunk_emb])[0][0]
-                similarities.append((chunk_id, sim, 'chunk'))
-
-            # Cerca nelle Q&A
-            for qa_id, qa_emb in self.qa_embeddings.items():
-                sim = cosine_similarity([query_emb], [qa_emb])[0][0]
-                similarities.append((qa_id, sim, 'qa'))
-
-            # DEBUG: Stampa top 5 similarities PRIMA del filtro
+            # Cerca in tutti gli embeddings (unificati)
+            embedding_ids = list(self.embeddings.keys())
+            embedding_vectors = np.array([self.embeddings[eid] for eid in embedding_ids])
+            
+            similarities = cosine_similarity([query_emb], embedding_vectors)[0]
+            
+            # Crea lista con ID e similarity
+            results = [(embedding_ids[i], similarities[i]) for i in range(len(embedding_ids))]
+            results.sort(key=lambda x: x[1], reverse=True)
+            
+            # DEBUG: Stampa top 5 similarities
             print(f"\n🔍 DEBUG retrieve_context:")
             print(f"   Query: '{query[:50]}'")
             print(f"   min_similarity: {min_similarity}")
             print(f"   top_k: {top_k}")
-            similarities_sorted = sorted(similarities, key=lambda x: x[1], reverse=True)
             print(f"   Top 5 similarities BEFORE filter:")
-            for i, (cid, sim, c_type) in enumerate(similarities_sorted[:5], 1):
+            for i, (emb_id, sim) in enumerate(results[:5], 1):
                 ok = "✅" if sim >= min_similarity else "❌"
-                print(f"      {ok} [{i}] sim={sim:.4f} - type={c_type} - {cid.split('/')[-1][:50]}")
+                emb_type = "Q&A" if '|qa_' in emb_id else "NQ" if '|nq_' in emb_id else "UNKNOWN"
+                print(f"      {ok} [{i}] sim={sim:.4f} - type={emb_type} - {emb_id[:60]}")
             
-            # Filtra per similarity threshold PRIMA, poi prendi top_k
-            filtered = [(item_id, score, item_type) for item_id, score, item_type in similarities_sorted if score >= min_similarity]
+            # Filtra per similarity threshold e prendi top_k
+            filtered = [(emb_id, score) for emb_id, score in results if score >= min_similarity]
             top_items = filtered[:top_k]
             
             if not top_items:
@@ -196,59 +196,42 @@ class TeklabAIChatbotOllama:
             context_parts = []
             retrieved_metadata = []
             
-            for item_id, score, item_type in top_items:
-                if item_type == 'chunk':
-                    chunk_data = self.chunks_data.get(item_id, {})
-                    # Usa il testo originale completo per il contesto
-                    chunk_text = chunk_data.get('original_text', '')
-                    
-                    if chunk_text:
-                        metadata = chunk_data.get('metadata', {})
-                        product_category = metadata.get('product_category', 'Unknown')
-                        chunk_title = metadata.get('chunk_title', 'Technical Document')
-                        
-                        source_info = chunk_data.get('metadata', {}).get('source', 'Teklab')
-                        context_parts.append(f"[Source: {product_category} - {chunk_title}]\n{chunk_text}\n")
-                        
-                        retrieved_metadata.append({
-                            "chunk_id": item_id,
-                            "similarity_score": round(float(score), 4),
-                            "source": source_info,
-                            "product_category": product_category,
-                            "chunk_title": chunk_title,
-                            "type": "chunk"
-                        })
+            for emb_id, score in top_items:
+                # Recupera chunk_id dalla mappa
+                chunk_id = self.embedding_to_chunk_id.get(emb_id)
+                if not chunk_id:
+                    continue
                 
-                elif item_type == 'qa':
-                    # Le Q&A sono memorizzate in chunks_data sotto l'ID del loro chunk padre
-                    chunk_id, qa_idx_str = item_id.split('|qa_')
-                    qa_idx = int(qa_idx_str)
+                chunk_data = self.chunks_data.get(chunk_id, {})
+                if not chunk_data:
+                    continue
+                
+                # Recupera il testo completo del chunk
+                chunk_text = chunk_data.get('original_text', '')
+                metadata = chunk_data.get('metadata', {})
+                product_category = metadata.get('product_category', 'Unknown')
+                chunk_title = metadata.get('chunk_title', 'Technical Document')
+                
+                if chunk_text:
+                    context_parts.append(f"[Source: {product_category} - {chunk_title}]\n{chunk_text}\n")
                     
-                    chunk_data = self.chunks_data.get(chunk_id, {})
-                    qa_pair = chunk_data.get('metadata', {}).get('qa_pairs', [])[qa_idx]
-                    
-                    if qa_pair:
-                        question = qa_pair.get('question', '')
-                        answer = qa_pair.get('answer', '')
-                        context_parts.append(f"[Source: Q&A]\nQuestion: {question}\nAnswer: {answer}\n")
-                        
-                        metadata = chunk_data.get('metadata', {})
-                        product_category = metadata.get('product_category', 'Unknown')
-
-                        retrieved_metadata.append({
-                            "chunk_id": item_id,
-                            "similarity_score": round(float(score), 4),
-                            "source": "Q&A",
-                            "product_category": product_category,
-                            "question": question,
-                            "type": "qa"
-                        })
+                    retrieved_metadata.append({
+                        "chunk_id": chunk_id,
+                        "embedding_id": emb_id,
+                        "similarity_score": round(float(score), 4),
+                        "source": "Teklab",
+                        "product_category": product_category,
+                        "chunk_title": chunk_title,
+                        "type": "qa" if '|qa_' in emb_id else "nq"
+                    })
             
             context_text = "\n---\n".join(context_parts) if context_parts else ""
             return context_text, retrieved_metadata
             
         except Exception as e:
             print(f"⚠️  Errore retrieve RAG: {e}")
+            import traceback
+            traceback.print_exc()
             return "", []
     
     def _get_conversation_context(self) -> str:

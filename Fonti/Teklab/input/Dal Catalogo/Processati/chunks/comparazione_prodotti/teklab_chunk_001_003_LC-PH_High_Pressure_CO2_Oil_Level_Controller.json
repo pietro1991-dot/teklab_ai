@@ -1,0 +1,106 @@
+{
+    "id": "teklab_chunk_001_003_LC-PH_High_Pressure_CO2_Oil_Level_Controller",
+    "original_text": "'quando_sceglierlo': 'Per sistemi di refrigerazione standard, chiller e pompe di calore con refrigeranti convenzionali, dove è richiesta una soluzione affidabile e dal costo contenuto.'}, {'modello': 'LC-PH (High Pressure, Cable)', 'pressione_max': '120 bar', 'connessione': 'Cavo elettrico diretto o connettore M12 opzionale', 'descrizione_dettagliata': \"L'LC-PH è la versione ad alta pressione dell'LC-PS, specificamente ingegnerizzata per i sistemi a CO2 (R744). Il corpo rinforzato garantisce la massima sicurezza in applicazioni subcritiche e transcritiche. Mantiene la connessione a cavo per una tenuta perfetta, ma offre anche l'opzione di un connettore M12 per una maggiore flessibilità e una connessione/disconnessione rapida in ambienti industriali.\", 'quando_sceglierlo': 'Obbligatorio per sistemi a CO2. Raccomandato anche per sistemi HFC in climi freddi dove la pressione differenziale può aumentare notevolmente.'}, {'modello': 'LC-XT (Standard Pressure, Connector)', 'pressione_max': '46 bar', 'connessione': 'Connettore industriale DIN 43650', 'descrizione_dettagliata': \"L'LC-XT offre le stesse prestazioni dell'LC-PS (46 bar) ma sostituisce il cavo diretto con un pratico connettore DIN. Questo facilita enormemente le operazioni di installazione e manutenzione, permettendo di collegare e scollegare il sensore senza dover intervenire sui cablaggi. È la soluzione ideale per macchinari modulari o per quadri elettrici dove la pulizia e la rapidità di intervento sono fondamentali.\", 'quando_sceglierlo': 'Per sistemi standard (HFC/HFO) dove la facilità di manutenzione e la velocità di sostituzione sono una priorità. Perfetto per OEM che vogliono semplificare le loro linee di assemblaggio.'}, {'modello': 'LC-XP (High Pressure, Connector)', 'pressione_max': '120 bar', 'connessione': 'Connettore industriale DIN 43650', 'descrizione_dettagliata': \"L'LC-XP combina il meglio di due mondi: la resistenza alle alte pressioni (120 bar) dell'LC-PH e la praticità del connettore DIN dell'LC-XT.",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - LC-PH High Pressure CO2 Oil Level Controller\nKey Specifications: High pressure capability for CO2 applications, Practical connection options (cable and M12 connector), Safety features for subcritical and transcritical applications, Compatibility with CO2 refrigerant systems, Ideal for high-pressure applications requiring precise control\n📌 Important Details: L'LC-PH è la versione ad alta pressione dell'LC-PS, specificamente ingegnerizzata per i sistemi a CO2 (R744). | Obbligatorio per sistemi a CO2. Raccomandato anche per sistemi HFC in climi freddi dove la pressione differenziale può aumentare notevolmente.\n\nComplete technical text:\n'quando_sceglierlo': 'Per sistemi di refrigerazione standard, chiller e pompe di calore con refrigeranti convenzionali, dove è richiesta una soluzione affidabile e dal costo contenuto.'}, {'modello': 'LC-PH (High Pressure, Cable)', 'pressione_max': '120 bar', 'connessione': 'Cavo elettrico diretto o connettore M12 opzionale', 'descrizione_dettagliata': \"L'LC-PH è la versione ad alta pressione dell'LC-PS, specificamente ingegnerizzata per i sistemi a CO2 (R744). Il corpo rinforzato garantisce la massima sicurezza in applicazioni subcritiche e transcritiche. Mantiene la connessione a cavo per una tenuta perfetta, ma offre anche l'opzione di un connettore M12 per una maggiore flessibilità e una connessione/disconnessione rapida in ambienti industriali.\", 'quando_sceglierlo': 'Obbligatorio per sistemi a CO2. Raccomandato anche per sistemi HFC in climi freddi dove la pressione differenziale può aumentare notevolmente.'}, {'modello': 'LC-XT (Standard Pressure, Connector)', 'pressione_max': '46 bar', 'connessione': 'Connettore industriale DIN 43650', 'descrizione_dettagliata': \"L'LC-XT offre le stesse prestazioni dell'LC-PS (46 bar) ma sostituisce il cavo diretto con un pratico connettore DIN. Questo facilita enormemente le operazioni di installazione e manutenzione, permettendo di collegare e scollegare il sensore senza dover intervenire sui cablaggi. È la soluzione ideale per macchinari modulari o per quadri elettrici dove la pulizia e la rapidità di intervento sono fondamentali.\", 'quando_sceglierlo': 'Per sistemi standard (HFC/HFO) dove la facilità di manutenzione e la velocità di sostituzione sono una priorità. Perfetto per OEM che vogliono semplificare le loro linee di assemblaggio.'}, {'modello': 'LC-XP (High Pressure, Connector)', 'pressione_max': '120 bar', 'connessione': 'Connettore industriale DIN 43650', 'descrizione_dettagliata': \"L'LC-XP combina il meglio di due mondi: la resistenza alle alte pressioni (120 bar) dell'LC-PH e la praticità del connettore DIN dell'LC-XT.\n\n---\n\nQuestion: What is the maximum pressure range for LC-PH?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The LC-PH High Pressure CO2 Oil Level Controller offers a reliable and precise solution for high-pressure applications requiring control. With its reinforced body, practical connection options, and compatibility with CO2 refrigerant systems, the LC-PH is an ideal choice for industries that demand maximum performance."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_001_003_LC-PH_High_Pressure_CO2_Oil_Level_Controller",
+        "file_index": 1,
+        "file_source": "All_Categories",
+        "chunk_number": 3,
+        "chunk_title": "LC-PH High Pressure CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "High pressure capability for CO2 applications",
+            "Practical connection options (cable and M12 connector)",
+            "Safety features for subcritical and transcritical applications",
+            "Compatibility with CO2 refrigerant systems",
+            "Ideal for high-pressure applications requiring precise control"
+        ],
+        "keywords_primary": [
+            "LC-PH",
+            "High Pressure",
+            "CO2",
+            "Oil Level Controller",
+            "Pressure Range: 120bar"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "L'LC-PH è la versione ad alta pressione dell'LC-PS, specificamente ingegnerizzata per i sistemi a CO2 (R744).",
+            "Obbligatorio per sistemi a CO2. Raccomandato anche per sistemi HFC in climi freddi dove la pressione differenziale può aumentare notevolmente."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by LC-PH?",
+                "answer": "The LC-PH supports a maximum pressure range of 120bar, making it ideal for high-pressure applications requiring precise control. This feature is particularly useful in CO2 refrigeration systems where high pressures are common. Additionally, the LC-PH offers a practical connection option with a cavo elettrico diretto or connettore M12 opzionale, ensuring easy installation and maintenance.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does LC-PH ensure safety in subcritical and transcritical applications?",
+                "answer": "The LC-PH features a reinforced body that guarantees maximum safety in subcritical and transcritical applications. This design ensures the sensor can withstand extreme temperatures and pressures, providing reliable operation even in challenging environments. Furthermore, the LC-PH is designed to maintain perfect connection with a cavo elettrico diretto or connettore M12 opzionale, reducing the risk of errors during installation and maintenance.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range for LC-PH?",
+            "How does LC-PH ensure safety in CO2 applications?"
+        ],
+        "summary": "The LC-PH High Pressure CO2 Oil Level Controller offers a reliable and precise solution for high-pressure applications requiring control. With its reinforced body, practical connection options, and compatibility with CO2 refrigerant systems, the LC-PH is an ideal choice for industries that demand maximum performance.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "120bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "cavo elettrico diretto or connettore M12 opzionale"
+            ],
+            "application_type": [
+                "compressor"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

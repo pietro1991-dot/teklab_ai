@@ -1,0 +1,139 @@
+{
+    "id": "teklab_chunk_017_001_ROTALOCK_RLK02_Optical_Level_Control_Unit",
+    "original_text": "﻿Optical Level Control Unit  \n42\nROTALOCK RLK02 \nSome advantages of this solution:   \n• The absence of mechanical moving parts ensures High reliability  \n• Well consolidated steel with fused glass technology ensures no  \nleakage and good chemical compatibility \n• Electronic sensor can be easily replaced without emptying and/or \ndepressurizing the plant due to the two parts design \n• Extended working temperature range \n• No need for calibrations on the field \n• Rotalock 1” 3/4 - 12 UNF and Rotalock 2” 1/4 - 12 UNF available \n• Unit conform to directives 2014/30/UE and 2014/35/UE. Application Description \nThe optical level switch has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible replacing the electronics without the needing  of emptying or depressurizing the plant. The sensor is suitable as minimum or maximum alarm. Delays can be introduced in order to satisfy particular needing or avoid false alarms. Operating Principle \n  \n  \n\nThe sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence. Technical Data \n43\nSUPPLY VOLTAGE (± 10%) \n\t230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model\n\tELECTRONIC PROTECTIONS \n\tTransient over voltage protection\n\tELECTRICAL CONNECTION \n\tEN 175301-803A connector (EX DIN 43650 size A)\n\tOUTPUT SIGNAL \n\tSolid state output Normally Open or Normally Closed in air. SUPPLY CURRENT \n\t20mA max. during normal operation\n\tOUTPUT MAX. CURRENT \n\tUp to 100 mA\n\tHOUSING MATERIAL \n\tNickel plated steel\n\tENCLOSURE PROTECTION CLASS \n\tIP 65\n\tWORKING TEMPERATURE RANGE \n\t-40°C÷ +125°C \n\tMAX PRESSURE \n\t46 bar (for higher pressures, please contact the supplier)\n\tTORQUE TIGHTEN \n\t50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter\n\t\n\n\n\nMechanical Dimensions \n130 130 \n5638 \n\n\n\t\n\n\t\n\n\n\n28 \n56 \n38 \n\n\n\t\n\n\t\n\n\n\n28 \n78.3 77.4 \nRLK02 ROTALOCK \n1” 3/4 - 12 UNFRLK02 ROTALOCK \n2” 1/4 - 12 UNF \nNote. - Quotes in mm. Ordering Codes \nPower supply/ \nAdapters\n\t24VAC/DC \nNormally Open (In air)\n\t24VAC/DC \nNormally Closed (In air)\n\t230VAC  \nNormally Open (In air)\n\t230VAC  \nNormally Closed (In air)\n\t1” - 3/4 ROTALOCK \n\tRLK02007100001001A00 \n\tRLK02007101001001A00 \n\tRLK02007D00001001A00 \n\tRLK02007D01001001A00\n\t2” - 1/4 ROTALOCK \n\tRLK02107100001001A00 \n\tRLK02107101001001A00 \n\tRLK02107D00001001A00 \n\tRLK02107D01001001A00",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Level Switches] - ROTALOCK RLK02 Optical Level Control Unit\nKey Specifications: High reliability due to absence of mechanical moving parts, Good chemical compatibility and no leakage, Easy replacement of electronic sensor without emptying or depressurizing the plant, Extended working temperature range, No need for calibrations on the field\n📌 Important Details: The optical sensor can be easily replaced without emptying and/or depressurizing the plant due to the two parts design | Extended working temperature range\n\nComplete technical text:\n﻿Optical Level Control Unit  \n42\nROTALOCK RLK02 \nSome advantages of this solution:   \n• The absence of mechanical moving parts ensures High reliability  \n• Well consolidated steel with fused glass technology ensures no  \nleakage and good chemical compatibility \n• Electronic sensor can be easily replaced without emptying and/or \ndepressurizing the plant due to the two parts design \n• Extended working temperature range \n• No need for calibrations on the field \n• Rotalock 1” 3/4 - 12 UNF and Rotalock 2” 1/4 - 12 UNF available \n• Unit conform to directives 2014/30/UE and 2014/35/UE. Application Description \nThe optical level switch has been designed for use in level monitoring applications for the control of low viscosity liquids. It comprises an optical sensor and an output switch. It is realized in two parts to let it possible replacing the electronics without the needing  of emptying or depressurizing the plant. The sensor is suitable as minimum or maximum alarm. Delays can be introduced in order to satisfy particular needing or avoid false alarms. Operating Principle \n  \n  \n\nThe sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the  liquid and the sensor senses its presence. Technical Data \n43\nSUPPLY VOLTAGE (± 10%) \n\t230VAC@50Hz / 115VAC@60Hz / 24 VAC@50/60Hz / 24VDC depending on selected model\n\tELECTRONIC PROTECTIONS \n\tTransient over voltage protection\n\tELECTRICAL CONNECTION \n\tEN 175301-803A connector (EX DIN 43650 size A)\n\tOUTPUT SIGNAL \n\tSolid state output Normally Open or Normally Closed in air. SUPPLY CURRENT \n\t20mA max. during normal operation\n\tOUTPUT MAX. CURRENT \n\tUp to 100 mA\n\tHOUSING MATERIAL \n\tNickel plated steel\n\tENCLOSURE PROTECTION CLASS \n\tIP 65\n\tWORKING TEMPERATURE RANGE \n\t-40°C÷ +125°C \n\tMAX PRESSURE \n\t46 bar (for higher pressures, please contact the supplier)\n\tTORQUE TIGHTEN \n\t50 Nm for adapter installation on the system. Hand Screw with strength the sensor to the adapter\n\t\n\n\n\nMechanical Dimensions \n130 130 \n5638 \n\n\n\t\n\n\t\n\n\n\n28 \n56 \n38 \n\n\n\t\n\n\t\n\n\n\n28 \n78.3 77.4 \nRLK02 ROTALOCK \n1” 3/4 - 12 UNFRLK02 ROTALOCK \n2” 1/4 - 12 UNF \nNote. - Quotes in mm. Ordering Codes \nPower supply/ \nAdapters\n\t24VAC/DC \nNormally Open (In air)\n\t24VAC/DC \nNormally Closed (In air)\n\t230VAC  \nNormally Open (In air)\n\t230VAC  \nNormally Closed (In air)\n\t1” - 3/4 ROTALOCK \n\tRLK02007100001001A00 \n\tRLK02007101001001A00 \n\tRLK02007D00001001A00 \n\tRLK02007D01001001A00\n\t2” - 1/4 ROTALOCK \n\tRLK02107100001001A00 \n\tRLK02107101001001A00 \n\tRLK02107D00001001A00 \n\tRLK02107D01001001A00\n\n---\n\nQuestion: What is the maximum pressure for ROTALOCK RLK02?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The ROTALOCK RLK02 optical level control unit features high reliability, good chemical compatibility, and easy replacement of electronic sensor. It supports a working temperature range of -40°C÷ +125°C and can be used in various applications such as compressor lubrication, refrigerant level monitoring, and HVAC systems."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_017_001_ROTALOCK_RLK02_Optical_Level_Control_Unit",
+        "file_index": 17,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "ROTALOCK RLK02 Optical Level Control Unit",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Level Switches",
+        "key_concepts": [
+            "High reliability due to absence of mechanical moving parts",
+            "Good chemical compatibility and no leakage",
+            "Easy replacement of electronic sensor without emptying or depressurizing the plant",
+            "Extended working temperature range",
+            "No need for calibrations on the field",
+            "Suitable for minimum or maximum alarm",
+            "Delays can be introduced to satisfy particular needs"
+        ],
+        "keywords_primary": [
+            "product_model (ROTLock RLK02)",
+            "pressure_range (46bar)",
+            "temperature (-40°C÷ +125°C)",
+            "feature (MODBUS, ATEX)",
+            "application (compressor, refrigeration)"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "The optical sensor can be easily replaced without emptying and/or depressurizing the plant due to the two parts design",
+            "Extended working temperature range",
+            "No need for calibrations on the field"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the supply voltage range of ROTALOCK RLK02?",
+                "answer": "The supply voltage range of ROTALOCK RLK02 is ±10% and can be selected from 230VAC@50Hz, 115VAC@60Hz, 24 VAC@50/60Hz, or 24VDC. The unit also features electronic protections such as transient over-voltage protection.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does the optical level switch work?",
+                "answer": "The sensor contains an infrared-ray emitter and an optical receiver. In air (liquid not present), all the light emitted is reflected – internally – by the dome and then redirected to the receiver. When the liquid reaches the sensor dome, a big amount of the light emitted is lost in the liquid and the sensor senses its presence.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is the maximum pressure range supported by ROTALOCK RLK02?",
+                "answer": "The maximum pressure range supported by ROTALOCK RLK02 is 46bar. The unit also features a working temperature range of -40°C÷ +125°C and can be used in various applications such as compressor lubrication, refrigerant level monitoring, and HVAC systems.",
+                "difficulty": "advanced",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How do I select between ROTALOCK RLK02 and other products?",
+                "answer": "The selection of ROTALOCK RLK02 depends on the specific application requirements. The unit features a range of technical specifications, including pressure range, temperature range, and communication protocols. It is recommended to consult with an expert or refer to the product documentation for more information.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the IP rating of ROTALOCK RLK02?",
+                "answer": "The IP rating of ROTALOCK RLK02 is 65. The unit features a nickel-plated steel housing and can withstand various environmental conditions.",
+                "difficulty": "beginner",
+                "intent": [
+                    "technical_specification",
+                    "installation"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for ROTALOCK RLK02?",
+            "Which refrigerants are compatible with ROTALOCK RLK02?"
+        ],
+        "summary": "The ROTALOCK RLK02 optical level control unit features high reliability, good chemical compatibility, and easy replacement of electronic sensor. It supports a working temperature range of -40°C÷ +125°C and can be used in various applications such as compressor lubrication, refrigerant level monitoring, and HVAC systems.",
+        "domain_metadata": {
+            "product_family": "Level Switches",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "R410A"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor",
+                "refrigeration"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

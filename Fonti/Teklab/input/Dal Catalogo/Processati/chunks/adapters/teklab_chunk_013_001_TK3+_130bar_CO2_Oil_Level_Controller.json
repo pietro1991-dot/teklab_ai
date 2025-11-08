@@ -1,0 +1,83 @@
+{
+    "id": "teklab_chunk_013_001_TK3+_130bar_CO2_Oil_Level_Controller",
+    "original_text": "﻿Adapters Addendum 30\nRIGHT / LEFT MOUNTING POSSIBILITIES \n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\nTK3 Right Model Mounting Example TK3 Left Model Mounting Example \nMEASURES \n\"L1\" \nADAPTER \n\t“ L1 ”\n\tNo adapter (Direct Mounting) \n\t-\n\t1-1/8” - 18 UNEF \n\t34\n\t¾” NPT \n\t34\n\t3/4/6 holes (50 MM) \n\t50\n\t1”GAS \n\t43\n\tRLK 1” ¾ - 12 UNF \n\t53,4\n\tM36 X 1,5 \n\t45\n\t3/4/6 holes (22 MM) \n\t22\n\tRLK 1” ¼ - 12 UNF \n\t41,4\n\t\n\n\n\nSelection Table (some examples based on compressor brand/model) \nCOMPRESSOR FAMILY / MODE \n\tSELECTION\n\tARCTIC CIRCLE \n\tG2; G4; G6 \n\t0 or 3\n\tBITZER\n\t4G; 4H; 4J; 4NC; 4NHC-20K; 4PC; 4PHC-15K; 4TC; 4THC-12K; 4VC; 4VHC-10K; 4VNC; 4Z; 6F; 6G; 6H; 6J; 8FC;  8GC; S4; S6; \n\t0 or 3\n\t2CHC-4K; 2DC; 2DHC-3K; 2EC; 2EHC-3K; 2FC; 2FHC-3K; 2GC; 2GHC-2K; 2HC; 2HHC-2K; 2JC; 2JHC-07K; 2KC;  2KHC-05K; 4CC; 4CHC-9K; 4DC; 4DHC-7K; 4EC; 4EHC-6K; 4FC; 4FHC-5K; 4KTC-10K \n\t1\n\tZL; ZM \n\t2\n\tBOCK\n\tHA 4;HA 5; HA6; HG 4; HG 5; HG 6; HG 7; HG 8; HGX4/310-4; HGX4/385-4; HGX4/464-4; HGX4/555-4 \n\t0 or 3\n\tHA12; HA22; HA34; HG12 ;HG22; HG34; HGX12P/40-4; HGX12P/50-4; HGX12P/60-4; HGX12P/75-4; HGX22P/110-4; HGX22P/125-4; HGX22P/160-4; HGX22P/190-4; HGX34P/215-4; HGX34P/555-4 \n\t1\n\tCARRIER \n\tEA; ER; \n\t0 or 3\n\tCOPELAND \n\t4CC; 6CC; D2; D3; D4; D6.H; D6.S; D9; DM \n\t0 or 3\n\tZF; ZS \n\t2\n\tDORIN\n\tK Series (except the listed for adapter 1); SCC500 B; SCC750 B; SCC1500 B; SCC1900 B; SCC2000 B; SCC2500  B; SCS340 D; SCS351 D; SCS362 D; SCS373 D; SCS385 D; SCS3K8 D; H Series(except the listed for adapter 1) \n\t0 or 3\n\tH1; K100CC; K100CS; K150CC; K150CS; K180CC; K180CS; K200CC; K230CS; K235CC; K240SB; K400CC;  K50CS; K75CC; K75CS; SCC250 B; SCC300 B ; SCC350 B; SCC380 B \n\t1\n\tFRASCOLD \n\tA; A-SK; B; D; D-SK; F; F-SK; Q-SK; S; S-SK; V; W; Z \n\t0 or 3\n\tPRESTCOLD \n\tP2; P3; P4; P6; P8; P9 \n\t0 or 3\n\tL’UNITÉ HERMÉTIQUE \n\tTAG; TAH \n\t1\n\tMANEUROPE \n\tLT; MT; SM; SZ; \n\t1\n\t\n\n\n\nWhere31\nTK3 SELECTION \n\tADAPTER \n\tCODE\n\t\n\n\t0 \n\tNo Adapter (Direct mounting)\n\t\n\n\t\n\n\t1 \n\t1-1/8” - 18 UNEF \n\tTKX-A001\n\t  \n\n\t2 \n\t¾” NPT \n\tTKX-A002\n\t  \n\n\t3 \n\t3/4/6 holes flange (also as a spacer 50 mm) \n\tTKX-A003\n\t  \n\n\t4 \n\t1” GAS \n\tTKX-A004\n\t  \n\n\t5 \n\tRotalock 1” ¾ - 12 UNF \n\tTKX-A005\n\t  \n\n\t6 \n\tM36 x 1,5 \n\tTKX-A006\n\t  \n\n\t7 \n\t3/4/6 holes flange (also as a spacer 22 mm) \n\tTKX-A0070\n\t  \n\n\t8 \n\tRotalock 1” ¼ - 12 UNF \n\tTKX-A008 \n\t  \n\n\t9 \n\tDirect injection for 26 bar MOPD model \n\tTKX-ADI2\n\t  \n\n\t10 \n\tDirect injection for other models \n\tTKX-ADI3",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Adapters] - TK3+ 130bar CO2 Oil Level Controller\nKey Specifications: Primary product feature or specification, Key technical parameter or capability, Main application or use case, Important compatibility or standard, Critical performance characteristic\n📌 Important Details: \n\nComplete technical text:\n﻿Adapters Addendum 30\nRIGHT / LEFT MOUNTING POSSIBILITIES \n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\n\n\n\t\n\n\n\nTK3 Right Model Mounting Example TK3 Left Model Mounting Example \nMEASURES \n\"L1\" \nADAPTER \n\t“ L1 ”\n\tNo adapter (Direct Mounting) \n\t-\n\t1-1/8” - 18 UNEF \n\t34\n\t¾” NPT \n\t34\n\t3/4/6 holes (50 MM) \n\t50\n\t1”GAS \n\t43\n\tRLK 1” ¾ - 12 UNF \n\t53,4\n\tM36 X 1,5 \n\t45\n\t3/4/6 holes (22 MM) \n\t22\n\tRLK 1” ¼ - 12 UNF \n\t41,4\n\t\n\n\n\nSelection Table (some examples based on compressor brand/model) \nCOMPRESSOR FAMILY / MODE \n\tSELECTION\n\tARCTIC CIRCLE \n\tG2; G4; G6 \n\t0 or 3\n\tBITZER\n\t4G; 4H; 4J; 4NC; 4NHC-20K; 4PC; 4PHC-15K; 4TC; 4THC-12K; 4VC; 4VHC-10K; 4VNC; 4Z; 6F; 6G; 6H; 6J; 8FC;  8GC; S4; S6; \n\t0 or 3\n\t2CHC-4K; 2DC; 2DHC-3K; 2EC; 2EHC-3K; 2FC; 2FHC-3K; 2GC; 2GHC-2K; 2HC; 2HHC-2K; 2JC; 2JHC-07K; 2KC;  2KHC-05K; 4CC; 4CHC-9K; 4DC; 4DHC-7K; 4EC; 4EHC-6K; 4FC; 4FHC-5K; 4KTC-10K \n\t1\n\tZL; ZM \n\t2\n\tBOCK\n\tHA 4;HA 5; HA6; HG 4; HG 5; HG 6; HG 7; HG 8; HGX4/310-4; HGX4/385-4; HGX4/464-4; HGX4/555-4 \n\t0 or 3\n\tHA12; HA22; HA34; HG12 ;HG22; HG34; HGX12P/40-4; HGX12P/50-4; HGX12P/60-4; HGX12P/75-4; HGX22P/110-4; HGX22P/125-4; HGX22P/160-4; HGX22P/190-4; HGX34P/215-4; HGX34P/555-4 \n\t1\n\tCARRIER \n\tEA; ER; \n\t0 or 3\n\tCOPELAND \n\t4CC; 6CC; D2; D3; D4; D6.H; D6.S; D9; DM \n\t0 or 3\n\tZF; ZS \n\t2\n\tDORIN\n\tK Series (except the listed for adapter 1); SCC500 B; SCC750 B; SCC1500 B; SCC1900 B; SCC2000 B; SCC2500  B; SCS340 D; SCS351 D; SCS362 D; SCS373 D; SCS385 D; SCS3K8 D; H Series(except the listed for adapter 1) \n\t0 or 3\n\tH1; K100CC; K100CS; K150CC; K150CS; K180CC; K180CS; K200CC; K230CS; K235CC; K240SB; K400CC;  K50CS; K75CC; K75CS; SCC250 B; SCC300 B ; SCC350 B; SCC380 B \n\t1\n\tFRASCOLD \n\tA; A-SK; B; D; D-SK; F; F-SK; Q-SK; S; S-SK; V; W; Z \n\t0 or 3\n\tPRESTCOLD \n\tP2; P3; P4; P6; P8; P9 \n\t0 or 3\n\tL’UNITÉ HERMÉTIQUE \n\tTAG; TAH \n\t1\n\tMANEUROPE \n\tLT; MT; SM; SZ; \n\t1\n\t\n\n\n\nWhere31\nTK3 SELECTION \n\tADAPTER \n\tCODE\n\t\n\n\t0 \n\tNo Adapter (Direct mounting)\n\t\n\n\t\n\n\t1 \n\t1-1/8” - 18 UNEF \n\tTKX-A001\n\t  \n\n\t2 \n\t¾” NPT \n\tTKX-A002\n\t  \n\n\t3 \n\t3/4/6 holes flange (also as a spacer 50 mm) \n\tTKX-A003\n\t  \n\n\t4 \n\t1” GAS \n\tTKX-A004\n\t  \n\n\t5 \n\tRotalock 1” ¾ - 12 UNF \n\tTKX-A005\n\t  \n\n\t6 \n\tM36 x 1,5 \n\tTKX-A006\n\t  \n\n\t7 \n\t3/4/6 holes flange (also as a spacer 22 mm) \n\tTKX-A0070\n\t  \n\n\t8 \n\tRotalock 1” ¼ - 12 UNF \n\tTKX-A008 \n\t  \n\n\t9 \n\tDirect injection for 26 bar MOPD model \n\tTKX-ADI2\n\t  \n\n\t10 \n\tDirect injection for other models \n\tTKX-ADI3\n\n---\n\nQuestion: What is the maximum pressure for TK3+?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The TK3+ oil level controller is designed for use in compressors, evaporators, and other industrial applications. It features a direct mounting option and supports a maximum pressure range of 130bar."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_013_001_TK3+_130bar_CO2_Oil_Level_Controller",
+        "file_index": 13,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "TK3+ 130bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Adapters",
+        "key_concepts": [
+            "Primary product feature or specification",
+            "Key technical parameter or capability",
+            "Main application or use case",
+            "Important compatibility or standard",
+            "Critical performance characteristic"
+        ],
+        "keywords_primary": [
+            "TK3+",
+            "130bar CO2",
+            "oil level controller",
+            "pressure range",
+            "temperature limits"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [],
+        "qa_pairs": [],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+?",
+            "Which refrigerants are compatible with TK3+?"
+        ],
+        "summary": "The TK3+ oil level controller is designed for use in compressors, evaporators, and other industrial applications. It features a direct mounting option and supports a maximum pressure range of 130bar.",
+        "domain_metadata": {
+            "product_family": "Adapters",
+            "pressure_class": "130bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor",
+                "evaporator"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

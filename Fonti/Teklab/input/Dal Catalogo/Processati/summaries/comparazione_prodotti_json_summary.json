@@ -1,0 +1,279 @@
+{
+    "file_index": 6,
+    "filename": "comparazione_prodotti.json",
+    "product_family": "Comparazione Prodotti",
+    "summary_label": "Comparazione Prodotti: comparazione_prodotti.json",
+    "category": "comparazione_prodotti",
+    "total_chunks": 7,
+    "total_qa_pairs": 37,
+    "chunk_ids": [
+        "teklab_chunk_006_001_LC-PS_Level_Switch",
+        "teklab_chunk_006_002_LC-PH_High_Pressure_Digital_Level_Switch",
+        "teklab_chunk_006_003_LC-PH_High_Pressure_Digital_Level_Controller",
+        "teklab_chunk_006_004_LC-PH_130bar_CO2_Oil_Level_Controller",
+        "teklab_chunk_006_005_LC-XT_Level_Switch",
+        "teklab_chunk_006_006_LC-XT_Level_Switch",
+        "teklab_chunk_006_007_LC-XT_Digital_Level_Switch"
+    ],
+    "aggregated_metadata": {
+        "all_keywords": [
+            "LC-PS",
+            "Livello",
+            "Pressione",
+            "Refrigeranti",
+            "MODBUS",
+            "ATEX",
+            "Sicurezza",
+            "Affidabilità",
+            "LC-PH",
+            "high pressure",
+            "digital level switch",
+            "CO2",
+            "MODBUS RTU",
+            "High pressure",
+            "Digital level controller",
+            "CO2 refrigerant",
+            "Subcritical and transcritical cycles",
+            "130bar",
+            "LC-XT",
+            "Level Switch",
+            "Pressure range (46bar)",
+            "Digital output (DIN connector)",
+            "IP67 rating",
+            "Industrial applications",
+            "High-pressure circuits",
+            "LC-XT Level Switch",
+            "46bar Pressure Range",
+            "Digital Output/Connettività",
+            "Sistemi di Refrigerazione Standard",
+            "Funzionalità del LC-PS con Connettore Industriale",
+            "High-Pressure Digital Level Switch",
+            "DIN Connector",
+            "Modular Design for Easy Maintenance"
+        ],
+        "all_concepts": [
+            "Affidabilità e durata",
+            "Risoluzione del livello",
+            "Sicurezza e protezione",
+            "Compatibilità con refrigeranti",
+            "Funzionamento in condizioni di pressione elevate",
+            "High pressure digital level switch for CO2 and high-pressure applications",
+            "Digital output with M12 connectivity",
+            "Specifically designed for modern eco-friendly refrigeration systems",
+            "High pressure capability up to 120bar",
+            "Digital level sensing technology",
+            "Robust design for extreme mechanical and thermal stress",
+            "CO2 refrigerant compatibility in subcritical and transcritical cycles",
+            "Advanced safety features for reliable operation",
+            "Robust design for high-pressure applications",
+            "Versatile connectivity options",
+            "High pressure range and temperature limits",
+            "ATEX certification for safe operation",
+            "Modbus protocol for easy integration",
+            "Digital output with DIN connector",
+            "IP67 rating for industrial use",
+            "Maximum pressure of 46 bar",
+            "Main application: standard systems requiring practicality",
+            "Robustness and versatility for high-pressure circuits",
+            "Robustness and Versatility",
+            "Practicality of Industrial Connector",
+            "Comprovata Affidabilità e Prestazioni",
+            "Significativa Praticità di un Connettore Industriale Standard DIN",
+            "Funzionalità del LC-PS con la Comodità di un Connettore Industriale",
+            "Digital Level Switch for High-Pressure Applications",
+            "Plug-and-Play Installation with DIN Connector",
+            "Robustness and Praticity in High-Efficiency Systems"
+        ],
+        "technical_specs": [
+            "La soluzione standard, affidabile ed economica per il controllo di livello.",
+            "Il suo design è il risultato di un'ingegnerizzazione mirata alla sostanza e alla durabilità;",
+            "L'eccellente rapporto costo-efficacia lo rende la scelta privilegiata per i produttori di apparecchiature (OEM) e per installazioni su larga scala",
+            "Versione per alta pressione del modello LC-PS",
+            "Rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici",
+            "L'LC-PH è un interruttore di livello digitale ad alta pressione, specificamente ingegnerizzato per rispondere alle crescenti esigenze dei moderni sistemi di refrigerazione ecologici.",
+            "La sua capacità di sopportare pressioni operative fino a 120 bar deriva da una progettazione strutturale superiore, che include un corpo macchina rinforzato e materiali selezionati per resistere a stress meccanici e termici estremi.",
+            "Our LC-PH model boasts a robust design that can withstand pressures up to 120 bar.",
+            "The LC-PH offers multiple connectivity options, including a standard cable and M12 connector for secure and rapid connections.",
+            "Ideale per ambienti industriali gravosi",
+            "Componente essenziale per garantire sicurezza e prestazioni",
+            "Questa combinazione di robustezza e versatilità lo rende un componente essenziale per garantire sicurezza e prestazioni in circuiti ad alta pressione",
+            "Il modello LC-XT è la risposta pragmatica alle esigenze di installatori e manutentori che lavorano su sistemi di refrigerazione standard",
+            "The LC-XT represents the perfect blend of robustness and practicability, making it an ideal solution for high-efficiency systems.",
+            "This digital level switch is designed to excel in demanding environments, combining a high-pressure range with the convenience of a DIN connector."
+        ],
+        "natural_questions": [
+            "Qual è la pressione massima che LC-PS può gestire?",
+            "Come LC-PS garantisce un livello di risoluzione preciso?",
+            "È compatibile con il protocollo MODBUS?",
+            "What is the maximum pressure range supported by LC-PH?",
+            "Which refrigerants are compatible with LC-PH?",
+            "What is the maximum pressure for LC-PH?",
+            "How does LC-PH handle CO2 refrigerant?",
+            "How does LC-PH handle temperature extremes?",
+            "What is the maximum pressure for LC-XT?",
+            "How does IP67 rating affect LC-XT?",
+            "What is the maximum pressure range supported by LC-XT?",
+            "How does LC-XT provide practicality for industrial connectors?",
+            "How does LC-XT's DIN connector work?"
+        ]
+    },
+    "file_metadata": {
+        "chunk_id": "teklab_chunk_006_001_LC-PS_Level_Switch",
+        "file_index": 6,
+        "file_source": "All_Categories",
+        "chunk_number": 1,
+        "chunk_title": "LC-PS Level Switch",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Affidabilità e durata",
+            "Risoluzione del livello",
+            "Sicurezza e protezione",
+            "Compatibilità con refrigeranti",
+            "Funzionamento in condizioni di pressione elevate"
+        ],
+        "keywords_primary": [
+            "LC-PS",
+            "Livello",
+            "Pressione",
+            "Refrigeranti",
+            "MODBUS",
+            "ATEX",
+            "Sicurezza",
+            "Affidabilità"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "La soluzione standard, affidabile ed economica per il controllo di livello.",
+            "Il suo design è il risultato di un'ingegnerizzazione mirata alla sostanza e alla durabilità;",
+            "L'eccellente rapporto costo-efficacia lo rende la scelta privilegiata per i produttori di apparecchiature (OEM) e per installazioni su larga scala"
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure that LC-PS can handle?",
+                "answer": "LC-PS è progettato per operare con la massima affidabilità in condizioni di pressione fino a 46 bar.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How does LC-PS ensure accurate level detection?",
+                "answer": "Il principio di funzionamento si basa su una tecnologia collaudata che assicura una risposta precisa al variare del livello del fluido.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "troubleshooting"
+                ]
+            },
+            {
+                "question": "Is LC-PS compatible with ATEX certification?",
+                "answer": "Sì, LC-PS è certificato ATEX, garantendo una sicurezza e un'affidabilità elevate.",
+                "difficulty": "beginner",
+                "intent": [
+                    "certifications",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "Can I use MODBUS protocol with LC-PS?",
+                "answer": "Sì, LC-PS è compatibile con il protocollo MODBUS RTU, consentendo una comunicazione efficiente.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "communication",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How do I install and wire LC-PS?",
+                "answer": "LC-PS può essere installato e collegato in base alle specifiche richieste di applicazione, ma è importante seguire le linee guida del produttore per garantire una sicurezza e un'efficienza ottimali.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "installation",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What refrigerants is LC-PS compatible with?",
+                "answer": "LC-PS è compatibile con una vasta gamma di refrigeranti, tra cui R134a, R404A e CO2.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "refrigerants",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "Can I use LC-PS in applications with high temperatures?",
+                "answer": "Sì, LC-PS può essere utilizzato in applicazioni con temperature elevate, ma è importante verificare le specifiche richieste di applicazione per garantire una sicurezza e un'efficienza ottimali.",
+                "difficulty": "advanced",
+                "intent": [
+                    "temperature",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How does LC-PS ensure a reliable and secure operation?",
+                "answer": "LC-PS è progettato per garantire una sicurezza e un'affidabilità elevate grazie alla sua tecnologia collaudata e alla sua compatibilità con standard di sicurezza come ATEX.",
+                "difficulty": "advanced",
+                "intent": [
+                    "security",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "Qual è la pressione massima che LC-PS può gestire?",
+            "Come LC-PS garantisce un livello di risoluzione preciso?",
+            "È compatibile con il protocollo MODBUS?"
+        ],
+        "summary": "LC-PS è una soluzione affidabile e economica per il controllo di livello in sistemi di refrigerazione standard.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "46bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ],
+            "application_type": [
+                "compressor",
+                "evaporator"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    },
+    "chunk_files": [
+        "chunks/comparazione_prodotti/teklab_chunk_006_001_LC-PS_Level_Switch.json",
+        "chunks/comparazione_prodotti/teklab_chunk_006_002_LC-PH_High_Pressure_Digital_Level_Switch.json",
+        "chunks/comparazione_prodotti/teklab_chunk_006_003_LC-PH_High_Pressure_Digital_Level_Controller.json",
+        "chunks/comparazione_prodotti/teklab_chunk_006_004_LC-PH_130bar_CO2_Oil_Level_Controller.json",
+        "chunks/comparazione_prodotti/teklab_chunk_006_005_LC-XT_Level_Switch.json",
+        "chunks/comparazione_prodotti/teklab_chunk_006_006_LC-XT_Level_Switch.json",
+        "chunks/comparazione_prodotti/teklab_chunk_006_007_LC-XT_Digital_Level_Switch.json"
+    ]
+}

@@ -86,7 +86,8 @@ def get_teklab_categories() -> Dict[str, List[Path]]:
         "Sensors",
         "Adapters",
         "Generali",
-        "Fie_PDF"
+        "Fie_PDF",
+        "Comparazione Prodotti"
     ]
     
     categories = {cat: [] for cat in defined_categories}

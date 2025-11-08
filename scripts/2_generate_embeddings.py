@@ -33,21 +33,22 @@ FONTI_BASE_PATH = PROJECT_ROOT / "Fonti" / "Teklab" / "input" / "Dal Catalogo" /
 EMBEDDINGS_CACHE_PATH = PROJECT_ROOT / "ai_system" / "Embedding" / "teklab_embeddings_cache.pkl"  # ✅ TEKLAB cache
 
 # Modello embeddings (puoi cambiarlo)
-EMBEDDING_MODEL = 'all-mpnet-base-v2'  # Più preciso per contenuto tecnico (768-dim)
+EMBEDDING_MODEL = 'BAAI/bge-base-en-v1.5' # Modello SOTA per retrieval, 768-dim
 # Alternative:
+# 'all-mpnet-base-v2'  # Buon tuttofare, ma meno specializzato
 # 'all-MiniLM-L6-v2'  # Più veloce ma meno preciso (384-dim)
-# 'paraphrase-multilingual-MiniLM-L12-v2'  # Migliore per italiano (ma contenuto è in inglese)
 
 class EmbeddingsGenerator:
+    """
+    Generatore di Embeddings ottimizzato per RAG basato su domande.
+    Crea vettori specifici per ogni domanda e coppia Q&A, mappandoli 
+    al chunk di testo originale.
+    """
     def __init__(self):
-        # Non caricare subito il modello, solo quando serve
         self.model = None
-        self.chunks = {}
-        self.qa_pairs = {}
-        self.summaries = {}  # NUOVO: Summary files per giorno/capitolo
-        self.chunk_embeddings = {}
-        self.qa_embeddings = {}
-        self.summary_embeddings = {}  # NUOVO: Embeddings per summaries
+        self.chunks_data = {}           # {chunk_id: chunk_data}
+        self.embeddings = {}            # {embedding_id: vector}
+        self.embedding_to_chunk_id = {} # {embedding_id: chunk_id}
     
     def _load_model(self):
         """Carica modello embeddings (lazy loading)"""
@@ -57,274 +58,188 @@ class EmbeddingsGenerator:
             print("🧠 Inizializzazione modello embeddings...")
             print(f"   Modello: {EMBEDDING_MODEL}")
             print("   Device: CPU (GPU riservata per Llama)")
-            # FORZA CPU per risparmiare VRAM GPU
             self.model = SentenceTransformer(EMBEDDING_MODEL, device='cpu')
             print("✅ Modello caricato su CPU\n")
         return True
     
     def find_all_rag_folders(self):
-        """Trova tutte le cartelle chunks in Fonti/Autori/Teklab/Processati/"""
-        rag_data = {
-            "chunks_folders": [],
-            "metadata_files": [],
-            "keywords_file": None,
-            "qa_file": None
-        }
-        
-        if not FONTI_BASE_PATH.exists():
-            print(f"❌ Cartella Processati non trovata: {FONTI_BASE_PATH}")
-            return rag_data
-        
-        # Struttura Teklab aggiornata:
-        # Fonti/Teklab/input/Dal Catalogo/Processati/
-        #   ├── chunks/
-        #   │   ├── oil_level_regulators/
-        #   │   ├── level_switches/
-        #   │   └── ... (altre categorie)
-        #   ├── summaries/
-        #   └── .checkpoints/
-        
+        """Trova tutte le cartelle dei chunk in Processati/"""
+        chunks_folders = []
         chunks_base = FONTI_BASE_PATH / "chunks"
         
-        # Trova cartelle chunks (le categorie di prodotti)
-        if chunks_base.exists():
-            for category_dir in chunks_base.iterdir():
-                if category_dir.is_dir():
-                    rag_data["chunks_folders"].append({
-                        "path": category_dir,
-                        "category": category_dir.name,
-                        "source": "Teklab"
-                    })
+        if not chunks_base.exists():
+            print(f"❌ Cartella chunks non trovata: {chunks_base}")
+            return []
         
-        # I file metadata, keywords e qa_pairs non sono più aggregati,
-        # quindi non li cerchiamo più qui.
-        
-        return rag_data
+        for category_dir in chunks_base.iterdir():
+            if category_dir.is_dir():
+                chunks_folders.append({
+                    "path": category_dir,
+                    "category": category_dir.name,
+                    "source": "Teklab"
+                })
+        return chunks_folders
     
     def load_all_data(self):
-        """Carica tutti i chunks e Q&A da struttura Teklab"""
+        """Carica tutti i dati dei chunk dalla struttura di cartelle Teklab."""
         print("📚 Caricamento dati Teklab da Fonti...\n")
         
-        rag_data = self.find_all_rag_folders()
-        
-        chunks_folders = rag_data["chunks_folders"]
+        chunks_folders = self.find_all_rag_folders()
         
         if not chunks_folders:
             print("❌ Nessuna cartella chunks trovata!")
             print(f"   Verifica che esista: {FONTI_BASE_PATH / 'chunks'}")
             return False
         
-        print(f"✅ Trovate {len(chunks_folders)} categorie:\n")
+        print(f"✅ Trovate {len(chunks_folders)} categorie di chunk:\n")
         
-        # Carica chunks da ogni categoria
         total_chunks = 0
-        total_qa_pairs = 0
         for folder_info in chunks_folders:
             category_path = folder_info["path"]
             category = folder_info["category"]
             
-            print(f"   - {category}/")
+            print(f"   - Caricamento da: {category}/")
             
-            # Carica tutti i JSON nella categoria
             chunk_files = sorted(category_path.glob("*.json"))
             category_chunk_count = 0
-            category_qa_count = 0
             
             for chunk_file in chunk_files:
                 try:
                     with open(chunk_file, "r", encoding="utf-8") as f:
                         chunk_data = json.load(f)
-                        
-                        # L'ID del chunk è già nel file
                         chunk_id = chunk_data.get("id", chunk_file.stem)
                         
-                        # Aggiungi metadata di categoria per coerenza
-                        chunk_data["metadata"]["category_folder"] = category
-                        chunk_data["metadata"]["source"] = "Teklab"
-                        
-                        # Salva in self.chunks
-                        if chunk_id not in self.chunks:
-                            self.chunks[chunk_id] = chunk_data
+                        if chunk_id not in self.chunks_data:
+                            self.chunks_data[chunk_id] = chunk_data
                             category_chunk_count += 1
-                            total_chunks += 1
-
-                        # Estrai e salva le Q&A da questo chunk
-                        qa_pairs = chunk_data.get("metadata", {}).get("qa_pairs", [])
-                        if qa_pairs:
-                            self.qa_pairs[chunk_id] = qa_pairs
-                            category_qa_count += len(qa_pairs)
-                            total_qa_pairs += len(qa_pairs)
-                        
                 except Exception as e:
-                    print(f"      ⚠️  Errore {chunk_file.name}: {e}")
+                    print(f"      ⚠️  Errore lettura {chunk_file.name}: {e}")
             
-            print(f"      → {category_chunk_count} chunks, {category_qa_count} Q&A pairs")
+            print(f"      → {category_chunk_count} chunk caricati.")
+            total_chunks += category_chunk_count
         
         print(f"\n{'='*60}")
         print("📊 DATI CARICATI:")
-        print(f"   • Categorie: {len(chunks_folders)}")
         print(f"   • Chunks totali: {total_chunks}")
-        print(f"   • Q&A totali: {total_qa_pairs}")
-        print(f"   • Testi da codificare: {total_chunks + total_qa_pairs}")
         print(f"{'='*60}\n")
         
-        return True
+        return total_chunks > 0
     
     def generate_embeddings(self):
-        """Genera embeddings per tutti i testi Teklab"""
-        print("🔄 GENERAZIONE EMBEDDINGS IN CORSO...\n")
+        """
+        Genera embeddings specifici per le domande (Q&A e Natural Questions)
+        associate a ogni chunk, per una ricerca semantica più precisa.
+        """
+        print("🔄 GENERAZIONE EMBEDDINGS BASATI SULLE DOMANDE...\n")
         
-        # Carica modello ora (lazy loading)
         if not self._load_model():
             return False
         
         texts_to_encode = []
-        text_ids = []
+        embedding_ids = []
         
-        # Prepara testi chunks da categorie Teklab
-        print("📝 Preparazione chunks Teklab...")
-        for chunk_id, chunk in self.chunks.items():
-            
-            # Estrai contenuto dal formato Teklab (original_text)
-            original_text = chunk.get('original_text', '')
-            
-            # Estrai metadata Teklab
-            metadata = chunk.get('metadata', {})
-            
-            # Dati specifici Teklab
-            product_category = metadata.get('product_category', '')
-            chunk_title = metadata.get('chunk_title', '')
-            
-            # Keywords e concetti
-            keywords = metadata.get('keywords_primary', [])
-            keywords_text = ', '.join(keywords[:10]) if keywords else ''
-            
-            concepts = metadata.get('key_concepts', [])
-            concepts_text = ', '.join(concepts[:5]) if concepts else ''
-
-            # Costruisci testo arricchito per embedding
-            enriched_parts = [
-                "Source: Teklab",
-                f"Category: {product_category}",
-                f"Title: {chunk_title}"
-            ]
-            
-            if concepts_text:
-                enriched_parts.append(f"Key Concepts: {concepts_text}")
-            if keywords_text:
-                enriched_parts.append(f"Keywords: {keywords_text}")
-            
-            # Aggiungi contenuto principale
-            enriched_parts.append(f"\nContent:\n{original_text}")
-            
-            text = '\n'.join(enriched_parts)
-            
-            if text.strip():
-                texts_to_encode.append(text)
-                text_ids.append(('chunk', chunk_id))
+        print("📝 Preparazione testi da vettorizzare (Q&A e Domande Naturali)...")
         
-        chunk_count = len([x for x in text_ids if x[0] == 'chunk'])
-        print(f"   ✅ {chunk_count} chunks preparati")
-        
-        # Prepara testi Q&A estratti dai chunk
-        print("📝 Preparazione Q&A...")
-        for chunk_id, qa_list in self.qa_pairs.items():
-            for idx, qa in enumerate(qa_list):
-                qa_id = f"{chunk_id}|qa_{idx}"
-                question = qa.get('question', '')
-                answer = qa.get('answer', '')
-                
-                # Combina domanda + risposta per embedding
-                text = f"Q: {question}\nA: {answer}"
-                
-                if text.strip():
+        for chunk_id, chunk_data in self.chunks_data.items():
+            metadata = chunk_data.get("metadata", {})
+            
+            # 1. Processa le coppie Domanda/Risposta (qa_pairs)
+            qa_pairs = metadata.get("qa_pairs", [])
+            for i, qa in enumerate(qa_pairs):
+                question = qa.get("question", "")
+                answer = qa.get("answer", "")
+                if question and answer:
+                    # L'embedding combina domanda e risposta per un contesto ricco
+                    text = f"Question: {question}\nAnswer: {answer}"
+                    embedding_id = f"{chunk_id}|qa_{i}"
+                    
                     texts_to_encode.append(text)
-                    text_ids.append(('qa', qa_id))
-        
-        qa_count = len([x for x in text_ids if x[0] == 'qa'])
-        print(f"   ✅ {qa_count} Q&A preparati")
-        print(f"   📊 Totale testi: {len(texts_to_encode)}\n")
+                    embedding_ids.append(embedding_id)
+                    self.embedding_to_chunk_id[embedding_id] = chunk_id
+
+            # 2. Processa le Domande Naturali (natural_questions)
+            natural_questions = metadata.get("natural_questions", [])
+            for i, nq in enumerate(natural_questions):
+                if nq:
+                    # L'embedding rappresenta solo la domanda
+                    text = f"Question: {nq}"
+                    embedding_id = f"{chunk_id}|nq_{i}"
+
+                    texts_to_encode.append(text)
+                    embedding_ids.append(embedding_id)
+                    self.embedding_to_chunk_id[embedding_id] = chunk_id
+
+        print(f"   ✅ Preparati {len(texts_to_encode)} testi totali da vettorizzare.\n")
         
         if not texts_to_encode:
-            print("❌ Nessun testo da codificare!")
+            print("❌ Nessun testo (Q&A o Domande Naturali) trovato nei chunk!")
             return False
         
         # Genera embeddings con progress bar
-        print(f"🧠 Codifica {len(texts_to_encode)} testi...")
-        print("   (Può richiedere 1-3 minuti a seconda della CPU)\n")
+        print(f"🧠 Codifica di {len(texts_to_encode)} testi in corso...")
+        print("   (Può richiedere 1-5 minuti a seconda della CPU e del numero di testi)\n")
         
-        embeddings = self.model.encode(
+        generated_embeddings = self.model.encode(
             texts_to_encode, 
             show_progress_bar=True,
-            batch_size=32  # Regola in base alla RAM
+            batch_size=32
         )
         
-        # Salva embeddings
-        print("\n💾 Salvataggio embeddings...")
+        # Popola il dizionario di embeddings
+        self.embeddings = {eid: emb for eid, emb in zip(embedding_ids, generated_embeddings)}
         
-        # Prepara dati chunks per salvataggio (i chunk sono già nel formato corretto)
-        chunks_data = self.chunks
+        print(f"\n✅ Generati {len(self.embeddings)} vettori di embedding.")
         
-        # Assegna embeddings agli ID corrispondenti
-        for (text_type, text_id), embedding in zip(text_ids, embeddings):
-            if text_type == 'chunk':
-                self.chunk_embeddings[text_id] = embedding
-            elif text_type == 'qa':
-                self.qa_embeddings[text_id] = embedding
-        
-        print(f"   ✅ Chunks: {len(self.chunk_embeddings)}")
-        print(f"   ✅ Q&A: {len(self.qa_embeddings)}")
-        
-        # Salva cache
-        print(f"\n💾 Salvataggio cache in {EMBEDDINGS_CACHE_PATH.name}...")
+        # Salva la cache aggiornata
+        print(f"\n💾 Salvataggio nuova cache in {EMBEDDINGS_CACHE_PATH.name}...")
         try:
-            # Crea directory se non esiste
             EMBEDDINGS_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
             
             with open(EMBEDDINGS_CACHE_PATH, 'wb') as f:
                 pickle.dump({
-                    'chunk_embeddings': self.chunk_embeddings,
-                    'qa_embeddings': self.qa_embeddings,
-                    'chunks_data': chunks_data,  # Dati originali chunks
+                    'embeddings': self.embeddings,
+                    'embedding_to_chunk_id': self.embedding_to_chunk_id,
+                    'chunks_data': self.chunks_data,
                     'model': EMBEDDING_MODEL
                 }, f)
             
-            # Mostra dimensione file
             size_mb = EMBEDDINGS_CACHE_PATH.stat().st_size / (1024 * 1024)
-            print(f"   ✅ Cache salvata ({size_mb:.1f} MB)\n")
+            print(f"   ✅ Cache salvata con successo ({size_mb:.1f} MB)\n")
             
             return True
             
         except Exception as e:
-            print(f"   ❌ Errore salvataggio: {e}\n")
+            print(f"   ❌ Errore durante il salvataggio della cache: {e}\n")
             return False
     
     def verify_cache(self):
-        """Verifica che la cache sia valida"""
+        """Verifica che la cache sia valida e mostri le nuove informazioni."""
         if not EMBEDDINGS_CACHE_PATH.exists():
+            print("❌ La cache non esiste.")
             return False
         
         try:
             with open(EMBEDDINGS_CACHE_PATH, 'rb') as f:
                 cache = pickle.load(f)
             
-            chunk_emb = cache.get('chunk_embeddings', {})
-            qa_emb = cache.get('qa_embeddings', {})
+            embeddings = cache.get('embeddings', {})
+            emb_to_chunk = cache.get('embedding_to_chunk_id', {})
+            chunks = cache.get('chunks_data', {})
             model_used = cache.get('model', 'unknown')
             
-            print("\n✅ CACHE VALIDA:")
-            print(f"   • Modello: {model_used}")
-            print(f"   • Chunks: {len(chunk_emb)}")
-            print(f"   • Q&A: {len(qa_emb)}")
+            print("\n✅ CACHE VALIDA (Nuova Struttura):")
+            print(f"   • Modello Utilizzato: {model_used}")
+            print(f"   • Numero di Vettori (Embeddings): {len(embeddings)}")
+            print(f"   • Numero di Chunk Originali: {len(chunks)}")
+            print(f"   • Mapping Vettore->Chunk: {len(emb_to_chunk)} voci")
             
-            # Mostra dimensione file
             size_mb = EMBEDDINGS_CACHE_PATH.stat().st_size / (1024 * 1024)
-            print(f"   • Dimensione: {size_mb:.1f} MB\n")
+            print(f"   • Dimensione Cache: {size_mb:.1f} MB\n")
             
             return True
             
         except Exception as e:
-            print(f"❌ Cache corrotta: {e}")
+            print(f"❌ Cache corrotta o in formato vecchio: {e}")
             return False
 
 

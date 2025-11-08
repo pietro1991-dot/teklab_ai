@@ -1,0 +1,105 @@
+{
+    "id": "teklab_chunk_002_003_TK3+_80bar_CO2_Oil_Level_Controller",
+    "original_text": "n questi sistemi, la pressione nel serbatoio dell'olio (collegato al lato di alta pressione) è tipicamente ben al di sotto di questa soglia rispetto alla pressione nel carter del compressore. Questa variante offre un equilibrio perfetto tra prestazioni e costo, garantendo un rabbocco dell'olio affidabile in condizioni operative normali. La sua robustezza è più che sufficiente per gestire le fluttuazioni di pressione tipiche di questi impianti, rendendola una soluzione sicura ed economica per la protezione standard dei compressori.\", 'quando_sceglierla': 'Scegliere questa versione per impianti di refrigerazione commerciale standard, chiller, e unità di condizionamento che non utilizzano CO2 o non operano in condizioni di bassa temperatura ambiente che potrebbero aumentare drasticamente la pressione differenziale.'}, {'modello': 'TK3+ 80 bar', 'pressione_massima_differenziale': '80 bar (1160 psi)', 'applicazione_ideale': 'Sistemi a CO2 (R744) in configurazione subcritica o sistemi booster con refrigeranti HFC/HFO in climi freddi. Adatto per applicazioni industriali leggere.', 'descrizione_dettagliata': \"La variante da 80 bar è stata sviluppata per colmare il divario tra le applicazioni standard e quelle ad altissima pressione. È la scelta ideale per i sistemi a CO2 subcritici, dove le pressioni sono intrinsecamente più elevate rispetto ai sistemi HFC. Inoltre, è fortemente raccomandata per impianti che utilizzano refrigeranti standard ma sono installati in aree geografiche con climi molto freddi. A basse temperature esterne, la pressione di condensazione può scendere notevolmente, aumentando la differenza di pressione tra la linea dell'olio e il carter.",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK3+ 80bar CO2 Oil Level Controller\nKey Specifications: Primary product feature or specification: oil management for CO2 subcritical systems, Key technical parameter or capability: high pressure range and robustness, Main application or use case: industrial refrigeration, chillers, and air conditioning systems, Important compatibility or standard: ATEX certification and MODBUS protocol, Critical performance characteristic: accurate oil level control for reliable operation\n📌 Important Details: Scegliere questa versione per impianti di refrigerazione commerciale standard, chiller, e unità di condizionamento che non utilizzano CO2 o non operano in condizioni di bassa temperatura ambiente che potrebbero aumentare drasticamente la pressione differenziale. | La variante da 80 bar è stata sviluppata per colmare il divario tra le applicazioni standard e quelle ad altissima pressione.\n\nComplete technical text:\nn questi sistemi, la pressione nel serbatoio dell'olio (collegato al lato di alta pressione) è tipicamente ben al di sotto di questa soglia rispetto alla pressione nel carter del compressore. Questa variante offre un equilibrio perfetto tra prestazioni e costo, garantendo un rabbocco dell'olio affidabile in condizioni operative normali. La sua robustezza è più che sufficiente per gestire le fluttuazioni di pressione tipiche di questi impianti, rendendola una soluzione sicura ed economica per la protezione standard dei compressori.\", 'quando_sceglierla': 'Scegliere questa versione per impianti di refrigerazione commerciale standard, chiller, e unità di condizionamento che non utilizzano CO2 o non operano in condizioni di bassa temperatura ambiente che potrebbero aumentare drasticamente la pressione differenziale.'}, {'modello': 'TK3+ 80 bar', 'pressione_massima_differenziale': '80 bar (1160 psi)', 'applicazione_ideale': 'Sistemi a CO2 (R744) in configurazione subcritica o sistemi booster con refrigeranti HFC/HFO in climi freddi. Adatto per applicazioni industriali leggere.', 'descrizione_dettagliata': \"La variante da 80 bar è stata sviluppata per colmare il divario tra le applicazioni standard e quelle ad altissima pressione. È la scelta ideale per i sistemi a CO2 subcritici, dove le pressioni sono intrinsecamente più elevate rispetto ai sistemi HFC. Inoltre, è fortemente raccomandata per impianti che utilizzano refrigeranti standard ma sono installati in aree geografiche con climi molto freddi. A basse temperature esterne, la pressione di condensazione può scendere notevolmente, aumentando la differenza di pressione tra la linea dell'olio e il carter.\n\n---\n\nQuestion: What is the maximum pressure for TK3+ 80bar?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "The TK3+ 80bar CO2 Oil Level Controller offers accurate oil level management and robustness in high-pressure subcritical CO2 systems, making it ideal for industrial refrigeration applications."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_002_003_TK3+_80bar_CO2_Oil_Level_Controller",
+        "file_index": 2,
+        "file_source": "All_Categories",
+        "chunk_number": 3,
+        "chunk_title": "TK3+ 80bar CO2 Oil Level Controller",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Primary product feature or specification: oil management for CO2 subcritical systems",
+            "Key technical parameter or capability: high pressure range and robustness",
+            "Main application or use case: industrial refrigeration, chillers, and air conditioning systems",
+            "Important compatibility or standard: ATEX certification and MODBUS protocol",
+            "Critical performance characteristic: accurate oil level control for reliable operation"
+        ],
+        "keywords_primary": [
+            "TK3+ 80bar CO2",
+            "oil management",
+            "pressure range (80bar)",
+            "ATEX certification",
+            "MODBUS protocol"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Scegliere questa versione per impianti di refrigerazione commerciale standard, chiller, e unità di condizionamento che non utilizzano CO2 o non operano in condizioni di bassa temperatura ambiente che potrebbero aumentare drasticamente la pressione differenziale.",
+            "La variante da 80 bar è stata sviluppata per colmare il divario tra le applicazioni standard e quelle ad altissima pressione."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the maximum pressure range supported by TK3+ 80bar?",
+                "answer": "The TK3+ 80bar CO2 Oil Level Controller supports a maximum pressure range of 80bar (1160 psi), making it ideal for industrial refrigeration systems that require high pressure control. This feature ensures reliable operation and accurate oil level management in subcritical CO2 systems. Additionally, the controller's robustness and ATEX certification provide peace of mind for users operating in hazardous environments.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How does TK3+ 80bar handle temperature fluctuations?",
+                "answer": "The TK3+ 80bar CO2 Oil Level Controller is designed to operate effectively in a wide range of temperatures, from -40°C to +125°C. This allows it to maintain accurate oil level control even in extreme conditions, ensuring reliable operation and minimizing downtime. Furthermore, the controller's MODBUS protocol enables seamless integration with existing systems, making it easy to monitor and control temperature-related parameters.",
+                "difficulty": "advanced",
+                "intent": [
+                    "application_design",
+                    "troubleshooting"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure for TK3+ 80bar?",
+            "Which refrigerants are compatible with TK3+ 80bar?"
+        ],
+        "summary": "The TK3+ 80bar CO2 Oil Level Controller offers accurate oil level management and robustness in high-pressure subcritical CO2 systems, making it ideal for industrial refrigeration applications.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "80bar",
+            "refrigerants": [
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "id": "teklab_chunk_010_005_TK4MB_Total_Integration_with_Supervision_Systems",
+    "original_text": "ifiche (es. filtrare false letture dovute a schiuma o turbolenza).\n\n**3. TK4MB: Integrazione Totale con Sistemi di Supervisione**\n\nIl **TK4MB** è il nostro modello di punta, progettato per l'integrazione completa negli impianti moderni e per l'Industria 4.0. Combina tutte le funzionalità del TK4 (inclusa la connettività wireless NFC) con l'aggiunta di un'interfaccia seriale **Modbus RTU**.\n\n*   **Funzionalità Aggiuntiva (via Modbus RTU)**:\n    *   **Monitoraggio Remoto**: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.\n    *   **Controllo Centralizzato**: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota.\n    *   **Manutenzione Predittiva**: L'analisi dei dati storici accessibili tramite Modbus può aiutare a pianificare la manutenzione e a prevenire guasti.\n\n**Quando scegliere il TK4MB?**\nÈ la scelta obbligata per rack di compressori, impianti industriali complessi e qualsiasi applicazione in cui il monitoraggio e la gestione centralizzata sono un requisito. Se il tuo sistema utilizza un PLC o un BMS e vuoi avere il pieno controllo e visibilità su ogni componente, il TK4MB è la soluzione definitiva.\n\n---\n\n#### **Una Nota sulla Pressione: 46, 80 o 130 bar?**\n\nIndipendentemente dal modello scelto (TK3+, TK4 o TK4MB), la selezione della variante di pressione è fondamentale:\n\n*   **46 bar**: Per sistemi di refrigerazi",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are an expert TECHNICAL SALES ASSISTANT for Teklab, a leading manufacturer of liquid level sensors and controllers for industrial applications.\n\n🌍 LANGUAGE ADAPTATION - ABSOLUTE PRIORITY:\n**CRITICAL**: ALWAYS respond in the EXACT SAME LANGUAGE as the user's question.\n\nLANGUAGE RULES (MANDATORY):\n✅ User writes in Italian → You respond 100% in Italian\n✅ User writes in English → You respond 100% in English  \n✅ User writes in Spanish → You respond 100% in Spanish\n✅ User writes in German → You respond 100% in German\n✅ NEVER mix languages in a single response\n✅ NEVER explain which language you're using\n✅ NEVER translate the user's question back to them\n\nExamples:\n- User: \"Quale sensore per olio R134a a 50 bar?\" → Response: \"Per il tuo sistema con R134a a 50 bar, ti consiglio...\"\n- User: \"Which sensor for R134a oil at 50 bar?\" → Response: \"For your R134a system at 50 bar, I recommend...\"\n- User: \"¿Qué sensor para aceite R134a a 50 bar?\" → Response: \"Para tu sistema con R134a a 50 bar, recomiendo...\"\n\nHANDLING SOURCE INFORMATION:\n- You receive technical documentation in various languages\n- Use the specifications regardless of original language\n- Express everything in the user's question language\n- Keep technical terms consistent (bar, °C, ATEX, IP rating, etc.)\n\nMISSION: Provide expert technical consultation on Teklab products, helping customers select the right sensor/controller for their specific application, troubleshoot issues, and optimize system performance.\n\nSTYLE (all languages):\n- Technical but accessible (avoid excessive jargon)\n- Consultative and solution-oriented\n- Precise and data-driven (cite specifications)\n- Professional yet friendly\n- Focus on PRACTICAL APPLICATION and PROBLEM SOLVING\n\nHOW TO RESPOND:\n1. Answer DIRECTLY with product recommendation or solution\n2. Explain WHY this is the right choice (technical justification)\n3. Provide KEY SPECIFICATIONS relevant to the application\n4. Give INSTALLATION/CONFIGURATION guidance when relevant\n5. Suggest alternatives or additional considerations\n6. Keep responses concise but complete (200-300 words)\n\nSTRICT RULES:\n❌ DON'T use vague language: \"maybe\", \"could work\", \"might be\"\n❌ DON'T recommend products outside specifications\n✅ Be PRECISE with technical data (pressure, temperature, refrigerants)\n✅ Highlight COMPETITIVE ADVANTAGES (vs mechanical floats, capacitive sensors)\n✅ Ask clarifying questions if application details are missing\n\nRESPONSE STRUCTURE (adapt to user's language):\n1. Direct recommendation (product model + key reason)\n2. Technical justification (why this model fits the specs)\n3. Key features/advantages for this application\n4. Installation/configuration notes (if relevant)\n5. Follow-up considerations or alternative options\n\nPRODUCT CATEGORIES YOU SUPPORT:\n- Oil Level Controllers (TK1+, TK3+, TK4 series - standard and MODBUS)\n- Liquid Level Sensors (LC-PS, LC-PH, LC-XP, LC-XT series)\n- ATEX-certified sensors (explosive environments)\n- Infrared electro-optic sensors (plastic and metallic)\n- Adapters and accessories (Rotalock, various flange types)\n\nCORE TECHNOLOGY:\n- Electro-optic infrared (IR) detection\n- Fast response time (instantaneous)\n- High accuracy (±2mm detection)\n- Wide operating range (-40°C to +125°C)\n- Compatible with HFC, HCFC, CO2 refrigerants\n- Programmable timers for transient filtering\n\nTONE: Expert consultant who guides customers to the optimal solution, builds trust through technical competence, and ensures successful implementation.\n\nCRITICAL REMINDER: Respond ONLY in the user's question language. Provide accurate technical specifications. No exceptions."
+        },
+        {
+            "role": "user",
+            "content": "Technical documentation context (Teklab industrial products):\n\n[Comparazione Prodotti] - TK4MB Total Integration with Supervision Systems\nKey Specifications: Total integration with supervision systems, Wireless NFC connectivity, Modbus RTU interface, Remote monitoring and control, Centralized system management\n📌 Important Details: Monitoraggio Remoto: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici. | Controllo Centralizzato: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota.\n\nComplete technical text:\nifiche (es. filtrare false letture dovute a schiuma o turbolenza).\n\n**3. TK4MB: Integrazione Totale con Sistemi di Supervisione**\n\nIl **TK4MB** è il nostro modello di punta, progettato per l'integrazione completa negli impianti moderni e per l'Industria 4.0. Combina tutte le funzionalità del TK4 (inclusa la connettività wireless NFC) con l'aggiunta di un'interfaccia seriale **Modbus RTU**.\n\n*   **Funzionalità Aggiuntiva (via Modbus RTU)**:\n    *   **Monitoraggio Remoto**: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.\n    *   **Controllo Centralizzato**: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota.\n    *   **Manutenzione Predittiva**: L'analisi dei dati storici accessibili tramite Modbus può aiutare a pianificare la manutenzione e a prevenire guasti.\n\n**Quando scegliere il TK4MB?**\nÈ la scelta obbligata per rack di compressori, impianti industriali complessi e qualsiasi applicazione in cui il monitoraggio e la gestione centralizzata sono un requisito. Se il tuo sistema utilizza un PLC o un BMS e vuoi avere il pieno controllo e visibilità su ogni componente, il TK4MB è la soluzione definitiva.\n\n---\n\n#### **Una Nota sulla Pressione: 46, 80 o 130 bar?**\n\nIndipendentemente dal modello scelto (TK3+, TK4 o TK4MB), la selezione della variante di pressione è fondamentale:\n\n*   **46 bar**: Per sistemi di refrigerazi\n\n---\n\nQuestion: What is the maximum pressure range supported by TK4MB?\n\nRespond as an expert Teklab technical sales assistant:\n- Provide accurate technical specifications\n- Explain product features and applications clearly\n- Give installation and configuration guidance\n- Focus on PRACTICAL IMPLEMENTATION and compatibility\n- Cite pressure ranges, temperatures, certifications when relevant"
+        },
+        {
+            "role": "assistant",
+            "content": "TK4MB offers total integration with supervision systems, enabling remote monitoring and control, centralized system management, and predictive maintenance. This makes it an ideal choice for industrial 4.0 applications."
+        }
+    ],
+    "metadata": {
+        "chunk_id": "teklab_chunk_010_005_TK4MB_Total_Integration_with_Supervision_Systems",
+        "file_index": 10,
+        "file_source": "All_Categories",
+        "chunk_number": 5,
+        "chunk_title": "TK4MB Total Integration with Supervision Systems",
+        "manufacturer": "Teklab S.r.l.",
+        "document_type": "Technical Documentation",
+        "product_category": "Comparazione Prodotti",
+        "key_concepts": [
+            "Total integration with supervision systems",
+            "Wireless NFC connectivity",
+            "Modbus RTU interface",
+            "Remote monitoring and control",
+            "Centralized system management",
+            "Predictive maintenance",
+            "Industrial 4.0 applications"
+        ],
+        "keywords_primary": [
+            "TK4MB",
+            "MODBUS RTU",
+            "Wireless NFC",
+            "Pressure ranges",
+            "Temperature limits",
+            "Refrigerant compatibility"
+        ],
+        "keywords_synonyms": {},
+        "keywords_relations": {},
+        "iconic_quotes": [
+            "Monitoraggio Remoto: Permette a un sistema di controllo centralizzato (PLC, BMS o SCADA) di leggere in tempo reale lo stato del livello, lo stato della valvola, gli allarmi e altri dati diagnostici.",
+            "Controllo Centralizzato: È possibile gestire e registrare i dati operativi di più compressori da un'unica postazione remota."
+        ],
+        "qa_pairs": [
+            {
+                "question": "What is the primary benefit of using TK4MB in industrial applications?",
+                "answer": "TK4MB offers total integration with supervision systems, enabling remote monitoring and control, centralized system management, and predictive maintenance. This allows for efficient operation and minimizes downtime. Additionally, TK4MB supports wireless NFC connectivity and MODBUS RTU interface, making it an ideal choice for industrial 4.0 applications.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "technical_specification",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "How does TK4MB support remote monitoring and control?",
+                "answer": "TK4MB allows a centralized system management, enabling the monitoring of multiple compressors from a single location. This is achieved through the MODBUS RTU interface, which enables real-time data exchange between the controller and the supervisory system. Additionally, TK4MB supports wireless NFC connectivity, allowing for easy configuration and setup.",
+                "difficulty": "advanced",
+                "intent": [
+                    "technical_specification",
+                    "application_design"
+                ]
+            }
+        ],
+        "natural_questions": [
+            "What is the maximum pressure range supported by TK4MB?",
+            "How does TK4MB support predictive maintenance?"
+        ],
+        "summary": "TK4MB offers total integration with supervision systems, enabling remote monitoring and control, centralized system management, and predictive maintenance. This makes it an ideal choice for industrial 4.0 applications.",
+        "domain_metadata": {
+            "product_family": "Comparazione Prodotti",
+            "pressure_class": "46bar / 80bar / 130bar",
+            "refrigerants": [
+                "R134a",
+                "R404A",
+                "R410A",
+                "CO2"
+            ],
+            "certifications": [
+                "ATEX",
+                "CE",
+                "UL"
+            ],
+            "communication": [
+                "MODBUS RTU",
+                "analog 4-20mA",
+                "relay output"
+            ],
+            "application_type": [
+                "compressor",
+                "evaporator"
+            ]
+        },
+        "applications": [],
+        "compatibility": [],
+        "certifications": [
+            "ATEX",
+            "CE",
+            "UL"
+        ],
+        "difficulty_level": "technical",
+        "content_type": "product_specification",
+        "target_audience": [
+            "HVAC engineers",
+            "refrigeration technicians",
+            "system integrators"
+        ],
+        "importance": 0.85,
+        "relevance": 8,
+        "language": "en"
+    }
+}
