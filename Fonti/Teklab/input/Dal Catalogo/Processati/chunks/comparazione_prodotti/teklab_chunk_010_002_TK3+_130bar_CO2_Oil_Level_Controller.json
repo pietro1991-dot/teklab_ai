@@ -56,11 +56,45 @@
             },
             {
                 "question": "How do I select between TK3+ and TK4?",
-                "answer": "Il **TK3+** è il modello ideale per le installazioni “stand-alone” dove non è richiesta comunicazione avanzata. Il **TK4**, invece, è dotato di una connessione wireless tramite App., che consente una configurazione e diagnostica più rapida e personalizzabile.",
+                "answer": "Il **TK3+** è il modello ideale per le installazioni stand-alone dove non è richiesta comunicazione avanzata. Il **TK4**, invece, è dotato di una connessione wireless tramite App., che consente una configurazione e diagnostica più rapida e personalizzabile.",
                 "difficulty": "intermediate",
                 "intent": [
                     "product_selection",
                     "application_design"
+                ]
+            },
+            {
+                "question": "Quante versioni di TK4 esistono?",
+                "answer": "TK4 è disponibile in 2 modelli principali: TK4 standard (con solo NFC per configurazione locale) e TK4MB (con NFC + Modbus RTU per integrazione con sistemi di supervisione). Entrambi sono disponibili in 3 varianti di pressione: 46bar, 80bar, e 130bar. In totale ci sono quindi 6 configurazioni possibili.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How many TK4 versions are available?",
+                "answer": "TK4 comes in 2 main models: TK4 standard (with only NFC for local configuration) and TK4MB (with NFC + Modbus RTU for supervision system integration). Both are available in 3 pressure variants: 46bar, 80bar, and 130bar. In total, there are 6 possible configurations.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "Quali sono le varianti del TK4MB?",
+                "answer": "TK4MB è disponibile in tre varianti di pressione per coprire diverse applicazioni frigorifere: TK4MB 46bar (per sistemi HFC/HFO standard come R134a, R404A), TK4MB 80bar (per CO2 subcritico e applicazioni ad alta pressione), e TK4MB 130bar (per CO2 transcritico). Tutte includono connettività NFC + Modbus RTU per integrazione in sistemi PLC/BMS/SCADA.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection"
+                ]
+            },
+            {
+                "question": "What are the TK4MB variants?",
+                "answer": "TK4MB is available in three pressure variants to cover different refrigeration applications: TK4MB 46bar (for standard HFC/HFO systems like R134a, R404A), TK4MB 80bar (for subcritical CO2 and high-pressure applications), and TK4MB 130bar (for transcritical CO2). All include NFC + Modbus RTU connectivity for integration into PLC/BMS/SCADA systems.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection"
                 ]
             }
         ],

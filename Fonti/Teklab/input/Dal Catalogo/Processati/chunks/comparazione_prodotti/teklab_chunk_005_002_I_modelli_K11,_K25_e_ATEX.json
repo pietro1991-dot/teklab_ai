@@ -46,6 +46,24 @@
         ],
         "qa_pairs": [
             {
+                "question": "Qual è il vantaggio unico del K11?",
+                "answer": "Il vantaggio unico del K11 è l'output configurabile: un solo modello funziona come NPN, PNP o AC. Questo garantisce compatibilità universale con qualsiasi PLC/controllo esistente senza bisogno di varianti multiple. Ideale per OEM e installatori che cercano flessibilità massima (60 bar, design compatto, economico).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the unique advantage of K11?",
+                "answer": "The unique advantage of K11 is the configurable output: one single model works as NPN, PNP, or AC. This guarantees universal compatibility with any existing PLC/control without needing multiple variants. Ideal for OEMs and installers seeking maximum flexibility (60 bar, compact design, economical).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
                 "question": "What is the maximum pressure range supported by K11?",
                 "answer": "Il K11 è progettato per supportare pressioni massime di 60 bar. Questo lo rende adatto a una vasta gamma di applicazioni industriali, comprese le condizioni di lavoro estreme.",
                 "difficulty": "intermediate",

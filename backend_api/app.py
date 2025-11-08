@@ -172,7 +172,7 @@ def load_embeddings():
         # Carica modello per query encoding (FORZA CPU)
         try:
             from sentence_transformers import SentenceTransformer
-            model_name = _embeddings_cache.get('model', 'BAAI/bge-base-en-v1.5')
+            model_name = _embeddings_cache.get('model', 'intfloat/multilingual-e5-base')  # ✅ Multilingue IT+EN
             
             logger.info("   Device: CPU (GPU riservata per Llama)")
             logger.info("   ⏳ Caricamento modello embeddings da cache locale...")
@@ -223,91 +223,113 @@ def check_ollama():
     except:
         return False
 
-def search_relevant_chunks(query, top_k=3):  # ⚡ Allineato a 3 chunks
-    """Ricerca semantica nei chunks usando embeddings - OTTIMIZZATA"""
+def expand_query(query):
+    """Espande la query con sinonimi e varianti per migliorare il retrieval."""
+    variants = [query]
+    
+    synonyms_map = {
+        'tipologie': ['versioni', 'varianti', 'modelli', 'tipi'],
+        'versioni': ['varianti', 'tipologie', 'modelli'],
+        'modelli': ['versioni', 'varianti', 'tipologie'],
+        'varianti': ['versioni', 'tipologie', 'modelli'],
+        'esistono': ['sono disponibili', 'ci sono', 'sono presenti'],
+        'quante': ['quali sono', 'elenco', 'lista'],
+        'differenza': ['confronto', 'comparazione', 'differenze tra'],
+        'scegliere': ['selezionare', 'quale', 'decidere'],
+        'pressione': ['bar', 'pressioni'],
+        'types': ['versions', 'variants', 'models'],
+        'versions': ['types', 'variants', 'models'],
+        'variants': ['versions', 'types', 'models'],
+        'models': ['versions', 'variants', 'types'],
+        'how many': ['what are', 'list', 'which'],
+        'difference': ['comparison', 'compare', 'differences between'],
+        'choose': ['select', 'which', 'decide'],
+        'pressure': ['bar', 'pressures']
+    }
+    
+    query_lower = query.lower()
+    for word, synonyms in synonyms_map.items():
+        if word in query_lower:
+            for synonym in synonyms[:2]:
+                variant = query.replace(word, synonym)
+                if variant.lower() != query_lower:
+                    variants.append(variant)
+    
+    return variants[:5]
+
+def search_relevant_chunks(query, top_k=3):
+    """Ricerca semantica con QUERY EXPANSION e NUOVA STRUTTURA embeddings."""
     if not load_embeddings():
         return []
     
-    # Check se modello embeddings è disponibile
     if _model_embeddings is None:
         logger.warning("⚠️  Modello embeddings non disponibile - skip RAG search")
         return []
     
-    # Genera embedding della query
-    query_embedding = _model_embeddings.encode([query])[0]
+    # QUERY EXPANSION: genera varianti
+    query_variants = expand_query(query)
+    logger.info(f"🔍 Query expansion: {len(query_variants)} varianti generate")
+    for i, variant in enumerate(query_variants, 1):
+        logger.debug(f"   [{i}] '{variant[:50]}'")
     
-    # Cerca nei chunks
-    chunk_embeddings = _embeddings_cache.get('chunk_embeddings', {})
+    # Codifica tutte le varianti
+    query_embeddings = _model_embeddings.encode(query_variants)
+    
+    # NUOVA STRUTTURA: usa embeddings unificato
+    embeddings = _embeddings_cache.get('embeddings', {})
+    embedding_to_chunk_id = _embeddings_cache.get('embedding_to_chunk_id', {})
     chunks_data = _embeddings_cache.get('chunks_data', {})
-
-    # Cerca nelle Q&A
-    qa_embeddings = _embeddings_cache.get('qa_embeddings', {})
-
-    # ⚡ OTTIMIZZAZIONE: usa sklearn cosine_similarity (più veloce di NumPy loop)
+    
+    if not embeddings:
+        logger.warning("⚠️  Nessun embedding trovato nella cache")
+        return []
+    
+    # Calcola similarities per tutte le varianti
     from sklearn.metrics.pairwise import cosine_similarity
     import numpy as np
-
-    similarities = []
     
-    # Cerca nei chunk
-    if chunk_embeddings:
-        chunk_ids = list(chunk_embeddings.keys())
-        chunk_embs = np.array([chunk_embeddings[cid] for cid in chunk_ids])
-        chunk_sims = cosine_similarity([query_embedding], chunk_embs)[0]
-        for cid, sim in zip(chunk_ids, chunk_sims):
-            similarities.append({'id': cid, 'sim': sim, 'type': 'chunk'})
-
-    # Cerca nelle Q&A
-    if qa_embeddings:
-        qa_ids = list(qa_embeddings.keys())
-        qa_embs = np.array([qa_embeddings[qid] for qid in qa_ids])
-        qa_sims = cosine_similarity([query_embedding], qa_embs)[0]
-        for qid, sim in zip(qa_ids, qa_sims):
-            similarities.append({'id': qid, 'sim': sim, 'type': 'qa'})
-
-    # Ordina per similarità e filtra
-    similarities.sort(key=lambda x: x['sim'], reverse=True)
+    embedding_ids = list(embeddings.keys())
+    embedding_vectors = np.array([embeddings[eid] for eid in embedding_ids])
     
-    # Filtra per threshold AUMENTATO (0.28 invece di 0.25 - più selettivo = meno noise)
-    filtered_results = [res for res in similarities if res['sim'] >= 0.28]
+    all_similarities = []
+    for q_emb in query_embeddings:
+        sims = cosine_similarity([q_emb], embedding_vectors)[0]
+        all_similarities.append(sims)
     
-    # Prendi top_k risultati
+    # Aggrega: MAX similarity tra varianti
+    aggregated_similarities = np.max(all_similarities, axis=0)
+    
+    # Crea lista risultati
+    similarities = [(embedding_ids[i], aggregated_similarities[i]) for i in range(len(embedding_ids))]
+    similarities.sort(key=lambda x: x[1], reverse=True)
+    
+    # Filtra per threshold
+    filtered_results = [(eid, sim) for eid, sim in similarities if sim >= 0.28]
+    
+    # Prendi top_k
     results = []
-    for res in filtered_results[:top_k]:
-        item_id = res['id']
-        sim = res['sim']
-        item_type = res['type']
-
-        if item_type == 'chunk':
-            chunk_data = chunks_data.get(item_id, {})
-            content = chunk_data.get('original_text', '')
-            metadata = chunk_data.get('metadata', {})
-            
-            results.append({
-                'content': content,
-                'similarity': float(sim),
-                'product_category': metadata.get('product_category', ''),
-                'chunk_title': metadata.get('chunk_title', '')
-            })
-        elif item_type == 'qa':
-            chunk_id, qa_idx_str = item_id.split('|qa_')
-            qa_idx = int(qa_idx_str)
-            chunk_data = chunks_data.get(chunk_id, {})
-            qa_pair = chunk_data.get('metadata', {}).get('qa_pairs', [])[qa_idx]
-            
-            if qa_pair:
-                question = qa_pair.get('question', '')
-                answer = qa_pair.get('answer', '')
-                content = f"Question: {question}\nAnswer: {answer}"
-                metadata = chunk_data.get('metadata', {})
-
-                results.append({
-                    'content': content,
-                    'similarity': float(sim),
-                    'product_category': metadata.get('product_category', 'Q&A'),
-                    'chunk_title': question
-                })
+    for emb_id, sim in filtered_results[:top_k]:
+        chunk_id = embedding_to_chunk_id.get(emb_id)
+        if not chunk_id:
+            continue
+        
+        chunk_data = chunks_data.get(chunk_id, {})
+        if not chunk_data:
+            continue
+        
+        content = chunk_data.get('original_text', '')
+        metadata = chunk_data.get('metadata', {})
+        
+        results.append({
+            'content': content,
+            'similarity': float(sim),
+            'product_category': metadata.get('product_category', ''),
+            'chunk_title': metadata.get('chunk_title', '')
+        })
     
+    logger.info(f"✅ RAG search: {len(results)} chunk recuperati (threshold=0.28)")
+    return results
+
     return results
 
 
@@ -427,7 +449,7 @@ def generate_response_with_ollama(user_message):
         }
     
     # Cerca chunks rilevanti (aumentato top_k per più contesto)
-    relevant_chunks = search_relevant_chunks(user_message, top_k=3)
+    relevant_chunks = search_relevant_chunks(user_message, top_k=5)  # ⚡ Aumentato a 5 per più contesto
     
     # DEBUG: Stampa chunk recuperati
     logger.info(f"🔍 RAG Search: '{user_message[:50]}'")
@@ -594,7 +616,7 @@ def chat_stream():
                 logger.info(f"🟢 Processing request #{request_id} - searching RAG chunks...")
                 
                 # Cerca chunks rilevanti
-                relevant_chunks = search_relevant_chunks(user_message, top_k=3)  # ⚡ Ridotto da 5 a 3
+                relevant_chunks = search_relevant_chunks(user_message, top_k=5)  # ⚡ Aumentato a 5 per più contesto
                 
                 logger.info(f"🔍 RAG Search (stream): '{user_message[:50]}'")
                 logger.info(f"   Risultati trovati: {len(relevant_chunks)}")

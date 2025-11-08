@@ -43,6 +43,24 @@
         ],
         "qa_pairs": [
             {
+                "question": "Cos'è il TK1+ e quando usarlo?",
+                "answer": "TK1+ è un regolatore intelligente che sostituisce direttamente gli indicatori a vetro (sight-glass) tradizionali sui compressori. Ha filettatura compatibile per montaggio diretto senza adattatori. Ideale per retrofit: elimina vetro fragile, aggiunge controllo elettronico con relè allarme e LED visivi, mantiene semplicità installazione.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "What is TK1+ and when to use it?",
+                "answer": "TK1+ is an intelligent regulator that directly replaces traditional sight-glass indicators on compressors. It has compatible threading for direct mounting without adapters. Ideal for retrofits: eliminates fragile glass, adds electronic control with alarm relay and visual LEDs, maintains installation simplicity.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
                 "question": "What is the primary application of the TK1+ sight-glass controller?",
                 "answer": "The TK1+ is designed to replace traditional sight-glass indicators on compressor carts or storage tanks, providing a more reliable and efficient level monitoring solution. This makes it an ideal choice for applications where direct installation is required.",
                 "difficulty": "intermediate",

@@ -46,6 +46,24 @@
         ],
         "qa_pairs": [
             {
+                "question": "Cos'è il sensore Rotalock e perché è speciale?",
+                "answer": "Il sensore Rotalock si avvita direttamente sulle valvole Rotalock dei compressori senza necessità di adattatori o raccordi aggiuntivi. Questo elimina punti di perdita potenziali, semplifica installazione e riduce costi. È la soluzione plug-and-play perfetta per compressori con porte Rotalock libere (fino a 46 bar).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "installation"
+                ]
+            },
+            {
+                "question": "What is the Rotalock sensor and why is it special?",
+                "answer": "The Rotalock sensor screws directly onto Rotalock valves on compressors without needing adapters or additional fittings. This eliminates potential leak points, simplifies installation, and reduces costs. It is the perfect plug-and-play solution for compressors with free Rotalock ports (up to 46 bar).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "installation"
+                ]
+            },
+            {
                 "question": "What is the maximum pressure range supported by Rotalock oil level controller?",
                 "answer": "The Rotalock oil level controller supports a maximum pressure range of 46bar, making it suitable for various industrial applications. This feature allows users to monitor and control oil levels in real-time, ensuring optimal system performance and safety.",
                 "difficulty": "intermediate",

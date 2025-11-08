@@ -46,6 +46,33 @@
         ],
         "qa_pairs": [
             {
+                "question": "Quale prodotto Teklab è consigliato per supermercati?",
+                "answer": "Per supermercati e GDO si raccomanda il TK4MB (Regolatore di Livello Olio) perché garantisce massima affidabilità H24/7, monitoraggio centralizzato tramite Modbus RTU, efficienza energetica e conformità con normative F-Gas. È perfetto per sistemi CO2 transcritici con rack di compressori che richiedono supervisione remota.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "Which Teklab product is recommended for supermarkets?",
+                "answer": "For supermarkets and retail chains, the TK4MB (Oil Level Regulator) is recommended because it ensures maximum 24/7 reliability, centralized monitoring via Modbus RTU, energy efficiency, and F-Gas regulatory compliance. It is perfect for transcritical CO2 systems with compressor racks requiring remote supervision.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
+                "question": "Che differenza c'è tra TK4MB per supermercati e TK3+ per piccoli negozi?",
+                "answer": "TK4MB è ideale per supermercati con sistemi centralizzati perché offre Modbus RTU per integrazione con BMS/SCADA e monitoraggio remoto di più compressori. TK3+ è perfetto per piccoli negozi con compressori singoli stand-alone dove non serve supervisione remota, offrendo affidabilità installa-e-dimentica a costo inferiore.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
                 "question": "What is the maximum pressure for TK4MB?",
                 "answer": "Il prodotto TK4MB supporta pressioni massime di 130bar, garantendo una massima affidabilità e sicurezza per le applicazioni industriali.",
                 "difficulty": "intermediate",

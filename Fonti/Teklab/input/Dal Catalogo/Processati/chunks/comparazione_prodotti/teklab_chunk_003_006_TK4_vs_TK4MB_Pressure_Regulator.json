@@ -46,6 +46,33 @@
         ],
         "qa_pairs": [
             {
+                "question": "Qual è la differenza principale tra TK4 e TK4MB?",
+                "answer": "La differenza principale è la connettività: TK4 ha solo NFC per configurazione locale tramite smartphone, mentre TK4MB aggiunge Modbus RTU per integrazione con sistemi di supervisione centralizzati (PLC/BMS/SCADA). Entrambi condividono le stesse 3 varianti di pressione (46/80/130 bar).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the main difference between TK4 and TK4MB?",
+                "answer": "The main difference is connectivity: TK4 has only NFC for local configuration via smartphone, while TK4MB adds Modbus RTU for integration with centralized supervision systems (PLC/BMS/SCADA). Both share the same 3 pressure variants (46/80/130 bar).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "Quando scegliere TK4MB invece di TK4?",
+                "answer": "Scegli TK4MB quando hai rack di compressori centralizzati, impianti industriali complessi, o necessiti monitoraggio remoto 24/7 tramite PLC/BMS. È obbligatorio per Industria 4.0 e manutenzione predittiva. Scegli TK4 per compressori stand-alone dove basta configurazione locale NFC senza supervisione remota.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
                 "question": "What is the maximum pressure range supported by TK4 and TK4MB?",
                 "answer": "The TK4 supports a maximum pressure range of 46bar for standard HFC systems, while the TK4MB can handle up to 80bar for CO2 subcritical or cold climates. For transcritical CO2 applications, the TK4MB reaches an impressive 130bar. The choice between these variants depends solely on the need for integration with a supervision system.",
                 "difficulty": "intermediate",

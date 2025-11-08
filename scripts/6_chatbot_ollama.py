@@ -135,7 +135,7 @@ class TeklabAIChatbotOllama:
             
             # Carica modello embeddings (FORZA CPU)
             from sentence_transformers import SentenceTransformer
-            model_name = cache.get('model', 'BAAI/bge-base-en-v1.5')
+            model_name = cache.get('model', 'intfloat/multilingual-e5-base')  # ✅ Multilingue IT+EN
             print(f"   • Modello embeddings: {model_name}")
             print("   • Device: CPU (GPU riservata per Llama)")
             self.embedding_model = SentenceTransformer(model_name, device='cpu')
@@ -153,8 +153,56 @@ class TeklabAIChatbotOllama:
             self.chunks_data = {}
             self.embedding_model = None
     
+    def _expand_query(self, query: str) -> list[str]:
+        """Espande la query con sinonimi e varianti per migliorare il retrieval.
+        
+        Strategia:
+        - Mantieni query originale (priorità massima)
+        - Sostituzioni sinonimi per termini tecnici comuni
+        - Espansioni multilingue (IT <-> EN)
+        """
+        variants = [query]  # Originale sempre inclusa
+        
+        # Dizionario sinonimi/varianti tecnici Teklab (IT + EN)
+        synonyms_map = {
+            # Italiano
+            'tipologie': ['versioni', 'varianti', 'modelli', 'tipi'],
+            'versioni': ['varianti', 'tipologie', 'modelli'],
+            'modelli': ['versioni', 'varianti', 'tipologie'],
+            'varianti': ['versioni', 'tipologie', 'modelli'],
+            'esistono': ['sono disponibili', 'ci sono', 'sono presenti'],
+            'quante': ['quali sono', 'elenco', 'lista'],
+            'differenza': ['confronto', 'comparazione', 'differenze tra'],
+            'scegliere': ['selezionare', 'quale', 'decidere'],
+            'pressione': ['bar', 'pressioni'],
+            
+            # English
+            'types': ['versions', 'variants', 'models'],
+            'versions': ['types', 'variants', 'models'],
+            'variants': ['versions', 'types', 'models'],
+            'models': ['versions', 'variants', 'types'],
+            'how many': ['what are', 'list', 'which'],
+            'difference': ['comparison', 'compare', 'differences between'],
+            'choose': ['select', 'which', 'decide'],
+            'pressure': ['bar', 'pressures']
+        }
+        
+        query_lower = query.lower()
+        
+        # Genera varianti sostituendo una parola alla volta
+        for word, synonyms in synonyms_map.items():
+            if word in query_lower:
+                for synonym in synonyms[:2]:  # Max 2 sinonimi per parola per limitare esplosione
+                    # Sostituisci mantenendo case originale
+                    variant = query.replace(word, synonym)
+                    if variant.lower() != query_lower:  # Evita duplicati
+                        variants.append(variant)
+        
+        # Limita a 5 varianti totali per evitare overhead
+        return variants[:5]
+    
     def retrieve_context(self, query: str, top_k: int = 5, min_similarity: float = 0.28) -> tuple[str, list[dict]]:
-        """Recupera contesto RAG rilevante usando la nuova struttura embeddings."""
+        """Recupera contesto RAG rilevante usando la nuova struttura embeddings con QUERY EXPANSION."""
         if not self.embedding_model or not self.embeddings:
             return "", []
         
@@ -162,24 +210,38 @@ class TeklabAIChatbotOllama:
             from sklearn.metrics.pairwise import cosine_similarity
             import numpy as np
             
-            query_emb = self.embedding_model.encode([query])[0]
+            # QUERY EXPANSION: Genera varianti della query
+            query_variants = self._expand_query(query)
+            print(f"\n🔍 DEBUG retrieve_context (QUERY EXPANSION):")
+            print(f"   Query originale: '{query[:60]}'")
+            print(f"   Varianti generate: {len(query_variants)}")
+            for i, variant in enumerate(query_variants, 1):
+                print(f"      [{i}] '{variant[:60]}'")
+            
+            # Codifica tutte le varianti
+            query_embeddings = self.embedding_model.encode(query_variants)
             
             # Cerca in tutti gli embeddings (unificati)
             embedding_ids = list(self.embeddings.keys())
             embedding_vectors = np.array([self.embeddings[eid] for eid in embedding_ids])
             
-            similarities = cosine_similarity([query_emb], embedding_vectors)[0]
+            # Calcola similarity per ogni variante e aggrega (MAX similarity)
+            all_similarities = []
+            for q_emb in query_embeddings:
+                sims = cosine_similarity([q_emb], embedding_vectors)[0]
+                all_similarities.append(sims)
+            
+            # Aggrega: prendi MAX similarity tra tutte le varianti per ogni embedding
+            aggregated_similarities = np.max(all_similarities, axis=0)
             
             # Crea lista con ID e similarity
-            results = [(embedding_ids[i], similarities[i]) for i in range(len(embedding_ids))]
+            results = [(embedding_ids[i], aggregated_similarities[i]) for i in range(len(embedding_ids))]
             results.sort(key=lambda x: x[1], reverse=True)
             
             # DEBUG: Stampa top 5 similarities
-            print(f"\n🔍 DEBUG retrieve_context:")
-            print(f"   Query: '{query[:50]}'")
             print(f"   min_similarity: {min_similarity}")
             print(f"   top_k: {top_k}")
-            print(f"   Top 5 similarities BEFORE filter:")
+            print(f"   Top 5 similarities AFTER aggregation:")
             for i, (emb_id, sim) in enumerate(results[:5], 1):
                 ok = "✅" if sim >= min_similarity else "❌"
                 emb_type = "Q&A" if '|qa_' in emb_id else "NQ" if '|nq_' in emb_id else "UNKNOWN"
@@ -257,27 +319,50 @@ class TeklabAIChatbotOllama:
         
         # Retrieve RAG context - ALLINEATO a backend_api/app.py
         start_retrieval = time.time()
-        rag_context, retrieved_chunks = self.retrieve_context(user_message, top_k=3, min_similarity=0.28)  # ⚡ STESSO THRESHOLD di app.py
+        rag_context, retrieved_chunks = self.retrieve_context(user_message, top_k=5, min_similarity=0.28)  # ⚡ Aumentato a 5 per più contesto
         retrieval_time = time.time() - start_retrieval
         
         # DEBUG: Stampa chunk recuperati
         print(f"🔍 RAG Search: '{user_message[:50]}'")
         print(f"   Chunks trovati: {len(retrieved_chunks)}")
-        for i, chunk_meta in enumerate(retrieved_chunks[:3]):
-            # Recupera chunk_id dal metadata
+        for i, chunk_meta in enumerate(retrieved_chunks[:5]):
             chunk_id = chunk_meta.get('chunk_id', 'Unknown')
+            emb_id = chunk_meta.get('embedding_id', '')
             sim = chunk_meta.get('similarity_score', 0)
             item_type = chunk_meta.get('type', 'chunk')
             
-            if item_type == 'chunk':
-                # Recupera chunk_data completo per leggere metadata
-                chunk_data = self.chunks_data.get(chunk_id, {})
-                metadata = chunk_data.get('metadata', {})
-                product_category = metadata.get('product_category', 'Unknown')
+            # Recupera chunk_data per estrarre info dettagliate
+            chunk_data = self.chunks_data.get(chunk_id, {})
+            metadata = chunk_data.get('metadata', {})
+            product_category = metadata.get('product_category', 'Unknown')
+            
+            if item_type == 'qa' and '|qa_' in emb_id:
+                # Estrai indice Q&A dall'embedding_id
+                try:
+                    qa_idx = int(emb_id.split('|qa_')[1])
+                    qa_pairs = metadata.get('qa_pairs', [])
+                    if qa_idx < len(qa_pairs):
+                        question = qa_pairs[qa_idx].get('question', 'Unknown Q&A')
+                        print(f"   [{i+1}] Q&A:   {question[:40]:<40s} | sim={sim:.3f}")
+                    else:
+                        print(f"   [{i+1}] Q&A:   (idx out of range)                    | sim={sim:.3f}")
+                except Exception:
+                    print(f"   [{i+1}] Q&A:   (parse error)                        | sim={sim:.3f}")
+            elif item_type == 'nq' and '|nq_' in emb_id:
+                # Natural question
+                try:
+                    nq_idx = int(emb_id.split('|nq_')[1])
+                    natural_qs = metadata.get('natural_questions', [])
+                    if nq_idx < len(natural_qs):
+                        question = natural_qs[nq_idx]
+                        print(f"   [{i+1}] NQ:    {question[:40]:<40s} | sim={sim:.3f}")
+                    else:
+                        print(f"   [{i+1}] NQ:    (idx out of range)                    | sim={sim:.3f}")
+                except Exception:
+                    print(f"   [{i+1}] NQ:    (parse error)                        | sim={sim:.3f}")
+            else:
+                # Full chunk
                 print(f"   [{i+1}] CHUNK: {product_category:20s} | sim={sim:.3f}")
-            elif item_type == 'qa':
-                question = chunk_meta.get('question', 'Unknown Q&A')
-                print(f"   [{i+1}] Q&A:   {question[:40]:<40s} | sim={sim:.3f}")
 
         # Costruisci prompt con cronologia LIMITATA
         history_context = self._get_conversation_context()

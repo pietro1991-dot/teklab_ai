@@ -49,6 +49,33 @@
         ],
         "qa_pairs": [
             {
+                "question": "Qual è la differenza tra LC-PS e LC-PH?",
+                "answer": "LC-PS supporta fino a 46 bar ed è ideale per sistemi HFC/HFO standard, mentre LC-PH supporta fino a 120 bar ed è progettato specificamente per sistemi CO2 transcritici ad alta pressione. Entrambi usano connessione a cavo, ma LC-PH ha anche opzione connettore M12.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "What is the difference between LC-PS and LC-PH?",
+                "answer": "LC-PS supports up to 46 bar and is ideal for standard HFC/HFO systems, while LC-PH supports up to 120 bar and is specifically designed for high-pressure transcritical CO2 systems. Both use cable connection, but LC-PH also has an optional M12 connector.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "Quando scegliere LC-XT invece di LC-PS?",
+                "answer": "Scegli LC-XT quando hai bisogno della stessa capacità di pressione di LC-PS (46 bar) ma preferisci un connettore DIN industriale invece del cavo diretto. Questo facilita manutenzione e sostituzione rapida, ideale per OEM e impianti modulari dove velocità di intervento è prioritaria.",
+                "difficulty": "intermediate",
+                "intent": [
+                    "product_selection",
+                    "application_design"
+                ]
+            },
+            {
                 "question": "What is the maximum pressure range supported by TK3+?",
                 "answer": "Il modello TK3+ supporta una pressione massima di esercizio di 130bar. È importante verificare le specifiche del prodotto per determinare se è adatto alle tue esigenze.",
                 "difficulty": "intermediate",

@@ -33,8 +33,10 @@ FONTI_BASE_PATH = PROJECT_ROOT / "Fonti" / "Teklab" / "input" / "Dal Catalogo" /
 EMBEDDINGS_CACHE_PATH = PROJECT_ROOT / "ai_system" / "Embedding" / "teklab_embeddings_cache.pkl"  # ✅ TEKLAB cache
 
 # Modello embeddings (puoi cambiarlo)
-EMBEDDING_MODEL = 'BAAI/bge-base-en-v1.5' # Modello SOTA per retrieval, 768-dim
+EMBEDDING_MODEL = 'intfloat/multilingual-e5-base'  # ✅ MODELLO MULTILINGUE per IT+EN, 768-dim, SOTA retrieval
 # Alternative:
+# 'BAAI/bge-base-en-v1.5'  # Solo inglese (precedente)
+# 'sentence-transformers/paraphrase-multilingual-mpnet-base-v2'  # Alternativa multilingue
 # 'all-mpnet-base-v2'  # Buon tuttofare, ma meno specializzato
 # 'all-MiniLM-L6-v2'  # Più veloce ma meno preciso (384-dim)
 

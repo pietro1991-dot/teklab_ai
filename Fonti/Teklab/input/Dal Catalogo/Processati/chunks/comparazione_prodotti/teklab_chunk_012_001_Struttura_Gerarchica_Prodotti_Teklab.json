@@ -51,6 +51,40 @@
         ],
         "qa_pairs": [
             {
+                "question": "Quanti modelli di LC esistono nella serie standard?",
+                "answer": "La Serie LC (Piattaforma Standard) include 4 modelli principali: LC-PS (46 bar con cavo), LC-PH (120 bar con cavo/M12 per CO2), LC-XT (46 bar con connettore DIN), e LC-XP (120 bar con connettore DIN per CO2). La scelta dipende da due fattori: pressione di esercizio (46 vs 120 bar) e tipo di connessione elettrica preferito (cavo vs connettore DIN).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How many LC models are in the standard series?",
+                "answer": "The LC Series (Standard Platform) includes 4 main models: LC-PS (46 bar with cable), LC-PH (120 bar with cable/M12 for CO2), LC-XT (46 bar with DIN connector), and LC-XP (120 bar with DIN connector for CO2). The choice depends on two factors: operating pressure (46 vs 120 bar) and preferred electrical connection type (cable vs DIN connector).",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "Quali sono i modelli LC per alta pressione?",
+                "answer": "Per applicazioni ad alta pressione (fino a 120 bar) Teklab offre due modelli LC: LC-PH (con connessione a cavo o M12) e LC-XP (con connettore DIN 43650). Entrambi sono progettati specificamente per sistemi a CO2 transcritici e applicazioni che superano i 46 bar. La scelta tra i due dipende dal tipo di connessione elettrica preferito.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection"
+                ]
+            },
+            {
+                "question": "What are the high-pressure LC models?",
+                "answer": "For high-pressure applications (up to 120 bar), Teklab offers two LC models: LC-PH (with cable or M12 connection) and LC-XP (with DIN 43650 connector). Both are specifically designed for transcritical CO2 systems and applications exceeding 46 bar. The choice between them depends on the preferred electrical connection type.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection"
+                ]
+            },
+            {
                 "question": "What is the maximum pressure range supported by the TK3+ series?",
                 "answer": "The TK3+ series supports a maximum pressure range of 130bar, making it suitable for high-pressure applications. Additionally, the TK3+ series also offers a lower pressure range of 46bar and 80bar for more precise control. The choice of pressure range depends on the specific application and requirements.",
                 "difficulty": "intermediate",
@@ -61,7 +95,7 @@
             },
             {
                 "question": "How does the TK4 series differ from the TK3+ series?",
-                "answer": "The TK4 series offers advanced features such as NFC-based configuration and diagnosis, making it suitable for more complex applications. The TK4 series also supports Modbus protocol for remote monitoring and control. In contrast, the TK3+ series is a more basic solution with a 'install and forget' approach. The choice between the two series depends on the specific application requirements and level of complexity.",
+                "answer": "The TK4 series offers advanced features such as NFC-based configuration and diagnosis, making it suitable for more complex applications. The TK4 series also supports Modbus protocol for remote monitoring and control. In contrast, the TK3+ series is a more basic solution with a install and forget approach. The choice between the two series depends on the specific application requirements and level of complexity.",
                 "difficulty": "advanced",
                 "intent": [
                     "product_selection",

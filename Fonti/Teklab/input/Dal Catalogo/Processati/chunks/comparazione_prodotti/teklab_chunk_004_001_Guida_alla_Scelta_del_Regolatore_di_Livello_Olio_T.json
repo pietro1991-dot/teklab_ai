@@ -49,6 +49,40 @@
         ],
         "qa_pairs": [
             {
+                "question": "Quante tipologie di TK3+ esistono?",
+                "answer": "Il TK3+ è disponibile in 3 varianti di pressione per adattarsi a diversi sistemi di refrigerazione: TK3+ 46bar (per sistemi HFC standard), TK3+ 80bar (per CO2 subcritico e applicazioni ad alta pressione), e TK3+ 130bar (per CO2 transcritico e applicazioni estreme). Tutte le versioni condividono la stessa tecnologia di rilevamento ottico a infrarossi e affidabilità, ma differiscono per la resistenza alla pressione differenziale.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "How many TK3+ versions are available?",
+                "answer": "TK3+ comes in 3 pressure variants to suit different refrigeration systems: TK3+ 46bar (for standard HFC systems), TK3+ 80bar (for subcritical CO2 and high-pressure applications), and TK3+ 130bar (for transcritical CO2 and extreme applications). All versions share the same infrared optical detection technology and reliability, but differ in differential pressure resistance.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "Quali sono le versioni del TK3+?",
+                "answer": "Le tre versioni del TK3+ sono: 46bar (fino a 46 bar di pressione differenziale, ideale per R134a, R404A), 80bar (fino a 80 bar, perfetto per CO2 subcritico e R410A), e 130bar (fino a 130 bar, progettato specificamente per CO2 transcritico). La scelta dipende dalla pressione di esercizio del tuo impianto.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection"
+                ]
+            },
+            {
+                "question": "What are the TK3+ variants?",
+                "answer": "The three TK3+ variants are: 46bar (up to 46 bar differential pressure, ideal for R134a, R404A), 80bar (up to 80 bar, perfect for subcritical CO2 and R410A), and 130bar (up to 130 bar, specifically designed for transcritical CO2). The choice depends on your system's operating pressure.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection"
+                ]
+            },
+            {
                 "question": "Cosa è la differenza tra TK3+ e TK4?",
                 "answer": "La scelta tra TK3+ e TK4 dipende dalle specifiche tecniche del sistema e dalle esigenze di compatibilità con i refrigeranti. I due modelli condividono lo stesso obiettivo fondamentale - proteggere il compressore mantenendo il corretto livello dell'olio - ma si differenziano per tecnologia, connettività e ambito di applicazione.",
                 "difficulty": "intermediate",

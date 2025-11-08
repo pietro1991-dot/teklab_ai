@@ -46,6 +46,24 @@
         ],
         "qa_pairs": [
             {
+                "question": "LC-PS o LC-PH: quale scegliere?",
+                "answer": "Scegli LC-PS (46 bar, cavo) per sistemi HFC/HFO standard (R134a, R404A, R410A). Scegli LC-PH (120 bar, cavo/M12) per CO2 transcritico, applicazioni alta pressione o climi freddi dove pressione differenziale aumenta. LC-PH costa più ma è obbligatorio sopra 46 bar.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
+                "question": "LC-PS or LC-PH: which to choose?",
+                "answer": "Choose LC-PS (46 bar, cable) for standard HFC/HFO systems (R134a, R404A, R410A). Choose LC-PH (120 bar, cable/M12) for transcritical CO2, high-pressure applications, or cold climates where differential pressure increases. LC-PH costs more but is mandatory above 46 bar.",
+                "difficulty": "beginner",
+                "intent": [
+                    "product_selection",
+                    "technical_specification"
+                ]
+            },
+            {
                 "question": "What is the operating pressure range of LC-PS?",
                 "answer": "The LC-PS operates within a pressure range of 0 to 46bar, making it suitable for most HFC and HFO-based refrigeration systems. This makes it an ideal choice for applications where standard pressures are used.",
                 "difficulty": "beginner",
