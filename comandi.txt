@@ -1,0 +1,7 @@
+# Terminale 1: Avvia backend
+cd "d:\GitHub_puba\teklab_ai - Copy\backend_api"
+python app.py
+
+# Terminale 2: Avvia UI (opzionale)
+cd "d:\GitHub_puba\teklab_ai - Copy\UI_experience"
+python -m http.server 8081

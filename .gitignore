@@ -68,6 +68,7 @@ desktop.ini
 
 # Configurazioni sensibili
 Configurazioni/groq_config.txt
+backend_api/config.txt
 *.env
 .env.*
 
