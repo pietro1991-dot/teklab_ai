@@ -1,0 +1,319 @@
+---
+title: "Day 220 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 220
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 220
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - I AM presence
+  - I CAN affirmation
+  - month hold
+  - month hole
+
+---
+
+# Day 220 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hi everyone. How are you? Good morning. Good evening.
+
+Good afternoon. All messed up. This has happened to you that when you get to know the dimensions , somehow you get relaxed. Basically , the reason why that happened is because we are why we are relaxed , because usually we kind of need to have a goal.
+
+Usually , what happens is that we realize that there is not purpose.
+
+Somehow you start to get relaxed. You start to understand that there is no rush. Nothing to do.
+
+So two things would happen here.
+
+Some people say , what is the meaning of everything? What is the goal? And some other people say , Now I get it.
+
+Now I understand the meaning of everything. Is there when we realize that the things that give a meaning to us is us giving a meaning to things. Religion , science , spirituality. We all are trying to give a meaning to the thing.
+
+And science , religion , spirituality , everyone is trying to look for that meaning without realizing that they are creating that thing. And they are not only creating a meaning. They are creating the need of a meaning. This I , it does n't matter in which dimension we are looking for a meaning.
+
+That 's matter.
+
+Now of them will be able to give us a meaning.
+
+So we do n't have other option. Then each in that meaning by ourselves. This is a very tough concept for those who we are working in the path of consciousness. A spirituality.
+
+## Q&A
+
+So just realize that we had to go through all this path of dimensions in order to understand an answer. That if you would have been given at the beginning , you would have been really tall , really hard. The answer of the only thing that exists is the answer. Is a question.
+
+So the answer that is I am. I am is the ninth dimension. The ninth dimension is the one that says I am. But from where it comes to ninth dimension.
+
+The ninth dimension comes from the zero dimension. That is the question. The question is am I.
+
+So I key to all of this. Is that now when you see to all the religions , the signs , the different paths , different ways that we have created to find the answer. All of them , they are not defined to find the I am. They are not defined to the right answer.
+
+Because all of those paths were then by the question. And the question is the beginning of everything. Not the answer.
+
+So here comes this idea that there is no right path. There is no right way. There is no a better way to understand the units. All of them were created by the question.
+
+And it is in that moment when we realize that there is no what for. That there is no who. That there is no to where. That there is no what is the meaning.
+
+So now. There is no meaning no purpose. It is because we live through the third dimension. And we experience the reality of the universe through the third dimension for so long.
+
+We try to put the concepts of the universe according to the third dimension. That why they destroyed this is wrong and this is the meaning , the sense. But when we eliminate the concepts of right and wrong and the meaning. Suddenly the people from the third dimension starts to say what we are lost.
+
+We do n't have anything. Where are we? And.
+
+So suddenly. Suddenly you can realize. That. In that.
+
+The concept of no dimension of zero dimension. We were never lost because nothing really exists. There only one dot in the center. We were never lost.
+
+We were always in the center.
+
+So another thing that happens to us as mammals. Is that. We need a father and a mother in the cosmos. Because we are creation.
+
+So as a son , a mapdata. We need the father and the mother to guide us. The father to guide us. The mother to protect us.
+
+To hold us.
+
+So it 's really heavy for us to understand that. There is no mom and that. And that.
+
+Another thing of us. Being. Humans. Is that we were designed to go ahead.
+
+We have to ice in front. Mouth in front. Here 's in front. We move forward.
+
+And we.
+
+Something behind. We were designed. To go ahead. To move.
+
+So we go to destiny. Leaving the energy. But we can not understand why the universe does n't have a beginning and end. And we are wondering who started this.
+
+Who is going to end it? Why it. And it 's really hard for humans to understand that there is no beginning. And we are not going to end.
+
+That the universe never started. And we will never end. Nobody did it.
+
+So. Only when we transcend our human. Reality. We are able to grasp the idea of.
+
+What is the void when we can fill it with each one of our particles. Because. For us it 's impossible to fill the void. For humans.
+
+Void. The vacuum. Because. We were designed to fill out the gaps.
+
+Now the question would be. It 's necessary to transcend our human reality. In order to feel something that we already are. Human is nothing else than other one of those aspects from the void.
+
+And now. This other concept of. We live in a third dimension. We 'll transcend into the fourth dimension.
+
+And we can do. To understand what is to run into another dimension. It 's not to go there. As we all have seen in all this week.
+
+The dimensions are not places to go. Dimensions are places. Aspects to be.
+
+So in order to change your dimension. You do n't have to go to a place. You have to become the place. It does n't go your attention.
+
+Anytime. Whenever you are feeling that you are about to transcend into a new reality or another level of consciousness. You can go through. Trust and then tell.
+
+Void. Attention. Void.
+
+So why existential void.
+
+Remember what means existence. Existence comes from the Latin X star. That means to be outside.
+
+So something that exists. Is something that went out. Of itself. They went outside.
+
+So when you stop existing. It means that you went back to the center. To the zero point. And that 's an existential void.
+
+So what is transcendence? Transcendence comes from the word. Trans. That means to go beyond.
+
+To transform their trust. And send it. That means to move. Above or to move below.
+
+So to transcend is to go beyond the position where you are. That is to move forward. To go farther from where you are. When I am saying to transcend a reality.
+
+I am basically living a form behind in order to transform in a new form.
+
+So. When I stop the idea that the universe is about ascending going up. Descending going down or transcluding going beyond. I 'm moving and being outside.
+
+So I stop. To exist. And when I do n't exist anymore. It means that I 'm not moving out.
+
+I come back to the center which is the zero.
+
+So why is not the unity the first thing or the core of all things? Because in order to exist the unity , you need a penalty. Unity in its own word is saying to things that become one.
+
+So you need one and in order to become one. A polarity that we call alpha and omega , beginning and the end.
+
+So unity is to put the things together as one. But it 's not speaking about the role. That 's why some people now call to that a singularity. In the mentioned zero there is nothing.
+
+Nothing to you know. Nothing. Nothing. Nothing released in order to be united.
+
+This is why the whole creation begins zero. That 's the our economy.
+
+So you have the spiral like a snail. Let 's start with zero. Everything begins with zero. And from the zero it goes to one.
+
+And that one replicated itself in one. One plus one. Two.
+
+So we have two. Two plus the one is three. Three plus the two is five. Five plus the three is eight.
+
+And you continue the sequence. Eight 13 21. Fifty thirty four 55 89 and 144. Why I stopped in 144?
+
+Because 144 number 12 in the wins.
+
+So. Twelve race. Do you remember in the center of the mention. The 12 race.
+
+Of creation.
+
+So each one of the spirals that is created through time and space. Would be one of this numbers.
+
+So. You. Hmm. This is the sequence.
+
+This is the order of the sequence. This is the second.
+
+Okay.
+
+So now we have this. That this being. From the zero express the mind. Expand the mind.
+
+And then from the point. Expand the action. The physical one. Spirit.
+
+And body. Mind. Emotion. Action.
+
+So now. The zero point. The zero dimension. Means eternity.
+
+So you can call this. You can turn on. The eternal life. The eternal emotion.
+
+The eternal light. The eternal path. This is basically eternity. Eternity is in the zero dimension.
+
+And why is that? Because. When you speak about beginning and end. I just edit into the eternity.
+
+And when I speak about eternity. There is no beginning.
+
+So what are the beginning and end? Just concepts. Say. From.
+
+Eternity. The zero is eternity. The first one is the beginning. The second one is the end.
+
+There are concepts. Of the eternity. To understand the eternity. Positive and negative.
+
+So beginning and end. Origin and purpose. Are just concepts. To understand the eternity.
+
+So why everything is eternal. Because the only thing that exists. Is the dimension zero. All the limits are concepts.
+
+All the rest are just concepts.
+
+So now. As you see. All of this is just. Just.
+
+Just. A concept. At the beginning and the end. The positive and the negative.
+
+That creates polarity. And polarity creates the depth.
+
+So I can experience. Through what? Through the five senses. And this five senses will be able to experience.
+
+In eight directions of time and space. Activating my 12 potentials of the I am. The number 13.
+
+So my soul. Is activated. In the 21.
+
+So my mastery is activated. And lived in the 34.
+
+So I can transcend. All the. Concepts. That I did before.
+
+So I can die. And set myself free from everything.
+
+So I can. Integrated. All the aspects. I sell off spread in entire cosmos.
+
+So what is. 144. 144. Is.
+
+The. 144 attributes aspects that a being has throughout all the dimensions. Throughout all the spaces and time.
+
+So. For example , this Matthias. Is. One of those 144.
+
+So I am. One in between 143 aspects of myself more. That are around there. But inside of me , I am made of another 144.
+
+That they are made inside of them from other 144. Outside this other 143 around me. And I am also. It became like one.
+
+Inside of another groups of 144. And this is eternal. To. To.
+
+To. To. To. To.
+
+To. To. To. To.
+
+To. To. To. To.
+
+In order to be able to feel and communicate with I am , I have to open myself to listen , to receive the information from the other 143 from the 144 that I am.
+
+So the only way in which I can connect to the 144 is if I myself as Matthias , let myself go as a person.
+
+So I can recognize that Matthias is just an attribute of the 144 that I am.
+
+So now to try to explain about the attributes , imagine that myself , the body is a whole. And I have 144 aspects and attributes of myself.
+
+Some of them are mental. The other ones are emotional and the other ones are physical.
+
+So I have 144 attributes of myself.
+
+So imagine that one of them in the emotional level is happiness.
+
+So happiness or joy is an attribute. Imagine that joy is the only one that is separated from the other ones. That is alone. Joy will never evolve.
+
+Will never expand. It will be impossible for joy , believing that it is one that is separated from others. The only way that joy will expand in the whole body is if joy recognize that it is an attribute of the beer bean that is called Matthias.
+
+So now take the bigger picture. Matthias here is one attribute of a bigger bean that is composed by other 343 plus me.
+
+So my , is what attribute more of that bean? And that 's an attribute. Being me , the attribute is Matthias. With everything , bam.
+
+With everything that composes me. I am this attribute being Matthias , being myself.
+
+So when I recognize that I am part of all this other 143 , I can connect with my entire bean , which in my case , its name is gun. The one who I am speaking to. Gun has 144 assets , from which I am one of them.
+
+So it does n't matter if you know or not how that beans cold. The things that you know that you are an eternal part of something that is bigger. And do n't expect to know where they leave , where are they from , how they are , it does n't matter. Really , how the other attributes are.
+
+Do n't make the same mistake believing that maybe one of them is my dreams hole or something they had. Right hand is the twin soul of the left hand. They are different parts of one being.
+
+So now remember when you are open to the 144 , not willing to find them , but open to receive them , you will start to connect to have memory. To remember your past lives , to remember the future lives , to remember realities from other worlds from this world. And why is that? Because from our point of view of humans , we believe that we have past lives and future lives.
+
+Okay , we have that belief because we leave linearly in a line the time , but it 's not like that. It does n't work like this. In the entire cosmos , this is , this does n't matter.
+
+So when you start to remember , you are not remembering things from the past. You are the re-membering , which you put in your center. The other 144 , that some of them lives in the past , some of them lives in the future , some of them lives here , some of them , you know , the planets.
+
+So , in order to be itself , what I have to do is to come back to the zero point of eternity of my mind , of my soul , of my demo , of physical , zero , zero , zero. A 144,000 is a code that describes the code that describes the zero point of our universal mind , soul , and body. And the only way you can accomplish this is if we start believing in a purpose or an origin. The only way of becoming the everything is being nothing.
+
+In the third dimension , we call this detachment of the being.
+
+So this is the detachment of the physical , the detachment of the emotional , the detachment of the beliefs in the mind.
+
+So when I was able to go through all detachments , coming back to the void , is where I find that at neutral zero point , I am able to create the biggest of the freedoms is in the void , is not in the everything.
+
+## Daily Practice Elements
+
+So now the question would be , how can I download all this search abstract concept to my human life knowing that I have to keep moving on , that I have to leave? Why are we doing all this? Let 's go to the ancient forties today. The statement for today is , I am at love.
+
+The code for today is feel to feel. Like a spider can sense the smallest movement in the vibration of a web that was needed between the branches of a tree , whether it 's the contest breeze or the votes movement of something that trapped by it. The next attribute of the universe is feeling. Every one of those resonance.
+
+The energy generated by this movement is called emotion and it 's maturation and awareness is called feeling.
+
+## Q&A
+
+Remember that I could n't give you an answer because otherwise it 's in the zero dimension. Is your dimension the question? It 's one of you will have to build its own as a курts handle of a cuckoo c�olight. Devant fair JB Any End In General Move No No No My
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

@@ -1,0 +1,64 @@
+---
+title: "Day 3 - Energy Alignment"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 3
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 3
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - chakras
+  - mantras
+  - vibrational practice
+  - energetic alignment
+  - portals
+  - crown chakra
+  - heart chakra
+  - third eye
+
+practice_elements:
+  mantra: "BLASPHEMY TO FEEL SUPPORTIVE"
+  chakra: "Crown"
+
+---
+
+# Day 3 - Energy Alignment
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Mantra:** `BLASPHEMY TO FEEL SUPPORTIVE`
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone good night good evening good morning whenever you are thank you for being to be connected for third day of alignment to start I just wanted to tell you I sh I I post posted a new Post in the blog I'd say it's something I write I go to the pyramid I I hope it is useful for you each day I go to the pyramids I do some chantings do the chantings it comes like words like ideas and some stuff then I just I write down all thoughts to from the eye the arm conversation between both of them I don't know if it's going to be every day as well I can I I will do it we go to the alignment of today I remember you we are still in the wake of the Mind of course inside the month of holak the first cycle is the month related to Leo for the Mantra of whole month is I can statement we are going to work with today is I am the portal of Truth is related to the throat chakra foreign means M the portal E is the letter or the sound represents the feather with you write the truth is in the ancient mythology this is the sound made the reference to the door opening to the truth also of course we have the code of the day is another information just to let it go through your body for the recognizement of code of information read the code exhalation related to the process of expression inhaling observing decides to take action expanding outwards outwards searching to reach everything that's projected of living every potentiality every dream idea waits to be lived in its presence related with the process of the third chakra it's exhalation it's to let the information out it's Universe expressed itself towards the outside it expanded its own potentiality it could leave every potentiality he has he has Within yeah hmm today we are going to concentrate ourselves with the throat chakra something Basics to understand I was saying something important to to understand is if we feel anything uncomfortable anything is making us feel fear I feel fear you just let it go to the ground maybe like touching your body like taking the Statics okay like letting let it all out it's just the discharge of the energy okay it's just stuff are going out sometimes some of the fears some of the things we feel is not even ours stuff we have from our past not only past lives also our ancestors live within us many of the fears we have been they are not they're not we have them because in our in our inside we have their emotions they lived Bannings of expressing the truth they were I don't know being judged or whatever we're going to work to work with the throat let it all out this is something very difficult for many of the people in the past let's I will put the music let's find a comfortable position for alignment some people were were doing some comments about I'm feeling like the body is weird or I am I'm tired or I cannot sleep these things are normal we are downloading information new information to our bodies it's it's of we will feel strange things if we don't if we don't feel anything is we are not doing it well it's not we are doing and life it's like normal of course you will feel some changes the body needs to re-adapt to the new things that's why we are so we position ourselves comfortable let's say the music if I can can you hear me well said your body comfortable remember to be still with your spine straight up never laying down always with your head what's guy I close my eyes I touch my body carries my body or make a massage the reason we touch the body we meditate to let the body know it is part of process we are moved energy through it thank you we'll take care of it start to relax my arms my feet I realize of all the feelings the sensations of my skin my foreign breathe in through the nose hold inside breathe out through the nose Softly I feel the air the oxygen going to my lungs through my heart from to all my blood till every one of the parts of my body foreign feeling the air every part of my body I take my attention to the part of my body is uncomfortable has pain or feels pleasure the first one comes to my mind I become aware of part of my body I inhale it deeply take attention to the energy inside my body I try to feel parts of my body are cold which ones are hot the hot parts are those or the energy is accumulated energy is emotional I recognize the first emotion comes to me in energy no judgment thank you I recognize Mission Within Me without judgment in very moment I take the first idea comes to my mind no judgment breathe in with my hands or my imagination take the three spheres the first one holds part of my body the next one my emotion on the other one the idea with the front of me in front of the throat I contemplate the three of them breathe in I observe them I recognize them try to relate without judgment the purpose in between the connection What relation has part of the body emotion this idea foreign with my hands or imagination I pushed the three spheres towards the inside of my throat foreign tools my being had gave me to nourish the throat chakra foreign of my truth I observe my head the light of the Sun of my I am coming down to the flower of my crown from to the flower of my third eye I try to feel the peace the calm the light of my heart self comes through the two chakras from my head breathe in I become aware of light coming down to my throat I feel the light on the water of myself dissolving the three spheres making them into the nutrients feed the seed of my throat breathe in I feel the seed absorb the information of these three spheres I see I feel it starts to Blossom I become aware in Center relies all the things I hadn't said I haven't expressed from my inner self at the moment I feel flower opening Marywood in blue color I recognize this is the perfect moment to speak to express my truth to educate I pronounce the vibration opens the portal the door towards truth Within exhale the vibration I repeat it I try to be aware of the sound a moving my buccal cords my throat as much I say it I see the floor opening bigger bigger foreign foreign as many times I need it as a mantra as a singing I become aware this is the portal of my truth downloading all the light of my higher self I can I can I come I repeat mantra is strength to settle the light of my higher self Here Now I am the portal of Truth I am the portal of Truth I am the portal of Truth take a deep breath recognize watch all the blue flowers are blossoming foreign another one between many watch This Is Our Truth I am the truth I take benefit of big network of Truth is blasphemy to feel supportive I can tell my truth I can express my reality I can feel the fresh Air Breeze in your throat mouth breathe in starts to yawn stretch said you're John free stretch your body with the stretch carries your weight discharge all the Statics all the energy towards the ground from the throat chakra I come back and opening my eyes softly thank you all of you for being and the channel for the truth rest tonight discharge all the things you could feel to the ground we meet each other tomorrow for the heart good night
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

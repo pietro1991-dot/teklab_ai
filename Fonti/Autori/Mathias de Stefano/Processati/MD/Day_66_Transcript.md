@@ -1,0 +1,342 @@
+---
+title: "Day 66 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 66
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 66
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hold
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 66 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi everyone. Morning , good evening , good night.
+
+So welcome to the day of scrum. And as you may see , outside there is another wedding.
+
+So I have to change my place. The entire Egypt is getting married.
+
+So I will have to adapt to the happiness of people. Let 's begin with the information for today and the land for today.
+
+So if you may hear some noises , it 's because I am far away from the wedding , but I am close to the main street.
+
+So if there is a ward that can define the Cairo , it would be noise.
+
+So remember that if you may see me very tired , it 's because I used to get up at 7am and here now is 8. 30pm.
+
+Okay , so it 's night.
+
+So if you see me like tired , it 's because of this. And also my coaching , the worry is not that I am ill. At this moment I kind of just stop thinking about it. Because I am in Egypt and here is very hot.
+
+The sun is all the time in my face. And then in the hotel inside is very cold constantly.
+
+So the change of the temperature constantly makes me this.
+
+So the issue to discuss today is creation and destruction. If you want to have more information , you will have the block.
+
+So you can read the blog and there you will have all the information there for today 's issue. I 've seen that. I have seen a comment that you look very like damaged.
+
+So I 'm so wrong. I 'm so damaged. I did n't see my face in the screen very well.
+
+So I was just saying that it 's normal that each day you will see me a bit different. It 's like we are living together mostly because this would be 360 days.
+
+So it 's normal.
+
+Some days I will be more tired with much energy some other days.
+
+So I will be changing constantly. But also take in mind that I am in Egypt right now. Egypt is very ca n't tired you a lot because it is a very aggressive environment in many ways.
+
+So it kind of gets you tired.
+
+So sometimes I will be in my mood sometimes I want. But as always I will try to do my best to be here.
+
+So just to let you know that if you see me like lost like this , a little bit of a strike today to be honest. What I had been doing all the day today after I went to the pyramid was to lay in bed. And I closed everything like if it was night and just watch a romantic series series series. And the whole day the whole day and I only want something sweet and I will be watching something romantic.
+
+And it was like romantic and funny also. But anyway I guess this is my new rising in Pieces for this year. That takes me like that. I usually do that.
+
+But anyway I was doing nothing today and that 's not very common on me.
+
+So that 's why I am very distracted. I wo n't say the series because it 's a shame on me.
+
+So for those who are a bit lost , I remind you that we are in the month of Libre in the week of mind in the day of the sacred chara.
+
+So if you want to know why remember let 's go to the blog. You saw it dot red like the color but it means network in Spanish.
+
+So of course that if we are working with the sacred will will come up all the creativity by talking about the concepts of the mind. We will talk about the two Brian opposition of the opposites of this chara. We would be the creation and it 's opposite the destruction.
+
+So construction and destruction.
+
+So first of all let 's go to the etymology of the words.
+
+So create comes from the Latin word create and create means to just state.
+
+So this is the word of the that gives the production the generation of things.
+
+So also we would say the word create that means the product that was made from something. For example , another this other origin like a carry are which is the product comes from also gives the origin to the word cereal.
+
+Okay , because the cereal is like the product of the plants in the harvest. And so also it comes from the name of the goddess , a kid is that was the goddess of the cultures cultivation the harvest. This would for the words coming from the Indo European language and of course that for example the opposite would would be destruction had also the word construction that would be kind of a synonym to creation.
+
+Okay. That would be to create a product.
+
+So the etymology of construction and destruction would come also from the Latin words and construction we will divided in two words. Con that means with.
+
+Okay. And then through are that means to put the together to put all the parts together.
+
+So this would be put each part with the other that 's construct to put this part with the other.
+
+Okay , so that 's construction. And in the other hand , we have the destruction.
+
+Okay , destruction.
+
+So the destruction would be the same , but the means to put away to go from up down like put away.
+
+So D square means that those things that were together by the construction now are separated.
+
+Okay , so it 's dividing things and put it then each one separated.
+
+So construction and destruction. Construction means to put the parts each one with the other all together and destruction would be to separate the parts that G first put together.
+
+So what is the concept of the real concept of to construct create and destroy.
+
+So would be to make a thing and then to change it to make a new thing. In our current days , we have this emotional relationship with the creation and construction that is like I love the construction. I love how it 's something well done , something finished to build something from the serial point from the very beginning and suddenly in the other hand to destroy something. It 's like horrible like something that creates us pain that we can not hold it is horrible.
+
+So now we 're going to look into what happens to us.
+
+The reason why we love the construction , the art and all these kind of things is basically because our brain was designed to solve problems from nature to all our lives. What the brain was trying to do is to try to solve as many problems as it can.
+
+So it could feel like quiet , relaxed.
+
+So this is why when we solve a problem or when we see how someone is putting things together , it 's like our mind stays relaxed. Normally what we do in our lives is to try to avoid the destruction as much as possible.
+
+So usually common people try to avoid the destruction because of course we are trying to give our energy in process that are creative that can help the mind to be safe to feel fine. And there 's the other hand , in the other hand we have another people that does n't feel the need to feel safe , that they do n't feel nothing calm when they feel safe.
+
+So these are the people that needs to destroy in order to feel an emotion. Only by destroying they can feel their brain relaxed. Why there are some people , not the most people , not the most of the people , that a tiny group of people that usually look for chaos for conflicts and to destroy others ' people 's lives or so on. This is because throughout all the story of their family tree and their biology , it 's all biology has been solving problems through chaos.
+
+Basically their brain was designed or was used to solve better problems in chaotic , chaotic environments.
+
+So these people that see chaotic environments , they feel safe because they know that when something is messy , they can find a solution.
+
+So that 's another group of people.
+
+So what basically both look , both of them of those groups are looking for is the resolution of problems. And inside of this there is another tiny group of people that we are not talking about , we are not going to talk about today because it 's not related , which is the psychopath and social pets that they have nothing in common in this issue now. For the construction , the conflict is the chaos that the destruction has created.
+
+So it needs to put order on that , it needs to create. And for the destruction , the conflict is the the the fondaments , the structure that the construction has created. If we pay attention to this for both , they are in this creation.
+
+So today in the blog I wrote this creation and destruction. And why is that? Because we usually put them as opposite. But what is really happening is that there is a construction and a destruction.
+
+And in the middle , being part of both of them , there is the creation.
+
+So pay attention to this. The concept of construction is to try to solve the problem of destruction.
+
+Something was destroyed.
+
+So I need to construct it again. I need to create something new from that that was destroyed.
+
+So in the other hand , the destruction says this thing that the construction has done has created is so strong. That is not allowing us to transform to become something new to evolve.
+
+So we need to destroy it in order to create something new.
+
+So from the point of view of both of them , they are creating. Let 's go to the origin of the universe as the first example. The first example of everything is how everything begins in the universe.
+
+So the universe is called by the Greeks like cosmos. And cosmos means order. But this order that we now know in the universe , the creation itself , was created by the great explosion , which was the big bang.
+
+So the big bang was something that the Greeks used to call cows.
+
+So cows was the great explosion that destroyed the order of the universe to create a new order.
+
+So basically the cows from the destruction was the one that allowed the order of construction , the creation.
+
+So from the very beginning of everything , we can see that everything that is happening in the universe is destruction and creation and construction.
+
+So how is at the moment you are creating something , something all is being destroyed. At the moment you see something being destroyed is because something is being created. It 's the paradox of the universe. Everything that is created is destroyed.
+
+Everything that is destroyed is being created. That 's the great paradox of the creator. I am not speaking here about the butterfly effect. I am talking about something way much more simple.
+
+Let 's go to something , an example very simple. For example , when you catch a pencil , okay , when you catch a pencil to write or to make a drawing in a paper , what you are doing is to create something. You are creating a drawing , you are creating a text , poetry , whatever you are doing. You are creating something.
+
+But at the same moment you are destroying the pencil and the paper.
+
+So it 's not the example that a tree is being cut but a new one in another country is getting warm. No , it 's not that example. Let 's take out the moral right now and let 's think about this tree that is being cut.
+
+So let 's focus only on that tree. That tree at the moment it 's being cut , it 's being created also , a table , a chair , wood for the fire , paper. Do n't think about if it 's good or if it 's bad now. We are dealing with that in another time.
+
+When we are just trying to think about now , it 's that at the same moment something is being destroyed , some use being created.
+
+So there are fast things that happen. They are happening constantly. It 's not something that is separated that is happening.
+
+So from now on we have to be aware that everything that we do in our lives is a constant moment of destruction and construction. Each day that we are constructing something new , we are destroying something old. That I am destroying something old , I am building something new.
+
+So we can say it backwards and it works anyway.
+
+So let 's go back again to the origin of the universe.
+
+Remember that construction would be for the first moment from where it took all the vibrations from the cosmos , the cosmos from the void. And it started to press it and construct something in the center.
+
+So when it had a lot of pressure , it just destroyed itself in different parts and pieces that was the big bang. For example , this also happens in our own life. Like for example , when I am in a process of a crisis , suddenly the pressure that I have within explodes. And all the pieces fall apart like you are falling apart.
+
+We use that expression. I am falling apart.
+
+So these different parts that are falling are all the pieces that were stuck inside that if I would n't explode , I would n't have explode. I would n't see it. I would n't have seen it.
+
+So now I can grab all the things , understand it and go through a process of evolution to construct someone new and new self. This is the process of growth.
+
+So this same process that we live in our lives is the same process that the universe has to leave and even the humanity.
+
+Another thing that happened to us is that when we divide all the things from the destruction , okay , we separate all the parts.
+
+So what happened with us is that everything that was together starts to separate , to break.
+
+Okay , so to divide the different parts.
+
+So this division of the parts in the European languages was set to , was a del , okay , del.
+
+So in many of the languages that came from the European , it came the , the , the word dolor. Color , dolor is the word for pain , something painful.
+
+Something that maybe you will call hurt , this hurt , okay.
+
+Okay. But the word pain in English comes from punishment , okay. Pain comes from punishment also that came from the Greek by a nurse that is , how do you say , fine. Not , not fine to be fine to find someone to like the police did n't find.
+
+When someone did something wrong , okay , a mistake.
+
+So that 's pain. When someone did something wrong , we would say when someone broke the law. If you are breaking the law , that 's the concept of pain , breaking something , okay. You are breaking something and must be still , okay.
+
+So that 's , that 's the pain. It 's breaking something , breaking the law. That 's the origin of the word pain and the law in Spanish.
+
+So there is the reason why we say , I do n't want destruction , I do n't like destruction. And now we are going to explain that.
+
+So basically the reason why , the reason why we do n't like destruction and we do n't want to know anything about destruction , is because , it 's because what we usually do is to catch ourselves to the construction. We want the construction , we want that thing that we have created. And we do n't want that to change.
+
+So it 's so structured , it 's so rigid that it 's kind of a law.
+
+So suddenly I made this construction like a law , you can change it.
+
+So nobody wants to change it. I know this is how it is. We can change it. This is the perfect.
+
+So this is how the family starts to , starts to , to repeat the patterns and societies and so on. Because it 's like , it 's like this is not going to change. But we need to change , we need to transform.
+
+So in this need of transformation , as much rigid is the structure , the bigger will be the pain. Because to transform , you need to separate things in order to position it in different ways.
+
+So if you do n't do that , what is happening is that you will break yourself.
+
+So the nature , the life will break your structure and that 's painful.
+
+So that 's how , that 's how we relate destruction with pain.
+
+Okay.
+
+So we have been so attached to the shapes that we have created for our lives. That when life starts to change and we need to begin to change ourselves. And we begin with the destruction of everything so we could rebuild something new. We start to feel pain for that.
+
+So it 's so painful that you start to suffer and that 's why we do n't usually want to change.
+
+So as you become more flexible and allow yourself to transform , to change , the less you will suffer. That 's basic. Because the people that suffer the most is the people that is attached to its own beliefs and its own creations.
+
+So this is why suffering and pain are an election choice. For example , now you make and say , yes , but wars are not chosen by anyone. I did n't choose to live in the middle of a conflict or like that. But in this case is what we are doing is just to look the process of an entire society perspective of an only human of just one individual.
+
+So this is more complex because we are not talking now about the choices of one individual. We are talking about the choices of many individuals as one.
+
+So this is something that we are going to talk about when we have to talk about the social part.
+
+So now we are just trying to learn that the things constantly are destroying and contracting constantly once and again. This is like to learn how to make some of numbers and rest of numbers.
+
+So then we can catch any number and work with them.
+
+So as I said , we are talking about the concepts is issues. We are not talking about the real world yet. Let 's go to the alignment. The vibration of today is new.
+
+## Daily Practice Elements
+
+The statement for today is , I am destiny of creators. Well , yeah.
+
+## Daily Code
+
+Today the code of today is physical pattern. It says , when hearing the voices from heaven receiving signals , the individual who was separated from the whole , who connects with its purpose and feels the essence again. The sound is the vibration of the cosmic essence that gives meaning to beings to exist. It 's the piphany of the individual remembering its inner divinity.
+
+## Q&A
+
+It 's trying nature , vibration , energy and matter. People is asking about the task.
+
+So remember that the whole month will be just to make an expression , a creative expression , an artistic expression of the issue that we are discussing that day.
+
+So easy. Yeah. Everyday will be the same. Everyday the same task.
+
+To express artistically what we have spoken. Let 's see properly and comfortable. I start to press the body. Hmm.
+
+Yong. Yong. Yong. Yong.
+
+Yong. Yong. And they relax my entire body letting the weight fall down. Yong.
+
+Yong. Yong. Yong. Focus only on your breathing.
+
+I feel the air going inside my body through my nose , to the lungs , heart , blood , organs and muscles. Take a deep breath and perceive how you are inside.
+
+Now has become all air. Spinning. Twisting. And then you can lean inside of you.
+
+Feeling yourself more soft and light like a feather. Feel the air around you and how it connects with the air within you as one. Start to feature a big sizing around you with the valley below.
+
+So you picture yourself at the edge of a mountain watching below. Feeling the air coming up from the valley. Oh , sir. The beautiful sizing.
+
+Coming through all my body from the feet , legs , hip , belly , chest , hands and arms , shoulders , neck , head and hair. I feel the air coming up from the valley. I feel myself in the axis. There is still in myself.
+
+Take a deep breath and put your hands facing the sun. To receive its light. I perceive the light of the sun coming down through my body. I felt hard , plexus and spreading in the scrum.
+
+I feel the light of the sun , the lightning to , heading to the palms of my hands. I feel this golden energy.
+
+So hard that I can even feel weight. I picture in one hand the construction of myself and in the other hand the destruction of myself. I feel that I am being constructed and destroyed constantly in my life. I know this.
+
+I am every change that I have lived , experience in my entire life and also because of each cell that is dividing itself right now within my body. I recognize that I am not able to rebuild myself without destroying myself , that I can not destroy anything without creating something which change. Both are my eternal capacity to create. On the pain that I will feel in this process of change will depend on how much attached I am to the shapes I have created.
+
+I bring my hands to my heart , taking these two powers as one inside my body , the powers of my own creation. I activate them both as one through my sound. I am the destiny of all creation , of all creator. For I am the creator and the created in constant transformation.
+
+I begin to bring this consciousness through my body , my stretching , crossing and journey. I can now open my eyes. This is another difficult concept to work with the one of today. Give yourself some time to process , analyze , integrate , step by step.
+
+## Energy Work
+
+Drink a little water , rest and see you tomorrow for the root chara.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

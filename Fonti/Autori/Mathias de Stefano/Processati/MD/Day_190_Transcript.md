@@ -1,0 +1,338 @@
+---
+title: "Day 190 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 190
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 190
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - constellation work
+  - month hological
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 190 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hello everybody , good morning , good afternoon , good evening , how are you? I hope this kind of you will.
+
+So let 's begin today with the information for the day of the Toro. In the to close the mental week , the mind week of Aquarium. I just explained a joke because as a gift for this year , my friends gave me this t-shirt , which is from a humor program here in Spain that I hear all the time. The main comic he was trying to say namaste and he said samantha.
+
+Because of the mistake he did this.
+
+So for us it 's really funny. Yeah , so , but mostly the Spanish people knows it.
+
+So today our topic is the constellation of Dragon.
+
+So first of all , what I would love to explain is to take a way.
+
+Some of the myths that we usually have around this constellation , because usually we can relate this constellation with the dragons and the bad people. The reptilians and so on.
+
+So I would love to take all this myths around for a moment.
+
+So we can clean the idea of this constellation because it is not really that.
+
+So first of all , to understand this that usually when we. When we say Dragon , which in Latin means dragon. We usually have this idea that everything that is connected to a dragon or a reptilian will be connected to this. Constellation.
+
+So remember that the names of the constellations had no relation with what happened in the stars. As we have spoken already that the constellations. Our name like that because of our point of views , but not because of the truth. It 's not because they really are living or those stories are happening in those constellations.
+
+What I want to want to explain first is that we have to take out the idea that the people that lives in that constellation maybe are called the draconian people , but it does n't mean that they have the shape of a dragon or reptile. And we talk about the constellations like same for example. Like same from the dragon constellation. They are coming in this reptilian beings that are trying to control us and so on.
+
+We are just living through our point of view , which is the perception of psychology from this world from our point of say psychological point of this planet. We project this idea in mythology. We are living through mythologies.
+
+So we usually project what we believe from the stars into the history of the stars which is not exactly like that. It 's not related to that. For example when we speak about play it is usually we think that they are these enlightened beings that helps us to find the path to the light. But this is because in the history , these beings , the people from play it is.
+
+Sorry , the play it is where seven sisters related with the uses.
+
+Okay , so that 's why we live in that perception of disguise.
+
+So when we speak about the stars , we are not speaking about what is happening in those stars. We are usually speaking about our perception and point of view of our provision of the stars.
+
+So also something important because for sure you have heard or read about these concepts in YouTube or whatever. That we usually project into the stars ideas that we have from here. Like for example , we used to say from this constellation comes the good people from this constellation comes the bad people. And that is really weird to say because we can compare that when we say for example all the Argentina are like this all the Spanish people are like that all the North American people is like that.
+
+Okay , so kind of if we say this country all the people is the bad ones and that country all the people are the good ones and it 's not like this is not how it works.
+
+So imagine that we project that into a whole constellation and the constellation is not even seen as a constellation from their point of view.
+
+Okay , so I know that here on earth we are very racist so let 's try not to make this racism something from the whole galaxy. Let 's go into the into why why the ancient ones used to call dragon to this constellation not not because the people from there was. Looking like dragons but because for the ancient ones the dragon was the one that was looking straight okay and the constellation of the dragon is the one that was taking care looking for each one of the constellations. Because of this they call the constellation the dragon taking care of the whole sky and why why the dragon was taking care of the sky because dragon comes from the Greek word arcane.
+
+The one that watch straight that sees deep that 's what it means.
+
+So dragon is the is the objective of arcane.
+
+So dragon is the one that shares the one that looks that look and shares straight to something.
+
+So that 's why dragon is the word for the guardian the one that takes care of something that protects something that is watching to take care of something. That 's what we that what increase they call. They call that golden which is the origin of dragon.
+
+So basically for the ancient ones the dragon was not a creature that was I do n't know like a weird creature but the dragon was the guardian of the city the guardian of something okay that 's what the dragon was really. The one that took care of something.
+
+So why. This constellation was called the dragon because this constellation was the only one is the only one that is constantly fixed in the sky. And now we 're going to try to understand why. And that 's why I did this little drawing.
+
+So this is the north hemisphere in the burial constellation.
+
+So I enjoyed right now because it would be very difficult to see this okay reflection and so on.
+
+So this constellation here is the one that is the most important for us today because this is the. The orsaminer and this star here is. Paris. But.
+
+Bonafonciona. There you have Paris in post-haminar constellation.
+
+Remember that here we have a circle and this is the circle where the earth is spinning in 26,000 years. This is the procession of the equinox okay the procession of the equinox when the earth is spinning like this moving the north. And the north pole. It takes 26 years to make the whole turn but this whole turn.
+
+Now takes us to Paris but if we go back in time to the Egyptian time we have alpha that equinox this start here and then we go back in time and we have air cliffs. And then we hope we go 12,000 years ago and we have bigger in the leader constellation. And then going back again to sickness and suffice. And again Paris.
+
+So all this turn around. Yes. It 's 26,000 years. It takes 26,000 years.
+
+And here you have the. Paris from Paris in the star. And bigger yeah.
+
+So the constellation that we spoke about Urusaminar. Refuse , sickness. Lira , Hercules.
+
+Okay. And. Race. Hmm.
+
+So this is the whole circle. Look into this. If the earth is here. If the earth is here.
+
+So the north pole is spinning moving around. Doing the whole circle of the history. And it 's pointing with the axis to one star that is not fixed. It 's moving through history.
+
+So all this story of 26,000 years. It 's moving. The axis of the earth. But it creates a circle in which we have.
+
+The center of all this time in space. Which constellation is that? Race. The race constellation.
+
+So in this circle. If I tried to connect and find the center. I will find that here I have the face. The head of the dragon.
+
+The neck of the dragon. And then the chest of the dragon. And the whole body with the tail.
+
+So in the center. What I find. The heart of the dragon.
+
+So as you see. The dragon. This constellation. Is the heart of everything.
+
+From its heart. It. It. It connects all the times and all the spaces.
+
+Through time and space.
+
+So this. Heart of the dragon. Is the one that is staring constantly. To everything.
+
+Every constellation. Every star. Straight into them. And that 's why.
+
+This. Is called the dragon. Because dragon means the one that is staring. Looking.
+
+Hmm.
+
+So once we said this. We can understand that astronomical. And. And.
+
+Etymology topic. The dragon. Has nothing in common with the mythology. The way of astronomy and the and the technology of the world.
+
+Why they call it like this?
+
+So , mythology is much more related to the psychology.
+
+So , the mythology tells us that we interpret the things through our psychology. Psychology comes from the way of word , C. H. That means soul.
+
+So , it 's the soul , the memory of the soul that perceives through the archetype that we have learned through history. It 's all about the illusions , the illusions of our point of views. That 's the soul.
+
+So , the point of views of the soul creates these archetype that are creating the myths , so mythology. That 's why we project to the constellations , this psychology of our myths. You got it? In the same way as we have said that the constellations , the dark constellations , the sodium signs are related to the process of humans and agriculture of the group of people in the world.
+
+So , let 's go to understand the next.
+
+So , let 's talk about mythology.
+
+So , we can understand what our soul is receiving. To , in order to understand the mythology of the dragon , we should not think that dragon comes the image that we have from the dragon , come from the word dragon. It comes from something that is way older than that , which is the traditions of the atomic culture , the totem. The totem come from the common culture that we 're animists.
+
+Animists are those who follow the things that move , because anime means things that are moving , that animate it , the things that are animated.
+
+So , that 's why they were following animists.
+
+So , the animists people were those who were following the attributes of the things that were moving around the world.
+
+So , that 's why they had their gods and goddesses in the animal and vegetable kingdom.
+
+So , they were following the attributes , so they could become a handle this attributes of the nature.
+
+So , that 's why for us we call that animism. They call each one of this animals or plants like totem.
+
+So , they have to learn from each one of them , so we could understand ourselves better.
+
+So , what they did once was to put all the attributes of all these animals together as one , creating a new kind of being that could have all the different attributes of each one of the totem of the world.
+
+So , what they did was to put different plants and different animals and they created this idea in the imaginary world , not related with something real , but related with the idea of god.
+
+So , they created god. They manifested the idea of god in this being in this way , being.
+
+So , so this being had all the potentials in one. It was only one being.
+
+So , for some cultures , for some cultures , this being , this divine being has all the had all the information of the universe , all the attributes.
+
+So , it was a good being teaching humans how to handle those attributes. And for other cultures , this being was something horrible and something really bad. Why? Because it has all the attributes and if the humans were not right , so it would use its attributes to kill them in this story.
+
+So , from this idea , we had a totem that unified all the potentials as a good one and another one that unified all the potentials as the bad one. The version of Africa is the things. The things is this animal is taught them that put together different other attributes of animals with wings , with both , with different head of animals.
+
+So , all together , these things is the one doing the exams to the humans.
+
+So , to see they are able or not to handle these attributes.
+
+So , through the history , when the people from the Mediterranean , they start to go to Asia and take all these totaling ideas , they mixed the camera and the things from the Mediterranean cultures with the Asian cultures all together.
+
+So , now , these concepts of all these beings were seen from the point of view of the totem. And this means that the totem had these attributes that they can use it as tools , as a good one or bad one. But the bad one , the negative one , was really not taken as something bad , but as a weapon , there was trying to protect the essence that was inside.
+
+So , the tool , the tool of the the attribute of the totem was used also as a weapon to protect themselves. We can relate that with our immunological system , the immune system. We can relate that with our same body trying to protect the things from the outside.
+
+So , this idea creates the concept that this being is protecting something that is holy , that is something that it must be protected with them.
+
+So , this idea of the protection creates the stories in between the people that tells about these monsters , these totem that take care , protect and guard the treasures that are within. Do you follow the story? And this is why , in Greece , they start to call this guardians as dragons that are golden. And here comes in the whole Europe , the traditions of the dragon.
+
+Now , we usually in the past , they started to tell this story that about the dragons that in order for you to get what is behind the dragon , what is protected by the dragon , just a treasure that is inside , you have to become a knight that fight against the dragon. And when you fight against the dragon , you will get what is behind. Gold power , normally a woman , for that time. But now we are going to try to understand it , the significance of this.
+
+The gold is referring to the philosophical stone , which is to be able to enlighten matter , to accomplish enlightenment in here. To take power , to become king or queen , is to restore the ability to rule my own life , to be able to decide my own destiny. And the women , the princess usually represent the soul , the sensibility , the ability to have memory , to awake the potential of love.
+
+So the story says that the knight , which is the ego , the personality , has to face each one of the spines of the dragon , which are the different parts of the self , the different attributes of the totem in order to integrate them.
+
+So when I , when I stop fighting the dragon and I dare to see the dragon into its eyes , which is the symbology of dragon that is to see , straight to the eyes , and you see the soul of the dragon , you see the princess. And through the princess , you find the heart of the dragon , which is the soul , the dragon , the heart of the dragon. And when you position yourself in the heart of the dragon , you can see out of time and out of space , because the heart of the dragon does not have space nor time. The divine presence , I am Jo Soy , here and now.
+
+This precious gem of the universe , the heart of the dragon , this diamond in the center of everything , the represents the I am , is covered by this dragon that represents all our fears , all the things that we hate that we try to fight with. Our darkness , and that 's why throughout all the history , we have been fighting against our monsters. We have been creating the idea that the snakes , the reptilians , the dragon , draconian , and the bad ones , and demons , and so on , we 're trying to fight against us. And we have to fight back.
+
+But this idea is the one that the system wants for us to believe. Why? Because the light of transformation is surrounded by the dragon. And you can not fight the dragon , because it was designed to protect it.
+
+Each part of the attributes of the dragon is fighting back. It was designed to protect the heart.
+
+So the only way you can go into the heart of the dragon is if you see , straight into its eyes. This cover , the soul. If you stare like a knight and you face to look into your own demons , to rescue the soul , your own soul.
+
+So this is why the knight , the ego , is trying to look for purpose. The 26,000 years , moving around , looking for something new. But the dragon is constantly up there , looking , straight to the eyes. To see if we keep looking for a purpose outside or we find the love within.
+
+Maybe the constellation of Drake now has a different perspective.
+
+So now remember that every time that you face something that hurts , that you fear , it 's just the dragon trying to protect itself. And we also have this dragon within ourselves. This dragon is what we call the Kundalini , the snake that activates the inner power. And when we accomplish to activate it , it opens feathers , like Kits Guadalupe , the feathers snake.
+
+And it opens the wings to fly.
+
+So this dragon that we have inside is surrounding and protecting the gems , the diamonds that we have within , the charts.
+
+So it 's protecting this holy information of the essence. And it goes and surround the knight protected.
+
+So we can be still. But what happened , if we are in coherent , this dragon will protect itself.
+
+So this dragon was protecting us in three levels. In our actions , emotions and thoughts. But if the dragon feels that we are not really well , it will protect itself through reaction in our body , through trauma in our soul and through beliefs in our mind. From what is this dragon trying to protect us from our own capacity.
+
+So this dragon is not protecting only from stuff from the outside. It 's usually protecting us from our own capacities. Is the capacity that we have to handle the resources that we have within. In the same way as our own dragon is protecting our own essence by the reactions , by the trauma and by the beliefs.
+
+The earth also has this dragon protecting itself. It 's essence by reactions , thoughts and beliefs and trauma. I wanted to say something more and I forgot.
+
+So just to remind you and also that in order to work with the earth and how to heal this planet , we first have to do it with ourselves with our own dragon to watch the strange , our own dragon into its eyes. And then we can do it with earth.
+
+## Q&A
+
+So related to the task that Miracles has to do , the task of the apples in the garden of the haspirages , there was this tree of life of knowledge that it has this apples of gold made up of gold that represent the wisdom.
+
+So now really this tree of life with your own genetics , with your body.
+
+So you are the tree and these apples are the charts , the attributes that you have inside.
+
+So the dragon is the purely need taking care of this tree. And then the ego is the hero that comes and tries to take away this apples from the tree and to kill the dragon , which is to kill the to kill the energy , the vital energy and the ego which is the night. It comes and take it away and take the power away.
+
+So what we have to do is to restore this connection so the night can come bring the apples to the tree again to take care of it and to look the dragon into its eyes. I do n't know if it was a lot but I think I said it all.
+
+So what we are going to do today because it 's the tourist day is that we are going to activate this dragon for each to surround us with its wings.
+
+So now if you see or face some dragon or a reptilian , you just tell to them , hey thank you for taking care of my essence for so long.
+
+## Daily Practice Elements
+
+Now it 's my turn. I can handle it. The vibration for today is the statement for today is I am the eternal word.
+
+So today is a perfect code which is fire in its aspect of spark. In the origin of everything , when the first particle ignited , enlightened , the spirit originates and with and with it all the potentialities of creation. This was called the divine spark. The instant where the spirit lighted in the cosmos for that at the spark is the detail force that generates all things and from which its reflection flashes within every projected beam.
+
+It is the first aspect of fire 's Trinity. How was for you to do the alignment by yourself? We have to practice every day a little bit more. We have to learn how to flow , how to imagine , not touch what we can do.
+
+So two things before we start with alignment. The first one , if you are of those people that in these days have been like even better than when I guide the the linemen , so you got to connect really deep and a lot.
+
+So perfect , keep doing that. Whenever you can , just try to do it alone. Try to do it by yourself. Even more.
+
+If you like to do it with us , of course. But try to do it another moment , another times , just by yourself. That 's the goal to be able to do that by your own self. And for those who can not and need still need to guide you , I would recommend you to do this.
+
+## Guided Meditation
+
+That it does n't matter the day and where you find yourself in the day. Just take five minutes to sit , to listen to the music , just focus in the breathing. When you start to breathe deep , just let for five minutes the imagination to take you wherever. And use your imagination.
+
+Try to imagine whatever. That 's a matter that you follow. What we are doing in the linemen , the topics , that 's a matter. Just allow the mind to be used to handle imagination.
+
+Just that. And practice that. For the people that are starting to follow this , just watch the other transmissions. Of course.
+
+And for the people that have never mediated before , just I would advise you to follow this alignments to practice. And if you have no idea how to do it because you never did it and you lose the focus , just try to practice with something that is mechanic.
+
+So do n't start by mediating like this. Just for example , paint like a book of vandals while you listen to a music.
+
+So you just paint something that you do n't have to think about , something that you just to follow like a pattern , or also go outside to work , but without any purpose to go somewhere , you just go and get lost. Just looking the steps that you give. You only see your steps , not what is around , just your steps and take a walk. Do that.
+
+Listen to music.
+
+So your brain starts to get ready to what it is to yet into meditation. And also the music of the alignments we are not going to post it in Instagram or YouTube.
+
+Sorry , and Spotify until next year because what we are trying to do with this music is for everyone to follow the same vibration every month.
+
+So we do n't get lost with other vibrations of the month.
+
+So we can all go aligned.
+
+Okay.
+
+So let 's go to this seed comfortable. We close our eyes. We focus in our own breathing. I recognize my body as the center of this cosmos.
+
+I become aware of the environment that I find myself in right now. I use my imagination to design this environment as the deep space , dark , profound , a side picture myself as the earth , получилось , A size star to perceive the shine , the shining stars , right to more and more. Feeling up the space , the cycle of the sea , the constellations around me. I see how the light of all these stars are reflecting , projected , and I see the light reflected towards the outer space.
+
+And it 's there where I become aware that all the lights that I see in this sky are just the projection of my own idea , my reflection , of my thoughts and emotions , from my soul , from my being. And this is how all these stars are just telling me the stories of myself through time and space. And I see how the light of all these stars is. A sign of sphere of this sky was meant to eyes , one of the east , the other one , the west , right , and left.
+
+This kind of serve me through the eyes of the earth , in the north pole and south pole. I recognize that I see this kind with the eyes of the ego with the eye. But if I look above or below , I will see the self , the eye and through the eyes of the sky through its eyes. And it 's there where I find the eyes of the dragon.
+
+I 'll say a look at both , I can see the dragon made up with stars , and looking straight to its eyes. I can feel that it 's made with all my fears and potentials. It 's only me , my own decision to decide if this dragon will watch me through the eyes of fear or the eyes of potential. Take a deep breath and perceive how this dragon is coming down in a spiral around the body surrounding you.
+
+Going to the south , reaching the feet. I recognize myself as the tree , with all these apples and fruits representing the wisdom , the love and will. And I allow the dragon to come to me , right enough , watching deep within myself through the tree. I decided to do it with deeper and faster , I allow this dragon to come , in nineteen with its fire , all my body.
+
+Let myself transcend , clean and hold all things. And restoring the fruits as it surrounds it to start an insight on going up. I proceed with the , I perceive this dragon becoming myself and expanding its wings as this torus around my entire self. Take a deep breath and I start to violate as I expand and activate the attributes of this dragon in me.
+
+I am not the heart of the dragon in me. You are the 18th delight of myself towards this torus , the truth of my inner self. I am the eternal ward , I am the eternal ward , I am the eternal ward. I know.
+
+Take a deep breath and in one at a time come back here and now. Take a deep breath and in one at a time come back here and now. Thank you everybody for having accompanied me in this path of this week of the mind of Aquarium. And as always see you tomorrow , at the same time to begin with our week of the emotional of Aquarium.
+
+Thank you for being there.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

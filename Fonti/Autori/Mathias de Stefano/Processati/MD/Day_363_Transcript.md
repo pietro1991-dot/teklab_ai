@@ -1,0 +1,196 @@
+---
+title: "Day 363 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 363
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 363
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - breathing exercises
+  - month holding
+  - month hole
+
+practice_elements:
+  chakra: "Throat"
+
+---
+
+# Day 363 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Throat`
+
+## Introduction
+
+I have everyone morning , good afternoon , good evening.
+
+So today we begin with our last day , our time related to the element of air.
+
+So remember that for the trans-introduction , the air element is related to the Icosahedron.
+
+So the Icosahedron for the Atlantis is the air because it 's the last structure appearing in the five , as Atlantic follow it. This structure is the one that connects us with the skies.
+
+So from the point of view of the Atlantis , the air is the one that flows and touches the infinite. That 's why it 's related to the Icosahedron , which is the last one connecting to the stars. The Trinity of the element air is related to all the topics that we have been working with during the whole year related to Gemini , Libre and Aquarium.
+
+So remember that air , the element air is not only oxygen , the element air are all those chemicals that compose the atmosphere like nitrogen , hydrogen , neon , are all this zone. Our all these elements that feel up the entire atmosphere and eat the atmosphere , which are all the gases that are brought by gravity to the planet to the Earth and creates this atmosphere that protect us from asteroids and stuff.
+
+So all these gases are compressed in the surface of the planet because of gravity. You have to think about the air not only as a simple ethereal or still essence that is n't planet , but actually it 's really heavy. It 's bounce and thousands and thousands of fans of weight that are comprising us towards the ground. We have evolved to not fulfill it because we have inner pressure that helps us survive in this pressure.
+
+That 's why we do n't feel it and it seems like very light and soft , but it 's basically because we manage to evolve in a way that we can handle all that weight.
+
+So it 's not that simple , this element , it 's very heavy.
+
+So this element around the planet is a one related to communication and basically is because it allows the beings to send the messages through vibration and resonance because the vibration of the of the of the of the throat , vocal cords , they pushes the they push the the the air.
+
+So all the molecules move forward and that allows the sound.
+
+So this movement is the one that manifests communication with manifest sound. And this is why the element of air is related to to Gemini , Libre and Aquarium , which are networks , communications and and. Regarding the Trinity of air , let 's remember that the energy of Gemini reminds us about the information , different data information that communicates to one another. Then Libre is the one that manifests the balance , the harmony between all this data , all this information around.
+
+And Aquarium is the is the network created from all that data from all this information.
+
+So is the wisdom.
+
+So this path of ours ends with Aquarium because we are starting the process the times of Aquarium.
+
+So we are beginning a time of networks , a time of wisdom , a time of constant innovation.
+
+So for us , Aquarium is the one that is leading the path of all the projects in the future because Aquarium represents the networks and is the perfect summary for evolution and biology because evolution is basically constant transformation , constant adaptation to something new and biology is a network that is the biology that works in an organic network. That 's why Aquarium is the very good sign for what it 's coming for our times. Well , then , what is this same is that we are intentioning , from here , the creation of on-to-crasse. The on-to-crasse is doing a social system that is much more based in the air element and the sign of Aquarium.
+
+It 's a more organic system based on evolution based on biology and the development of the time we go.
+
+So this is why in this time we are so in the seats to create on-to-crasse. On-to-crasse would be the network of many conscious beings that are working with themselves in a network of evolution , in a network of transformation , of constant transformation. That 's why we are intending to manifest the gear of on-to-crasse with this concept of Aquarium. This is why in this stage out of time what we are willing to do is to manifest the on-to-cuniversity a place for education that is on-to-crasse.
+
+And in these five days out of time , my intention is to sew this seats so they can manifest according to the projects that are coming ahead.
+
+So I wanted to share with all of you the these projects and these ideas that we are going to manifest.
+
+So I share with you the three things that I wanted to manifest here.
+
+So I could manifest the send this information this days out of time.
+
+So the first thing that I wanted to share is to remind you all that that those who subscribe for the event in November in Argentina to go physically either water , fire , air and air group. If you are subscribed for any of those for elements for November , you immediately are part of the of the common , Atlantic cosmonition worship that I will give , I will give this August 13th.
+
+So you can also you can still subscribe for the event in November during the whole month of August , but if you do it until tomorrow , before you will be able to be part of this in August 13th.
+
+So the second thing that I wanted to share is something that we talk about in Egypt , which is those who have gone physically to Egypt to the event in Egypt and to the and will come to the event in Argentina in November and are part of the group 's fire and water on live history groups. You will be able to access to to worship , no , not to worship to to a capacity , an other thing capacity in 2003. We talked about this in Egypt.
+
+So we are putting together all the people going to November to Argentina.
+
+So this capacity will be like kind of a start idea for the university.
+
+So we start to get ready for that.
+
+Okay.
+
+So the third thing that I wanted to share is about this on just university that I am aiming to create to manifest , which is a place online and physical where to put in order all information that we have been sharing during the I am , but much more specifically and and manifest in it as a way , as a much institutional way to share this information with everyone.
+
+So I 'm sharing this with all of you because it is because of you that we are being able to do all this because by you going into our gatherings , being present in our gatherings , being a member of the Arts and Foundation , you are helping us to maintain this ideas and to manifest this university.
+
+So because it is for you and because of you , we want to give you back this energy by thanking you physically , mentioning you as co-founders or seed founders of the Author University.
+
+So you will receive some , some , those who are physically going to Egypt , those who physically went to Egypt and are going to Argentina will receive like a certificate and also your name would be in the play of the university because we thank you for being part of this , for being able to manifest this.
+
+So thank you to all of you.
+
+So also I remind you all that we are celebrating the five days out of time because in 2020 and in 2021 we have been doing a 360 days of conscious path , in which we have been working with 360 topics to align with with the consciousness.
+
+So we kind of tried to make this a tradition.
+
+So all the people that are and that there are join us in the future could follow and understand the whole process of initiating this inner process.
+
+So every year we are going to be repeating posting in the social media every day topic and celebrating every year the five days out of time. For all the new ones that are joining us , this is our tradition , our Arnold tradition. What we are intending is for everyone to be in balance and access with the information and all of that that we have been sharing a year ago. We are celebrating this five days out of time because when you create the perfect sphere of 360 degrees 360 days you have five days more outside.
+
+So this is the engine calendar to explain that these five days are actually a moment to to to so intentions to think about what we have done to think about what we are aiming to do in the next cycle.
+
+So that 's why every year we are getting together these five days to settle these intentions. This past four days I 've been explaining exactly why we are celebrating this five days out of time in different ways.
+
+So you can check those videos to understand why we are using these days. Let 's go with alignment that is related to the element error.
+
+So tomorrow is the day that in a plant in times we used to call in a mum and in this period of time we is also my birthday.
+
+So I 'm not going to do any transmission. I will do my things in family.
+
+So I 'm not going to be going outside. It 's the important personal problem. If you go on process of internal you want to run a sequel you can comment on the other. And I am a little bit like air because I 'm closing cycles and beginning other cycles.
+
+So I want to well it 's also wanted to clarify that in a plant in times it was not always the form of August the new beginning. Actually in among is the is the retelling of the star of series.
+
+So 12,000 years ago that was in another moment. Another time of the maybe we 'd be for or two weeks ahead. I do n't know.
+
+So it 's in this period of time that this star is appearing tomorrow.
+
+So so remember that from tomorrow we begin a new year.
+
+So all intentions , the seeds that we have so this five days out of time must start to be growing tomorrow.
+
+So we have to set intention and to start to move and manifest ourselves in order to make them possible. Fun tomorrow action begins. One. And I need it.
+
+For the marquee on the todos. Hello everyone. We will begin with our alignment today related to the air. Let 's find a comfortable position because our eyes.
+
+We stretch our bodies feeling our presence here and now. With every movement I concentrate in my breathing. I become aware I remember that the word respiration means to come back to the spirit. Inspiration means to get inside the spirit.
+
+To experience means to get out of the spirit. And again I come back to the spirit. Rest , spirit , respiration. The respiration is a cycle in the shape of a spiral.
+
+The spiral is the body of the spirit. The lever spiritual reality is to lead to the spiral in a essentially or the ascension. To be a spiritual being is to walk through the spiral half of existence. Think about all the things that are circle in your life.
+
+Every process , circle , sphere , spiral is where you can find your spiritual path. The cycle of life , the cycle of life , the cycle of cellular regeneration , the cycle of the heartbeat , the cycle of respiration , everything that happens in every cycle has an inner aspect and an outer aspect. I constant process that is trying to shape , to look for a form. This is a cycle process , a cyclical process that we call in formation.
+
+Every sunrise , every night , every wake up , every awakening , and dream is a process of information. Every heartbeat , it 's a process of information. Every path instead we take is a process of information. The inner process of information is called karma.
+
+The outer process of information is called Dharma. I become aware that both of them are the process of inspiration and exploration. This is a constant cycle of formation , of becoming aware. To become a spiritual being , not to get out of the system of circles.
+
+But to remember that I am the circle that I am the sphere. I am the spirit coming back once and again to myself. I am respiration. I feel the movement , restoration , and me.
+
+## Guided Meditation
+
+I feel the movement , restoration , and me. I feel the movement , and me. Holding information that is around life in the universe is coming back to me in every breathing , every restoration. I feel the information coming in while I breathe , filling up my lungs , finding the balance within.
+
+I feel the information that oxygen and hydrogen fills in my body from my lungs. I feel the meat and the meat. Every data , every information that is coming to me that I am receiving along my path. It is finding the balance inside of my lungs , every time that I feel them receiving the air with a deep breath.
+
+All what I have lived when I have perceived by emotions and thoughts is coming to balance. Light and darkness , the good and the evil , feminine and masculine inside outside , heaven and earth. Everything finds its order in the cycle of respiration. I become aware that with every breath I take , the old information turns into a new one.
+
+Every component in the air , oxygen , nitrogen , hydrogen turns into the fruit of myself. The flourishes with energy for them to transform , transcend , evolve. This is a cycle of constant liberation. And in each new information , knowledge becomes wisdom.
+
+And this wisdom expresses for me with this new cycle of expression , experimentation , integration , transcendence. And I find the balance between all things through the truth. And it is so that I am able to set my truth free to my voice , my air towards the entire network of consciousness. I take a deep breath and exile with a mouth.
+
+I repeat this breathing once and again feeling the cycle of the spirit. And I set my truth free , my voice. I clean my truth , I expand my inner voice with eternal ver. Let the eggs through the air , my truth , with entire world.
+
+And I change my heart. I am the air , I am devised the truth to net. I am the freedom of the spirit , inspire , inspire , inspire. Inspiration , inspiration , inspiration , inspiration , I am there.
+
+I am going to start to come back here now taking deep breath , stretching the body and joining. Thank you everybody. And I wish you all to begin a year.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

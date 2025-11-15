@@ -1,0 +1,278 @@
+---
+title: "Day 275 - Portal Opening"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 275
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 275
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - energetic alignment
+  - portals
+  - consciousness work
+  - crown chakra
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 275 - Portal Opening
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hello , good morning , good afternoon , good evening to all of you and have a happy portal day 5-5.
+
+## Energy Work
+
+So for those who do n't know today is a portal , the portal 5-5 is a code that at least for myself through my life have been a code that represents manifestation that represents to do things like make them possible to happen.
+
+So take benefit of this , the energy of this day to make it happen and I would like to explain why today is a portal day.
+
+So I 'm so explaining what is a portal day.
+
+So a portal day is basically a day like any other. It 's a normal day. It 's just that the area of this spinning we 're going around planet around the sun , sorry , and that 's it. I 'm sorry , but that 's normal.
+
+So what is a portal day and why is this special?
+
+The reason why a day is special is because we people with our consciousness , we see something weird in the numbers and we see that , oh , this day is like a bit different.
+
+So everyone , I 'm a things and see that code everywhere.
+
+So that 's why everyone starts to think about this and during this whole day , a lot of people in the planet think about that code , that number.
+
+So that 's why the network is created , the consciousness is expanded and that helps to the stream of information that helps to manifest.
+
+So it 's basically a network of the thinking network or the thinking consciousness.
+
+So it 's all about codes. Yes , it 's not dated to the calendar because the calendar , our calendar is terrible. It does n't work. Our calendar is messed up.
+
+So this calendar that we have today does n't have any special , anything of transcendental nothing.
+
+So that 's why it 's not because of the calendar , it 's not because of something important in between dimensions. No. It 's all about a code that we all share.
+
+So basically , basically , it 's like the dates that I am using , like February 2 , 2020 and February 2 , 2022. Those dates nothing happened really. But our chosen because of the meaning of the code and a lot of people got together , get together in order to connect that information.
+
+So we can create and manifest an idea. And of course that all the information that people can say about this dates , like a new information is down from some dimension or whatever. Of course that it works. It works because if a lot of people is thinking about this same , so that 's why it can happen.
+
+So it 's like killing the magic again. I am this spiritual person , the most spiritual person that is less spiritual person than you can ever meet. I remember that we are in the places , the solid places. But I just forgot , and Spanish , I just forgot what was the topic for today.
+
+So I was just saying that people know me as the remember , but the people that really know me , they know that I am much more closer to Alzheimer than remembering.
+
+So this thing that I said about Alzheimer is just an inner joke that is related to a book that I wrote that is only in Spanish , not in English , in the R. C. M. Campus , which is the great heritage.
+
+And the book starts with me being all having Alzheimer. That 's why I said it. Strength. Strength is one of the topics that is related to what is happening right now in the world.
+
+I wrote today about kind of the situations that many of us are leaving in the planet. And for example , related to what is happening now in Colombia , but of course is something that is not only from that country , it 's from everywhere. Of course , we have been looking into what happened in Venezuela , what happened in Chile , in Bolivia. And of course , other countries in different levels like Ecuador , Brazil , Argentina.
+
+Mexico , the United States also happened something this past years. And well , France is used to do this kind of movement. But we have been watching this in entire world and all this chaos in Asia and Africa. What we are looking at is this global situation in which , in which the systems are using , the systems that we have right now , were useful because we created them , where useful until the moment in which humanity started to go into another level , into another level of consciousness.
+
+So we started to get beyond our limits.
+
+So we are discovering right now that the systems that we have created are no , not the best anymore. And actually , this is a very philosophical talk or point of view , but the main reason why these things are happening in the world is because of the three main things that that three main things that humans need to sleep , to have food and to feel safe.
+
+So these three main things are the ones that are moving all these things in the world. It 's not because of a philosophical idea of transcendence. Most of the people are not thinking about ideologies. Are thinking about living , surviving in the world.
+
+And when we , when we take this , this concept that people is fighting for because they want a change of the system , is not , that 's where we call populism. The populism is the one using ideologies in order to hold people into one only idea. But really , it 's not like that. The main thing that people need are these three things.
+
+To feel safe , have something to eat and where to sleep. And the systems can not support that anymore. And that 's why we are having these problems. And that 's why we have to answer in these philosophical concepts that takes us to understand that the systems that we have are no longer useful for us.
+
+But this is not a discussion that you have to make with the people that is in the streets right now because what people are protesting is about the three main needs. That 's the main concept of all the movements today.
+
+So we have to rethink about this philosophy to make it practical.
+
+So of course that what we are doing here during this whole year is trying to reach philosophical concepts that can help us to understand how to how to act in the world , how to go into practice without being in ideologies. But just having an inner growth in order to act and to do things.
+
+So we are doing this for then become practice to make it practice. This is not to push the people to become aware or to make the people be aware of the philosophy and so on. No , it 's not that. It 's about how to make the people that can think philosophical about the change to give the tools for the people to roll their lives by themselves.
+
+That would be the main thing. Yes , it is located in Kverkkoen La Fortaleza. Locals a lot of oil and the election , I love Fortaleza. What I wanted to say about all this relation with with strength is that strength is something that we have to made up that we have to build.
+
+And there 's something that makes us be strong. We do n't have to wait for others to do the same. I would say this example.
+
+The reason why we think that the world has to become aware and so on is because we are in that path. We are doing that path. That 's why we believe or think that the entire world has to do the same and become aware.
+
+So I will do this example that maybe people will say how is possible but some of my friends did. I do n't like beetles. The beetles , the musicians. I do n't like beetles.
+
+I ca n't hear it. It 's like , beyond me. I ca n't.
+
+Sorry. But the thing is that some people that love music , that are good musicians , they push you to hear this kind of music because it 's like the basement of air. If you do n't like beetles , you do n't like music. It 's something like that.
+
+The idea is that some people believe that you have to love something that they love in order to be able to really love music. But I can enjoy music even if I do n't like the beetles. This is exactly the same that happened with people that work in consciousness.
+
+Sometimes , we are willing for the people to wake up and to do exactly the same as we do in order for the world to be awakened and it does n't have to be like that. Simple. Most of the people are not here to wake up. Are not here to do a consciousness process to wake up the humanity.
+
+We do n't have to push those people to become aware of the things. As an example of what we are doing , I 'm saying that we are talking about philosophy. The thing that we are having is ideologies.
+
+So we share ideologies. I 'm talking about a philosophy. It 's not practical what I do. But we are willing to make this practical.
+
+I was given the example that , for example , what usually we do , I am doing. And many politics are doing like the populism of right and left or center. That 's not their ideologies. Most of the ideologies that we have , philosophies that moved people.
+
+What they do is to explain things. But not manifested. Like for example , I can tell you that this is a board. What you can write with some ink that that you can write something with that ink and then you can erase it because it 's water proof.
+
+Sorry , it 's water based.
+
+So you can write whatever you want here with that kind of pens. But I am just explaining that it 's philosophy , it 's an idea. The difference is if I come here and I say look at this. And look , I erase it.
+
+## Q&A
+
+So maybe the people will know that they can use this and some of them will do the question. Why can I use it and why can I erase it?
+
+So then I explain the philosophy or the idea behind it. I think that is water per blah blah. Water made and blah blah.
+
+So the thing is that usually populism which is philosophies , movements made out of ideas. Like us , we are doing that. I am teaching philosophy. I 'm not teaching practical things.
+
+Okay , so I 'm not saying them. I 'm talking the same. I 'm doing this.
+
+So what we do here is to explain things that you can touch that are just ideas. It 's beautiful when you say it , but it 's not practical.
+
+So what is the goal? The goal is to make it practical. What we are doing here learning all these things. We are talking about this philosophy because you have done the question.
+
+So I am trying to explain the answer. But once you have the answer , then we have to go and act , put action and it manifests it , do it. In order to solve the main three problems of humanity , food , security and a place to sleep. For the rest of humanity , all these philosophy does not matter.
+
+For most of humanity , these main three needs are the base of everything.
+
+So the ones that did the question needs to take this information and then to manifest it into projects. Wherever they are , whatever they are. It 's not about a manual. How can we do it or where can we start?
+
+Or what can we know? Each one of you has a potential insight. We are learning that that you will know how to manifest it , having all this philosophy.
+
+So once you have it , you start , you do it.
+
+So this is the goal of making a philosophy into action. And then people will ask how we did it. And then it starts the philosophy.
+
+So if you look backwards in history , there was no revolutionary reason done by philosophy. Even if the philosophers are the ones remembered because of the revolution , is because they put it an action. But the revolutions were not done because of philosophy. Like the French Revolution , the French Revolution , was not because they wanted the Republic.
+
+It was because they wanted bread. They were starving. That 's why it happened. And then some philosophers took the moment to say , we can do this.
+
+We can do the Republic.
+
+So it 's because of the three main needs that the philosophy have the opportunity to create a new way. But it 's not because the people is asking for a philosophical change in life. Most of the people are waiting to survive at the end of the month. What we have to do is that we have to awaken our own selves.
+
+We have to awaken our own potential in order to know how to manifest and new way for people to have food for people to rest and sleep well for people to feel saying. And then because of that people can start to make questions. Philosophical questions.
+
+So what I really think to the COVID , the coronavirus , is that this virus is showing all the bad things of this system. And this is really good because it gives us an opportunity to rethink this philosophy in which we believe in , which we live in. This is what brings us to strength. Strength is the key to build what we have to build in this new times.
+
+When we see this world that we have now , we usually believe that in order to change it , we need to unify our strength. Like Union makes this strength. And I 'm so sorry , but it 's not this is an old idea that was born 5,000 years ago in the age of tourists , where you have to fight in order to have things or to win something. We usually are , in that time , 5,000 years ago , the design of the civilization were done according to the unity of people that were fighting for territory.
+
+That 's the main idea of the unity or the union makes the strength. And that is the thing that we have been going through in all this history. And we still believe that in order to fight for something or to earn something in the future , we have to fight for it. And we need the unity for strength.
+
+We need this strength in ourselves in order to be stronger to fight against whom , the government or whoever. But I 'm so sorry that this is not like this in the age of a queries. In our new time , it 's not about fighting , it 's not about this kind of strength. This kind of strength has come from the alpha male in the past idea in which someone has to be strong enough in order to win a battle.
+
+This is why we have been calling the stronger wins. The law of the stronger one.
+
+So this idea of the stronger one is the one that has been designing our concept or idea that we have to have strength together to fight against someone in order to set ourselves free. And sorry , I will kill the magic again. And there is no one to fight for or to fight against whip. The thing is that I will say this.
+
+Retelian people , they all died. They do n't exist anymore. But died. Illuminate.
+
+They only existed in the 18th century. Then they became scientists and others. Free madison. We know about them.
+
+They became politicians. And universities. There is no one really controlling us.
+
+So I would recommend that we stop looking for someone to blame. And we start to work for ourselves. This is why we are here in the path of the AM. There will be always someone willing to have the power over the others.
+
+And that takes us to understand the word power that I explained that today in the block. Power comes from the word puts the means Lord Master. What puts means to be the Lord the Master , the owner of something or someone.
+
+So this is for example when we talk about the outside which is different. Power in the outside is related for example with taking away our will. It 's ruling and being the Master of something outside. This is when we speak about the power of politics or the power of the government.
+
+When we say that it 's because group of population gave total power to someone over the word of people to rule their destiny or to rule their will.
+
+So we spoke about this in the month of Leo that some people used to put their power upon the other people when they do n't have the power within. And they do have the inner power inside. That 's the real problem , the power.
+
+So the question is why people give the power to others? Why we lose the power and give the power to others? Basically the reason is because we do n't have strength.
+
+So as I said strength is not the unity of people in order to fight against someone. Strength is the construction of your own being. Stand still. This is how they work.
+
+I have a very difficult dream. My mom said recently. Let 's meet Ar ois to freedom that protect us from fear. This we call a fortress.
+
+A fortress with fortresses. They were fortresses and fortresses. Structures , very firm. Very extreme firm.
+
+That they were implicated.
+
+So the idea of strength is the concept of having all the things very tight one to another.
+
+## Energy Work
+
+So they do n't move. They have a very perfect structure. Strength is the origin of the word strong , of course. But the English relates also the root of this , of the Spanish word with inderapien.
+
+With the reach , that means mountain. Why? A mountain is really difficult to move. It 's something that is all tight together , all the rocks , tight together , strength.
+
+All put together.
+
+So that 's why in all times they used to build these constructions around the mountains.
+
+So the people could feel secure inside. And they would make these towers around.
+
+So the people could protect and let know the others if something wrong is happening outside. That is the origin of the word fortress. In Spanish strength is fortaleza. And in English , we have the same word which is fortress.
+
+The fortress is to protect. It 's a structure , very rigid , that protects. And also this tower is the half what we call the forts. The fort is a place that is really strong where you can protect the others , the people.
+
+Where you can see beyond.
+
+So what this means that strength actually means a structure of many things that are very tight and you can not move. The autoconocimiento , the autodesa roll. It 's what controls the pillars of this fortress gives you a sight. The self awareness.
+
+The self development. Knowing yourself is what starts to build the fortress that I am. You know that sentence that I do n't know exactly the sentence , but this sentence that this quote that people used to say , that if you want to rule a nation or rule some people , you have to raise their history. Hide the history from them.
+
+So that 's like that. When a person , when a group of people does n't know their own history , does n't know themselves , they lose all the strength. This is why each time , every even more in our times , education is much more about superficial stuff , things that they are not really deep , just knowledge. Why?
+
+Because even education , we teach a person to know itself. It gains strength. And this cover the inner power.
+
+So it 's free.
+
+So remember that there is no war that you can win , putting all the people together , creating strength against someone. The only way you can really gain strength as a being , is if you know yourself. When I know myself , I gain power. When I become an ignorant , I give the power to others.
+
+Okay , let 's go to the alignment. The liberation for today is weird. This thing in for today is I am origin of call entity. The code for today is the Antarctic Ocean.
+
+Surrounding the Antarctic continent , the great mass of call war that flows in circles being the foundation of the Atlantic Pacific and Indian oceans is the Antarctic Ocean. Contain between the islands of sandwich , George 's , Marion , Kergelen , and the Seas of Scotia and Ross. This ocean is the biggest algae and plankton producer , foundations of planetary oxygenation. It 's existence or each and is from the expression of the octahedral geometrical pattern.
+
+Sit comfortable , close your eyes , and concentrate in your breathing. I become aware of the space that surrounds me. The body that I inhabit on my own body , is the most important thing in my life. I become aware of the space that surrounds me.
+
+The body that I inhabit on my own body , runs me , the body that I inhabit on my own breathing. I use my imagination to see how this space around turns into a deep , black , infinite space , in which I find myself hesitate in the center , in the void. And softly I start to move my body , there is low , like dancing , tracing this space , the air , acknowledge it , stretching every direction. I start to come back to myself , there is soft.
+
+Put yourself in the position , inside of a womb , dragging my legs , receiving me a deep , fixing out of my legs , I just hug myself , would take my hands strongly. I recognize you as a symbol of the great love of life , the love of the universal , with the potential , and to convert me into a new love in a new reality. I recognize that I am the seed of the universal tree , the tree of life , and that I have within the potential to become a new tree , a new reality. I set the intention to grow into the common universe , and take a deep breath , and perceive a ray of light , coming from this sky , surrounding all my body.
+
+And I contemplate this ray of light , the coming and drop of water , a big one that comes straight to my body. I can perceive how this drop of water goes through my crown , my tear on , my throat , my heart , and starts to be absorbed by my plexus. I do n't perceive the source within me , connecting me with the resonance of the entire universe , activating the energy that flows in me , expanding the londons that I have within , recognizing the plexus , this strength of who I am , and becoming aware of this strength within , I recognize that the only way to keep it , and to build it , is they being responsible of each one of the aspects of my being. This strength is what builds the thing that I am.
+
+Softly , I accompany the energy of my strength from the plexus to my hands , going out of my body , expanding through it , in my hands , become in the leaves. I 'll open my body into expanding my legs and arms to the sides , opening it , the seed , like two catalodons , letting the roots grow from my feet. And the leaves in my hands , I take a deep breath , a psych 's tent , my arms , like branches , my fingers , like leaves and flowers , and my legs to the ground , like the roots of this tree that I am , and I recognize myself strong , like a note. I expand this strength through the entity that I form.
+
+I am the origin of all entity. I am the origin of all entity. I have this strength in me , I have my hand , I have my hand. I take a deep breath , and each one at its own time can not hear and not.
+
+## Q&A
+
+And for those who are doing the task for this moment , with all this energy , I take the water and pour it on the seeds that I have. Thank you everybody for being here , another day , and it 's always you tomorrow , at the same time. Thank you.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

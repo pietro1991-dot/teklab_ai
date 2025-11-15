@@ -1,0 +1,236 @@
+---
+title: "Day 83 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 83
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 83
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - crown chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+  - month hole
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 83 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone , how are you? I hope you 're okay , so we can begin with the day of the trip.
+
+So I hope you were able to read the blog today.
+
+Today 's post was about silence and sound.
+
+So according to silence and sound , I was thinking just thinking if it would be nice to just make one hour of silence right now. But I 've been shut up the whole day , so I guess it was big.
+
+So to begin with this concept , we have to remember that we have spoken about certain things related to this polarity , which is like everything and nothing , the whole and the void. We have been speaking a lot about this because we are in the month of polities. What we are here doing is trying to understand both sides what we are trying to put together to understand.
+
+So we usually take these concepts like opposites to each other , like the whole and the nothing. But we spoke in previous videos how the everything was born through the nothing.
+
+So according to this , they are not opposite , they are complementary. But also this means that if the universe for us is vibration , so it 's sound , the vibration , the sound should come from the silence.
+
+So how is possible that something that we call sound , that we that violates , came from something that does n't exist , which is the silence. The first thing that we have to acknowledge about what we were saying all this time is not that the things just appear from nothing. Because we have this simple way of thinking , this simple way of looking into life , like if there is an origin and there is an end , that something begins and something ends like in our life. It 's normal for us because of course we have , we live in that way , but it 's not really , it 's just a concept for the universe , nothing really ends , everything is a constant.
+
+So this means that when we said the everything was born through nothing , it 's not that nothing was the very beginning of everything. It means that nothing and everything is kind of like what we call die and rebirth. Being born , die and rebirth.
+
+So it 's a constant that never ends.
+
+So we would say that the nothing gives birth to the everything and then everything dies and rebirth again in nothing.
+
+So it 's nothing , everything , nothing , everything , nothing , everything , nothing , nothing , as we also are doing here in the matter. This is why we should n't think about the universe as the beginning and the end of things. We have to think about the universe as a constant , as something that is constantly happening all the time.
+
+So of course that for us to say that there was an origin of everything is something that makes us more relaxed. But what really happens is that the universe never really begins. The universe is constant all the time. We have spoken about this in another video , I do n't remember which one , but that we as humans , we have need of finding an origin and an end of something because we have been living through that by being born as an origin and by death as the end of it.
+
+But for the universe being born and being dead is just die is just a transformation of the being of the self. It 's not , it 's not different things.
+
+So if we recognize that the everything we can recognize from this that the everything is basically vibration , everything exists because of vibration.
+
+So the everything basically is different vibrations. That 's all that exists , that 's all what it is.
+
+So vibrations are the ones creating the existence that we can feel and we can perceive.
+
+So the attribute of vibration , we may call it sound , but it 's not this sound , it 's not the sound that you hear , the voice , no. Vibration is this , something vibrating , moving , possibly.
+
+Sound would be the attribute of vibration.
+
+So two things that violate , when they attract to each other , they create a sound.
+
+So sound is not the vibration itself.
+
+Sound is the attribute of the things that violate.
+
+So it 's the way in which you can perceive vibration.
+
+Okay , like when you have a thunderstorm , lightning , it 's by positive and negative vibration that joins together and they create light and sound.
+
+So basically , how how the vibration starts to create all the things.
+
+So the vibration starts to move by positive and negative in different frequencies.
+
+Remember that we have spoken about this in other videos that that that frequency is the expression of time of vibration.
+
+So it 's like a storm in the sea.
+
+Okay , so the sea is the vibration and the different waves of the storm are the frequencies.
+
+So the frequencies would be the time expression of the vibration that will generate many options of vibration that according to their resonance , they will sound according to their resonance , they will attach each other and create shapes and realities that we see now.
+
+So this is basically how the atoms will be creating those by joining them through the vibration , through their charges of vibration.
+
+So this is why everything that exists is basically vibration , but from where this vibration comes from.
+
+So basically this happens in this way. Imagine that the universe is like a very flat lake that the agency any movement.
+
+So suddenly you decide to throw a rock and the rock starts to move the water.
+
+Okay , so this movement creates different frequencies , which are the waves.
+
+So this frequency is distortion , the reality of the lake creating patterns that you can see.
+
+So this is how you could see how vibration starts to create the patterns of reality. Watching this image of the lake where we can understand now is if we understand that the movement of the is the vibration creating frequencies in different levels of frequencies and the patterns that of reality that you can see. All of that when the water goes back to balance , no movement at all.
+
+So what happened with the vibration just disappear? What is really happening there? What we are going to acknowledge about this is that the water is the vibration.
+
+So the vibration does n't disappear. The only thing that disappear is our ability to interpret the vibration. Because the only thing that made us perceive the only thing that made us perceive the existence , the vibration was frequency.
+
+So frequency is time.
+
+So without time we can not perceive reality. We do n't exist. Any pattern exists. We are nothing.
+
+Without the movement of time , the ripple of time. The vibration is static. And the static means status that means to be stable in one place in the same shape.
+
+So basically what this means is that silence is not opposite to sound. Silence is basically all the sounds , all the vibration without any movement. Everything is there because it 's water. Everything is there.
+
+But there is no time. There is no frequencies.
+
+So if you do n't have frequency , if you do n't have time , there is no way to perceive distance. There is no way to perceive the sound. There is no way to perceive reality. Nothing.
+
+So what is basically sound?
+
+Sound is the attribute of vibration manifesting itself in different levels of frequency. That is silence.
+
+So silence is all the vibration without expressing any attribute. When you make a sound , when you express a vibration , what you are doing is setting an intention. You are pushing your vibration towards a direction. What it does is to create a limit.
+
+It creates a pattern.
+
+So you are stuck in a pattern that you have expressed.
+
+So while you talk , while you create the movement , starts to create patterns around that will limit your expression. You will be able to create and in the other hand silence is the ability to perceive all the directions , to perceive the whole lake. Everything. Not just one goal , but all of them.
+
+So basically this is why when we feel that there is too many things inside of us , we say there is too many noise within me. Too many noises. This does n't sound good. And when we are trying to find all the answers within , what we do is to mediate in silence.
+
+So this is why we say you have to go and mediate within in silence and to find the vacuum , the void within in order to find the answers. And maybe you would say , but how is possible that the void , the silence , would have all the answers? And how is possible that we have said when you reach the void , you feel fulfilled. You feel a latitude.
+
+How is possible to feel plenty in the void? And basically the reason is because the void is the biggest everything that you could possibly imagine , but that does n't express its attributes yet. That 's what happened. The void and the silence is the everything that has n't been expressed in attributes yet.
+
+## Guided Meditation
+
+This is why we have said in other moments , the importance of listening , the importance of silence when someone speaking. Not because only for respect , but also for meditation , because when you are silent and you practice to listen to the others , what you accomplish is to listen to yourself , to be able to listen to the truth and the answers that you have within. That usually you do n't hear because you talk too much.
+
+So they are silenced by the ego.
+
+So basically we can understand that sound , all the sounds that we do , all the shanties , everything is the expression , the experimentation , the manifestation of the patterns that are creating and transforming our realities. And silence is a tool that allows us to , that allows us to assimilate that information , to integrate that experience , to bring awareness to where we have created. This is a weird really weird like a song , a reality is like a song where the silence in the song are even much more important than the sound itself , because the spaces and silence between the notes , between each part , the pulses that you have between the moments of tension and moments of resolution of the song are the ones that makes the song so important , because they are the moments that you can assimilate the sound. During the whole song , your brain is trying to understand when it 's going to be the tension , how it 's going to be the resolution , even if you are not thinking precisely about that , your brain is doing it , it 's constantly trying to match and to understand the pattern of the song.
+
+And in silence of the end of the song , the brain relates and comes to everything. This is why the silence is the one that helps the being to assimilate all the information , all the data. This is how the silence becomes the inner catalyst of all the information.
+
+Remember that everything that you call sound in the outside is not something coming to you by sound is basically the interpretation of your brain through the vibration of your inner ear.
+
+## Daily Practice Elements
+
+So this is basically why the sound is the tool to transform , to create , to manifest. And silence is the tool to assimilate , to integrate , to be aware. The vibration for today is She. The statement for today is I am coherent evolution.
+
+The code for today is undecided , that is a group of 11. When the ability of being in the divine is reached , the creator is acknowledged. And he observed as create imagine them as cell that projects all its potential generating a new one , metals. The division process of a cell of a sphere into an identical one , a mirror where it can contemplate , project , see , feel , leave , share , God and goddess , pattern and matrix.
+
+So I had one , one , you 're just like , I ca n't hear anything.
+
+So , when , so let 's go to the alignment.
+
+## Q&A
+
+So there was some people doing some questions about some things that I had already explained in some other videos.
+
+So my advice is , or homework maybe , is for you to read it , to read or to listen to the 80 videos that we did before.
+
+So , I do n't know if you are going to do it to catch it up , but no , you ca n't , you can do it whenever you want. There 's no rush , but just letting you know that that information is in other videos.
+
+So that 's why I 'm not answering them. I wo n't finish. Start to stretch the body , sitting properly , sitting comfortable , sorry , with your legs straight. Start to dawn , to massage.
+
+I start to let all the weight of my body fall. I start to let all the weight of my body fall down , relaxing and focusing only in your breathing. I begin to move my toes. The foot , pay attention to the left foot.
+
+Start to move the foot and your ankle in circles. And there is soft , pay attention to each movement. I bring my attention to the left knee , pay attention to each one of the movements. And I go up , pay attention to keep by the left side.
+
+And I start to move the leg by the hip. I go on the side to another. I go up , stretching , pulling the body towards the left , feeling the pressure and the waist. I 'm coming back to the center.
+
+I start to bring the movement to the fingers of my left hand. And doing circles by the wrist. I go up , pay attention to the movement of my elbow. And I go up to the left shoulder movement in circles.
+
+There is soft leg. I bring this movement to my head , doing circles towards the left by the neck. And there is soft leg. I start to move the head towards the other side to the right.
+
+I descend my attention to my right shoulder movement in circles. Very soft. I start to move in circles. The elbow.
+
+I start to move in circles. The right hand , wrist and fingers. I start to pull my body towards the right , feeling the pressure and the waist. I start to descend by doing circles with the right hip.
+
+Moving the leg right left , up and down. And I descend moving. Moving the right knee , paying attention to the movement. And I descend moving in circles.
+
+My right ankle , foot and toes. Take a deep breath and relax , feeling each one of your joints. Take a deep breath. With my two hands , fingers of the heart and the ones you used to point.
+
+You start to raise , massage all your throat and neck from the front. Begin by the jaw. Going down. Take a close.
+
+By the sides of your throat. Doing very soft movements , up and down , down and up. As I do the massage , I perceive the light and consciousness of the I am. Starting to go within my body.
+
+## Energy Work
+
+Take a deep breath and proceed to come down through the crown , the third eye. And anchoring in the throat. Near the core. In the zero.
+
+As I do the massage. I start to pronounce the sound. Taking a deep breath. And bringing the sound towards the mouth.
+
+Like I raised him and messaging the throat. Come down , up. And bring the sound towards the mouth. And bring the sound towards the mouth.
+
+As I pronounce the sound , I allow myself to perceive , to feel , the cords vibrating. I am the coherent evolution. I am the coherent evolution. I perceive the light and the consciousness to start to go down through each one of the joints of my body.
+
+So I go with it , my crossing , messaging each one of the parts of my body. LAUGHTER I need to get the нет about between the bones of my gently raising head. And come back here now opening your eyes. Thank you everyone for being there and remember to drink a lot of water and write to simulate the information.
+
+So remember the importance of listening and silence. See you tomorrow for the heart. Bye.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

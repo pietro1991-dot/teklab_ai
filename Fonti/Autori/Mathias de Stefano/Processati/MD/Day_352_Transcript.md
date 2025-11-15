@@ -1,0 +1,284 @@
+---
+title: "Day 352 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 352
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 352
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - constellation work
+  - month hology
+  - month holy
+
+practice_elements:
+  chakra: "Root"
+
+---
+
+# Day 352 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Root`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening.
+
+So today I am in a different environment , of course , can because there are two weddings and in front there is a baby crying.
+
+So that 's environment. The good thing about this is that I know that these are my last weddings , because this is the last weekend that I 'm going to be exactly here.
+
+So I do n't have to change many things. The room and so on.
+
+So yeah. I am right now feeling a bit of a kind of an existential conflict because a part of myself wants to leave. Do n't want to stay here anymore. Want to leave the country.
+
+But another part of me is like if does n't want to go , but I do n't know , it 's part of emotion because it 's not fear , I do n't know how to describe it , but actually it 's like if I do n't want to face the world.
+
+So it 's weird. The feeling that the topic for today is a existential , which is existential consciousness , what we are going to speak about. And I was just thinking about that today that I was feeling like in this tiny crisis of existentialism , meaning that I am willing to leave the place. I 'm tired of being an Egypt.
+
+I do n't want to be an Egypt anymore. I want to go out. But at the same time , I do n't want to leave. But not because I want to be here , but because I do n't want to face everything that the world has today.
+
+When I start to think that I have to face all the CR tests and all these things in Europe , I 'm then going to East Turkey , and then go to Kyrgyzstan , a country that I have never been in.
+
+So I have no idea what I 'm going to find.
+
+So these kind of things are like messing with me right now. Like I want to go out , but I do n't want to go out.
+
+So also something that happens to me is that even if I was born in Argentina and part of my trip is Argentina , I was born in Argentina , and I know I have a mission with the country , but I do n't feel from there.
+
+So it 's not like I am aiming to come back. I 'm not coming back anywhere. It 's like I 'm just going to Argentina , but it 's not coming back for me. It 's weird.
+
+Like when people say you will come back home , for me is not home , for me is a nice place where I can be , but I do n't know. I do n't know if it 's weird , so it 's not , I feel this moved , going anywhere.
+
+So it 's really weird.
+
+So I think that being here 360 days have been changing a bit , and perception of how to move through the world.
+
+So from this point of view , let 's talk about existence. Of course it 's been tough to be alone here , but I think connect to everyday all the time with many things. But the real exam that we 'll have is in August , when I go to the North Pole , and I will be two weeks , 15 days alone with no connection , and even in WhatsApp.
+
+So I do n't know how I 'm going to handle that. I have no clue where this is going to take me.
+
+So a simple image of how to make a difference between two key words.
+
+So two main key words. Two exist and two destiny.
+
+So what two exist means , it means X go out , start it from where I am.
+
+So to go out from where I am , to destiny comes from the word de ar e , that means to go from one place to another.
+
+So what it is to exist , exist is to go out from one spot , but no clue where am I going to. To destiny , destiny is to go out from one spot , but having for certain that I am heading to another one.
+
+So now we know the difference , let 's talk specifically about exist.
+
+So when we usually talk about existence to exist , we used to relate it with the verb to be or to stay. And this is because one part of the verb to exist and code that word , start it means to be or to stay.
+
+So because of this , we usually relate to exist with this verb here. This verb to be and to stay is a binary concept in a mythology. Because this verb is actually trying to explain the origin of this word. It 's trying to explain in a binary concept if something is there or something is not.
+
+So that would be just the reason why this word exists. This verb is to describe , exactly when there is a sentence , you need to describe the things that the topic that you are talking about is actually there or is not there.
+
+So you have to describe this thing first to keep going with explanation.
+
+So that 's why this verb has been born because of that.
+
+So where comes the concept of existence? The concept of existence appears when this being here , this position here , the zero turns into one.
+
+So existence is not defining the position of being or not being. It 's defining the process from going to one spot to another.
+
+So existence is not defining the states. It 's defining the process.
+
+So I hope you get this.
+
+So we have here that to exist is that process here.
+
+So it would be to go from one spot to another.
+
+So existence , remember it 's not defining the path from going to the zero to the one.
+
+Okay , is defining the process itself.
+
+So it has no clue where it 's going. It just leaves one spot. But has no idea where it goes.
+
+So here we have a very important clue to understand in this. That we usually believe that we exist because we have a destiny. But the universe with this explanation is telling us something different. He 's telling us that our destiny is to exist , which is very different.
+
+So pay attention to this. We usually believe that we exist because we have a destiny. And the universe says , oh , your destiny is to exist.
+
+So let 's go. Understand why.
+
+So remember that yesterday , we explained that the universe is this one reality that expands itself to experience different things. And it 's spread in different options.
+
+So it exists. It exists. And the only thing that it knows is that it 's coming back to one. The universe knows that it 's coming to itself , universe.
+
+So it 's not actually going anywhere. It 's not actually going anywhere. It 's just the same spot. It 's just the same place , the same thing.
+
+So it 's on destiny itself. It does n't have to go anywhere. It goes out. Why it exists.
+
+## Q&A
+
+So here 's the existential crisis and question of why the universe exists. It 's destiny itself. Why it exists. Where it goes out.
+
+So in order to understand why we exist , we have to remember how we see the universe.
+
+Remember that there was a little person here , a human , that moved through a horizon , reaching a spot in the map.
+
+So we are nomads and we move through the horizon searching for this holy place. And this creates the idea that we come from one spot , reaching a destiny in front. This is a point of view that we humans have because we have been developing here in this world.
+
+So we see everything like that in the line.
+
+So remember that the reason why as a human we move forward and we are looking for something in front is because usually we have a problem here. We have a problem in the point of origin.
+
+So we start to move forward to leave the problem behind and find a solution.
+
+So here 's the problem. There 's a solution.
+
+So I have to go and figure out how to solve that problem. And this has been designed in our minds through millions of years of experiences of having problems in the place of origin.
+
+So whoever starts to travel going away , going out , we start to look for new things in front in the horizon , we move forward. Always looking for solutions.
+
+So these experiences on earth has created in our biology. The idea that we always have to move from one spot to another in order to find a solution. If we have a problem , we have to find a solution in front to keep moving forward.
+
+So what we have done with the universe is to take the same things that happen in our planet , our species and put it in the whole cosmos. Like if also here the universe has a problem , has a question , and in front has the answer.
+
+So it has to move from one spot to another to find the answer to the problem with solution.
+
+So what do we think that the universe does , that the universe has a problem , and it will reach many different ways and experiences to find tools to solve the problem. But here the universe , the universe , does n't find a solution here , because the universe goes out from one spot and turns and finish its trip at the same spot.
+
+So it is not going to somewhere else to find a solution , it is coming back to the same spot. Because in the universe it is very different from what really happened in the human life in which we go from one spot to another to solve a problem or to have a solution like we come from the desert to find an oasis. The universe goes from the same spot and comes back to the same spot , it is universe , comes back to the same spot.
+
+So it is not the same.
+
+So the same thing that comes out from here is the same thing that comes back here.
+
+So actually for the universe , the goal is not here , it is here. The goal actually for the universe is to go out , is to exist. That is the only goal , because it is coming back to the same spot.
+
+So why the universe would go out , why the universe would go out , would make something if the destiny is exactly the same. But basically because the only goal in the universe is to exist , which is to go out from itself to experience , to leave. To sense , that is why the entire universe is assigned in order to keep going , keep moving , to living , experiencing , once and again many things.
+
+So this is why for the universe , the destiny is not to come back to itself. The destiny of the universe is basically to exist.
+
+So now the thing is that if this one being is coming back to this one being , so the only goal is to come back to itself. This means that this being has never been created something outside itself. It 's not that there is something out. Basically , this one is reflecting like in a mirror.
+
+Like if we have a mirror here , and the only one being is reflected. And by this reflection , this one here , the being , is projecting itself within into the outside. It 's projecting itself into the outside. But actually nothing really came out of it is just a reflection that is being observed.
+
+So anything that exists in between really exists , it is just a perception.
+
+So I said basically this only one being , it 's only objective and reality is to come back to itself.
+
+So actually , he never came out of itself as a physical thing , but it projected itself towards the outside.
+
+So it 's goal is not to come back here because it knows that it 's just a reflection. The only goal is to exist , to show and project what it 's inside towards the outside. Hmm?
+
+So for example , in the middle , we have time and space. Time is something that can not be measured. It 's something that we can say it does n't exist. Because you can not touch time and time is different depending on where you are.
+
+In this planet or another , it depends on the gravity , it just changed.
+
+So it 's all changed.
+
+So the time is , it 's , it 's , how does it say this word , relative to the place where you are. Time is relative.
+
+So it 's not actually true. And space also is not real because space is 99 % void and only 1 % matter.
+
+So actually this space is this relative feeling that. That works with our perception. We perceive smells , touch , colors. We listen , but all of that are just a perception interpreted by our brain.
+
+And our brain is just a way of this 1 % organizing itself in order to understand the environment.
+
+So actually nothing in the space is real , nothing in the time is real. All the things that are existing in the middle , in between are just a perception from these two. Trying to experience itself.
+
+So now important to get this. Nothing of all this that we can perceive really exists really , it 's real , nothing. Nothing of this is real. But even though it exists , why it exists?
+
+Because existence is just different perceptions , different points of view that are moving along in order to find different ways.
+
+So to exist is basically to continue experiencing different and new ways. That is existence.
+
+So here we have a very different concept. One thing is real and the other thing is existence. Everything exists , but nothing is real. We have 99 % of existence and only 1 % of reality.
+
+So the only way in which we can , so anything that we experience in our lives is real , anything. But even though it exists and the only way in which you can find reality is by existing.
+
+So I know that this is difficult , so I will try to go with this example. All the matter , all the things that you can perceive from the environment are made with atoms and subtopic particles.
+
+So all these tiny little particles are like the 1 % surrounded by 99 % of space.
+
+Now imagine this , that this 1 % is like the earth and the sun. Imagine the sun is the proton in an atom and the earth is an electron.
+
+So in between the earth and the sun , there is so much space , a lot of space , huge. But even though the gravity of the sun pulls the earth , it pushes it a lot , so it 's been around.
+
+So this 1 % is able to expand that this 1 % which is the reality controls everything that exists.
+
+So everything that we perceive that exists like my body , everything is just magnetic perception is all the gravity , the magnetic field of this 1 %.
+
+So everything that we see what we feel , what we touch , everything is just a perception.
+
+So this is why everything that we see that we experience exists , but only the 1 % is real. And this 1 % is impossible to touch , it is impossible to really perceive. Because it is so much in the essence of the things that is impossible to feel.
+
+So this 1 % is practically impossible to touch , it is impossible to experience , because anything that you can experience is just existence , but it 's not real.
+
+So to go to reality , you have to go very , very deep in this huge field.
+
+So distance is to go out from itself. And it does n't matter where you go , it 's just the expansion of the things going out , moving along all the time.
+
+So basically existence is , is this moving forward , is a projection that keeps me expanding. It 's not a goal , it 's basically existence going out. It 's difficult to explain something that does n't exist. I can say that I exist , but not that I am real , because if I am willing to become conscious about existence , what we have to realize is that , to exist is just a perception comes from another perception.
+
+So everything is a perception of something else.
+
+So becoming aware , being conscious about that , is to accept that everything is a perception and to open to the possibility of existence of every perception. To become , to be aware and conscious about existence is to realize that something is a projection , therefore everything can exist , is a potential existence.
+
+So this is difficult to understand , mostly because our brain has been assigned to understand that existence is to be , but existence is not to be. Existence is not that , existence to go out from a bin that it is. Existence is someone is and it goes out from itself.
+
+So it 's a projection from that bin.
+
+So to be aware of existence is to realize that everything is just a projection of only one bin. And it 's important to get this idea , because when we start to wonder about this concepts of the universe and existence and so on , suddenly we start to wonder , why do we exist? What is the goal of all this? If nothing really exists , why can I think about this if I do n't really exist?
+
+So we suddenly can fall down into these thoughts. And we can lose sense of the everything.
+
+So to understand the existential consciousness can help us to get an important clue , which is that in between all the potentialities that have decided to express , I am one of them. I am existing because from all the possibilities , the universe decided by myself to be here , to exist. And my body , my personality , has an important goal , which is to exist. And I know that it 's complicated when we try to think as a human 's sane , but why , or what the universe will always answer to exist , because we exist.
+
+Because I ca n't think I can exist.
+
+So it 's not something that we aim to reach outside is about exist and itself.
+
+So , basically , this is philosophy for the matter , for the body.
+
+So it 's difficult , it 's the philosophy of the body , so it kind of breaks everything where we are.
+
+So that 's why it 's difficult. And we have to spoke about existence today because we 're related to cancer. One of the goals that we have to make is to death from existence , death from what we believe we are. And one of the biggest struggles that are being that is trying to survive needs to death from is the idea of being real.
+
+To death from the concept of reality of what we are.
+
+## Daily Practice Elements
+
+Remember that the topics of reality were spoken in other months. The vibration for today is quiet. The statement today is I am the root of consciousness. The code today is the note of the back in the sea of L'Abrador connected to Greenland related to the constellation of tourists.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

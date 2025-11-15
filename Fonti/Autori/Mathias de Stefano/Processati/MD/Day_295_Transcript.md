@@ -1,0 +1,216 @@
+---
+title: "Day 295 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 295
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 295
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - heart chakra
+  - I AM presence
+  - month holding
+  - month hole
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 295 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+I have everyone morning , good afternoon , good evening. I 'm also a commented with our daily rehearsal in the Al-Plexus Solar. Let 's begin with our day with our topic for today , which is related to the solar Plexus. Let 's eat them , which is the digestive system.
+
+The important thing to understand about the digestive system is that it is the sign and the world as a way at the tool to solve the need of assimilation energy. Let 's go into that.
+
+Remember , all the universe is generating energy also trying to absorb and storage energy. Here we have the basis of an atom , a positive and negative , and they are connected by waves of vibration that administrated this energy.
+
+So in between this positive and the negative together is this wave of vibration that is the space energy. We got these two options that we call an oxygen.
+
+So now , I mentioned this. This time here with this positive and negative one we call oxygen. Then this oxygen gets together again to an substrate energy with other two that will be called hydrogen.
+
+So that 's what gives us two hydrogen , one oxygen , that we have water.
+
+So of course that what we have here , this tiny molecule , will also start to connect with other exactly the same as the first one.
+
+So it creates a big network of this main structure holding energy in every one of the links that we will call the water , how we see the water. We can see the water through this molecules altogether.
+
+So as you see here , the main structure of proton and neutron altogether , they storage energy. They try to find stability.
+
+So from these particles to the atoms , to the molecule and then to the composed and the elements and so on , they all are administration the energy by finding stability. They want to find stability.
+
+So they storage energy.
+
+So through billions of years , these structures will try to eliminate and storage energy , creating the mineral realm. The mineral kingdom throughout the entire universe starts to administrated this energy into the shape of minerals , of course.
+
+So they create the stars , they get together and create the stars and then the stars explode and create planets and the planets.
+
+So they create new minerals because of the fusion and they create new minerals crystals and so on.
+
+So through all this process , everything starts to change to transform.
+
+So why things transform because of fusion? Because you see this process. Can you see this? An atom will try to organize itself in a structure that allows this to find stability.
+
+This stability in this structure will start to grow and grow and grow creating gravity and because of that pressure.
+
+So the pressure creates a high vibration because it makes the electrons move faster because of the pressure of much energy contained. This high vibration that makes the electrons move faster and faster and faster is what creates the heat. The normal heat that we all know is basically electrons moving faster and they 're normally do.
+
+So as much high as the heat , it becomes diffusion.
+
+So the addition starts to be a moment in which it is very high.
+
+So that the particle starts to get together or to separate or to organize with others in a different way.
+
+So this fusion that we have here creates a reaction. Why a reaction? Because the atom has taken an action which was to create an structure. With the reaction , with a chemical reaction , what happens is that this structure is broken.
+
+Which takes this reaction find a change in this structure.
+
+Okay? What is this change taking us to our friend evolution? What does this change take us to? Take us to the molecules to have to reorganize again once and again many times in order to find the perfect structures able to assimilate and storage this energy.
+
+So this takes that common normal molecules get together to just structure that we then will call a cell. That can storage energy.
+
+So this cells will be created two kinds of cells from this storage of energy. The first storage of energy in a cell will be called Procured and the second one Eucharist. This the Procured is like the all kind of cell , one of the first ones that shape a bacteria for example , which is like a tiny shape of different chemical compositions that surrounds a liquid where a NA is whole. Then we have the Eucharist that are related to plants , to animals , to fungi.
+
+So as you see this one here has is very different from this one here because here is all like around alone and here we have a nucleus. Surrounded by different other tiny organs.
+
+So usually this Procured and that being just unicillular beings.
+
+So they reproduce like this and that 's it. But the Eucharist , even if they can be only one unicillular being , most of them evolve into organisms , which means that they and divide themselves into many other cells. Like in Mayors , they divide and they share data information and organism being.
+
+So now all structure is made up with tiny little atoms that creates molecules and we have all the molecules here around and right. All the molecules shaping and creating each part of this things.
+
+So in order to reproduce and to do whatever they have to do , they need energy , they need pulses in pulse to move.
+
+So from where can they take these pulse? Well , they take it from this links between the electron and the proton here in the middle or a joint.
+
+So now in order to take this energy from here , you will need something really.
+
+So all these molecules start to design when we call proteins and enzymes , which are this conjunction of molecules that will find these atoms and cut them.
+
+So one enzyme will take one and one enzyme or protein will take the other one.
+
+So they will divide it and when they cut this is like an elastic that breaks and creates a pulse of energy. And you have energy.
+
+So that energy is spread and storage in the cell for the pulses that it needs to move on.
+
+So as bigger it is the structure , much more energy will need.
+
+So much more of this will try to look for.
+
+So they can cut much more of them.
+
+Okay , so as bigger it is the much they need in order to produce to harvest energy from the atoms.
+
+So the Euchargyod cells will organize themselves into big structures that will have mainly two options to process this energy , which will be from the vegetable kingdom through photosynthesis , synthesizing glucose. And in the other hand the animals synthesizing food , which is carbohydrates , lipids , proteins , sugars , carbohydrates.
+
+Okay.
+
+So what happened that all of these nutrients that the body needs to take this energy are spread in nature in the mineral kingdom , the animal and the the vegetable kingdom.
+
+So this is why the animal kingdom mainly they design a way in which we can take these structures that work related by atoms in the outside and start to divide it into the tiny species until we can take the atoms to cut it and take the energy.
+
+So if you pay attention to how it is created , this , that digestive system to eat was a structure designed that very ad trying to find a way to catch all this energy from around. And the way in which the atoms will design this way to take the energy will be according to something that in spirituality we call an inesiatric path.
+
+So this system , the inesiatric path , what does is to take a structure and start to break it into pieces to take the pieces and say , what is this coming from. Oh , I did n't knew , I did n't know that I had this , oh , I do n't need this anymore. And it starts to take all the parts to disseminate the structure until you start to find the essence. And once you found the essence going through the process of the body , the process of the energy , the process of the vibration.
+
+Once you get the essence of what you really are , you become part of something bigger , greater , which is the body. This is why this inesiatric path is called in us , the digestive system. Each one of us is a meal , it 's food. It 's universal food.
+
+So the first thing that this apple face , this apple is the structure is us , we are this apple.
+
+So we have all these structures , these beliefs , these stories that pass the future , we have so many things in ourselves. That makes us be what we are , that we say I am an apple. But then we face teeth , the teeth are our ancestors , it 's ready to our history. Everything that can show us where I 'm coming from , the teeth are the first things that cut the structure , the cut what we are.
+
+We face us to the crisis of our history , where we come from , we start to find our intentions , our expectations , our history , all the things that were inside of me.
+
+So suddenly the teeth are to me , you are not an apple , you just believe that you are an apple. You are not , you could have been grapes , you could have been appeared , the history took you to be an apple , but you are not. That 's the first thing that we face. This is the breakdown of our beliefs of what we are , what we believe we are.
+
+Then we face the tongue , the tongue is the one that can tell us what we are , what is our purpose? Is the one that says , oh , I was n't an apple , but I know now that I am sweet or I am bitter. I start to feel comfortful with what I am. Is the place where I feel the flavor of life that we all have a flavor that we are.
+
+We are understanding the meaning of life. And then we start to find the tension. Where the saliva makes me understand the importance of flow in life. We start to let behind the idea of the structure that we were and we start to flow in our life.
+
+Is the moment when we start to mediate , to connect with something beyond. And of course , then after this moment of flow comes the full , the full down , which is the dark night of the soul. The moment where I let behind the lights and I find the darkness. And that 's the path of the solves.
+
+And then it falls down to one of the worst nightmares of the being. Which is the stomach. The place where I find the moment where I literally forget who I am. But all the things that I believed they were light , the whole , the beauty they disappeared into the void.
+
+I forget any idea of what I was. And I even see this appear , any expectation of what I could have. Is the death of the ego. And the environment starts to dissolve myself until there is nothing.
+
+And that 's the moment when you find the higher self. The I am , which is the pancreas. The pancreas will bring you all the assets that will dissolve your personality , telling you if you want or you have to go through your darkness to let go everything that you believe you are to find me , the higher self.
+
+So this is the moment when the higher self says in order to do that , you will have to , your own darkness. You will have to face the dark parts of your being , your shadows , your lower emotions. Everything that keeps you attached to the real of who you are. And this is the moment when the higher self releases the darkness , the demons to attack you , which is the liver.
+
+The liver goes into yourself and grabs all your body showing you your darkness to do the last part of your disintegration. After all this cleaning thing , I start to walk through a path. A path of seven meters , there will be to review everything that I have done to take a look to every moment , to every essence that we have in all the potential that we have. And that 's the long path through the small intestine.
+
+Once I am finishing this path , I realize that through this path , I let everything go. I just let all kind of attachments , I just leave every time , go and forward. And I just expand myself , letting me be absorbed by the everything , being on service to the whole. Recognizing my attributes , my potentials given to the others with unconditionally.
+
+And that takes me to the blood , the souls , taking me to the heart where I find myself.
+
+So suddenly , when I spread through the body , I recognize that my essence is in every part in every cell. And that the idea of being an apple is just an idea , a memory. And now I am God , because I live in myself. Let me know , are n't you gon na remember this the next time you eat?
+
+The digestive system is the inshetic path of the universal energy.
+
+So to wrap this child 's remember that we are what we eat.
+
+So remember that it wo n't be friends at the time of eating different type of blood types.
+
+So we can judge what others need to eat.
+
+## Daily Practice Elements
+
+So just be coherent with that. The vibration for today is clear. The statement for today is I am channeled between beings. The code for today , respiratory system , the chemical elements that are necessary for life of the cells of the entire body , enter through this system.
+
+Finally , the air constituted by several gases , this aggregated here to obtain oxygen. The process starts with the pyrocinotic mechanism was castle inhalation. Then that takes the air through the lynx towards the trachea and ratings , going through the vocal cords and through there to the branch and all the ratification that gets smaller and smaller like a tree , conferring the lungs. The air synthesis ends up only being oxygen driven to the heart and from there to the foregoctal , the oxygen is so needed for the body because the oxygen oxidized the nutrients.
+
+So it could be better assimilated by the cells.
+
+So that 's why we need the oxygen all the time you ever breath. Let 's go to the alignment. Compel , close your eyes and concentrate in your breathing. I take the breath and become aware about the body that I inhabit.
+
+Softly and very slow , the side concentrated in my breathing , I begin to stretch the body , there is softly moving the ends into circles and warning. I start to play with the movement of my body to raise every part of it and the oxygen from the feet to the head. I recognize every core that 's my body. I touch the genitals without feeling a shame off.
+
+I do n't start to carry my hands , my body , its ten face as if it is about the body of the person I love. I perceive the parts of my body and makes me feel uncomfortable. In the parts it makes me feel pleasure. I imagine myself as a foot , a snag in my hand.
+
+I take it to my mouth for me to begin my initiative path. I take this foot , this imaginary foot to my mouth and start to light. I start to chew it with every teeth , with all the jaw , taste it with my tongue and feeling the saliva. I feel the pieces going to the firearms and I swallow.
+
+I feel how this energy descends through the softness , strong mag , the scene creates me facing the darkness , the shadows of the liver. After I connect with myself , I cross the door , begin in the long path to recognize myself through this small and just light. I feel this energy being absorbed by the image of the eyes , taking into the blood , going through the heart. I recognize the attributes , the nutrients of my being , incarnation in every cell of my universe.
+
+I recognize the attributes , the nutrients of my being , incarnation in every cell of my body. I recognize the attributes , the nutrients of my being , incarnation in every cell of my body. I am channeled between all the beings , I channeled between all the beings , I am a channeled between all the beings. I have the energy in me , I have , I have , I have.
+
+I have the energy in me , I have , I have , I have , I have. I start to stretch the body , warning , and each one of it sometime , come back here and now. I have the energy to stretch the body , and I have the energy to stretch the body , and I have the energy to stretch the body. I have the energy to stretch the body , and I have the energy to stretch the body , and I have the energy to stretch the body.
+
+Thank you , everyone , for being here , it 's always another day. See you tomorrow , and always have the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

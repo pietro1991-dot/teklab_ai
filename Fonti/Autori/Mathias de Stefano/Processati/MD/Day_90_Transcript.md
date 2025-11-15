@@ -1,0 +1,296 @@
+---
+title: "Day 90 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 90
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 90
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - portals
+  - crown chakra
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 90 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening , wherever you are.
+
+So today ended our path with the 29 people that came here to this short , energetic path here in the pyramids. But just a few left and the rest are here.
+
+So we are still doing the same as every day.
+
+So I am like a little bit relaxed because I will try to do my best to focus because I am like tired of this days.
+
+So I need to recharge. But I will try to do as best as possible.
+
+So today in these things we went to make the connection to receive the information from the water because below the things there were like the library of water where the people in the past used to storage the information. And when we did that in order to receive that information in our blood which is our own water. After we finished it started to rain for 10-15 minutes in the pyramids in the in the things.
+
+So it was kind of a blessing.
+
+So it was good. Perfect.
+
+So it was a great ending. Downloading the information.
+
+So today it was it is also an end-in-day because today we close the month of Libre with the torus in the physical wake.
+
+So in order to close the month of Libre the topic for today is here and now.
+
+Remember that the whole concept of Libre is to balance two different aspects. But what we usually believe is that these two different aspects are the qualities separated concepts that we need to integrate and to put together as one. But remember that these two hands , these two different concepts are connected by the arms to the heart.
+
+So it does n't mean that we have to put these two things into one to get the balance. It is that the heart has expanded and created these two concepts because the arms and hands are born from the heart.
+
+So what we have to do is not to put those things together is to remind those two things that they are only one expressed into different aspects. This is why during the whole month of Libre it was not about to unify two concepts as one. It was to make these two concepts remember that they are one.
+
+So this is how we balance things by recognizing that all the things that we have around are only part of one reality. The topic here and now is related with time and space. They seem like a very physical aspect because we can relate with them. But it would take us in a very philosophical concept to try to understand them.
+
+So maybe it 's difficult to understand it at first but you will see that with the practice you will acknowledge and understand what it really means. And this is because we are usually saying today in our current times the concept , the spiritual concept of being here and now. And the concept of being here and now we usually relate it with here like a place and now in a time in an hour.
+
+So I would call that not here and now I would call that aspects of how to say in English pressentism. It 's a it 's a it 's a made up word , pressentism.
+
+So you live constantly in the present but it 's not to live in the present is to believe constantly that you live in the present like this.
+
+So let 's say it 's a pressentism. Let 's say it 's a pressentism.
+
+Okay.
+
+So the concept of here and now that we usually that we usually use when we want to relate with the spiritual process of being here and now they are in fact usually related with the ego which means that the self is receiving the reality outside from its own point of view but it 's receiving the reality from the point of view of the projection.
+
+So it 's not the truth. This is why we kind of interpret it the here and now more for the individual in a separate world than then in a in a whole with unity.
+
+So to understand what really means to be here and now what we have to talk about is what time and space are.
+
+So to understand time and space as always we go to the origin of the words but this is something that myself has discovered today when my higher self was trying to explain me what it was time and space.
+
+## Q&A
+
+So when I was asking he said they are the same and so I looked into the etymology and the word time and the word space comes from in the European languages and they exactly mean the same. Time means to pull away and space means pull.
+
+So basically it 's exactly the same in different concepts.
+
+So the question would be why we take it like different concepts that creates our reality if they are talking about the same thing.
+
+The reason why they are exactly the same is because they are the two aspects of one only reality that is born from the unity.
+
+So the unity is only one concept that it 's an inner process that projects itself in the outer process.
+
+So in and out they start to express so the idea of the mind which is the only thing that exists projects into our thoughts.
+
+Okay and this thought is the positive aspect of the negative which is the mind , the idea. And when it starts to pull it 's stretched one to each other and they are connected by but pulling one to another.
+
+Okay so it creates like the feeling of strings , strings that are entangled like pulling one to each one of the sides.
+
+So this same reality is the one that creates like the string theory that time and space is basically the same but all connected by strings.
+
+So from our human point of view when we think about time we perceive time as all those things that pass through that goes through our life that we can measure as a process. And the space is like the places where you move.
+
+Okay around. But the perception of our of the time that we have is not real because it 's attached to the perception of the matter. And how is this? It 's because when we perceive as day and night basically the earth moving is not the sun moving around.
+
+We perceive that the things are passing away that they are going through but they are not doing they are not doing that. What we what really happens is that the earth is moving so the sun changes for from our point of view it changes the position. Also what happened is what happened is that we see the constellations pass through the sky and we think that the months are passing through but what really is happening is that the earth is moving. Also when we think that we grow up and we are getting all we call that the pass of time but what really happens is that the cells stop reproducing themselves.
+
+They they do n't have the energy anymore to produce more cells. They stop dividing the stop doing mitotic and suddenly the cells just die. That 's the degradation of time of the matter really.
+
+So it 's not because of time it 's because the space is transforming itself.
+
+So from this point of view time really does n't exist it 's just a perception. It 's just a perception from the space from the matter. That 's all what it is. Time basically does n't exist as we think is time.
+
+So we would say then okay if time does n't exist and it 's just a perception from the matter from the space.
+
+So the only thing that exists is space but the answer is no because space is just the construction of energy which was the strength of vibration and this vibration was the pulse of the mind in the origin of the cosmos.
+
+So this pulling is the only one creating from the inside to the outside.
+
+So matter is just a perception from this mind expanding.
+
+So this is why basically matter is just a perception of the mind because really they 're all vibration atoms all mixed mixed each other and it does n't exist.
+
+So what we have to do is to divide into the concepts of space and time. We have space and time in one side representing what we believe and perceive of what is time and space and the other thing would be what it really is time and space. To try to understand first space and time as the two concepts from our point of view from from our human point of view. We start with space.
+
+Space space basically is the perception of three dimensions in our point of view.
+
+So we have three dimensions that we call space which is high , depth and white. These three dimensions are the ones that represent the space.
+
+So everything that has a high , a way and depth represents our point of view of the space. Our reality. This is what we call the third dimension. The third dimension is a way of measurement of the parts of a reality.
+
+Then you can repeat it. Just rewind it and listen again.
+
+So dimension would be the division and measurement of parts. Why? In Latin , dimension means D which is two and mention which come from measurement.
+
+So dimension really means two parts that are measured.
+
+So this measurement allows us to see the third dimension as a perception through where we can move through.
+
+So high , weight and depth. When this starts to have a process to move through a process , we call these three past , present and future.
+
+So this is the concept that we have of time. What is time related to the space as we perceive is the movement of these three dimensions. Everything that goes high should be future. For example , everything that goes that in the depth is past , everything that goes wide is present.
+
+So we can relate in this three three dimensional reality. Basically , the concept of time is specifically related with the concept of space. That would be.
+
+So in the other hand , we have time and space according to the cosmos. According to the cosmos is time is the one inside. Time is the concept that creates the process. The one that says I will express myself towards the outside.
+
+So time is the inner concept that is willing to express itself into the outside. That what really is.
+
+So it means the process has begun. That would be the time.
+
+So it creates the strings. And space would be the experimentation of that process.
+
+So in such a way , they are exactly the same. But one of them is inside. The other one is outside. And both of them are related to the whole process of learning.
+
+One creating the process itself and the other one experimenting the process.
+
+So as you have seen , the concept of time and space in the cosmos has nothing in common with the perception that we have of time and space in our reality. In our reality , time and space are perceptions of atoms , it 's organized in themselves to try to save energy. And for the cosmos , it 's the expression basically time and space. This is when we now go to the topic of here and now.
+
+From our point of view of this reality , here is related with a specific spot in the three dimensions. High , weight , depth. And time , which is now , is also related with a specific moment inside this process of the three dimensions. Basically , here and now , I related with a specific spot in the third dimension that we call usually present.
+
+So the present that we usually speak about is just one of the three of them. It 's not the most important one , it 's just one of them.
+
+So if they are just a spot in the third dimension , so what really means to be here and now , the real concept of here and now to understand it , we have to get outside the perceptions of our reality to go into the origin of the reality. When we go to the origin , we will understand a totally different concept of what time and space is. And it 's related with the topic we discussed yesterday , which is the universe is one spot expressed in a circle that comes back again , been a point and again and again.
+
+So this means that only one spot in the universe , one place in the universe can be expressed in all of them. Every place in the universe is exactly the same spot. And only one moment in the universe is expressed in all the moments and timelines in the universe. And even though it is just one moment , in order to understand the the bigger concept of the here and now , we should not say we should not go from the point of view of I of me , okay.
+
+We should not go from me. We should go from I am , okay , which is the whole , the whole creation.
+
+So the concept is I am not an expression of the of the only one being , because the every one of us , I , is an expression of the self.
+
+So when we come back to the I am , we start to understand that every time and every space is just in one tiny spot and moment , which is expressing in many other different. When we are saying here and now , we are not talking about , we are not speaking about a moment and a place. We are talking about all the times and all the spaces.
+
+So the reason why here and here and now is all the times and all the spaces is because when we relate ourselves with the I am , I am is the concept that has been expressed and leaves in every time and every space in the concept that we call eternity. This is why past , present , and future , they are just perceptions of time from the third dimension in the space that we call high , weight , and that. This is why when we go outside the third dimension and we put all the dimensions together , what we do is to find the center of everything , the core of the I am that we call the eternity. All times , all spaces together.
+
+Is this useful? No.
+
+So why do I explain this? I do n't know.
+
+## Daily Practice Elements
+
+The reason why I explain this is because as much aware , we become , we usually say , I am just living here and now and we usually made a mistake when we say this statement because we are saying , I do n't care about the present , I do n't care about the future , I do n't care about the past , I am just here and I do n't care about anything , just live in my life. And that 's not what it is. That 's presents. That would be the concept of being disconnected to everything.
+
+So the reason why I explain this is for us not to make a mistake believing that here and now is just do n't care about what happened in the universe and besides what you are , that what really happened , what really you are , is what you really are , is here and now , all the times and all the spaces.
+
+So basically here and now implies a great responsibility. That would be because whatever we do here and now can also modify what we call here past and future and present. I think that 's it.
+
+So one important thing is to recognize , to understand that even if we go and and try to understand that here and now through the I am , this does n't take the importance to what we think now is time and space because we are in the physical world , we are moving in the space.
+
+So the time from our perception is something useful to understand how to move through this reality.
+
+So it 's not about , oh now I got what it is here and now space and time.
+
+So this one really does n't matter because it does n't exist. No , it 's the tool we have to be in this reality.
+
+Another thing that was from yesterday that I wanted to explain is the term got. God is a , when I used to say a lot , God does n't exist and then I explained that the mind is the creator and so on.
+
+## Q&A
+
+So some people ask me but if the mind is the creator is the one that creates everything so the mind is God.
+
+So we can call the mind God or the creator God or God is the energy or whatever.
+
+So I will explain now why I say God does n't exist and why it 's not the correct way to say God is the creator. But besides that I must say I am no one to say you do n't say God , you do whatever you want. Of course you can call God or whatever , the God is or whatever but I will try to explain the concept of God.
+
+So we could explain it a little bit.
+
+So what God means? In English , if I 'm not mistaken , I guess it represented the good things and the invisible good things. How do you say this word? Like an attribute , something not good but like equality of something.
+
+Yes , I guess. I do n't want to make a mistake but just a moment. Oh no , it has the same etymology but in a different pronunciation.
+
+So God is , it relates with an attribute which is kind which is an attribute of something that is fine , that is good but is related with the light of the sun because it comes from the word in the European languages which is sun. That 's what it means. It 's bright , something that is brighter and the light of the sun is good , it has a good attribute , it helps to life and so on. That would mean God and the origin of the word is geo that means they light sun.
+
+So all the people believed that the life came from the sun so sun was good thing. Then the giant ancestors came from the sky and they said we come from the sun so we are the light in matter.
+
+So they started to call the greater one , the one that rules everyone , geo which was the sun and geo from the European languages starts to be pronounced like geo , geo , geos , geos and geos , the Greek name for the God is a person that represented the sun on earth. And from geos , the God , it went to the Latin languages like geos , geos , geos , geos , geos , geos and in the German languages like Tooth , God and God.
+
+So when we say God is the creator , God , etymological and from religion , is not talking about God as the creator , he 's talking about the sun and a guy in Greece that used to have sex with everyone. Basically , so the only name possible for God is basically I am who I am. That 's the name that everyone said about God , okay? I am who I am.
+
+So this is why when we , when I say God does n't exist , it 's because I 'm saying that God is a projection of the creation itself.
+
+So when we want to relate to God , we usually say I am who I am.
+
+## Daily Practice Elements
+
+So that was the problem with semantics when people used to say I am God because I am God and a lot of people in history said , oh , he must be God. And that 's how we create religions. Let 's go to the cons. The vibration for today is the statement for today is I am eternal evolution.
+
+The quote for today is polarity. The sixth law of the universe helps us understand why cause and effect exist the same way this came from correspondence.
+
+So for everything to exist in the universe , it 's necessary to complementary forces that generate energy capable of creating positive and negative are also feminine and masculine time and space. The necessary force to manifest.
+
+So , see , comfortable.
+
+So we begin stretching the body , messaging the body , and joining to release energy. I let all my weight fall down , just focusing my breathing. Take a deep breath , bringing all my attention to my left foot.
+
+So , softly I start to move my toes and my ankle in circles. I bring the movement to my left knee and hip. Start to bring your attention to the waist , bending your body softly towards left , come back to the center. I bring my attention to my left hand and start to move my fingers and soft circles with my wrist.
+
+I bring the movement to the left elbow and shoulder. I bring this movement to my head and soft circles towards left. I stop and begin to move towards right. I bring the movement to the right shoulder and then the elbow.
+
+I bring this movement to my wrist , right hand and fingers. I bend my body to the right , till in the pressure in the waist and come back. I bring the movement to my right hip and knee moving softly. I bring this movement to my right foot , and soft circles in the ankle and the toes.
+
+## Energy Work
+
+Relax the body. Take a deep breath , lecturing the higher self that I am above your head. And with very deep great things , I invite it to go through all my body. By the crown , their eye , throat , heart , plexus , scrum , root , knees , and ankles.
+
+I become aware that all my body is made of duality , positive and negative , masculine and feminine , time and space. Take a deep breath and with your hands go from the head to the feet , crossing and touching , recognizing all the mirror shapes , ears , eyes , eyebrows , nose , the two sides of my mouth , hands , chest , arms , genitals , legs and feet. I become aware that all my body is made of duality. All myself , all my being is a mirror.
+
+I acknowledge that without this duality , I can not move forward. I can not go beyond or my two ears , my two eyes , help me to be in balance in my axis. It 's not to fall down , to be straight in myself , only because of duality. I find balance.
+
+I honor the balance. I honor the duality for only because of it I can find equilibrium. Take a deep breath and perceive the light of the I am , its essence coming out of my feet , expanding all around me , coming back to my head. I can be trusted.
+
+I tolerate that embrace my duality in balance. And with my vibration , I activate the potential of this story. I am eternal evolution. I am eternal evolution.
+
+I am here and now. I take both hands to my heart. I honor the duality that allows the creation of all the things , the beauty that is manifested in the constellation of Libre. I honor this path of balance.
+
+And I recognize I am balance. I am balance. I am balance. Take a deep breath and begin to move your body , stretching , warning , crossing and expanding all this awareness through each one of the joints , the portals of your body.
+
+I will come back here and now opening our eyes. Tomorrow we begin with the month of Scorpio.
+
+So we are going to the death.
+
+So just for you to know , I do n't know exactly how it 's going to be , but I guess that we will be doing kind of the alignment will be kind of a tiny regression.
+
+Okay , so just for you to know. And we will work with the desire.
+
+So as always , I thank a lot of water , rest the lots to assimilate information and see you tomorrow at the same time. Bye. Bye. Bye.
+
+Bye.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

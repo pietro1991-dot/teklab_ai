@@ -1,0 +1,292 @@
+---
+title: "Day 291 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 291
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 291
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - portals
+  - consciousness work
+  - crown chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month holy
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 291 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening. Welcome all of you to our physical wake of Turns.
+
+So apparently , yesterday , I did something that I do n't like to do of what I feel ashamed of. Anyway , it happened many people saw it , so it does n't matter. Take a breath , take a breath and keep going out with my life. As I told you to begin this week , I remind you that in the beginning of this month , I told you that three different energies will be sharing with us this month.
+
+And they are the manifesto of matter , of really according to the Egyptian tradition. And of course , for this week , we have our great creator Turns. And before I explain what the God Turns means , I would like to remind you that in my philosophy of life , I do n't believe in God 's. When I speak about God 's , it 's not that I believe that there are God 's.
+
+It 's that I call God 's to the different attributes of the existence of the universe.
+
+So this is an idea. It 's not exactly like this , but this is like how , like kind of an idea.
+
+Okay.
+
+So let 's look into this kind of like that.
+
+So in order to see it in this way , Ra is like the divine. That creates the concept of the divine called the Nun , which you can divide in air and water , air and water , that creates earth and skies , get and loot. It creates the earth and sky. And they create pta.
+
+Ta is the creator of all the things on earth , which divides itself into many pieces into many pieces , which are the gods of the Pantheon of Egypt. At the moment that I 've seen time that the other , the air , the water , Nun , Ra. They are like this concepts of creation. Big pictures of the creation.
+
+So pta is the one that creates the parts of the creation.
+
+Okay. Every part from the gods that will create until all the realms of reality of nature.
+
+So Ra is not the creator. Ra is the divine consciousness.
+
+Okay. That it starts to be the creator reincarnated in the concept of pta.
+
+So when you hear about pta , you will listen that he was the god of creation , that he was the god of the architects. He was the god of the art of the art of the sense. But also you will listen that he was the god of darkness. And this is something that people maybe can say , Oh my god , this is perhaps the god of darkness , so he was evil.
+
+No , it 's not that. We can relate this god pta. The god , with the god that increased the call hefestus , and the Romans call Balkan. This god , the same one , where usually we 're related to a blacksmith from hell.
+
+He was the one that was working with a junk , with creating source and tools and so on.
+
+So related to the fire related to lava , related to the inner world , because the inner world was the creation of all the things that are.
+
+So why is related with darkness? Because Ra is the aspect of divinity , which is impossible to touch , and tangible is the one that is the essence , the consciousness , the light , the awareness.
+
+So it 's impossible to touch , to perceive. And when this being materialized itself , it creates matter , physical , that projects shadows.
+
+So the physical aspect of the divine creates darkness , creates shadows.
+
+So this is why from the point of view of ancient civilizations , pta was not the evil god. It was the god of the manifestation , and that 's why we call it darkness , because it was the one that created things that get shadows , that produce shadows.
+
+Okay?
+
+So you get the idea.
+
+So this god pta is the one that materialized the concept of , the divinity of the , of the still planes , and brings it into materialization.
+
+So this means that all the concepts that were before , around in the eternity , now are going to be physical , they will have a structure , and of course in order to do that , itself had to divide into different attributes , to put their attributes outside and materialized them , with a shadow , with a light itself.
+
+So that 's how it creates everything that we have in our reality.
+
+So this brings us that , the creator pta. Manifest is attribute in the shape of , for example , sexuality , love , intelligence , communication , music , every one of the arts.
+
+So basically all these kind of manifestations will be called gods or goddess , a divinity. But there are attributes of the entire world.
+
+So if we pay attention to how this works , it will be the system of fragtalization.
+
+So the main god of creation divides into two other gods , one feminine , one masculine , and they divide in other two.
+
+So they create four , and this four eight , and this eight , 16. And so one starts to fragtalize constantly once again , once again.
+
+So the attributes that the main god had , split into billions of attributes in every one of the living beings.
+
+So this means that each one of us has the same attributes as the main creator pta. That we are going to pass through to the next generations. Let 's understand this picture. What are attributes?
+
+Because we say humans has attributes. What are the human attributes? We can think about love , wisdom , music , being a good person. Those could be different attributes of a person.
+
+But what are the basement of attributes? Artists basically are emotions. You go within , you understand that everything that you are doing is an impulse that comes from emotion. And what is an emotion?
+
+It 's an energy moved by hormones in our body , from where the hormones come from , from the glands , from organs.
+
+So the organs are creating the impulse for our attributes. And what are the organs , are connections of molecules , cells , molecules that are atoms that interact energy that works through vibration.
+
+So you see from where come from. The whole universe has created through vibration and energy. The organs that are the middle point to create the attributes into the matter , to manifest the attributes into the matter.
+
+Okay.
+
+Okay.
+
+So what we have here on the lights , sorry. Where we have here is the path that it takes for us so we can the attributes that we call human attributes.
+
+So we have here the path of vibration. My version creates energy. Then the atoms , the atoms produce cells , the cells creates organisms going to be called chara. And then the organ produces harmony that produces emotion that creates impulses that awakens attributes.
+
+Okay.
+
+So in order to have attributes , the universe has created this whole path in which the organs materialize the attributes. It would be just mental concepts in the universe if they are not going through all this process until materialize themselves.
+
+So the organs itself would be the , when we speak about materialization , a materializing the divine into the matter , the material into the physical , what we have is that chara and organ they join together to create like a passage like a process that able the universe to manifest the stability into the matter.
+
+So as a concept , he found a way in which he could download the divine into the physical.
+
+So this makes us understand that not only in our bodies , but in an entire creation , there is pots from where all the until claims of reality can be download in a conjunction towards the matter in the physical world.
+
+Okay. Places where you can download heaven on earth. In our bodies , we have the glands , the endocrine system as a way to open the doors.
+
+Okay , from the subtlety to the physical. But in the earth , we have many , represented in mountains , in islands , and lakes. Those places is what we call notes. The notes of a planet , the notes of a body , are places where the energy goes down in a spiral and goes up in a spiral , finding together in the center , creating a note of energy.
+
+So these are perfect places through where the heaven can go down into the earth and places where the earth can go up into the heaven. The way in which ancient people could understand where are those places? We 're following the birds , the birds , observing the skies , the clouds , and everything , they were trying to picture the images of what these people could , this gods could download from heaven.
+
+## Energy Work
+
+So the birds were the first ones on notice that portal , how? Because they were in circles.
+
+So they were following the birds flying in circles. And if the birds repeat that going very high and going down in the same spot once and again , once and again , what they could see is that the birds were telling you where are a portal to the gods , to the heaven.
+
+So that 's why there were some priests that were just observing birds. Observing birds in Latin , you might say , I was speaking to them. That is the origin of the word , I was peace.
+
+Okay? I was speaking to watch birds. I was peace , I was saying English , I do n't know if the pronunciation , I was peace , I was peace , I was peace , I was when someone gave money to someone to make him keep doing what that person is doing. People used to say that , used to auspicious.
+
+The people that auspicious someone , like a sponsorship , let 's say English , it 's because that person sees , sees that something is good in the future , that that thing could be good eventually.
+
+Okay?
+
+So that 's the word. And on the other hand , I was also a special person , especially the future.
+
+So this word , I was a bit suspicious , it 's the one that is related to know the future , to know what is going to happen. Signal.
+
+So what this priests would do , they would follow the place where the birds were flying and there in those places , they would cut the trees , cut the mountains and prepare the terrain.
+
+So they could have a clear space , so they could see and communicate and receive the messages of the divine straight from the heaven. This place was called Tempo. That means place made by cuts , cuts of trees or cuts of stones.
+
+So the reason why we add a P in the center is by pronunciation , because when you say many times , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , 10-lot , a P appears immediately. This is how we get the word temple. As you see here , this is how the word temple starts. Temple is not about a construction.
+
+A temple is basically a space that was open , so the messages from heaven can be downloaded into the ground.
+
+So eventually in those sacred places , the priests and priests started to use the feathers. The feathers of the birds , corners , the eagle , the hawk , the ravens , the vital , vaulters , all of them. They started to use all these feathers to decorate themselves , because it was the wisdom. The feathers were the wisdom of these portals.
+
+They were bringing the messages.
+
+So that 's why eventually when they discovered the ink , they started to write with the feathers , because the knowledge of the divine came from the heavens through the feathers. You see how it came , history of the feathers.
+
+So actually the priest and priestess started to stay in those spots.
+
+So people started to create a house for the priest to lead there.
+
+So they could have a place to speak and communicate with the devices. And that 's what we call a temple today. The house where the priest and priestess could gather with the divine.
+
+So eventually with the past of time , the temples became very important to because the construction of the temples , where the incarnation of the divinity , the shape of the temples , the intention that they had , the way they had to be built , the inscriptions on it , the stones they were used , everything was downloading what they 've got , where we were presenting. And suddenly the temples itself became holy. Where we got about this connection with the divine is contemplation. Contemplation comes from the word temple.
+
+Is the action that we take all together to go into that temple , to observe the skies , to contemplate. Contemplate means to get together to watch the skies. To go to a spot where you can contemplate the skies. Eventually , a lot of people stop watching the skies to receive the message.
+
+## Guided Meditation
+
+And they started to close their eyes in the shadows of the temple , to see within , to contemplate in the inside. This take us to meditation.
+
+So the temple is not exactly a place where you go and pray or mediate. It 's a place in which you can contemplate from the middle point , both sides , one side here , the other side there. We really temples today with the places where you can go , and there is a construction. But actually , as we are looking now , as we are understanding now , a temple is a place of contemplation.
+
+It 's not a place that is built. There are many temples , natural temples , as I said , in islands , mountains , and lakes , and trees. And places that we call ethereal temples , that there are another dimensions.
+
+So it does n't mean that there is a temple with the shape of a human culture. It does n't mean that there is a temple of crystals or whatever. It means that it 's a place of contemplation. It means that it 's a place where you can go and observe outside and within.
+
+So now that we know what a temple is , remember that there are temples of many kind. But all of them are to connect , having an earth , by observation , contemplation.
+
+So a temple is a place that was built to seek a spot to contemplate something.
+
+So it does n't matter the religion. It can be Christian temple , as a church. It can be a synagogue for the Jews. It can be a mosque for the Muslim.
+
+A temple of Hinduism. Buddhism. It does n't matter. Because all of them were built with one intention , which is to contemplate , to observe that we 've been between heaven and earth.
+
+So it does n't matter in which one you go , if you know this. Important to know that a house can not be a temple , unless the house was built and used mostly for contemplation. In a house you do all your daily stuff , you do many things. It 's not only about contemplation.
+
+The place is maybe in your house , you can have a room that is only for that for contemplation.
+
+So that could be a temple , or maybe the tree , some tree in the garden. The idea of that available is basically contemplation to go within , to observe.
+
+So there are places where precisely do n't , for that , or with intention of just be that.
+
+So a place that was done for that is perfect. To be a temple.
+
+So now we can understand that during our daily life , being unaware and conscious , our body is body. But when we start to work with a consciousness to become aware , our body becomes a temple. And the body becomes a temple , not because within we have the soul. It becomes a temple because we contemplate ourselves , attenuation to what we need , or what we are.
+
+So this is why along this path , in this next week , we will go through all the systems of our body to try to understand each part of it , each temple that we have within. In order to understand , to contemplate how every organ , every system in our body , can be a door between the divinity and the matter towards divinity.
+
+Okay?
+
+So as the last thing in order to be taught , remind you what Egypt means.
+
+So , name of Egypt had ka-pta had ka-pta had is house home as in had-hul. Ka-min in spirit , t-ta the creator , the house of the spirit of creation. That 's the name of Egypt , that the great people were not able to say had-hap-tah. And they said , gip-tos , ad-gip-tos.
+
+Egypt.
+
+So here we are , the house of the spirit of creation. And by its body , the Nile , it created the path of initiation in every temple. Of course , Egypt was the engine name that we have still , that in Egyptian , sorry , in Egypt , the country is called Mister. Mister is in an Arab language , okay , in Arab language , they call it Mister.
+
+Mister means fortress , okay? The place construction fortress.
+
+So , Mister. Let 's go to the information today.
+
+So , speaking about the spirit of creation , ka-t today , the sound is ka , precisely , which is the word for spirits.
+
+So , a detail of saying ka-pta , because it 's not , it 's not ka-pta. It 's not ka-pta. It 's ka. The word ka.
+
+You have to heat the ballet , okay? Very deep behind. That 's how you say it , probably. Ka- why?
+
+Because in the ancient language , when you have to do , with this , was to heating the bone , where it 's touching the hypothesis land , okay?
+
+## Energy Work
+
+So , which is the crown chara.
+
+So , when you say ka , you are moving that gland , you are like heating that gland , calling the spirit , okay?
+
+## Daily Practice Elements
+
+So , that 's why to know the difference , it 's not ka. It 's ka. The statement for today is I am a channel between spirits. The code for today is the circulatory system.
+
+Another one of the fundamental systems of the body is the one in charge of the distribution of nutrients , minerals and chemical elements , like oxygen , to all the organs and corners of the body. Sales need the chemical basis for life , and it is through the circulatory system that this rich them to be absorbed. The heart is n't centered , that distributes through water and direct cells blood , all the components , among them , the oxygen is fundamental. And that 's it through a vein and artery system.
+
+It 's the projection of the flow and pulse of universe-based time.
+
+So , that 's it. Tumor I 'm going to take a deep breath and become aware of the body I inhabit. I can perceive the air , the oxygen , the calming air , the oxygen , the calming air , the oxygen coming in my nose , going to my lungs , feeling how it goes to the heart , and I 'm going to take a deep breath through the veins in the blood to every organ. I 've decided to come aware of deep breath every time I 'm deeper.
+
+I 've started to feel how the breathing reorganized my body. I feel the bones , the muscles , and I start to move them to stretch the whole body. Every joint , the healing , moving every part of it , and the sages , and the terrestrial. I move every joint from my feet to my head.
+
+I touch the entire body , feeling each part of it and becoming aware of each corner of it , for each touch and which part produces pleasure in me and which ones. For these fear and comfort , emotions , sensations. I allow myself to touch every part of the body as I find touching the body of the person I am in love with. I carry myself , my face , my eyes , and circles , nose , lips.
+
+I carry myself , my face , my face , my eyes , and eyes. I try to perceive touch every corner , every sentence of my body. Which part of it makes me feel comfortable , and which ones I feel shame off. I try to recognize why I feel ashamed , or in comfort I will , with some parts of my body.
+
+I try to move the encircle of every joint from my fingers and hands in the waist. My elbows and shoulders , my neck , your jaw , this time like a fitness snake , you waste. I try to find myself , my face , my face , my eyes , and eyes. I try to find myself , my face , my face , my face , my eyes.
+
+I try to find myself , my face , my face , my face , my eyes. Let 's lift the jaw , fold down , even if I need to let my mouth open , let it fold down with all the wings. I let my shoulders fold down , and I let all my body lay down in your surface , but I find myself in. I try to find myself in a way that I can feel the rest of my body.
+
+I connect with the next deep breath , I can perceive all the spiritual world , how it comes within me from the back. I take the breath , I inhalt , the air , and goes to me going out in front of my body , ahead , in every acceleration , without. I signed breath , all the spiritual world depths inside of me from the back , in every cell , and goes out of me from through every cell. I recognize myself now as the point of reflection , where everything connects , where I can contemplate myself , and all what I am , and what I am going to be.
+
+## Energy Work
+
+I am the portal , where I get in to know myself , so inside , I can know the universe. I am the temple of the earth , and I call it , I am the channel between spirits , I am the channel between spirits , I am the channel between spirits. I have the temple in me , and I contemplate it , I have , I have. Take a deep breath , and each one of its own time , like here and now , carries in and stretching your body.
+
+## Q&A
+
+So , for those who are following the task of this month , you take this energy , put it , into the water , and pour it in the seeds that we have sold. Thank you everybody for being here , another day , as always , and see you tomorrow , by the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

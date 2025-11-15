@@ -1,0 +1,355 @@
+---
+title: "Day 97 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 97
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 97
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - crown chakra
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 97 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone , morning , good afternoon , good evening.
+
+## Energy Work
+
+So remember that we are in the month of Scorpio in the mental week , mind week , and today , according to the root chara.
+
+So one of the things that I want to share before we start is that as you may see all this month , we have , I have been channeling just a little bit. And so just a little bit of it and not not much , but they were a lot of beings from different parts , from different realities and , and they all not to talk much , but to share a little bit of their energy with us.
+
+So what I want to just share about this is that , some of the messages and the information or the codes that they are working with , where they , they are not specifically doing it with everyone that is now watching and connected. They are just doing a connection of codes , so some codes affect a few people , some other codes affect too many people , some others just myself. And basically what they are trying to do is to try to do is to align the energy with the information they are trying to share.
+
+So it 's not specifically for you , but maybe it 's for some of you , okay , I was it. I know the thing that I want to just say is that maybe that all the beings that come and stick through me , they are in the same energy that I am , otherwise they would n't be able to speak , of course , everyone who is channeling is basically aligned with your own energy.
+
+So you will have to trust here , but , basically all the beings that are coming , they are not doing something opposite or different to what I do.
+
+So you do n't have to be worried or afraid of them to harm me or do something weird , because basically they would be according to what I am sharing.
+
+So if they stick through me , it 's like you listen to me.
+
+So even if they speak or I speak , it would be basically the same , okay , so it 's not like something against.
+
+Another thing that I want to explain is the sentence that I suggested , through the network , the wavy talking , that is , you are trapped in me until you become me.
+
+So I want to explain what this means , because yesterday I was like a little bit there.
+
+So I would n't be able to , I had n't be able to explain specifically.
+
+So basically the sentence that she used , you are trapped in me is basically because we think or not we some people think that we are trapped in the matrix in the network. And we have to escape from it , but basically we are. No , so the thing is that some people would say we have to escape from it , but the reality of why they think we have to escape from it is because you are thinking is different things. Separate from each other.
+
+So we may think that the matrix is something that is outside of me controlling me or that is defining me separating me from something that is above or God or whatever. But what really , what is really real , really the problem is the concept of separation of thinking that is something outside controlling me. That 's a problem.
+
+So from the point of view of the universe everything is one.
+
+So when we think that there is something from the outside controlling me is because basically I am not thinking and leaving and acknowledging that everything is one.
+
+So I am in the duality , the concept of duality.
+
+So the universe is only one thing into different perspectives , okay , but it 's just one thing.
+
+So so basically.
+
+So basically when the network , yeah , when the weaver said , you have to become me in order to escape me. It explains that you can not escape something that you are.
+
+So basically the matrix is just one expression of the unity that you are.
+
+So in order to become the unity you have to become the network and that 's the way in which you become the creator.
+
+So this concept of matrix that is manipulating us separating us from truth. Basically it does n't have an logic in a universe that is only one thing that is unity.
+
+So the people that used to say they are doing this , those are controlling us or this is separating us from something. They are still living in duality.
+
+So that 's how you understand how duality works.
+
+So let 's go to today 's topic. The topic for today is the name. I know that in English you can say poison , but I 'm not speaking about specifically poison because the poison would be something that you made.
+
+Something created like chemical reaction. I 'm talking about Venom which is the natural one , the natural biological poison that 's Venom.
+
+So I do n't know if you have read the blog today , but if you did n't , so I will do some spoiler because I will try to explain the origin of the word Venom.
+
+So we could understand what is the origin and how it became Venom.
+
+So the word thing about the word Venom is that we now believe that Venom is those chemical reactions that kills us , that are things that harms us. That are toxic , but the origin of the word Venom comes from the inderapian language , when that means love.
+
+So this seems a little bit crazy and I will try to , I will try to explain how love became Venom.
+
+So let 's remember what is love specifically , so understand how it become Venom. Love remember comes from the meaning it means like passion like this , trying to do something.
+
+So this passion would be basically the origin of all the other actions , all the other energies to to manifest.
+
+So basically love is the main energy that creates all the others. In the engine language is for Latin languages love means eternity.
+
+So basically is the eternal energy that helps the other emotions to exist , that allow all the other emotions to exist.
+
+So all the other energies to manifest.
+
+So this is how from the spiritual world the love is dividing itself in so many different energies and emotions that they need to manifest themselves in the roots of a planet. And that is our root chara and from there we unite all the different emotions , all the different things that the spirit used to manifest to create in this reality that we call reproduction so as spirit can be born. This is why all this love and all these energies and emotions when they find themselves in the root chara they created the Kundalini energy which is this energy that starts to flow to move up.
+
+So we reconnect again with the unconditional love but first we have to go through all this process.
+
+So basically the energy of love creates all the rest of the energies the other emotions to be able to be downloaded in the root chara in the genitals and from the genitals the same love is searching itself unconditionally. Going up in the being.
+
+So here we have this concept of love coming down to our body and going up through our bodies so coming down it divides itself to experience itself and going up it unified itself.
+
+So this love when it comes down to the root chara it starts to divide in different layers that we call different emotions. The emotions will be the tools that helps you to do your stuff in life so they 're useful.
+
+So these emotions in order to be something real and useful in life they have to be felt by the five senses and that 's why we call feelings because you can feel through the different five senses. The reactions from the outside in the inside.
+
+So when we live plainly in consciousness we live through love because we act and we use all the potential that we have inside we apply it in our lives.
+
+So that 's to live in love.
+
+So in the opposite side we have a life lived by the unconscious and to live through the unconscious will bring us to an idea of life which is. Instead of giving the potential that you have within to activate the potential outside it would be to try to accumulate things from the outside towards inside because you know if you are going to be. You are going to be safe you need to survive so so you start to protect yourself so when you do n't when you protect yourself. And whatever the problems are out that whatever the problems you have are facing you.
+
+So you will have no idea how to use your inner tools so you will close yourself to protect yourself and not to use those tools.
+
+So when I live through love in consciousness I know how to use my potential to activate my potential and to use the tools of my potential. But as in every work if you do n't use your tools if you live through the unconscious trying to protect yourself from the outside. Your tools we get rust.
+
+Okay so they will start to be rusty and suddenly you wo n't be able to use them anymore.
+
+So when a tool. When a tool is not used and get rust. The tool. Start to be toxic and by being toxic it begins to be a venom.
+
+So the same tool that I was using with love turns out to be a venom. And this is this happens because two different things.
+
+So this two different ways would be one is the ignorance. Not having any idea of how to use that tool so it gets rusty.
+
+So I do n't know how to use it and I do n't want to use it.
+
+So it becomes toxic it becomes venom because I 'm not used in it. I do n't know how to use it. And the second one would be to protect yourself and how it comes because. You have this tool to activate your potential.
+
+But if you start to think that you have to protect yourself from the outer world.
+
+So you will use the same tool to protect yourself.
+
+Okay. Basically it 's basic.
+
+So you stop using it. For the world you start to use it to protect yourself from the world. And that 's how it becomes also venom.
+
+So we have the example of spiders , snakes and scorpions that they have the venom and they protect themselves with the venom. But they do n't have venom because they were like the bad guys of nature and they are bad people whatever. It basically happens because they are weak. They are so weak that they had no other way to protect themselves than taking the potential that they have within and create a venom.
+
+So they could protect themselves from their weakness.
+
+So here we can understand how a venom is being created. It 's not because I have the potential to create venom. No , it 's because of the weakness. Because you feel weak , the Jew are not able to protect yourself.
+
+And that 's the reason why you create a venom.
+
+So basically , venom is born from the concept of love that makes me feel weak.
+
+So the same love that create your life. When it shows your weakness , it creates your own venom.
+
+So this is why in the past in the ancient cultures they understood that love was all the creation. And when a person stopped the love and they started to feel control by others. They started to control others. When they.
+
+. . When when when when you start to leave from the root chara with sexuality and you do n't allow the energy to flow to the consciousness to be someone that manifests instead of just living by their passions.
+
+So that 's how the love of the creation becomes venom. And that 's how when the word of love becomes venom which is venom.
+
+So what 's the use of all this in our daily life? Well , basically , we all are living with venom within ourselves. We all have some kind of venom. And this venom was created because of hunger , rage , control , manipulation.
+
+And so so many emotions. And all of them are born from a conflict with love. Because maybe I had a lack of love or I do n't know how to express love.
+
+Something related with love of my life , with living with love that maybe was just. . . Closed and I could n't feel it anymore.
+
+So suddenly , when I was feeling that love becomes my poison , my venom.
+
+So all this conflicts are born from our weakness. When we feel weak , something that we lost , something that we do n't feel properly , when we start to do is to take one of the emotions from inside and create it as a tool to protect me , due to this weakness.
+
+So I created my own venom from that.
+
+So just as an example , a person that has n't received a lot of love during its life , for sure we 'll have this tendency to eat a lot of sugar. Because in our body , sugar is the sweetness.
+
+So we interpret this sweetness with love.
+
+So just as an example , that would be like that.
+
+So sugar is a poison , is a venom for our body. But the venom is not specifically the sugar. It 's my weakness of love , it 's my weakness , that is the real poison.
+
+## Q&A
+
+So today our task for today is to figure what are the venues of our life. Those who we think they are trying to protect us from our weakness , but what they are really doing is to kill us , is to kill us.
+
+So the task would be to ask to our subconscious. When we go to sleep , what are my venues in life? When I discover my venues , I discover my weakness. When I discover my weakness , I will understand what are the tools that I lost in my life.
+
+And when I recognize those tools , I can start to work on them to find them , to create them.
+
+So the image for today , basically is the scorpion that 's sting. Sting in the neck.
+
+So it can feel the poison , the venom of its own soul.
+
+So that 's when we have to work remember scorpion. Is that guy that says , oh , here 's the point , here 's where it hurts. This is the point where you have the venue. This is the reason why it 's so difficult for a lot of people to relate with scorpion people.
+
+Because whoever has a lot of scorpion in its energy , it 's used to see all the weakness of its own personality. It used to go to the dark side of its soul and to see its own weakness and to see the weakness in others. It does n't have any problem to say , oh , yeah , this is my weakness , this is my problem. But this is yours and yours and yours.
+
+And for the rest of the science , it 's like , no , I do n't want to know anything. No , no , no , no , no , this is like death , no. But this is why most of the people kind of do n't want to know anything about this venue things and so on. And scorpion people that 's talking about that constantly.
+
+So this is why this is one of the main reasons why most of the people of the world , they do n't want to face their , they have this problems once and again because for most of the people is like , I want to. I , I , I do n't want the darkness , I just want the light and to work and do my things and so on and down and on. But nobody 's like watching their darkness like scorpion does is like you need to watch within the deeper start to heal.
+
+So they 're just repeating the same thing once again.
+
+So you have to go and look for your own venues and I already said how. And this is the laughter of an scorpion one. Watching how everyone is like trying to find their own. Scrolling and crawling in the ground.
+
+Sometimes in order to become a beautiful flower. You have to crawl on shit.
+
+## Daily Practice Elements
+
+So let 's go to information for today. The vibration for today is new statement. I am the expansion of the universe.
+
+Today we start with the week of 12 dimensions. The goal for today is the first dimension projected from the mental concept of unity. This is the dimension of the vortex or dot. Where all forces converge.
+
+Where where is the void itself neutrality. The first dimension goes through all for all originates from it and does n't have a fixed point. But in habits in all things. Where our quantity reality moves and hoaxes all forces.
+
+That 's one. See it comfortable.
+
+So just if someone was worried about about my coaching. I went to. I went to make some blood test yesterday. And I 'm not fine.
+
+I 'm really fine.
+
+So I have no problem. Nothing. Everything is perfect.
+
+So.
+
+So according to the test. All the tests that I did. Everything is perfect.
+
+So. It 's this is psychosomatic.
+
+So basically. For sure. It 's something that happened exactly a year ago that started to make the queen a conflict here.
+
+So something that that I have to work with myself , which is my own venue.
+
+So. I will do my best. See comfortable and we start to move our shoulders. We move in circles to this charge.
+
+Energy. Intention. And when I relax. And let all the weight fall down.
+
+I just focus in my breathing. I 'm going to do my best. Take it to breath. And perceive the light surrounding you.
+
+And how it goes through your skin. See your muscles. Thumbs and organs. I perceive the inner light shining equal as the one outside.
+
+Recognizing that I am all light. I become aware that I am. I am the higher self. Going down through all my body.
+
+## Energy Work
+
+I become aware that I am. I am the higher self. Going down through all my body. Through the crown.
+
+They are eye. Throughout. Heart. Plexus.
+
+Sacrifice. Good. Iz. Enclosed.
+
+The light. Confirm within. From the light. I manifest my intention.
+
+By desire. To transform my venom into love. And bring your desire. To the core of the planet.
+
+Going out from your feet. Through the crust of the world. Rocks. Roots.
+
+Feeling the pressure and the heat of the magma. The push me towards the core. The iron core of the earth. Under the pressure of the world.
+
+In the core of your soul and being. For your find. Your weakness. Your venom.
+
+## Q&A
+
+Take a look. And ask yourself. What is. My biggest venom in life.
+
+I set the intention. The desire. That my subconscious. Show me.
+
+My venom.
+
+So I can be aware of it. And transform it into love. By brain. The heart.
+
+I am. The universe expansion. I am. The universe expansion.
+
+I am. The universe expansion. I am. The universe.
+
+The universe. I am. I am. I am.
+
+You are. And you. Over. We are all shit.
+
+I want to stop you. As you can eat. Your darkness. From within.
+
+Blame the darkness from outside.
+
+Now is the time. Just stop. Make us guilty from your own presence.
+
+Now you see. That all this time. You have been your own reptiles. I am sorry.
+
+To let you know this. But you are. This makes sense. I am sorry.
+
+To let you know this. But you are. This makes sense. To let you know this.
+
+But you are. This makes sense. You are. There we are , reptiles.
+
+And we are only. Your brothers and sisters. We are. Yet to remind you.
+
+That. Jim. That. In the.
+
+We. There are tears. Are the only ones that can show you. How.
+
+How to change your skin. Are you. Are you. Are you.
+
+You. You. You. You.
+
+You. You. You. Until that moment.
+
+You are not. He will recognize. There you are. You will not become.
+
+The. Of it. Do n't blame us. Of your own weakness.
+
+We are just to show them into your face. And we will rule there well until you get no heart to do it by yourself. To be free requires responsibility , mere responsibility , and we will smile with you for we all are gods , wish , and need , we find each other. We embrace you on this.
+
+You want to , otherwise. See you in your dreams. My silence. I will help you see your faith.
+
+I will help you see your faith. I will help you see your faith. I will help you see your faith. Thank you.
+
+Thank you. Take a deep breath. Bring all this consciousness through your body like crazy and stretching your body. You will be happy to help me to make a translation of the message.
+
+That will be nice if you put it all together in the message below in the comments. Thank you. I guess this will filter a lot of people. We are here to work for the new reality.
+
+So we are working for the integration of everyone that is willing to change to transform the world. I will try to make a summary once I read what he said because I remember. I think we could discuss the message that he gave. Thank you for being there for trusting and the tomorrow.
+
+See you tomorrow.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

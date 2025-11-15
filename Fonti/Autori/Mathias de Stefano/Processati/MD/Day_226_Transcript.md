@@ -1,0 +1,464 @@
+---
+title: "Day 226 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 226
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 226
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - portals
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 226 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi , hello everybody , how are you? Good morning , good afternoon , good evening. Hope this fun you will. Let 's talk about the topic for today , which is regarding empathy.
+
+So empathy.
+
+Remember that we had spoken about empathy in another video.
+
+So we will try to talk about it again , but deeper.
+
+Now let 's understand the concept of empathy from where it comes from.
+
+So empathy comes from N and Baths. N meaning inside. And Baths meaning pain.
+
+Okay , so empathy is not why we usually call today as something that means to feel what the other one is feeling. But specifically , specifically what we are talking about from the very beginning of this word. This word is how you can feel the pain of others. That 's the origin of this word.
+
+When you feel the pain of others.
+
+So basically empathy means to be in the pain.
+
+So remember , do n't get confused with sympathy.
+
+So remember the difference between these two words. And empathy is to be in the pain of others. To perceive the pain of others to be in the pain of others. Sympathy means with.
+
+So sympathy means to accompany the pain of others. To share to go with.
+
+So remember empathy is to be in and sympathy is to go with to accompany.
+
+So for example myself , Matias , I am much more sympathetic than empathy. Because I do n't understand the pain or the suffering of others. I do n't really understand it. I can go with.
+
+Share with. But I will try to make them laugh or whatever something like this to for them to feel them better. Because I can understand why.
+
+So. Yeah.
+
+So I am not very much empathy.
+
+So each one can relate and know how it is.
+
+So it does n't matter if you are sympathetic or empathy. It 's just attributes of different people.
+
+So it 's okay. We are in the month of crisis.
+
+So we are going to speak about empathy and not sympathy. And of course there is a third one that is apathy.
+
+So the apathy people are the ones that can not relate can not feel. But neither can I accompany. They can not know that what. How to accompany someone that is feeling fine.
+
+But so it is even if they are good or bad. The apathy people will just go away and not to be in touch with anyone. And of course we have the other one that is the antipathic. The anti-man 's against.
+
+So anti-patic is the ones that they do n't want to know anything about anyone.
+
+So they just kind of provoke the pain because they are like , I do n't care. I do n't want an anti-patic.
+
+So the apathy is the one that does n't care because they do n't feel anything. And the anti-patic would be the ones that are against everything. Even if it is good or even if it is bad.
+
+So the other opposition is empathy and apathy.
+
+So the empathy is the one that can be in the shoes of the other one. That can feel and perceive everything and become feeling that pain of the other one. And of course apathy is the one that can not feel anything and does n't even care about feeling or not feeling.
+
+Remember why pieces is the empathy sign. Because when you take the sodium wheel , you will see the 12th sodium signs around. And pieces is the last one. Is the one that ends the whole turn around the sodium signs.
+
+So this means that a person that has taken all the path and walks around the whole entire circle. They end up in pieces. That 's the last step.
+
+So this means that the last one , pieces is the one that can understand what each one is in the same way. What each one of the other signs have gone through. The other 11 has gone through many different things.
+
+So that 's why the pieces one can perceive can feel can be in the pain of the others because they wear there already.
+
+So that 's why they are able to connect to the feelings of the others. They can hack all of them as one. And the pieces archetype is the one that love everyone because they know what they have to go through.
+
+So this is why the pieces aspect of empathy are way can stay intuition because the pieces perception is the one that allows them to or this archetype to feel what the others are feeling. Even if they are hiding it because they know what was happening there. They ca n't relate with what they were living through.
+
+So this is why the patient pieces concept is very good listening to the others. Giving advice to the others sharing with others about the deepest part of the mind and so this is why the pieces people are also related with the spiritual world the ones that can perceive that can that are sensible to what the other people are feeling. There are the lover ones that the loving ones that are unconditionally and they are related a lot with the psychology and psychiatrist because they know how to connect how to feel the other.
+
+So this archetype of pieces is so sensitive so open to the therein realities living this dream that usually they connect with the deepest part the hidden part which is subtlety inside of ourselves related with the trauma related with the conflicts with all the pains that we have within. This is why they can relate to the pain of the people they can perceive the pain a lot of the of the other on the painful memories and they go to the specific painful aspects of the self which are much more awakened in the inside.
+
+So this is what creates the concept of empathy related to the pieces concept. The empathy is very close related with suffering in this meaning talking about pain which is something that was really used as concepts. During the last two thousand to hundred years in our history because during that time we were in the pieces era.
+
+So the era of pieces began like two hundred years By around two thousand to hundred years ago. And we 'll end in the next hundred hundred hundred fifty years approximately.
+
+So the civilization. The humanity that we had this past two thousand years has been defined by the suffering. The suffering was like the main key during all this to. Two thousand years approximately.
+
+So during all this time when we have been living. Was this process of. Of suffering constantly which.
+
+Remember the etymology of suffering is super fair in Latin that means under the iron so a lot of weight.
+
+So in the heart of the person.
+
+So in the contemplation to the suffering of this time the religions and the cultures were trying to look for something that we call empathy. In order to contrast the. The suffering and this empathy. Means to share the weight.
+
+To share the readiness of this iron over our heads so we can distribute the weight and we can all keep moving keep going. This two thousand years that has passed. It was not about. To get rid of the suffering but to distribute the suffering.
+
+So we can. Overcommit.
+
+So the concept of this. Two thousand years was to. Share distribute the pain the suffering.
+
+So the way which you can do this is by offering yourself.
+
+So you have to offer yourself. To help others to be whole to hold the weight. And the first person that we have the registry that did that offering by. It 's own person.
+
+To try to hold. All the rest of the people and the suffering of others was. The teacher the master. Jesus Christ.
+
+So what the master Jesus had done. Was to take a concept of. Sacrifice from the past which was. A ceremony done for the divine.
+
+Using animals. And he take that idea and use it with humans. But offering himself. Instead of offering an animal.
+
+He offers himself. And that changed. The concept for the next two thousand years. Starting at new time.
+
+Which is. A symbolism of the beginning of the pieces era.
+
+So let 's go into the. The entomology of sacrifice so we can understand why then the empathy.
+
+So sacrifice comes from two words that in English when I say it sounds really bad , which is. Sac and fuck.
+
+So sorry. But but those are the it 's the in the etymology them. In the European etymology of these two words.
+
+So the word suck means means to channel is what we today call channel basically it means to download the divine into the physical.
+
+So a person was channeling the divine was representing the divine in the matter.
+
+So that 's suck.
+
+Sorry. It 's it 's fine English. But that 's that 's suck.
+
+So so that 's the origin of the word suck and suck. And suck. Roo. Suck.
+
+Which is. Suck.
+
+So suck. Is the word for channel the divine into a priest into a matter.
+
+Okay. Suck.
+
+So that 's the origin of the word. Suck. And suck. And suck.
+
+In the other word we have fuck. Fuck means to do.
+
+So it means to do something.
+
+So when you basically when you do something that is channeling the divine , you might say in the ancient language. You might say. Suck. Fuck.
+
+Suck.
+
+Okay.
+
+So it 's to do something that is holy to do something that is channeling the divine into the matter. Suck. Fuck.
+
+So. Suck. Fikium. Suck.
+
+Fuck. Is what gives the word sacrifice in English.
+
+Okay. Sacrifice.
+
+So as sacrifice as you see is to do something holy to download the divine into the matter by doing things. Which is a ceremony.
+
+So a sacrifice is the action the act of doing something that is holy that is divine.
+
+Okay.
+
+So what happened that in the all times during the ceremonies of sacrifice they used to use blood.
+
+So they kill animals to make offerings to the god to the ground , to the earth and so they used to kill animals they used to use the blood and the different parts of the animal for this ceremonies.
+
+So that 's why we relate to the concept of sacrifice with suffering. We relate the killing of the animal with the sacrifice which is the ceremony.
+
+So as you see you have. You have that in the sacrifice which is this holy ceremony they used to kill animals.
+
+So that 's why we relate the concept of sacrifice with killing with suffering.
+
+Okay. With this concept of pouring blood. But it does n't mean that all the sacrifice were used in blood.
+
+So of course that we can not judge what was killing this animals because it 's something that we overcome. And we are trying to go over it now. But we can not judge the history. In that time they were just doing something that for them were was holy because they were giving back to the earth something that the earth gave them.
+
+So we eat because of the earth.
+
+## Energy Work
+
+So we give something back to the earth. We the animals were opening a portal to the divine.
+
+So that was their tradition. We can exchange that.
+
+Okay. We just understand this as a tradition.
+
+Now we can overcome this with our awareness.
+
+So when Jesus appears in the middle of this process. He changed the whole concept. It stops the idea of the sacrifice as a ceremony where you offer things to the gods and the goddesses from sky or from the earth. You stop doing that.
+
+And he stops doing that. And he turns it in a different way. The sacrifice is to offer yourself as a being and a where being for the good of everyone becoming straight that portal as a son of God. And this is what changed the concept.
+
+So this pass from the age of areas to the age of faces can be set in the way of in the time of areas. This they would say kill them. You know , like kill them all. And in the time of prices he says do n't kill them.
+
+I offer myself for the rest.
+
+So that 's why he starts to say do n't take the blood of the animals. Drink my blood. Do n't eat those animals. Eat my flesh.
+
+Eat my body. But this concept of drinking the blood of Jesus of eating the body of Jesus is the concept that he wanted to live. That is oneself. The only being that must be offered to a god because you are God.
+
+So it 's not giving something that is unaware of itself like an animal as a gift for others for the gods. It 's budget to you give yourself as a proof that you are holy.
+
+So this is what makes that the people stop using the sacrifices of animals. And they start to make another sacrifice which is to sharing the wine and the bread.
+
+Something that the Christians started to do.
+
+So now let 's go to this idea. 2000 years ago this person Jesus said. We have to offer ourselves to hold the pain of so much and awareness.
+
+So much consciousness that so many other people in the past have been making mistakes. And because of this we have to help the humanity to overcome all these mistakes. Because the next time that we are going to leave the 2000 years that we 're after Jesus Christ are going to be one of the most terrible and horrible times.
+
+So we need to offer ourselves in order to hold and transcend this time of darkness. You know the concept of what 's the message here. We need to help to this humanity to hold all the suffering that they will feel.
+
+So if we hold each other we are going to be able to transcend these 2000 years that are coming that are very heavy.
+
+So what the idea of the sacrifice was that he offered himself to sacrifice to be sacrificed as an animal.
+
+So everyone could remember that idea was to sacrifice oneself to sacrifice oneself in order to transcend oneself. No need to sacrifice something else that is unaware. We need to do this.
+
+So then the messengers that he had left spread to the world to bring the messages , the new messages that this master has said. New message in Greek language you may say Evangelist.
+
+So now what happened with all these people that started to spread. They give the messages. But the messages were started to be adopted to the people in the different regions.
+
+So every region started to interpret the messages according to their own cultures and religions to their own spirituality.
+
+So this is how it was re-adapting constantly once and again.
+
+So everything started to be changed. The Nordic changed the idea. The Mediterranean people changed the idea. They started to put the images of the solstice and equinox.
+
+They started to mix all the religions and cultures creating a hyper image of Jesus that was never like this.
+
+So all this story that we get today about Jesus was not like this. Maybe it 's 80 or 90 % wrong when we get today. Because what they what you were doing there is nothing related to what we hear today. But only one thing we can say about him that it 's been 2000 years already and we are here speaking about him.
+
+And he sacrificed. Practically the history of Jesus is only the 10 % of what we hear today. Because most of what we listen today is many other stories that were put in the image of Jesus. But it was not his story.
+
+The entire history is all mixed with many different things. Which are not important things because most of them are just stories that not even him has lived.
+
+So the important thing here is the essence of the message that sometimes you can not even explain. That they went through the history through many religions and that you maybe can only feel not read about it. And one of those changes is the sacrifice of the external changed into the sacrifice of empathy. One point about all this because sometimes we even from the negative or the positive we stop talking about Jesus all the time.
+
+And it does n't matter if he existed or not existed. It does n't matter even his name. Jesus was the name that people gave to him. Maybe he was called baby.
+
+I do n't know. It does n't matter what really important is the message that survived through him. Not if he existed or not. He 's a concept beyond a person.
+
+Remember that the names are not important is a concept.
+
+So it 's not his name , Jesus. Jesus comes from the word Yehuda. Yehuda means the Savior.
+
+So the people called the one that came to save was called Messiah.
+
+So Messiah was the one that came to save and he was the salvation which is Yehuda.
+
+So the salvation.
+
+So that 's the origin of the name Jesus. Yes? And then the people said he is the chosen one. The chosen one in Greek language you say , He 's the Savior who was chosen.
+
+So basically , basically , when we have of him , it 's not names. Is the ways how people used to call him.
+
+So I do n't know his name. That 's why I used to say this person instead of just Jesus. Because Jesus is a concept of people in that time.
+
+So now imagine this concept , Jesus Christ , was the fundamental of the 2000 years of the pieces era in which the empathy was the key of survival of suffering.
+
+So the suffering was so much that we needed to hold this suffering by empathy , by helping the others , being servants of the other humans , serve to others , love the others as you would love to be loved. And so distribute the pain and to help the few that are suffering a lot to take the burden of their own crosses.
+
+So this concept of empathy of helping others is the key during this 2000 years. And we inherit all these concepts through these centuries behind us from this master , from the concept of Jesus Christ , this person that offered himself in order to help us understand the importance of helping others of being in service to others. And now from that point of view , from the point of view of sacrifice , remember that we have inside the suffering which was this idea from the animals being killed during the ceremonies of sacrifice. And this animals that were killed for the gods was to kill a goat in order to have to be loved.
+
+And so we wanted to have more goats as an offering.
+
+So that was the whole idea.
+
+So throughout the history and when the Christianity started , we took this idea that we have to suffer in order to make a sacrifice. Because we are the new goats , basically. And we have to help the sheep , how they say lambs.
+
+So we are the new ones that must sacrifice in order to show the others by suffering that we are willing to help the others.
+
+So this concept of empathy is related with Christianity.
+
+So now pay attention to this. All this concept of empathy , which is born from the Christianityism , this concept of empathy as the pain.
+
+Now it does n't have any meaning. Because we are now entering the age of Aquarium. And entering the age of Aquarium means that we are not like in pieces willing to feel everyone and holding everyone. We are entering the age of freedom.
+
+Aquarium is freedom.
+
+So now the concept of empathy must be taught not by the sacrifice of pain and suffering , but the sacrifice of freedom. The sacrifice is to give everything in order to help the people to set free from the weight of the cross. This is the new time.
+
+So all these 2000 years was n't just about suffering because it was like this.
+
+Now the age of pieces was to teach us about empathy. Was the one that taught us how we can understand the suffering of others , how to go into the depth of the darkness of the soul. How can we be in the place of others? How can we relate with others to live the wars to live the conflicts?
+
+We needed to understand how it is to feel all that , to be in the place , living all that in order to now become free.
+
+So the message of Jesus was how to be empathy in the time of pieces. And his teachings are still good for those who need , like us , to learn still how to be empathy with age of pieces. Because we are not going to be able to get inside in the freedom of a new time without being empathy with the suffering of the previous era.
+
+## Q&A
+
+Remember that the teachings from 12 , 2000 years ago were according to the environment of 2000 years ago. For an era that we knew it would have to be very empathy. The question could be now , how are they going to see us in 2000 years more? Are we doing right , I will sacrifice?
+
+## Daily Practice Elements
+
+The vibration for today is huge. The statement for today is , I am the will that creates the code for today is to use. To achieve that purpose , our life 's mission , we must learn to use the tools acquired by the feelings , the power , the side , the desire , all the things that constitute me have a logic. Are you to teach you full-filit?
+
+For that , the attitude of use in is the ability to develop our own tools of remaining ourselves , of developing and getting better after trial and error , over and over , transcend in ourselves in every attitude.
+
+So let 's go to the alignment.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+We are going to do this.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

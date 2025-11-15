@@ -1,0 +1,227 @@
+---
+title: "Day 74 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 74
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 74
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - crown chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+  - month hold
+  - month hole
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 74 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone , so good wedding night everyone.
+
+Today we have two weddings.
+
+So here we are. I just realized that the computer has low battery. I thought I was charging the battery all this time and I came here and it did n't charge.
+
+So I have 33 % so I guess I will try to be short in explanation.
+
+So it will do it. Just I do n't have close the place for the charger.
+
+So I just wanted to say before everything that I have been watching in the social media and my social media that there has been different comments of people that are like same bad things horrible things and fighting against not only me but also all the people.
+
+So I checked on those users and they are fake profiles.
+
+So they have nothing , you do n't have information , you do n't have anything. They just do these accounts just to criticize and to put bad things.
+
+Okay. Just if I blocked them so they do n't bother. But if I just wanted to say this because if someone writes to you or someone is doing writing bad things so usually there are these fake accounts.
+
+Okay.
+
+So do n't put any on them and that 's it.
+
+So for today information is an extra version and introversion.
+
+So in the book I explained it a lot.
+
+## Q&A
+
+So if you have any question or want to go more deep in details so you can go to log and log.
+
+So I will try to make a summary. Everyone knows that to make a summary is not my thing.
+
+So first of all to understand this let 's remember the origin of these two words.
+
+So extra version and introversion comes from the word the first one X and in X inside. The word tra means between.
+
+Okay.
+
+So extra it 's between what it 's outside and intra is between what it 's inside.
+
+Okay.
+
+So version is the is comes from versus which is to turn to turn back to to bend.
+
+Okay.
+
+So extra version would mean to to bend to turn what you have inside towards the outside in relation with the outside and and introversion is to turn everything that is outside within two words inside.
+
+Okay. That 's the simple explanation of this.
+
+So basically what we call an extrovert person would be that person that is able to connect with the others that is willing to talk with the others that knows how to treat the people in the world and the introvert person would be the one that prefers to be with itself alone , quiet , no related with anyone in the outside.
+
+So this is why we have the extrovert and the introvert as a duality , as two different things that are separate and against each other. This process of extroversion and introversion would be would be something related as the habit going out and going in.
+
+So this is like a habit of the of the soul , like the like the beat of of this heart of energy that is moving towards the outside to touch the information of the whole world to be in contact with everyone.
+
+Okay. That 's the beat out of the heart of the soul and in the opposite , the soul is going to contact to contact with herself within.
+
+Okay.
+
+So when we see these two concepts as going out and going in like the heartbeat of the soul , we will understand that these two are not different things that these two are not concepts that are against each other , separate from each other , but they are of a mechanism of the organism of the soul.
+
+Okay.
+
+So it 's something natural that helps the universe work.
+
+So remember that that we have spoken about this many times before that the universe is a constant wave of vibration.
+
+So in the shape of the wave of vibration , we have also a different wave and the negative wave that constantly move the energy of the universe.
+
+So we can call the positive one like the extrovert and the negative one the the introvert. That what does this means that that this is an inevitable pose of creation.
+
+Okay. It 's a constant. According to this , we have to recognize that this is how the soul expresses and moves in the universe.
+
+So we have to remember that usually we picture the soul as kind of a post something that it has our shapes , but it 's more transparent and transparent.
+
+So we can picture the soul something like that , but from the point of view of the universe , from the point of view of the universe , the soul is energy , basically that.
+
+So it does n't have a specific shape. The light , for example , the energy of the universe is moving through this wave of positive and negative.
+
+So this is why the light moves like that in kind of a shape of a spiral.
+
+So in this movement is how we could imagine the soul. This is why we could picture the soul more of the shape of the Kundalini. Then our ghost.
+
+Okay. What we usually , the picture that we have to understand about the soul is that the soul is not something specifically poetic or emotionally emotional as we can imagine it , but the soul of the universe is the energy expanding and moving around. This is why in English you say soul , I do n't know the origin of the word soul , but you have the word soul in Latin , in the word animal.
+
+Okay.
+
+So animal or animated , this words come from the origin of the idea of the soul , which means something that moves.
+
+Okay. In the long word animal , means something that is moving.
+
+So soul is related with that concept , with the movement of things.
+
+So something that moves in the universe is the soul.
+
+So when we call the soul of the cosmos , the soul of the universe , is when we speak about something that is moving out and moving in.
+
+So this is the heartbeat of the cosmos.
+
+So when we say the heartbeat of the soul , we are talking about energy , expanding and contracting once and again.
+
+Okay. That that would be. And this is the way in which we perceive the charts , which is as spiral spinning out and in , out and in.
+
+Okay. Extroversion and introversion are the two processes of the soul in order to understand the world outside and the world within. The first step of the soul is to express outside , because the energy of the universe needs to express to touch each one of the perceptions that is in the outside. After this , what we do is to put all the different parts together inside , so we could give it a sense , a meaning , a logic as a whole.
+
+So that 's the process of introversion.
+
+So in the past days , we have been speaking about the concepts that the being is doing with the parts and the , and the conjunction of the parts. And now we are trying to understand the process of the soul doing this , this integration of the concepts. The extroversion is the process from which the soul is trying to acknowledge the information of the present , living the present. And then the introversion is the process when I try to give a meaning , a purpose of to that present , by the ideas of the past and the future.
+
+So this is why the people that is introvert usually is , is people more connected with the philosophical with the big perception of the reality , thinking about more in the future ahead than the people that is extrovert living here and now.
+
+So also our civilization today , our society , usually is more extroverted people , because basically societies were born because of extroversion , because society are made up of connection.
+
+So people must be connected. We need to share things in a society.
+
+So this is why the society needs extroversion in order to be connected and sharing the stuff.
+
+So that 's why the society thinks that introversion is something wrong. It 's like a mistake in the system that what you need to do is to be extroverted in order to be part of the society. What I wrote today in the blog is that the introverted people usually are people that changed humanity because they are able to think more in terms of time.
+
+So they can bring solutions in long term , okay? Not in short terms like the extroverts.
+
+So this is why they usually change more society.
+
+So one of the conflicts that we have today also is that usually the introvert people is trying , is losing a lot of energy and focusing what they are supposed to do , because they are wasting the energy trying to be extroverts because society says you have to be extrovert.
+
+So this is one of the problems we have. The real thing is that we can not be 100 % one and 100 % other thing because we should be both of them in balance because when we are only extroverted people , we are chaotic people and when we are only introverted people , we are so structured that we are allowing ourselves to change. We have to understand that this projection of extroversion and introversion should be like the seasons in our planet. Spring , summer , autumn , winter , the four , we can take that like summer as the highest point of extroversion and winter as the lower point as the higher point of introversion.
+
+So the earth basically do that like try to , in winter , try to understand the process and to hold the energy to understand everything that was expressed in the summer , in the extroversion process.
+
+So this is why it 's so important that we start to respect the extroversion process and introversion process of others but also both processes in ourselves by our own life.
+
+So remember that this is the heartbeat of the soul.
+
+So when one is going there to look for information , the other one is receiving and understanding all that information.
+
+So the line in for today will be to try to balance , to put in certain tension to balance these two different processes in ourselves.
+
+## Daily Practice Elements
+
+So I 'm going to read the information for today. The vibration for today is fee. The statement for today is I am the flux of love.
+
+So the code for today , the information is duality and it says duality is the projection that we call duality. What lies in the particle , it 's real and what it 's projected from it is an illusion. It 's the eye and the light that allows him to see third. The positive and the negative app and down inside and outside , feminine and masculine , time and space , all existence to exist needs the concept of duality as a reference for perspective and experimentation.
+
+For two , four are needed to generate tension and friction , energy and action.
+
+So we see comfortable , we stretch out the , start to yon. And relax your body. Take a deep breath. Take a deep breath and perceive the air inside your body , spinning feeling your body empty , only a twitter of wind.
+
+## Energy Work
+
+I perceive the air outside connecting with the air within. I perceive the energy the soul starts to move within the body , spinning with the wind in a colorful bowl , dance , expanding throughout the skin , spinning like a twitter around with the colors of the rainbow , all my soul expressing around and within. Perceive the light of the sun of the I am above you and put your hands at the high of your heart facing the sky , feeling the light. Take a deep breath and perceive the light of the I am coming through the crown , the third eye , the throat and anchoring in the heart with a beautiful green light.
+
+I perceive the heartbeat , expanding the green light all around myself , all around my body. And this expansion starts to feel , to fill up my hands with this beautiful green emerald. I perceive and become aware of the heartbeat of my soul , expanding in every direction.
+
+So , like this , I acknowledge in one hand all the moments of extroversion of my life , and in the other hand , all those moments of introversion in my life , both of them are the heartbeat of my soul. Take a deep breath and become aware that I need the balance of both of them in order to create. Both of them are the eternal energy that I call love. I take my hands to my heart , unifying my extroversion and introversion as one unique force.
+
+And through my vibration , I activate this unique force. I perceive and become aware of the heartbeat of my soul. I perceive and become aware of the heartbeat of my soul. I perceive and become aware of the heartbeat of my soul.
+
+I perceive and become aware of the heartbeat of my soul. I am the flux of love. I am the flux of love. I am the flux of love.
+
+Take a deep breath. I feel all the energy of love of my soul out and inside of myself. And with my hands softly , I start to bring this energy of love throughout all my body by crossing , messaging , stretching and winning. And when I feel ready , I start coming back here now by opening my eyes.
+
+Hmm. Hmm. Wu In.
+
+So , as always , thank you for everything and just as a reminder , I would recommend for you to read before the blog , so you have more information during my explanations here.
+
+So , as always , drink a lot of water and rest to assimilate the information. And as always , see you tomorrow at the same time for the plexus. And I say goodbye with the 5 % of the 3. Bye!
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

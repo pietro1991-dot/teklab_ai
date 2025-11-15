@@ -1,0 +1,204 @@
+---
+title: "Day 254 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 254
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 254
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - root chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+  - breathing exercises
+
+practice_elements:
+  chakra: "Third Eye"
+
+---
+
+# Day 254 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Third Eye`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening. I hope that you all are fine. The topic for today is impetus , the momentum.
+
+So , the impetus is the strength with which you respond to something. We have things speaking about this , pulse and impulse.
+
+So , what is the pulse? The stupid comments , the ones that stand and confuse.
+
+So , that 's the pulse.
+
+So , the pulse would be something that comes from the outside , it 's like the cos. And the impulse is the answer. The answer is that there is a comment , the pulse , and I answer directly to that comment to that someone by impulse. The pulse is something that you receive that is moving through you.
+
+And the impulse is something that originates within towards the outside. That 's why it is impulse in pulse. The pulse and the impulse are related to the unconscious way. Because then conscious is when you are responding by positive and negative.
+
+## Q&A
+
+That would be. Impetus comes from the concept in which is inside. And that means that comes from the word bitter. That means to look for something , to ask for something or to the regular self to something.
+
+So , impetus is not something that is a reaction from the outside. It 's logically speaking. It 's something that grows from within from the inner strength that is trying to look for something. That 's trying to look for something outside.
+
+So , the impetus is talking about an inner strength that is trying to bring us to reach and answer in the outer world. To look for something. The impetus , it was describing the job of a military , of a soldier that is going to look for something. Look for something that arrives into fight for something ahead.
+
+Trying to find and to give a fight in another place.
+
+So , that 's why it 's logically , we and our cultures , we start to bring this concept here. Related to the soldiers , the warriors , the ones that goes to war.
+
+So , that 's why it is the reaction of the one that is fighting for something.
+
+So , today we have this two concepts of , these two concepts of the impetus. One is the oldest one that is when we say having this impetus is like having this energy to move forward and to do something with will and strength and power. And in the other hand , the military way of seeing it , which is to fight for something to move , to suddenly move into violent movement. Yes , today we were talking about leaving , releasing , letting , letting free , setting free something that we have with them.
+
+## Guided Meditation
+
+And how do we do that with impetus? Why? Because when it goes out , it goes with strength to the outside. And from where it comes this strength from the air that we had in our lungs , when we breathe , we take the energy from the lungs.
+
+The heart , the emotion. And all the strength that is here , it goes out through the throat , which is with impetus , I set free with the inner strength of my emotion.
+
+Now when you are releasing the things , you will do it through the impetus of the will of doing the things , manifesting the things or fighting the things outside. And now to understand where it goes when we release this thing outside. But we have to get to understand here , it 's to remember when we have spoken many times , which is everything that is outside is absorbed , interpreted by the inside by the brain. Trying to be understood in our brain.
+
+So whatever we receive from the outer world is not exactly what happens in the outer world is according to what our inner world understands from it and perceives from it.
+
+So now what happens with the brain is that whatever we brings to us the pulse has an answer called the impulse , the answer that pulls that comes from the outside. And the rest of the information that we , that the brain says , I do n't care about this , is x pulse , x pulse , which means to take out this pulse , all the things that we do n't need. That the brain thinks we do n't need. What does the brain bring in that information?
+
+It creates archives , a registry of data. And how it does this , for example , we have a person here that said something wrong to something but or ugly to us. And all the information that is ugly will be related to that person. Because it 's easier for the brain to administrated information in that way.
+
+So it 's not that this person that did something bad to us , something ugly , horrible , is directly related to being horrible. But our brain does this in order to understand it. This is why a person that does something wrong to us , our brain starts to say , for example , this is wrong , this is bad , or this is ugly , this is horrible , smells bad , and all these concepts. Maybe the person is not horrible , but the brain understands , interpretive that person as horrible.
+
+So the brain usually , when it will try to do is to cover these things from the outside with many of those things that we do n't like.
+
+So it tries to protect ourselves. It like it seems to us , be careful , this can be really wrong.
+
+So what happened , that the body , when it tries to , by impulse , set this force , this energy out , setting it free , what the body will do is to send it towards those people or things that our brain is thinking about , related to that force.
+
+So this is a natural mechanism of defense. It 's not wrong , either good , it 's nature. Because this is nature , it 's not that we have to take it out from us , is that we have to learn how to channel that. This is a long path , this is not something to do right now or today.
+
+## Q&A
+
+So this is something that we have to work with our entire life because we are humans. The key tool to start to work with this is to ask ourselves , why do I feel this with this person? Why do I have this thoughts about this situation? Why do I react like this in this usual situations or environments?
+
+When I start to do those questions to myself , to my own being. That 's a way in which we can start to understand this.
+
+So the second step of this is to accept that this energy that I am feeling with this other situation or person was inside of me was a feeling that I was feeling with them. Yeah , the second step is to recognize that it 's me who feels it , not the other person.
+
+So this is a personal perception of the things. And of course , the third step is for us to recognize that what we feel , what we do is only our ego trying to protect itself. In order to do this properly , what I have to do is to make the ego nude , to set it out of the clothes. To make the ego nude is to get rid of the personality for a moment.
+
+Personality , person ne comes from the Greek word , mask , the mask. This is not just to say , oh , that 's the ego. No , this is to show to the ego , hey , I got it. You do all this to protect myself.
+
+The ego is not wrong. The ego is just trying to take care of itself. It 's a tool.
+
+So the ego is that part that is just trying to help us to stay here to be here. What we usually do when we release this energy with impetus is to throw it all towards the things that the ego think that are wrong , that are evil. The task here is that instead of just releasing the things to the people outside that the ego think is the problem , what we have to do is to come back and to ask that to ourselves to our ego , throw that to our ego. And this is horribly painful.
+
+This is really difficult because the ego is used to expose all the shit away. And we stop doing it towards the outside and we come back to ask , doing the questions to ourselves , the ego enters in crisis and starts to break down fall apart.
+
+So this is really painful for those who had not much self-esteem , but that 's the way. Here comes the moment when we understand this , in the spiritual world , usually we have been said all the time that we have to rise up our frequency and vibration by saying how important we are , how beautiful we are , how enlightened we are on all these beautiful things in order to rise up our vibration and to be better. And I would say yes , that 's true , that 's how it is , of course. But the people that is working with the ego , with yourself , trying to reach behind the personalities , what they need is exactly the opposite , which is to go beyond the ego.
+
+So that 's why when you are in this path , if I am trying to find myself my conflicts , my inner conflict and everybody is saying how beautiful I am , how perfect is everything and love of that and all this is and you are okay , it 's everything fine , everything good. What happens is that I will never see exactly what is happening to me , I will never be able to understand my own problem.
+
+So here comes the moment when I take my own energy and when I have to release this energy immediately my ego will say , is his fault. Putting it outside , so the brain can protect itself , the ego says , is not me , is his fault. And we bring all that outside.
+
+So this is why it 's not about to eliminate the ego , transcend the ego , live away the ego , it 's about to know what is the place of the ego. And that ego has a main tool which is to open itself to receive information or to close up to protect itself. That 's one of the main goals of the ego.
+
+So that 's why normally the ego when needs to release some energy and tension outside immediately just opens , take it all away and then close up again to protect itself.
+
+So when I start to work with my ego , what happens is that instead of taking it out to defend myself. The simple thing that I do with the ego is to say , I open myself to this or I do n't want this. This yes , this no. No fighting , just yes or no.
+
+And this is the real key of impetus of the momentum , whether we take all out to others or we just go inside to our center. You got it. I will put , I would go to the point now again.
+
+So the key here is to know what are the things that we are really saying yes or no from the center and what are the things that we are just exposing and fighting against. And the ego is trying to protect it protect ourselves from. When we go through this path of analyzing the ego , we can get into a crisis. But once we get into the truth of the ego , we understand the reality of the ego , which is to be in the center , the core of all things.
+
+That we have been living a lie. We realize not moment that all that we lived was a lie. That we have just projecting in the outside something that we wanted to be. I see this simple example would be to say , I myself , I 'm keeping stuff for myself , I do n't want to share things.
+
+So I keep them all to me. I point out to the fat guy and I would say , oh , that 's fat. That person is fat and that 's not good that you are fat.
+
+So you 're fat. But the task for us would say , wait a moment , I am fat. I find myself fat. I start to realize that I am fat in soul , in mind , storing things within me to put myself into that.
+
+So now we would say , for example , instead of a fat person , it 's an ego person. Oh , this person has a lot of ego , a lot of ego. And you 'll remember this say that when one finger is pointing that way , three others are pointing your way. When us with impetus are setting free what we have inside with this little finger going that way , we are just trying to protect the little ego that we have here inside our heads.
+
+So is this wrong? Note , it 's not wrong because it 's natural , it 's human nature. It 's good , it 's fine , it 's okay.
+
+Now when we are working in the path of consciousness , well , yes. We have to think about it , we have to try to work on it.
+
+So this is why when someone say something wrong or something against or whatever , I never say names or going against anyone. I 'm talking about the process that we all are going through , that we have to acknowledge about those things.
+
+So what I was pointing at today was just because there were concepts that were misunderstood , that needed to be explained.
+
+So now , as an example , of course , that what I have to do after explaining all this is to go in front of the mirror , look at myself and ask myself , do n't you see that this thing 's happened because you are showing your ego all the time in front of thousands of people. The Jewel are , the living that you are the one important able to explain this. Otherwise , you would n't have these situations and there would be no need to explain this topics.
+
+So it 's only you , it 's only me who is creating this situation because I have been pointing with this finger and blocking people with this finger. And that is my job to work. And I will say to many of the comments that give me advice about my life and how to handle my ego and stuff. This is my job to do.
+
+I put my life as an experiment to show you things. But I know all my defects , I know what I have to work with myself. I do n't get inside of your life telling you how to leave your life.
+
+So respect mine too. I 'm big enough to know that if I have a problem , I have to go to ask for it. Welcome to the energy of areas.
+
+So probably next month I will forget that I have the alignment and I will be , I do n't know , sleeping and eating in my bed , but that would be another story for a tourist time.
+
+## Daily Practice Elements
+
+So let 's go to the linemen for today. The vibration for today is 3. The statement for today is I am loving wisdom. The good for today is mercury.
+
+Following the order based on the proximity to the sun , the second smallest planet and the hottest one is mercury. It means merchant. This means the sellers that travel from town to town. Not only selling , but also telling stories and bringing with them art and culture.
+
+This way , their protector got his mercury. Who has that characteristics of communication movement , of messengers , literature , literature , literature , the word and the truth. I become aware of the space I find myself in. The body I live in.
+
+And my own breathing. And in front of me , I observe a light , my soul as a spark that ignites. I take a deep breath , bringing this light to my prime chapter. I pay attention to all the ideas that are within me.
+
+I stand with impetus. I expand them to the world with wisdom and love. I take a deep breath , bringing this divine spark to my third eye. I take a moment to feel , perceive all the thoughts that cross my mind right now.
+
+And with impetus , I expand them to the world with wisdom and love. Ignite this spark. I discern this divine spark to my third counter. I take a moment to think about the hidden truth within me.
+
+I stand with impetus , I expand them to the world with wisdom and love. I descend the divine spark to my heart. I take a moment to think about the feelings that I have. And with impetus , I expand them to the world with wisdom and love.
+
+I ignite the spark. I descend this divine spark to my plexus. I take a moment to think about who I am. And with impetus , I expand myself to the world with wisdom and love.
+
+I descend this divine spark to my second eye. I take a moment to think about the things that I have created. And with impetus , I expand them to the world with wisdom and love. I take a moment to think about the things that I have created.
+
+## Energy Work
+
+I descend this divine spark to my root chara. And I take a moment to think about the things that I have. I expand them to the world with wisdom and love. And ignite this spark.
+
+I take a spark to my knees. And I take a moment to think about my history about my heritage. And with impetus , I expand it to the world with wisdom and love. I take a moment to think about the things that I have created.
+
+And I take a moment to think about my path on the purpose. And with impetus , I expand them to the world with wisdom and love. I expand this divine spark to the world in all the directions with all the impetus , my energy. And with impetus , I expand it to the world with wisdom and love.
+
+And with impetus , I expand it to the world with wisdom and love. I am the loving wisdom. I am the loving wisdom. I start to bring this consciousness all over my body with deep , stretching , warning.
+
+Here and now. Thank you everybody for being here.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

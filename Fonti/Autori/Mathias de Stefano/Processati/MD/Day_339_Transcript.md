@@ -1,0 +1,182 @@
+---
+title: "Day 339 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 339
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 339
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - I AM presence
+  - month hold
+  - month hole
+
+---
+
+# Day 339 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+I have everyone in the morning , but afternoon , for the evening. As you see , I 'm not in my 100 % I am still rolling around. It just was in some comments that some people leave that the state in which I feel right now is because I have. And no.
+
+People is not what I have. It 's a catalytic depression. It 's very different. I guess there are a lot of people who are very suggested.
+
+But not everything. Other people were saying because I am not maybe the heat of the sun and so on. No , I have been many days inside , not seeing the sun. I have no idea what it 's heat.
+
+It 's not the sun. What I have is the depression. And I am not afraid of saying it. I have a depression.
+
+It 's okay. It 's not a big deal. And it 's funny also to that I 've heard someone , some people that were saying that I am depressive. I am depressive person.
+
+And I am not an depressive person. I am going through a process of depression , which is not a thing. I am not depressive. I am in a process of depression.
+
+And that 's it.
+
+So I was saying that that is not to feel. To feel depressed is normal to feel like this is not only about me. It 's not only about my process because I really thank all the messages that you give to me. Because what I am feeling , but actually I am just one of so many that are feeling like this every day.
+
+We all , every human goes through a process of of depression , sometimes in in life. But now in the current days , we are going through much more deeper depression processes than we are going through. And this is because everything is changing constantly every day in our lives. When things changed , normally our brain , our body , our trying to adapt to those new things and trying to grab to whatever they can from the past to have a point of reference.
+
+So it can adapt according to something known. But what really happened is that the body gets stressed in that moment.
+
+So under pressure.
+
+So that 's why we start to live at the pressure. And nowadays , when we are living every day , it 's a constant change. People used to say for some of that sentence and those generations born after 2000 , the year 2019 , 80s. Since that moment , the people started to be much more weak , stressed , sensitive than before.
+
+And I 've heard this criticize that critics like saying that generations of today are not stronger generations from the past. But what really happens is that something from everyday changes were in long term.
+
+So people had time to adapt for many years to want reality.
+
+So that gave them kind of an emotional stability. But since the 80s when internet communication , the globalization start to be much more wider and changes in society , start to be for everyday. It became much more difficult to adapt and to find stability in a constant change in environment. This is why our physical starts to get stressed and annoyed and of course the press is a natural process in a constant change in environment.
+
+So this is why we are much more sensitive , humanity than 50 years ago. We do n't have time to adapt.
+
+So this means that there is no place to have as a reference. There is no stability or a north to go to find.
+
+So it 's so unstable that we do n't know what to do.
+
+So today we can describe that. This constant stability takes us all the time to situations in difficult ways to remove our fears. And we do n't know where we are , where we are , where we are , and this constant movement takes us to this situation in circumstances in which we have to face many of the fears and many of the things that we have to do. And we can see that our related to our capacity to find a stability to stand up in one fixed spot.
+
+This is why today I relate. I relate to the fact that we are related with the ocean. Because the ocean is like this big massive water that is hold in between seas. It never touches the content.
+
+And it does n't have a real structure. It is flowing around without any limits as a terminal. In this path of spirituality and awareness , we usually speak about the subconscious as if it 's something that we are talking about. If it 's something that is within us , something inside that you can go there to look for something.
+
+And when you discover it , you heal it , you become aware.
+
+So kind of make it disappear. But actually it 's not right like that. The subconscious is not something you can hold within. It 's something so big that you can barely picture how it is.
+
+So the best way to imagine how this subconscious is to take your body as if it is the conscious part of yourself. And then the subconscious will be like an ocean where you float. This is how you can tell that the subconscious is so huge and something that is around you that you do n't even know what is really there. And actually we share the subconscious with many others.
+
+It 's a constant expansion of information that we can not acknowledge. I was right in today in the post about some facts that can help sustain how tiny is our knowledge about the consciousness and the subconsciousness. If we take the whole planet , the surface of the planet , we can say that the 30 % is continents is ground or you can walk. And the 70 % is water.
+
+So you can have the walk in it. And inside the 30 % of the continents humanity only knows the 25 % because there is one 5 % that we do n't know. Inside of each you have Antarctica for example that nobody knows what is under the eyes. It 's an entire continent that we do n't know.
+
+There are areas from other continents that we also have no idea. And inside the 25 % a person that could travel along many countries , no many cultures only knows the 1 %.
+
+So that gives that most of the people just know of the 0. 00 and something. Which means that from the theory that we could acknowledge that we could walk through , we barely know anything.
+
+So that gives us the idea that what we think that we know , that all the things that we actually know that they are like many cultures , many countries , many traditions that we can picture that they exist we do n't know. We have n't been touched with and we have n't much about it.
+
+So we barely know actually what we could really know by consciousness.
+
+So now I imagine the oceans. 70 % water in the planet where we ca n't leave that we have no clue no idea what it is there. Inside the 70 % it would take us as a whole so a new 100 %. The 80 % of the oceans we have no idea what is there.
+
+We have no idea what is on the boat.
+
+So it 's impossible to know because we can not leave there. We know much more about the sun , the moon , the space , other planets than even what we know from the oceans.
+
+So they are really close to us but we do n't know it.
+
+So if we think about humans in the water the lowest we can go to the depth of the water as humans is at least 13 meters just 13 meters. And because the ocean is tons of water is so heavy the water is so much that it is kills and kills of water pressing your body.
+
+So when you go until 13 meters is the most that the body can stand. And after that we get so so much pressure and there 's so much pressure that we can die. This is why we need machines to go under like submarines for some other equipment that can bring us way below. And also really fine to know that the common depth of the oceans is 4,000 meters.
+
+So it 's a lot. 4,000 meters has a common depth of the oceans.
+
+So just think about the tallest territories of the planet like T-Bats and the Andes they are at 4,000 meters. And almost no one lives there.
+
+So the rest is in the water mainly 4,000 meters and when you go also to some places like the Marina trench. You find that it even reaches the 11,000 meters. There 's no mountain like this in the planet is so deep. Like the Everest I guess is like 8,800.
+
+So it 's very deep. Also it 's interesting to know that most of the animals that lives that we know lives in the ocean they do n't go much other than 1,000 meters. And they usually live in only 500 meters deep but not much more. After those meters not even the light arrives to the floor.
+
+So it 's hard to disappear.
+
+So after a thousand meters you have only darkness. This is why nobody knows what really is on their the ocean because you do n't have a light. You do n't have anything to see check what is there.
+
+So whatever lives there has to create its own light or not even use it. This is why the sailors in the past they used to create these stories of mysteries and histories of horror like monsters in the ocean that they could kill them. And because everything was unknown where was under the water. This is why the ocean is like the most clear example to see how the subconscious works.
+
+And so comparing it we can say that the ocean is this subconscious and when we decide to dive inside this ocean to check what is there to know what is hidden. We only reach the 20 % of all the knowledge and all information that you can find in that ocean. You have an 80 % which is unseen. There 's no light there.
+
+There 's so much pressure that you can not find anything. It 's impossible to see.
+
+So inside this 80 % in the darkness there are like millions of species that we do n't know creatures that maybe has shapes that we had n't even seen. And we go for maybe just an octopus or something like that. Because we can see it we do n't have light and we can only feel it. It 's carries us because we are afraid of the known.
+
+So in that depth so under the ocean most of the creatures can not have bones or structures that hold organs because the pressure to break bones could make implosion in the organs. That 's why they used to be like jelly. They do n't that they support or displeasure because they can be. And also because there is no light they can.
+
+They did n't have the need of creating a cape of skin.
+
+So that 's why they are transparent and you can see through them. And so that 's why there are like weird creatures with a shape of ghosts.
+
+So we can clearly relate the ocean with the subconscious because it 's going to the depth to the darkness. On the pressure swimming in them known and surrounded by ghosts. We were not designed to be so deep in order to live in subconscious. We were designed to live in the surface not more than 500 meters or 13 meters for us.
+
+Which is the unconscious part of the planet where the currents are. This is why sometimes we make a mistake. In between the unconscious and the subconscious. We live in the unconscious because we used to be brought by the currents in the surface of this ocean.
+
+So this is why we have so much fear when we have to dive into looking to our subconscious. Because not because the subconscious or the depth of the ocean are a bad thing. But because we had n't been designed for that. If we want to live a perfect human life , we can be aware of the surface which is the conscious walking through the continents.
+
+Or the unconscious is like the layer of 13 meters that surrounds the planet in the water. But if we want to become one and to understand the whole thing as one , we have to dive deeper in the subconscious. This is why it 's so difficult to face the subconscious when someone is feeling like this , like sad in depression. And when we go deep into an existential crisis , immediately we try to make that person going up.
+
+Going to the surface , thinking it away from that state. We have been designed through millions of years of searching for the light.
+
+So that 's why we see like we 're that someone would go deep into the darkness. It is merely a fact of biology. This is what brought us to the idea that in order to be an enlightened being or trying to connect with the light , with the divinity , with the AM. You are supposed to be happy being you 're not supposed to be weak and sad.
+
+Who made us believe that in order to be looking for the AM , we have to be like in a picture , in a constant picture of our sweet 16. I was reading some messages and listening some perceptions , which are kind of true. That 's why I bring it here.
+
+## Daily Practice Elements
+
+So I want to clarify something. That there are some statements that say that in order to be a connected person to the cosmos , you have to be in a very high vibration so you can be connected to the everything.
+
+So if you are in a low vibration , you 're showing that you are not being able to connect with the whole with everything. You have to stay constantly in a very high level of vibration in order to show the joy there. And this is not precisely like this , and even if it is true , so I wanted to clarify this.
+
+So what is true about this is that , I 'm being that is searching for enlightenment that is willing to be in the light , should be always in a state of a high vibration. Because basically the light , the consciousness is there , it 's in a high pitch of vibration.
+
+So you are supposed to be all the time there if you want to hold that state. But if you are like me right now , with a very low vibration.
+
+So you wo n't be there in that state of awareness and high consciousness , of course , that 's true. In the other hand , what I wanted to explain is that in order to connect to the everything , to the I am , to the whole. You need to go up and down because you can not be the everything by denying one of the parts. The idea of my own process of evolution is not being one side is being the everything.
+
+But to be the everything they have to go up and down , up and down , have to experience it all.
+
+So I wanted to explain this because sometimes in this misconception spirituality , we kind of create like this , create like these levels to compare the state of evolution , first according to where by great that person. Like if we create this idea that there are people that is enlightened because they are smiling all the time or people that can not smile all the time , they are not enlightened or whatever. And it 's important to realize that if we keep that believed , which is much more religious , we would never under that we are all part of the process of evolution. That each one of us in a different statement of understanding.
+
+So this is the kind of beliefs that separate us , making believe that there is someone that is much more than others. And there is no one that is more than others. This believed that someone is superior to others , nowhere else.
+
+So the universe is not like a club , or you can get into how you buy great. This is if we are willing to connect with the AM , we have to there to dive in the subconscious. The vibration today is a whole statement today is AM and dreamer of worlds.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

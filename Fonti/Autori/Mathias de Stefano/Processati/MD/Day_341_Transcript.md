@@ -1,0 +1,246 @@
+---
+title: "Day 341 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 341
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 341
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - portals
+  - consciousness work
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hological
+  - month holding
+
+practice_elements:
+  chakra: "Root"
+
+---
+
+# Day 341 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Root`
+
+## Introduction
+
+I have everyone morning , afternoon , good evening. Happy new year , Moon , and cancer.
+
+So , as you have seen for those who are following the post of everyday , today we begin with our emotional week of terror. And as we have been going through the process of water in the subconscious , related to the subconscious in the week of the mind , this week we will follow the unconscious through the of the tree of life. This is why today we start with the beginning and the end of the tree of life , which is the seed. Let 's see about things that I have to clarify about today.
+
+So today we begin with this new moon in cancer , which means that from today and on six months , we will be going through a process which is about to rethink , to rethink what we have in our minds regarding the family and home.
+
+So from now from today on we are invited by the energies to rethink our constant family and home.
+
+So we can search for a new way and you understand it and you have lived in the family and the home. And of course that would be related to our inner child.
+
+So we have to go within to look for that for the size of our inner child , regarding those two topics , family and home.
+
+So this does n't mean we have to do something specifically , for this six months , but to be open to think about different ways , which we would like to relate with the family and home , to be open to anything that could happen , that brings us to a new understanding of that.
+
+So today I share a little bit of my own process regarding this topic of finding a new home.
+
+So along this week of course , I will be going through these topics related to home and family , regarding the unconscious.
+
+So just I will be sharing of course my process as an example.
+
+So I invite you to make your own interpretation of all those things that we have in the unconscious and we do n't actually see , but they are really close to us.
+
+So I would like to explain this to start explain the topics with the idea that came out today in writing the post , which are related to the three of life that we have been building in between all of us since the path has begun. And I will last here.
+
+So today when I was writing , I just realized something that I did n't get before , even if I could connect kind of the idea of why after the path of the I am , I am supposed to do the path of the dragon , I could n't really connect it straight like why specifically those two paths together. And today I kind of understood that because what we have been doing all this year since August that we began until now , we have been creating the three of life.
+
+So this three of life , it 's been related to each one of the topics that we have been , I have been explaining every day and the path of the dragon is basically the snake that goes on the three of life , like the story , which is a guardian of knowledge of the tree of wisdom , that we call the Kundalini which is the vital energy. I 'm trying to make you graphic about it.
+
+So in a very simple way , this will work.
+
+So we have five days out of time to begin , five days time to finish.
+
+## Energy Work
+
+So one for time , the portal of time , the other one for the portal of space.
+
+So here we have our whole structure of what we have done.
+
+So we have six months at the beginning , six months at the end. And each one of the month has three weeks , one for the mind , the other one for the motion , the other one for the physical.
+
+So what we have been doing was beginning my Leo , Leo , Libre , Scorpio , Sancterius , Capricorn , and then we kept going to access , access , access , access , areas , and so on. And then we have two weeks more , these two.
+
+So during all the set of time , we have been the tree of life. And then we have to put the tree of life into it. I did n't do it properly.
+
+So this would be like the upper part of the tree , in which each of this arm is like a circle.
+
+So what I wanted to show to you here is that when we have been doing is like the flower of life , because the symbol of the flower of life , because here we have six circles , 12 other circles , and that makes 18.
+
+So are the 18 that we have here.
+
+So altogether are connected to one in the center , this one in the center , which is here , the trunk of the tree.
+
+So all the other circles are like this part of the tree , and we have one flower here and the other flower below.
+
+So that would be kind of the symbol. If we connect the upper part with the lower part , where we will get is a great sphere. Well , we have been doing this whole year through time , was creating space , this big tree.
+
+So every day we were flourishing this tree through the leaves , with a different topics , bringing consciousness through the light.
+
+So imagine that each one of the branches has one , two , three , four , five , six , seven , eight , nine leaves that are the days for each chara.
+
+So what we have been doing is building this huge tree of life through time. And in this week , these two weeks , we rub the last part of the circle. And once we finish with the whole shape of the things , what we do is to connect the whole Kundalini from the north , around the entire planet , going down to the south , and reaching the south , we create the other connection.
+
+So we eat the whole pattern , go to north , move the Kundalini around to the south , we start to ignite and act the movement of nine levels , the nine last chara throughout nine lakes in the planet. After we create the entire shape of the tree , go to the north , connect the Kundalini through the nine lakes , which will be like nine days , but along six months , and then we rub it in the south pole. Once the whole thing is connected , so the torus day , as we have every ten days , we will be , in this case , turning second , February 2022 , here in Egypt , we will do the torus together to finish the entire project. And of course , this path is all about consciousness.
+
+This is the path of consciousness.
+
+So , this is why the path have to end like this , because in order to reach the conscience , we have to go through the sub-conscious and the unconscious first. This is why this month , it 's about going through the sub-conscious.
+
+Now , we start the week of the unconscious , so we can finish the whole tree. With a week of the conscience.
+
+So , for sure , I have to become aware about this.
+
+Now , in the sub-in the unconscious , because today in the chrono chara of the unconscious , I could see from very close , what I can see clearly , what I had really close of me all the time , which was that the reason why , for me , was impossible to do the dragon 's path before , was because I had n't built before the tree where the dragon leads. And we are building it all together. The tree of life is as you see now , it 's a concept , it 's conceptual , it 's not something real , it 's not something that existed. The tree of life is basically an idea that helps us understand everything is connected , that everything is part of the same thing , even if sometimes it does n't seem so.
+
+And that , even if we get like , stunned by the flowers or the fruits of the tree , they were possible because of the roots , because of the hidden parts of the tree , that we did n't see. And this kind of helps us in the past understand how the universe works , that everything is interconnected , that everything is part of something that our ancestors , past lives , other species , the different realms , everything is connected in the shape of the tree. This is why the ancient ones used to explain the reality as if it is the tree , an invisible tree that connects everything that we can not see , but we can kind of know that is there , connecting every part of the reality. We could understand that also every day was like a flower or fruit every month was like a branch.
+
+So time and space worked exactly like a tree.
+
+So the ancient ones understood that everything was connected like kind of a shape of the tree.
+
+So this is why they kind of create the idea that the divine mind organized the reality in that shape , and that everything was emerged from that shape.
+
+So all life , all the different beings , animals , the creatures , the plants , everything , were born from that. It meant that every creature also was uploading experiences to this tree.
+
+So that 's why it was not only a tree of life that gave life , but also was the tree of wisdom. And that 's why in most of the cultures we have this idea of a tree of a sacred tree , representing the divine tree of the creation.
+
+So the ancient ones used to say that this tree that has all the potentialities of all living beings , needed to be protected.
+
+So all these potentialities got together to create a creature to protect this tree , and that was the origin of the dragon. The dragon would be the conjunction of many attributes of different creatures that would encode the potentially of each one of those creatures.
+
+So the dragon is not a being that really exists. A dragon is like the tree of life , which is a concept , an idea that describes the potentialities that every living being has within.
+
+So the story would say that this dragon is moved through the branches of the tree , like crawling around , looking for attributes and experiencing. And through that it gains wisdom. And so that 's the symbolism of this movement of the wisdom that we have within.
+
+Remember that I once explained that the ancient cultures used different attributes from animals creating the dragon , the ship of the dragon.
+
+So they could relate and channel with the potentialities , the skills that the different animals have.
+
+So basically the idea would be that a person has all this potential within. It can wake up this concept through walking around , experiencing , waking up. The potentialities that we have within the skills we have inside through time , through space , which is basically going through branches of the tree of life.
+
+So whenever we listen about trans women people say about there 's a dragon that is like this or messages from the dragons is basically like channeling a huge package of information regarding skills and potentialities that we all can have. But when we start to relate with that we if we are willing to work with them , we can achieve the waking of our potentials. We call it dragon because it 's an old term to describe this potentialities , but actually you can call it whatever you want through biology you may call it for. For us because basically the elements that connect the basis of the NA from the energy from the energy from the Hindu point of view we can call it Kundalini.
+
+So it does n't matter the name really , but really matters is what it does.
+
+So from the point of view of the NA when we speak about the basis , the chemical basis for the NA , you can find that the phosphorus which is the one that connects it means fire. And it 's the chemical element that ignites because it is a conductive of enemies , though that 's why moves the positive and the negative the energy through our cells.
+
+So it 's this part of life and we can also relate it to how phosphorus is the light itself the chemical element , the night 's the fire. Which in Kundalini it 's the inner fire that ignites itself and for the ancient traditions the dragon speaks fire.
+
+So you can see the relation that is all set.
+
+So the dragons are a symbol of protection of those potentials.
+
+So these potentials are like hidden protected by the dragon. Which means that basically all the potentialities that we have are hidden within in the place we call the unconscious.
+
+So the dragon is kind of the guardian of the unconscious.
+
+So we can relate the dragon with this Kundalini that activates the charts the charts are like the fruits of the tree of life. And in the charts we have all the potentials so the dragon tries to activate it. For sure everyone will know the history of the tree , the snake , Eve and Adam.
+
+So this is a story that is not something that really happened. This is just an idea that describes something much more deeper. Which is to how a person is related to the nature in a very hard one 's way. And can activate its potentially of all nature within like in a very intense pleasure of feeling reality of being part of this strength of nature.
+
+So you can create you can manifest with that. But when you try to control it , when you try to manage it as your own will , put in yourself a pond nature. What you are doing is to basically loose the real control. And this dragon starts to get crazy.
+
+And this describes how our cultures through time. Try to rule over this strength of the dragon that we have inside. Control in it in a way in which we hide this potential. And seeing that we are able to manage it.
+
+Reality , the only thing that we are really doing is to hide it. This is why the dragon becomes part of our unconscious. Is related with the unconscious because. It 's all the power that we hide within ourselves , all this potentials have.
+
+Because of culture tradition or fear. And when this dragon is hidden and trapped within. Without the possibility of going up and flowing. They starts to burn.
+
+Pre-tfire. Confusion chaos. And the historical idea is that we have to defeat the dragon. And we have to.
+
+To kill the dragon or control the dragon. But in reality , we should not. Do n't need the dragon.
+
+So when we say that we have to control the dragon. It 's like we spoke last week about a river. We should not. We create a dumb in.
+
+But we are doing it 's just. Control in the river but holding a lot of water. And if we hold that water. We can create destruction eventually.
+
+So it 's not about. Control in the river is about learning how to. Is learning about. How to flow with it.
+
+How to. Navigate on it. To. To take benefit of the growing of the river.
+
+To take benefit of the food that it keeps.
+
+So this week when we will try to do is to learn how to. Set the dragon free.
+
+So remember that we have. Here idea of. The seat today today related to the seed.
+
+So all that we spoke is basically the entire potential of the tree. And the snake encoded in the seed.
+
+So just that so I invite you to pick up some seed. And to solve them.
+
+So. You can. Set intention to make grow something new related to. Uh.
+
+This new concept that you want to manifest regarding family. And home.
+
+## Daily Practice Elements
+
+Today we change the vibration to the letter. The. The statement today is I am universal like.
+
+Today is the age of cancer. One of the most for name ages in the mythological history is this one. And it developed between the years 6,580 and 8,720 By. Approximately and it and it 's main characteristic was the great universal flood.
+
+The red product of the changes that previously occurred was the era where. The amount of people in land where affected by the great climate change. That ended with the glaciation. Sit comfortable close your eyes.
+
+Concentrating everything. I take a deep breath. Trying to. Every muscle of my body.
+
+I take a deep breath. Trying to. Every muscle of my body. And a sigh of relief.
+
+I release all the tension. Relating. Every part. I take the breath and bring my attention to the feet , my knees and legs and use my imagination to turn them into a grain deep into the soil , expanding in every direction in the ground I take the breath and bring my hip , waist , spine , back and chest , so if they are trying , hover and trust , every breath , I pay attention to my arms , my hands , my neck and head , turn them into branches , until I turn when fingers , my eyes , nose , deep , years , and hair , into the ears , flowers , recruits , I recognize myself as a tree of life And I look into my feet the breath packet , and just they know inside You can have any shape and colors that I can wish.
+
+And I feel how this name starts to crawl up. Serious and spiral. I love my body for my feet to my hand. With every deep breath.
+
+I can perceive and feel all this strength , the power , the life and wisdom in this name. Going up until reaches like found chara. I can picture this name by letting the foot make now. On the verge of the two , give you a seat.
+
+I can picture this name by letting the foot make now. On the verge of the two , give you a seat. Watching straightened into the seat with its eyes. It turns it into light.
+
+## Q&A
+
+Into a little bit of lighthouse that shines brighter. I can see the light and the darkness. I can see the light and the darkness. Into the clarifies the question.
+
+What is finally the moment that I wish for. I question what is what might be your child? Was it really to me? I never could.
+
+I am very I love myself so that I leave again. The dreams of this child and sending tension for this dream is to come true. I love myself so that I leave again. I love myself so that I leave again.
+
+I love myself so that I leave again. I love myself so that I leave again. I love myself so that I leave again. I love myself so that I leave again.
+
+I love myself so that I leave again. I love myself so that I leave again. I love myself so that I leave again. I love myself so that I leave again.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

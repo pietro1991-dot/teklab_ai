@@ -1,0 +1,243 @@
+---
+title: "Day 303 - Energy Alignment"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 303
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 303
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - heart chakra
+  - third eye
+  - I AM presence
+  - I CAN affirmation
+
+practice_elements:
+  chakra: "Third Eye"
+
+---
+
+# Day 303 - Energy Alignment
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Third Eye`
+
+## Introduction
+
+Hi everyone. Good morning. Good afternoon. Good evening.
+
+How are you? If you see me like weird is because we have been with my friends , we have been closing the day during the last alignment for the preparation for tomorrow. And we just start our trip.
+
+So we ended just two minutes ago.
+
+So that 's why I 'm a , like this. Let 's begin with our topic for today. To say and to shut up.
+
+So sorry. I think that I am incarnation the concept of the month , which is Gemini. And you have seen that the one that had been following me all this time , all this month , you have been , you have seen that I was kind of like trying to embody within me the concept of the month.
+
+So you have seen me there in tents in Scorpio. You have seen me aggressive in areas. And now you see me. There is this person everywhere like Gemini.
+
+This is the month of Gemini.
+
+So this is how it 's going to be. This is how it 's going to be.
+
+So let 's go to the topic for today , which is very intense for most of the people for all of us , which is to say or to shut up.
+
+So let 's talk about the concept of say and shut it up from 2. 0. One from the inside , the other one from the outside. The inner concept will be of course the one that takes us to the outer concept of these two things.
+
+Sometimes when I , when I speak here , when I connect every day , I start to think , myself , if all I explain here really worth it or not , I have two kind of thoughts.
+
+## Q&A
+
+Sometimes when I connect here , which is two sides. From one side is when I wonder , is this really worth it? It really works when I explain here. And in the other way , in the other hand , I used to ask myself , what would happen if the next year I change entirely my way of thinking?
+
+What would happen if I just change my point of view next year? And for me , everything that I explain this year , every day , does n't have any sense for me anymore. The question that I made to myself is , would it have the same value? Would I give it to now or it might be nothing?
+
+Like , not worth it at all? The other thing that comes to me when I start to read the comments of what I explain it every day , is other two words , two other two questions that are , it really worth to explain all this knowing that it does n't matter how many times you explain something , people wo n't get it.
+
+Some people will complain about what I say , even if I try to say it in all the different ways as possible. And in the other hand , the other question is , maybe I am not explaining myself properly into what I 'm trying to say , maybe I am doing it wrong.
+
+So when I do these questions , I also recognize , realize that a lot of people in history has done the same questions , like many people that were teachers or masters or people that were just doing things , they also wonder themselves. It really worth it to explain all this that I know , but a few people , most of the people , used to ask this question according to the first point of view , which is , that 's in the worth to explain this because people is not getting it.
+
+So they rather shut up and not to say anything , not to share what they know , because they think it 's a waste of time. And a few dust , the other question , which is , maybe I am not explaining myself well.
+
+Sometimes I try to put myself on the shoes of , of the people that decided to shut up , of the people that were questioning themselves , it really worth it to say all this to the people , if the people sometimes they do n't get it , if the people usually do n't manifest the will , to at least comprehend a bit of what one is saying. And I understand some of those people that decided to shut up , not to share , because they did n't want to lose energy or to be judged by others. Most of the people that alone history , the new something they shut up , was because they were a friend of share what they knew , of share what they were , because they were a friend of not being comprehend and accepted. And there were another people in history that they were not afraid of being accepted or not , but they said , we do n't want to waste energy.
+
+We do n't want to waste anything of our energy in order for someone to understand.
+
+So they kind of took the concept or the idea that if someone really wants to know something , they will look for it.
+
+So instead of myself giving that with my energy to everybody and that everybody , not willing to listen or to understand , instead of doing that , they would just shut the doors , shut up and wait for those people to make the question. This takes us to the thought that how many times we shut up , because we are scared to not be accepted , we are a friend of being judged. Or because we do n't want to waste any drop of saliva. We 're wasting energy in others.
+
+Can you really pay attention to these three ways in which you will shut up? The action of being shut up. It 's basically an action that we take when we feel a threat of being refused. When we want to be part of something , and we do n't want to be rejected from that something.
+
+Along our human history , we have been shut enough for survival. During our long history of humanity , we have been trying to survive.
+
+So that 's why we still can hear this kind of questions or sentences. That says to us , do n't say this. Shut up. Do n't say these kind of things in public.
+
+Be responsible of what you are saying otherwise. But things can happen to you. I 've heard some people saying that you should not say your projects or your ideas , because otherwise some other people can think about it and then it wo n't happen. And we shut up.
+
+And remember , the word is something that manifests. How can I manifest something if I do n't say it? If I do n't share it? How can I manifest my emotions and my ideas if I did n't set vibration on that?
+
+And along history , another thing happened eventually , which was that a lot of people were really scared of saying what they think , what they feel. Because there was not only just judgment , you can also be killed. You could also be killed because of that.
+
+So I wonder how many of you have shut up what you thought and what you feel , because you were a threat of those judgments. How many people can not say who they love , how many people can not say what they think about. And of course , sometimes we start to say what do I do if my family does n't accept me for what I say for what I love. What would happen if this society I live in does n't accept me for who I am , for what I want to say?
+
+We are still so mammal that we think that we have to be accepted by the clan , by the group in order to survive. Why would we do if they do n't accept us? Maybe we die , like in the old times. The clan is not something that is there to protect us.
+
+The clan is something that shares with us the genetics is the biology that helps us to be what we are , so we can have the tools in order to learn. But it 's not the one that has to accept us. It 's the one that gives us where we need in order for us to accept us. Humanity is huge.
+
+The family of humanity is very wide. Not only our clan. But even though humans we usually say or not say what the clan is expecting for us to say or for us to shut up. And this is the reason why a lot of people that explained and taught the society to shut up.
+
+Because mainly as mammals we are a threat of what we can say because the clan wo n't accept us.
+
+So the people that used to teach. They used to shut up because they said we do n't want to lose energy in people that wants to listen but they do n't want to accept the change of what they are hearing. This is why they became heretic. They closed the teachings.
+
+So only those who did the question and had the will to look for the answers. Could find the teachers. That 's why they closed it.
+
+So the wise people used to shut up.
+
+So they wo n't lose energy in people that is a threat of everything.
+
+So the question here would be.
+
+So if they knew that people were a threat why they did n't shut up. And they taught people how not to be a threat. Why did n't do that. This thought can take us to the idea that maybe those people that knew had so much wisdom that they said , maybe if we shut up and we do n't say what we know.
+
+And they keep with fear not knowing.
+
+So it 's easier for us to control them.
+
+So the question is really really key. Of course it 's like yet for sure someone is trying to control us with information. But the problem is when we understand that now we have internet. One more internet.
+
+When we start to find internet. Since the 90s , most of the words started to have internet. And in 2010 most of the humanity were able to access to internet. There 's lots of things there , lots of information.
+
+Man things. But even though today , most of the things that we look for are kittens in YouTube. Did n't happen to you that you find yourself looking for kitten videos in YouTube.
+
+So now the thing would be here. The question would be , The reason why we do n't reach the information is because there 's a dark forest in the universe trying to For beat us to access the main information of the real self. And we do n't know how to do it because there 's a hidden power. There 's trying to control our minds.
+
+It 's because of that or it 's just because we do n't know how to write in Google. How can I find my inner self? Is maybe something from the universe that is forbidden me to type that? This maybe because of that?
+
+I do n't know if you have noticed that , but sometimes when you start to look for something , you kind of find it. Did n't happen to you. It 's amazing that when you ask the question and you say , Oh , I 'm going to look for it. You suddenly find it.
+
+Somehow.
+
+So the problem here is that most of the people do n't do the question. And now I will go deeper into this , which kind of will break down here. One of the basis of pedagogy , the art of learning and teaching , is that no one can really learn something and know something until that person makes the question. If a person does n't do the question by itself , there 's no process of learning.
+
+So we can not force humanity to make a question , because you can bring someone 30 years to school for that person to learn everything , but if that person does n't make any question , those 30 years wo n't worth anything. Because it 's the question that opens the answer. Is it the only way someone can learn really something? That 's why we can not push humanity to make a question , which can give the environment for them to kind of wonder how to ask a question without it.
+
+This is why the masters in ancient times they use the parable to teach something. Parable are not the specific teachings. There are stories that kind of gives you much more than an answer gives you questions. It enables the opportunity for the listener to wonder , like , is it like this?
+
+What do you want it to say with that? The parable are something that kind of open the opportunity to make questions. I 've seen that a lot of people are questioning these things like basic things that you want to know what I think or what I believe about this , many of those questions are really easy to find in Google in internet. It 's easy to see to contrast that with two or three different websites.
+
+Because we are used to listen the answer from someone else.
+
+Sometimes we rather feel ignorant about something before we can look for an answer.
+
+Sometimes because we are a threat of the judgment of a threat of not knowing enough , we 're rather to shut up and not say anything. We have to pay attention today that internet is one of the most wonderful tools that we have to learn to make questions. Even if there is not an information in internet , if for sure we 'll open a door for you to find it somewhere else. It 's really important for us to use it properly to know that is a door to all the knowledge.
+
+And we have it there in our hands , which has to know how to use it , how to make the question. And we have to pay attention about this in the internet. You have everything in the internet. It 's like going to a forest.
+
+When you go to a forest and you 're looking for something to eat , you will find some fruits that maybe are really good for you. And also in the same forest , you will have some mushrooms that maybe are poaching. Coaching. But when you know that this mushroom is , this fungi is poison , you want to eat it.
+
+But it does n't mean that it 's not good for others. Because for some other beings , this poisonous mushrooms are their food.
+
+So it 's okay. But this fact of going outside to live for answers , can not be done without looking within.
+
+So before we start with outside , it 's to try to discern what things are the ones that we already have within. And what things we have to , we are sharing outside , meaning what are we saying , what are we shutting out? All the things that we shut up are like kind of those things that we deny in information of the being. The first nets , the first networks that we have to work in order to open the ones from the outside are to work with the ones inside.
+
+And in order to do that , we have to remember that verb is creation.
+
+So if you want to say just to the other question , am I doing it right? Am I saying it properly? What am I sharing in that internet? What things am I saying?
+
+What things am I shutting up? Am I giving to the others? Much more with my silence or with my words? How many things do I shut up?
+
+Whether it is because I am a threat of saying them or because I think that does n't work it to waste energy on that. What are the things that I say , even if I should n't say them? What are the things that I express that I share? It 's important to make this kind of philosophical questions about what are the things that we say , what are the things that we do n't say , and we shut up.
+
+And now I invite you also to make a different , to change our point of view of the people that decided to shut up instead of sharing information. Instead of blaming them because they did n't share it with us. I would invite you to make the opposite thinking of it. And wonder why even though we stop asking the questions.
+
+## Daily Practice Elements
+
+Let 's go to the statement. The vibration for today is safe. The statement for today is I am the spiral of sounds. It can also be said I am the spiral of truth.
+
+And I will try today to not have much words , so follow the silence. It can also be said I am the spiral of truth. The code for today is the third eye , the final blend. The vital energy of the vinyl gland is the third eye.
+
+The vinyl gland controls sleep and wakefulness. Regulating the body 's energy , revitalizing it during the sleeping process , and activating it in the weakening process. Every day , all the living beings experience this dual process of the lineal. Even though in certain periods of life we experiment this process energetically for most part of the time we remain asleep.
+
+And by activating the third eye , it allows us to see what 's beyond matter. And above all , what 's inside of us , what we call the weakening of consciousness. Let 's go to the alignment.
+
+So before the alignment , I will remind you that tomorrow we start the trip.
+
+So tomorrow I change the place. I wo n't be here anymore.
+
+So I start to move from one spot to another to another city.
+
+So I will try to make it very much shorter than other days than I usually do. And some days I will go straight to the alignment.
+
+So do n't worry because if I think that there is something that I need to explain better , I will try to do it in another moment when I stay alone again. And I will try today to not have much words , so follow the silence. Sit comfortable , close your eyes and concentrate in your breathing. And take a little breath.
+
+And I become aware of my body. As I see in the front of me , a reflection mirror where I can see myself. And I pay attention to all the body through this reflection of myself. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I play it with this reflection and I smile at it.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I connect them with an internal impedance from heart to heart. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. I unite myself with my reflection through an eternal spiral of truth between my silence and my words. And I will try to make it very much longer than I do.
+
+And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do. And I will try to make it very much longer than I do.
+
+I am the spiral of truth. I am the spiral of truth. I am the spiral of truth. I take it deep breath and I smile to my reflection.
+
+And I recognise the size of my own to my reflection. I think I think I think I think. I smile to my reflection , taking a deep breath. And everyone , each one of its own time , turn back here and now.
+
+Thank you everybody for being here another day. And as always , see you tomorrow at the same time. At this time , beginning our path to the Eclipse.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

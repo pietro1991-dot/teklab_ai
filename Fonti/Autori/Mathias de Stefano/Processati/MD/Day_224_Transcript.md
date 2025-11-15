@@ -1,0 +1,324 @@
+---
+title: "Day 224 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 224
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 224
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month holds
+  - month hold
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 224 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hello everyone , how are you? Good morning , good afternoon , good evening. To all of you and welcome to the day of the hard in the emotional week of Pieces. I hope this will be well.
+
+Sorry that I was , I just realized that I was dehydrated. And I forgot to buy water , so I went to take hour from the top and tap water. And you need to do , you are not supposed to do that.
+
+So , if tomorrow I am not here at the time , so it 's because I got diarrhea.
+
+So , something for you to know , you should not drink top water in each year , so do n't do what I do. But , the worry because the bacteria are so big and it will be that it 's like eating shrimp.
+
+So , they taste good. And after taking down the energy of the heart , let 's go straight to the energy of the heart.
+
+So , let 's talk about the conditionality , which is a term that for sure we all have used , but that we do n't usually take in its whole aspect. When we speak about incognitality and most of it related to the concept of love and biases , we used to make this kind of mistake saying that incognitality means to be there for that person for whatever not other person needs. Here we are , or I am here for you or something like this. Speaking about biases , we used to relate the unconditional love and unconditional word with the love.
+
+And conditional love related to being there for everyone in service to all the people , given everything as possible from oneself to the rest.
+
+So , that 's the unconditional love from our point of view. Also , culturally , in our daily cultures , we used to say that unconditional personal is that person that is always there that will never betray that is constantly there for us or you. And so , these concepts , even if they can be taken like this , they are not specifically speaking about what this word means.
+
+So , let 's understand the word in order to understand the meaning.
+
+Okay , so , a bit of it , and a bit of this links here. The Nile , okay? The Nile. In is the Nile.
+
+Con means we 're together.
+
+So , Dec comes from the word Care , that means to say , or to point at something , to point. Lion , or then means action. And ali means an attribute , equality.
+
+So , the word Care , in Latin means say , comes from the European language , Dec. And Dec means to point at , okay?
+
+So , this , I was writing to the blog , explained that the ancient ones , they did n't use many words to speak. They just used a few words to speak.
+
+So , they were most trying to , mostly trying to explain what was happening in the environment. They were trying to point at the prey. They were trying to point at the fruit. They were trying to point at the path and notify that there is someone coming or something like this.
+
+So , they would say to the others what was happening. And they were not using much words. They were just punctualizing what was happening and where to go , what to do.
+
+Okay?
+
+So , this concept is the one that makes the word say to appear , which is to express the idea of pointing at things. But we started to speak about it. We started to , to , to punctualize things by talking.
+
+Okay?
+
+So , so that 's why the word punctualized or to sign something is related to the word say to say something. From , from this concept of the Latin , we have Fiction.
+
+Okay?
+
+So , Fiction means to point or to try to say something to punctualize something , pointing at a concept.
+
+Okay? Fiction is the action of saying something.
+
+So , then when we add corn , which is with , when we are doing like con diction condition , in that word where we are doing is that we are pointing at something that we are speaking about something. But then we had to be , that there has to be consensus between the different parts.
+
+So , we have a condition when many of us are agree about what we are talking about.
+
+So , we have a contradiction when the different parts does n't agree in what we are speaking about. Here comes the moment when we all say that we agree in something that this is what we had agree. And we say we kind of change it because we already spoke that this is like this.
+
+So , it kind of becomes like a contract , okay? Like a contract of the things. And that 's how we transform the idea of speaking about something into a contract. And that 's how we understand the concept of condition.
+
+So , now we have conditions in the terms of what was spoken. The word condition , even if we today take it as a contract kind of like an obligation that we have to do for sure. The origin really for the word condition is not something obligated is something that we all spoke about and we decide to do in that way.
+
+Now to understand the idea from where it comes now a condition. A condition is something that we accept in order to have a perfect interaction with other people.
+
+So , we have a condition as human. We have a condition with our brothers and sisters with mom and dad , with the family , with the partner , a couple.
+
+So , we all agree terms in that relation.
+
+So , that 's a condition something that we speak about. But what happened that some of those conditions are also cultural that this mean that we have accepted that culturally and we do n't even wonder why.
+
+So , for example , we all know that when we have a couple , we can not be with other people. It 's like something like that.
+
+So , I can not be with other people because I am with someone. But that 's that it 's a condition of the culture.
+
+Someone in the past made this condition , they all agree about that terms of you can only be with that person that you are with.
+
+Okay , so through centuries of years , so centuries , we have been repeating the same.
+
+So , sadly , the condition has become something that we do n't even know from where it comes from.
+
+So , that 's why the conditions became something negative because we do n't know how to how to handle it. How to from where it comes from.
+
+So , we just think it as an obligation , something that just comes and we do n't know from where.
+
+So , because of this cultural idea of the conditions , we start to have in our mind the idea that conditions are limiting us , that they just limit constantly.
+
+So , we start to take the conditions as agreements or packs , agreements , common agreements or conscious packs. And we start to take them as limited boundaries and conditions.
+
+So , we start to look for unconditionally as a way to go beyond the limits to move forward to transcend these limitations. This is how we start to create the idea that if we have so many conditions , the way in which we can go out of this is through unconditionally. And how can we understand unconditionally? Well , when we see conditions as a limitation , so we think that the limitations bound us to certain people.
+
+So , these people are with us connected because of those conditions.
+
+So , there are people that it does n't matter the forms , the shapes , the conflicts that we have , the differences that we have , it does n't matter the conditions that we had as people , those person are always there. Because those people are constantly there , we call them unconditional because they kept being besides the conditions.
+
+So , just to make an example of us here right now.
+
+So , this chats that we are doing here , they are condition. We have a condition. The condition is that I speak in Spanish and English. Because those are the main languages that I speak.
+
+And so , most of you speak Spanish and English.
+
+So , because of this , we have done like kind of an agreement , a condition that I would speak in those two languages. My condition is that I speak only those two languages all the time and your condition is you have to speak these two languages for sure.
+
+So , we have this condition in these videos to languages.
+
+So , what happened , even if most of the people speak Spanish and most of the people here in English , there are some people here that speak Portuguese , that 's big Italian , French , other languages. And they , even though they are here all the time.
+
+So , that 's unconditional because besides the conditions of these videos , they are here all the time doing their best.
+
+So , that 's an example of conditions and in conditionality.
+
+So , now for example , we reach the other level of the understanding of a condition. For example , for some of you maybe it is very heavy to listen to me into languages. Like , it 's too long or it makes me confused or whatever. I ca n't follow the line or anything.
+
+I do n't know.
+
+So , maybe some can say that , but even though you are here , even though this condition.
+
+So , what we can understand from this is that a condition is a choice.
+
+So , everyone is here by free will , by its own choice.
+
+So , a condition is never something that is really obligated. A condition is basically something that we agree with somehow.
+
+So , we can say , okay , if a condition is something that really is something that we agree with , which is an election that we do in our life.
+
+So , this means that anything that we leave is a choice.
+
+## Q&A
+
+So , maybe you could ask , but what being poor is a choice is an election of myself to be poor for example , for people to be poor. And I can say , yes. Because the condition of being poor is a state that you are accepted to be because you have the opportunities to do different things. You can choose many ways to get out of that.
+
+If you are still there , is because you are not choosing or you are choosing to be like that. Or for example , maybe you can say , a war. How can a war not be a choice?
+
+So , when there is a war , you have the choice to go out to go away , to escape.
+
+The reason why you stay there is because you condition yourself to be there is a choice. There is always ways of changing. Life is multiple , all the time changes. If we do n't change , it 's because we choose not to change.
+
+So , the reason why we leave our conditions of our life in unconscious way is because of the mandates of our plan of the family. The concept of why we have these conditions and we do n't even know about it is because of being unconscious. And we receive unconscious these conditions because of the mandates. Mandate come from the word , minus , dates , that in Latin means given by hand , minus , dates is given by hand.
+
+So , a mandate is something that my ancestors gave to me and I will give to the other ones.
+
+So , this is like a maze , a maze , no , like a race.
+
+So , we are running and you pass the torch to the next one and so on.
+
+So , from one hand to the other hand , it keeps going in history.
+
+So , that 's a mandate.
+
+So , the reason why I accept that mandate , which means why is a condition , why is a condition is because I am afraid as a human to be expelled by my family. And this is a fear that we have from the very first families in the planet that we are afraid of die because we do n't have the plan protecting us.
+
+So , we do n't have the family taking care of us.
+
+We are going to be starving if I have to do it alone.
+
+So , thousands and thousands of years ago , this fear of not being part of the family was something that molded humans.
+
+So , we receive the mandates , even if we do n't want them , even if we do n't like them , because somehow within we are afraid of being away of our family. That 's why even if we hate when we are receiving the burden of the family , we say , what can I do? Is my family?
+
+So , the reason why we accept this mandates is because we are afraid of not being accepted by the family.
+
+So , this is why in our consciousness , we are so conditioned by all the things that we accept , not even being aware of them. Only by fear.
+
+So , this was explained from the unconscious way , which is the most common , because that 's the burden that we have with conditions from the history of our family and so on. But when we become conscious , we start to realize that the conditions are not something wrong , but they are just tools that we choose to have in order to accomplish some missions and purposes.
+
+So , suddenly , the same condition that before was a weight burden for us becomes a tool to accomplish our mission , so that helps us to set ourselves free. I would use an example that I once did a use also , so we can get this somehow. Imagine that someone from our past gives us a hammer.
+
+So , we received the hammer by Mandate , which is given by hand , a mandate was given to us the hammer and we take the hammer. Because it 's the family I have to accept it. It 's natural. I receive the hammer because even if I do n't know what is that for , it 's something that I will take because it 's someone familiar.
+
+So , I want to respect them.
+
+So , I take that , I take the hammer and the other one , the other one , so suddenly this hammer is like a weight for me. In case it 's a burden , I do n't know how to use it. I do n't know why I have it , but even though I have it because it is for my family.
+
+So , I used the hammer to knock the walls and break someone 's head. I do n't know how to use it.
+
+So , I am unaware of why do I have this hammer.
+
+So , suddenly I become aware. I become conscious.
+
+So , I realize what is the hammer for.
+
+So , I start to put nails and to hang some frames and I do n't know to fix some furniture and suddenly I realize that the weight that I had now is the tool that I can use it. That I know how to use it.
+
+So , I do n't have to throw it away.
+
+Now , I know how to manage that condition that I received. When you became aware , when you really know what is that for , what is the hammer for , how to fix the furniture and so on , once you got all the information , suddenly you see around and you will see these people that , you will see these people that are using also the hammer in different stages. Like you see people that are receiving the hammer , you see people that are trying to use the hammer , but they do n't know are people that are suffering because they have the hammer.
+
+So , you see all the stages that you have been through and you can picture yourself in all these different stages of understanding the hammer and the tool that it was.
+
+So , suddenly you have this option of realizing that all the people around are just trying to use the hammer , they are just trying to understand how to handle the hammer.
+
+So , in that moment , when you understand that conditions are just the choices that you have done in order to understand the tools that you have , suddenly you will see , you will see that these conditions are not specifically things , but at process of the things.
+
+So , you will see the different processes that you had to go through to understand the tool.
+
+So , in that moment is when you become unconditional because you go beyond , you go beyond the hammer itself and you understand the process to understand the meaning of the hammer.
+
+So , that 's why you are unconditional with the people that are knocking someone 's head because they are learning how to use it.
+
+So , you do n't blame them for what they do , you try to go with them and help them understand how to use it. Inconitionality here , a person that is unconditional , is the one that accepts the process of other people that understand the stages where these people find themselves in trying to understand life.
+
+So , inconitionality is the person that goes beyond the tools , beyond the conditions and understand the process of those conditions.
+
+So , that 's respect , acceptance of the process of others. The conditions are aspects that helps us to move , to understand , to do things and so on.
+
+So , this is an eternal process because the universe is eternal.
+
+So , it 's something that we all do all the time constantly. It 's the process of learning is eternal.
+
+So , we needed to look for a concept that is eternal in order to translate how to do it , how to manifest that unconditionally.
+
+So , that eternity is translated in the concept of love. Love is the constant engine of transformation of energy , is the one that helps you to keep moving , keep going.
+
+So , that 's why we start to call this the unconditional love. And conditional love is something eternal that moves constantly and that , behold and that holds all the conditions itself.
+
+So , unconditional love is the one that tells you there 's no limits to respect and accept the processes of others. You must respect , accept the different processes of all the people that are living different realities , because this is eternal. The thing here is to understand that unconditional love is not to be lovely with one another. It 's not to be warm and tagging each other.
+
+No , it 's not that. To love unconditionally , it 's to accept one another , to accept everyone as they are. First of all , we have to accept ourselves , and then we can accept the whole world. And to accept the whole world is to accept how it is not expecting for it to be as we want.
+
+So , to love unconditionally , it 's not to say , I want for this world to be this beautiful or to be in peace or whatever. The person that is willing to think that the world can be better because today is a wrong place is not unconditional that person lives through conditions because is their own conditions.
+
+So , in order to transcend that we have to accept the world as it is , and we will transform the world as we accept ourselves and we change ourselves. I hope we can get the idea.
+
+## Daily Practice Elements
+
+So , let 's go to the information for today. The vibration for today is B. The statement for today is I am will that expands. The code for today is to desire.
+
+## Energy Work
+
+When the forces are balanced , the energy floats is aligned on a survival form , where the lower forces push the upper ones , which by expanding go back to the basis like nutrients. This , the highest ideas become fertilizer. And per a great quantity of potency to the roots of the being , that energy becomes the sire. The attribute that focus the energy in getting an objective.
+
+And so , this fine , the being as a whole. If the energy is not balanced , the sites will be negative. If it is balanced , the sire will lead to fulfill our will and dreams. I ca n't , I 'm conditional all of yet.
+
+I 'm practicing that. Maybe I will at the end of the year , I do n't know , but the weddings are my practice.
+
+So , I guess that eventually I will get to love them and conditional.
+
+Some days somehow.
+
+So , if you do n't listen to music , it 's better. I 'm going to try to close everything as much as possible.
+
+Okay.
+
+So , let 's begin. Sit comfortable. We close our eyes and concentrate now of great things. We close our eyes and concentrate.
+
+We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate.
+
+We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate.
+
+I take a deep breath. I start to perceive the energy that moves around my body. It goes through my muscles , my organs , and around my skin. I perceive the waves of this energy with its heat and cold in each part of my body.
+
+I become aware that this energy are my emotions. I pay attention to which emotions I feel now , which ones are activated right now in me. I recognize that these emotions are my energy. The energy is not my body.
+
+I 'm shaped. My atoms. And all this energy is my soul. I take all this energy and expand my soul into my body , exploding as a star in the cosmos.
+
+I make it each atom of myself , expand towards the infinite , fill in the void , fill in the expansion of my soul in the universe. I recognize I am just energy. I become aware that my soul is unconditional , is free. I need someone to connect each one of the particles , atoms , molecules themselves that represent each one of them.
+
+I have a sense of conditions that may be why I am all bounded and connected by the unconditional love of myself. I realize that each one of these conditions are my tools to be who I am. And that I have to put them all together in order to exist because of them that I am here. I recognize the thing of the conditionality that I feel in my soul is the one that gives a meaning to all of this atoms to be able to transform to evolve.
+
+It 's my inner and unconditionally that sets my body free. I recognize that each aspect of myself is in these conditions are the tools that help me be this being here and now. And it 's my unconditionally. The one that pushed me forward to transform to evolve to transform myself for the eternity.
+
+I recognize that each condition is an aspect , a step in my way of evolution and that by accepting it , I can become unconditional.
+
+So I put all that consciousness together and for my heart I enlighten each part of myself accepting each aspect of me accepting myself and the world around. I accept the process of my own transformation and the plants transformation. I accept the process of my own transformation and the world around. I accept the process of my own transformation and the world around.
+
+I accept the process of my own transformation and the world around. I am the wheel that expands. I am the wheel that expands. I am the wheel that expands.
+
+I believe. From my heart I take a deep breath and start to expand stretching the body all this consciousness around. And each one at some time come back here and now. I am the wheel that expands.
+
+Thank you everybody for being here as always. See you tomorrow.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

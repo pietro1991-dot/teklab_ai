@@ -1,0 +1,275 @@
+---
+title: "Day 123 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 123
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 123
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+
+practice_elements:
+  chakra: "Throat"
+
+---
+
+# Day 123 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Throat`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , what do you think? How are you today?
+
+So we have another way waiting today , so I immigrated again.
+
+So if I just wanted to remind you that if there are new people here , that everything that you want to know about this path and what we are doing and all the links you need to have for this and also if you want to help me to be here to do what I am doing , if you want to help in any way in the blog you have all the information of how to do that and how to share it.
+
+So remember that the blog is www. Jo-story which is iam-inspanish. Red , like the color red , but in Spanish means network , okay?
+
+So www. Jo-story. Red. And remember that here , for all those who are sending me the YouTube , I remind you that today all of you have a post , a post , a reference to the topic we are going to talk about in the past.
+
+And remember that every day in this blog I post about the topic that we are going to talk in every transmission , every live streaming today.
+
+So just to remind you tomorrow at 3 p. M. My time , I will try to do the video , this streaming , explain the 12 systems. This will be recorded so do n't worry , you will lose it , it will be here in this channel , okay?
+
+So let 's go to the topic for today which is wisdom.
+
+So the first thing that I want to for you to understand is that it 's time we relate wisdom with the throat chara. And this is because even if wisdom in English comes from the expression of bringing the body , in Latin the word wisdom comes from save , okay?
+
+So the flavors of the things.
+
+So this means that once you inherit things , you have to taste them , now to perceive them , once you taste them , you know if they are good , if they are bad.
+
+So wisdom would be the way in which our body interprets what is outside to integrate in the within.
+
+So that 's the sense of taste.
+
+So taste would be the same thing of wisdom.
+
+So acknowledging that what we are going to do is to make a difference between knowledge and wisdom.
+
+So first of all first thing to understand the difference between knowledge and knowledge and wisdom is that knowledge comes from the words go , go , go , no , that 's the origin of no of the word no. And it 's in Latin and this means to put all the things that are outside together , to put all the things together , join them. And so the perception of knowledge is something that it 's in the outside and that you bring within , but you take from the outside and you bring within. And the concept of wisdom is when you take something from within and you express it in the outside.
+
+So it 's the opposite.
+
+So this means that knowledge is expressed in the world outside which is the positive and wisdom is in the world within which is the negative.
+
+So in order to understand how these emerges , we have to go again to the origin of the universe.
+
+So first of all , it 's tried to remember that the universe is like this blank , like this patient blank where everything is connected , where everything is one.
+
+So there 's no things to compare.
+
+So the universe is basically only one thing , the void and the everything all together , one spot.
+
+So this means that the consciousness of the universe , the mind of the universe can see and perceive everything within.
+
+So that 's why the universe by nature is the wise being , is wisdom.
+
+Okay? That 's all the thing that it is. It has the wisdom of everything. This universe told being with this awareness , with this consciousness , knows everything.
+
+So has wisdom upon everything , but it never experience anything.
+
+So it needs a point of reference to understand what it knows , the wisdom that it has within.
+
+So what this being the universe does is to say , I need this other point of reference.
+
+So it divides itself into creating another one in the outside.
+
+So from the void of the consciousness , creates the positive , the whole , the everything.
+
+So we have the negative and the positive , the void and the whole. And that 's what the consciousness will call the unconscious. And why is that? Because the unconscious is the movement of this consciousness , but pushed by another one.
+
+Okay? It 's pushed by the other one.
+
+So we are positive and negative.
+
+So now my movement will depend on the movement on the other one.
+
+So that 's why this is called the unconscious. Once this positive and negative starts to move forward , one to another , it starts to move creating a network creates like a pendulum , different path and ways to connect to each other.
+
+So this creates a whole network or matrix of thoughts that we call the memories of the universe. And also is called the subconscious. The subconscious will be all the information that that 's of every step that this consciousness has done through the movement in the unconscious. Let 's remember that the universe is this blank , is this void.
+
+So why is the void? Because imagine that the universe is like this paper and blank.
+
+Okay?
+
+So when you have the paper , it 's the whole because that 's all you have.
+
+Okay? But also it 's in blank.
+
+So there 's nothing.
+
+So that 's why we call that the whole and the void at the same time. Because the universe is basically that is only that. It 's the void and everything at the same time. It 's this blank paper.
+
+But then when I begin with the unconscious , I divide this paper blank and I face these two options.
+
+So I create the duality of void and the duality of whole.
+
+So that 's why we project in positive negative the void and the whole. But it 's the same thing. I just bend it.
+
+So what happened? That once that I have the unconscious , I keep going on bending the shapes so much and so much. That I create so many shapes that that 's the ground that we call the subconscious.
+
+So picture this that this universe , this self , the divine that was so wise because within , it can find all the answers.
+
+## Q&A
+
+Now it projected in the outside , all the shapes that we can call the questions.
+
+So this means that the divine is like this light that eye needs everywhere. But when the subconscious started bend and to have these wrinkles , we create the shadows. And those shadows will create the questions , the doubts , the conflicts that the divine will face.
+
+So the question would be why this being that has the wisdom , would like to create all this , the conflicts. And the quote , and it 's simple. This is simple because some of that is wise that has all the clues of everything has all the chances to create to manifest , to express itself and to try to do it in a different way , to experience what he knows.
+
+So that 's why it creates and it says , I can maybe do better.
+
+The reason why the wise universe would do this is because a wise being would know that the answers are not the whole thing. The answers are just answers , but the real process , the real wisdom , is a waking through the discovery , waking through to be a muse by things. This is why the wise being says , I can do it in another way. I think I can do it differently.
+
+So what the universe does in order to find a better way to do things is to take wisdom and divide wisdom in tiny little pieces all around the universe. And that 's what we call knowledge. Knowledge is the wisdom spread in tiny pieces all around the universe. What the universe does by separating all this is when it starts to open the game so we could understand how to become unique in this universe.
+
+And basically it would be like this. The universe has some laws. They are laws in the universe. The basic one are the seven that for sure we all know.
+
+We would speak about it.
+
+So this is like a game the universe is a game and this game has rules in the game. It 's like for example , football.
+
+So you have some rules in football. You should not go against the rules of the play. You have to play under the rules. But there are people in the game that makes the difference because of their gifts , because of their strategy.
+
+They can do different things. They can improve the game even respecting the. . .
+
+So for example , in also in our music , even if there are so many artists and so many musicians , there are a few that makes the difference. And that 's because some people , even if the rules are the same , they know how to use it differently. And that 's why the universe creates the free will. The free will is to even if you have these rules , you are able to make the difference.
+
+So this is why the universe knowing everything decides to divide itself , believe the experience in these realities.
+
+So it can improve itself. It 's own vision of the potentially that it have within.
+
+So the image of the universe creating the wisdom from us , from our point of view of matter , is very different. Because from our point of view , we are looking for the wisdom and looking for the universe and we are willing to arrive to the origin of everything and to finish all this. And this is why when we have an awakening , we start to look for knowledge. We start to learn to make a lot of things to read many things , to watch many things.
+
+So we can take a lot of information so we can tourism ourselves with a lot of data until the moment that you can not receive any more data and you start to share data.
+
+So you are awakening the wisdom.
+
+Okay. This process can be thousands of years of acknowledging learning , grabbing information from everywhere until then you start to share it. And some point you will find the origin of everything by wisdom. You will connect with the core of everything.
+
+And the question there would be , and now what? What 's next? What do you do when you arrive to the origin? When we arrived to the other side of the universe , it 's written in , the question that the answer would be , well , I have to start to create again.
+
+Because now I have everything.
+
+So I am able to manifest by my own , to create again.
+
+So you start to manifest again , to create again.
+
+So now , picture the origin of these universe we are in. The universe itself got a point of wisdom , where the universe said , now it 's my time to try it , to create.
+
+So it started to create again to manifest new realities. And this created gives some , gives the freedom to manifest , to create , to be creative , but it gives some rules. And for example , music , you have some rules. You have 12 notes.
+
+And this 12 notes , you can use it. You can use it anywhere. You can use it how , as you want.
+
+Okay , so you have 12 notes , which are the , the loss of these universe. And from the notes , you can create instruments to play them. You can create music to play , and you can be also , original , doing the music.
+
+Okay.
+
+So you can just do many thousands of things with this notes.
+
+So the universe is about to be creative , to know what they are capable of with the tools that we have.
+
+So the question now is , so how can I find this wisdom? Well , the wisdom that we all have is a tiny particle that we all , every little being in the universe , has within , which is the ability to be original , the ability to awake , a potential , okay , which is a part of this wisdom that wisdom from the origin , the whole wisdom was divided in tiny particles , and each one of us has one particle of wisdom.
+
+So that 's our uniqueness , that 's our gifts.
+
+So that 's the knowledge that we have within , and that we share outside , that 's our potentially , by our own. How can I awake , do some that I have within? Well , if the wisdom is within , it 's a means that is negative.
+
+So the only way I can take out the negative is by its polarity , the positive.
+
+So what I have to look for is the energy outside in the positive , and that 's why we call knowledge.
+
+So every book you read , every movie , every course you take , every education , everything that you learn , everything you are looking for outside in order to learn is the positive that you will take within an awake , the potential of your wisdom , by magnetism. Like what we are doing right now here , for example , myself , I am here giving wisdom , but this is my wisdom , because it 's inside of me , for you is knowledge.
+
+So you take this as knowledge , not as wisdom. I share my wisdom , and you take from that the knowledge , but you also have wisdom within , that if you share your wisdom , I will receive it , I will receive it as knowledge , so I can learn too.
+
+So this is education.
+
+So this is why there is no person or wise person , and that 's it. Like I am wise and that 's it , or this person is wise. No , nobody is wise and all. We all are wise in something , and we are all students in something different.
+
+So there is nobody that has all the wisdom , not even the same universe , not even the same God. Wisdom is to recognize , to understand , that you have something to give , and the other ones have something to give too.
+
+So that 's the process of sharing learning , because from the very origin of the universe , we all are part of wisdom.
+
+So when we are doing sharing knowledge , it 's just to improve our wisdom.
+
+So that would be the concept of wisdom.
+
+So for example , if you make me make a sum now , like I do n't know , five plus seven , my brain just tops. I ca n't. There 's no particle of wisdom in numbers in my head. Nothing , not even myself.
+
+## Daily Practice Elements
+
+So so we all have something to learn. The vibration for today is Yeh. The statement for today is I am reality 's dimension , or the dimension of reality. The code for today is the octaheidron.
+
+It stays. Inside the cube , in the conjunction of both tetrahedron , originates the small octahedral octahedral here , the seed of the tree of life. According to the Atlantis ambition , this represents the ether. The essence that originates everything in the cosmos , that has the divine potential of creation.
+
+It has 12 edges , 8 faces and 6 vertices , which complement the vision of the cube , basis of the universe related with its space , 12 , and its time , 8 , and its attributes and gifts , 6.
+
+Okay.
+
+## Energy Work
+
+So let 's go. Seat comfortable. The focus only in my breathing , and I remind that I am below the ground in the mind. But I have become a seed between the roots of the tree of life.
+
+And I absorb all of the nutrients of the mat. I perceive how it 's ten my roots in the mud. And I also , extend straight , and hit the first leaf , reaching for the light above. I listen to the animals in the forest and the wrong ambig.
+
+I go higher as the trunk of the tree , going through the branches and the leaves. With my hands , I accompany the flowering of my plant , above the tree into the sky , looking at the sun. As I open the flower , slowly with every breathing , I can see the forest from above in the savanna in the horizon. I can feel every animal , bird , and insect.
+
+I go higher and higher as I see the forest below. The savanna in its horizon , a silo reach the clouds , where the eagle 's flying. I can see far away the ocean in the coast. And the bringing , the light of the sun , personally , white and light blue.
+
+I go higher , outside in the outer space. And looking down , I can see that the light now is shining on the ground , on earth , a silky , higher. I see also Europe , Middle East , Asia , and the sky go around the planet. I start to see the Americas , the Pacific Ocean , Oceania , and Antarctica.
+
+I become aware that the Earth is my body , that the Earth is my reality. And I see to this reality the ocean. And I recognize that in this world , I can find all the knowledge that I am waiting to take as this world is also waiting for me to deliver to it my wisdom. And with my hands , I take the world and I bring it into my throat , taking all its knowledge and awakening the wisdom within me.
+
+I am the dimension of reality. I am the dimension of reality. I am the dimension of reality. I am the dimension of reality.
+
+I am the dimension of reality. Often , I take my hands to my heart. And I recognize myself as the wisdom that deliver knowledge to the world. I see , I see , I see.
+
+Now I can see the reality. I see.
+
+So if you do prayer in the softly , you can back here and now , I can see each part of the body , draining these consciousness to each part of my physical body. And I open my hands.
+
+So , I take all this knowledge and when I go to sleep , I set tension to awaken my own wisdom. Thank you everybody for being there , for being part , and see you tomorrow as always , at the same time. Bye!
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

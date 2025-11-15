@@ -1,0 +1,344 @@
+---
+title: "Day 321 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 321
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 321
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - crown chakra
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hold
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 321 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+I have everyone good morning , good afternoon , good evening.
+
+Today we are closer to just 10 hours ahead. Then I was away from the solstice.
+
+So tomorrow we begin a new moment of the year.
+
+So for those who are in the northern hemisphere , begins the solstice of summer , and for those who are in the southern hemisphere , begins the solstice of winter.
+
+So of course that I will repeat this tomorrow , but because it would be tonight , I wish for all of you to begin and have a really good solstice.
+
+## Energy Work
+
+So we begin today with our crown chara in the physical week of Gemini.
+
+So let 's go to the topic for today , and I remind you that I wrote a lot about this in the post. And I recommend you to read the post every time. Before this , because sometimes I do n't explain something , thinking that you already know what is written.
+
+So there is much more information there in the block.
+
+So the topic for today is very interesting , and it 's ideologies.
+
+So as always , let 's go to the topology of the work. Let 's take this concept. Ideology. Ideology comes from the word idea , idea which is a dough , meaning Greek to sea , which gives the word a day.
+
+Which gives the word a day. That means the shape of those things that you can observe , the things that you can see. And logic comes from logos that means word , which is a concept that gives you a knowledge , knowledge that would be the word logos.
+
+So basically , ideology is the word to describe the knowledge of the observable forms. And this is because this is because the idea is basically many things that we have seen in our life. Many of the things that we have watched and perceived in our life. And in our mind , we create a map inside , like a mental map to create a concept that we can create.
+
+A concept that helps us understand many things.
+
+So that 's an idea. Is the shape of a map inside our mind with many different concepts.
+
+So the ideology would be the knowledge that gives that I can take from those mental maps that I have , which are ideas.
+
+Okay.
+
+So just want to clarify the concept of logos , because I 've heard sometimes this concept in the spiritual world , using the concept of logos or something that is upon us and controlling us as the creator.
+
+So I would like to explain what is logos from this ancient concept.
+
+So we can transcend this idea of someone outside controlling the creation. Logos means word , logos means a concept.
+
+Okay.
+
+So in , how do you say , in the Greek philosophy , they started to call logos to those things that are impossible to measure. Those things that are so big , so huge to understand that they are just concepts abstract things that you can not measure. Yeah , you can not count.
+
+So the divinity , the difference sons , the darkness , I do n't know , many different kinds of ideas that are impossible to measure.
+
+So they were called logos.
+
+Okay.
+
+So that 's why we have the divine logos , the darkened logos , all these kind of things.
+
+So eventually in the path of losses , which is the knowledge , some people mixed the tradition of the Greek philosophy with the Christian religion.
+
+So when it was mixed , logos became a concept of the divine and another way of calling the creator. But it 's not like that. It 's just a mixed of a religion with philosophy. That 's it.
+
+It 's not that there is someone or something called logos and is controlling the creation. It 's just a philosophical concept that was taken by religious people. And they started to call this creature , this being like that. But it 's not.
+
+Sorry if I say it like this in this way , but just to clarify this concept that is historical. And sometimes we make a mistake calling this things like that when it 's not.
+
+So the other thing is the word logos comes from , gives the word logic , which gives the word law. I do n't know how you say it in English , but , Law , yes , I do n't know how do you spell it in English.
+
+Sorry. But there are these groups , you know , like the may sentence and these kind of things.
+
+So this word , which is , law , yes , the yes , or law , yes , I do n't know how you say it in English. That they came , this groups , logged.
+
+Okay. I will trust. Thank you.
+
+So logged.
+
+So this groups of people , where the ones studying , where the ones studying the loggeics. Loggins is the concepts , the abstract concepts.
+
+## Q&A
+
+So these people , where we 're using the different abstract concepts to study. Logged are the , the group of people that we 're trying to understand and study and question the reality through logic.
+
+Okay.
+
+So of course , that in the moment where it has begun religion was on power.
+
+So you were not allowed to question the gods. You were not allowed to. To question anything because you have to trust God.
+
+So that 's why they became heretic groups and they were sharing their own knowledge.
+
+So we usually use the words , logged , logged , as something referred to something wrong to people that is bad in the world. And it 's not. It 's like if we are trying to blame an entire university because they have three or four teachers that are really bad people. And it 's not like that.
+
+It does n't. It is not related the content of the study and the content of the study , the students , other teachers , because three or four people that were not the good people.
+
+So kind of like this is a , is a , is a , the logged is a place where is a group of people that we 're studying abstract concepts.
+
+So of course , religion through through these 2000 years , we have received this concept that those kind of groups are bad for us.
+
+So that 's why we have in our mind that these are the bad people , okay , it was because of religious tradition that used to say that those things are bad , okay.
+
+So just to clarify this things.
+
+So let 's go to idea how an idea is created.
+
+So today I even example of how to understand the idea and was through a B.
+
+So B , we have this animal here that the ancient ones used to call through the , through the sound that they do like z.
+
+So because they were using this word , eventually , when they started to use different languages , when the language is started to evolve , they became like , this , this , this , a beast , a beast , a beast , a beast , a beast , a beast , a beast , a beast , a beast , and so on.
+
+So this transformation of the word created the word B for English and a B for Asia for Spanish.
+
+So the sound of the B created the two words that we have for B for some , okay.
+
+Now let 's create a man 's on map through the word B.
+
+So the word B for example , we can relate it with , , Hive , okay. The hive , or we 'll change it. The hive and what comes from the hive? We have honey and quits honey of there.
+
+So for example , where is the hive in a tree? What are in the trees? Flowers. And bees eat the juice of the flowers , okay.
+
+What colors are the bees?
+
+So yellow and black. And also we can go to much more deeper and abstract concepts like , for example , bees live as a kingdom. And in the kingdom , the bees work.
+
+So we have a mind map of what the B sound is.
+
+So sometimes we do n't realize about this , but when you listen the word B , your mind immediately , opened a whole map of concepts that are related to the sound B.
+
+So all of this is what we call an idea.
+
+So why maybe , even if we have n't seen any bear anytime , we can relate a bear with honey and a bee.
+
+So why I can have this information basically because an idea can be transferred to another one.
+
+So we can transfer this idea to another person. The idea can be transferred to another one.
+
+So another person. But it does n't mean that that other person has really consciousness about why that person knows that. Because for example , maybe you never had the experience of going to the forest and looking into a bear. Eating honey , you never had that experience , but perhaps you have seen when you were 80 years old , you have seen wind the pool.
+
+And you have seen a bear eating honey , and so you can relate birds eating honey because of wind the pool , not because of an actual bear.
+
+So here , what happened is that every idea is in merit.
+
+So I inherit the concepts that some people before me have had experience from.
+
+So that 's why when we receive the word B , we take all the dots and all the information from the concept of a bee. There 's a whole package of information.
+
+So then we have to make an idea to have an idea , the verb of having an idea.
+
+So what is this? It is to have one concept , one idea which is B , another concept or idea which is the Cs. And someone unites these two concepts and create a third one and new idea. A new idea which is a new map that tells me if I use the honey of the bee in a disease of the throat , I can help someone that has a problem.
+
+So that 's why we called to have an idea which is to unify different ideas and concepts to create a new one. To find a new way and you form of something. And there we have ideology.
+
+So what would be ideology? Ideology would be that I have this idea idea idea , many ideas that shape themselves into a bigger idea , a transcendental idea. But suddenly ideology put them all together as a group of ideas that take part of something.
+
+So what ideologies are doing? Ideologies are the joint of many concepts and ideas that are useful to make feel safe to a huge group of people. Ramos a la la la la la la la.
+
+So let 's go now to get it in this way.
+
+So here we have different families. Each one of them are individuals.
+
+So remember , families , the different families comes from the word , the family that means hunger.
+
+So our different groups of individuals that get together because they are hungry. That 's a family.
+
+So here is family. Get together to work to have food. But there we have another concept which is little families that do n't have as much people as they could to work for.
+
+So they get together creating what we call a plan.
+
+So this year would be a plan and this year would be a family.
+
+So for example , here we have three families , family family family , and this would be plans of families. This different families and plans has some things that make them different. For example , we can say that they say the word be in a very different way.
+
+So we have this family that says be this one , be this one , this one , this one , this one , this one , this one , Away.
+
+So we have different ways. It 's just an example. But for you to know that some families has different concepts or different ways to calling the same thing.
+
+Okay. These people , they leave each one with their own ideas. But there 's a problem that they do n't really understand each other properly. It 's like living in Europe.
+
+Everyone has its own language.
+
+So it 's difficult to get along with everyone.
+
+So what happened eventually a problem from the outside comes and affects all of them.
+
+So they all have to get along , get together and to know what to do against this problem or with this problem.
+
+So what I do is to look for the similar concepts that it one of us share. The similar problems , the similar things that we all share. And what I do is to connect them. And suddenly I get an ideology.
+
+Different concepts that get that that unites in order to create a bigger picture , bigger idea.
+
+So maybe they are all different. They speak all the different languages , but this ideology can become a religion.
+
+So now all of them , even if they are very different , they share the same religion , which is an ideology because maybe the need that they all had was to be together in something greater. This is an ideology and ideology is a conjunction , joint of different forms all together.
+
+So what happened that throughout story and all history. The families break , they die , they transform the different countries shape.
+
+So all the things break , but religion keeps the same , ideology kind of follows. 2000 years later , we are still connected through this. Why?
+
+So the reason why an ideology keeps going on through time is because ideology , a mental map , is the only thing that can die. It transcends time because all the rest just dies. People die , the conflicts and there are many things that changed. But the ideologies can become tradition because they say to each other , if we keep with this idea , we will know how to face the next problem.
+
+We will know how to face in time the things that we have lived before.
+
+So that 's why an ideology becomes a tradition , becomes part of the culture. The ideologies give us security , makes us feel safe through time. But what happened , ideologies normally are born to unite people in a certain conflict , in a certain time.
+
+So if that conflict keeps going on , so the ideology is useful because the conflict is there. But if the environment changes and everything is different from the moment when the ideology was born , the ideology fails. It gets old , it 's not useful anymore because we do n't have the same problems and the same tools. We have to create a new ideology.
+
+So to create a new ideology is to understand the environment that we have today and to create a new idea from that tools and environment that we have today. And the main mistake that we usually do with ideologies is that when we create it , we feel so good with that that we believe it will be forever. When it 's not. Ideologies are not forever.
+
+Ideologies are mental maps that helps us to solve problems with the tools that we have now and conflicts that we have now. They are not forever. This is why most of the ideologies that we have today , they do n't work. They are useless because they are very old.
+
+They are from other times that are not useful anymore. What we are doing here is basically to create another ideology. We are here doing another ideology. The I.
+
+N. Explaining this , this concepts that we are sharing. This is all. An ideology that eventually in a few years will come another one to make another turn to make a transcendental message from what we are doing now.
+
+For sure.
+
+So our goal is to let this go and to adapt to the new one. Because we usually say this is the moment and this is the message. But we always have thought that this is not the moment. This is not the message.
+
+We are just links in the constant of time.
+
+So it 's never the moment. Because we are constantly doing something.
+
+So what we are doing now is something to go beyond into another level. But eventually when we are ready to leave that level , there will come another one and new one. And we will have to be ready to let this one go. This is just another step.
+
+This is why one of the sentences that I have received from other beings was to transcend from ideology to biology. This is why the sentence of transcendent from ideology to biology can be explained with evolution. Like for example , take the image that every species that exists in the world today is an ideology. Every species of animal , every species of plant , their ideologies.
+
+But none of them were the same from the very beginning of the planet. They all have evolved. They all transformed themselves into something transcendental.
+
+So none of them kept the same ideology throughout time. They were adapting to biology. Biomines life.
+
+So it 's a constant concept of life in which through certain moments we have ideologies.
+
+So species are like these ideologies in certain moments of time. Not then they change the evolved into something different. This is why we can have this concept of ideology going into biology. This does n't mean that ideologies should not exist.
+
+This means that ideologies must evolve according to the environment.
+
+So I invite you to make this acknowledging of which are your own ideologies. And to pay attention if they are related to another time. If they are useful for as a tool for our times today. Or if they are not.
+
+So to really understand how to transcend an ideology , we have to go to the very beginning of that ideology. Understanding it perfectly.
+
+So we can recognize if it is still really useful as it were at the beginning. Our word today , you see , is divided in many ideologies. Right left and all these kind of things. But the word today is very different.
+
+So that 's why it does n't work. That 's why any ideology is really working. Because all the ideologies that were born before the 80s , they do n't work anymore. We have a word connected in networks today.
+
+So they are useless. That 's why the world is like this. I invite you all to recognize this. Allow yourself to change your ideologies.
+
+You do n't have to believe all the time the same. You do n't have to prove anybody that you believe their entire life the same thing. Of course you have to change is about evolution. Is about changing your point of view.
+
+Maybe you will change your ideology. And it 's okay. It 's natural. It 's good actually.
+
+I had a friend at school that said to me that I was like , I hypocrisy because I was changing some ideas. And I said yes of course , this is all about. It 's about change. If I would think the same thing all my life , that would be so boring.
+
+So it 's important to change. It 's important to adapt to other things. Because today we are in this world like all the time. Judging others , if they believe or if they are of this thought or if you do n't approve this , this belief you immediately are categorized as another.
+
+From another point of view , another belief. You know , this kind of things that creates much more ideologies and division in us than ever before.
+
+So just stop that. And just think by yourself , not thinking in any other. Believe in any other ideology , just flow in the ideologies and be yourself. Do n't try to be like the others expect for you to be.
+
+So it does n't matter which ideology you really have.
+
+So as I said , right now in Spanish like. World Jacques said , this are my principles and. If you do n't like them , I have others.
+
+So yeah.
+
+## Daily Practice Elements
+
+So let 's go to the alignment. The vibration for today is. The statement today is I am mentality 's product. The coach day is pleasure and shame.
+
+## Energy Work
+
+The base of our body is the one that generates the necessary energy for all the body. And to achieve it must feel pleased and high resonance for that. The vibration wave of that root chara manages the positive emotion of pleasure that we feel in the physical emotional and mental body. And it generates this emotion by the amount of energy download of the Kundalini when it flows from the center on its counterpart.
+
+The negative energy of this bipolar center is related with the motion of shame. This means the fear to show pleasure or security to show yourself just how you are. It comfortable , close your eyes and concentrate in your breathing.
+
+Now I really drowned. Take yourBiPriumph. Time to come aware of my entire physical body. Pay attention to your body.
+
+Start to move softly and slowly. Every joint of it , starting by the feet , moving your ankles and circles , your knees , your hip , your hands , raised elbow , shoulders , every dirt run in your spine , in your neck , in your head until you move the jaw , warning. Very slowly , I start to feel like a dancing , perceive every movement of your body , slowly and how it feels. I become aware of each movement of my body.
+
+As I move my body , I recognize that each tiny little part of my body is physical assistance. It 's an idea. It 's the result of an idea from the very beginning that makes me realize that I am the product of the mentality. The recognize I am the idea of the universe , the idea of the divine , the idea of atoms , of cells , the idea of the entire animal kingdom , the idea of the homicide , and the idea of my family , and the idea of my own self.
+
+And with my two hands , I start to carry it and touch each part of my body at the same time as a mirror , acknowledging each idea , each ideology that chains my existence. Hopefully I can be searching for every mirror part of my body that I browse the ears , eyes , mouth , hands , fingers , breasts , legs and feet. And each one of them , I 'm sorry to recognize which ideologies shaped what I am right now. I take all these ideologies that I find in me.
+
+And I think them , I hold them for everything that they did to bring me where I am right now. This is why I am honoured all of them , taking them in my hands. And I take them , I also recognize that this is the time to transform all of them to transcend new idea to evolve. I take the breath and I bring all these ideologies to my crown chara and give in a tiny massage.
+
+I awake the potential of my crown chara , my ability to generate a new idea. I take a deep breath , relax in my hands. I 'm feeling this sensation in the crown , my activate this concept in me. I take all these ideologies that I find in me.
+
+I take all these ideologies that I find in me. I take all these ideologies that I find in me. I am the product of mentality , I am a product of mentality , I am a product of mentality. And this is why I think I think.
+
+And take a deep breath and softly , carries in the tip of my fingers , I start to come back here and now. Thank you everybody for being here , I am always in the day and see you tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

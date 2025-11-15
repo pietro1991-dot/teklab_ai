@@ -1,0 +1,304 @@
+---
+title: "Day 171 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 171
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 171
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - chakras
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - crown chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 171 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hello everyone. Good morning , good afternoon , good evening , wherever you are. I 'm not in the boat yet , because for the reason that there is no tourism , the flights are being cancelled. They just put us all in a new flight tomorrow.
+
+New times.
+
+So I welcome all of you to this beginning of the physical week of Capricorn.
+
+Today we start.
+
+We are going to speak about the systems , the structure , systems from the point of view of Capricorn in the society.
+
+## Energy Work
+
+So we are going to talk today related to the Crown Chakra , which is the topic of religion. As we usually say with family in a meal , family meal , we do n't speak about religion , about politics or economics. Well , we are going to talk about all of it together.
+
+So first of all , we like to say that talking about me , you have your own story , but talking about me , for example , I do n't have a religion. I do n't have a political idea. I do n't have this concept in my life. I 'm going to share a little bit of everything.
+
+So because of this , sometimes can be easier for me , for people like me that does n't have these specifics , documents to think or to speak about all these things in a way that is how to say that is not related to straight directly to me.
+
+So what I would say is that for many people that maybe will listen this or whatever , for many people , maybe it 's difficult to talk about these issues , but not because they believe in a religion , but because they have a culture inside and a preconcept of what things are.
+
+So just for you to have this idea , to have this concept , try to be open to see a different perception , to see a different option.
+
+So I would like to share first of all the idea , my own idea of religion. I was born in a context of a country that is Catholic.
+
+So I was born in an environment that people were mainly Catholic. I recognize the religions through the Catholicism. Of course , but my home , my family was not religious. My grandfather was agnostic.
+
+My entire environment in the family was not religion at all.
+
+So we were kind of this things far away is better. It 's better not to speak about this things or we do n't want to talk about religions. And I am pointing this out because sometimes when we start to talk about the topic of religions , we might say religions are a bad thing because most of the people were inside our religion. And they want to go out from it and the people that lived in a religion , they say , I do n't want this anymore.
+
+So they have this preconcept of religion. Because of this , we have this preconceptions of religions like something bad. But for example , in my own case during my whole life , I was not related to religion. And I had a preconcept of religions from the point of view of being superior to religion , people , religious people.
+
+Because it was like they are still attached to one idea. But sometimes that belief is also a religion. Because we are connected , we have a bond with the concept of being superior because you do n't have a religion.
+
+So it 's important also to understand that when we are not religion at all also , we can also be attached to dogma or misconception about what a religion is. And I guess it 's important to point this because usually when we speak about these topics , we use to criticize religion like trying to say that it 's not good. But this is not the point for today 's topic.
+
+So the topic for today is about from where the religions came from , why they are important in our process and where they started to get lost in the distortion of reality.
+
+So first of all to understand religion , what it means religion. Religion comes from the word re ligase in Latin that means to raise to come back to. And ligase means to tie something , connect something with another thing , okay , to tie.
+
+So the concept is to tie again , to tie it back another time.
+
+Okay.
+
+So now let 's go to the history of religion , how it started. Because our religion did n't start it just in the concept that we have of religion from 3000 or 5000 years ago when human history started to be registered. The human history is way much longer.
+
+So we should not stay attached to the concept that we have of the things from our point of view of how they were created in history. We have to go deeper and even more behind all the things to understand the basis if we want to create something different.
+
+So important to know when we are trying to build something new in the future related to love , related to evolution , to compassion. As I said in Rome in 2014 , we should not build something in the future. We are thinking against the things of the past. Like if something in the past was wrong and we are the good ones.
+
+And saying that if we erase this part of the past , we are going to heal the future. No , it 's not like this. It 's through forgiveness that you heal the future. For forgiveness means that you have to understand the past.
+
+We have to understand the reasons of the past in order to heal the future. If we start to judge things for the things that happen now , it 's a loss battle. Because we are wasting time because we are not understanding why they 're happening.
+
+So we are not being able to heal it for it not to happen.
+
+So I invited you to do this exercise of the idea that we used to speak about the past about thousands of years ago. But what would happen if we tried to think as someone in a thousand years ahead in the future?
+
+So if they see backwards to us , they will see like we are a religion that we are like a sect , like a cult. And that everything that we are just speaking right now here is just the concept of people believing that they are aware. And working with consciousness.
+
+So they thought they were superior to others because they were working with the world in consciousness. They would think about this. They would also maybe say they thought they were doing good things but they were n't doing anything. They were doing bad things for example.
+
+Because from the point of view of the future , maybe we are doing everything wrong for sure. Because everything is about evolving in the future.
+
+So it 's important to understand that when we try to get the idea of what happened in the past , we should not judge the things from the eyes of the future. Because maybe the people that are doing wrong today , the things , they were trying to do the best in the beginning. But they had no idea how.
+
+So they ended up doing it wrong.
+
+## Q&A
+
+So I would invite you to not lose time trying to go against the old systems. Because here comes the questions , yes , but the Vatican does this or this people does that and whatever. Yes , of course. But why?
+
+Because they are the last part of a system that was created for hundreds of years. And now it 's our time.
+
+Now we have to think in our future , in our new time.
+
+So if we waste our time trying to blame what happened or what they did in the past. We are not going to heal the past. The only way you can heal the past is by forgiving the past because they gave us the tools to understand , oh , look at this. That was wrong.
+
+So I had no idea that I would be wrong.
+
+So now I know that it 's wrong.
+
+So I would do it better. Thank you. System from the ancient times to teach me what is wrong.
+
+So I can do it better in the future. That 's the way you go into the future and not lose time in the past.
+
+So this is why here we are not going to criticize their religions.
+
+We are going to give them a meaning.
+
+So I 'm much to read the blog , but I will try to make a summary of the blog.
+
+So remember that in this past month , I guess it was in Sagittarius during the trip that we did from the history. Everything for us began in the moment when we as animals in the beginning of our history as humans , we were living in the forest in Africa , in the trees. And we were eating the fruits of the trees. And there was one day that there was no fruits on the tree.
+
+So we said , where can we find more food? And some of them commented , said in their language kind of , they said , I heard that beyond there is more trees with much more food.
+
+So one of them left the forest with faith in that tree to find something beyond.
+
+So we 've been this animals before we became like from the human kingdom. We started to look at it for that tree every day with faith. And we were hoping to find it.
+
+So we were having hope. That 's how we discovered hope.
+
+So from the first moment of this path , this path created our intelligence that tried to find that tree in which I put my faith in. And I had the hope to find it. From that moment every home in it that came from Africa , looking for this food , started to have faith in to find that big tree of food that was called the tree of life. From that moment on every religion has a holy tree , a secret tree , what it 's going to.
+
+So these cultures from the very past , they started to follow the trees , they started to follow and try to understand where is this tree. And as much they were traveling expecting to find this tree , the tree was even bigger because they started to make the idea of the tree being like so huge , so big that this tree should be like , I do n't know animals must must grow from this tree. Different fruits must must grow from this tree should be so , so big that you can not see the horizon , I do n't know , they touches the sky , it 's so , so big.
+
+So every day was so difficult to find this huge tree that they started to get comfortable with the trees that they found. And I was making a comparison with our cultures today. For example , for all of us , this name has done a very good job making us believe that there is the prince or the princess that we have to find in our life. The perfect person that we have to find and all we will be good and will be the perfect person and so on.
+
+So we are our whole life expecting for that person that is the perfect person that is our soul mate , our twin flame , but always the prince , the most beautiful person or the most beautiful woman. And until you find that person , you start to find like many frogs in the middle , okay?
+
+So you start to find many other people and some of them are good , some of them are bad , I do n't know , but you will start to find other people and get comfortable with other people. And you never find the prince or the princess. And why is that? Why you do n't find the best person ever because as much you look for it , your imagination starts to design this person in a way that it does n't exist is impossible for someone so perfect to exist.
+
+Okay , so that 's why we start to to create this idea and that 's why we never find it.
+
+So the same thing happened with a tree. The tree was so , so big in the head of the people as they were trying to look for it that they could n't understand it , they could n't understand that that tree did n't exist.
+
+So , so they said , okay , this this tree should be so , so big and so incredible that it must be big as the sky so suddenly they said , oh , maybe the tree is the sky.
+
+So the branches are all over the sky and the stars are the fruits of the tree. And that 's how they created the idea of the tree of knowledge , the tree of the divine. Suddenly this tree was so big and they were observing it every night. That suddenly they understood the skies and how they move.
+
+They understood the seasons , the cycles of the moon. They understood the constellations , the calendar , fastest equinox.
+
+So they knew how went to so went to harvest. They understood from the sky how to handle the matter in the earth. And the sky started to give to the humans a gift which is rain.
+
+So they could so and harvest.
+
+So they started to get enlightened by the water. This is the way in which the nomads discover that they can also sew the plants and the trees. They do n't have to look for it.
+
+So they become sedentary.
+
+So this is how the sedentary people start to protect the fields , the seeds. And they understood that if they are all together they can survive. If one of them goes away , they can be lost.
+
+So they need to get all together. United.
+
+So the way in which they started to hold these people together. It was the person that saw the skies , interpret the sky and brought the idea to the people as an advice. And that was the priest , the chairman.
+
+So this priest that understood the concepts of the sky put everyone together by advice in this country. The specific moments of the year because he understood or she understood everything.
+
+So in the solstice the equinox in the phases of the moon. Every 28 days in the new years. In the constellations the houses of the constellations. They called everyone to put together.
+
+To share and to receive the blessing for this new stage coming.
+
+So they got united once and again , once and again every season and every change of the sky. And how do we call to get united again and again and again in ceremonies. We call that re ligase re legend. This is how a religion starts.
+
+Following the skis of the sky. To put together all the individuals of a family. For them to survive through time. Is n't this beautiful?
+
+The system , the religion , beautiful. The natural religion is beautiful. The origin of everything. It 's just to pay attention to the skies in order to know how to live.
+
+In order to know how to move.
+
+So that 's what we all do. In specific moments of the time of the calendar. We get together all the family. But to celebrate something to share.
+
+Food mainly. And it 's perfect. It 's so beautiful.
+
+So now what happened? A lot of people start to be born.
+
+So many people , a lot of people.
+
+So they start to separate to create many other villages.
+
+So they go to the north.
+
+So they go to the desert. They go to the rainforest. And the shaman starts to interpretive. Starting to interpretive.
+
+The environment , the divine. According to their environment , the geography and the weather.
+
+So whoever went to the north for example. Where is to call. And you have a winter , a very long winter with three months of night. There 's no way for them to survive with plants.
+
+So they needed to hunt.
+
+So that 's why their religion was related to the blood. For the people of the desert , it was related to the will of water. The wells. Inside the ground.
+
+So the water was holy. For the people in the rainforest , it was all about the animals and the sacred plants. For the people like to bet. They had no much oxygen.
+
+So they needed to talk slowly for them not to die because of a heart talk. Because they do n't have oxygen.
+
+So what they had to do was to seat and mediate. To take it to breath.
+
+So from that moment on , what happens is that they do n't have to be a human. There 's no money in the mind. There are only shaman trying to interpret the divine through the geography where they live in.
+
+So in this way , starts to grow many interpretations of the divinity according to the geography and the weather.
+
+So what happened in the past in the past? That there is so much people in the world that they start to migrate and suddenly they migrate from one branch and then with a lot of people they find again in another moment. And they kind of look similar. But they have so many different ways to interpret it the similar.
+
+So if this one went to the rainforest and this one to the mountain when they find again each other. We 'll be different in the interpretation of the divine.
+
+So what happened in that moment is that one of the shaman say , let 's try to protect our people.
+
+So hey , remember that our truth in the rainforest is better and is the truth for us.
+
+So that 's the only one truth that you can survive with. Do n't believe the people from the mountain because they do n't know how to make you leave in the rainforest.
+
+So the shaman and the priests stop with interpretation and with the will to interpret the skies and they start to put all their energies in protecting the earth.
+
+So when I say protect the earth , I am saying to protect their own vision. The people.
+
+So what they started to do is to try to convince the rest of the people that their truth , their speech , was the best. This is the moment when religion stopped being something that unites and starts to become something that divide us and type people to other people. And this is what makes a system of belief , a system , a spiritual system become , to become a system of faith , which is faith to trust , to trust in the other speech , the other opinion. And that is a dogma.
+
+We say dogma. In Greek to opinion.
+
+So the question would be , how many of us are here trying to convince the others with our opinion on things and how many of us are here trying to share that opinion to whoever needs it? The problem are not religions. Religions are not bad. Religions are a system that helps us to be united.
+
+The problem here is not religion. Is the people that is afraid to lose control. As the higher self said today , a garden can not have only one flower. The only way we can download the light is with diversity.
+
+And that 's why we are here to try to open our lotus flower to find our inner light. Is 21 21 of the day 21 year 21. Take a deep breath. And we begin with the alignment.
+
+## Daily Practice Elements
+
+The vibration for today is the , the , the , the statement for today is I am the divine. And I 'm going to mention it. The code for today is oxygen. This is the third basic element of creation and the most important one for life in our world.
+
+This mean. That , this means the most present in the atmosphere. The chemical process performed by the vegetable world during the photosynthesis. Parts oxygen , which is used by the rest of living beings for breathing and circulation.
+
+Turning nutrients into energy , relating this way , the element air. The one that connects us all on a unique connection.
+
+## Guided Meditation
+
+Remember that breathing in Latin is similaré , which is the origin of the word spiritual. The ability to breathe is spiritual.
+
+So we are connected today with the chemical element oxygen that is related to our spiritual world.
+
+Okay? Let 's go to the elements. It 's comfortable and we focus on our breathing. Take a deep breath.
+
+And think , pay attention to all your body , to your feet , your legs , hip , twist , your chest , arms , arms , shoulders , neck , face and head until your hair. Take a deep breath and start to make a soft massage from your feet to your head. Come in aware of each part of it. Take a deep breath and discharge the energy through the mouth.
+
+If you are interested in hearing , please come and check any more details on this test. I 've become aware from the inside of my body. The heartbeat of my heart , the blood , my veins and arteries , how it goes to each one of the organs , muscles. Take a deep breath , fill in the air , the oxygen coming inside , filling it in your lungs , how it goes to the blood , bringing this fresh air to the brain , relaxing , the entire nervous system.
+
+Remember , each time that I breathe , I activate this spirit within me , so I recognize that my body is a temple. I use my imagination to feel myself like this spirit that lives within me inside my heart on lungs , a side breath , and I use imagination to see how this temple looks like from within. And I recognize that beyond the forms , the shapes , the ways , all of them were looking for the same thing. They were looking for the essence , the light.
+
+They were all looking for the only one in great spirit.
+
+So I invite them all to sit around in my temple. As I see them around , I remind them that the great spirit lives within us and is called breathing. I take a deep breath and invite them to this sok , breathing whole exile. And in my breathing , I activate the vibration of my essence.
+
+I am the divine essence. I am the divine essence. I am the tree of light and knowledge. I am the consciousness.
+
+I am the universe. I am the light. I am life. I am the path.
+
+I am the religion that unites spirit , soul , and body. I am God. I am the path of the world. Take a breath and each one with some time.
+
+## Q&A
+
+Come back here and now Margin ' all your body. The task for today , write down what are the basis of your own religion. I 'm not saying about the religion you are in culturally , I 'm saying about your own religion. What are the basis , the laws of your own dogma?
+
+Thank you everybody for being there and see you tomorrow the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

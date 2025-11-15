@@ -1,0 +1,250 @@
+---
+title: "Day 127 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 127
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 127
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+
+practice_elements:
+  chakra: "Sacral"
+
+---
+
+# Day 127 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Sacral`
+
+## Introduction
+
+Good morning. Good afternoon. Good evening. Everyone 's good.
+
+## Energy Work
+
+Ready to begin. We are already in the root chara. For me , has been really fast. It 's been fast.
+
+And well , today we are related to the root chara in the mind , week of the non-dedicated to Sagittarius , which is the concept of the In.
+
+So let 's begin with our topic for today , which is determination.
+
+So the topic for today is determination.
+
+So determination is related with the concept of something that has an ending.
+
+So the determination has a termini.
+
+So it means that it arrives to an end. The concept of determination is related with the idea that you can see something ahead that has an ending. That 's a limit. That ends there , that terminates in the end.
+
+So this means that the determination means that once I know it , once I know that end , everything that I 'm going to do from this moment will be determined by that ending that I already know. And also this means that everything that I 'm going leave that I 'm going to experience will be determined by determined and conditioned by that determination that I had ahead in the future.
+
+So something important to see is that the word determination is not exactly describing the moment when you arrive to the end. But what is happening is that you are talking about the process of getting into that end.
+
+So culturally , we do n't talk about the ending of the determination , but we talk about the beginning of the determination. Because what we say is that from now on , I am determined to do this or that.
+
+So it 's like if you are saying to you , there 's no other option than the one that I choose right now.
+
+So everything that I 'm going to do will be determined by what I just said.
+
+So you put the determination. And culturally , we put the determination at the beginning , then , in the end. For example , when we say , when we say , I 'm determined to say no to this , I do n't want to do this or that. That 's a determination because you are saying something that will condition everything ahead.
+
+This means that you say no right now , are conditioning and determination in the future , all the times that something similar to what is happening now will be faced , like saying no. You are determined to say no to similar situations.
+
+So this is why in the present , you have settle the determination of all the goals ahead in the future.
+
+So for the universe , determination is not only a choice. Determination is a law. By law of determination , when you say something and settle the intention and the word of saying something , the universe interprets this to repeat it every time in each cycle of experimentation and and existence in the reality.
+
+So that 's why it 's a law because now it 's determined to be like this in every cycle.
+
+## Daily Practice Elements
+
+So the determination of our energy of our works is the the one 's determination is the one that condition that we live after life to leave the same things. We repeat the same things because of this determination. This system , for example , we have many ways to call this the system of determination is what we call patterns. The tool of the determination is what we call the creed statement.
+
+So what is the use of determination? Well , the use is to feel safe , secure , that whatever is going to happen in the future will be similar.
+
+So you will be secure and you will feel harmonize because you now know what is going to happen.
+
+So the determination that with the time it becomes a law , is what helps us to feel secure. This is why along history , cultures and societies create the terminated laws because the laws makes us feel safe. For example , we have an unconscious law that says heaven is a bull and earth is below. That 's the determination.
+
+We have social laws that tells us what is good , what is not. And also we have universal laws that for example tells me us above so below.
+
+So what is a law for a human? A law is a way to feel safe and secure. Because for sure we all will agree that there are so many laws that we do n't like , but there are many other laws each one of us need those laws.
+
+So what is a law at the determination? For example , a law , a terminology law is like when you say for me , this should be like this. Always. This should be always like this.
+
+For example , human rights. Human rights should be always like this. And there are many other laws that we do n't really are willing to to accomplish them. For sure , there should be some laws that does n't have any sense , any meaning.
+
+Like maybe they are so all that they are not related to the moment we are leaving. And so we decide to change the laws.
+
+So you see that if there is a law that bothers you , you can change it. We can change laws.
+
+So what is the goal of determination if a law can be changed? But the reason why the laws changed is because the laws are written by a group of people concerning the consciousness or the unconscious mind of a society.
+
+So it 's a group of people , a great group of people that are the idea of feeling safe with that law.
+
+So that 's why we create those kind of laws. Laws are not made to control people. Laws are made to people to feel safe.
+
+So what would happen if the people change? If people change because of the environment , the environment changes , the people change.
+
+So they say , okay , now we do n't need any more than law.
+
+So we have to change it. Yes. But what happened? When the people say we do n't need this law anymore , we need to change it.
+
+The system that absorbed that law says , hey , but you determine this law. And first saying that if this is determined , then we have to repeat it. It has to keep going.
+
+So a law is not something that is imposed over us , not that we created for us according to our level of consciousness. It 's not the government to blame the system to blame that we have changed. If we are the ones who changed , we are the ones that must propose changed in the system. We can not blame the government because the government is just the extension of the system.
+
+The government can not propose anything different. In history , constantly , every revolution and transformation was because of the people , the environment changing , the context changed , the people changing and pushing the government to do what they do.
+
+So the government is just doing what it was supposed to do according to the main laws of the past.
+
+So now let 's go to understand that this from the useful point of view.
+
+So remember the universe from within creates the outside , it projects outside.
+
+So this means that it creates the negative and the positive aspects of the , and it starts to become a law. The law of repeating the system of the negative to create everything.
+
+So the system will be replicated everywhere in the universe. The internal and external , negative and positive will be in every dimension in every world , everything that exists will be connected by this law. Once you have this law , then you will have the possibility to change this law , which is what we spoke yesterday about the adventure. The adventure is the one that 's just to create to manifest.
+
+And that 's the thing that allows the determined pattern of duality and polarity. Making it transform itself in so many different ways. Like it creates all the chemical elements , it creates all the evolution in every planet. It creates our reality in this world , the evolution in this world.
+
+Everything that we have , the art , everything.
+
+So it is determined in the universe can also change adapting to the new environment.
+
+So this means that each one of us has a citizens within that is determined by our being that will repeat constantly in the universe. But through the expression of the universe , we will change , we totally change constantly. We adapt to our new environments.
+
+So nothing that we believe that is determined in the universe really determined. The only things that are determined in the universe are the seven laws of the universe.
+
+So this law goes all through us , creating all of us. But art , this same laws , the ones that helps us to exist , that allows the original , of the originality of each one of us to exist. Be sure in this transformation of the universe , what is the termination really for the universe? Well for the universe , the termination is basically a guide to help you not to get lost in this reality in the universe.
+
+When the universe is something that is fractalizing constantly.
+
+So everything that is fractalizing in the universe takes you from path to distorted path.
+
+So if you have an issue and do n't know what is your fractalization , why you are fractalizing?
+
+So you are lost , you do n't know where you are. When you take this seven laws , you see , and you see the whole , the bigger picture or the small picture , seven laws are the same , because they are determining the whole universe.
+
+So it does n't matter where the creation that you will find out exactly what to do , because they repeat constantly.
+
+So basically seven laws are the determinations that helps us to not get lost in the universe.
+
+So one important thing to see about this is that where can you get lost in the universe? Well you can only get lost in your own determination. Here in your mind , because remember that the universe does n't exist , you can not get lost in the universe , because really you are always here and now.
+
+So that 's basically what it is.
+
+So because of this , what we have to pick is our own determinations.
+
+So what are those determinations that makes us be lost? The determinations that that makes us lost is our own beliefs and patterns.
+
+So the reason why you get lost in the determination of your beliefs is because they look to you into just your own point of view.
+
+So you can not see the rest , the other points of view , the whole thing , the whole picture.
+
+So one of the main things that we have to picture about our determinations is if they are limiting us , the limitations or if they are helping us.
+
+So other termination can limit you because other termination says that it does n't matter what happened , this will always be the same.
+
+So you are not living the possibility to change that way in which you are living. It will be repeating once and again.
+
+## Q&A
+
+So you are trapped in your own system. And the good way of seeing the termination is when I say , I am determined to do this. For example myself , I am determined to finish this planetary task.
+
+So you go to the point. And the universe will remind me that I have to do that. If I would n't have the termination , my life would n't have an axis. But if I would leave my life through determination , so I would n't be able to change and transform myself never.
+
+So what we have to do in our lives is to know how to have the termination to help us go through life , go through life , and not the determination to tell me how to live. And something very important to remember about what I said. The termination has the laws as permanent. The laws in society , they change by the context.
+
+Important thing , the concept of law is the one that makes us be in access to live in our access , the concept of law. But the laws , the different laws are the ones that must change in order to evolve.
+
+So important things to know that laws are not only humans , laws are everywhere. We have laws in nature , in the unstats , in the herds , the comes , in priests , and forest.
+
+So laws are the order of things without laws. Kills.
+
+So what is order , order is harmony , is this. What is chaos is this harmony? That 's chaos. What is better?
+
+The universe generates chaos in order to find order. This is why everything universe , when we say something chaotic , we try to bring order , is a law of harmonics.
+
+So to put order into that , we call that law. The concept of law of determination is the concept of having something that shows us the pattern of order.
+
+So the different laws must change because they change according to the environment , according to the context. Like for example , for a few very close to our time , there was a law that supported the buying and selling humans , slaves. It was like normal because the context saw that as normal.
+
+So now we changed. And now we do n't have this kind of laws supporting buying people.
+
+Now there are laws against that.
+
+So we all change. And that 's why we need to recognize that everything that constitutes like the constitution , that constitute a group of people , if those people have changed.
+
+So the constitution also must change. To close this , remember the inside. Here , the universe , the negative and the positive of the universe , are the ones that creates the electron and the proton.
+
+So a proton and an electron , positive and negative , they will try to be together constantly creating an atom.
+
+So they will create more of them. And they will create chemical composed and then elements. And then the earth and planets and suns and all the reality , the evolution and then the organic. And then the thoughts , everything just because of that.
+
+So now the question would be , is the mind of the universe determining the turning , everything that happens and that exists or our chest , microclosiness that determines existence. Because in the microcosmos , we , the subject and the context are the same.
+
+## Daily Practice Elements
+
+So it 's ourselves who are determining the whole universe is us from the microcosmos who shaped the microcosmos. Migration for today , you. The statement for today is I am the dimension of realization. The code for today is the Kuboctahedron.
+
+This geometrical pattern originates from the combination of the attached with a cube , constituting 14 faces , 6 squared and 8 triangular , with 24 edges and 12 vertices. Its potential lies in being the seed of creation being expressed. This means the union of this permasosoi with the oval , sperm and uterus , creating life , generating the potential of creativity. This pattern will originate the center of energy power of energetic power of the sacral chara.
+
+## Energy Work
+
+I set my body comfortable , focusing in my breathing. I remember myself that I am below air , being a seed flourishing from the mud to let the roots grow deep into the ground. As the fur leaves go up in the air , searching for light. And I hear the animals of the forest and company my growth.
+
+I go higher , going through the branches leaves of the tree of light , grabbing its roots with minds. I can reach the light of the sun , coming out from the tree , watching the whole forest from above , the savanna , fool with animals , as with my hands , I accompany to grow with my flower towards the sky. I can see beyond , I can see everything , the coast , the ocean , the rain forest , the horizon , wider , I can see it all , and around me. The sun , the sky and the clouds , lighten , of yellow , light blue , and white.
+
+I absorb the light of this kind of opening my entire flower. I sigh open my flower , I go through that atmosphere reaching the space. Even the light I was searching for now shines in the surface of the earth. And I can see Africa below me.
+
+I can see the horizon , I can see Europe , we least , in Asia. As I get farther from earth and turn around it , I can see the images , the Pacific Ocean , ocean , and Antarctica. As I contemplate here , I can see that in every spot that I can watch the color of the moon , I see there a root , in the lines and the oceans , there is a root heading within the planet , raining the light from the outside. I am part of the roots of this world.
+
+For I am part of the realization of this world , and I am determined to part of its transformation. I take this world with my hands and take all its roots towards my aura in my genitals. And I have become one with this realization in the reality of my vibration. I am part of the realization of this world.
+
+I am part of the realization of this world. I recognize I am mentioned of realization. I see my determination to be part of this transformation of this reality. I am part of the realization of this reality of my vibration.
+
+I am part of the realization of this reality of my vibration. I am part of the realization of this reality of my vibration. I begin to dream this consciousness through each part of my body. I take a deep breath and each one has a bite of some time.
+
+## Q&A
+
+Thank you for being there. I remember the task we are taking this month is to take note each day of a place that we have been and something we have learned from that place. Thank you everybody for being there and I am always here tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

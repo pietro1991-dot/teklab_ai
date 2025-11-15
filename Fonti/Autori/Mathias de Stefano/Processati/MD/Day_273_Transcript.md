@@ -1,0 +1,317 @@
+---
+title: "Day 273 - I Can - Personal Power"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 273
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 273
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - chakras
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - month holding
+  - month holds
+
+practice_elements:
+  chakra: "Throat"
+
+---
+
+# Day 273 - I Can - Personal Power
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Throat`
+
+## Introduction
+
+Hi everyone! How are you? Good morning , good afternoon , good evening. Welcome all of you , another day to our day of the flow chara.
+
+In the mental , the mind weak of torus. Let 's begin with the topic for today which is energy. I think a lot about energy , so let 's try to understand it a little bit. Let 's see if I can explain all of this about energy.
+
+As always , let 's go to the meaning of the word.
+
+So energy , like in Spanish energy comes from N , in Greek and Edison in Greek. And meaning inside , Edison , meaning work or strength , which comes from the inner-upian language , work , which is the origin of work.
+
+So the particle I or I , comes from the Greek A , that means quality , the quality of something.
+
+So energy means the quality of being doing a work or doing a strength for something.
+
+So as you see energy means the work of a force , of a strength of something.
+
+So meaning the weight that something has , the charge that something has.
+
+So this is what we have been speaking a lot in all this path , which is the charge of something , divides itself into negative and positive.
+
+So talking about positive and negative , we have here that this means that an object , an object has two charges , a charge that is positive , a charge that is negative. And both of them are attracting each other.
+
+So they create by attraction , this field that we call magnetism. Magnetism. These are the two charges of something , like for example , our planet.
+
+So like in earth , for example , we have this sphere here and the positive and the negative , we call the positive , the north pole and the negative , the south pole.
+
+So this is not because of politics or because of , I do n't know , kind of control in geography or something that things that I have heard. No , this is just because all the iron of the planet points towards the positive side of the magnetism , which is right now in the north.
+
+So that 's why all is facing north. But if the magnetism starts to change towards another direction , all the companies will point into that direction.
+
+So it 's not about if the positive is the south or the north and is something much more political or philosophical. No , it 's is is actual like this. It 's not that the north is much more powerful is just that magnetism , the positive side of magnetism is there.
+
+So now these two positive or negative , they are making strength , they are producing a force that makes them be what they are.
+
+So this force is the movement that they do in order to reach the other one , so they create this magnetism around.
+
+So this force is the one that we call energy.
+
+So the judges of energy that the negative and the positive has by itself is what we call potential energy.
+
+So why do we call them potential? Because potential comes from potato that gives the word power.
+
+So this means that the potential energy is talking about the power that this aspect has by itself. We usually , we usually , in this path of spirituality and inner growth , we use a lot the idea of an inner potential that each person has potential inside each person has something to to give to the world. Even if it is in spirituality or in companies or in arts , we usually say we have an inner potential. And in us , we can experience that potential that is inevitable inside of us.
+
+Then we go to this , to specific specifics. What kind of energy is the one that we call kinetics energy?
+
+So the other one , the kinetics energy comes from the word kinen that means movement , the movement of something.
+
+So this one here potential , the energy of potential is the one that you have within. And the kinetics energy is the one that is created by the movement outside.
+
+So we have only two universal ways of energy. The potential energy , which is the one , remember when it 's energy , what energy means , that is , and a strength that you have inside , the quality of having that strength.
+
+So an inner potential energy would be that strength that you have by nature inside. And the kinetics energy is the one that explains how that strength that you have inside , you are moving it into the outside.
+
+So basically , these are the two types of energy. One is within another one outside.
+
+So here , for example , we have two kinds of potential energy , which are gravity , gravitational energy , which is according to the weight that the mass that the planet has , the accumulation of matter. And in the other hand , the magnetism , magnetic energy , which is created by its pulse , positive and negative.
+
+So for example , then in this same potential energy , what we have is the movement of the planet , because this inner potential of magnetism is the one that makes it possible.
+
+So the one that makes the Earth spin.
+
+So when it starts to spin , it creates kinetic energy. And kinetic energy is the one that moves everything on the planet.
+
+So it creates much new energy. And this energy is the one that then we can experience by electricity , because of the charge of this movement in the energy. A Yonusfer in the stratosphere , they create this accumulation of energy that needs a discharge , which is kinetic. And we call electricity , like a lightning , that needs a discharge in the ground.
+
+So remember , for example , in this structure , we have an atom here. We have an atom , and here we have a proton and a neutron , and around we have the electrons.
+
+So the potential energy that we have inside an atom is the one that makes the proton and the neutron to be connected , as one.
+
+So that 's a really hard string that is the potential of this atom.
+
+So by a reaction , what you can do is to divide both of them and release that potential energy from inside.
+
+So that 's what the scientists , some of them , they do when they divide the atom.
+
+So they release the energy , and that 's what we call the nuclear energy , which is atomic energy. These energies in all of us , in each one of your atoms of your body , because basically , he 's the energy that holds the atoms together.
+
+So remember , everything that we have spoken about this unity , this only one being , that has the potential of the entire universe. It 's only one particle , only one thing that all 's inside the potential of the entire existence. When this only thing decides to divide it into all the potential from inside is released , the thing that we call the big band , like a atomic bomb. And all this power that is released creates a new kind of energy called kinetics , kinetics energy.
+
+We can say here that the potential is static , because the potential is inside , holding within , and is static that means to stay in one spot and when it divides by two , the energy is released , the tension is released , creating movement , which is kinetics.
+
+So what we have here is that the potential that before was only in one , now this potential is divided into.
+
+So the potential that was shared by both of them now is divided in this one and this one. And we call it the positive potential and the negative potential. And because they both are trying to find themselves , they create movement , so that 's what we call kinetics.
+
+Now let 's keep dividing them by others.
+
+So every time I divide them , I create more potentials that starts to move around.
+
+So these are charts. Yes , charts. And let 's understand this. The human body does n't have charts within.
+
+The human body is made up with charts. The human body does n't have charts within. The human body is a construction of charts.
+
+## Energy Work
+
+So what is the chara? Chakra? In Sanskrit means will.
+
+So everything that moves like will will be a chara.
+
+So every atom in our body is a chara. Each atom , each molecule , each chemical , each cell , and each organ is a chara.
+
+So why are they all charts? Because everything is created by a potential energy that is expressed in kinetics energy.
+
+So basically we are energy. We are constant energy.
+
+So the process is constant because of this law. The law of energy conservation.
+
+So the law of energy conservation can tell us that for example here we have ice. And then we have water. And then we have steam.
+
+So all of them regenerate once and again and it 's always the same. The matter does n't disappear. It wo n't disappear. It only changes its shapes.
+
+So for example when you put fire on some wood and it turns into ashes , it 's not that they would disappear. It 's just transformed its energy.
+
+Now we have ashes but also it transformed itself into fire into carbon that is on the air.
+
+Now it transforming to heat.
+
+So it did n't disappear really. It 's constant all the time.
+
+So because of this law you can understand that anything in the planet , anything in the planet , left the planet. This means everything has been transformed. Everything that exists now is made up with all the things that once walked on earth. Like it 's not that there are new people appearing and being born in this planet.
+
+And that 's because of this we have much more matter. Or eventually we wo n't have space because a lot of people will have. This making the air full with with with matter. No , the people that is born now is the same energy and matter that has been once.
+
+So it 's constant. And that explains reincarnation.
+
+So when we talk about reincarnation , it 's not that a soul has been outside of my body and was inside of another body. What happened is that my body has the same atoms that once has been inside of some other beings. This explains why sometimes we can remember the same past life like if we were the same person. Because maybe one arm of one person has become another person in another country.
+
+And maybe some leg , the atoms of some leg has gone into another country with another person. It 's not about we humans leave that and what about others animals or plants. No , it 's everything. Everything.
+
+This here for example , this is plastic. Here is plastic , but the plastic has been done because of. Three. Three thousands of years ago in the North Pole , in the region that today is the North Pole.
+
+He did the main matter to make the plastic. And maybe that tree was grow up grew up because the seed of that tree was in the in the pool of a dinosaur. That ate a plant.
+
+So now that dinosaur , that tree that water has become a pen for me to explain the law of conservation. Energy is constant. And every atom in the matter has a potential that is movement that is moving by kinetics. What is the energy then?
+
+Energy is movement. Energy is movement. What is energy? Energy is movement.
+
+In Latin movement is animals , which gives the name animal. Everything that is an animal is something that is moving. Which gave the word anemia for the state of human. Endemic.
+
+Which gave the word alma that means soul.
+
+So is energy. This description of what soul means is movement. The constant movement energy. When we say the soul is something that gives information that goes through one body to another body that reincarnated.
+
+And we explained the beauty of the soul and so on. What we are actually talking about is about kinetics energy and potential energy. Actually , I feel like killing the magic in this. But I guess this important for us to know that the reason why we in spirituality call the soul reincarnated in another body is because the vocabulary that we have in the spiritual world.
+
+It has been designed in times where we have not the tools to explain kinetics energy or the atomic energy. It 's about vocabulary and traditions of different cultures that we ended up explaining this.
+
+So when we say soul , now it sounds very beautiful because it 's something cultural that was very poetic when someone was trying to explain how energy worked. But actually what we were trying to say is that something was animated. That it was the movement. You can basically write a testis for university about an atom in science or you can write a poem about an atom.
+
+And both would be right because there are two different ways to explain the same thing.
+
+So it 's not that one is fine and the other one is bad. They are bouquet. It 's all about semantics and words.
+
+So now when we , for example , have this image.
+
+Sorry , when many of the of this atoms starts to get together by resonance. They connect by resonance to one another. They start to create a network of potential. They recall an organ or a chara.
+
+Each one of this here is one chara. Each note is a chara. But when they , some of them get together and create a big structure , we will have a greater chara. Meet up with all the potential of many potentials.
+
+So we have a greater chara like for example today we have the throw chara.
+
+So this is the throw chara that has inner potential and also can express through words , through singing , in kinetics energy. Magnificent something outside the words and changing realities through the word.
+
+So it 's not that here we have a chara within an organ. The organ is made by charts.
+
+So all the charts together create another chara that we call organ is the atoms inside that has the energy of the chara.
+
+So when I work with the chara , I 'm not working with something outside from the organ. I am working with the network of potential. And I have two ways to work this.
+
+## Guided Meditation
+
+So there are two ways to work with this network. In the potential of this network , the way to work with it is by meditation. And through kinetics is what we call activation. Meditation , activation.
+
+So the potential which is inside of this structure can only be found by meditation , which is to go to the middle , to go in the middle inside.
+
+So meditation is to observe the potential within. In the other hand , we have kinetics. Kinetics is movement.
+
+So that 's access to activation. It would be to activate that potential that I have within. And how for example , if we are here in the throw chara , would be to speak , to sing , to do something with your voice. Or it can also be doing ceremony.
+
+Humanism , it can be just painting like I 'm doing now. It can be doing whatever you feel it could activate your inner potential.
+
+## Q&A
+
+Okay? And , by the last , I wanted to end up clarifying something I also wrote in the post. I wanted to clarify this , which is the use of this energy , because in this , the people that like ask that for sure here , there are many people that works with energy or also in service helping others with your energy.
+
+So some of you maybe know by the inside how to manage that energy , know how to handle that energy as we spoke today , but some others do n't , because just receive that by tradition or by imitation or something like that.
+
+So just wanted to clarify this to help you do it better for yourself.
+
+So when we are working with energy , we usually say I give energy. And even if we are a battery , because naturally we are a battery that can create a lot of energy constantly. It does n't mean that you can do it all the time. It means that you are a battery , but you need to recharge the battery.
+
+Otherwise , you are low in energy. And this means that for example , the people that are enlightened , they can recharge constantly their own energy and it 's eternal. But the people that we are still dealing with stuff and having travels and working in yourself , we have some kind of problems still to create that.
+
+So that 's why we need to eat , we need to drink , we need to sleep , we need to love , because we need to recharge our energy. Unless you are enlightened , you will need to recharge your energy by eating and sharing and so on.
+
+So for those who work with the energy , remember , we are like a battery , so we have positive and negative.
+
+So our hands and our eyes are a way in which we can move energy from inside to the outside. We are electricity.
+
+So we have in the right hand , the positive and left hand , the negative.
+
+So we can use this side to recharge something with our energy. And mostly the hands , because they are grown from the hard chara , which is the one that expands the most.
+
+So that 's why from the heart , you can expand the arms towards the hand and that 's why it is better to do it with your hands.
+
+So the way in which I can do it properly and better to give energy to others with my hands is downloading information from the inside. The photos are everywhere , which is the light of the sun. That 's the kinetic energy of the sun that is constantly there as a terminal.
+
+So even if it is night , there are photons everywhere , because you can walk around and you can just take a look and you will see things even if it is dark.
+
+So that 's because photons are everywhere all the time.
+
+## Guided Meditation
+
+So you can just breathe those photons through the head , breathing through the head and they go to your heart. And from your heart , you expand that with your hands to what you are trying to heal or help.
+
+So that 's the way in which you can do it without wasting your own energy. You take the energy from the environment and you go through the heart in order to recharge it. But also remember this is not good to have too much energy.
+
+So remember to download the rest of the energy through your feet to the earth like if you are aligning. And it 's I say it 's not good to have a lot of energy. It 's not good to have a lot of energy the same way as it 's not good to charge your phone.
+
+So many hours together because the battery can die.
+
+Okay , so a lot of energy is also not good for your body. That was for the people that worked with energy. But that does n't work with energy , but they feel like people is sucking the energy like bind powers around because maybe you are weak and you do n't know how to work with your energy. I want to recommend you to close your pattern of energy to take protection because that would close to you to be open to new things or new.
+
+But at least that maybe you need.
+
+So I would recommend you to do exactly the same. Take the energy from the environment from the photons of the sun. They go down and you expand it like imagine like if you ride like a sun.
+
+So the vine parts , the parasites they will get that energy to but it 's not yours. Is the energy of the sun.
+
+So you are a charging yourself and also you are given energy to those who need.
+
+So practice practice that.
+
+So that is energy. This is the first economical exchange of the universe. The code for today is the Indian Ocean. Contain between the continents of Oshima and Antarctica and Africa with a part of Middle East.
+
+This ocean has the islands that conform the territory known as Lemur covering from Madagascar. And the Nascar home of the Lemur up to Sumatra and the islands and adults from Indian seashells , Males and the French Southern lands territories. Its expression is born from the geometrical projection of the cube that originates the forces of life and the directions of interdimensional space. See it comfortable , close your eyes and concentrate in your breathing.
+
+I become aware of the space that surrounds me. The body that I inhabit on my own breathing. The most important thing is that the world is in the world. Using my imagination , I picture the space around me.
+
+Become a dark and wide. Expanded , I visualize myself , invitation in the middle. And softly , I start to move my body. Like you find a new thing moving each part of it.
+
+It 's stretching. There is load. I carry all this space. It 's low limb , softly.
+
+I start to see myself in the position. Of the womb , becoming a seed , tagging my legs , floating in the space. I take a deep breath , feeling at home in this position. If I ca n't move my legs , I simply hug myself with my arms.
+
+I take your hands. I breathe. The lips turn above me , a ray of light. It shines upon me.
+
+Getting wet. My eyes and ears falling down through my nose. My lips , my mouth , my neck. I 'm reaching my throat.
+
+I 'm filling up my throat chara with this water light. I can feel the source within me resounding and creating the energy that holds my potential hand.
+
+Softly , I use my hands to go through my neck and grow in leaves in my mouth , expanding the energy within me. I start to see the energy opening my body , relax and arm softly. I feel the energy of my entire being opening. I keep singing.
+
+My arms become branches , my fingers , in leaves and flowers. I stand to the floor as words , creating this tree that I am. In my energy , I find my potential and my movement to meditation and the action. I recognize the sounds as the origin of my energy.
+
+I am the origin of sound. I am the origin of sound. I am the origin of sound. Let 's be the light.
+
+I take a deep breath and each one at some time come back here and now. I am the origin of sound. I am the origin of sound.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

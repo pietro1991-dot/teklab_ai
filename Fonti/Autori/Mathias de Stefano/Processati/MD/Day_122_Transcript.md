@@ -1,0 +1,326 @@
+---
+title: "Day 122 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 122
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 122
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - root chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+  - I CAN affirmation
+
+practice_elements:
+  chakra: "Third Eye"
+
+---
+
+# Day 122 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Third Eye`
+
+## Introduction
+
+Hi everyone. How are you? Good morning , good afternoon , good evening , whatever you are. Welcome to this day related to the third eye and the topic for today which is to dimension.
+
+I know that maybe you can tell because of my eyes that I was crying but no , I was crying. I was sleeping. I 'm really tired today , I do n't know why.
+
+So really , really tired and I just fell asleep right now.
+
+So I just came back from sleeping two minutes ago and I still like trying to figure out where.
+
+So of course we are talking about dimension with the chara of the eyes because to dimension is to evaluate the measurements of the things that we contemplate that we see. This perception of this , when we have to understand from dimension is that dimension is basically to make a measurement on things , okay? Measurements.
+
+So it 's to contemplate something and to understand how to measure its dimensions , its sizes or deep depth and so on.
+
+Today we have like two different aspects of what is the dimension.
+
+So I will do dimension to know how a thing or a situation is in size like it 's big or shorter or if it 's.
+
+So we ca n't complete or whatever.
+
+So we dimension things like by size and then we have the other concept which is in the spiritual world when we call dimensions. Talking about the different levels through where you can move in the universe. But that kind of dimension does n't exist. This thing that we call to move through dimensions , this does n't really exist.
+
+The only concept of dimension is to know how things are in size or in which manner they are.
+
+The reason why we have this idea of dimensions that we think that this is in the spiritual and the cosmic world of understanding we say we are going into another dimension we go through the dimensions we. There are many dimensions. It 's because we inherit the concept of how the universe is divided from thousands of years of practice of humanities in which the humanity projected in the universe. We are seeing the universe.
+
+We as humans have projected into the universe a vision of how we live inside the universe.
+
+So in order to understand how this begins we have to go to the very beginning of when humans started to project its vision in the universe. And this would be from the very origin when humans to see nature as the way of life.
+
+So nature was the way in which we are able to live.
+
+So this is why we started to interpret it that humans lives through the animals because it eat the animals. We eat plants. The plants flower creates the fruits that we eat. Then the seasons of the planet , the cycle of the water , all of that helps us to understand that all the reality , all the nature is divine.
+
+We start to believe that divinity is in nature.
+
+So that 's why we start to perceive the reality animals as a divine.
+
+So this created the idea that the potentialities of the divine lives in the spirits of plants and animals. And that created the polemic vision , the totem. The totem would be like this symbols of nature , plants or animals that would represent the potentialities of the divine. That 's what made the first religions that were called an mystic that follows the animals and follows the plants as a way of understanding.
+
+The divine.
+
+So the whole universe was created by spirits of animals. This is why , for example , we started to call the earth like the great toys. The sea is the holy whale in the skies were made , but this eagle with its two eyes , the sun and the moon. Well , many other animals and spirits like also three of life , age in the whole reality with its branches and so on.
+
+So they are all visions and deportations from the animal and the plant world.
+
+So then after this , when the animistic and the polemic civilizations , the people , they used to live in tribes. The tribes are small , small groups of people traveling around and living directly from the nature. But when we needed to organize even more , when we needed to grow as a couple of the culture , the tribes started to work together.
+
+So they united to create a society. And when that happens , you can not follow any more your chairman , your guide , you need someone to rule and control the other ones.
+
+So they created the idea of the king. The king would be the one now representing the power of the whole tribes. And then you will have different shaman and different organizations that creates the shape of a hierarchy.
+
+## Practice Structure
+
+So hierarchy would be the structure of society that needed more control.
+
+So in this way is how we also projected in the universe the idea of hierarchy.
+
+Okay , with someone , only God , it 's a little God. And then this God has different other gods in this pantheon. And then we have different angels , the guardians. And then we have all the population of the people that lives in the world.
+
+So through time , there are many kingdoms.
+
+So this creates the idea that we have to connect them all to put them all united.
+
+So this creates the idea of an empire with only one king for all the other kingdoms.
+
+So when we have these kinds of empires or bigger kingdoms , the organization starts to be only one king for everyone. Then we have the feudalism with many different small kings or princes. And then we have the who 's saying English clear , the priest.
+
+Okay , so we have all the priest and then we have the army. And below the army , we have this whole population that works for the system.
+
+So that 's the pyramid that through history we have created. We have lived in this system of this pyramidal system for at least 10 to 12,000 years.
+
+So this means that if we have lived like that for 10,000 years , this means that we have shaped the whole reality of the universe , so how we see the world in this same idea in the way that we lived in society. And this way is how we started to create our religions and philosophies according to our social structure.
+
+Something important to understand here is that from our point of view today , we can say that this organization of hierarchy with kings and with clarity. The priest and shaman and all that , that hierarchy is something wrong , something bad , but that 's from our point of view today. That from now , but in the last 10,000 years , that was the only system that we thought it was the best one because for just that words like in state. To have a king , to have an army , to have people taking care of your spirit like the priest.
+
+So we should not judge the history from the eyes from today , when we had that time was the best way to work with.
+
+So we were feeling secure.
+
+So in that vision of security of feeling safe without system , we projected that system into the universe because we wanted to feel safe in the whole universe.
+
+So this is why in that time , what we have done was to organize the universe exactly as our kingdoms.
+
+So we have one god on the top , then we have these seraphins and the keeping and then we have the archangels like the like the priest and then we have the army , which is the angels. And then we have the common people of the kingdom , which is humans , of course.
+
+So the idea that we have of the universe like this is like , I can not be an archangel. The archangels will be always archangels. The god will be always god. The feudalism will be always feudalism.
+
+The only thing that I can change is maybe to become an angel.
+
+Okay , so I can go to become an angel or an angel can fall and become a human. But that 's it. That 's the only thing. And why is this because of the social structure in cast?
+
+This means that God , the king will always inherit the kingdom to their own. The feudalism too , the main families. No change at all. The archangels will be all archangels because they will pick exactly who will become the next priest.
+
+That 's it.
+
+So the only one can change is the population with the army. The army can become normal people or normal people can become also army. But that 's the only thing.
+
+So that 's the structure that we inherit. This social structures , social states , the structure of this society will be organized in these structures of the society. And they 're like different levels in which you can go up high or going down. That 's the organization that we got.
+
+This structure of society also organized like this because we have the way in which we organized the , the , the , this structure is because the king was the one living on the top.
+
+Okay , so we have this heal with the castle and the castle you have the king living there and then you have the , the different parts of the society , the actions of the society. From the richer ones to the poor ones , okay , going down.
+
+So that 's why we put the image of God as the king of the skies , the king of heavens.
+
+So he 's there in the king of heavens and then we have all these clouds. Like where the series , the , the , the archangels , the angels and so on and then on the ground.
+
+So this structure like in the. Like the one Michelangelo painted in the. In the Vatican , okay , with all these structures of clouds.
+
+So then comes the 15th and 16th century with the Renaissance and. And this rebirth of science of study of interpretation of the of the heavens and suddenly we discover that. The earth is not down and the heaven is up , but the earth is a sphere floating around the sun.
+
+So where 's God? There 's no more heaven where God is.
+
+So that creates a change of friction. From this point of view , we start to measure the distance between the obs between the sun , the moon , the planets.
+
+So suddenly the idea of. The separation with with the strides , the strides of society with different levels of society. Suddenly there 's no up and below there 's no division. Suddenly we only can measure the distances between the things.
+
+So that 's why we change to the concept of dimension. Because we have to measure the differences between the things in the universe. I think that you now can follow how we change from straight of society. Nations.
+
+From there and the investigations , they start to discover that there. Microcosmic dimensions like galaxies and microcosmic dimensions like the atoms. This creates the idea that the universe is not any organized in structures of society.
+
+Now it 's all organized in dimensions of things. Big or small. When we start to speak about dimensions , they start to divide the section that they mentioned.
+
+So they could measure the different size of things. Like for some , first dimension would be a spot , a dot in the middle of nothing. Because this is just one point. That 's it.
+
+That 's the only thing. Then we have the second dimension which is a line.
+
+So we have a projection of it.
+
+So you can see. And then you can see that the distance you can see the measure. You can measure the second dimension. And then you have the third dimension which is the depth of this measurement.
+
+You have a third perspective.
+
+So we start to create. We start to create the different dimensions according to the measurement of something.
+
+So what we have now is that dimensions start to be the way in which you can measure the reality.
+
+So for example , when you have an object something. And now , now , measure the difference dimensions. The size , the distances of this object.
+
+So the third dimension. Wo n't be something different from the second and the first one. The third dimension would be the joint of the first one. The second plus another point of view more.
+
+Which is the depth.
+
+So that 's the dimension.
+
+So the third dimension is not a different place from the second dimension. Is the joint of the other. The other. The other two plus another vision.
+
+So this would be two dimension things.
+
+So this is how we started to understand the universe.
+
+So this is the last dimension that we could measure.
+
+Okay.
+
+So that 's the third dimension. The third dimension is the last thing that you can perceive that you can measure. But then we started to picture a new dimension which is the fourth dimension. It 's a fourth aspect of this object in the third dimension.
+
+Which will be the movement of this object. When it 's changing its position.
+
+So the fourth dimension is being interpreted like time. Which is the thing that makes things change. That would be.
+
+So they started to understand to appreciate that. There are more dimensions that for sure there is a fifth dimension. Six dimension. But we can not.
+
+Feel it. We can not live it because we are in the third dimension. Living that. Perception of the until the fourth dimension which is time.
+
+This vision is only from the last. And we started to perceive that there are many more dimensions than all the three.
+
+So a lot of people are waiting in this time. They started to. To perceive all these new dimensions. To perceive.
+
+To know that there exist. But what we started to do. Is to. Bring all the concepts of.
+
+The organization of the universe from the last 10,000 years. Into dimensions. And it 's in this way how. People from the spiritual world.
+
+Start to. Bring the ideas of.
+
+Social. The religious. Organizations. Into the spiritual.
+
+Of the. Interdimensional realities. And this is normal because we have been 10,000 years with one vision. And now in just a 100 years.
+
+We changed this vision. And also in this just 100 years , concept of year-to-year of this pyramidal , okay , structure , starts also to change into the networks , the internet , the connection with all the people , now we work in networks.
+
+So , socially speaking , we have been experiencing as humanity , how to work in between dimensions and the network of consciousness only for 30 years. My life , only my life compared to 12,000 years of history , only 30 years of it , is the tiny little moment of time when we have the experience of connection and interdimension.
+
+So , that 's why it 's so normal for us , so normal for us that we think that dimensions is a political organization with structures.
+
+So , what is a dimension? Dimension is only. The different points of view and visions and perceptions and measurements from one only thing being or object.
+
+So , this just to the idea that we have today , the universe is one , the universe is only one being , and we are all part of it.
+
+So , what is this? Is one only thing observed from different point of view , from different dimensions? Would we have achieved by ending the whole thing that everything is one with different perspectives , is that we now , we can understand that the universe is just one being , that then that itself , in time , creating time and space. And then time and space starts to divide and divide and divide and divide.
+
+Once and again , once and again , so many times that it creates different perspectives , so different dimensions of itself.
+
+So , this is like watching this , we have a hand , this is a hand. We all agree with that , but we have this side of the hand , this other side of the hand , we have fingers , we have nails. We have joints , we have so many different things of the hand , but we all agree that this is a hand , so a hand has many dimensions , different dimensions. But we can , but we call just hand.
+
+We have also here in the hand , this is the universe , so each finger , it 's surfing , Caribbean , archangel , angel , and human , and it 's just one hand. It , they only appear or disappear , they expand or contract.
+
+Now let 's see this , that if you put this hand like this , you will see only one finger. But this only finger does mean that the other ones does exist , they are there behind it.
+
+So this is only my point of view , my point of view says , there is only one finger , I can not see the other ones , but this is only my perspective of the reality , because the other ones were always there.
+
+So when I do this , I am just lecturing that this is me , the only thing that I see in the third dimension. And then I have my masters , my guides , then I have the angels , they are angel , and I think that all of them , they are in different levels , because they are shifted. From me , but the reality is that we are all part of the hand , that we are all , that we are all , what?
+
+Okay , and when I just do this , I can only see my own reality. But when I do this , I will recognize that they are not behind or different , that they are just the same.
+
+So when we are talking about different beings in different dimensions , in the sixth dimension , the fourth dimension , they are just different fingers , different fingers in this hand. We different parts in the same body , expressed from the same reality in different directions. And that 's why we are all I am. We all have different paths to get into the I am , but even though we all are I am.
+
+So that 's why for example , when people download information from dimensions , or when people channel like I did what is happening is that I would call that synopsis. Synopsis would be to connect the Dean from different cells , cells share an information inside the same body.
+
+So this is important to understand that nobody goes from one dimension to another , that the only thing that we really do is to change the perception of that dimension , because we all live in all the dimensions at the same time. We are all dimensions.
+
+So the only thing that we do is to perceive , to see , at different dimensions.
+
+So this is why we have to change the perception that we have from dimensions , because when we say to go into another dimension , is the same as saying to go into another social class.
+
+So our goal becoming aware , conscious about all this , is that we should not go into another dimension. We should realize that we are multidimensional. We are multidimensional. We just have to remember that and perceive that.
+
+So the way in which you , how to do this , how to become multidimensional , is to open your perception , not to stay in always in the same point of view , and think in the same thing all the time. You have to open your horizons , and that means to change your position , to change my opinion , to have some dream , to travel , to talk with other people , to learn something new. This is why in the month of such areas , the goal is to move forward , to change your point of view , to be able , what 's be willing to learn something different , and something new. To why your vision.
+
+There 's no to know how to channel or to listen other dimensions , to become multidimensional. All you need to do is to be open with your mind , to be able to learn different things. That 's it.
+
+## Daily Practice Elements
+
+Sometimes you can also travel reading a book or watching a movie. It 's not only about to buy a ticket to take a trip. The vibration for today is Maya. The statement for today is I am the dimension of contemplation.
+
+The goal for today is the queue precisely the geometry that creates the dimensions of the universe.
+
+So it says the markabakh of both data hydrate in the connection of its 36 forms a cube , x-aheadron. Being this , this , the figure related will air with the four pillars that sustain the realities. The cube that the cube , the cube , , told that gives life. Having 12 edges , eight vertices and six faces , speaks of the 12 path , of the 12 path , through the eight temporal and special dimensions.
+
+North , south , east , and west , spring , summer , autumn , winter. Contemplating the six petals of the flower of life , attributes of the beam.
+
+So let 's go to the alignment. Relax your body , sit comfortable , begin to move your shoulders to relax a little bit. And focus in your breathing. Take a deep breath.
+
+You can see the body. And I feel the weight of all the mud and the earth that is over me over the seed that I am. I picture the seed within me. I feel how the mud starts to give the nutrients flourishing the seed.
+
+## Energy Work
+
+A steep creates its roots and extend the first leaves. I find myself under the great tree of life. And from there , I begin to expand and grow. I start to feel to listen the animals far away.
+
+And the sky starts to grow. I accompany this growth with my hands from my heart , featuring how I flower , opening the petals. I like grow up. I rise in between the root , the branches and leaves of this great tree searching for the light.
+
+And there , I feel the light is kind. I am opening myself over the forest , seeing all the trees. I had I see the savanna , the horizon and all the animals in it. Birds flying over the trees.
+
+And I go higher and higher , changing my vision and perception. I see all the savanna , the horizon and the entire forest. I expand even more. Until I see the ocean , the coast and the entire sky.
+
+I go through the clouds surrounded in these colors light blue and the rays of the sun. I keep following the light. I say I am so high that I can perceive African under me. I go so high and up that I start to feel myself in the space.
+
+And the light is not even , it 's not anymore , around me , but below me. I find the earth and I see Europe , the Middle East , Asia , I see the earth. I start to spin around the world , watching the Americans , the Pacific Ocean , oceania , and the Antarctic. I recognize a size-theraed world that each one of these kinds of these oceans are dimensions of the world I am.
+
+I fly around the planet , a impressive impressive sea. That all the dimensions of it are only the perceptions of my point of view and they all leave in the way I continue to play. I perceive the dimensions of space. Did they mention of light on the shadows?
+
+I perceive the dimensions of the divine sign. Did the dimension of the eternity on the dimension of the earth of the earth? I hear the territory. All the dimensions live in me.
+
+All of them are one. I recognize through my sound , these dimensions , I continue to play. I am the dimension of contemplation. I am the dimension of contemplation.
+
+I am the dimension of contemplation. For sea , I perceive , I see. I take between my hands , the whole planet , bring it into a sphere of light to my third eye. In this way , the earth delivers to me.
+
+The three hundredth degree , the eternal horizon of contemplation. I see.
+
+Now I can see. I see. And I take my hands to my heart , allowing me to feel all the light , all the contemplation. All the dimensions are looking to me.
+
+And I see everyone with my dimensions. I see. Take a deep breath , and slowly I begin to cares the body. Come in back here and now.
+
+Thank you for being there until the part of my other dimensions. Rest and speak with the other dimensions.
+
+So maybe one day , you will be able to see them too. See you tomorrow , this time. Bye , see you.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

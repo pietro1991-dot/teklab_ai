@@ -1,0 +1,278 @@
+---
+title: "Day 152 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 152
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 152
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hology
+  - month holds
+  - month hole
+
+practice_elements:
+  chakra: "Throat"
+
+---
+
+# Day 152 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Throat`
+
+## Introduction
+
+Hi everyone. Good morning. Good afternoon. Good evening.
+
+So just to tell you that today someone gave me this. It 's a gift.
+
+## Q&A
+
+So I started to make my task , but writing and writing I arrived until the last day of Capricorn that 's very Capricorn.
+
+So I have kind of the clue of everything during the whole month.
+
+So I was working on a side of the sticks.
+
+Today writing in the temple of the sticks.
+
+Today I 'm going to speak to you my corresponded mirrors. Maybe for the people that follows me from a long time. This is normal , but for everyone , I must say that I usually had no idea what I 'm saying. I mean , what I explain , I have no idea that I 'm going to explain something and what I 'm going to explain exactly.
+
+Because basically I 'm learning also from what I say , from what my higher self say , it 's speaking.
+
+So talking about reflection and the correspondence , I would n't be able to understand many of the things that I know if it would n't be because of you there.
+
+So me expressing it.
+
+So this is the correspondence. Maybe it seems that I am here teaching , but what I 'm really doing is learning. As I speak.
+
+So this is why there are some times that I get lost like what I was saying because sometimes I do n't even pay attention to myself.
+
+So yeah.
+
+So I can not blame anyone if you are not paying attention because sometimes I do n't even pay attention to what I say.
+
+So let 's begin with the topic for today which is correspondence. The love correspondence. We could say that love correspondence is the second law , but in reality we would say that is the first one because the main law which is the only one that exists in the whole universe , mentality is not kind of the first one is the one that holds all the rest. Inside the mentality exists the other ones.
+
+Like we can call this six other laws from which the first one is the correspondence. And so I do n't know if you have written the Italian from Series , German , Lists , you say that.
+
+So the Italian where explains the seven laws of the universe , I do n't know the order in which he explained that , but the way in which we are going to do it is according to the Czechoslovakia.
+
+So the order we are going to the order of the laws will be related to the Czechoslovakia. Also just to understand the reason why we put this order of first law , second law , one through three , four , five and this the laws is because we as humans organized information from the beginning to the end.
+
+So we kind of organized like that. But it 's not exactly like this , the way in which the universe creates , there is no one first or the beginning. There is no second , third on appearing. Basically there is only one law which is the the mentality and inside of it we have different aspects that we call the principles of the universe.
+
+So those are the aromatic principles of the universe. But they kind of appear all at the same time because they are echoes of only one which is the mentality.
+
+So the way the reason why we organize them is because we are humans. That 's the only reason.
+
+So we can understand it better. Yes , today I did n't talk about this , but just to understand who was the one that spoke and explained about this information. He was Heroes. Heroes is the god of communication , the messenger in the Greek mythology.
+
+Heroes is the one that was the , the was communicating between heaven and earth between the gods and the earth and also the earth.
+
+So he was the one understanding all the concepts of the divine in other levels and how to download it here into the matter. That would be Heroes. In Roman mythology we call him Mercury and in Egyptian mythology we call it thought. But the Egyptian willing would n't say thought that was I mean misspelling of Greek people.
+
+The name was Jajuti.
+
+So Jajuti was the one that that understood the loss of the universe because he said that everything was created in principles of numbers.
+
+So he was a mathematician that understood that numbers were projected into geometry.
+
+So he became an architect to understand it and also everything that exists biology is geometry.
+
+So that 's why he also was the god of medicine. It was the first physician.
+
+So he understood how to heal through the music , through the numbers , through the geometry , through the building and he wrote the principles of how everything was created and he called it. He called that the loss of the universe.
+
+So that 's what we are talking about. He was the one that did the design to build the pyramids for example. The concepts of the principles that he was teaching is the Hermesism and that 's why they created these schools that was only for a few people.
+
+So they were like closing this teachings for a few and that 's why they call it the aromatic school because it was close. It was heretic because of permits.
+
+So we would say that the second principle of the hermeticism is the correspondence.
+
+So sometimes one of the questions be why this is for just a few. And it was close to the people. Well , at London times we just opened to everybody but then we started to have these problems with the population that they started to blame the the priest and the priestess too because they were because they were connected with the gods but there were problems in the earth.
+
+So to blame the priest and priestess of if they are speaking with the gods why do we have these problems.
+
+So they started to persecuted the priestess.
+
+So they started to immigrated and to migrate and to close the schools.
+
+So they were so they were they were killed. They were persecuted and trapped and killed in many cultures.
+
+So that 's why they would hide themselves and they would just make some public tests.
+
+So they would see who was really with the attitudes to to go into those schools.
+
+So they could go to this schools.
+
+So that 's why after thousands of years they were persecuted killed by many like for example the christians killed so many that thought differently in the heretic way of thinking Islam to many of the many religions where where persecuted them.
+
+So that 's why they close to that 's why they closed everything. And we we now are why they are so close but of course they have been thousands of years trying to escape from being killed basically. These people used to it does n't matter the social level of the people that were that were studying. If they were poor they were rich it does n't matter but there was a moment that in order to survive they needed to be side by side with the rich people like the kings like the the the republics residents and so on.
+
+So they needed to have people with a lot of money so they could survive economically.
+
+So that 's why they started to make this selective groups.
+
+So one of the things that they also did the reason why they were so close to anybody is because they were very focused and we want to do this and teach this.
+
+So we are not going to waste energy with people that does n't really care.
+
+So if you want to really do this you will have to work for it. For example the meeting people the ones that are teaching all this they sometimes they say I do n't want to waste my energy in people that they do n't want to to listen or they say this should be free for everyone and so on because usually when you really want to do something you have to work hard for it and there 's a few people that do n't want to waste their own energy on try to reach people. They just want to bring the energy into what they to teach to those people.
+
+So and that 's perfect because they are taking care of their own energy. That 's why they are taking it 's like they are medic people. They are taking care of it. They do n't want to waste energy in other people that they do n't want that they are not deeply connected with the teaching.
+
+So that 's why they close it. They take the energy like this is a school so you have to get inside the school with a prescription you have to pay and that 's just to take care of the energy.
+
+So it 's perfect. It 's perfect for the people that go straight to the point. And sometimes there are some some people coming that do bad comments or whatever because it 's free everyone can see and some other people maybe just not respecting me or not respecting the people that are here listening and watching.
+
+So imagine that I would rather no I would close this because I do n't want to waste my energy in people that are just doing silly things around. I would do it on the campus and that 's it and you have to pay for it. That would be an option to close the energy and to take care of my energy. But I do n't care of my energy in this because I have other things to do.
+
+So I do it in another way. I mean and this is my mission.
+
+So I do n't care.
+
+So I do n't care. I 'm just doing this and so that 's why I 'm not a medic in that way maybe.
+
+So I 'm to put the energy of the capability of the monothecary cord and try to be a little bit aromatic in this saying let 's focus during this moment. And now I 'm going to do something very capricornian which is to whip myself with myself.
+
+Now for example if I say I have a conflict with people that is taking me from my axis and I that people that is bothering me in my life or whatever what I have to say is if they are bothering me is because I have something inside that is not in my axis.
+
+So the outside is just showing me where I have inside. It 's just the projection of what I call correspondence. This means that whatever is happening outside and I am looking into that and it 's happening it 's been observed by my brain , by my eyes feeling what is happening outside is interpreted by my brain.
+
+So it 's not really happening that but my body my brain is focused and used to see it all in that thing because I am the same thing to me.
+
+So what I am receiving from the outside is according to what my brain knows in the inside.
+
+Something that I 'm dead in another moment. Everything that we perceive the outside is related to the perception of how our brain received the information. For example touch , smell , taste , slide , ears , hearing. It 's all are the senses that by electrical pulses brings the information through the nervous system to the brain and the brain the code that information to transform it into a perception.
+
+So everything that happens outside is not real. Everything that happens outside is just the perception that you have within in your brain. For example , this we see this pencil , this pen and we see it like blue.
+
+The reason why we see blue is because we we have been evolving in the same biological structure all together through thousands of years.
+
+So we got used to see these kind of colors but what happened if you are see different colors. If you see this green , is it a line? Because who tells that this is who tells that this is real? If something is seen by many people , it does n't that it 's real.
+
+Like for example religion or the sky , the sky we say it 's blue but it 's not blue.
+
+So this means that through evolution through thousands of years we have been used and evolving in order to perceive the reality in a way but it does n't mean that it 's really like that. It means that we just evolve to see it or understand it in that way.
+
+So our brain structured itself in parts of perception.
+
+So now because of this pattern perception , now everything that we see in the world , we perceive it through through the filters of these patterns. This is why everything that you see in the outside is not how the real world looks like. It 's basically a projection of how you really are yourself. It 's like a mirror of everything that you interpret with them.
+
+As an example , this here , this pen , this pen is real. This is something that is important to understand because usually we do this mistake that we say we think about the correspondence like from the ego point of view. And the ego point of view is okay , this pen does n't exist because only exists because of my inner perception. No , it 's not that.
+
+The pen exists because it 's atoms that exist all around in the universe.
+
+So they are organized but the perception that I have of the pencil of the pen is something that I have within. Like the pencil is blue and it 's used to write because I am used to write with the pen. But for some doctor maybe does n't see this only as a pen. It 's used as a tool to save someone in a trachyautomy or a second.
+
+Like throat. To save life.
+
+So so it 's according to the perception that you got in life how you see the things. For example , with a relation with someone , with a person. When you have the relation with a person maybe that person that is real that exists makes something to you that makes you feel bad but that person had no idea that he makes you feel bad. It 's just hit it something and suddenly you feel like very sad or mad with that person.
+
+But the reason why you feel that is side of you. The emotion is within you.
+
+So we are receiving that person with our own point of what makes us feel. Not of what it is. The person is something but we perceive that person according to what we think inside. And this is related to the main love.
+
+The love correspond is born because of the thinking , the mentality.
+
+So everything that exists is because of the mind. And means that everything is a projection of the mind.
+
+So that 's why when you look into something you are basically receiving the things that you have within. Not the things that are really there.
+
+So that 's why the people that is pessimistic , they see the world in a , they see the bad things of the world. The people that is positive , they see the good things of the world.
+
+So this base of the mentality through the correspondence , through the correspondence , or spread in the whole reality , in the whole world , by fragtalization.
+
+So that 's why you might have heard about the idea of everything that is about so below everything that is inside , so everything that is in the right , it 's in the left , I do n't know , in the microcosmos , it 's in the microcosmos , etc.
+
+So this conception , this idea of everything is corresponding to the other thing , is because the universe was created. I want the thing that divided into , so this one , in polarity , was , is corresponding to this one.
+
+So they have to make those all the time , and they start to divide and to replicate the shapes.
+
+So everything , basically , in this mathematics of the universe , is a mirror to each other.
+
+So corresponds to each other.
+
+So that 's the base of everything , the correspondence , but it 's because of demand , projecting itself. The word corresponds correspondent means that everything is corresponding , and that 's the origin of the word is co-respond.
+
+So there is ponds of something , the answer.
+
+So this means that everything the universe is answering , pending to something in common , co-respond.
+
+So something in common that we all have. That 's why that 's why everything that you do , you receive it exactly as a response as an answer through the reflection of the universe. That 's correspondence. It 's an answer that is share.
+
+So to have it more clear , is the I am , who manifest the fragtalization of all these responses?
+
+So correspondence with , which is this shared answers in the universe are created by the I am , and the ego , self , is the one that interpreted those answers.
+
+So it 's not that me , the ego , creates this reality. Is the I am who is all these realities? The answers , and is the ego that has to interpret it those answers. This is one , we have the goal to understand better the answer.
+
+This one , the go has the task to improve itself in the ways in which it interpreted the answers that we all share.
+
+So I wrote a lot about this in the blog.
+
+## Daily Practice Elements
+
+So if you ca n't , you read it. That 's goal to information for today. The vibration for today is yeah. The statement for today is I understand to consciousness.
+
+The code for today is the Christie plain. The word Christ comes from the Greek Christmas. That means the sin one or the chosen one. This plain is the level of consciousness is to the service.
+
+The same way as in the buddha , the same way as in the buddha that action is not taken for it , for it simply is. In the Christie action is sorry , I will read it again. The same way as in the buddha , that action is not taken for it is simply to be. In the Christie action is taken and it implies being at the service of the world , of the world 's transformation and it 's healing.
+
+For that , this plain is of those who leave an example for the living and guide them with the example through the heart and at the service for others and the universal order. I relax the body sitting comfortable , as I focus on my breathing. I take a moment to imagine that I am surrounded by a library in this huge library organized in the way that I need with all its books organized in these young halls. I become aware that this library represents all the existence of my inner self and each book is a pattern that was registered recorded through the thousands of years of experiencing.
+
+I am a child of the world , and I am a child of the world. As I walk through the halls of books , I become aware that this all this library is built in my own subconscious. There is no difficult time awaiting the truth showing hope that I am visible by seeing them , And welcome us , that each one of us is the only librarian from this library. This only us who can find the right information within ourselves.
+
+## Q&A
+
+So I made myself the question , what are my biggest projections , my biggest correspondence that I need to work with to heal? Take a deep breath and go through the books to find the one that within you have the answer. I take this book with my hands , this information , and without judging it , I go to the main home where I find this big stare going in a lighted office. I bring this book with me and I go towards the stairs.
+
+They represent my unconscious on the top of the office , is the conscious. I go through these stairs to bring this book to the light of the consciousness.
+
+So I can make of it from a pattern to a tool that I can use on my own benefit. I go through this , I resign trying to think about what is this pattern of projections that I have to go through this , I resign trying to think about what is this pattern of projections. I reach the office of light. I bring in all this light and clarity to this book and with my both hands , I bring to my their eye.
+
+I am the stare to the consciousness. I am the stare to consciousness. And I make this pattern that limits me in the correspondence into a tool for my service. And now that I made this limitation , this pattern into a tool of consciousness.
+
+I bring it all over my body to make it a part of me. And each one at its own time come back here and now.
+
+So this is how for today the task is to download the right , what you have seen in that book. To write down the projections for respondents in the world and become aware of it. Thank you everybody for being there. See you tomorrow , and the same time.
+
+Bye.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

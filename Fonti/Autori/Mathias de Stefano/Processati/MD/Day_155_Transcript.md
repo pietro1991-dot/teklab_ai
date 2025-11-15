@@ -1,0 +1,301 @@
+---
+title: "Day 155 - Consciousness Work"
+author: Matias de Stefano
+series: "365 Days The Path Of I Am"
+day_number: 155
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 155
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+  - month holidays
+
+practice_elements:
+  vibration: "LLï"
+  statement: "I Am the Stair of All Beings"
+
+---
+
+# Day 155 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Vibration:** `LLï`
+- **Statement:** `I Am the Stair of All Beings`
+
+## Introduction
+
+Hello everyone , morning , Good afternoon , good evening. Everyone , fine. I guess today , I do n't know you , but I , I feel like my head is going to explode.
+
+So , I feel even worse than yesterday.
+
+So , I am now a good example to follow.
+
+So , I 'm going to sleep faster. Right now. This is what you get when you see this , the same person every day.
+
+So , there , there would be for sure one day that is not the best. Let 's begin and I would try to be brief.
+
+So , I always say. The topic for today , cos and effect. The topic for today , cos and consequence. Everyone for sure knows what is cos and consequence.
+
+So , cos is the origin of something when you generally something. And the consequence , which is the effect , the effect is the result of that cos of that action that we take. Therefore , every action has a consequence.
+
+So , cos is the reason of things. Reason comes cos in Latin means reason. And reason in Latin means the action of thinking.
+
+So , every action that we do has an origin in the mind , in the thinking. I said an intention to do something. But I said this intention through the three levels of consciousness. Not all the actions that we take are taken from the conscience , like being aware of what we do.
+
+Most of them are taken from the unconscious and the subconscious , most of them.
+
+So , that 's why we react in actions more than being aware of what we do. See the maru , all those provienen delamente. However , all of them comes from the mind. And the word effect comes from the Latin X factor.
+
+That means something that came from the inside towards the outside. X and factor , something that is done.
+
+So , this word is not saying that it 's not talking about the action. It 's talking about the final product of the action.
+
+So , this would mean that cos is the mind , is the idea. Is the action of the mental action. And then the effect is the result , the reaction of that thinking.
+
+So , we would say that the cos lives in the world of ideas. And the effect is the manifestation in the world of objects , kind of , to have this relation. That is the donor northern.
+
+So , we can say also that cos is the cosmos and the effect is the universe. What is the difference between cosmos and universe? Cosmos is the order of all the things , the perfect idea of the things. And the universe is the realization of the experience of this cosmos being out and coming back to itself to the order.
+
+Well , as I was saying to you good morning , I was doing this little frame to try to explain this. Let 's see if we can understand it.
+
+Remember that we repeat the same things like yesterday and the other days , because all of the things are exactly the same. But we are receiving them from different perceptions , from the different point of view. What is this? Is a pattern of vibration.
+
+So , in English it is different , but this vibration , as we see , is something that follows all the time. That is a continuous.
+
+So , in Latin , the way we how you say to follow is sigue.
+
+So , sequel dia , sequel dia means the action of following.
+
+So , that is why we have sequel in English. Sequence , sub sequel , consecutive. The word sequel dia comes from the action of following.
+
+So , then the other word is called , call in Latin means together.
+
+So , this would be positive , negative , positive , negative , positive , negative , are different things to different things , positive and negative. That get together in something that follows.
+
+Okay?
+
+So , that 's con sequel. Con sequel dia is when different things correlate one another in a sequence following each other. Positive , positive , positive , positive , positive , positive , negative , positive , negative.
+
+Okay?
+
+So , what this means is that anything that I do here will affect what happens here. Everything that I do here will affect what happened here.
+
+Okay?
+
+So , it is a constant.
+
+So , in this constant of the waves , whatever I do in the positive will affect the negative below. Whatever I do in the negative will affect the positive above. Because nothing is really separated here. Everything is connected in a sequence.
+
+So , this sequence is shared by positive and negative.
+
+So , that 's why it is a consequence. And everything that I do will have a consequence in the next step. Everything is the space , but the movement of the frequency is different times.
+
+## Q&A
+
+So , whatever I do in this space , it will affect the same place in a different time. And so on. If this dot here is the mind , where we will have here is that the mind makes a question within the negative. And this question will be projected in the positive as an answer.
+
+This is why the answer will be shared. That 's why we call correspondence , which is the response of the inner question.
+
+So , that 's how the correspondence is accessed.
+
+So , then from this response to the mind , start to exist the vibration.
+
+So , the vibration creates a path that tells us that everything is vibrating in the universe. This vibration will have a rhythm.
+
+So , the rhythm will be the time.
+
+So , the frequency of the vibration.
+
+So , this rhythm will say that every vibration has a low frequency , high frequency , low frequency , high frequency. And so on. This is very , very awesome , really. Looking to the infinite of the correspondence for the vibration and rhythm.
+
+This is a turning.
+
+So , for the vibration and rhythm , this is like a consequence. This is like infinite. But this infinite for the correspondence is just this infinite. We 'll show us this , that the vibration and the rhythm are just telling us about an eternity in this way that the correspondence only see as the symbol of the infinite.
+
+So you see here an infinite , an infinite , an infinite every time. Positive negative , positive negative. For the correspondence on the mind there 's nothing else. There 's only one.
+
+Just this. Just first one. That 's for the correspondence on the mind is just this. The vibration can violate in different symphonies.
+
+So this symphonies makes us see this only infinite in so many different symphonies that we can see the whole consequence , the eternity. And this eternity is repeating the same tata tata tata tata tata tata tata tata tata So that 's the rhythm. As you can see nothing here is different , is the same thing and we call it in different ways. Where comes the cause and the effect?
+
+We have here a question in the first time. The mind says , who can I become? And the answer says , you can become this. And then the vibration says , is for this or this or this or this.
+
+And the rhythm says , but if you choose to be this , you will have to be this. If it chooses to be that , you will have to be that. Rhythm. This is recorded.
+
+So then you can listen again.
+
+So what is the cause? The cause is always an idea. I thought. A perception , a preconception of the things.
+
+Conception. Here I have a concept. A concept.
+
+So if we have here a concept. Because this repeats , essentially again. This concept , because it 's known , now we 'll become what? A preconcept.
+
+If this concept repeats , I will call the next ones the preconcepts. And if this preconcepts repeats so many times , they will become a belief.
+
+So this belief brings me security. We feel safe with this belief. Why? Because the belief tells , that 's not what you do.
+
+It will happen always the same. You will have always the same result.
+
+So because of this result , you will feel secure because you know how to act. And that 's why the belief becomes a pattern.
+
+Remember , And means protection. And all this is a structure of thinking.
+
+Now let 's go into this. Every pattern and every belief is based in an original idea , which is truth. And once we know here that this is the only truth , everything that comes after this will be a distortion. What is a distortion?
+
+This distortion comes from the Latin to divide and then something in two. That 's the distorted distortion.
+
+So to then something in two.
+
+So when you have this unity and you bend it in two.
+
+Okay.
+
+Now we have the mirror.
+
+So it 's not true.
+
+So anything that comes from this original idea and it 's a consequence from that original idea will be always. Always a false pattern of belief.
+
+Okay.
+
+So there is no truth. Believe. Any pattern of belief. Mine , yours , the religious guy , the scientific guy.
+
+Everyone that has the pattern of belief. It 's not true. It comes from the truth. But this is why I usually say , this is my memory or this is my point of view or I read or according to my memory.
+
+Because I can not say this what I 'm saying is the truth because it 's a distortion of the truth.
+
+So this is why there is only one truth and that only truth is in the original mind in the aspect of the I am.
+
+So this is why from this main idea , the I am everything that comes next all the effects. All the effects that comes later will be just distortions of the consequence.
+
+So here we have the original cause I am. The then we have an effect and after this effect we create another cause and cause we 'll have another effect and this effect we create another cause and so on and this other causes will be distorted from the first one.
+
+So in the first one is I am but in the next ones will be different aspects of the I am.
+
+So all the rest of the causes will be distorted and all of them will be related with the self. Because the first cause was I am.
+
+So all the rest of the causes will be distorted aspects of the cause of the I am.
+
+So everyone of us.
+
+Now let 's see this we have here a cause the pure cause which is the I am like a pure ray of light. And this pure ray of light. Because of different vibrations and rhythms projected self in different effects that we call charts. This is what I was explained explaining today in the blog.
+
+Saying this is the sun projecting its light and through a drop of water we can see a rainbow.
+
+So what are the different colors of a rainbow is just the pure light and white light distorted through the different structures of a crystal. We are water. This is water.
+
+So we are water. We are 70 to 80 % water. And what do we have inside the inner spiritual light.
+
+So we have inside this light that projects through the water of our self. Through the NA in our blood and cells. And from there it projects into all the people around. Mom that gray grand.
+
+Brothers sisters. Anyone friends partners. Whoever.
+
+So this means that me myself within. I have the inner light of the I am. But I have lived so many lives that I have distorted this I am through many lives through many experiences having different causes. And because I had so many experiences.
+
+I am also now an effect of my own causes. I am the result of a consequence. And the results , the effects of this cause that I am.
+
+So we are reflected projected into all the people and circumstances that are linked. Bound to emotionally.
+
+So every effect in our lives are the result of a cause that is also distorted.
+
+So to understand this we have to start to ask ourselves what are the effects that we create in our lives. Try to see according to what you do in your life. What are the effects that you are provoking in other that you provoke in other people. That other people provoking you.
+
+So this is why. I have to see the effects that I that I have in my life around. And understand that everything that I perceive from the outside is just the projection from my inner self into all the rest of the things around.
+
+Remember that. That you project everything outside by subconscious unconscious unconscious. The three levels of consciousness. And.
+
+When you. See that you will understand that. The origin of all of them. Are just an idea.
+
+I believe. A preconception.
+
+So the question would be. Should I. Do something to escape this system. I know what I have to do is to know how to use it.
+
+Because to willing to escape the system would be like. Willing to go on holidays and you go to nature on holidays and suddenly you get lost in a forest. And you blame the nature because you got lost. That 's so.
+
+To be. Let 's say. You can not get mad with nature because you got lost in the forest.
+
+So the only thing that we need to know is the map. To the path again. But. There 's not the problem of the nature that you got lost.
+
+This is not about. The. Escape the forest as I said. We have to learn how to use the map or we have to reconnect with our intuition to find the path.
+
+But the forest is beautiful. My head is. About to explode. I hope this distortion that I just share with you.
+
+I was able to be understood.
+
+## Daily Practice Elements
+
+So let 's go to alignment. The vibration for today is. Yeah. The statement is I am the stare to all beings.
+
+The code for today is the elemental plane. On the surface of the world. The energetic and magnetic forces that originate the elements and forms of nature are known are known as elemental beings. As the word indicates.
+
+Is the base or from or foundations. Of the reality even though they do n't live in it. Like the particles that constitute molecules. Their projections are fairies else dragons and so many other entities that shape the nautical world of matter.
+
+Okay.
+
+Okay. Let 's go to the rainbow. I see the comfort level. Focus in your breathing.
+
+Focus in your breathing. Focus in your breathing. Take a deep breath. In the corner where of the environment where you are seated.
+
+And with your imagination. Start to expand. A huge library all around you. Another reliable of something related.
+
+� I recognize that each book of the thousands of them through all the galleries are data , patterns and leaves within my subconscious. This huge library where I find myself is my own Akashi record and I , each one of us , is the only librarian of these records. I have been in the library for a long time. I have been in the library for a long time.
+
+## Q&A
+
+I have been in the library for a long time. To find this book , I question myself about the biggest consequences that I had experienced in my life and I had no idea why. And I look for the book where I can find the cause of those effects. I walk in between the books and the galleries until one of them called my attention and I take it between my hands.
+
+Decided to go to the office of Karshistness , where I can bring clarity to this cause , without judging anything. I go to the stairs of my unconscious to reach the light of their conscious above. Without any judgment and no expectations at all , I opened the book to see the book. To see the cause of these consequences.
+
+I have been in the library for a long time. I have been in the library for a long time. I have been in the library for a long time. I have been in the library for a long time.
+
+I have been in the library for a long time. I have been in the library for a long time. I have been in the library for a long time. I have been in the library for a long time.
+
+I have been in the library for a long time. Take a deep breath. I bring all this consciousness , all this light towards this cause. And the sigh of the sound , I bring , I take this book to my solar taxes.
+
+I have been in the library for a long time. I have been in the library for a long time. I have been in the library for a long time. I turn myself to the stairs.
+
+And I see in everyone of its steps , the people that is projected from me connected to this conference. As I recognize , I am despair to all the beings. I am despair to all the beings. I am delight and this is my rainbow.
+
+I recognize this cause and this consequence as tools for my life. And I set the intention to use them with consciousness. I use my use , I use my light to create the rainbow. And I take my hands to my plexus.
+
+I begin to bring this consciousness through my body. Stretching , crossing and warning. And each one , I have some time to come back here.
+
+Now we have this record open. The task for the day is to write down the most or the biggest consequences. To become aware of them. Thank you everybody for being there as always.
+
+See you tomorrow at the same time. Thank you.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:18*

@@ -1,0 +1,239 @@
+---
+title: "Day 285 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 285
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 285
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - mantras
+  - vibrational practice
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 285 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening.
+
+So as always tonight is a wedding night.
+
+So again I 'm here in another place. I 'm a little bit tired. I must say.
+
+So we are in the plexus day of the emotional week of tourists. And the topic for today is literature.
+
+So some can say that literature is a part of poetry , which is indeed. But I separated here because I guess that literature has something very different from poetry. While poetry is trying to transmit concepts ideas in a very high level , literature is much more bounded to experiences. To try to explain the details of the things , to try to communicate the emotions , the details , the experiences of something , which take us to the idea of living that idea , living that something.
+
+So take action into that.
+
+## Daily Practice Elements
+
+So that 's why it also takes us to try to leave those stories. We can understand the difference between poetry and literature , saying that poetry basically is like this spell , like this mantra that uses the words to manifest something concrete. And the way in which you can do that is because of the metric. The metric of the poetry is one that has this kind of mathematical way to describe the words.
+
+So we would use this metric , this systems in order to manifest the words , the ideas. In the other hand , when we speak about literature , it 's very different because literature is a narrative. And by narrative means that it has a story to tell. It 's not about concepts , it 's about specific detail story.
+
+Then uses the narrative as a way to explain the topics , the information. And it 's written not like a poem , but as a prose.
+
+So this means that the way of writing this is free , that you do n't have a metric to follow , that is constant , that it can be long and used in many different ways.
+
+So there is no specific structure that you have to follow.
+
+So literature is free in order to explain every detail and be able to go and do anything. But let 's go to why it appears in the literature. Where do we look at what we look at and what we see in the trailer.
+
+So let 's go first to where this literature is born and what is the things that gives us for our development.
+
+So the origin of literature would be in a different way of poetry , in which poetry was used as key words to open doors. In order to transmit information from the mind level into the matter , opening doors to the realities , sending messages of something that you are aiming to do. That was like a mantra. But instead of this , the literature was something much more common , because basically it was telling stories.
+
+Telling stories that had no specific goal , but to help people to enjoy. And we can have this stories in fiction or a telling a real story , something that happened. We can explain this story from the past , the present or the future.
+
+So fiction or as a real story. And , especially these stories , where the sign with teaching goals , like in the very beginning , there were made in order to teach the young people how to solve some problems that the older ones had before.
+
+So in the ancient times , when the old ones used to share these stories , they used to sit around the fire , the home. They started to share with the younger ones the stories that they had lived.
+
+So what they usually did was to share their own experiences or the ones that someone told them. And they usually went to the past to start a story , like one 's the point of time. In a long time ago , something happened. And the context with this and this was happening and the people were like that , and we were leaving like this.
+
+So it makes an introduction at the beginning of the story that said to you in the environment , the special environment , so the people that listen to the story can be part of it. And once they are part of it , they introduce the conflict.
+
+So once happened this , through the conflict , the people started to feel , responsible for what is going on.
+
+So by sharing the conflict , they introduce possibilities of conflicts that they will leave in their own lives.
+
+## Q&A
+
+So the people can start to ask , they start to ask what happened with this one or why did this or why did n't wait , they did n't do it in other way.
+
+So they started to question to ask , and the story starts to have many branches that they can go from one side to another. And all of that information can take you to the resolution of the conflict.
+
+So all those branches took you to solve the problem. And the story , when the story was ended , there was this moral of a tale that they used to say that was the process of teaching. It was the moment when everyone understood how to solve a problem and maybe to speak of different ways in which they would solve it in the future. This is a way of education.
+
+This was the way of sharing and transmitting information from one generation to another. The narrative telling stories was the concept , the tool that helps us to keep all of us together , that makes us share this links , this points of a culture that we can share information and we can be all one.
+
+So this is why it 's related with the solar plexus , because the solar plexus is this is me , this is my story and I share it with all of you so you can keep transmitting the message for teaching process. The narrative of these stories where very diverse according to the culture , but they usually , they usually started to have like kind of organ or order inside that is the Trinity of literature. The Trinity of Literature is to have a beginning , a conflict and an outcome.
+
+So these are the three parts of this story. And in in we have different tools like for example flashbacks that helps you understand things that happen before. The beginning flash forwards that helps you understand things that will come. And of course we have some some things that we call the moral of the story , the moral of the story , that will help the people that is listening this story or reading this story to have some idea of how to solve their own problems.
+
+As a time passed by , what we started to do was to develop the narrative in a better way creating the literature.
+
+So literature started to be much more descriptive , but poetry was to describe the work , the job of the priest and priestess in our work within the sort of the divine.
+
+So it was really difficult to get to understand by the people. It was very difficult to transmit the information of what the priest and priestess had in the shape of poetry.
+
+So what the literature did was to download these concepts of poetry into very detailed stories.
+
+So everything could understand. As there are so many interpretations for poetry , it does n't matter if it 's written there who read the poetry , they could understand many different ways and many different things from it. But in the narrative of the literature , it is precisely as written. It is describing precisely all the details of what it is expected to know.
+
+So this is why the narrative , the speaking stories , where the sign in order to let the people know the stories of the gods , the stories of the ancestors , the stories of the heroes.
+
+So they could know their history , they could know what was happening. One of the main goals that had literature besides poetry is that why poetry is describing concepts. Literature is describing a story that is lived by someone , by someone.
+
+So there is a main character that does n't have any face that you only have history.
+
+So you can feel that you are living that story as it 's been told or as it 's been written.
+
+So someone can basically feel that that person itself is living that story. That me myself can be also the character that is living that story. And that made a big difference when literature started to evolve in our cultures , because it helped people to take action , to try to leave the same story that they were that they were reading.
+
+So throughout many centuries , these stories were not able to be known by the common people , because they had no idea how it would be.
+
+So it was impossible for them to access to all this knowledge and all this stories.
+
+So and even though even more , in some cultures it was forbidden for people to know how to read.
+
+So a lot of people even few centuries ago , most of the humanity was an alphabet.
+
+So , , , and alphabeticism was so huge in the population of humanity that we were n't able to , , to get to all this stories.
+
+So in some cultures of Asia and least , and mainly , of course , for us , Greece , , there were some people dedicated to these stories in public. They were sharing these stories and reading them so the people could know.
+
+So there were some , , some places , specific places , , in public , that people could go see and listen this person telling the story.
+
+So this story tells , basically what they also started to do , it was kind of acting the story.
+
+So people could enjoy the reading.
+
+So they were like trying to act the story. In Greece , we have this spot , this places , , in public areas that , , that people used to go , , to , to see places to see these other , , story sellers , the story sellers.
+
+So the place to see , in Greek is called Teatro. Teatro means a place to see.
+
+So people used to go to the Teatro , which is the Teatro , , Teatro to see those storyteller. Eventually , after all these times , we took all that amphitheater because the Romans came and they put two letters together , one from the other , so they can more peep around.
+
+So that 's why from that time , we call amphitheater the half of it. But in the time of Greece , it was always half.
+
+So it was called Teatro.
+
+## Practice Structure
+
+So from Teatro , when it started to evolve , we got the answer. But that 's why we can tell that it 's kind of a different art , but actually the answer is inside literature , because what the , what the answer is doing is basically to act what is written on the literature , , so literature and theater has been very important for us in our path of knowledge , of the sign in our way of thinking today. Because the stories that literature brought to us kind of designed the way in which we interpret everything , our life. Since the very beginning , that the structure of the story has been the sign , we all have lived through this codes , like for example.
+
+If today we watch a movie from any hero like from De or from Marvel , what you will get , either if it is Batman or Spider-Man , you will have exactly the same structure in literature that the Greek people , two thousand years ago , more. Two to three thousand years ago , have this sign for us to understand the , the path of the hero. The path of the hero was basically the main structure for every story storytelling from the Greek time. And it was really important for all of us because everyone , all of us wanted to be like those heroes.
+
+So it worked perfectly because it matches our lives. And this is why we started to accept this stories in our brain and normalize them inside till the time that we started to believe the character. I mean to become your character and living those stories. This literature of the hero was the most common and much more widely expanded in the world , because this story matches exactly our daily stories of our lives.
+
+We are struggling every day in order to achieve our goals to solve problems. We have our antagonists in the stories , the bad guy and the good guy. And we are willing to solve the problem.
+
+So you know , then we have a potential within that we do n't know how to manage.
+
+So when we see these stories , we perfectly find ourselves in those stories , even if they are fantastic. We find ourselves struggling with our daily conflicts. And then we figure out a potential that we have within. And once we discover that we can solve our problems and defeat our enemies.
+
+So that 's why it 's so easy for the people to accept this kind of literature. Because it 's the story that we would love to live is the most closer to our own stories. We have this kind of literature that is the most common , which is the path of the hero , that helps us to find a way of relate to our life , trying to leave the story , that to say , I want to be that I want to become that , because the common people are trying to solve problems in order to go into the next level to feel that they are the heroes of the story. But commonly , the rest of the literature is descriptive.
+
+Is the one that is cross , is the one that tells that tells a story that it does n't have a hero , can tell other , much more deeper concepts that are not strength related to our life , to our common life.
+
+So this is why most of the people does n't reach this kind of literature because is not exactly what they expect to live. The common people look for a specific kind of stories that are easy to get and easy to manifest in their brain. That 's why the wider literature is so difficult for the people to get or to be spread in the society.
+
+So now literature has gave us something really important , which is stereotypes of characters. The main character of a story , in literature , are a package of attributes , of personalities , that design in which we expect to be.
+
+So throughout all the history , all the stereotypes that were created in the stories were picked by people in order to try to leave their lives according to those characters. And this is why a lot of people are living a life that they expect to live , but not the life that they really are.
+
+So this is why the exercise to change this concept of being others and start to be ourselves is to start to write our own story , to start to write who we really are and become the main character of that story. To write our beginning , to write our conflict , to write the resolution , the outcome. This is to write literally and some people used to say , I do n't know how to start to write it. And I would say , there 's no right beginning because there 's no metric.
+
+There 's no mathematics in two liter. You can start writing just saying , today I want to buy the bread and it was 10 cents expensive. And just by that , you can write the beer history. There 's no line to write a story in a literature.
+
+Someone can start by the end of this story by something that happened or just a simple fact , common fact.
+
+So the importance of writing our own story , the narrative of our own , is in order to become a aware of our own potential of our own literature. And this means to be able to describe our future and to write our reality. And this sentence is very important because we are here to rewrite history. We are here to describe a new way to write history.
+
+So we have come here to rewrite the history. And by saying this , we can now understand that we have to write our history for you to happen. And to do that , we have to recognize that the word is creation.
+
+So open our book , our writings with the poem that opens the door. But after you open the door , you have to describe , describe exactly what you are proposing , what you are expecting , what will happen. The details , the narrative of the future. And important to understand this , in literature , you will always have an outcome , the never and ending , it never ends.
+
+So my advice for you today is for you to write your story , for you to be able to write what you have within what you have lived and what you expect to live. And for that , it does n't matter if it takes you 10 pages or 1000 pages. It does n't matter if you write it in just one weekend or in five year. It does n't matter if you now can only put one sentence and maybe other day in one hour you make five pages.
+
+And maybe then in order to end the paragraph , you will need one year. It does n't matter. My advice is for you to have one book in what , where you can say there or put there , this is my literal story. And every time that you have an idea , you write it down.
+
+What I said before , there is no end on literature.
+
+So there is no goal on literature.
+
+So do n't think on doing this for something , it 's just failing us without end goal. Eventually someday maybe for something that book can really change its life. And we would n't even know that.
+
+So it 's just about telling a story.
+
+## Daily Practice Elements
+
+So I invite you to read this cover , your , your potential of literature. And to begin to rewrite the history. The vibration for today is clear. The statement for today is I am the guardian of the being.
+
+The goal for today is human. Within the anomalies kingdom in the letter-by-branch and within the home in the branch , the animal species of the human develops. It mainly comes from the Latin , comes. That means human , human earth or mud.
+
+For according to all traditions , the human was made out of clay and mud. The big difference of the human kingdom , in pair with its evolution tree is a cognitive development. The outer reference , the creation of languages , cultures , laws , religion , government , science and technology. The human kingdom is the sample of highest development of thoughts of the earth.
+
+See the comfort table , close your eyes and concentrate in your breathing. And become aware of the space around me. The body that I inhabit , my own brain. I use my imagination.
+
+## Energy Work
+
+To make every object disappear in this room , observe how everything is finished. And , as I can see all of it disappear , I perceive also the world 's roots and the floor vanishing to until only see void. In this void , I stare at one point. Only one spot where I could all my intention , where I set all thoughts in my energy.
+
+I take a deep breath , I can perceive how this cloud turns spark in the spark expenses to many and all of them create a fire. This fire starts to grow. I take him , perceive its light shining right and its heat on my skin. I recognize that this fire is the essence of my soul.
+
+I can feel my home , the home of my dreams. With my hands I take his fire and start to expand like dancing slowly and softly into all direction It 's spreading the fire and the shining in my home. It 's walls , rooms , roof. I become aware that every room is a chara.
+
+The kitchen is the heart. The gardens are my projects. And every wall is a bone. I take a deep breath and say a walk to the library of the house where all the books are found.
+
+I take one of the books that I sit down in the sofa in front of the fireplace. Let 's start to watch and read in between lines. This book where I can find written down this story of my whole life. Everything that I have done to the competition is built with home and they recognize side-steam my story.
+
+The beam that I am guard in this the I am the guardian of this thing and only mean it 's capable to tell its story. I can picture myself telling my story to all those who are willing to hear it around this I am the guardian of this thing and only mean it 's capable to tell its story. I am the guardian of this thing. I am the guardian of this thing.
+
+I have this story , this narration in me and so I begin once a time. I take a deep breath , taking the beginning of my story one heart and each time. I am the guardian of this thing. Thank you everybody for being here and see you tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

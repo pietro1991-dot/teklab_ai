@@ -1,0 +1,320 @@
+---
+title: "Day 182 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 182
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 182
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - portals
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - constellation work
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 182 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi everyone , good morning , good evening , good afternoon. How are you? I hope that you had not thought too much about what we did when we spoke yesterday. Neither of what I wrote today.
+
+## Daily Practice Elements
+
+So I have to be sincere that me myself thought that starting a queries , we would be speaking about freedom , about statement , I do n't know , networks. I never expected to start this month.
+
+So in such a complicated way , but well , that 's how it 's coming.
+
+So I apologize in the name of my , of my higher self because he would never apologize for these complicated issues.
+
+So of course that in , in a queries you never know what it 's going to happen. It 's all about innovation , it 's all about surprises.
+
+So this is the way we started. That 's it , I do n't know. That 's what we got.
+
+So just to begin , I would like to say this , that the topics we are talking about , physics , quantum physics and all that. I have no idea about it. It 's not my , my things , my issues.
+
+So I am not really good in physics. In normal physics or quantum physics. I do n't know , I 've just explained what I know , what I can , what I can get or understand about this. But I wo n't give exactly the all the answers that I can because I ca n't.
+
+Okay , I do n't have it.
+
+## Q&A
+
+So if , if you are people that knows a lot of this and answers and so on , please share it in the comments or help other people to understand a little bit more about what we are explained here. And I dare you to look for more information in many videos and reading books watching. Well , things , I do n't know , asking to the people that knows a lot.
+
+Okay , so , so just this is , this is the , the important thing that I just explained what I know , what I remember , but I do n't exactly know the topics , okay , because I do n't know much about biology , I do n't know much about astronomy and science and so that.
+
+So look always for more answers and try to reach more much information because for sure , it will be a lack of many information.
+
+So this is just trying to grab concepts , okay.
+
+So here we are not to go into the specifics , so just to connect the dots , the ideas.
+
+So that 's why if you want to know the specifics , look for the people that started and know about this.
+
+So for sure , you will know a lot of people to recommend here , that knows better about these topics , so people can know and keep looking at it.
+
+So it 's so difficult to , in this month to say the topic , because it 's only constellations or stars , so , so it 's , it 's so complicated to know exactly what is the topic that I have to explain.
+
+Today the topic is Cafe , Carlos , and this is one of the five or six constellations that are the ones related to the north , to the north pole.
+
+So the north and stars are along these five or six constellations.
+
+So I will start to speak about many topics already given yesterday.
+
+So if you are new today , watching this , I recommend you to watch the last video , the one that I did yesterday , so you get what I 'm saying.
+
+So just to for you to know who is See 's , why this constellation is called like this , is because of the mythology of Greek and Egyptian mythology about a king that was See 's of the cilia. And the cilia was bigger in that time was not the country that you have today , you was a whole country that arrived until part of Egypt and also part of Arabia , Jordan , Palestine , Iraq in the Euphrates Lake , like I like a river.
+
+So all this territory was under the kingdom of See 's. And basically he had a wife that was really , I do n't know the word English , that those people that say , I am the best , I am the best , not selfish , I do n't know , like I am beautiful. I am even much more beautiful than the Were that are the daughters of the gods.
+
+So , then , okay , thank you. Thank you. Vanity , that 's the word. She has a lot of Vanity.
+
+So , because of her Vanity , she was sent to kill. Less said , that 's not good.
+
+So , kill her.
+
+So , because of this , he creates a monster called Less and Less was meant to kill her. But the priestess of Amon Ra in Egypt tell the queen , hey , you can survive if you give your daughter to the monster. And he 's an her daughter was Andromeda. And so , he sent to kill the she , the mother , tied Andromeda in the sea.
+
+So , the monster could kill her. But here comes Perseus , Perseus , Peaches with the Medusa Head and makes the monster into stones. And well , they punished the king and queen and so on.
+
+So , basically for the Egyptian and the Greek people , this story was very important. For me , I do n't know why , really. But it seems to be very important for them.
+
+So , that 's why they name a lot of constellations with this story.
+
+So , you will find Perseus constellation and Doomed. And that 's why , because this is the horse he used , Classis , Pierre and Less.
+
+So , that 's why when you start to study the heavens , you will see these constellations around.
+
+So , all these people is in the heavens because of this story.
+
+So , important detail about this story is that we should not believe that the stories of the mythology that they are telling the story of the stars are related to the planets or what happened in the stars of that constellation. I mean , when we are from from our point of view of humans , when we see the sky , we name the stars according to this story that we have lived and what they seem to be and so on. But it 's not related to what happened in the stars and the constellations and that and the planets.
+
+Okay , it 's not related.
+
+So , for example , an example of this not relation between stars and constellation from our point of view is that for example , play it is everyone knows play it is everyone feels like play it is is like this.
+
+So , beautiful and high vibration beings that are in other levels of consciousness like the fifth dimension , seventh dimension. I do n't know. There is spiritual high level beings , but these stars are in torus constellation.
+
+Okay , most of the people maybe do n't know that play it is in torus constellation.
+
+So , torus is earth is ground is about wealth and stuff.
+
+So , it 's not related. What the play it is means with what torus for us means.
+
+Okay , so torus , so play it is in torus constellation from our point of view , but in reality , play it is is not related with the stars of torus.
+
+So , just an example.
+
+So , let 's see what the feels means for us. I will try to show it because it is a really big constellation.
+
+Okay , so this is the circle , the turn that the axis of the planet follows when it makes the turn of 26,000 years.
+
+Okay , so now this is paris.
+
+So , we are here right now pointing to this star here.
+
+So , I will try to divide the territories of these stars.
+
+So , we divide here the territories of the constellations that will affect. And here we have the constellation of Usa Amino , Seems , Signs , Lira , Hercules , and Drake. And this is the whole territory of Seems constellation.
+
+So , approximately for 8,000 years , the north pole will be pointing to the stars of the Seems constellation. What this means that throughout all this process of 8,000 years , the axis of the planet will be Seems. And this means that any information that comes to our world will be through Seems.
+
+So , during the process of this 8,000 years of Seems being the north and the stars of Seems being the north and stars is when the ancient civilizations of the great , ancient first human civilizations , stars civilizations on earth. Like Lemur , like Atlantis , they started to be created , not as a proper civilization , but they started to be the sign.
+
+So , during the process of 8,000 years of Seems is when the cosmic or the star civilizations were brought here on this planet.
+
+So , now the question would be , how and why.
+
+So , I hope now you get why the topic for today is Seems. And from Seems , now let 's go to what was happening in the whole galaxy.
+
+Remember that if this is the galaxy , we are here.
+
+So , remember that if this is the solar system , here we have Seems , we have Pleaded , we have here the stars of Orion , Arturo , so all of them are inside this circle.
+
+So , mainly all the beings , all the alien beings with whom we are going to have contact with are inside this circle of the galaxy.
+
+So , when we are going to speak about aliens , we are going to locate them all in this circle.
+
+Okay. All of these different beings live in different planets.
+
+So , remember that as we spoke yesterday , we are all separated in different constellations by light years.
+
+So , it is very far away , all is very separated because if each one of these planets are in different constellations , Orion , Leila , Turns , series , is difficult in a physical way to go to those places.
+
+So , remember that the reason why is so difficult to move from one galaxy to the other is because we are in the third dimension. And what is the third dimension that has three dimensions? High , wide and depth.
+
+## Practice Structure
+
+So , this 3-niti of the third dimension is the one that shapes the structure of the atoms.
+
+So , the matter.
+
+So , this is why the matter can only move in the structures of the three dimensions. And the matter is the one created in the physics.
+
+So , that is why anything that I will create through the structure of the atoms will be based on the laws of the physics.
+
+Now , what happened that the physics exists only in this reality. In this structure it does n't exist within this structure.
+
+So , according to the physics , if we use this structure and we are someone from series trying to fly to Orion , you will have to use the law of physics in order to travel from one spot to another.
+
+So , this guy will have to use this kind of ship to go from one spot to another.
+
+So , this is a finger ship and this is the carrot ship.
+
+So , I am not good drawing spaceship as you see.
+
+So , yes.
+
+So , remember how these particles are created. These particles are the conjunction of many tiny things that are like strings vibrating constantly , making sound.
+
+So , basically , they are waves that are vibrating so high that they start to get to all together by polarity.
+
+So , these strings that are waves of vibration , they are vibrating so high that creates this energy , this polarity. Making the idea of the structure of energy and this structure of energy creates this particles.
+
+So , basically , the particles of the 3D are not real. They are just a projection , a perception of the vibration of these strings.
+
+So , this is why the 3rd dimension does n't really exist. The 3rd dimension is just a perception of a vibration that is projecting as a hologram.
+
+So , what is a hologram? Hologram comes from the word colon that means everything whole , that is the origin of whole , the everything. And grammar that means letters.
+
+So , all the letters are together. That is a hologram.
+
+So , because these strings are vibrating so much , depending on how they violate , they would be expressed in one or other reality.
+
+So , when they start to violate in a specific harmony , they create the particles that create atoms and molecules and so on.
+
+So , depending on the vibration of this atom , this reality would be expressed in the 3rd dimension , the 4th dimension , the 5th dimension , but it is the same atom.
+
+So , why are we multidimensional beings? We are multidimensional beings because not because there is one atom in the 3rd dimension and there is another kind of atom in the 4th dimension. Another kind of atom in the 5th dimension is basically because the same atom , according to its vibration , will be in one dimension or another. That is why we are multidimensional.
+
+So , when this atom in the 3rd dimension is stuck in a pattern of vibration , that means that this atom will be trapped in the loss of the physics in the thermodynamics , in the loss of the space.
+
+So , for this atom to move , we will need tools from the 3rd dimension. I do n't know if you have heard this before , that sometimes the particles , these particles , the electron , the proton , they can violate so fast that they can move towards the future and come back to the past. All the time.
+
+So , while we , that we are built by lots of physics of these same atoms , are stuck in this reality. This same structure of these reality are able to be free and move through time and space. And remember , this atom is the same atom in the past , the present and the future in any dimension and any space.
+
+So , this atom is vibrating low , this one is vibrating in harmony and this one other is vibrating very high.
+
+So , if this particle here starts to violate really fast , immediately , it becomes this one. And then , it becomes back. And remember , this one here is not going there. It becomes there.
+
+Multidimensional.
+
+So , imagine that here , we have this little human that builds this carrot spaceship. It 's a carrot spaceship because I 'm not good at drawing technology.
+
+So , it 's a carrot spaceship.
+
+So , this carrot spaceship has to go live years ahead to reach this one here. It 's equal. It has to move through the space until it changes its vibration. But this one here , the Syrian guy with his little head , he says , what if instead of building this carrot , I create my technology to become there , not to go there , but to become there.
+
+And I understand how is the difference between travel from one place to another and becoming the place.
+
+So , one of the things that this alien did was of traveling , what if I become everyone of my own atoms and I 've read exactly as they 've read. And I start to bend the structure of space and time , opening a portal that we call a wormhole , yes , to the other side in another vibration. What happened is that I 'm going to bend time and space. And when I bend time and space , I recognize that all the structures become me.
+
+This is the miracle , when the being becomes its own energy. Tool. And this must spin really fast. As an atom , it 's exactly like an atom.
+
+So , through the intention this being takes the minimum structure of its own self that violates really fast. And creates a machine able to do the same. And this is why we usually see the spaceship like that.
+
+So now you see the difference. Why? You have to follow like this. 3D.
+
+5D.
+
+So it 's not that easy because in order for an atom in serious to come into the earth , must find the right frequency. And this depends on the level of consciousness.
+
+So the consciousness is the key for these atoms to align themselves.
+
+So in order to get that , in order to get that , the planet have had the same amount of consciousness. Or the right amount of consciousness to violate.
+
+So serious or other words could hear it. Because remember that 26,000 years ago , the humans started to recognize the In.
+
+So that 's why the planet starts to violate high. And that made that in the network of planets , when a planet starts to rise its frequency , the other planets , like in a spider web , they can feel it.
+
+So when the planets start to arise , the consciousness , and they start to communicate each other in the same amount of consciousness , they start to look for a way to maintain the harmony in between all of them.
+
+So they can be in touch , travel , and communicate and be as one. This is what we used to call the Galactic Confederation.
+
+So a confederation comes from the word con , that means all of them together , and federation that means a treaty to maintain all of them in the same harmony.
+
+So this is why the confederation exists , because they are looking for harmony in between all of them , because of the vibration. But if a planet is not in the same vibration of them , they can not be in touch straight to that planet.
+
+So that 's why in the period of consciousness of the world , they accomplished to build the machines to connect from one word to another , interdimensionally. And that are the pyramids.
+
+So because we are not in a process of consciousness , this means that they can not be in touch with us.
+
+So remember that most of them are not here physically , they come here as a hologram.
+
+So they are in other planets , in other words , but they protect themselves by the vibration of the atoms as a hologram here.
+
+Remember that every atom is the same atom in the whole universe.
+
+So just by using that consciousness , this knowledge , they can be here even if they are not really here. That 's why some people can see them , but they are not physically here. And when we are not in consciousness , but we are unconscious , that means that many other beings can take benefit from us. And this is why , and this is why , when the door of suffused in this planet was open , the first one intensive in arriving , where the grey ones and the Anunnaki.
+
+And probably this would be for tomorrow. For the people that may say , no , this was not like this or you did n't explain that or whatever , I would just say this is the second day of 30.
+
+So all of this to explain how this beings from other planets have come to the planet when the door of suffused was open.
+
+## Daily Practice Elements
+
+So let 's go to the information for today. The vibration for today is AH. The statement for today is I am the word of clarity. The statement for today is really precise for being in mercury retrograde.
+
+So the most complicated topics with mercury retrograde. The quote for today is water in the liquid state. The trying aspect of water is liquid that corresponds to the condensation of the spirit to conform the energetic memory of conductor of the cosmos. What humans call soul.
+
+It has the aspect of a fluke. The flow of the element water that gives life. That lives through time and space sharing it 's being to become every living entity without any judgment. Incorporating all this possible data and without any fear of transforming itself.
+
+So let 's go to the alignment. Let 's see what 's going on. Let 's see what 's going on. Let 's see what 's going on.
+
+I focus in my breathing. Paying attention to my body and recognizing the environment that I find myself in. As I perceive my environment as a deep space dark. Using my imagination to decide this space around me.
+
+I think of myself as a planet Earth surrounded by space forward stars. Break these thoughts in and form one another out of aggregate. For my eyes we reach up and sing Aristotle 's soul and He burns me on the scarf. And moving slowly , I allow my axis to find the stars of phys constellation.
+
+I recognize that this stars are the doors from where the information of the stars from the galaxy came to me , allowing me to become the civilizations of the stars here on earth. I take a deep breath , opening myself to the words of all this planets around , and I feel I recognize the vibration of myself expanding in a network , in a web that is connected from my body towards the stars and the planets in every direction from me. I perceive how this web of strings are like an instrument , like a heart , and that if I played properly , all my brothers and sisters from the stars can hear me. I allow myself to play with these strings , touching them , making them sound , and allowing myself to perceive the words , the images of the planets I am connected to.
+
+I allow myself to play with these strings to feel each one of these stars , to perceive which one of them is calling me , where are the brothers and sisters , the cosmic family , from where I come from , series , with the gods , our tourists , dia , our lives , Dracula , and Sigma , putting on the aint hippostasis. As much consciousness I have , my word will be heard with much more clarity. I am the word of clarity. I am the word of clarity.
+
+I know. I am the word of clarity. I am the word of clarity. I am the word of clarity.
+
+I am the word of clarity. I am the word of clarity. I am the word of clarity. I am the word of clarity.
+
+I am the word of clarity. I am the word of clarity. I am the word of clarity. I am the word of clarity.
+
+I am the word of clarity.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

@@ -1,0 +1,347 @@
+---
+title: "Day 290 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 290
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 290
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - crown chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 290 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi , everyone. Good morning. Dr. Nunrivening.
+
+Well , let 's start today with our last day of the emotional week of Turns. We have only ten days ahead to finish the whole month of Turns , which gives us only month to the end of this path.
+
+So , for me , we 'll be really , really fast this next two months for sure.
+
+So , I hope that this whole week of the , of the , the soul of Turns with the arts has been useful for you , has been things that you , that you learn from something that you were able to learn something. And , , I hope that this will give you some tools for you , for your , in your inside your own life.
+
+So , of course , that in order to wrap the week , we will speak about the topic of the entire week , which is arts.
+
+So , let 's talk about art.
+
+So , the word art comes from the Latin word arts that comes from the European language art , meaning to make , to or to order. We have the Greek word for art also that gives us technique. That comes from technique and this means to weave. That it will into the count of beauty.
+
+So , there is a white technique the word weave became into beauty is because for the engine times beauty would be all these tissues that we can do , all these. These myths of materials that you connect that you weave to one another.
+
+So , actually the interpretation is that those things that are matching and they are symmetric harmonic , they become beauty.
+
+So , that 's why the word name was also known as the word for beauty in Greek.
+
+So , even though the words are very different , they connect into the concept and meaning they want with that both of them are related to make something and to manifest something with balance and order. What is the meaning or the concept of arts here? Art would be basically existence. The meaning that arts is what you have within what is chaotic inside and then you put it outside by doing something into order into beauty.
+
+So , actually what arts is describing is how you manifest something from within.
+
+So , if we go to the universal point of view , we will be able to understand why we relate the arts to the soul.
+
+So , when we speak about the cosmos , we have to then that the universe and the beginning of everything is infinite because it 's mind. But this mind is not something that has ordered and knows exactly what to do. The universe is eternal and in the beginning there is nothing to compare with the beginning and the end is difficult to to to make that separation.
+
+So , in the beginning , the universe basically is only infinite , which is chaotic , does n't begin or an end. This is why we can understand that the entire universe is willing to manifest itself in order to can experience what it means. This infinite that it has.
+
+So , what it starts to do is to try to put limits , let it out of the end of the world.
+
+So , limits would be beginning and end.
+
+So , the universe does n't have patterns when it 's only mind because patterns means limitations. Boundaries.
+
+So , it needs to create boundaries in order to put order into that infinite. And this is why within it starts to get outside creating the first duality that puts order in and out. And the value puts up a pattern , the first pattern positive and negative. And by that it creates energy.
+
+And by this energy it is spread vibration through the universe and that 's what we call the soul of the universe. The soul is the one that expresses and affects the order for the infinite mind. It turns into a finite that has an end , patterns with an end by itself , so that help the universe to order the entire information. And this is why the soul is the one that enables the universal mind to manifest itself to find a path within itself.
+
+This is why we can relate the soul with the arts , the one that manifests the mind. As you can see , the spirit is eternal.
+
+So , the spirit can not manifest. The spirit can not find order. It needs the soul in order to find order that creates the pattern that organized the infinite.
+
+So , this is why the spirit needs the soul in order to create the patterns that will enable the universe the mind to live its own experiences through the bodies in different realities.
+
+So , how does the universe to put order into that case by networks?
+
+So , imagine that the mind is infinite , so in order to put order into that infinite mind it needs to be links. And that 's what we call the networks of the mind. It 's like the synopsis that creates connections of data that enables the universe to organize different structures.
+
+So , it has packages of information.
+
+So , in order to put order into the infinite , infinite , infinite mind. And this is why we 've in networks is what in Greek , in Latin , in Latin , that gives you the words , tissues , text , text , still , technique , technology and all this kind of words.
+
+So , technique is the way in which the universe will be able to put order in the infinite.
+
+So , we can understand that our is the action of manifestation and the technique is the way in which it will be manifested.
+
+So , throughout time , these networks that are created in the infinite in order to understand the structure , it starts to spread along entire universe , organizing everything , the organic and the inner organic.
+
+So , all the structures from a galaxy until a tiny bacteria , everything the universe will try now to put a limit into in this network through a way of weaving nets.
+
+Okay , so the universe starts to create organisms and that evolves into new organisms that keep going , keep going , trying to find the best way to find that order. And that 's what creates beauty , that 's what creates all this reality that we know with all these complex beings like we are.
+
+So , we can say from this that we , the living beings , we are the universal art , the existent universal art made up by the technique of the biological organism. We are the universe art , system universal art made by the technique of your organic biology. There will be the summary of what we are.
+
+So , we are basically spirits that we are infinite and that evolve into any creating the soul and the soul sets elements that creates a matter that we are.
+
+So , what we are is that order that the universe needed in order to find the cosmos in the infinite.
+
+So , as you see , we are not here as lost souls in a world that we are willing to come back spiritual world. Basically the spiritual world trying to find order through matter.
+
+So , matter is important. We are important too. It 's not just going going away from here. But these art universe can be also very different from one to another because we have many ways of art.
+
+We have organic , organic and from them it 's just split into many others and they start to to divide into other species and the species and subspecies and these subspecies goes into other races. These are the multiply specifications of each one of the individuals that creates them the cultures , the arts that we know , music , dancing and so on.
+
+So , it starts to divide divide and if you see in the universe , it will try to find better order through making incision , incision which is the word for division to divide things to cut things. And all in the European language and all languages to cut is set science. Science comes from the etymology to make an incision to cut something.
+
+So , science is the one that is able to different parts in order to concentrate in the different aspects and areas.
+
+So , basically , science be the ways in which you can understand the different parts of the art.
+
+So , then what we have here is that science dividing the art and the art which is splitting both of them are in constant generation. And because it generates constantly once and again , this means that arts and science both together creates the ingenious ingenious , which is the engineering.
+
+Okay? And the engineer would do an ingenious person to all these parts create a tissue and unit. Therefore , you have technique.
+
+So , as you see here , this is the line. Arts , creates or divides itself in science. Science finds ingenious within. And this ingenious use technique in order to create arts again.
+
+So , as I said , art means to do something to make something.
+
+So , arts is making something and then science divides the different things that arts did to study and to practice different ways to find within genius. Many different techniques in order to make something new.
+
+So , that would be the path. What do we have here? That arts.
+
+Today we see art in a very different way because from our point of view , today art is added to emotion and static. And these are the three are related with the intellect and logic.
+
+So , why is this? Why it happened that we have been divided? That we divide this and we perceive art as something emotional and we relate arts in just the emotional ideas. And we are much more guided today with a society related to logic and intelligence.
+
+Why we split that and we are not a very artistic civilization today.
+
+So , if we go to the past thousands of years ago and till the last period of the Roman Empire , what happened in the whole history was that all the knowledge , all the things that we learned in the schools , the initiative schools that we had in that time.
+
+Remember that they used to teach everything together. Art science , engineering , technique , it was all the same. It was taken as one on the thing. And because of this , people were willing to be integrated as a being.
+
+And to have integrity , you have to know many things , not to go just from one path. It 's not the way in which you can achieve the whole , it 's just a unique , if you go only one path.
+
+So , that 's philosophy.
+
+Remember , I work it all the time. Philosophy. Love for wisdom. Love for wisdom is that you need to know everything politically in order to get the whole.
+
+So , that 's why it was all the same.
+
+So , in the past art was for everything , for every action. It was not something that could eat something beauty , first of someone that cooks was art. Of course , that today we can also say it 's art , but we would call him or her.
+
+Okay , but it 's not chef. It was anyone who cooked.
+
+Okay , it was a blacksmith , also , whatever. They all did exactly the same , it was action. It was something that they were making.
+
+So that 's why it was art.
+
+So , whoever achieved to use our science , engineering and technique all together , they were able to do what to use the beauty arts. The beauty arts , which are the essence of every civilization , they were able to use them.
+
+So , to unify them and to make something with that.
+
+So , with the beauty arts. In the period of Greece and Rome , the development of civilization was to what we , the bathing of civilization. The birth of civilization is that is the step that creates the basement for the globalization in our , in our global cultures.
+
+So , that 's why we call it the birth of arts and the birth of our current station.
+
+So , it has a big difference from the previous arts. The previous arts were about God and the divine. But in that moment , they decided to do something different. They thought , if the divinity has created this is because they love this is because they were , they put everything into this.
+
+So , what we have to do is to love the creation. We have been created by the , and love they admire us inside somehow.
+
+So , what we have to do was to love nature to love the creation itself.
+
+So , they design an order to understand every plant , every animal , everything in nature to admire our reality. Which is completely different from the point of view of Jews and Christians that will come after that.
+
+So , when the Jews and Christians started to empower over the Roman Empire. What happened was that the tradition of God being the most important thing came back. And what they did was to say that the world was hell. The world has been designed by the devil.
+
+And all we have to do here is to do the hard work to prove God that we , that we deserve to go to heaven. And if we love the earth , the nature would be like loving the devil. If we love the things that are here , the earth , the things. It 's because the devil is calling us through pleasures.
+
+So , we have to live like poor people , not to have much , not to fill in pleasure at all. Because it was something from the devil. Because our goal was to go to heaven. This took the cultures to forbid all the arts.
+
+Because the arts were about honoring nature.
+
+So , most of the arts were forbidden and forgotten.
+
+So , during the next centuries in the Middle Ages , for around 400 to 500 years , the cultures of Europe that then spread to the entire world has this slight culture based in the hard work in order to win the heaven.
+
+So , the culture was we have to err ourselves in heaven by hard work. And everything that is pleasure in life will be just something that we would call a distraction in our path.
+
+So , pleasures in life are not good because they take us away from where we are heading to. And this has been stuck for dozens of generations in our blood in our cells.
+
+So , we keep that information going. And that 's why even today we have this kind of beliefs. Even today , even today we have been , we have this kind of beliefs. But even though in the 15th century , it came the Renaissance as we spoke once.
+
+And during the Renaissance , kind of we stopped , or we were trying to leave this circle arts behind. And we started to bring again the love for nature for the reality. During that period , so it was this Renaissance of the arts and moving forward living behind this idea of the sacred arts. In the 15th century , with the beginning of arts , behind it came all the old arts , which are what the science , engineering and technique.
+
+So , in the 15th century towards the 16th century , arts also brought the scientists.
+
+So , they started to bring a new kind of science in which , of course , the car was one of the most important ones that brought the experimentation.
+
+So , what happened? We have been going through a long history in which we were ruled by faith , by subjective concepts of reality.
+
+So , when science gives birth again to a new way of looking into reality , science said , we should not follow the same pattern that we have been keeping with a subjective way of understanding the faith. We have to change this into the objective way looking into the experiment and reality.
+
+So , this said , for all of them , we have to split from subjectivity and just be objective. And that is the beginning of each between science and science.
+
+Remember that even though we now have arts in the Renaissance and in the Renaissance , even though we still have within this information from the Christian era that makes us be a threat of everything.
+
+So , eventually , 17th century and 18th century , the first revolution in the industrial revolution. And during the industrial revolution , what changed the technique? How it changed? Because , of course , before , if there was a shoemaker , the shoemaker was an artist because that person was doing the whole thing.
+
+It was an art to make a shoe. But suddenly , in the Newswire time , many people were doing a shoe. And there was no one finished the shoe. It was machines , it was technique.
+
+So , arts and technique split again. In the engineering , of course , happened the same , the Vinci , the Ravine and many others of those from the Renaissance , that not only artists , through art , they were engineers. They designed machines that could be used for our daily life. They worked in much more than just paintings.
+
+They gave the basis for the engineering. But what happened during the industrial revolution , engineering became just as a degree.
+
+So , they were studying just one kind of engineering. And again , arts started to be in the other side.
+
+So , this is why from the 18th century , 19th century and 20th century , the artist started to be only related to the emotional and aesthetic point. What happened? This three science engineering and technique , through intellect and logic , made humanity evolved as fast as never before. In only 300 years , working by themselves , they accomplished to evolve more than in the last 150,000 years.
+
+There 's only one thing that humans did in evolved. What is that thing? Emotion , emotion.
+
+So , emotion , art is emotion. And the things that we do comes from emotion.
+
+So , our insight is the one able to set the intention to manifest something outside. It 's our emotion.
+
+So , technique , technology is able to evolve faster than our emotion. But it 's just technique. It 's just the ways , the shapes and not the content.
+
+So , why arts are not evolving and humanity is not evolving through art? Because , basically , for sure , many of you have heard this in your life or in culture , generally in culture , that people say that art is art , art is just people that does n't really are practical people. Maybe they say the art is does n't work it or is a loss of time. You have to work hard in order to get things in your life.
+
+Maybe in life you see the artists like these people that is wasting time , there 's a waste of time to do arts. These are thoughts from the industrial revolutions and the kind of ideas from the Christian and the Jews point of view in the Middle Ages. I still have. And also from the other side , we are not able to express our arts because we have been repressed throughout history telling us that emotions are weakness.
+
+When someone says do n't cry or do n't show your emotions or just do n't worry will happen , do n't cry or whatever.
+
+So , these are things shut down the doors of emotion. We do n't know how to handle our emotions. We 're able to develop our emotion because during all the process and school , we have been taught to be logic , to be logic. And usually they do n't teach you to be artistic , to work with the arts.
+
+And usually when in school teach you art , they used to teach you metric and technique. Not expression. And for sure , writing the side of us at home , each one of us are really connected with arts. We 're connected to music , we 're connected to painting , we 're connected to different kinds of arts with them.
+
+But we do n't express it. We do n't show it. And for sure , we all share the idea that artists can change the world , how many of us think that. And even though in the past.
+
+## Practice Structure
+
+And the reason why it happens is because we do n't know how to manage the emotions of the art. We do n't know. And this happens because art has been separated from science , engineering , and technique , which is basically the other positive of the structure of arts. And here is where we can find also the mistake of arts.
+
+The mistake of arts is art believe that they are special. That we can change everything. But art is not the 21st century artist , the one that will be able to transform the world. Art those artists that can understand that art is the ability to make things , is the ability to make things from the inside and the inner power that is called beauty.
+
+The inner beauty. That 's why we can understand that art will never change the world. If it does n't incorporate inside science , engineering , and technique. And we have to understand too that humanity will never evolve if technique , engineering , and science does n't integrate art.
+
+## Daily Practice Elements
+
+The thing that is here is for us to become artists , but not the static artist. I will list the artists involving emotion , intellect , and logic altogether. That version for today. The statement for today is I am the eternal guardian.
+
+The code for today is the endocrine system. This system is the gland interweave and whose function is to create hormones inside the body. Hormones are in charge of activating or activating processes in the different systems of the body. Being the gland , the main motors of energy keep the body functioning.
+
+This system is where the energy of the soul and its motivations are adhered to.
+
+So it 's the charts of the soul that give life to systems and therefore to the body. It 's the projection of all the dimensions of the universe in matter. Hypothesis , lineal , thesis , pious , pankpias , eternal , and genitals as the main ones. See it 's comfortable , close your eyes and concentrate in your breathing.
+
+I become aware of the space around the body that ai n't habit in my own breaking. I use my imagination to make you disappear. I have an object in this room in the space. Even the roof , the walls , and the floor.
+
+Until there is only one. I observe a point in this void and I bring all my attention , my attention , and energy. I focus in into this spot. I say stare at this point , I can see how it becomes as far as this spark , as far as the spacing to many others.
+
+All this part , it 's a fire that ignites big bigger , expanding into many directions , shining , all around me. I feel its heat on my skin. I recognize this fire , is the essence of my soul and from it. I can create my home.
+
+## Energy Work
+
+With my hands , I take this fire and slowly , I take it in my body. I feel the current of the positive and negative inside my body. Bring in this fire , down to my feet , and up to my crown. I take it in breath , and I set myself into fire , letting this fire in from within through every part of my body.
+
+I mean expanded softly , slowly with a dancing of my hands and the body. Extending it into every direction , building the home around me. I recognize that I am building this home , dancing with this fire , with this soul. And with my hands , I start to mold the figures that shape this construction.
+
+## Practice Structure
+
+I 'll side the sign , the structure of this home. I put the colors and paint the house of my being. I recognize that this place contains my history , the story. I 'm coated in this place.
+
+This home is the manifestation of my own creation. Place is my poetry. As I can see in every room , the movement of my story projecting itself to the future. I am the garden of this place.
+
+I am the eternal garden. And me myself has created this home , has created myself to this beauty arts that lived within me. I recognize that within me lies the arts that will help me. I will help me to build my future.
+
+For I am art and existence. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the eternal garden.
+
+I am the eternal garden. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place. I am the garden of this place. I am the garden of this place.
+
+I am the garden of this place. I am the garden of this place.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

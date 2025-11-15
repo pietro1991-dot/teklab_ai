@@ -1,0 +1,230 @@
+---
+title: "Day 297 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 297
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 297
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - month holding
+  - month hold
+
+practice_elements:
+  chakra: "Root"
+
+---
+
+# Day 297 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Root`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening.
+
+So today I do n't have much much voice because today some of my friends had a right. And I 've been speaking talking since noon , so I do n't have much voice. Let 's try to explain a bit the idea of the post today , which I think that I explained as much as I could. It 's very straight to the point , I guess.
+
+But my energy of course is starting to be prepared to work with them to prepare for everything that we have to do in this next days , which is for everyone. Of course , so I wo n't be with the entire energy dedicated to this specifically , so I will try to make it shorter so we can go to the point.
+
+So I think , so reproductive system.
+
+So I guess you know it because for sure you have such it.
+
+So of course that this topic is something that in spirituality is basically usually difficult to speak about because when we , when we express the things we are connected to our cultural and religious heritage that tells us from way far in the past. That we are meant to go to the heavens , so we have to rise up our energy and we have to live this earth that keeps us in trapped in this kind of hell.
+
+So in many traditions and cultures they say that we need to live this energy behind that we have to go to heaven.
+
+So whatever it is that connected to this planet that of course would be from the delibotum to the genius and down. It would be something that does n't allow us to go farther to the divinity.
+
+So we basically are sinners if we live our life through the genitals. The idea that this things should not be spoken about because they are connected to the sin was born a few thousands of years ago in the Middle East as an idea that we have to. We live this world because it 's kind of a jail a hell and we have to go to the heavens. From this point of view we started to create a culture that against the previous cultures , the first cultures that were following the evolution in which they understood that the genitals , the reproductive system was a way in which the spirit could be downloaded into the earth.
+
+So for those new cultures and Middle East the tradition , the tradition of teaching sexuality of teaching how to live this spirit through this on earth was something that for them was not going to the heaven was not going to connect with a divine to the Creator. If we keep doing that we would be bounded to bounded to earth all the time.
+
+So we needed to live those things behind in order to live in heaven with the divinity.
+
+So remember that the traditions were born because we started to believe that the gods created us through clay , through mud.
+
+So because of this we had no one behind of us in history.
+
+So we believe that we were holy because of God created us.
+
+So to keep reproducing ourselves here on this ground was something that obligated us to live all the time here connected to this earth.
+
+So that 's why we started to create the idea that in order to come back to the divinity we have to let all the genitalia behind.
+
+So this history takes us to take all the reproductive system as a taboo. Taboo is a pollination word that was said taboo that means forbidden. And in the history the concept of forbidden was related to the things that you should not say because you are not ready to say.
+
+So that 's why all this information was just for the the magicians , the priest and all these kind of people that were able to speak the. The words the magical words.
+
+So the other ones should not say that.
+
+So that 's why it was a taboo. But then it was brought to Europe and of course the European people started to use the word taboo. As something that is forbidden for the European religions which were all there was a scene so you should not speak about the things that are related to scene.
+
+So this is why we started to take the idea of the reproductive system as taboo. But we have to acknowledge this that the reproductive system physically biologically is the place where we can produce.
+
+So where we can create is the center the physical center where we produce the energy of our life and we can create life.
+
+So all the creativity , all the energy is born from this system.
+
+So basically to the nine the reproductive system is to the nine the power of God within is to deny the power of the creator inside.
+
+So through this 2000 years that we have been going through religions that told that the reproductive system was something taboo was something forbidden. We started to feel apart from our inner creator to the ability to connect with God inside.
+
+So to understand the system is important to understand our creator.
+
+So important to understand first about the reproductive system , the reproduction system. That all the production of every cell came from one first cell that has the ability to create itself which was a mother cell. A mother cell has the ability to encode the information within of every other cell.
+
+So from it it starts to reproduce and create thousands of others that are different.
+
+So the main structure was the one able to manifest to create all the rest.
+
+So if you think about it every human every living being comes from a feminine organism. Usually all humans come from a mother cell.
+
+So this means that all in nature basically is created by a womb is created by the feminine. Which takes us to the idea that the creator itself in an organic point of view is feminine. Is out of a poetic which means that it creates itself and that would make the creator a feminine creator.
+
+So to make here the example.
+
+## Practice Structure
+
+So we have here a cell that divides in another one another one another one so it creates an organism. This cells this group this organ starts to develop in an environment and this environment is changing. This environment changes the structure of the cell.
+
+So it modifies the main structure into into a different thing.
+
+So we are conditioned by the environment and we have to adapt to the new environment. Maybe in this organism there are one cell that adapted perfectly to the environment but the other ones do n't.
+
+So they are destined to die.
+
+Now for example imagine that this cell here has this information in order to make survived entire system. What it does is to share with other groups of cells.
+
+So it shares it with this cell here and this cells adapts. Adaptates to this environment.
+
+So it shares this same data with another group of cells.
+
+So it starts to tourism the whole structure allowing the entire being to adapt to the environment.
+
+So now comes the interesting part. When this organism that maybe was living in the sea. Understand that can share to this data with organisms that live in the mountain.
+
+So when in charge of this data the result of this will be a being that is able to live in the sea and in the mountain.
+
+So we spread the territory.
+
+So now the thing is that this cell here to make out of the places will need to receive a lot of energy from the entire environment.
+
+So it needs a lot of energy to produce many other cells.
+
+So it implies that it can not waste energy to move from one spot like the sea towards the mountain. It needs to adapt to one place.
+
+So now imagine that this cell here will move.
+
+So how it 's going to go from the sea to the mountain.
+
+So what it 's going to do is to create another cell from it. Create a new one with just a little bit of the NA of the information. In order to create a new cell that is able to reproduce this information.
+
+So this cell will move along the mountain and we 'll deposit this information into all the cells that can find around.
+
+So what this cell here we have to do is to call attention to this one here because of course this one has to trust.
+
+So this is why this cell here evolves into a way that it can show all the colors , the sounds , the movements , the size. They will try to show as much as they can. All the genetic material that they have within like. Look how much they have within that I can share with you.
+
+So it 's nice to show itself so they can accept it.
+
+So the mail is basically a female need of evolution in order to expand. Is a response of evolution.
+
+So I 'm so sorry for those who believed that first was Adam and then Eve.
+
+So this is why the masculine reproductive organ is basically the deformation of the feminine organ.
+
+So basically we are all female. But some of those female decided to take the vagina out and to put the ovaries lower to be the textiles and the wound became the prosti.
+
+So this is why what the reproductive system does is to produce cells to bring this information along the planet to distribute the information everywhere and create.
+
+So basically it 's a way in which nature found to transmit information to pass on data.
+
+So this is why when we speak about the reproductive energy , we have to understand that the energy of the entire body of the spirit needs to produce this cells in order to manifest , to anchor this information.
+
+## Energy Work
+
+So that 's why the root chara related to this organs activates the Kundalini , the Kundalini activates the heat of the body to connect the entire potential. The entire potential of the body and from there it creates the channel to download the information into the matter.
+
+So it can pass on information through reproduction or through information.
+
+So important to acknowledge about the genitals to know it 's importance into the expansion of data and the spirits in the world. And for any other detail , I invite you to reach today 's post. Let 's go to information for today. The vibration for today is Hall.
+
+## Daily Practice Elements
+
+The statement for today is I am channel between worlds. The goal for today is the skeletal system. Even though we consider it a mineral or inert part , the bone system is a living organism made by living cells called osteocytes that give them the ability to regenerate the cells of the blood. All the system is interconnected by vessels and nurtured by oxygen nutrients of the circulatory system.
+
+It has the function of protecting the vital organs and instability and agility to the body through its general structure called skeleton that in a human it 's provided of 300 bones that in adulthood and up merging to 26. It 's got alignment. Set comfortable close your eyes concentrate in your breathing. I take a deep breath and become aware of the brain habit.
+
+I start to softly and slowly. I start to softly and slowly. Stretch the body , expand moving every joint and softly circles. Young , carries in and soci is every part of your body.
+
+I take deep breath. I hold. Let 's go relaxing all the weight that I 'm holding in my body. The head falling , the shoulders falling.
+
+The hands. I feel only weight fall down. Even the jaw. Letting your mouth a little bit open , feeling how it runs from the skull.
+
+I pair tension and feel how the tension is released from every part of my body. I 'm the head to the feet. With every deep breath , I relax even more my body. I pair tension to the genitals and I recognize that dim are not different from one another.
+
+They are the same as feminine masculine , just order organized in a different way. I am a woman. I am a man. I am one.
+
+I become aware of the eggs. Inside the ovaries. I 've just remade the soils. Inside the textiles.
+
+I become aware of the womb and the endometreum. Within. I become aware of the prostate and the semen. I become aware of the vagina.
+
+## Guided Meditation
+
+I become aware of the penis. I start to breathe faster and deeper. Inside night the fire in a genitals. Feeling how it emerges from them and spread along the body through this skin.
+
+I feel this energy spread through all my body and every millimeter of it. I feel this energy and heat being processed and understood by the brain throughout the larger and much more sensitive system of all the in-tiglementary , the skin. I take it deep breath and softly I start to carry all my skin.
+
+Softly I take it deep breath. And with the teeth of my fingers I start to carry the entire skin from face to leafy. All of it with all the love that I can. I feel this energy spread through all my body and the endometreum.
+
+I feel this energy spread through all my body and the endometreum. I feel this energy spread through all my body and the endometreum. I feel this energy spread through all my body and the endometreum. I feel this energy spread through all my body and the endometreum.
+
+I feel this energy spread through all my body and the endometreum. I feel this energy spread through all my body and the endometreum. I feel this energy spread through all my body and the endometreum. I feel this energy spread through all my body and the endometreum.
+
+I feel this energy spread through all my body and the endometreum. I am man. I am women. I am a channel between worlds.
+
+I am a channel between worlds. I am a channel between worlds. I have the woman in me. I have.
+
+## Q&A
+
+I take a deep breath and each one at its own time. I come back here and now. For those who are following the task of this month , we take this energy put it into the water and pour it on the seeds that we have showed. We have everyone here and every day , see you tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

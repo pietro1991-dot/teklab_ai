@@ -1,0 +1,230 @@
+---
+title: "Day 143 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 143
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 143
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+  - month hollywood
+  - month hology
+
+practice_elements:
+  chakra: "Throat"
+
+---
+
+# Day 143 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Throat`
+
+## Introduction
+
+Hi everyone!
+
+Sorry for this delay.
+
+Sorry everybody , but where we were , we had a problem. And the traffic in Cairo is very difficult.
+
+So we are just arriving , but it was so complicated. Ca n't. We are another arrival on time.
+
+So we had the problem because here in Visa where we are right now. There are a lot of , there are a lot of constructions in the moment because they are making the museum , the car museum , the new one.
+
+So it is really impossible to cross the streets. That 's why we got lost and we are not arriving at the same time.
+
+So I wanted for you to see the reason why we are not arriving on time. It 's because of Cairo 's transit. Thank you , Noreen , for taking us. I 'm sorry for this.
+
+I did my best. I apologize for everything. She has been driving the whole time wonderfully and make us survive in the city.
+
+So Merry Christmas to all of you who are celebrating this now. And well , tomorrow is Christmas , but anyway , we are , lots of people for sure are celebrating right now.
+
+So , and this is Cairo Infrastructure.
+
+So you can feel a little bit of Cairo energy. Almost there. We can work.
+
+Okay. You can live us here. You can live us here , everyone.
+
+Okay.
+
+So today , we have to be something funny.
+
+Okay.
+
+So you have to see something different. And it 's a lot of fun too. Yeah.
+
+Okay. Thank you so much. Thank you. See you tomorrow.
+
+Thank you.
+
+So even if it is a bit weird right now , I will. I will introduce the topic as we go into the room.
+
+So remember , the topic for today is the throw chara and related to North America , because North America is the voice and represents the throw chara of the planet.
+
+So this is just for you to see that I am very serious on doing the transmission every day.
+
+So yes , we are running. As I said today , let 's do it. Short and let 's go to the. .
+
+.
+
+So today alignment.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay. I 'm having the essence here.
+
+Okay.
+
+So I arrived. Ten minutes later , but I arrived.
+
+So as I said , today 's topic is the throw chara. The throw chara of the planet North America is the technical level that goes from the north part of the Caribbean. And that it goes , it contains and holds Mexico , United States , Canada and also Greenland.
+
+So this continent , the one in the throw chara , is the one related to the communication.
+
+So in this planet is related to the ability of educating , to teaching , to sharing information , to spread and expand the information from within.
+
+So the North American continent , the North American continent , is the one that expands the message , expands the truth , expands the energy.
+
+So it expresses all the things. That 's what this continent does. And it 's not related exactly with the countries. That 's basically the essence of the continent.
+
+So these three countries that are in this continent will be the ones trying to represent the wisdom and the spread of this wisdom of the earth. The countries in this region , they are supposed to express this energy , this essence of the continent. That 's the goal of this of this countries. But if they are not aligned with their own essence , if they are not working with their own selves.
+
+So what happens is that they are not accomplishing their mission.
+
+So that 's why exactly the same happens to us in our lives. When we are not in our essence , we are not accomplishing what we are supposed to. And we are , and we start to be like , in conflict with your own essence.
+
+So these three countries that I talk about are Mexico , United States , Canada , and a part of course of Greenland.
+
+So the first country , Mexico , is the country in North America that represents the wisdom of the elders in the past. As we have the mother in South America , we have the father in North America.
+
+So the father of North America is this territory , which is reincarnated in the country that we call Mexico. But Mexico is not only the territory that we have today. The territory of the spirit of Mexico is also some countries of Central America. And also the states of California , Nevada , Arizona , New Mexico , Colorado , and Utah.
+
+These regions , in the United States , are also part of the spirit of the great father , of the great father that brings all the wisdom to the world.
+
+So then after we have this image of the great father of Mexico , the information of Mexico , we find the great cow , the cow , the mother of the elders , which is United States. United States is this big cow. And you can see one of its pulse in Florida , the books of the cow in Texas. And then you go to California , Oregon , and Washington , states , which is the last part of the back of the cow.
+
+And then you have all the spine of the cow in the northern states. As you go to the chest , which is the region of Washington , Maryland , or all that region. And then you go up to the throat chara in New York. And you see the head of the cow in the northern states of Maine and the others.
+
+So the great cow is a symbol of the mythology in the past for many cultures that said that in the sky at the beginning there was a cow walking in the skies. This cow was eating grass in the skies and leaking salt and ice. And she was pouring the milk on the way.
+
+So it created this path of the stars with the milk. And they said that this cow was the one that awakened from the ice. This grandfather , which was the wise man that awakened the power of all the gods from the Indo-European traditions.
+
+So that 's why we call our galaxy the milky way because of that cow.
+
+So in ancient traditions , the cow was the symbol that gives us the mil to tourism our soul but also to tourism our body.
+
+So the cow was the one giving us all the milk , everything that we need to leave. That 's the symbol from the past.
+
+So beyond politics , beyond the concepts of the sorry , beyond politics , beyond economics , beyond the states. We can understand that the United States is like this country that represents this cow because from the very beginning was created to give to the population , to give to the hunger , to be to the poor , to give to all the people and opportunity to have. To have the opportunities to live their dreams , to create their own ways , their own path to have the freedom , etc.
+
+So this country represents all that concept , okay?
+
+So it does n't matter why we believe about this country in history for the whole humanity , this country represents basically all that information.
+
+So the other symbol that we have is of course the bull. The bull will represent this , the white bull will be the buffalo , okay? The white buffalo is Canada. And you can see that this bull is with its back on the back of the cow , they are like this together , and its paws are on the top , are facing to the north.
+
+So you can see the paws in the north , in the territory of Nunaboot in Canada , and also the head of the bull and the horns in the territory of Quebec Peninsula. This territory is the bull , the buffalo that is watching heading to the north.
+
+So it represents the holy of the north.
+
+So the buffalo is the symbol for the ancient traditions that represented the holy wisdom that was delivered into the humanity , towards the humanity. But this bull.
+
+So this is how we can understand that the buffalo is bringing the information from the holy levels towards the ground. The cow can produce this information and deliver it to the humans , but mainly to who is delivering this information to the whole wise man , okay?
+
+So the bull follow gives the information to the cow the cow process , this information creates in the meal , and this meal is absorbed by the wise man.
+
+So what does this old man in Mexico take scare of the cow and take scare of the buffalo in the north?
+
+So this is why the oldest man in history , they came from the north , downloaded information to Mexico , and in Mexico it creates the cultures that possess this information and bring it back to the different cultures in North America.
+
+So of course this is not a real story , this is an interpretation according to what was happening with the movement of the people in that continent.
+
+So this story helps to understand the whole pattern. All these three countries are in a territory that represents the throw chara.
+
+So these three countries has the mission to bring this information to the whole world , the message , the freedom of speech.
+
+So for Mexico , Mexico has this goal of expanding this information.
+
+So all the elders in Mexico has this goal to expand , okay , to expand to express their knowledge.
+
+So the whole world , they need to share this information as the native Americans , they must share this information that they have to share the goal of everything. You know , the goal of the purpose of humanity , we need to do that , they need to do it. And in North America , the , sorry , the United States , in United States , the idea of this country is to expand every message. For example , many of you for sure have known me because of Gain in the United States , because everything that goes to the United States , it can be expanded much wider than in any other country.
+
+That 's why it 's a place where helps people to expand the message really fast.
+
+So that 's an attribute of that region , of that country , the message , the world.
+
+So this is why everyone who needs to expand the message who wants to be connected in the whole world , somehow , sometimes they have to go to the United States. Because the energy in that country expands you to the whole world. That 's why we are all affected by the Hollywood ideas by the music , the music around the world , all is connected by the , by the United States , the ideology of freedom.
+
+So this is why I also use English , of course , because even if some people bothers it that I and speaking English , I 'm not sorry about that , because that language is the one that is used in the States to expand , okay , so that 's why I use it. If the , if the throwing chara would be in Russia , I would probably would be talking in Russian. Speaking about the whole planet , when we say IMG Earth , IMG Earth , so I have to remember that the throw chara represents North America. My throw chara , our Splendid Earth , is North America.
+
+So now for example , the whole world is having some complex problems with the United States , not trusting this country , because this country is right now not very aligned with the process of the truth , with the essence of its own country , of what it was supposed to be.
+
+So this is why we are living this , this reality now in which all of us as humans are having conflicts with the truth. We can not trust each other , we do n't know what it 's truth , what is the lie , we can not identify exactly what is the truth , because the country that was meant to spread the truth is not in its own essence.
+
+So the importance to that , that it has to speak about this territory to understand about the position of the countries , the , the , and all this territories is so we could acknowledge the importance that when we are saying IMG Earth , we have to acknowledge the territories , what they represent the countries , etc.
+
+## Daily Practice Elements
+
+So we can find coherence with what is happening in our body , which is Earth. The vibration for today is Tha. The statement for today is IMG , the celestial truth. The goal for today is the color white.
+
+All the rainbow beams , unified creating the white light. The sum of all the energetic potential that by rage in the cosmos of all the mini ranges of colors , white is boring , that represents that represents for us the spiritual objective of purity in the path of light. The most balanced irradiation of the universe that surrounds everything and goes through everything. The white ray is then the highest conscious conscience that returns to the voice origin.
+
+Sit comfortable and we focus in the breathing. Absolute mind depth and En preparation does not close. Ensed ideas within images. Observe the light of South America and absorb it in each one of yourselves acknowledging the Jewish sharing this information with all the animations and where you belong I have solved the client within me I have served in front of me , the entire Southern American continent.
+
+I have served around it the celestial light that invades around it , that emerges from this globe in the planet , take a deep breath and die observe the trinity of flames that I enlightened in the Andes of Venezuela. I used my hands to create this flame from my heart and I expanded around with the shape of an egg of an ellipse , for where this fire would move , take a deep breath and start to spread this fire through the islands with a right hand , tooth the fire up from chenidad into the Bible , going to all the Action crossing to Puerto Rico , some to the Ming , I tea , tuba , Jamaica , and with my other hand I go up to Panama Costa Rica. I have served in the United States , and I have served in the United States , and I have served in the United States , Guatemala , Belize , and I unite again my hands on the heart of my throat , and you get the time in Mexico. I observe now Mexico and me , from the rain forest in New Tatran , through the mountains , the Mexico does California bus , Honor Desert , going up across the border of the deserts and it 's our son and you Mexico in California.
+
+## Q&A
+
+I can feel my spine from the back of my neck , rice and up , as the Rocky Mountains , through the western states , through Canada , rich in Alaska. I ca n't perceive the voices and the singing through the sleepy plains in the middle of the continent , flying aside to evil. They see the Holy Trinity in the three week legs and I can feel my vocal cords activate through the Apple X. We 're sounding through all the east coast , rich in Heaven.
+
+I can feel my vocal cords and the voices of the people. I can feel my vocal cords and the voices of the people. I am the celestial truth. I am the celestial truth.
+
+The truth lives within me. I am the truth. The truth will set me free. I am North America.
+
+I am the celestial truth. I am the celestial truth. I am the celestial truth. I am the celestial truth.
+
+Take the grass. And from your throat start to ring all this information through your body , carousel and stretch. I am coming back here and now. Thank you everybody for being there.
+
+And from my truth , I am like a heroine. I wish you all Merry Christmas. Happy night.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

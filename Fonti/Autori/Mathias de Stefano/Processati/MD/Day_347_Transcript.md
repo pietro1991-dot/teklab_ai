@@ -1,0 +1,332 @@
+---
+title: "Day 347 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 347
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 347
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - month holding
+  - month hold
+  - month holds
+
+practice_elements:
+  chakra: "Root"
+
+---
+
+# Day 347 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Root`
+
+## Introduction
+
+I have been learning from everyone. Hi , everyone. Good morning. Good afternoon , good evening.
+
+So I remind her to everybody that I know that most of the people , that a lot of people that is following me through this channel and YouTube , most of you do n't follow the blog , the daily post. You do n't follow the social media. And I would like to notify you that in a few days , our path , the of the I. M.
+
+, as we are following right now every day , will end. The last day of a transmission will be the day of the third.
+
+So from August 4th , we wo n't have any more meetings every day here at the same time.
+
+So because of this , I would recommend you to follow the blog to keep updated with Instagram and Facebook somehow , for those who does n't have it , just try to check it somehow. Because since that moment , the connections wo n't be daily , will be a few days sometimes. And most of the data and information that I will have load will be whether in the blog or either in Instagram and Facebook.
+
+So there I will also notify which days and which hour will be the next connection through this channel here in.
+
+So also since this August 4th , we will be uploading in the social media , the daily post that we have been doing since the very beginning of the year.
+
+So we will start again with the same post.
+
+So we will be like doing a reminder since the very beginning.
+
+So we have another six months to start to gain back the information that we have been working with so long before. As always , whatever I do for this path will be always bilingual in English and Spanish.
+
+So I remind you again that in 13 days , which is the last day of our path.
+
+So that day ends all the connections like we are doing every day. We finish these connections daily and start the five days out of time.
+
+So I will notify to everyone how it 's going to be because maybe it 's not at the same time as always.
+
+So I will let you know about that.
+
+So pay attention in the social media to be aware of what time will be.
+
+So I remind you that everything that we have done , each one of the videos , each one of the posts , everything will be as always free.
+
+So you will have it forever here in this channel and the blog.
+
+So whenever you want , you can check it back of course.
+
+So just for you to know , after this path ends during the path of the Dragon , I will do just nine connections , officially nine connections and nine posts. You wo n't be like now every day. It will be just nine throughout all this time of the path of the Dragon.
+
+So just for you to know that it wo n't be daily as we are doing now. But even though I will be , of course , doing some transmissions or some alignments or some posts that are besides those official nine that I have to do.
+
+So you just have to be paying attention to the social media and the blog because maybe one day I would say tomorrow I do an alignment or I do an explanation a video or whatever.
+
+So you will have to be paying attention to the social media to , so you do n't miss it. When you are doing the same thing , you will be informing about what day you will be going to do the posts and the transmissions that we are going to do in this next stage of the trip.
+
+So I am not sure what you will be doing. Also remember that in the fact days out of time , at the end of the year , I will inform all of you and it will be in the blog and everywhere , which days and from where will be the transmissions that I will do in this next stage of the trip.
+
+Okay , so do n't worry that you will have all that way before it happened.
+
+So also remember that we will , that I would be traveling.
+
+So sometimes I wo n't have any connection.
+
+So maybe I wo n't be able to post anything to share anything.
+
+So there would be moments in which I wo n't be there in the social media. And sometimes the days maybe can change because of the some changes in the trip.
+
+So I will keep you notified about that.
+
+So I am repeating , I am saying this , but in the next days I will be repeating sometimes with this.
+
+So we can start to get in in the mood of what is coming.
+
+Okay , so do n't worry.
+
+## Q&A
+
+So that August 22nd , which is the task for everything that we are going to do , that for everything that we have been coming doing every day. For this task , I wo n't have internet in the place where it will be.
+
+So I will not be able to do the alignment to guide the alignment , but we will do the transmission somehow.
+
+So all of us can be connected at the same time. And I will explain exactly how it 's going to be and everything.
+
+So we all can connect.
+
+So just to notify to all of you , , from August 14th , till August 27th , almost two weeks , I wo n't be in touch with anybody. I will be in the boat in the articotion and no communications , not even what 's up. I wo n't have anything in the boat.
+
+So , , I will disappear for those 14 days. And nobody will know anything about me. , and not even friends , no one , because I have no way to communicate anything. And the 22nd , August 22nd , is the day of our task all together.
+
+To align the North Pole with our task.
+
+So I will , I will , I will , , let everything ready for us to do the , the connection all together from the North Pole. But I wo n't be there to guide it.
+
+So you will have it , you will have to do it by yourself. But we will have , , we will , , , organize everything so we can be connected at the same moment.
+
+So do n't worry because I will let , , I will give you all the explanation of the task , what to do , what time , , how to do it and the music to do it and everything.
+
+So do n't worry that when this , , they finish , where I will give you all that information.
+
+So the most important day , which is the one to align everything that we have been doing , during the whole , the , the whole year , that day , I wo n't be.
+
+So you will have to do it by yourself to do the connection , I will do my , my thing in the North Pole. But you will have to do it alone. , so you will have to trust in yourselves. All connected and then.
+
+So remember that in 13 days , is the end of our year.
+
+So , , it is the new year.
+
+So the five days out of time are the celebration to begin the new year.
+
+So remember that this is not like saying goodbye and being sad because we are living this behind and and this daily connections that we have. But it 's starting a new thing.
+
+So we have to celebrate , , receiving all what it 's coming.
+
+So also remember that , , the five days out of time , I will explain , they by day , what are the tasks of the groups that will come in 2022.
+
+So even if you are part of already or you want to join and be part of them of this event in 2022 , remember that those days , I will be explaining what is going to do each one of the groups.
+
+So the group you are going to be part of.
+
+Okay. Perfect.
+
+So once and this , let 's go to the topic today , which is I 'm trying to go to straight to the topic.
+
+So the topic for today , rules.
+
+## Energy Work
+
+So regarding the roots. Roots has three main goals , , three main goals , which are stability at the first place , nutrition , sit in place and communication the third place. The roots of the tree work for stability because , , the root is the first thing that emerges from the seat.
+
+So it could go down and find , , and to grab into the soil into the ground.
+
+So the tree does n't move.
+
+So whatever happens outside , like , , we end earthquakes or , , flood or whatever , the tree stays straight and does n't move.
+
+So it holds the tree and the plants and , or to its position to the ground.
+
+So it does remove.
+
+So that 's why stability is basically to maintain the axis of what we spoke yesterday. And the second place , nutrition , nutrition would be because the roots has the tool , has the the goal of absorbing all the minerals and all the salts and water from the ground.
+
+So it could have , , all the inner organic materials that will be used on the branches and , , , the leaves through the photosynthesis to create the food , the nourishment of the tree.
+
+So , , so through this tiny little absorb , absorbing hair that the root has , they will tourism the whole tree , absorbing all these minerals. Like sink , nitrogen , , salt , , iron , and salt. , okay. And in the third place , communication because the roots , when they spread , they touch the roots of all the trees.
+
+So through that , they emit pulses that inform each one of the trees are informing the other ones what is happening around.
+
+So they use the roots as a way of communication , to lend the others the other trees know what is happening around. Yeah.
+
+So a forest kind of work like a brain. The forest kind of work like , , like a brain. When we talk about roots , , it 's connected to what yesterday was spoke about the axes that we have in our spine.
+
+So when the spine finished , , it 's where the roots start in our being , but they are invisible for us. For the trees , they are invisible also to our side because they are under the ground.
+
+So because they are below the limits of the ground , we do n't see them.
+
+So that means that the roots are hidden.
+
+So for us , those hidden roots is the past. All of this would be the past. In order to get the cooperation , we will go to understand the past of our , our hidden past related to the hidden roots of the tree.
+
+Remember that this is exactly as , , ally as the iceberg.
+
+Okay. The iceberg has one part above the water , which is the conscious and the other below the water , which is the unconscious.
+
+So here with the ground , we have the same. The upper part of the tree would be the conscious and all the roots under the earth will be the unconscious. Do n't mistake with the subconscious.
+
+Remember , the subconscious will be everything. The ground , the forest , everything that is around the tree. The unconscious is are the roots of the tree.
+
+Okay.
+
+So what it means that for a tree is all the hidden part that holds nutrition stability and communication and for us is the past in which we are seated.
+
+Okay.
+
+So we , , humans , our , our , , , we see it in our present , we see it in the basis of the past that are holding us for us are invisible. Let 's see , from the point of view of the unconscious , what this time the roots would be for us. One of the primary words is the media.
+
+So stability , the first stage , stability is for us , our past and the , the , the , the first of our past , because the past gives us stability. Why? Because sometimes we can think that the past is terrible and we have to forget the past because it 's , , many painful things happen. A lot of trauma , a lot of things happen , but actually , , whatever is happened in the past is affirming myself.
+
+How? Well , I can think that around the roots , we have different rocks that we can call , that we can call philosophy , religion , culture , tradition , ethics , morality , , whatever. We can , we can have many of those.
+
+So the roots basically are grabbed in these rocks through the past.
+
+So this means that every individual from my past has been grabbing one of those , , , principles of those stones that for me are really heavy , but because they have been grabbing into those deep and heavy stuff , I am able to go up.
+
+Remember that in this tree of life , I am a branch , rich in the sun , the light.
+
+So for me , from my point of view , , they here are like my darkness , because they are against me. They go looking for the shadow for the rocks when I 'm looking for something transcendental and , and light it. But actually , through the path of each one of these individuals in my history , , being grabbed to one tradition , being grabbed to one belief , to one religion , they hold that so tight that pattern , so tight that is because of them , that I have this stability in order to grow up.
+
+So is because of their past , is because of their readiness that I am able to seek the light.
+
+So when I changed the point of view of , , recognizing and honoring , honoring all the different individuals in my history that were attached to some patterns , I will recognize that each one of them were doing its own part to keep me stable in my own stability so I can reach the light.
+
+So that would be first to understand stability. When do we have a problem with stability? We have a problem with stability , when some of the branches they bend down to the ground and they start to create roots going down and rubbing one of the rocks.
+
+So in that state for sure you have seen some trees doing that , it 's like if one of the branches , like , wherever of you could lose its purpose of looking the light and bending down to the ground , pre-tunes to grab some of those rocks , some traditions , some culture philosophy , something that someone from the past have done and it 's already grabbing. But the people , these people have lost its purpose so it 's looking for the other one and in our unconscious actions , we start to do stuff exactly the same as our ancestors , repeating the same things , repeating the same patterns , the same actions , the same hobbies and all these kind of things because we have lost our own stability , our own purpose so we start to grab something on the ground because this what when happened this when the tree has lost its own stability so it starts to look for much more stability.
+
+So when you when you find your own purpose and stability you start to get disconnected from those roots you become aware of that and you start to create a new path towards the light which is your goal and in this process what have you done , you had n't eliminated the past , you had n't caught your roots in order to pour you to be free but you just have done was to disconnect yourself from that past but you are part of it still , the only thing that you have done is to look for your own purpose besides this one , you 're not eliminating the root , you 're just setting free this root this past to let do its job as it was meant to.
+
+So you start to do your own. It 's important to understand this because when we speak about therapies and so on we usually start to usually believe that in order to set ourselves free and to keep going we have to eliminate all this deep part and we have to to clean the history of our trees so we can move on but actually it 's not like that if you eliminate the trees you do n't have stability and the tree falls down. The real problem here is not how to clean the roots is why I lost my whole industry. It 's me the one that is pushing back again to a place that is not my own.
+
+Okay so I have to recognize and honor the stability that my ancestors are doing and so my ancestors are going to do their job to hold my back so I can do perfectly my own purpose.
+
+So it 's important to understand this because things to the trees we can understand the analogy of the importance of patterns and importance of some people in our tree , in our history being grabbed to beliefs to structures because if they are not grabbing holding those structures the entire tree falls down.
+
+So that 's why we needed some ancestors and people to be grabbed to those patterns so we can grow up to the light. The only problem here is when we are trying to grab the rock , the structure.
+
+Okay and instead of pushing to blossom we are just trying to grab something from the back. This is why looking backwards to the past is something that helps us to honor this stability that the ancestors are giving us so we can honor them , thank them because they are doing that so I can do my job properly.
+
+Okay so as I said the roots of our tree of light give us stability so we can grow up to the sky and we see the light doing our purpose. In the ground you have many minerals , many elements like water , nitrogen , carbon , iron.
+
+So you have many things here that are inorganic , that are just elements that you can not use them for yourself unless you have these processes for that.
+
+So you need for those elements to go through process and the roots what they do is to make a filter , absorbing the water and clean in the water so the tree can drink it better , absorb the iron so it can be processed and be inside the the fruits and the flowers so then it is helpful for our blood. They absorb the nitrogen and in order to consume the nitrogen that we need. It is thanks to a process that turns them into a fruit that we can consume it.
+
+So the roots are taking all the inner gantic that we kind of use naturally and they do a process of filter to turn them into something new which is organic and what we call food.
+
+So this that we can see from a plant we will look for it into our past.
+
+So looking into this as a human history we can nutrition in this way. Each one of these elements that I mentioned before here they are experiences for example immigration and invasion war or any conflict hunger , a draw and language whatever many things.
+
+So all these are things that happen that happen in environment and all the roots which means each one of our ancestors are absorbing that experiencing.
+
+So some ancestors live the war some ancestor lived the hunger some ancestor lived a new language some ancestor have to migrate. They had thousands of experiences and they absorb those experiences and they filter those experiences so we in the branches can receive it already filtered already processed.
+
+So we have that inside us an inner knowledge as an inner wisdom that is hidden in our unconscious and we call that gift. Those are our skills our gifts our abilities and all the things that we do n't know why we know them and we do n't know how we do them because it 's all filtered through their unconscious by the experiences that our ancestors have been living and we receive that as information. And in the communication what we can know is that throughout experiences that have been absorbed by our ancestors through millions of years the we gain the ability to exchange to share with others to create something new with others and you culture something 's essential.
+
+So we create civilizations that key to our transcendence which is connecting to one another being connected with others as a society.
+
+So all those things are not things that you have to learn through your life. Those are the things that are hidden inside your unconscious. They are there. You do n't have to learn them.
+
+They are just natural. It 's thanks to all these ancestors that we can be what we are and that we can start to build something towards the future. And for sure we have thousands of things that are hidden in our unconscious that we because of the trauma because of the conflict or whatever some fear we do n't let we are scared to show and we have no clue that we have them that we have those skills.
+
+So sometimes just are locked and if we open our unconscious we will discover then we have the skills to do something that we would never think about.
+
+So something we 're incredible to think about is that 70,000 years ago almost nothing , 70,000 years ago there was a volcano called Toba in Sumatra that exploded and it covered the whole planet in dust and ashes and it killed many plants in the planet. It started a glaciation and many creatures many animals have died and even humans were almost about being extinct. There were only around 5,000 humans in that moment left only 5,000.
+
+So what this means that this 5,000 people is only 5,000 people where spread along what is today China in the China India the Greatest Sun in which are the countries named Editing Sun Middle East and part of Africa. That is the only territory where these 5,000 people were spread and they started to migrate and this means that in the last 70,000 years all the million of humans , millions and billions of humans that exist today comes from exactly the same families of those 5,000 people.
+
+So basically since that time we all humans have the same fear the fear of the end of the world , fear to death , fear to the darkness , fear to the hell.
+
+So we all share that.
+
+So basically we all share this kind of memories , we all share this kind of fears and because of this we can understand that we are here in the present building future just because things to our ancestors we inherit many experiences that pushes forward. I hope that we understand now that is not that the past is pulling us back. But is that we as individuals we are holding the past because we are afraid. But if we honor and understand our history we would know that all the people from before were just doing everything to hold us so we can grow and move forward to find our purpose.
+
+## Daily Practice Elements
+
+So they in the post I wrote a little bit of wild things maybe we can do to connect with that history and to honor that history. The vibration today is Zh. The statement today is I am the vibration of creation. The goal today is the age of capital.
+
+Between the years , 1914 , 1770 and 21,620 By approximately the new civilization and the giants coexist in the Pulpit lands far away from humans that were mostly found in the warm areas of the planet. Still living in caverns , culture was linked to the mother and nature directly surviving the biggest predators. Let 's go to alignment. See the comfort level , close your eyes and concentrate in your breathing.
+
+I take you to the breath , becoming aware of my physical body. See theuo-ña You send imagination. I have served my feet. Thanks.
+
+Turn into words. And cold deep into the ground down to earth. Spending throughout the soil. I recognize for my feet my waist.
+
+## Energy Work
+
+Chest and back held the trunk of this tree emerges from the ground. For this roots. I invite the branches to stand for my arms and neck and head. I can take a seat with my pelvis and my senses.
+
+I leave flowers and grass. Spending all around. For my side my touch is now here in taste. I recognize my own tree of life.
+
+I recognize my own tree of life. I recognize my own tree of life. I bring my attention to my roots and my legs and feet. I become aware that in them I can feel one of my ancestors for the ground of history.
+
+I recognize my own tree of life. I can feel the receive. The old memories of the past are living inside of me in my unconscious. All the things that I can see that I can not be aware of.
+
+They need their within me. Each experience for my ancestors flourished me. Each matter can structure for my ancestors. I 'm holding stable here now.
+
+All these changes that my ancestors have done , and allow me to live in this society. I want to be the one who is from my ancestors that are given to me. I see it as the abilities that help me to build my future to reach for the light. I am the great legacy of my own.
+
+I am the legacy of my own. I recognize that each unconscious attitude I can turn it into unconscious action. For my own , the vibration of the Jesus. I am the vibration of the Jesus.
+
+I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus.
+
+I am the spirit of the Jesus. I see it. I am the spirit of the Jesus. I am the spirit of the Jesus.
+
+I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus.
+
+I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus.
+
+I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus.
+
+I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus.
+
+I am the spirit of the Jesus. I am the spirit of the Jesus. I am the spirit of the Jesus.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

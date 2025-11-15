@@ -1,0 +1,277 @@
+---
+title: "Day 364 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 364
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 364
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - energetic alignment
+  - consciousness work
+  - I AM presence
+  - breathing exercises
+  - month holding
+  - month hole
+
+---
+
+# Day 364 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hi everyone , the morning , the afternoon , the evening. I hope this finds well.
+
+Today is the day of Mother Earth , the day of Pachamama , mostly in the Indian cultures.
+
+Today is celebrated everything that Earth does for us.
+
+So usually we give some gifts , offers to Mother Earth in this day.
+
+So whoever wants to make an offering to put some food , some gifts for Mother Earth on the ground , you 're welcome and they 're for sure thousands of people celebrating today , Pachamama.
+
+So today is the day of time related to the element of ether. I remind you that every day I am rehearsing the concept of why we are celebrating this day 's out of time. Let 's remember that this day 's out of time , we are celebrating them because we are following a specific calendar. Because the Earth is rounded and we give a turn in an elliptical shape around the sun.
+
+It 's impossible for us to determine a specific moment where the ear begins and the ear ends. That day ends and the day begins. It 's impossible to determine that because there 's no beginning point.
+
+So that 's why depending on the culture , we started to choose some moments , astrological moments that could show us where to count the days or when to start to make accounting.
+
+So that 's why depending on the perception of each culture , the days would be different. For the times that most of the ancient cultures used to use in order to determine the beginning and the end of the year are the solstice and equinox.
+
+Remember , an equinox is equilibrary. That 's the word.
+
+So equinox is the moment when the Earth is equilibrated according to the sun.
+
+So we see the same perception of the sun in both hemisphere. That 's the equinox is equilibrary. And the solstice means the sun is staying.
+
+So solstice is the moment when you see the sun rising up in the same precise moment. And it looks like it 's still all the time. And then it moves backwards or forwards according to the perception of where you leave.
+
+So those days are called solstice because the sun is still in the same place and then starts to move again.
+
+So that 's why these are the four moments in the year that can be taken as points of beginning for points of end.
+
+Some other cultures we used to take serious or are too loose as a moment of the game. But we all choose serious because it 's the brightest star in the sky. It 's the brightest one , the closest one to us. And also it 's the star that can be seen from the south and the north because it 's a tropical star.
+
+Whatever you are , you can see that star appearing and disappearing every six months. When serious disappears in the horizon , it means that something is ending when it appears is something starting. That 's why it 's the beginning of the year. But that star appears in different days according to the latitude.
+
+So depending on the latitude you leave , you will start the year before or after.
+
+Okay , so that 's the problem of leaving that giant ball. Because the year can start in any moment according to when the star appears in which latitude. We have to pick a specific latitude related to our year , our path of consciousness. But because all information is being guided by the Egyptian territory and a lancet territory.
+
+## Practice Structure
+
+This means that we are going to work with the year starting in August 4 , which is the 31 and 33 latitude north related to Egypt and the Mediterranean. The territory of the lancet civilization that had spread and created the pyramids.
+
+So because our whole path was in Egypt in the pyramids , we took the beginning of our conscious year. Related to the territory of the pyramids.
+
+Okay , that 's why we begin the year August 4. The physical sphere that we understand the physical sphere , we can also understand that we have an a theoretical one a subtitle sphere that is called time. From that moment of its fourth and on , we have 360 days. This 360 days are the 360 degrees of the sphere.
+
+We have the physical 360 degrees and the submit related to time 360 degrees , which we call days.
+
+So 360 days of the year. That whole year will give us 12 months of 30 days each. After you did the whole 360 degrees of the path , you will find out that in this planet we have five days more , kind of five days. These five days are sometimes four , sometimes five.
+
+They are shorter or larger because nobody exactly knows how they work.
+
+So the ancient one decided that those days are out of time. And these days out of time are perfect.
+
+So we could create an intention for the new cycle.
+
+Okay , so it 's a celebration time.
+
+So this is why from the year of consciousness that we took together , we are starting to celebrate every year the five days out of time.
+
+Okay , so we put the intention for the projects and things to come. How do we integrate , what are we doing , how do we celebrate these five days by integrating the information of the whole year.
+
+Okay , we put that information together into the five elements that encode the whole year. Fire , air , ether , water and air.
+
+So today is a weird day because this , this , this , this day ether is not related to any of the information of the month , but it is the seed of the information of each month.
+
+So the ether is basically the essence of each one of the topics , each one of the concepts that we have been working with during the whole time during the whole year.
+
+So in order to understand this , let 's remember what is ether. Let 's remember what is ether. Ether comes from the word , ether that is an alcohol , it 's like kind of an alcohol that was used a few centuries ago to take the essence of something like for example to make it perfume.
+
+Okay , so you put the flowers in the ether and you take the essence of the plant , so you have the perfume of the flower.
+
+So people use this ether as a way to take the essence of the things , whatever.
+
+So with the time , the name of that alcohol became a way in which we could , we could say essence of something.
+
+So we could describe the essence of a flower by saying the ether of the flower.
+
+So when we say the ether is like saying the perfume of this specific flower.
+
+So with the time we started to use ether as a way to describe the essence of things. Passing the essence of the flower. When we go to the flower , the ether begins to describe what is not known that only it can be felt , the meaning of the Spirit , the soul , the emotion.
+
+So once we got much more philosophical , the word ether started to describe the essence of people of things that you can not touch , but you can just feel like a soul and emotion , the Spirit itself.
+
+So with the time , the word ether that alcohol became the way in which we could explain the essence of things. The things that make possible for things to exist , but you can not feel it. You can not see it , you can not touch it. It 's just something that you can just perceive.
+
+So the ether always existed as a concept. Even if the name is new , relatively new. The concept of ether came from alchemy in history and it was called the quintessence. The quintessence is basically we had four essence that we ate everything , earth , fire , water and air.
+
+The four main and people in the ancient times they call the quintessence , the fifth essence. To that thing that you can not see , you can not perceive , but that allows the other four to manifest.
+
+So it exists.
+
+So that 's the quintessence , that 's the fifth essence that today we call the ether. Because it takes the perfume of things.
+
+So when we are talking about ether is basically the things that give meaning sense to the things.
+
+So when we talk about ethereal reality , when we talk about the ether , it 's not something that is so subtle that you can not touch it and it 's outside.
+
+Something from the spiritual realm. Actually , we are talking about the essence that allows me to exist.
+
+So it 's basically the main essence that gives meaning and movement to the atoms , to the tiny particles of existence.
+
+So it 's because of ether that my body exists. It 's not something outside that is floating around and we can not touch or perceive. It 's basically what makes us exist , what makes us be. If we take the image of the tree of life , a tree that contains the whole entire universe , we can understand that the essence of the whole tree is in code.
+
+The tree is encoded in the seed.
+
+So the tiny seed has the whole potential to become the entire tree. This is why we can relate the ether with the seed of creation. Also , as you might see , we relate the ether with the author ether and whoever is following the platonic , the platonic geometry , the geometry , usually this structure is related to air. But we are following the transient tradition that says that the ether is basically the seed and the author ether is the seed encoded inside the whole structure of geometry.
+
+So if we put together all the structure of geometry , we find the author ether in the core , not outside.
+
+So that 's why that 's why for the perception of the plant and tradition , the ether is the author ether. And this is related with the very logical order in perception of things. For the transient tradition , the ether is not something that is spread in the skies. The ether is basically that essence that is so tiny that is within and makes us exist to be.
+
+This perception is related to for the planting , the essence is inside the essence of things is within the core of the structure. But from the point of view of Greek , the essence is outside is in the skies , in the drones of the stars.
+
+So that 's why the author hydrogen , which is in the core for the planting , is the essence. And for the Greek , it 's outside which is like the hyposehidron , the outside is the loss of the structures holding everything. Because they related with the skies.
+
+So this is kind of the explanation of why the author hydrogen is related with the ether in the plantain tradition. And why for the Greeks is the outer aspect , which is the the daughter of the ether.
+
+So that 's why today in the alignment , what we are going to do is to bring all these concepts of the universe , this essence around the universe and to find it out. Within ourselves and anchor that in the essence that we have in our course.
+
+So that 's why today is the day in the middle of the of the five days. Because we are going to bring all information of the 360 days towards us becoming this tree of life that I explained and going back to the seed which is inside.
+
+So before we start with the alignment , I want to share with you these three things that I am saying every day because I am willing to manifest to sow this concept for the next year to come.
+
+So the first thing to say is remember that those who subscribe for the fire group before this August 4th.
+
+So everyone who has been subscribed and those who are subscribed right now for the fire group. In our event in Argentina in November , you will be able to participate in the cost of the mission. In the planting cost of the worship that I will give the day August 13th.
+
+So the second thing that I wanted to remind you all is that those who has subscribed for Egypt that went physically to Egypt and those who will come physically to Argentina either both or both of the same or both you have been here in Egypt and will be in Argentina both physically or just in Egypt or just in Argentina. And you are part of fire on water group only those fire on water group.
+
+So you will participate of the Arslan capacity that we will give in 2023.
+
+Okay , so everyone who has gone to those two events and that has had the most intense activities in those events will be part of this Arslan capacity for 2020.
+
+So that 's the second thing. The third thing that I want to share with all of you and much more today because it 's ether and we want to manifest this seed is that we are trying to put in order the idea of a university. We are creating manifest in the university called enters.
+
+So the enters university will start apparently in 2024 if everything goes fine. And the idea of this university is to put together all the contents that we have been talking about in 2020 and 2001 in the IPA.
+
+So not only need teaching but a lot of people teaching many topics that has been related to the content of the MP.
+
+So you can have it all the order and be able to prepare yourself to also work with others and to share with others the information.
+
+So we can capacity more people into the aware and to work for on to pressing the future.
+
+So the idea of this university is to prepare all of us into the concepts of on to crazy and to prepare a lot of contents.
+
+So we could work for a system in the future related to on to pressing. The other thing that I wanted to share related to this is that we are going to name all those who have gone physically to Egypt and Argentina of the four groups. Water , air , fire and earth. The four groups will be named seed founders of this university.
+
+So the idea is for everyone to be named as a part of those who have made possible for us to work in all this to manifest all this.
+
+So we want to make you part of this.
+
+So you will become the seed founders and your name will be there as a founder and you will have a membership to go some courses in the university.
+
+So that 's something that I wanted to share with all of you.
+
+So and also I have to thank you all this without your presence , without all the people that is going physically to the event. We would n't be able to work and make this possible.
+
+So thank you very much.
+
+## Q&A
+
+So I know there are many people asking why ether is not included into this and the reason is very simple. We need money to do this because we have like 20 people working , we have an infrastructure to work with. We dedicate all time to do all this.
+
+So we do n't work of other things and then we do this in our free time. We do full time these things.
+
+So it 's because of the people that assist to the events that pays for the events. Those who help us to maintain all this. That 's why we are naming them the seed founders because they are putting their energy in the physical energy in order for us to be able to do this. And of course ether is free , not free in mind , free online.
+
+So we have no clue who are the people that are watching what we are doing in the gathering.
+
+So we do n't have a specific following of who they are , which is no numbers.
+
+Okay , so that 's why it 's difficult to name all the people that are in ether. But of course when the university is ready , you will ether group will be able to access online too to ever. But we have to work on this. Let 's begin with the element.
+
+Large. La Math. All at all. Hello.
+
+Everyone.
+
+So remember that we will put the intention to connect with the ether , which is the essence of things. Look for a comfortable position. We concentrate now our breathing. And softly we close our eyes.
+
+I 've become aware of each breath. The air entering my lungs. I become aware of the oxygen in my lungs coming into my body through the water of my blood. I become aware of how this oxygen tourism with energy.
+
+Myself 's physical body. I take a deep breath and become aware of how this energy activates the first first. The phosphorus in my NA chain , igniting the inner fire. Everything just with a simple breath.
+
+The air in my lungs , the water in my veins , my blood. The air in my cells. The fire in my NA. The four elements in me.
+
+United in just one breathing. I become aware that all the spiritual realm is encoded and just this action. I am a spirit that inspires. Then expires.
+
+And continue by requiring. Be a spirit. He 's to respite. Once and again.
+
+## Guided Meditation
+
+As I breathe the light and the air. Art to feel how the entire universe connects to me. The rest of my life. Every atom in this universe enters me.
+
+And exits me. The same air I have in my lungs is the same air that fills the atmosphere of this world. When I breathe. I breathe the air of the entire world.
+
+The oxygen flowing in my blood through my veins. It 's the same oxygen that fills up every river , sea and ocean , lake and lagoon. Every cell in my body is the physical aspect , the fractal of every tree , rock , crystal , and and animal in this world. And every living being moves transformed itself evolves due to the fire that lives in the double hlist , the Kundalini that ignites inside of every living being of every one of myself.
+
+I am just another fruit. Another seed in this huge tree. This huge net that is connected to the entire existence. And I recognize that the planet Earth is a cell inside the body of the galaxy.
+
+And the galaxy is a cell in the body of the universe. And the universe is a cell in the body of the cosmos. Take a deep breath. Very softly.
+
+Smooth. Start to move your hands like crazy in the air. Feel every movement. Assume your hands.
+
+Become aware that while you move yourself , you are moving the world. The galaxy from the universe. Take a deep breath and open yourself to receive the essence of the entire cosmos. Receiving the colors.
+
+The fragments. The perfume of each existence. This feeling , this essence , is the one that allowed. And galaxy to turn into a skull.
+
+A sun to become a flower. A seed to become a world. It is the essence that allows everything to evolve and transform and become anything. Recognize that the cosmos needs to be you.
+
+The divine consciousness manifests my body. This is the essence of the quintessence. The ability to transform into anything to become to live the dream. I am a seed of the cosmic tree with the inner potential of becoming myself a universe.
+
+I am the 360 degrees of the sphere. I am the core and the crust. I am heaven and earth. I am the light and the shadows.
+
+I am the north and the south. I am the water. And the earth. And the fire and the air.
+
+And feminine and masculine. And life and death. I am the eternal and the finite. I am the alpha and omega.
+
+I am I and am. I am. Eater. Take a deep breath.
+
+Softly. We start to stretch the body to move. To carry us. Part of the body coming back here now.
+
+Warning. And we open our eyes. And we are ready. Thank you everybody for another day.
+
+Thank you. See you tomorrow. To integrate the energy of the water.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

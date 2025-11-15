@@ -1,0 +1,306 @@
+---
+title: "Day 317 - I Can - Personal Power"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 317
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 317
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month holding
+  - month hologists
+  - month hold
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 317 - I Can - Personal Power
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening. How are you?
+
+So , let 's just see today , I guess , I can back to formality again , wherever it is formality.
+
+So , yesterday , I hope you enjoyed yesterday. We really , it was really improvised yesterday. We just talked five minutes before in order to , how to start with it , but that was the main idea. But then it was all improvised.
+
+We were just feeling what was happening , and I was just describing what was happening.
+
+So , I hope you got it and you enjoyed it.
+
+So , I want to take the idea back for something that I wrote in post yesterday , which was regarding polarity , and is that we have to remember that we are all bipolar and a bit schizophrenic by nature. We all have that thing inside of us , and it 's natural perception of a human being that allows us to adapt to different people to different environments.
+
+So , it 's kind of useful for us to be open and adaptable to any environment. Also , to say that our cultures , our religions , our morality , ethics , makes us whole by logic , all this inner power of personality , of expansion of personality , because we have to adapt and to be accepted.
+
+So , that 's why usually in our daily life , we kind of control that by mind , so they do n't express outside. When we have to remember to that all the emotions that we usually hold back by logic are a product of hormones. And hormones are created in the glands. And if one of the glands does n't work correctly , so we do n't know how to handle how to manage our emotions.
+
+So , that 's why the natural concept of polarity and schizophrenia that we all have gets a little bit weird , and we do n't know how to handle them. And it starts to create what we call a disease.
+
+So , this is why when we listen about polarity or schizophrenia , we usually relate that with a disease.
+
+So , whenever we have a problem in our hormones , in our glands , we can not control what we have for them.
+
+So , that 's why it becomes kind of the disease , because the hormones start to make the neurons crazy. They do n't know how to handle the data information.
+
+So , that 's why we start to produce this kind of conflict within.
+
+So , this is how it becomes a disease. This is how we do n't know how to handle , but actually the real conflict here is not by polarity or schizophrenia. The real conflict here is not knowing how to handle it. When we speak about this disease , I would invite you to not think about it as a disease , because basically schizophrenia , autism , polarity.
+
+We are kind of the things , the natural things that we have inside our mind , that open the mind of a humanity.
+
+So , throughout the history of humanity , this kind of crazy people , where the ones that changed the point of view , the ideas of what we were doing , and what helps us to evolve. It shows us different things that the others , the rest , could n't see.
+
+So , that 's why it 's not something negative , it 's not something that. What really happened is that some people can not handle or control the emotions that they have within when they start to experience in that. Why? Because maybe they have some trauma in their families , they have some weird relationships that await many bad perceptions of the world , but also through what they are eating , what they inherited by genetics.
+
+So , all these kind of disorders that we can have throughout our lives , makes us unable to handle what we have within.
+
+So , do n't think about it as a disease , think about it as a disorder of the inner power.
+
+Another thing to remember , well , connected to this is that we should not treat these kind of diseases , or sorry , this is not disorders , as an illness that you have to to mediate. Because usually we start to make this judgment that if someone has schizophrenia or someone has a DD or something like that , immediately we start to think that we have to control them to send them to a hospital or something like this. But actually , the first stages of this disorders are the moments when we do n't need medication , we need support. We need people holding our emotions , helping us to deal with the emotions , trying to handle them through our thoughts or many other things.
+
+So , it 's important to see that is a process in our life is not something that defines a person. It 's just a process that someone is going through. It 's important to know that if a person is not a company is not helped when has this kind of problems or diseases , this kind of disorders and you treat them like AfDs , so the person will start to think , the body will start to think that is sick.
+
+So we will keep that disease constantly once and again. Important to know that if you help the person that has mental disorder , it can become a gift because throughout history , all these great people that has been artists or changed history or gave us a humanity very important things , they had this kind of weird way of thinking and opening the minds.
+
+So , somehow they knew how to handle it.
+
+So , when we help or give the space for these people to know how to handle their way of thinking , their way of understanding the world , they can become genius , they can become really gifted people. Important to know about this , do n't qualify or classify the mental illness like if they are all the same. Like for example , someone has schizophrenia and schizophrenia is all like that. It 's not like this , everyone is unique.
+
+So each one of the persons has a different way of acknowledging their own process.
+
+So , so we have to remember that there are many stages in each one of them of these disorders. Like there are schizophrenia people that can live with schizophrenia , their whole life and you wo n't even notice that and they will be using that for arts and creativity and they can live with that properly , no problem. And there are some other stages like four or five that they can hurt someone or they can hurt themselves.
+
+So , having the illusions and someone and so on.
+
+So , we have to remember that we can not say they are all the same , okay? Each person is unique and we have to be sensitive when there are people like this that they need their space , not to touch them , not to not to invade them. Like pushing them to feel better or pushing them to do what others are doing. We have to respect their time , their process , their space is very important in order to for them to handle their own emotions because remember that besides that is a mental issue.
+
+Mainly is related to the emotional issues , okay?
+
+So , I would recommend you , of course , to look for information about this kind of disorders to know specifically much more about each one of these topics , because for sure there are many , but also remember , recognize that we should not treat this as a disease as an illness , okay? We should treat this as a different point of view as a person that is trying to know a different way of how they can see the world.
+
+So , we have to respect this process from which we can take some benefit from it , maybe to take some goals to find a way for it to be useful for their lives. Because if we treat them like if they are sick , ill , we just take them away from maybe their opportunities to share it to do their part in the society. They help us to see another perspective.
+
+So , just as an own experience , I would like to say , I have been through many processes of autism when I was a child. I have been through that. And I can tell how it is to feel being that and treated like that. And for example , even today , I can relate a lot with autistic people.
+
+When I have the opportunity to be in the same place with autistic people , I feel like at home , like quite an in the center. And eventually what would happen to me was going through all this process of trying to understand if I was crazy , if I was imagine in everything. And to be really in that position , okay? And things to my mom , my family , friends and the people that were around me , and of course also the beings from other dimensions that helped me a lot in this.
+
+And it was kind of able to , I was able to be present here now. And to be like kind of normal , let 's say , like live in a normal life , like society says , because I was able to handle my emotions to not be grabbed by the inner world. To do with me , whatever it wanted , but for me to be the ruler of my own existence.
+
+So I can say that I have lived periods of my life that I felt that I was schizophrenic. And but it was due to the center of my emotions that I was able to explain this and to get out from that stage.
+
+So this is why for me , it 's not something that we can call a disease and illness that you have to take care of or you have to heal. For me , it 's much more like a process that we all go through. And some of us get away from it. We transcend that process and some others can not , and they just go through that even worst.
+
+It 's a process.
+
+So I will now we are speaking about this , about this story and I want to share something that happened to me and a personal story that is a long story , but I will try to make it short. I was studying in Rio Guadalupe , which is a city in Argentina. I was studying pedagogy , studying pedagogy for school for teaching. Well , I was there.
+
+Here comes one day that one of my guides come during the class and they said to me , you have to leave the university because we have only five months until your mission starts. And I was like , I 'm not leaving the university because I have to finish and have a degree title for education. And they said , no , you should n't. You just had to have this experience , but now you have to go somewhere else.
+
+## Q&A
+
+And I was arguing with them saying , no , I 'm not leaving because in this world , if I do n't have a paper that says you are allowed to teach , nobody will. Will ask me to teach anything. I wo n't be able to work in schools. And so I was fighting with them about that.
+
+And they said , we only have this five months. And of course they were right because five months after everything happened for me to be doing the first Congress of education and someone fell me and uploaded in YouTube.
+
+So I am here because of that basically.
+
+So yeah.
+
+So because I denied myself.
+
+So suddenly all the things came up to me and I started to channel in sociology class.
+
+So I was channeling and suddenly I just fell down in the floor and started to consolation and to write and speak about pyramids and stuff.
+
+So of course that , of course that someone came and they took me to the mental hospital of Lyokwartu.
+
+So I went there.
+
+So the the psychologists that was bringing me to the mental hospital was had a necklace with anus , which is the god of death.
+
+So I was thinking like , okay , this is the moment of death for me , of course.
+
+So the the funny thing that happened at that moment was that when they opened the door of the psychiatrist , the mental health , they the the first person that came with the schizophrenia was an internal there in the hospital. And and he said like you have come you have come you have been born.
+
+So it was not because he knew me from videos he remembered me from other dimension. And so so actually we were we remember each other and he was remembered me so the doctors there had no clue what was happening because we were talking from other levels and dimensions that we were talking about the same.
+
+So yeah , I was there just one day , only one day , but it was enough to understand how bad. The mental health system treats the people that are going through a very deep inner process. The weird thing that happens is that once you get inside , you put a step inside of this institution , you stop being an individual , you stop being a person , you are not treated like a human anymore. And you are treated like a mental sick.
+
+They took me the phone , the communication with the outside , they did n't allow me to communicate with my mom to tell them to tell her where I was.
+
+So I 'm not saying with this that all mental institutions are like this. For sure there are many people that are really lovely with and caring with the people that the internal. They are very good people treating them. But what I am saying is about the entire system , which instead of treating you as a person in a process , treat you as a person without a cease.
+
+What I am saying is that there is a lot of people in this kind of institutions that are just people in the process of awakening , that they just needed someone to help them to go through this process. And they are not , they are still there.
+
+So I just wanted to share this today because perhaps eventually some people would say that what happened yesterday was a lack of respect for all the people that are living in this kind of situations. But as you see , we did that because I lived that situation. I was there and I know how it is to be in that situation.
+
+So that 's why instead of treating it like a deceased like something heavy , I just wanted to honor the beauty of being crazy. The gift that sometimes it is. And regarding this concept today , we have appearance. A appearance about how do I look?
+
+What should I do to be accepted? It is supposed to be or how I think that things are supposed to be appearance , which is kind of the greatest bad things from our time.
+
+So we can understand a appearance of something very schematic in our evolution in two different ways. One of the ways is to be accepted by the group to be similar to the others. And the other hand , to survive in between the others , in between other beings.
+
+So appearance was really good for us to be old families , for us to be old societies , cultures , many things. Because it was useful for us to be accepted by the others.
+
+So that 's why we started to dress like the others. We started to use the same colors. We started to kind of be similar to one another.
+
+So we could be accepted by others. The other hand , appearance is helpful for survival. Because to be similar to a leaf to a tree , it helps me for the predators not to find me. Also , if I try to dress up like my enemies , I can survive and they want to kill me.
+
+So basically , the side of survival is the one that helps me to find food that also not to become food.
+
+So as you see , sometimes emotionally , some people dress up with a specific fashion.
+
+So they could survive because perhaps the fashion makes them stronger when in reality they are very weak inside within.
+
+So the appearance of something can help us to feel stronger in moments that maybe we are very weak.
+
+So through thousands of years , we humans have been evolving throughout appearances. And this is why in our daily life , today , we still judge the world through appearances. We understand the reality by how the things look like.
+
+So we can judge the world of appearances because it 's something useful for survival to understand the environment and so on. It 's good.
+
+So the problem is when we start to look within , when we start to figure out our inner world. Because in that moment , we start to see the reality in a very different way.
+
+So appearances just ca n't help us to see the truth within.
+
+So we have to start to think about two different point of view of appearances. The outer point of view that are judging what we are according to appearances. And the inner point of view that takes us to judge the outside according to our own point of view.
+
+So from the inner point of view , we use to judge others. We use to tell how things should be. For example , I can be here judging religion. Like religious people is all wrong because they are lost and they are controlled and all these kinds of things.
+
+And religion is something terrible for us and blah blah.
+
+So maybe I wo n't , I wo n't for them to know that what they are doing is wrong and so on. But then I go to mediate and for the people that falls a religion , we are doing it wrong. We are not doing it right. Because the same concept that we have from day praying is the same concept that they have from us mediating.
+
+So actually , we are all the time judging others , not acknowledging that we also do the same all the time. And from the point of view from the outside , we can see a lot of people like it happens to me all the time. When people say , you are not a really spiritual person because you do n't have humility and you leave like greater and to be spiritually something different , much more about being whatever. And it 's not , it 's just an expectation from the inner world from how things should appear should be.
+
+Of course that sometimes we have a pattern of belief inside of how things should be how they should look like. In order for us to accept them , so if they are not as we perceive them as we expect for them to be , so we ca n't identify them as wrong. But something bad. Just because of our own perception , not because they should be like that.
+
+For example , myself here , maybe I can say that to be a muslim is wrong or to go to the musk is wrong because in my mind I can relate Islam with bad things maybe because I saw it in the To.
+
+So I can put Islam in the same box for everyone. I do n't know. No.
+
+So we are judging people for our own expectation and beliefs about this. Like , why spirituality is about being poor? This is something from the Roman times. Who told you that to be spiritual is to be poor?
+
+Why rich people can not be spiritual? It 's all beliefs.
+
+So we are putting beliefs upon another belief. Once and again , all the time. Judging everything through appearances and never the content of it.
+
+So this is why we have to recognize that it does n't matter. How do I look? It does n't matter if I am wearing a pink t-shirt or blue t-shirt. It does n't matter if I am wearing a hat.
+
+It does n't matter if I have my hair caught or my hair long. It really does n't matter if I eat fish or I eat lettuce. It 's all appearances. And eventually it will come up all these things that can tell this is good and this is bad or no.
+
+When you eat this is wrong and no. Because I am again imposing something to the other one about what is good and what is wrong. It 's one self. The only one that has to know what is wrong and what is good for your own self.
+
+So for example , myself , if you put meat or lettuce and vegetables , I will choose the vegetables. Because I want it at that animal. But that 's my choice. This is my choice to not do so.
+
+But I can not push the other one to say that it is wrong what they are doing. Because they do n't know yet. They were n't able to make the decision. And here comes appearances when we try to fit.
+
+So the new spiritual people say I am vegan.
+
+So I am vegan because the other ones are vegan so you do n't want to be judged.
+
+So you eat like the others and then you go where you are self alone and eat a hamburger with guilt. That 's not spirituality. That 's like an animal thinking to be accepted for not to die.
+
+So appearances are not about thing. Appearance is something natural. It 's good. It 's fine.
+
+It does n't matter. It 's something that we as humanity share and it was a two-fribe illusion. But what we have to think about is that when we become the inner path of coherence of understanding ourselves. When we go through is the process of I find understanding that we do n't need to be like others.
+
+That I have to be myself. My own self.
+
+So I do n't need appearance anymore. I have to connect with my own inner world. And I will give another advice for something that I am just watching here in the chat. The thing that I wanted to say is that the thing of the food that I said was just an example.
+
+It was not the main topic.
+
+So it would be good for us to learn to listen beyond the works.
+
+So understand that there is much more than a personal thing from the appearance of the example.
+
+So eventually turn out to be like something about food when it 's not. It was just an example.
+
+So just as an advice to not to lose energy when it 's needed to do the process inside to understand the concept before trying to make.
+
+Some point of you of topics that are not where we are speaking right now. And the last thing to say today is that appearances comes through skin. Because the skin is basically. Appearances is basically the shell that we show to the world.
+
+What we are.
+
+So throughout millions of years appearances were designed mainly to reproduce.
+
+So appearances were used in sexual energy. As any animal , any one of us , the tone of our skin , the shapes of our bodies , the movements , everything that we do. I related to make a pair of someone to put us in pairs. That is the same origin of the word appear.
+
+Appearance is to be in pairs. Which means I have to look like something to show my genetics to the other ones.
+
+So I can match with someone to reproduce. This is why we waste a lot of sexual energy in trying to look like something to attract the other one.
+
+So if we want to change in a conscious way , we have to recognize that sexuality is not in a consciousness. It 's not about the other. It 's about how I use my own sexual energy to set myself free from appearances.
+
+So that 's the sexual energy we have to work with. I spoke a little bit more because I took some things from yesterday , from the start of the day. The vibration for today is so. The goal today is empathy and apathy.
+
+The higher heart of the time in Scotland is where the energy that connects us to the rest of the living being is centered. The vibrational waves that are radiated from the pulses of this center has its popularity in the signs and cones that represent the emotion of empathy and apathy. Empathy is the positive ability of feeling that the other feels what the other feels. Of placing oneself in someone else 's shoes and being a conditional one with the others.
+
+Meanwhile , apathy is the negative aspect that prevents me from feeling what the other feels. The dozen led me put myself into other 's place and set conditions in the connection to the environment. We are not feeling it , we only want to concentrate if we focus it on consciousness , comfort and focus on the changed systems. I decided to take a deep breath.
+
+I started to become aware of each part of my body. For my feet going through my legs , spine , back , hands , arms , neck. And hand. And I started to move every joint , softly , carries me.
+
+We 're coming aware of the energy that is moving around the body. I 'm young. And I 'm going to take a deep breath. And take a deep breath.
+
+## Guided Meditation
+
+I now visualized myself thinking in my day , laying down in bed , waking up , sitting all the tension to start this day. This day is very important this unique. Because today you will go out from your house to find that person that you have been for years to look before. And you have to get ready to pair for that region.
+
+So you have to think very carefully how are you going to go out. Think about the clothes you are looking for , about the accessories. If you watch yourself in the mirror , you 're ready to go out. They can only recognize that all of these things that you are using are related to your appearances.
+
+Who wants to control your life , watch them without judgement or become aware of them. Recognize which thoughts and ideas you decide to bring out them , which emotions you want to show. Recognize all of them. And which thoughts are you willing to share.
+
+Recognize all of their appearances. Recognize all of them. Recognize all of them. And the Bubble think now about the energy that I am searching for this encounter.
+
+And what is the energy that I am searching for to come to express this region. What I am looking for. This energy , this intention and purchase throughout all my skin. I recognize that this energy that I feel in my skin is my sexual energy that sets the intention to present myself to the other one.
+
+To show that I am here , that to pair my body to be seen. Without thinking and genitals , I just want to be sexual energy in the end. I recognize that all the appearances that I have lived were the tools to put parents up for this meeting. And I see in front of me that the person I was looking for , there was myself , so I present all their appearances to my home itself.
+
+To show that I am here. To show that I am here. To show that I am here. To show that I am here.
+
+To show that I am here. To show that I am here. To show that I am a sexual energy. I am a sexual energy.
+
+I take it to the bread. I think I feel. I take it to the bread and it 's one time I come back here. Thank you everybody for being here.
+
+See you tomorrow.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

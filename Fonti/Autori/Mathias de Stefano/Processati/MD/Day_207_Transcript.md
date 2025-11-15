@@ -1,0 +1,270 @@
+---
+title: "Day 207 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 207
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 207
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - month hold
+  - month holds
+  - month hole
+
+practice_elements:
+  chakra: "Root"
+
+---
+
+# Day 207 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Root`
+
+## Introduction
+
+Hello everybody , how are you? Good morning , good afternoon. Good evening to everyone. Welcome all of you to our day related to the root chara in the physical week of the month of queries.
+
+Today our topic is the planet Mars.
+
+So let 's go into this because I have the feeling that there 's so much to speak about it , even if I do n't want to speak a lot.
+
+So I think that.
+
+So just if I forget something , I invite you all to see the post of today in the blog , your site , the red. Just to tell you , please join a lot right in this post today because I discovered so many things that I had no idea about Mars , and also was really , like I discovered many things about the meaning of this planet that I did n't expect to.
+
+## Q&A
+
+So as always , we will start with the energy of this , of the name of this planet , trying to understand why was so important for the people , the past , what it meant for them in order to name a plot with this name. Here I am with my amazing solar system. Just before we start , I just wanted to mention something to all that I have been thinking this day , but acknowledging this day , but that the process of Mars today , even if it is much more about anger and so on , makes me understand , made me understood , before we start , I say , I hate to say this , that sometimes speaking about the anger of this planet of Mars , I must be sincere with all of you , that sometimes I feel like this teacher that I experienced in my classrooms , when I was younger , this teacher said , I can understand those that sometimes , they are really , really tired when they listen to someone asking a question that is out of the topic that the teacher is saying , or people are talking and bothering their rest in the class , and this means that those first-time say is shut up , and they want to throw this on the face of the children. Moments , I have them , and I have to admit that , to be sincere saying that it happens many times , even if you do n't have , it happens many times.
+
+And I relate this with my , of course with my own things that I did n't work myself , but as I see sometimes , like those teachers in us that they lose their patients , when they are teaching and so on , it happens to me too , of course many times. But today talking about Mars and all of these things , I just realized , and really important for me , that since I was six years old , I always was imagined myself , giving classes , teaching in a school , to kids , to teenager , I always loved to be a teacher , to be with a board and explain things and so on. And even if I do n't see your faces now , we are not the next. I must admit that I am really thankful to all of you because I am that , what I wished all my life , which was teaching , which was explain things to people.
+
+So I really appreciate that you are here every day , listening to what I have to say , because I really love teaching and well , because of you that I am doing this every day.
+
+So thank you.
+
+So of course that what bothers me in the class , with the students is something that I have to analyze , why it affects me. But as a teacher , I have to say , sometimes respect your partners. And that 's it. I 'm not saying that I 'm that the board of the earth.
+
+No , it 's not bothering. It 's even it 's funny. I 'm not bothered by that. I 'm just saying about it , big other things that kind of disconserve me.
+
+That 's it. Mars.
+
+So Mars , the name of a god , but the name comes from the trusted , slash in Italy and was ladies and ladies comes from , in some way comes from morris , which is to live in a place and more aid. It 's in place.
+
+Okay , now let 's go into the origin of humanity to understand why the god of war is named to live in one place. This began when the humans were not , this means that they were traveling all around the territory and they were eating things and eating things and grabbing things and then they left.
+
+So they were leaving every place and they were just eating , drinking and taking what they needed and they just go away.
+
+Okay , so nothing really belonged to them because they were just taking what they needed. But there was a moment when they discovered agriculture that they started to use the land for their own purposes all the time. This land belongs to me now. This land is something that is for my own.
+
+I built a house , a link here now so the house is mine. The land is mine. The production is mine.
+
+So they started to settle. That 's the stadium. When they become sedentary , they settled down in one place and they sat on that land. It took power on that land.
+
+So when you took power on a place where you are seated , where you are settled , that 's what whole possession comes from the Latin word , polis that means power and said it , that means to seat to settle.
+
+So when you settle in a place where you put your power , where you take power of the place where you are settled , be a session.
+
+So they started to understand the concept of possession to have things.
+
+Remember that when we spoke in the other days for other planets , we described that every God was basically a conception , a concept of something. They took all 90 years together and they created a concept that holds all the ideas. The agriculture , the people that has the land that was growing the plants , had its own spirit that hold all of them , the agriculture. And that was the God of agriculture.
+
+The God of agriculture was the one we cared , the lands was the one helping for the plants to grow so the people could have things , could survive with it , was Marks for the Italian people. Marks is the God , the idea that hold on edge all the agriculture people , the sedentary people that were producing food. When you are in one place , you are settled in one only place , that 's all the things that you have.
+
+So what they needed was to protect the only things that they had , from other people that could come and invade them , to take food , to take their us.
+
+So what they did was to put all the agriculture together and they created like a communion community , sorry , like a community that they and they created like an army to protect those lands.
+
+So the same God of agriculture was the same God protecting the lands of agriculture. This is the way in which the same God of agriculture becomes also the God of protection.
+
+Remember that for the past the gods were not saying that that where outside creating things , for the for the ancient ones , a God was kind of like a fool for a thing. It was a symbol that unified many people that thought the same.
+
+Okay , so not about a being that was there like we believed today about a God.
+
+So what they did saying that this concept unified spirit and the soul of many people was that everyone that was honoring the same God , Made 's for example , like a flag , they all were working for the same thing protecting the same thing. But remember then that the gods were not beings , were concepts that unified people. In the very beginning there are no to connect people like with flags , with nations , with these kind of things.
+
+So they needed to unify this spirit in one concept.
+
+Okay , so the gods were like the kind of of symbolism that unified the people in that time. Hmm.
+
+So in that time remember that the sedentary people , the world that we 're dealing with , they needed to protect the things from the nomads people because there were so many nomads around also traveling through the planet that they were , remember the nomads were hunters and collectors.
+
+So they just went through the lines and rock everything that they could.
+
+So they could eat , they could keep them.
+
+So because of this they needed to protect themselves because of the nomads that were robbing , dealing things that they went through.
+
+So in that territory they created a new culture and this new culture , the Roman culture , they thrown the dream people and made it into a new one.
+
+So Daddy 's was called Marius and Marius , whose is how we get this name of today , Mart Mart Marta.
+
+So Mart is the god of agriculture. Is the god that protects the world.
+
+So the Romans , the Romans , they could , as a delayed civilization.
+
+So they started to grow , the population started to grow , so they needed more lands.
+
+So they needed to conquer much more territory.
+
+So they used this symbol of the agriculture god to conquer new lands. And that 's how the god of agriculture turned into the god of war , the one that protected , the one that invaded the territory.
+
+So for the Romans , Mart was this protector , which is definitely different from what the Greek people used to think about the god of war , which was Nris. Nris means disgrace.
+
+So it 's very different.
+
+So the Greek people , they would n't think that the , they would n't think that Nris is the best to call if you have to go to a war. For the Romans , Mart was the protector of the empire , Greek ones that destroyer.
+
+So nobody wanted him because it was terrible.
+
+So they would rather add to it , means they would rest to Alicia for guidance in a war than him , because he was at his grace , whoever called one would die , everyone would be killed , terrible , blood all around.
+
+So because of this god would be so terrible , all covering blood , they called this star , moving in the skies as Nris , because that planet was red. And it 's not because it 's the planet , but because they could see the red light. If you go out and you see the , the , the plant , you watch Mars , you will see that the light is red of that planet. It 's not white like the other ones.
+
+So that 's why they would think , so if that moving star is a god , means for sure , is Nris , cover on the blood of the enemies.
+
+So for the Greek people , this planet was terrible , represented all the places of war. But that vision of cares was from the Greek people , for the Romans , when they say Mars was not a terrible being , representing just the war. Mars was representing the honor of the war , was representing the will , the strength , the one that protects , that is taking care of the lands of the fields , of the agriculture , of the countries. The one that helped the country to be prospered.
+
+So these are the two different perspectives of the same planet. Mars is related with the strength of life , the ability to manifest the things , to have the will of action. The one that says , I can do this. This is my place.
+
+I can move forward.
+
+So for us , this planet is the one that represents the little key. It 's the Kundalini that pushes forward. The energy of Mars is representing the physical body and the manifestation , taking action.
+
+So happen when this fire is unbalanced , that we start to have chaos , destruction will anger. When I am imbalance , Mars represents action and will.
+
+So if fire and imbalance , Mars will represent the action and will , but if I am unbalanced , it will represent reaction and violence. We can relate these two Mars and these two areas.
+
+So usually our humanity is ruled by reaction and violence , because we are ambulance. And this means that we are not being able to take action by ourselves and to have the will to do the things by ourselves.
+
+So because we have been ruled by others through thousands of years , we have relayed our inner power to the action of others. We do n't act unless others tells us what to do. And we do n't have the will to do our stuff and let someone is telling us how to do it.
+
+So because we do n't have that inner power , we put that power outside with power to others. And because of this , I am constantly waiting for some half of us in order to know what to do. And that 's what we call expectation. Without power , we leave from exhibitions.
+
+So what do when we expect , we see waiting for something to happen , given the power to others. And this is what we call possession. To sit and wait for the power , possession.
+
+So what is this process doing with us? That we believe that things gives us power.
+
+So this little person here , power , says , in order to have more power , I need to invade to have more things and to control us.
+
+So that person will look for control as a way to its power.
+
+So in order to have control , I need to put myself over the others. To control the power of others. And the way I do it is with violence. And when someone attacks my inner power to take over my power , what do I do to defend my power?
+
+I react. And this is what happens to all of us , the next is leaving this will of violence , reaction , violence , reaction , and we do n't know how to go out from here. All because we were expected to have the power over us. All because instead of acting myself in order to accomplish my emissions , my goals , in activating my will , I wait for others to do it for me.
+
+So that 's I lose my inner power , waiting , expecting , for having things to give my power. Hmm?
+
+So Mars , remember , now we go here. Mars is not the one that says gold or Mars is , but says if you want something you have to work for it.
+
+So and you will harvest.
+
+So in your action and you will harvest the will. Hmm? And now to understand why we have to take this action , we have to go to the very basic topic it always have been about , which is survival. If we want to survive we need to do something.
+
+And this is our apologies , not psychologically. Is our biology , our body was designed , our body was designed , survive to do stuff to survive. That 's the goal of our body.
+
+So we need to act in order to survive. When we created a society , a civilization for the first time , I relay my power to someone to someone to do it for me.
+
+So I lose my action and my will , expecting for someone to give me what I need to possess. Hmm? And now , suddenly , I think that this position is mine.
+
+So control over this position. And when someone comes and says this is not yours , give it to me , comes the violence , which brings the reaction. What is the power? The power is the sense of having the control of your own life.
+
+The sensation of having the control of your own life. When in reality we are all going to die. You will die. And to what happens when I say you will die.
+
+So when I say you will die , usually I was and demons. Food and demons are the two tiny satellites that has the planet of more. Food is the origin of the word foia , which means fear. And they most means panic.
+
+So Food and demons fear and panic are the basis. The reactions that our body has when it face death. Because when the body is dead , it says I need to fight in order to leave. I need to fight again , I need to fight against death.
+
+## Guided Meditation
+
+I need to fight against insomnia. I need to not be able to breathe. I have an order to reproduce. Everything is a war , the fight in our lives , because of the fear and the panic for this life to end.
+
+The fear of losing control of life. This begins in the fishing body. It is translated to the motion of body and then translated into the mental body.
+
+So now you see this that all the people that is willing to control the life of others , they do the biggest of the fear and the panic that produce the possibility of losing the control over only things that that person was able to get to achieve. This means that the war , the fight , they ca n't explain itself as a concept alone. They exist only because of fear and panic. It does n't exist the evil.
+
+The only reason why evil exists is because of fear and panic of not the final. The only way we can reach Mars is if we go through fear and panic. And if we leave the darkness of airs behind , we do n't fear the conflict or of airs , the chaos. And we go through the fear and through the panic and we will find Mars.
+
+And what does Earth 's goal of war is agriculture. Is the one that says , patient , the one that you have to wait , you have to understand the process , you have to sew the seeds. Is the one that gives you the inner power. To say , I can.
+
+So in order to be able to transcend fear and panic , we have to remember these two concepts , limits and eliminate it. If you say , we are limited beings. You are not here. You are limited.
+
+This is another thing what you do. You will find limits everywhere. Everywhere , everything has limitations. Where do we have conflicts in our lives?
+
+The conflict lives , the wars , the invasions comes from the people that think that they are illuminated in them that is limited. That they do n't respect the limits , so they go over the limits of others. The idea of being illuminated without any limits. In a body that is limited , makes you a being an imbacive , invasive being that goes over the others.
+
+So look at this. When an limited , unlimited being , says , by awareness , my time is limited , I can do anything I want. It 's saying that it 's a threat of the biggest limit which I will die. An limited being is a threat of death because it wants to go over the limits.
+
+The same way as a limited being , the limited being is trying to escape death. Take a deep breath. The limits were created by the mind , limited mind , in order to be able to exist. In order to be able to exist , essentially the limits does n't exist in the universe.
+
+But the limits were created by the limited mind in order to be able to experience it. Otherwise , it can not death , therefore , is the tool of the unlimited mind. And you may say , life does n't exist. Yes , does n't exist.
+
+That 's why the limited and the unlimited is called transformation. The limited one is attached to the this because life , because it thinks that is the only thing that it can get , that it has. And they unlimited attached to the idea because it thinks that is the only thing that has. Both of them , the one that is based on the forms and the one that is based on the ideas are limited and attached by fear and panic of losing control of its shape and anxiety.
+
+The only way in which the limited and unlimited can live in harmony through transformation if both live behind the fear and the panic of losing control. Everything in the world is transformation.
+
+So I have to allow my transform. The body I am in will die with transforming another body and the idea that I have of this will also change.
+
+So I have to let my ideas die too.
+
+So what 's the key of Mars after all this explanation? What is the key of Mars? Mars is patience. Mars is will.
+
+## Daily Practice Elements
+
+Mars is transformation. And if I do n't have patience , I do n't have will. And if I do n't allow myself to transform , I become terrorists. Information for today , the vibration for today is the statement for today is I am the balance of the world.
+
+The code for today is past. The travel path where it was walked by the cosmos , the edges of geometry that are used to constitute the basic schemes of realities are continuously shaping the concept that we know as past. It is the last time that originates in the universe. For it 's the , for it 's at the same time , the last one on being perceived in the extremities , a reason for what the sky that we see is the past from the cosmic borders is due to the speed of light.
+
+Tooth the past is made of all the experiential patterns. Let 's go to the element. Sit comfortable. Close your eyes and concentrate your breathing.
+
+Monthly when I start to massage careers stretching my body , and warning become in a wear of each part of it. To get to the breath and become aware of the body you find yourself in after room , in the house become air , of the village , the city , the country are in the continent and the planet. I take a deep breath , it 's become aware that I leap within this body , that I am this body here and now. I take a deep breath and I expand myself becoming also the room.
+
+I find myself in the world. I take a deep breath , I take a deep breath , I take a deep breath , becoming the village worth a town. I take a deep breath and expand becoming the country where I am and take a deep breath and become in the continent and take a deep breath , becoming the planet. Just so you let your I am the earth.
+
+As I see in front of me is light and strong , you are radiating and sending on me is heat. I perceive the moon spinning around me , merely and views on behind Mars. In contemplate the asteroid 's belt and behind it is the geese geese and Saturn far away Iran 's the net tune and in the edges of a solar system , Pluto , time , the solar system , take a deep breath. I external my arms towards Mars and I take it between my hands , bring it to work and put it in my genitals in the red chara.
+
+Can you sit at the ground? I take deep breath I try to think now about my will and my violence. How do I even my life , how do I live my life , to violence , take it breath and bring your attention to the will , do you have the will of acting , of taking care of your projects , do you have a life of your life , try to think in which part of your being. You use this will , where you have a lack of it , and your physical , your emotional body , your mental life , I become aware of the will in my life.
+
+Now pay attention to the violence in your life , think about how you live the violence. It is from the outer world that affected by this violence , or is yourself.
+
+So you leave this aggression in the physical , the emotional , the mental , take it to the breath and recognize how you need violence in your life. Take a deep breath and recognize what is my biggest fear , my biggest panic in life. I take with my hands this hope , this fear , and this violence , and I bring it to my genitals , making them into nutrients for the fire , for the seed of my life , and I bring it to my life , and I bring it to my life , and I bring it to my life.
+
+So tourism this new me , so I can use it to manifest the world within me in balance. And the world , I am the balance of the world , I am the balance of the world.
+
+So tourism this new me , so I can use it to manifest the world within me. I know I am patients , will I am transformation. Take it in breath and with my hands from the genital strength , calmness , all over my body , and I am experiencing a stretching , yarn , and each one , and sometimes come back here and now. Thank you everybody for your and as always see you tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

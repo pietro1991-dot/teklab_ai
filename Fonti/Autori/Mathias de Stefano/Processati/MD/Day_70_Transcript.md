@@ -1,0 +1,336 @@
+---
+title: "Day 70 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 70
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 70
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - crown chakra
+  - root chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 70 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hello. Good morning. Good evening. Good night.
+
+How are you? Good.
+
+So welcome to this last day of the mental week of of of of Libre.
+
+So today we close with the circuit of the mind qualities.
+
+So just to to say something before we start , I would like to find that the things that we are discussing every day and that I wrote in the blog are all things that come is all information that comes that 's this specific day.
+
+So each is different and I have no idea going to write or talk about until I until the day begins.
+
+Okay.
+
+## Daily Practice Elements
+
+So the only thing that I just prepare a few months ago is the information that we read every day before the alignment , which would be the statement , the information.
+
+Okay.
+
+So while sometimes it mixes with the information that we are talking about , and sometimes they have nothing in common.
+
+Another thing that I wanted to say is that in case it may be created some confusion on the writings in the conversation between I and I , this is not that I is Matthias and I am is a superior being that is talking to me and giving me like classes of life. No. This is myself friend aspects.
+
+So it 's not someone that I am channeling. It 's myself.
+
+Okay. But in different levels of consciousness.
+
+## Q&A
+
+So , so also many of the issues that I 'm discussing there , maybe you would say why do you have this so so much questions or so many doubts of life. But what really happened is that I had these conversations with myself members ago. And now I 'm trying to take them back.
+
+So it 's useful for you because I usually do this in a tree in a mountain by myself in my own life. And now I decided to put that for everyone.
+
+Okay.
+
+So sometimes maybe you are asking an example , an example and sometimes some of the of the topics that I 'm discussing are from other dimensions or from from my inner self. And I do n't have any comparison with the human life.
+
+So , so this is why sometimes I do n't have examples as a human and and my my issues are very philosophical in the in the conversation.
+
+So that 's it.
+
+So sometimes I 've heard people saying , oh , it 's like very very hard or it seems like a like a tyranny when when when he 's to you and you know , like maybe you you disagree with some of the things but the the thing is that for me is is not hard is sincere and and for me is like me having a conversation with myself is not someone that is that is the truth of everything. Each one has its own way to receive information from the higher self.
+
+So it 's mine. To we close the cycle.
+
+So today is the torus.
+
+So it 's very big is holding everything.
+
+So this is why the topic is also very big , which is nothing and everything. Another another thing that that some people were were asking is if this is if the one that I have in the conversation with is the double quantity. I do n't know if any English you say it like that. But no , it 's not that the double quantity the projection and the quantum the quantum.
+
+Because in such a way when you say double , it means separation.
+
+Someone projected so it 's also related with the laws of time and space.
+
+So it 's not that the am is precisely the essence of of myself.
+
+So that 's it is is the essence is not. It 's not someone divided or projected.
+
+Okay. And then says. And then says.
+
+So let 's go to this. The everything and the nothing. I do n't know if there is much to what I wrote today in the blog. I think it 's very clear what is written there.
+
+But to make a small. Vision general of this. We are also talking about the whole of the nothing as if it was. As if it were a duality as if it were different things.
+
+When in reality , the whole of the nothing is not two things different , but completely complementary.
+
+So to begin to explain a little bit about this to to understand a little bit more about is that we usually put the everything and the nothing like if they are opposite as everything we are discussing discussing in these days. Like if they are separate aspects , but they are they are complimentary and now we 're going to explain why.
+
+So first of all , let 's start to analyze this that we are to tell the beans and this means that we are part of the whole of the everything.
+
+So we are a tiny part of the everything.
+
+So for us , the everything means everything.
+
+So this is why what we try to do is if we are tiny parts of the reality , what we do through all our life is try to put all these different parts together to make a meaning out of them.
+
+So we could understand the whole , the totalitarian aspect of the universe.
+
+So basically being part of the whole of the everything , what we understand is that each tiny little part is a unity in itself.
+
+So what we are trying to do is to find the unity of all those aspects.
+
+So for us in the son of the universe that we call the everything , what we are looking for as the final goal of our system is unity. As we are all united , we can understand the whole.
+
+So the first of what we do in our life is to separate the whole into different pieces.
+
+So we divide all these different pieces so we could analyze each one of the parts by separated.
+
+So the next step that we use to do in in our in our process of growth is to find these pieces and put them together. See the joins of each one of them so we can understand how they fit each other.
+
+Okay , like a big puzzle.
+
+So this concept of putting all the things together is the process of joint and and picture this that the process of joint , it does n't matter if they match or not. What you are trying to do is just to put all the things together , it does n't matter if they are different. But what you are trying to do is to put them all in the same process.
+
+So this is the beginning of what we call the isis.
+
+Okay , so like capitalism , communism , all the isis are trying to put to joints , different aspects that were separated all together. All the things together is like taking all the different parts of the puzzle , but pushing them by a movement is them all to one spot , but they are not connected. They are just all together and you say yes , but all of this must be together.
+
+Okay , so the next step of this would be to understand the purpose and the place and the qualities that each one of the pieces has.
+
+So what is the place that this piece has to play in this puzzle?
+
+So this is what we call unity , unity when you start to place the pieces where they belong.
+
+So you do that by the thing called connection. Allowing the pieces to understand the place where they belong to understand the potentialities that each one of them has.
+
+So by nature they start to connect with others.
+
+So they start to rebound. They start to connect with others with the rest.
+
+So by this natural process , they start to be united through connection.
+
+Okay , so in order to do this , you do n't need to gather anyone. It 's a natural process that happens.
+
+So of course that in the pieces , there are some of them that maybe are the first one that you put and that one is the one saying from here , you can begin , you can start. But each one of these is as important as the other one because all of them creates the image of the whole.
+
+So having this image , we can picture the need of humans to belong to something.
+
+So this is when we understand the need of humans to belong to a family , to a group , to society , to culture , to a religion , to a species to erase.
+
+The reason why we need to belong is because when I belong , I can recognize myself. And I can understand this is my part on the group. I can recognize the purpose that I have there. Otherwise , I would n't see it.
+
+This is when I put myself in the place where I belong. Suddenly , my whole body starts to feel relaxed because now I know that I am part of a whole.
+
+So there will come someday that even if you have been relaxed because now you belong , say , you will start to feel like you are trapped because suddenly in this puzzle , all the other pieces around you are holding so tight that you ca n't move.
+
+So it 's in that moment when I feel so trapped that I feel the need of go beyond and to set myself free from this network. But what will happen after I set myself free from that network is that I , that I lose the sense of the everything. I lose everything. And there is when I find myself in front of the concept of nothing.
+
+So the concept that we usually have is that we are alone that there is nothing that have any meaning is the entire void.
+
+So it 's in that moment when I recognize that the everything for me was to belong was protection was stability.
+
+So suddenly when I just get into the thing I feature the whole idea from above and suddenly I say , what is the purpose of this? What is the meaning? There is nothing beyond. I die and what?
+
+Shadow? Anything? And void.
+
+So all of us someday we have gone through or we will go through the process of facing the absolute void where there is nothing and you perceive the biggest loneliness you make experience may ever experience. There is nothing.
+
+So there will come this moment when you recognize that , oh , I am the nothing. This is the moment when we go to the origin of the word nothing. Nothing comes from the word Data that is the participate participate participate participate. I do n't know how to say the word.
+
+Well , it 's the origin of the word to be born.
+
+So this means to born , to give birth.
+
+So with the time the concept of being born and Data , Data was used to express the idea something that is just being stated. It has n't been born yet.
+
+So in sentences like this has n't been born yet , in Latin you would say this was n't Data.
+
+So it turned into the concept of , into the negative concept of this is void because what is being stated has n't arrived yet.
+
+So this is why the concept of nothing came from the idea of being born.
+
+So this brings us that the universe is a being that has been in the process of gestation in the womb that we call void.
+
+So this is why vacuum the void is what we could call the womb of the universe where you generate just state the reality.
+
+So the nothing could give birth to the reality.
+
+So from there are born the sons and daughters of nothing that we call the everything.
+
+So basically we are the child of nothing.
+
+So this is one of the great concepts that we have to transform of what is everything and what is nothing.
+
+So this is why in our human life everything will take us to give a meaning to the whole. But at the end of the path we are going to find the nothing.
+
+So this is why when we talk about to come back to the origin where we are going to do is to go back to the womb and the womb is the void. The moment before we were born , the nothing.
+
+So this is why when you may read or hear enlightened ones , masters , guides or whoever have experienced the closest connection with time. With the very origin and the moment of creation where all of them will describe is the void. Nothing. Because the most closest thing that we could have to explain what we are.
+
+So remember the example that the everything is basically this puzzle where you are just a piece. And you are stuck in that piece in between many other pieces pieces.
+
+So this is why we have this kind of feeling that in the everything we feel trapped in this kind of network and in the nothing with you.
+
+So basically what we could ask ourselves is so if we feel free in the nothing , why have we created the everything? Why we have created all this matter?
+
+So try to remember why we have spoken yesterday. What for? What is the closest answer to why?
+
+So yes , the answer , the easiest answer is for nothing. No sense for nothing.
+
+So now it would be why? Why for nothing? Why without sense , without meaning? Why , why?
+
+Why create everything just for nothing?
+
+So the answer is very easy. It 's because it 's the only way in which you can be free in the process of creation.
+
+So imagine that you are the best artist and suddenly someone from behind tells you , hey you are the greatest artist ever. But you have a purpose in your life and this is your purpose.
+
+So you have to do this and this to accomplish your purpose. Certainly you are not an artist anymore.
+
+Now you are a missionary and you are stuck in order to accomplish your mission and your purpose in life.
+
+So the reason why the not creates the every without purpose , without meaning is to set the everything free to create. Everything that exists in life , everything that exists in reality exists as a tool , as brushes , pencils , colors.
+
+So this is basically what we do in our lives , basically is to how to use brushes , how to use the pencils , how to use the colors to make our own creation.
+
+So basically what I have to understand for myself is what are the colors and the pencils that I have within? How do I use them to create?
+
+So now we have to ask ourselves this question , if each one of us is a tiny little cell of one of the billions that creates the body of the universe.
+
+So who makes the decisions? The cells , each one of the cells , are the mind of the universe.
+
+So picture that our whole life that we have been doing , give the power to the mind of the universe as if we are not part of that mind.
+
+So basically in order to , for the cosmos to exist , for a body to exist , we need a cell and the potential within the cell called NA , without the tools of the NA , a cell can not create a body.
+
+So this is why it 's not the great universe that creates the idea and the purpose of everything. But it 's each tiny cell that in its process of evolution creates the idea of what diversity is. From our inner void , from our nothing is from where we can create a new universe. Do n't think that because there 's a lot of people that think that when you are able to create your own universe is literally that you can create your own universe.
+
+But it 's not like that. It 's when you recognize that you can change your perception from the universe. The universe starts to be shaped in that same perception. We could speak about this for a long , but we 're going to do it right now.
+
+Of course , this is not something that you have to acknowledge now. This is something that maybe will take your whole life or maybe a lot of lives to hold it , to integrate it. This is something that will take a lot of time to understand because this is not something you will understand from the mind. This is something that you have to experience to live that.
+
+So what I am just doing here is to try to explain a tiny little part of how it works.
+
+So when you experience it , you do n't get a thread and you just can relate it and understand what is happening. I said cares because it 's not like literally scares , but sometimes it 's like gigantic. Like , oh my god , there 's too much and when you feel it.
+
+So if this is useful , if it 's not useful , it does n't matter.
+
+## Daily Practice Elements
+
+So let 's go to the information for today. The vibration for today is. It 's not like n is inside and up. The statement for today is I am the destiny of eternity.
+
+So the code for today is the physical pattern call. It says by acknowledging itself as the builder of this of its own reality , charts a bridge between the message. And the material and the spiritual where it 's capable of building a communication channel between mountain and divine without abandoning any of the worlds. But in inter training , inter training them.
+
+For here , it knows that the truth is that there are no two worlds , but they are both it. The code is the intense sound of the connection that knocks on the door to the spirit in matter , which is behind in the lineal and hypothesis.
+
+So let 's go to the alignment today.
+
+So we begin by stretching the body , warning , crossing the body and sitting comfortable.
+
+So let 's go to the alignment today.
+
+So let 's go to the alignment today.
+
+So let 's go to the alignment today.
+
+So let 's go to the alignment today.
+
+So let 's go to the alignment today.
+
+So let 's go to the alignment today. I perceive , I feel the air coming inside my whole body. I focus only in my breathing and how my entire body becomes wind.
+
+So let 's go to the alignment today. I feel the air outside my body. As I perceive the wind around me cutting with the wind within myself. I perceive myself sitting at the edge of a mountain contemplating a beautiful scene with the body and from that body comes the wind that crossed through my body.
+
+I feel so light like a thermal. And I perceive the warm wind from inside of me on the cold wind from the outside creating a vortex , a twitter. Around my entire body. Take a deep breath and put your hands facing up to the sun.
+
+## Guided Meditation
+
+I breathe the calm in the center of this hurricane. I perceive the sun , the light of the sun coming towards the eye of the hurricane going through my crown , third eye , throat , heart , plexus , sacraments , root , knees , ankles and coming out through my feet. I feel the light coming out from my body from the feet and going up in a spot , spinning around like the hurricane around my whole body , reaching the crown , I feel surrounded by a twitter of a rainbow. From every part of your body , the light starts to go to the palms of your hands and you feel this rainbow light filling up your hands , receiving the weight of it like the goal at the edge of a rainbow.
+
+I recognize that for me in the past , the air was the concept of unity that compliments myself and nothing was devoid. I recognize that I created everything that I created. Therefore , it is from nothing , from where I can create a new hope , the new everything. Both of them live in me.
+
+I am the dire sound in every direction , this consciousness. I am the dire sound in every direction , this consciousness. I am the everything and everything. Both of them are one within me.
+
+I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity.
+
+I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity.
+
+I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity.
+
+I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity.
+
+I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity. I am the destiny of eternity.
+
+## Q&A
+
+I am the others who have asked these answers. I have asked these answers. I have asked these answers. I have asked these answers.
+
+This is the great idea of the consciousness of the world. This is the great idea of the consciousness of the world. This is the great idea of the consciousness of the world. This is the great idea of the consciousness of the world.
+
+She was a master. She was a master. She was a master. She was a master.
+
+I just said to the Spanish people that you can have in the description of the video. She wanted to talk just to say that the first time that happened after three months. The rest and see you tomorrow.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

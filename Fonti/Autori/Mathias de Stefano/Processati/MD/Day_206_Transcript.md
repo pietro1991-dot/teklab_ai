@@ -1,0 +1,357 @@
+---
+title: "Day 206 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 206
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 206
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - I AM presence
+  - I CAN affirmation
+  - month hological
+  - month hole
+  - month holding
+
+---
+
+# Day 206 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hi everyone. Good morning , good afternoon , evening to everyone. Welcome to all of you. Another day , as always , this time to connect with the second chara in the physical week of Aquarium with the topic for today , which is Pluto.
+
+So let 's begin with the topic for today , which is Pluto and even if it is not considered a planet right now , it has a very powerful effect on us in our solar system.
+
+So one , incredible thing about Pluto is that this planet was discovered in 1930. Very close , it 's over time. And February 18th , if I do n't make any mistake.
+
+So February 18th , 1930 was the year and the day when Pluto was discovered. And the reason why it took so long for people to see this planet is because you can not see it simply with your eyes in the sky , like you can see other planets. It 's so tiny and it 's so far away that it 's light can not reflect to us.
+
+So it 's really impossible to be seen. Unless you have a really big telescope.
+
+So that 's why it was able to be discovered in 1930.
+
+So before Pluto was discovered , remember as we spoke with Neptune , all this dark side of the cosmos that nobody knew what was there. It was considered like this subconscious that is away.
+
+So you can attach , you can relate to it 's the limits of our solar system.
+
+So that means that that block part of the sky is the end. And that 's why we put our concept of ending to that region of the space is the limits , the end of our solar system. And from our point of view in biology , the end is death.
+
+So anything that was there in that region was considered the death of our solar system. The end , the crisis , the moment where you have to jump into the other system.
+
+So that 's the psychological concept from our point of view.
+
+So the reason why this plan was called Pluto in 1930 is because there was this tradition of keeping naming , of keeping with the names , naming all the planets and the stars with the Greek and Roman tradition.
+
+So of course that this planet which is hidden behind the darkness which is surrounded by the shadows would be the keeper of the shadows , of the secrets of the things.
+
+So because of this , it was for sure that its name should be Pluto. Because of course , because of course that this planet was representing all the attributes of the God of the other world , hidden on darkness.
+
+So that 's why the name Pluto which is the Roman God of the hell of the other world which for the Greek tradition you may know as Hides. This in 1930 was named like a planet.
+
+So this rock was called the 9 planet of the solar system. And that 's how many of us knew it for so long. But a few decades after that , concrete , this happened in 2006.
+
+So many decades later , they just understood that in order to be a planet , you have to follow certain characteristics that Pluto does n't have.
+
+So you need to follow certain rules in order to be considered a planet and Pluto is not following all those rules.
+
+So that 's why it 's called like plantid. It 's a plantid. Also known as a dwarf planet. But a plantid means that it has like the shape of a planet but it 's not precisely a planet.
+
+And it 's part of the group of the Plutoids planets that are all the kind of rocks that hesitate around the sun very far away.
+
+So this is why now you can hear that we do n't have any more 9 planets in our solar system that we have only H planets and a plantid which is Pluto.
+
+So when we say that Pluto is not a planet anymore , it does n't take importance to the effect , to the effect of this planet or this rock. And why is that? Because the people that decides whether to call it a planet or a plantid or whatever , is just trying to name the things according to laws established in the astrophysics and so on.
+
+So it 's all about naming things. It 's not about the importance of the object.
+
+Remember that planets are called like this because for the Greek people they were not rocks floating in the space where stars that were moving.
+
+So in that time everyone thought that they were stars that were moving. That 's the name planets.
+
+So it does n't matter the name that it has. What matters is the effect that it has on us.
+
+So it 's not that , oh , it 's not a planet anymore so it does n't affect us. No , it 's not like this.
+
+So once a this let 's go to see why it 's not considered a planet. A planet to be considered a planet must be mainly a group of minerals , rocks , or gases that are all together around a core. And this core must be magnetic and usually has a rotation in its own axis.
+
+Sometimes they it does n't rotate but it has a core. But mainly it has to have an orbit around the star. A fixed orbit around the star.
+
+So another thing that we that a planet usually has is a satellite. A satellite is something that goes around the main body.
+
+So what is a satellite? A satellite comes from the a truscan word that means the means a cortisone. That means a guardian.
+
+So a satellite is that person that usually goes aside the king or the or the prince to protect that person.
+
+So is always aside taking care of it , helping in with everything protecting it.
+
+Okay.
+
+So that 's a satellite. A satellite.
+
+So that 's the person.
+
+So then when we when we start to name the objects that were around the planets.
+
+So we started to call it satellites because of those persons , aside the kings and the queens.
+
+Okay.
+
+So the earth for example has an axis on itself that spins over its own axis. And also it has a fixed axis around the sun with an orbit. And it has a satellite named called the moon and the moon is going around the axis of the earth.
+
+Okay.
+
+So now we have a difference with this orbit of the moon and the earth and Pluto. Pluto has five satellites. Four of them are just rocks. But one of them is so big that it 's a little bit less than half of the planet.
+
+So if Pluto is like this , it 's satellite is like this. Its name is Param. See? Yes.
+
+So Param is like this and Pluto is like this.
+
+So it 's really big for this planet. And not only that , remember the earth is 380,000 kilometers from the moon.
+
+So we are really far away. But Param from Pluto is only 19 and 500 kilometers. 19 and 500 kilometers is nothing. It 's really close.
+
+So if you are in Pluto , you can see it 's satellite , Param going up in the horizon with the size of a tennis ball just in front of your face like really big like this. It 's really close.
+
+So now Param is so big compared to Pluto and it 's so close that something really weird happened. And it 's that the magnetic field of the satellite as it goes around the planet is so hard and so powerful that also moves the planet.
+
+So in the same time as the satellite Param is moving around , Pluto is also moving around a little bit as it 's satellite moves it and goes away. Go goes around.
+
+So kind of Pluto is not only the planet for its satellite but it 's also the satellite of its own satellite.
+
+Okay. I did this so you can see it a bit.
+
+So compare with the size for example this is the earth and this is the moon.
+
+So the moon is tiny compared to the to the earth.
+
+So now see Param compare to Pluto is almost the same.
+
+So look at this when when Param is going around Pluto also makes the spin like turns around being pulled by its satellite. This is what we call a binary system. A binary system means that it has two objects that are moving together.
+
+So for example a series the star is not only one star or two stars together. Series A and series B.
+
+So this means that two planets are or two stars are working together and they moved as one.
+
+So another characteristic of this planet is that it 's so small that is smaller than the moon.
+
+So if this is the moon this is Pluto and this is it 's satellite Param.
+
+So it is so small that if you put it on the earth you will see that Pluto and Param can fit inside the states.
+
+So this is United States. Tiny. It 's very tiny but it 's really far away.
+
+So basically a human a human would need like nine years and a half to reach Pluto. It 's very far away.
+
+So these are two basic things that make Pluto to be to not be a planet. Basically because it 's not only so tiny and earth but also it does n't have the strength enough to hold a satellite so it behaves itself as a satellite. And another thing that makes this planet very weird is it 's all right around the sun.
+
+So this is Neptune. The last planet of our solar system. And this here is Pluto 's orbit. Do you see what happened here?
+
+So this is the arbitration of this planet. The cross here.
+
+So there is sometimes in the year that Pluto is the ninth planet of the solar system and sometimes is eighth and Neptune sometimes is the eighth. Blanche of the solar system and sometimes is the ninth.
+
+So is a ninth. Is n't that weird?
+
+So here you have one , two and three things that make this planet not to be really a planet. And however this is a very important planet. This planet besides not being a real planet , it is one of the most important. Why?
+
+And now we go to the technology of its name Pluto. Pluto comes from Pluto. Pluto is the Greek name for this planet and it means abundance. It means wealth.
+
+The one that has all the wealth. The one that is rich.
+
+So why is Pluto the one that is rich? Because this god is the god of the under world. The underworld , the world , the world that is below the one that we live.
+
+So is the king of everything that is below. And what is below inside the mountains? The main sources of water. The flow of water that comes and creates the rivers.
+
+And this is why the technology in the European languages is Pluto. Pluto means flow. Fluid.
+
+So the flow that is coming from the underworld is coming from there. But also this flow is in another way. Underworld we have all the minerals that are considered the source of wealth. For the civilizations whoever has the gold whoever has the silver , the copper , all these elements they are the rich ones , the kings , the queens and so on.
+
+So that 's why the Romans called this god Hides. They call it Pluto , Pluto. Because it was the one that has the wealth. It was the ruler of all the minerals that were considered the wealth.
+
+Okay.
+
+So that 's why they use this name for the god.
+
+So Pluto and Hides is the same god is the same name. It 's important to know that for the ancient ones the people that used to die. People that die.
+
+Sorry. The people that die. The people that die goes to the underworld not to the heaven. And why is this?
+
+Because for the ancient ones of course and even today when we die we go back to the ground. We are buried. We are put in the ground. And our bodies are dissolved into the earth into the ground.
+
+So that 's why the idea of the ancient ones was that nobody goes to the heavens. Everyone goes to the earth to the inner world which is the underground.
+
+So that 's why the idea was that Hides was taking care of the place where all the souls used to go when they died.
+
+So they come back to the source of life which is water in the source of the inner world.
+
+So the people when they die they say you have to go through the source of water to reach the paradise of the inner world.
+
+So in order to do that you have to cross a river and this river is the Iron river. This river was taken was protected by a sailor that is called Karen.
+
+So the moon , the satellite of Pluto. Karen is the one that took care of all the souls bringing them from one side to another to the eternal life. But in order to arrive to the other side when they needed was to pay a fee.
+
+So that 's why in the Greek and the Roman tradition they used to give to the dead one coin.
+
+So they used to put that coin in the mouth of the person.
+
+So nobody could steal it.
+
+Some of them could put it on the ice but usually they put this coin inside the mouth and the dead person when that person arrived to the shores of the river they had something to pay to the ferrymen.
+
+So he would bring them to the other side. Get a corona.
+
+So this was the tradition for the Greek Roman people.
+
+So he 's related with the concept of the people that thought that the bodies came back to the earth. Of course that some other traditions what they usually did was to think that the body the person the soul has to go to the skies to the heavens.
+
+So that 's why they burn the bodies. They incinerate the bodies.
+
+So the ashes could fly on the sky and the person could enlighten like fire. Any of them of both sides , both ways are okay. What makes all these concepts of mythology that they are the idea of this plantid to incernate the concept of death of the end was established in our subconscious.
+
+So that 's why we think that 's the end and then we do n't know what it 's going to have. Because of this idea in our subconscious the concept of Pluto is all about death , crisis and ending things. This is why for us today this planet represents our death not only the spiritual or the emotional death but also the physical death. This planet is the one ruling the much more subtle aspect of our solar system which is the ending.
+
+The final process is the one that says here is the end of the path so you can start a new one. Also the concept of Pluto is the one that tells us is time to death because anything that you have will be forever you have to let things go.
+
+So try to think about this in a gravitational concept. A closer I am from the Sun , much more intensity in the gravity so much more I am attached to things.
+
+So we as Earth we are inside in the closest thoughts of the Sun.
+
+Okay. The Sun here.
+
+So here in this territory we have Mercury Venus Earth and Mars. Then here we have a zone of rocks of asteroids.
+
+So in this territory we have Jupiter and Saturn. And then this territory we have Trans and Neptune and in this territory we have Pluto. And then we have the limit of the solar system.
+
+Okay.
+
+So the planets are really close to the Sun. All relate to our daily life. To the things that we are touched in life. The communications with others in Mercury , the relationships that we have by Venus , the creativity that we express with Earth , the action and passion that we have by Mars.
+
+All of this four planets are related to how we act , how we move with others , how we relate the things that we know from ourselves , the things that we see that we perceive this sensation of the motion so we are attached to that.
+
+So after this limit of the physical world of how we relate with everything , then we find the much more deeper things and concepts of our soul , the purpose of Jupiter. I have to do this inside of me. I have this movement that tells me what to do. And also all the things that I have to solve within myself in order to accomplish that inner concepts.
+
+And then we have this limit here which is the transcendental concept , the spiritual concepts of Trans and Neptune that are speaking much more than me. Things that are so wide that I can not even relate to myself.
+
+So we can tell for example that the planets that are here close by the sun inside the asteroid 's bell is the body. Outside the body after the asteroid 's belt , we find the soul of the beam and behind the soul we find the spirit.
+
+So what we do usually in our lives , where we usually do is try to survive , which is try to communicate with others to live in a society , try to love the others to be a touch in a family , try to create stuff on earth to produce and to have action to do stuff , to passion on the things.
+
+So basically to work , to survive , to do our daily things here. Usually some people when they say , this is not enough. I do n't have enough with this life of survival. I need to get out to do something different.
+
+They start to connect with the soul with Jupiter that is saying you have a purpose in your life. You have to do something more to expand. But most of the people when they reach this , they have to go through the asteroid 's barrier , the belt.
+
+So before you get to the purpose , you say , I know I have to a purpose in my life. I have to go to Jupiter , but what would happen if I go through this barrier? Many asteroids make him kill me. It 's so chaotic that I do n't know what would happen.
+
+So what would happen if I leave the job? What would happen if I leave my family , if I break this relationship? What would happen?
+
+So the crisis , this is the belt of asteroids.
+
+So some people get to go through all these conflicts and transcend their daily survival and connect with Jupiter. Saying yes , this is my purpose. This is what I have to do. I know this.
+
+So once you get this purpose of Jupiter suddenly comes the next step , which is Saturn. And Saturn will tell you slow down. Because before you accomplish your purpose , you have to heal your soul. You have to know the tools that you have.
+
+You have to remember all the things that you have done. All the things that your soul has been carrying , which is your ego. Because I know , since Saturn , I know that you come from close to the sun.
+
+So you love to shine the ego thing.
+
+So you have to leave behind this ego things of the brightest of the sun. Because you 're a lot more of the center. You have to heal this concepts.
+
+Okay. And then you will be able to accomplish your purpose. And once I heal my soul history , I understood my whole thing. I healed everything of my story.
+
+I go out to the spiritual world. From the soul , I find the spirit and I meet Trans. And when I find Trans , it 's like the connection to the spiritual world. You start to perceive all the dimensions.
+
+You start to know that you 're not alone in the universe. You start to listen to the aliens , to other beings in other dimensions. You start to connect with so many things. And you expand so much.
+
+You lose your axis. Because Trans does n't have an axis straight like us.
+
+So , suddenly you get a little bit crazy , a little bit kids of training. And suddenly you get all this spiritual world much more hippie. And all the things you start to spread and so on , that you does n't have how to anchor all this knowledge that you 're receiving and receiving in the spirituality. And once we did all this chaotic spirituality , we start to find Neptune.
+
+And Neptune is the one that says , all those beings that you have been connected in every dimensions. They are just water drops in an ocean. They are not different beings. All of them are yourself.
+
+All of them are only one being experiencing different ways in the shapes of water.
+
+So , everything is a dream that you have been dreaming.
+
+## Guided Meditation
+
+So , it 's not many things. It 's only you , yourself. And you start to connect with the deepest part of the spirituality , going in an meditation process , where you find yourself being that water drop in an ocean , being everything. And once you thought that you connected to everything that you found everything , there was one rock missing Pluto that whisper , are you ready to die and leave everything that you think you are?
+
+Pluto is the one that says the only way you will really show that you are able to , that you were able to understand Neptune is if you there to die.
+
+So , Pluto is the one that says , in the moment when you allow yourself to not exist , when everything ends and you allow yourself to not exist is when you really got it. And after that , after Pluto , there is , we become free of something which is the gravity of the sun. We are not attracted by the sun anymore. And the sun is the ego , is the light that pulls us to life that bring us to leave as a body.
+
+So , we are free from attachment.
+
+So , when they say follow the light , it 's like coming back once again.
+
+So , Pluto says , if you do n't want to be a drop of water , once again , then you have to expand into the cosmos. The gravity of the matter is the one that attaches to this reality. Pluto is the one that says , if we want to become the creators of our own reality , then so we have to set ourselves free from the previous reality we have created for ourselves.
+
+So , at this tiny planet the same to us is that if we want , if we are willing to transform our lives , we need to learn how to die every day in our lives , during our life. We have to learn how to die emotionally , mentally , socially. All the time to learn how to live behind aspects of ourselves in order to become something transcendental , something new. There 's no need to die physically in order to practice their reincarnation.
+
+We need to reincarnated once and again in order to learn how to transform our reality.
+
+So , Pluto is the one saying , this is a must if you want to transform. That 's why the only way to create a new thing is destroy the first one they say , death and bored , being death and birth.
+
+So , when you want to birth to to re-birth yourself , you need to die first.
+
+Okay?
+
+So , that 's the process of Pluto. We will keep talking about many things. Let this information to see properly. The vibration for today is due.
+
+## Daily Practice Elements
+
+The statement for today is I am the balance of the web. The code for today is present. The neutral state of the universe is the present. It is the second temporal expression of the cosmos.
+
+Moment where all potentialities are the future and its high waves collapse over themselves creating the singularity. The concept of singularity is only one place that unified in only one time. In that instant emerges the contemplation , the first experience of the universe , the one that makes the decisions of taking the first step , the transforming action becoming aware. Let 's go to the alignment.
+
+See the comfort level , close your eyes and concentrate in your breathing. Take your deep breath and start to become aware of each part of your body , misogyny , and tracinant , stretching and warning. Take your deep breath and die become aware of the body. I find myself in on the places where I am the room , the house , the village town , the country , the continent , and the planet.
+
+And now every time I take the breath , I become fully aware that I am those places. And first of all , I take the breath , becoming aware of my physical body , the one that I inhabit , and I expand becoming it fully. Take your deep breath and take your deep breath and take your deep breath , and take your deep breath , becoming the house , the city , the village , and take your deep breath , becoming the country , and take your deep breath , becoming the continent , and take your deep breath , becoming the planet. And take your deep breath and take your deep breath.
+
+I am than of me and I can see the sun shining , Expanding its heat on my body , the side perceive the moon spinning around me and the side me , I can see , mercury , Venus and Mars. Behind the asteroids barrier , the belt , the asteroids surrounding the sun , holding this four worlds , farther behind , I see Jupiter in Saturn , and wave farther , Trans , and Neptune , wave in the last part of the solar system , Jupiter , in the time is wrong. I extend my arms through the solar system , reaching this planet , and grabbing it into my hands to bring it towards me , Pluto , and satellite , Karan. I see this two tiny planets in my hands , I take a deep breath and bring them to my second chara , inside of me , connected to the kidneys , the intestines , and the moon.
+
+I take a deep breath and I recognize in this two , the death and resurrection. I take a deep breath , and I go back in time to add a close , to an experience close to death. I remember this death near experience , whether it is in my life or past life , I bring it to me , the feeling , the memory. I take a deep breath , remembering this dramatic memory , this tragic fact.
+
+I recognize now that I am alive , I am breathing , and try to think about all the things you accomplished after this experience. I recognize all the things you 've done , because this dead experience. I take a deep breath and go to that memory where you 've had an experience of death in your soul , your emotional body , or yourself , like dying with your soul. I take a deep breath and recognize that you are alive , think about all the things you accomplished because of this experience.
+
+Now think about a philosophical death. When an idea I believe that you had in your life was that I am trying to think about all the good things that you have learned and open your life to because of this death. I take a deep breath and I recognize that this is the network that builds my life. I am the balance of this network.
+
+I am the balance of this network. I am the death and resurrection. I am the balance of this network. I am the balance of this network.
+
+I am the balance of this network. I am the balance of this network. I am the balance of this network. I am the balance of this network.
+
+With my hands I start to bring this consciousness through all my body , through characters , stretching and warning. Each one in its own time , come back here and now. Thank you everybody for being here and now as always. See you tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

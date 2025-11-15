@@ -1,0 +1,251 @@
+---
+title: "Day 196 - Chakra Activation"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 196
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 196
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - chakras
+  - vibrational practice
+  - portals
+  - consciousness work
+  - I AM presence
+  - I CAN affirmation
+  - constellation work
+  - month holding
+
+---
+
+# Day 196 - Chakra Activation
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hello , hi everybody. Good morning , good afternoon , good evening to everybody. I hope you are well. I 'm always a little bit tired.
+
+I 'm much more tired here than I need you.
+
+## Energy Work
+
+So , let 's begin with our topic for today , which is the Sarum Chakra related to the emotional week of Aquarium , and for today is the constellation of Scorpio.
+
+So , let 's remember a little bit our month of Scorpio , but in order to use it as a tool for our month of Aquarium.
+
+So , remember that we are entering in the age of Aquarium.
+
+So , this is why everything that we see from other sodium signs , we have to take it as tools for this new age.
+
+So , remember that we are working with the last sodium sign that we are the takes part of the water to Ns , and remember that the spirit of this water to Ns is the pieces , the soul is Scorpio and the body is cancer.
+
+So , remember that the spirit which is pieces in this training team is like the ocean of the spirit expanded. This ocean expanded all around the cosmos through all the people , this ocean of emotion. And then , and then we have that 's why we relate this with the unconditional love. And then we have cancer which is the body , so it 's the divisions , it 's the structure and limitations of that water.
+
+So , it means the water then we have inside our bodies , it 's the limitation. The ones that separate every individual and the groups of people.
+
+So , that would be our inner water that 's cancer. And then we have the water that connects us all in these links and boundaries in between the conditions and the unconditionally , which is the water of Scorpio.
+
+So , remember that Scorpio represents the energy of the soul , the soul that connects that links every one of us through the memories , through the emotions.
+
+So , everything that is invisible to the eyes that links us one another , but that we can not perceive unless we see it within. It 's all those unseen aspects that live hidden in our subconscious.
+
+So , this is why everything that we do n't want to see goes also there , not only the memory of our history , but also our trauma , the things that we do n't want to see , our own shadows , all of that goes there. That goes to that dark side.
+
+So , all of that information that library that we have of our soul goes to Aquarium , it goes to Scorpio.
+
+Sorry.
+
+So , remember that the energy of Scorpio is the one in charge of all the things that we do n't want to face , that we deny in ourselves , all the things that we have to work with and we do n't want to work with. Basically , the energy of Scorpio is the one in charge of all this things that we inherit in our lives , and then once we did , we do n't want to use , we do n't want to clean.
+
+So , all this information is hidden in the energy of Scorpio because it 's related to the intestines , the one that when you eat separates the nutrients for the body with the things that then will become cool. And we 'll become all the things that you just let go from your body.
+
+So , the one in charge of doing this dissemination of what you need and what you do n't need is the energy of Scorpio.
+
+So , once that this , remember that this is not me speaking about this Scorpion people. This is about everyone because everyone has also Scorpio within. We all have these attributes of Scorpio in yourself , but mostly the most of the people has many problems on expressing this energy because it 's really hard because it 's facing you to all the things that you usually hide.
+
+So , this is why we usually have these energy of Scorpio hidden within our body not showing that part to anyone. But some people , some people from the Scorpio energy that is awakening that they do n't have fear of showing that part , they have much more scorpions.
+
+So , they have this black humor , for example. Black humor is the way in which the Greek used to call one of the waters of the body , which is the black humor is the liquid that is black which is the which is the the intestines and the black waters of our body.
+
+So , that 's why we call it the black humor is the one that is from the lower part and that is something dear to it.
+
+So , that 's why Scorpio does n't have any problem with sharing those kind of things , with taking out this information because it 's normal with black humor , with sarcasm , the lower passions , speaking about deadly things , the miserable things and so on.
+
+Okay , so this is why it 's so natural for the scorpion people to share things that usually for the other ones is not and try to hide it. The job of scorpion is a strength of water is related with emotions of course because water is emotion and remember that emotion means movement.
+
+So , movement is a evolution is to move ahead to transform constantly , that 's the emotion. But in order to be able to go beyond and transform , we have to first see from the point of view of cancer , which is the one that is limited the body.
+
+So , cancer usually is this aspect that says I need to protect and love is protection. Love is the one that tells me this is good , this is fine and we and I can do everything and so on.
+
+So , suddenly , suddenly this cancer attribute this cancer aspect says , I can stand anymore to be the one taking care of the whole family. I need to set myself free to do something better to do something greater not only to stay for my own. I need to expand my love , so suddenly the cancer one finds pieces and pieces is the best thing for cancer because pieces is the one that says , hey , we are all the family , this is love and so on.
+
+So for the cancer , they are trying to transcend into a high level of consciousness. Pieces is like the best thing because pieces is sharing this love with everyone taking everyone as a family.
+
+So that 's why for the cancer people , sorry , for the cancer aspect in any human. When we are trying to find the spiritual love , we kind of follow the freedom of pieces. But what happened , that cancer is the body , is the structure.
+
+So in order for cancer to find the transition to pieces , they need to go through Scorpio. And what is Scorpio? Is the soul emotion that says where are the things that you have to work as a cancer in order to go to pieces?
+
+So this means that Scorpio says to cancer , you are limited , you have structures and conditions because those conditions protect you from your wounds , from your trauma.
+
+So if you want to spend and transform who you are to become more pieces and love unconditionally , well , you have to face your trauma and you have to know where are your wounds.
+
+So Scorpio is the one that says you see this is the one that you have. This is here. Oh , here you have another cut you see it perfect.
+
+Okay , so Scorpio is the one that has the ability to find the problem and points it and goes to the point and put the finger on it and says you see this is your shit. This is your problem.
+
+So the energy of Scorpio is the one that will tell you where is the conflict.
+
+So basically , this is the reason why most of the signs and people are a friend of scorpions. The sign of Scorpio. Scorpio people are the ones that can tell you exactly what is the conflict , the problem.
+
+So because usually humans we do n't want to see our darkness. We kind of perceive the attributes of Scorpio. We kind of see the attributes of Scorpio like kind of a demon.
+
+So it 's like , oh , no , this is dark energy. We do n't want that. This is horrible. Oh , no , they can tell you stop the view of one to hear.
+
+So usually the runaway from the sportive people because they just you can tell something to them and suddenly way just looking at you they would say , are you sure are you sure that 's your shit. Is n't your shit this and this is n't that because of this , this , this , this , this and then they laugh a little bit about it.
+
+So the kind of nowhere to touch to show you the weakest point.
+
+So as an attribute of Scorpio , not speaking about about the people , but speaking about the the archetype of Scorpio , we have to remember that this energy is related to the biggest transformation or transcendence that we used to call death. Death is not only by physical death or body , death can be through emotions , through concepts , through ideas , beliefs and so on.
+
+So the energy of Scorpio talks about dying about something that is coming. Coming into a different aspect.
+
+## Q&A
+
+So you need to to wonder about how you are going to do that transcendence. We can relate this concept with the moment of death. When we are close to death , one of the main things that we start to think about is , have I done everything that I was supposed to do? I go deep into my body , I go deep into my soul , ask myself , have I done everything I ever wanted?
+
+Did I solve all the problems with the people I loved? I accomplished my mission , why do I feel about my life? I start to ask myself all these things as a first thing. And the next step would be to think , where am I going?
+
+What is going to happen? I need to see if there are ghosts in the other side , if there is a heaven , how can I connect without energy in the other side? Because I am going there.
+
+So the energy of Scorpio is the one that shows you everything that is inside the hidden of your soul throughout your life. And ask yourself , what is coming next? What is happening in the other level?
+
+So Scorpio 's death transition is the transcendence from one plane to another. And that 's why Scorpio hurts because you have to face somehow everything that used to happen. Because you was n't looking at and you have to face the reality that death is coming and you have to do something with it.
+
+So remember that we are entering a queries age.
+
+So we can relate , as I said yesterday , that humans are living through the energy of cancer because we live through the mandates of our families. We are living through the codes and conditions of our ancestors of the clan , the family. We do exactly what the group is saying for us to do because we are protected this way and we feel loved by this way in this way.
+
+So when we start to enter the energy of our queries in this new age , the age is asking us to transcend these limitations , this way of thinking of holding the patterns of the past.
+
+So we can love in a different way , much more related to the networks as a queries time.
+
+So that 's why the cancer civilization is trying to find the love of pieces , which is more spread , goes everywhere. And this is why Scorpio comes to help. Scorpio is the one that says this is the time to clean up all the things that you were hiding through history. And now we have to change it otherwise it will repeat once again.
+
+So the task of Scorpio of the energy of Scorpio is very important in the transcendence of one age to another. Let 's remember why Scorpio represents death. Scorpio represents death because as we always say , according to the north and hemisphere , Scorpio is in the middle of autumn. And autumn , this moment of the time , is when everything dies.
+
+The falling of the leaves of the trees , the crust of the trees are falling. Everything starts to fall apart. The call is coming.
+
+So everything that was alive during the summer , during the spring , now starts to die during the period of Scorpio.
+
+So as you know , in that time we have October 21st , 31st , which is Halloween. And that moment was celebrating in all Europe because it 's the moment where all that was alive goes into everything that is dead. The subtle energy is taking place , living life behind.
+
+So that 's why it 's the day of the death. It 's the moment of transition in between life and death.
+
+So all the energy of Scorpio is related to what is happening in that moment of the year , which is the fall , the dying of everything. And this is the connection that we have , why in our subconscious , we relate this time with the fall , with everything falling.
+
+So as we always say , it 's not the stars , it 's about what is happening in the earth on earth , while those stars are there. How we should not have something to communicate with? It 's divine energy , but donít Meine Academy , due to the passion of the most Japanese or Russia 's English language , that 's why the people actually意 this , alone , today , Date Awards , will use all the floats of residential resources. This is ornate corn.
+
+Something really really weird can happen but nothing outside of normal.
+
+## Energy Work
+
+So just that when I was talking about the portal it 's like the energy was like opening that portal and we are talking about the darkness and so on so they used this kind of things.
+
+So it blows some parts of electricity. But here we are.
+
+So did I set everything that I was supposed to say? Just to remember that the energy of a various of Scorpio is the one related to the dark side and everything that we do n't want to see.
+
+So even if there are some dark sides or dark parts that are lost on the storage , remember that as a system the darkness is not against us. The darkness is basically a system that is trying to show the parts that we have not worked pretty well.
+
+Okay , so the darkness is the one that shows here is the problem here is the problem and so that 's why that that 's why we need to understand about that system.
+
+## Q&A
+
+So when the dark energies appears and we are willing to transcend. We should not think as cancer saying I have to protect me I have to take care of myself and take care of the ones I love okay that 's the cancer way. When the darkness appears what we have to do is not to just start to hey I do n't want you here what. What we have to what we have to do is to ask ourselves why it appears what I was n't watching that what it was n't paying attention to that it appears okay so so the question is always.
+
+What we have what we have not seen yet that the darkness appear.
+
+So of course that when Scorpio is outside it acts is what it does is to look for this weak points but instead of helping the other person to know where they are so they can heal it. What they do or this concept do does is to provoke the wound to create the harm okay so. And it 's to know how to handle the different dimensions in order to use the the other ones.
+
+So remember that the energy of Scorpio is. Is this dark energy that. Is in the scrum that produce the energy from. From the body so we can grow we can tourism herself with that energy so the best explanation and image that we can have of the energy of Scorpio what is balanced is.
+
+So the best way to describe it is a swamp where all the waters are dark and you can not see what is there. But is the only place where the lot of flower can blossom so the lot is the hard is the high chara. That opens to the divine and. It 's the only place where the lot can take this information is from the darkness of the month of this one.
+
+So that 's how we have to use the energy of. Scorpio. And then you have to take from Scorpio today in order to use it for their queries energy is to to take all this energy of Scorpio like an attribute not like something that describes this Scorpio people but something that we all have within.
+
+So we have to understand this part of ourselves in order to use it properly for our own transcendence and evolution.
+
+So remember. Scorpio is the one saying if you want to change you need to face all. Then convert all things of your soul. And of course that in the other side in the opposite of Scorpio we will have.
+
+So while Scorpio says you have to change everything you have to face your shit in the other side. And to us we 'll say I do n't want to face anything I just want to lay down just like quietly to eat as much as I can. Do n't take me out of his house I want to be. Quiet.
+
+Do n't change my life.
+
+Okay so the opposite.
+
+## Daily Practice Elements
+
+So let 's go to the information for today. The vibration for today is. The statement for today is I am emotional nourishment. The code for today is down.
+
+The perception of down is nothing more than a way of naming the cosmic concept of inside or inner. Within the same way as the superiority concept of up. The inferiority concept of down is explained from the superficial point of view of a sphere relative to the concentration of all its forces in the node that connects all perspectives or grades on a sphere. This way down can be contemplated from any direction of a star relative to the inner nucleus.
+
+So clearly Scorpio go down to the core of things.
+
+So with the company are all these beings that are in other dimension breaking. The electricity wires of this building let 's go to. Delightment.
+
+So I do n't know if you already noticed but I have many things in Scorpio. And this is why I do n't have any problem on sharing all my personal shit with all of you. And of course channeling in YouTube and do whatever. I do n't really care.
+
+So we close our eyes. Sit comfortable and concentrate your breathing. I become aware of the environment that I am sitting in. Where I find myself.
+
+And I use my imagination to make it into deep dark space. And I am floating in the middle of it. And I am floating in the middle of it. And I am floating in the middle of it.
+
+I think of my body as if it is the body of earth. Spain and watching all the stars around. I think of my body as if it is the body of earth. Spain and watching all the stars around.
+
+I recognize that honest skin inside my body. I can feel the history of every living being of every human. And every suffering , every joy , all of it is recorded within me. I become aware that inside of me is hidden all those things that I did n't face throughout the history.
+
+So I take to the breath and take a look inside of me to pull those things to my inner health. I take a look to the inner health. Watching straight to its size. All the things that you have that you have n't faced.
+
+The joy of afraid to transcend. No judgment. I recognize that everything that is within me in this hell are the sensations , the emotions that I am locked within. All of them are locked trapped because of me.
+
+## Q&A
+
+I created this hell. I created my own demons. The fire will into move ahead. It 's only my own task to open all these demons.
+
+To set them free , so the energy can move again and be used as fuel for my spirit. I take all these demons , my own demons , as emotions , the tourism my own consciousness. I recognize that through centuries I have been said that my demons must be locked , that they are my enemies. When a reality they are the fuel , the energy I need to set myself to light , to become enlightened.
+
+I recognize that the energy I need to set myself to light , to become enlightened. The only thing that can make my demons a danger is to have fear of not knowing how to use them. I set the intention then to tourism myself with these emotions and learn how to use them for my own enlightenment. I am the emotional nourishment.
+
+I am the emotional nourishment. I set the intention that there is no other being outside able to eat my emotions. Only me. I am the emotional nourishment.
+
+I know. My demons are energy , my energy is in life. I am the emotional nourishment. I can see the constellation of Scorpio and from it with my hands I take it energy to tourism me with its darkness so I can use it as a tool for my own enlightenment.
+
+I am the emotional nourishment. I take it in breath and each one at a time can back here and now. I am the emotional nourishment. I see it tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

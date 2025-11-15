@@ -1,0 +1,297 @@
+---
+title: "Day 195 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 195
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 195
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - I AM presence
+  - I CAN affirmation
+  - constellation work
+  - month hold
+  - month holds
+  - month hole
+
+---
+
+# Day 195 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hi everybody. Good morning , good afternoon , good evening. How are you?
+
+So , I do n't know how you lived yesterday , sorry about what happened yesterday , but it was just suddenly I started to just feel the being and started to speak and I was trying to translate as I could. I do n't know if I did it well or not.
+
+So , I felt asleep , so I was sleeping while I was talking , so it was kind of weird.
+
+## Q&A
+
+So , just as a way , as something to clarify , maybe you would ask if they are using me , these beings are not asking for permission to speak or whatever. I think that being a very six-month working with the In , I started to feel and perceive that they are not different beings , besides me , but they are myself.
+
+So , I do n't really judge if they come or not. I just perceive that if they are here is because one part of me is just expressing that.
+
+So , I 'm not thinking that they are using or something like that. I just perceive that all of them are just part of me , expanded around. And as always , never happens anything to us that we are not capable to handle. And also , of course , that you will notice that I am like out of my axis sometimes , because , of course , I am right now living with other people.
+
+We are in the same place , and of course , that changed my energy , but not because it 's something but , but because it 's something that I want , because I want to share. I want to do something different.
+
+So , that 's why my energy has changed. And , of course , that my , if you see me a little bit tired , is because we had n't slept much or my , my times have changed , because of course , I am with people.
+
+So , my times have changed a lot in environment , not alone , like I used to be. And of course , this past days , we have been not sleeping much , because we had like , these situations during the night , like , maybe was about to be born. And the baby was about to come , and no , it was false or alarm.
+
+So , we had n't been sleeping much.
+
+So , let 's begin with our topic for today , which is related to the constellation of cancer. And cancer represent the body physical aspect of the Trinity of water. Yesterday , I was , I was watching that , because I was writing fast , I made a mistake of , that I had to correct that. I made a mistake , put in the names one here and one there.
+
+And so , I put scorpion in the place of cancer , but cancer is the body and scorpions is whole. Let 's begin with the , with the etymology. What it means cancer. Cancer comes from the European word that is Kar.
+
+That gives Karate. Kar is in the European language. Means something that is hard , like a shell.
+
+Something that protects.
+
+Another thing that is soft in the center in the middle.
+
+So , this structure that holds that is hard is the one protecting something.
+
+So , the crab is one of the animals that you can see how it has this shell with soft structure inside.
+
+So , they started to call cancer , cancer , cancer , to this animal that has the shell.
+
+So , what is the relation with cancer the disease? It 's also named like this by the Greek people , because the Greek people saw in this disease that all the cells were like , surrounding the organ , like we eaten this shell of dead cells that were covering the soft organ.
+
+So , it 's like a shell covering the whole organ.
+
+So , that 's why by linguistics they call it exactly the same , Karate.
+
+So , that 's the origin of cancer , the name of the disease. But it 's not because of the constellation or the animal is because of linguistics that they used exactly the same word to describe the animal. And to describe this structure that was surrounding a soft organ , like the disease.
+
+So , once we separated the disease from the aspect of the constellation , let 's go straight to what , to why this constellation was named cancer.
+
+So , first of all , to clarify this , all explanations that we do , according to the past of the history , is related to the northern hemisphere. And I think that 's the reason why we do this , because the northern hemisphere has designed the whole way in which we see this guy 's today. And even the traditions in which we use , in which we use the astronomy and astrology.
+
+So , we usually know more much more this names than the other ones.
+
+So , maybe the cancer constellation , maybe in the south , was called the lama. The animal , I do n't know what the name , what aqua , I do n't know what the name.
+
+So , that would be like kind of the animals that they were using in the south. But the northern astrology and astronomy was localized in the whole world.
+
+So , that 's why we do n't know exactly how the people in the south used to name those constellations , but everyone in the world knows cancer , that 's constellation and not the other ones without the animals.
+
+So , just to clarify this , if someone asks why I 'm speaking about the northern , the northern constellations , is because everyone in the world knows these constellations because of the globalization. Imagine if I have to explain all the constellations , like for example , how in the southern hemisphere we would say the cancer constellation. Because for them , for the southern , maybe we can call it like the constellation of the lama , the animal. But for example , for other cultures in South America , that same constellation was called Nyan-do , for example.
+
+So , which is a small animal , it 's like an ostrich from South America.
+
+So , it 's impossible to name , to honor every culture by saying every one of the constellations. And for example , the same thing was called by the Australian 's very different , by the South African in a different way.
+
+So , it 's very different at the benign only cultures. The same thing happened in the north , in the north part of the world. Of course , many thousands of cultures call in the same stars in a very different way.
+
+So , it 's impossible to describe how it is for both , and because there 's not only one. The only way we can speak about something that we can all relate with something is if we take the Greek imagination , terminology that , of course , was cancer.
+
+So , everyone knows that constellation.
+
+So , it 's easier to say. Yes , it 's just about easier way to explain things. It 's not because I am denying all the rest , is because otherwise it would have to explain , like , I do n't know , the same thing in a thousand languages , maybe , just to integrate the way of everyone.
+
+So , it 's impossible. That 's why I speak Spanish and English because part of the most spoken languages.
+
+So , that 's it.
+
+Okay.
+
+So , that 's why if you want to know more about your national or how your cultures and your spot used to see the constellations , just do your job and look into that , of course.
+
+So , going to the origin of cancer as a constellation , we have to go to the history of Middle East because this constellation was born in between the Mediterranean region and the Mesopotamia region. The Mediterranean is calling this because it 's in between lands. That 's the meaning of Mediterranean in between lands , which is Africa , on the south and Europe , on the north. And in the other side , we have the Mesopotamia Mesopotamia means in the middle of rivers.
+
+Mesopotamia and Potato is rivers.
+
+So , Mesopotamia region is in the middle is in between the rivers of Alerts and Tigers and in Africa , we have the Nile with its influence , which are the white Nile and the blue Nile. And that region is born the concept of cancer to name the constellation. Let 's go into the history of white cancer.
+
+The reason why cancer is because in all these territories of Mediterranean and Mesopotamia regions , after the first songs and the first products that are growing from the fields , they grow.
+
+So , in order to share these products with others , they need to move the products everywhere. They have to take it to another region where they produce something different and they bring it back to the main spot , you know , like a product chain from different places.
+
+So , it 's very difficult to move all these products very fast when you have just donkeys or just backwards. And you have to work a lot of a lot of kilometers. But what they did was to use the rivers and to use the sea. That 's why because of agriculture and also transportation , the main villages were usually settled aside the rivers and in the shores of the seas.
+
+So , in the person goes in the red sea , in the Mediterranean sea , all these villages , these people were living in these tiny villages or the capitals close to the shores. And they created these little towns like protected in the shore.
+
+So , this symbol of being protected is like the shell of the crabs. And why is this? Because the symbol of this transportation of the people going from one port to another is the crabs because they live in the rocks in the ports.
+
+So , the crab was kind of the symbol of many of the villages in the seas and the rivers. Also , the boats represent this shell , bringing all these soft products that they had to take care of. And this is like this shell , protecting the boats , protecting all the soft things.
+
+So , that 's why it also is a symbol of the crab.
+
+So , crab becomes like this symbol of bringing the products to the family , to bringing the goods to every port.
+
+So , in the ports everything is protected , like a family , all protected.
+
+So , this is why in this period of time , the end of June and the beginning of July , these commerce between different settlements in the shores , we 're related to the crabs.
+
+So , they relate that with this animal of the sea and that 's why in the moment of communications , in the moment of going from one spot to another in the sea , they saw that they had this constellation ruling the sun. And they named cancer constellation because of this protection of the cities , this sailing to sail , food and products to take the goods for the family.
+
+So , the period of the crab was represented by those people that used to sail to make this exchange to sell the products , to bring the goods for the family.
+
+So , the people from the clan , the family , we 're seeing how this person goes away by the sea to protect the family , to bring stuff for the family , to do everything for them , for the group.
+
+So , that 's why the essence of this cancer is related to the people that does everything for the group for the family.
+
+So , this is why through the hundreds and thousands of years , people related this constellation with the idea of the people that protect the family , that does everything for the family , that works for , to protect them , to give everything. And it does matter if it tastes a lot of effort , they would do as much as they can for them to be safe and to have everything they need as nourishment.
+
+So , what we have here is that cancer represents the family , cancer represents the survival , the protection of the clan. And this is why different from pieces , which is the unconditional love cancer moves through the conditional love.
+
+So , let 's try to understand what is unconditional and what is conditional. Condition comes from the word , the idea of we all together have set.
+
+So , a condition means that we , we all have decided about something , how it 's going to be , like the law of this is like this , this is like that.
+
+So , we all have decided that 's condition , condition means altogether have set. That 's the meaning.
+
+So , what is unconditional , the nobody have said how , nobody 's said there is a way in which we have to do it. It 's free. Anyway.
+
+So , for pieces , love is something that is expanded , something that you can not hold because it 's everywhere , it does n't matter where. It does n't have a intention , like I want to do this , for pieces is anything , it does n't matter everything is good , everything can be all the possibilities. That 's why it is unconditional because it can change all the time , it does n't matter how , but for cancer has a condition because for cancer is okay. I have to do this for my kid , I have to do that for my family , I have to do this in order to survive for the clan.
+
+The idea for cancer is to work for the clan , to do everything as the clan has set.
+
+So , as the family , the clan has established a mandate saying , we have to do this , you have to do that , we have to do this.
+
+So , cancer says , okay , I have to do this for this group.
+
+So , remember that what we have said , how we relate this constellation , is that the cancer people are the ones that are going to say , just to look for things for the good of the family , to bring good to the group for the clan.
+
+So , all the effort will be done just for the group.
+
+So , it 's not bad this , this is something good.
+
+Sometimes , maybe it can seem that I am judging something , but no , in this is perfect , because this is something that the cancer people need to do to protect.
+
+So , the love of pieces is so free that for the pieces archetype , love would be like everyone 's family , everyone is friends , everyone is love , everything is so perfect and everyone can be someone to love because we are all one.
+
+So , the cancer is different , for cancer is , if I love you , I would love you until I die , but if I do n't love you , I will hate you until I live until I die.
+
+So , we say pray things and cancer will try to do as much as possible for that person that is loved to feel , to feel the best , in the best house , at best home , feeling so , so loved for the best mom for the best dad. Yes , as for pieces , love is so free that they can love you a lot , and suddenly they are loving another person because they can love everyone at the same way. Cancer says , I love you , or I do n't love you , and it will be attached to that idea.
+
+So , the concept is like the crap that is grabbed to the rock in the sea , and it does n't matter how hard the way it will hit , the crap will be there , like fix in that idea , fix in that concept , okay , that will be.
+
+So , that 's why cancer is much more attached , that 's the idea of attachment of cancer. The archetype of cancer is telling us that we are here because of the group of the family , that we have survived through thousands of years , because we have been , we have trust in the family , in the group , in the clan.
+
+So , that 's the only way in which we have survived , so cancer has been the sign , the sign to express this love that makes us be all together , so we can survive.
+
+So , it 's important to understand this cancer because we all are related with cancer as humans , as humans is almost impossible to escape from the condition of cancer of this archetype , and why is that? Because we , since the moment we are born , we have to give thanks to our mother because it was protecting us in a shield , in a shell , during eight , nine months.
+
+So , it 's because of this protection that we survive , that we live , and it is condition , it 's not free , it 's something that is condition.
+
+So , every human loves conditional , there is no way by nature that a human can love unconditionally because we have been designed biologically to live under conditions. This is why it 's important to understand the archetype of cancer , because we are designed by cancer , which is the wound of a mother , which is to be designed as a person that is condition. This means that unless we are born in a machine , from the very moment we are designed as condition. This is why all humanity loves by conditions through conditions.
+
+So , this is why humans are attached to things and to people , because basically we are attached to life , always from the point of view of biology.
+
+So , usually when we become much more spiritual and try to transcend the body and the family and the biology , we start to find the much more spiritual love , which is unconditional. And it 's the moment when we find the sciences , and we make this mistake , believing that that love is the divine love. But no , it 's the archetype of the sciences that you have transcend into the third aspect of that training team. But in order to get there , you have to go through the soul , which is scorpion.
+
+Make the point of this , because it 's very important. The archetype of cancer is the one that defines our whole humanity , because we rely our assistance to the biology , to the family , to the ones that are very close to us. And even if it is in a bad way or a good way , we are attached to their image by biology. Once we have lived this cancer perspective and we start to transcend , this is when we , this is at the moment when we make this mistake that looking for the universal love.
+
+We find the third option , which is the pieces way or archetype of the universe.
+
+So this is why we make this mistake believing that the universe is like pieces , like this love of pieces , which is not , it 's just one archetype of this Trinity , okay , a pieces opportunity.
+
+So this is why we have to understand that the spiritual love is not like pieces , pieces is just one archetype more of this 12.
+
+So in order to make a very good job with the love of pieces , then we must do a very good job healing cancer. Just to to closure this idea , one of the negative aspects of cancer is that is the sea of emotions. And why so many emotions because emotion means movement is the movement of life. The movement to go and to take all the things for the family , this movement , but it 's related to the animals.
+
+The emotion is related to the animals , basically because emotion and animal means the same emotion means ex-mortio that is from from the inside. We have from the inside we move something to the outside , so we move something.
+
+So that 's emotion , okay , and how do we do it animated by animation and animation means movement.
+
+So we are moving the emotions from the animal perspective.
+
+So that 's why one of the negative aspects of cancer is that they move constantly through the emotions , which is the animal level.
+
+So they lose the connection , they lose the connection of the reality because they lose this balance through the needs of the emotion. And I was explaining this related to this motion is about the constant movement that cancer must do in order to adapt because the world is changing constantly. Everything is moving , everything is transforming constantly.
+
+So cancer must adapt to change all the time because remember that cancer loves through conditions.
+
+So this is like the crab grabbing the rock , but when a huge emotional wave comes and hit the crab falling down , it has to adapt again and to wrap again the rock.
+
+So it 's a constant changing by the tides of the motion moving once again , once again. And this is something that makes cancer suffer a lot , constantly in every change because it 's detachment. Or once again , it has to attach again to something new.
+
+So that 's the constant movement. And this is one of the things that makes the cancer people cry a lot.
+
+So if you see the cancer people they are suffering all the time by emotions and it 's crying and crying.
+
+Something that for people like Leo and Capricorn , that 's really good. Understand much , but this negative things that we think that is negative to cry a lot is not because to cry means that you are doing the process of changing within. For example , the water that you have to cry , the juice that you produce when you cry , has the information to heal the conflict that you are feeling. That 's why the body is designed for the drops , the tears to come straight to the mouth as you for sure have experience.
+
+So this is because the tears has the information to transcend the conflict that you have. And it 's not like for example , oh , so I would put an onion in my eyes so I can cry and have information. No , it 's not like that. It has to be from the emotion that you are having that you are feeling that is produced.
+
+So it can go outside and you can bring the solution of that.
+
+So crying is the first medicine of the body.
+
+So we are entering the age of Aquarium. This does n't mean that we are going to live behind cancer , but that this cancer that we have inside must have to adapt to many changes.
+
+So the main key that we have to learn from this new time through the vision of cancer is to death from the things much more.
+
+## Daily Practice Elements
+
+So let 's go to the line. The vibration for today is beer. The statement for today is I am nourishment for the being. The code for today is up.
+
+The concept that we call up position over on top is a direction of special perspective of the outside being up the conception of standing over a space. Universally is considered the upside of the external surface of the sphere in any direction or expansion from which placing over itself a linear axis sky earth is perceived. This way the stellar or overcoming will always be seen on top.
+
+Remember that according to what happened yesterday. If I just disappear and I do n't do the alignment , you have to do it by yourself.
+
+Remember , you have to do it in your own way.
+
+Remember that the last month of our path is cancer.
+
+So the last day for sure we will say detachment and that 's it. That 's the end. It 's. It 's take.
+
+I have a weird outcome in glass. We 'll begin. See , comfortable. Close your eyes and concentrate on your own breathing.
+
+Bring your attention to the blood with your body. It 's you become aware of your entire body. You perceive how the blood is moving through. I see breath.
+
+You feel how the oxygen goes to the lungs and starts to be distributed through hard and veins. Reaching every organ , every smell through this blood. Inside of each cell I can find that data of all my family. Everything that I have been that I am and that I will be.
+
+And the blood is flourishing each one of these cells. This is why we say the family is in the blood. I recognize that everything that I am physically emotionally , mentally , my ideas , thoughts and beliefs. All of it are conditions with my family , to our history.
+
+Each cell of my entire body is a condition. But I realize that this cell that was created to protect me with all this patterns that limit me. Where all build through love. Each cell is united to the other one , the next one I love.
+
+The cell , protein , the moods within my blood are moved , my love creating the reason of my existence. I recognize that I am made by the love , myself , my body , by the love of my parents. The united , they have a lot of their own bodies. I am made with the love of the families that got together for me to hear.
+
+Of the times that moved ahead for us to be here. I am made of the love of those migraeges , of the love of those who build the cities and that inhabit the nature. I love of those who created the cultures , religions , civilizations. I am built by the love of the entire humanity , expanding all of them coming from the same history.
+
+From the first humans I am made with the love of the first mother and its first cell mother , the mother of the entire humanity. Then I can feel the love of that mother , self , extended in the animal kingdom through all the species connected to the branches of the things , as the vegetable kingdom. And within the mineral kingdom , I can feel the love of every realm of this world. I am made with the love of mother earth.
+
+I am the cell of mother earth. And to side become the earth , I see in front of me constellation cancer , reminding me that I am the link of all those beings that made me be the mix myself. The evolution is the movement that makes me exist. I recognize that I am made by love and the conditions of this love.
+
+Every attachment , every crime , every suffering is born by this love. And as every being that lives within me through history , this crime is flourishing the being that I am to transform myself. I am the nourishment of the being. I am the nourishment of the being.
+
+And this is why I set my intention to transcend my conditions to be able to transform in a new time. This is like this that I realize that everything that I am attached to are just tools for my own evolution. I take with my hands the information of cancer and front me and I bring it a nourishment of tears from my body. Take an ingratht and each one at some time come back here and now.
+
+Thank you everybody for being there always and see you tomorrow , have a good time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

@@ -1,0 +1,211 @@
+---
+title: "Day 259 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 259
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 259
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - I AM presence
+  - I CAN affirmation
+  - month hole
+
+---
+
+# Day 259 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hi everyone. Good morning. Good afternoon , evening. I hope everyone is okay.
+
+So , anyway , even if you did n't read it , I will introduce the topic for today and kind of when I wrote , which is to advance.
+
+So , today I did n't go out because it was too hot and I was busy , so I prefer to be inside. The topic for today starts because of the topic that we spoke yesterday , regarding the pendants and in the pendants.
+
+So , yesterday we spoke about the pendants , and we said that someone is dependent from something when you are attached to some person to some people , when you are conditioned by something that happened before , when you are hanging from a situation or a person that you previously know.
+
+So , this is why what dependence means is that you are attached to those situations , to those things , and that you are hanging from them and your energy depends on them. And in the other hand , when you become independent , it 's because you 're there to transform , to transcend this connection from the past , and you are willing to move forward , to transform , to evolve. When we speak about independence , it emerges the concept that yesterday we did n't spoke about. We did n't speak about , sorry.
+
+Which is that , which is that we , even if we become independent from others or from a past or a situation , or whatever , we will always be dependent or something. Because as a very easy example , you become dependent of food dependent of sleeping when you are thirty , you start to become dependent anyway from something. Your body is dependent on the environment of the interaction with the others.
+
+So , even if we become aware of being independent as a being as an individual , eventually we will be facing this situation that a part of ourselves will need to be dependent on something. And why , basically because the entire creation is a network , is a whole network.
+
+So everything is connected. And the only way something can exist is because it 's whole by the environment. Otherwise , it would n't be able to exist.
+
+So this is why in essence , we are dependent of something.
+
+So another word that we usually say constantly is it depends. And we do n't really understand when we say it depends what it really means. When we say it depends , we are saying that something that we do is related to a specific structure , related to the answer would be depending on a reality , on an emotion , on a decision.
+
+So basically the difference between the pending and in the pendants would be the decision that we take on those things that depends. As I said yesterday , to depend on something , is a conscious election choice of a being.
+
+## Q&A
+
+So the question for today was , if to be independent is almost impossible because we always depend on something.
+
+So what is the word that , that , help me understand why I 'm following the concept of being independent? This is that the process of getting independent from something is the constant.
+
+So that is why we need to advance , we need to move forward.
+
+So this concept of being constant advancing in our reality is divided and seen from three point of view. It 's unconscious and conscious. When we see it from the subconscious , it is related to the dependency of many things that are in our environment like even breathing , eating , sleeping. Those things that we can not control , that are part of our biology , but the part of something really deep in ourselves , that is always impossible to control unless we do a hard work in ourselves.
+
+So the subconscious is something that , keeps us depending on the environment that is around us. The unconscious is the one that controls our emotions.
+
+So the emotions that links us to something , the attachments that we have to something. And by this emotions , we do n't feel able and we do n't even realize that we are able to transcend.
+
+So we get stuck or attached by fear by this kind of emotions to that whole concept , because we do n't know other good , anything different to do. And of course , we have then the conscious way , which is the choice. When you know that you can let it go , that you can transcend something , and you move forward. You evolve , you change , you transform , you transcend.
+
+So when we become aware , conscious , and we start to seek for independence , what life is trying to tell us is that we have to keep going. That we should not look backwards and do the tackles same as we usually do. That we have to keep moving , it does n't matter what happens.
+
+So the word advance comes from the word , the Latin word add , that means two , and anti , that means in front , or before something.
+
+So this wish will show us the next.
+
+So if we have a timeline , like from the point of view of our third dimension , we will put the past here , the present , and the future there. And we set ourselves here in the middle.
+
+So we can say that if we are here in the middle , from the present towards the future , we are talking about seeking for independence , and from the present towards the past , we are living the dependency.
+
+So now we can tell here that in the present , why we are dependent from the past , because all what we are in the physical , emotional , mental , they are a projection of everything that happened before.
+
+So we are hanging from the past , that 's why we are dependent from the past.
+
+So now we can understand here that we are hanging , depending from the past , and we will be dependent on the subconscious through the physical , in the unconscious , through the emotional , and the conscience , through the mental , the mind.
+
+So here we can say that through the subconscious , in the physical aspect , our body has been built by the cellular level , and the cells has been improving through thousands of years to develop into eating , sleeping , and all the processes that the body , the physical , needed to do.
+
+So we depend on all the things that our biological aspect has been designing for us to be.
+
+So we depend of this genealogical tree , of this biological tree. We are hanging from that tree in our subconscious.
+
+So in the subconscious , this means that whatever we want to do with our body , depends on our physical and biological history.
+
+So now we have the unconscious. The unconscious level is the one that will do the registry , the recordings of every experience , traumatic , happy , all the things that we have lived throughout our family , all the links , the emotional bonds that we have with people , all the things that we have felt and other ones have felt in our genealogical tree that is all in the unconscious way , in the conscious level. The unconscious is saying that from my ancestors and my own life and experience in this one life that I 'm living now , my emotions will depend on the things that I have lived.
+
+So the conscious level , something important to understand about the conscious level , is related with the mind.
+
+So someone that is conscious is not enlightened and lighted one. It 's not that when you become conscious of something , you are already there and aware of the things. No. To be conscious about something , it means that you can think about something and you can determine the environment according to what you believe , or what you think.
+
+So be conscious being conscious is when you take power of what you think , and you apply that in the world.
+
+So for example , someone that is conscious can be someone really religious that says you have committed a sin so you will go to hell. That 's also another kind of consciousness.
+
+Okay , because that person is believing , is thinking , is knowing what the person is saying , because it determines the culture , the purposes of their lives , according to that.
+
+So this means that they can think about it and that the conscience aspect.
+
+So it was , I think it 's good to clarify this because when we say today , we are working for the consciousness of the planet , it 's not that we are working to enlighten the planet. We are working for the people to become aware of this other two.
+
+Okay , that 's to be conscious.
+
+So the conscious will be my beliefs , my ideas , my thoughts , all that.
+
+Okay , so my beliefs , my thoughts , my conscious level will depend on my culture , traditions , study , teachings , whatever I have to do , whatever I have to receive before.
+
+So our three levels of consciousness depends on our past history.
+
+So this seems to be the fact that what I am now is specifically the result of my past. We have here a process , this process. When you have an idea in your mind and suddenly you change that idea , you start to do a reflection of yourself , you reflect on that idea. Think about that idea.
+
+Like for example , that 's the hell exist. That 's the same person that was saying , if you could be the same , you go to hell. Suddenly the person would say , it 's really like that.
+
+So it starts to reflect to think about it. And suddenly , a rise to the point that says , there 's no hell. The hell is something that I create with my own actions. And suddenly , a rise to the point of inflection would be through the unconscious when it reaches the crisis when that person realize that there 's no hell and that the hell depends on what you feel , what you have within.
+
+So that person tries to change the way in which feels the world , in which sees the world. And so by that , it starts to leave the process of reflection , which means to take a different action in the way they leave , not being a threat of the hell , not thinking about the scenes and becoming free to enjoy life. For example , that would be how it is transformed. This is why when we change the consciousness , the process starts to change the person.
+
+That 's why when we are saying , rise the consciousness of the planet , it 's not to go into another dimension. It is basically to make the person think about the reality that they were believing about , and then say , oh , maybe it 's not like this , it 's like this.
+
+So when you start to question your own beliefs , the process starts by itself to transform their unconscious and subconscious.
+
+So a change of consciousness and a process of awakening the consciousness is something that takes you to the path of knowing yourself , understanding yourself. Have this idea. When a person starts to become conscious , makes a reflection. It means to bend oneself again , to watch oneself again , observe the inside.
+
+So when you do that , you suddenly start to watch behind to watch towards the past. And to see your own image , your reflection in the past , is what in Latin you call respect. Respect is to look behind and to respect your past , to honor your ancestors. To understand your history , to understand what it means.
+
+And that 's why every time then we start to become conscious of ourselves , what happened is that we go back to the past to do what honor our ancestors , to heal our history , etc. Once I become aware of this , conscious about this , what I start to do is to understand , to bring the awareness of why happened all of that.
+
+So I make the point of inflection to change the ideas of the past to start a new action , something different in my life , which is the present. The present is that instant in which with consciousness , I can take all the heritage , all the information that I got to the past , and transform it into a new reality into something different. But let 's understand very well this. The present is just the result of the past , which means that the present depends strictly from the past.
+
+And what this means that if I do n't do an awakening of my consciousness , I will be always leaving in the past.
+
+So we will be leaving , acting , reacting , expressing ourselves through the past , and never through the present.
+
+So a person can be conscious throughout all its life by believing , for example , in a religion , having a faith. But that person would have never awakened its consciousness , if that person had never asked itself , or question itself about its own faith.
+
+So the process of becoming or awakening the consciousness is to take those things that we bring with us and to bend them towards us again.
+
+So we can analyze them and watch them closely. This is why this path that we are taking , take us to rethink all our beliefs to try to change the point of view of our own structures.
+
+So this would be the key of independence. When you release some of this links here to connect and create new ones. This will mean that I did n't cut the links from the past. I transcend the links from the past.
+
+I did n't erase all the things. I just move forward.
+
+So remember to transcend means trans , which is the other side , and scan the name means to climb. I 'm going to go up.
+
+So what really happened here , what happened here by transcendence , is not that the link that we have here before we caught it on this appear. Is that the same link we take it from the past from the dependency and we pull it into the next level. Like having the stairs and you go going up in the process of evolution.
+
+So to transcend is not to go up and erase the first steps of the stair. Otherwise there is no stair. There is no process of evolution.
+
+So to transcend is to recognize the importance of each one of the steps. It 's not a matter of disconnect , it 's a matter of reconnect.
+
+So basically to advance is to put yourself in front of something different or put the things that you have behind now in front of you.
+
+So you can change that your life depending on the things of the past and throw in the dependency on the things that you want in the future. The only thing that does n't , if this is a constant through time , advancing through time , the only thing that keep us living attached to things is our fear watching behind.
+
+So the reason why we look behind is because we are afraid of doing the questions. When we start to ask to question all the things that we believe is the moment when we awaken our consciousness. And we become independent from all the things that we 're before. And when we change this point of view when we switch the consciousness , awaken the consciousness , looking into the future , advancing the perception is to be a constant.
+
+The perception is that a lot of people stays behind. We lose friends , lovers , relationships , family. This is what makes us feel a threat to lose the emotional stability that we had with others. This is what sometimes makes us listen to this sentences like you were not like that you changed what happened to you.
+
+So these people , they do n't stare behind. These people are walking their own path. It 's just simply us that we change. And we start our point of view and we start to advance.
+
+And in front , we have more people. As you 've seen , every day , every week , we are going through the physical , emotional and mental. Trying to make the change.
+
+So we release the dependency from the past , moving forward. Life is advancing all the time because advancing is a constant in the universe like time and space.
+
+So the only thing that makes us believe that we are not moving forward is that we are watching behind.
+
+So simple thing. When things change , we have to adapt more forward because if we are attached to the forms of what it was , we live in the past. And if we adapt to the things that come ahead , we live in the future.
+
+So it 's really simple. The explanation is very simple.
+
+So of course that , to apply this , it 's not that easy. I ca n't adapt it.
+
+So today I wrote in the past , then when you can read it , so you will see it. I described the schedule that I had to do , that I was supposed to do during this year in this days that we are. I 'm describing the whole path that I was supposed to do around the world. And as you see , it 's very different from what I 'm doing right now , which is to stay here in front of the screen everyday , totally opposite.
+
+I had to decide that 10 , 15 days before and to adapt everything that I was supposed to do only three days before.
+
+So sometimes the biggest things are made with the simple things. And you just have to keep moving just by adapting to the new forms. Let 's go to the alignment. The vibration for today is rule.
+
+## Daily Practice Elements
+
+The statement for today is I am free wisdom.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

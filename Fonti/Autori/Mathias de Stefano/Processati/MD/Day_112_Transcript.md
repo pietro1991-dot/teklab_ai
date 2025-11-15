@@ -1,0 +1,278 @@
+---
+title: "Day 112 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 112
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 112
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - portals
+  - consciousness work
+  - crown chakra
+  - root chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 112 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone. How are you? It 's no battery. And I thought I was charging it all this time.
+
+I do n't know if I 'm gon na be a long time today , because I do n't really know if I 'm gon na be able to be seated much. If you know what I mean.
+
+So I do n't know if you see me moving constantly around , it 's basically because this is not gon na be , this is not being now my best position to be. As much intense it is the faster it heals.
+
+So basically what happens is that my spirit on my soul , they want to be here , they are fine. I have no emotional and no mental conflicts , but my body. He does n't want to be here. My body wants to leave this place.
+
+And I just realized about that. And now I am trying to speak with the body to see how to work with it.
+
+So that 's what it 's supposed to be. I do n't know how many times have you seen a person teaching spiritual consciousness with hemorrhoids in YouTube , but there 's always the first time.
+
+So let 's begin with the topic for today.
+
+Today we are related to the third eye.
+
+So our topic for today is vision. Let 's go to the early point of the third eye , because sorry because of the joke , but I am not in the best moment with my third eye basically.
+
+So let 's try to make it straight.
+
+So talking about the evolution. Our body has been designed to survive in this environment , to adapt to the environment where we are , where we lead.
+
+So in order to adapt , we have to know to realize the distances , where are the enemies , where are a place to hide , where is the food , where we have to know how to move in this environment.
+
+So some beings evolve in a way in which they can perceive by the touch by this like the cat , the mustache of the cat , to perceive the vibration around.
+
+So they evolve in feeling this vibration , and they evolve in the touch.
+
+So they create this solar , so the objects would be reflected like a echo.
+
+So like this echo , so in this solar there would be no where are all the things around. And another one used some cells that were very sensible to the light.
+
+So this light that was going all around captured by this cells , you can measure the distance of the objects and the sides of the objects around you.
+
+So this is how some animals evolved and used in the side to perceive the photons , so you can measure the distance around you.
+
+So as much this cells , this photosenspile cells evolve , they will be absorbing , receiving , or receiving different frequencies of this wave of light.
+
+So the light can be in different frequencies , so you start to perceive these different frequencies , and you now can see colors.
+
+So the eyes start to evolve , so they can perceive not only the distances of the things and the shapes of the things , but also the colors of the things. In this evolution of seeing , of watching things with our eyes , we started to evolve as mammals and to perceive not only more colors , but also to develop our brain to perceive much more data than only the colors.
+
+So this is how the humans became intelligent. And that 's the difference that we have from the animal kingdom , okay?
+
+So we can be intelligent.
+
+So now we will try to understand what is intelligent intelligence , so we could understand why our wave of seeing also has changed. Intelligence comes from the word inter that is between and migrate that means to read.
+
+So intelligent would seem to read between lines , okay?
+
+So the thing that we have different from other animals is that we can interpret things that we can give a meaning to the things. That we can give a concept or understand concepts behind the things that we see. Like for example , a lot of people would recognize that the color red is not only red , but also represents stop or danger. And if we see the color green , it would mean you can keep moving , it 's okay , it 's healthy , whatever.
+
+Okay?
+
+So we give a meaning behind the things that they are. That 's why we are intelligent , we can read between lines like in poetry. You have a poem , but what the poem is describing is not exactly what it 's saying , it 's a concept behind that you have to understand behind it.
+
+So the relation that we have between the intelligence and the site is that as we evolved , trying to interpret it with intelligence , all the reality , we need more and much more information data to understand environment.
+
+So we need to capture the shapes , the colors , the depth , everything that we have around , could perceive exactly or specific information.
+
+So this is what makes us intelligent.
+
+So intelligence is the ability to interpret it concepts that are behind the things that I can see.
+
+So there are many kinds of intelligent , you can use any intelligence , but they all means exactly the same , it 's not only about thinking intelligence is interpretation of concepts.
+
+So through billions and billions of years of evolution , we designed three different ways in which we receive and capture data from around from the environment. The first one would be the sub-conscious , the second one the unconscious and the third one the conscience. To picture how is how this three are , we can see that there 's a big sphere which is the sub-conscious , then we have a smaller one inside the unconscious and a very tiny one in the center which is the conscious.
+
+So those would be kind of the size so we can picture how they are. I would say like the 70 % of the all the data that is coming to us that we perceive from the environment , the 70 % of it would be absorbed by the sub-conscious. And this is something useful. This is something useful because through thousands of years of evolution , millions of years of evolution , the body , remember , needs to save energy.
+
+So in order to save energy , it evolves in a way in which , in which it says , I want to make sure you waste energy on capturing data that is not useful for your consciousness , for what you are doing.
+
+So I will let the sub-conscious to be in charge of all that information.
+
+So you do n't have to think about it all the time.
+
+So that 's why the sub-conscious is in charge of most of the data that you receive.
+
+## Guided Meditation
+
+So one of the things we would say like , we naturalized this things and we say , oh yeah , there 's all around me , there are things like there 's a bad , there 's a table , there 's water , there 's this screen and people commenting , but all this information and everything that I have around. All this data is not perceived by you because otherwise you would be like constantly thinking about everything. Even the air , your breathing , each time you have to breathe , the lever working , the intestines working , the heart beating , all the data that is inside that is around , all that. Imagine if you have to think of everything that is happening constantly.
+
+You wo n't be able to leave.
+
+So that 's why the sub-conscious is absorbing all that information for you.
+
+So the next level will be the unconscious. The unconscious is the other way in which you store it information. And that would be for example when I am talking right now , I 'm speaking here about this concept and you 're not thinking about each one of the words that I say because you already know the language , English or Spanish.
+
+So you understand the words , so you do n't have to think of each word that I say , you 're just capturing the concept , okay , the whole concept. All this idea , all this concept that you are , that you are having is something cultural because you have learned the language , you know the language.
+
+So you share that data with others and also for example the way in which you are , in which you are absorbing and receiving information is different from each one of us.
+
+So the information you are , the information that I am saying , depending on your family and your beliefs and your religion , you will be understanding this in different ways.
+
+So maybe I say one thing and many people here are understanding different things from what I say because of that.
+
+So all that data is encoded in the unconscious.
+
+So the last one and the time you want will be the conscious. The conscious is the one that for example I am saying something and suddenly you say , now I got it.
+
+Now get this , this and that how these are connected , I know the origin of the problem and I know now what do I have to do , how do I have to solve this. You know it 's this is the one that takes all this data and goes and act specifically what it has to do.
+
+Okay , now let 's relate this with the eyes.
+
+So according to the site , the eyes. Everything that we have in the universe , everything the universe is light , everything is photons , particles of photons. They are moving all around they are creating everything constantly.
+
+So if the spirit is one in the universe , so light is a way in which the spirit is expressing itself.
+
+So light is this concept of the spirit. But then this light is perceived with different shapes and colors. This different shapes and colors would be the different frequencies. The different frequencies in which this light is moving is what we perceive as energy and also what we call so.
+
+So the soul is the way in which you perceive the divinity around. And this is why by the eyes , you receive the spiritual light , you receive the spiritual light. And you perceive the soul of the universe by the side. And this is why then you reflect it into the outside.
+
+So that 's why we say that the eyes are the doors or the windows of the soul. Because you are reflecting constantly this information of the soul and the spirit. The soul of the spirit of the universe.
+
+So talking about the side , when we are talking and speaking about what we see , when we point into something , watching straight to something , we are aware.
+
+So this is the conscious of ourselves , the conscious watching something.
+
+Okay , perceive something. Because you are putting your intention on watching that that you have in front of you. If my two eyes are pointing in one specific spot to focus in something.
+
+So now the unconscious will be like this.
+
+So you can perceive the periferic side , the vision of the periferiab. That you are not paying attention to that because it 's not the main goal. You just know that there are things around , but it 's not your main goal. It 's around.
+
+And then you have the subconscious one that goes all around with things that you do n't know. With things that you do n't even see like the air like you 're not seen.
+
+Okay.
+
+So your eyes are watching all of that.
+
+So we are in the time when we are talking about the awakening of the consciousness. The awakening of consciousness means that we have been sleeping and living through the unconscious for a long time. That we have been receiving our lives through the lives of others , projecting ourselves in others. They are that others are guiding what we are supposed to be , what we are supposed to do , what we are supposed to see.
+
+And now the awakening of consciousness is when you go inside and start to watch what is inside of you. What is the vision from your own spirit? The gland there is related to going to sleep and wake up is the lineal gland , which is in the middle of the brain here in third eye. The awakening of the consciousness means that according to this gland that everything that we have been doing until now is by the unconscious.
+
+And then the unconscious is because of other people because of the group.
+
+So this means that I have projected my consciousness into the outside , reflecting reflecting me in the others.
+
+So it is an outer way of vision.
+
+So the awakening of consciousness would be exactly the opposite to go within to perceive my sight , my inner sight of the vision.
+
+So how can I go into the awakening of consciousness is not by going outside of the unconscious , is by opening my spectrum of vision. Not only receiving the outside , but also the inside and everything.
+
+So that would be through the subconscious. And basically this means that it is not about to get away from the unconscious and to become conscious is to understand the unconscious through the subconscious. Because the subconscious has been stretching all the information that I have been denying my whole life because I was willing to leave the lives of others. Because of this , the subconscious was touching everything that I needed , but I was n't paying attention.
+
+So in the subconscious I can find all the clues from my wisdom.
+
+So to become conscious is not to deny the other types of conscience and become aware. No , it is to open my vision spectrum and to perceive all of it. All the information that I need to understand myself is registered is recorded in my inner cells and in my cells and the information that one of myself have. Inherit by all the thousands and billions of years of all these animals and the tree of life and my family that I got.
+
+Until now and it 's all storage in my periphery vision of the subconscious.
+
+So we have a lot of information that we can take from the subconscious in order to become conscious. Different ways in which we can start to activate this information. Pay attention to the dreams of course. Also doing exercises with the eyes , making movements around in circles up and down and watching farther watching closer , practicing with the eyes constantly.
+
+And of course one of the things that I would recommend is to put yourself in front of a mirror , close to a mirror and stay there for a while. The time you think is necessary and watch yourself into the eyes. No stop constantly and that with the time will awake a lot of information around from the subconscious and we will show up and you will start to see shapes and information that you have there in the subconscious. And that you have there.
+
+It does n't matter the time.
+
+Some people will need just a minute.
+
+Some people will need one hour. It does n't matter exactly how long you are doing that. Important thing. Do n't be afraid in this exercise.
+
+Because they are just memories. It 's not something that will come to you and you know take you. It 's not energetic. It 's memory from yourselves.
+
+So sometimes you remember being an animal or horrible things but they are not coming to you. They are just memory in yourselves showing through the side.
+
+Okay.
+
+## Energy Work
+
+So important thing. I know that in history a lot of people have created this stories about demons and other portals and things in the mirror.
+
+So we are afraid to watch and like be to do this , be to do this and all these things.
+
+So in the unconscious we have this image that but they are portals that can be something wrong. Yes , mirrors are portals of course and maybe there is a demon in the other side. But if I see a demon , I just say good morning , good evening. I am here to work with myself.
+
+So hi , bye and focus in your own self. Do n't be afraid. Do n't keep with all these stories. Even if they are true.
+
+Just do n't pay attention to the bad part of it. We have to learn how to live with that. We have to go through.
+
+Okay. And that 's it. Do n't give so much power to the stories of darkness. Otherwise you will never find your light because you are afraid.
+
+Okay.
+
+## Daily Practice Elements
+
+So as always with always with respect , but never stop. The information for today. The vibration for today is child. Statement for today is iron , the minds and times.
+
+The code for today is the subconscious experimentation. Here is when the cosmos of time turn around in experience. For everything it 's already been expressed to us. A stationary , stationary , and changeable process occurs.
+
+That we all , the we call experiment experimenting , which covers sanctioning , reacting , acting , living , feeling , and feeling. Everything , driven , sorry , everything driving by pre-established patterns that I ca n't control. For they are the basis of my basis. They are all my past united acting in synchro.
+
+## Energy Work
+
+It 's all done. Fox. Take a deep breath as you begin doing a massage to all your body from the crown to the feet in a way of each part of your body. A sight to raise the body and massage the body.
+
+I tell to it that everything that I am doing is for its creates good. To imagine myself inside a forest or a rainforest. I relax taking deep breath. Going deeper into this forest.
+
+Until I perceive the shadows. Getting dark her and darker. I tend to listen to sound of birds in six. A sight to see tiny and needle ray of lights.
+
+Raging the ground in between the leaves of the greatest trees. Inside in the center of this rainforest I can perceive this beautiful and great huge tree , which is the tree of life. A sight to see how below its branches everything becomes light night. And above the sun lifted light came through the leaves creating thousands of stars.
+
+I lay down on the roots of the tree. I say watch above towards the sky to the leaves. I say I lay down in the roots. I perceive the knot in my back and how I start to be swallow slowly by this wet land.
+
+Feeling the knot between my hands surrounding my legs and arms. My feet shoulder. I become like the root of this tree. I recognize that I am part of this tree of life.
+
+And within it I can find all the information of all the history of everything that I have ever been. I realize different realities , families , all of that lives within me. I become aware that the only way I can perceive I can see all that information history is if I allow myself to fall deep into the void of my mind. I realize that I am part of this tree of life.
+
+I realize that I am part of this tree of life. I realize that I am part of this tree of life. I realize that I am part of this tree of life. I am the mind 's emptiness.
+
+I am the mind 's emptiness. There is nothing else and the plan we should but I can feel being part of this tree of life. Everything that I can see within it. I desire to see what I really am.
+
+I am the physical body where all the visions of the cosmos incarnate. I am earth and water. I am mud. I am humans.
+
+With my hands I start to take this mud from around and take back the net covering each part of me with this mayoral and salt. I am the mind that flourishes the tree of life. I am the mind that flourishes the tree of life. I am the mind that flourishes the tree of life.
+
+Thank you everybody for being there.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

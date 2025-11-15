@@ -1,0 +1,188 @@
+---
+title: "Day 365 - Consciousness Journey"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 365
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 365
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - energetic alignment
+  - portals
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - month hole
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 365 - Consciousness Journey
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi everyone , we 're morning , we have to do the things. Welcome to this day out of time , related to the element of water. I remind you all again that these five days out of time are the ones that we are using as a tradition from now on every year.
+
+So these five days we are going to get together somehow to do an alignment for each one of the days related to the information that we have been working in the consciousness path. And who did all together so we can integrate it to start a new year. And these five days are related to the five elements and the five platonic solids which is the structures of the creation.
+
+So remember that we have these five days out of time because if we create a perfect circle of time of 360 days. And we have five days remaining.
+
+Remember that these five days are because basically when you try to put in order all the time there is always some hours some days that get out of the perfect summary because the movement of the planet of the planet. And if you turn on the earth around the sun depending on the gravity changes for minutes or hours so it 's not always the same.
+
+So it 's very difficult to to make a perfect timing for a whole year or to start a cycle that 's why there are some days that are not going to be specifically 24 hours and they will change.
+
+So this five days out of time that we are talking about are spread along our actual calendar as you see we have some month of 31 days 30 days.
+
+Sometimes we have a month with 27 to an eight or 29 days February so we never know it 's kind of a weird calendar that we have because what a lot of people the been in the culture what they did was trying to adjust their calendar to those moments those days that nobody knows where to put.
+
+So as you as you have seen this I do n't know how are you say the English the every four years when. February has another day this is like because the rotation of the of the planet around the sun we are summary some hours so we have to create another day to compensate this. This chaos in time okay so that 's why it 's so weird.
+
+So but other cultures like the冷 one what they did was to organize a perfect cycle of time of 30 days each month 12 months of 30 days and all these hours and days that were running around so they put them all together and they call it days out of time. As you have seen is very difficult in a sphere in the cycle of the planet going around the sun to say this is the moment when a year begins is impossible because. Every latitude and every longitude in the planet we have different perceptions of time according to our position so the people who lives close to the north pole is completely different the time frame. And then the people that lives in the Ecuador so that 's why we have to kind of decide according to where we leave when the cycle 's begin.
+
+So according to our perceptions we can decide that as new cycle begins according to where the sun is when the sun appears or when some stars appear. This is why most of the cultures usually take sources and equinox as a moment to make a mark to begin the year which is basically equinox the moment when the earth is equilibrated with the sun and the source this the moments when the sun stops and then comes back to their to its position again.
+
+## Q&A
+
+So for example you might ask why our year begins January 1st and ends December 31st 31. Well the reason is basically because Roman people love party a lot so actually all the ancient cultures ended their year in the solstice of December.
+
+So the first or 22nd of December which is basically the time of the time of the solstice.
+
+So everyone celebrated that in that moment the sun stopped going going to the south and. But God still for three days and then comes back again to the position towards spring and summer so it was a celebration to say we are beginning our path again to. The new year but the Roman people loved party and they celebrated the return of the sun for around 11 days so 11 days of party in the winter to celebrate that the sun is moving back towards the spring okay.
+
+So when the party ended that was the end of the year and the next day you have to start to work so that 's January 1st okay so this is why we have basically this celebration of the new year that day there 's nothing special with that moment nothing astrological nothing really important is just that the Roman people. The entire of party. Basically so we what we are doing with the five days is celebrating basically the room the the Atlanta calendar the Atlanta calendar did n't relate themselves with the sauces and neck notes even if they celebrate them but they. They use the the middle year the use serious the start serious as the beginning of the year because serious sometimes goes down in the horizon for six months because it goes to the south.
+
+You can see it in the north and then. It appears again in the north so when the star series which is the brightest star in the skies comes back to the to the north and sky. It meant that the new year is beginning okay so that 's the way some ancient civilizations used to. But all the other in their times.
+
+So from the moment that the star of series appears in the horizon we start to count 360 days a perfect cycle. The 360 degrees of the year and. Then the five days out of time which is the party. Why would choose these five days and not other five days because remember the start appears the star series appears in the horizon depending on the latitude you are in if you are in the middle of Europe.
+
+Your year the star series will appear around the 15 always 15 or something like that or yeah around 10 11. If you are in Norway in the north of Europe. It will appear like in the August 25 or something like this okay so very late so your days out of time would be in the middle of August. But if you are in Mexico in Central America the five days out of time well the star series will appear like around.
+
+July 25 so it 's dependent on the latitude you are in that you choose the beginning of the year that 's why it 's so complicated and. We choose August 4 because the all the part of the I am was in the latitude 31 and 33 in between. The regions of Egypt and Israel so in that. Not frame.
+
+The star of series appears so because of the whole project was there in Egypt so we decided to make it the for the August 4 the first day of the year.
+
+So I know that my birthday is August 4 to so it the year begins with my birthday. But I 'm not such a Leo I mean it 's not that I decided to do the whole thing because it was my birthday okay just to make clear maybe I am a little bit Leo by deciding to be born the day that the star rises in Egypt but I guess well everything is like. Like coordinated for sure but I was supposed to be born August 12 but my mom got says right and I was born in the fourth so maybe I did something to be born that moment.
+
+So this is kind of a summary again so we get used to the information of why we are celebrating this new year in this moment. Yeah this five days and so on.
+
+So the three things that I wanted to so as intention because these five days are to so intentions for the future for things to come so I want to so this seed with all of you about these three things that we are going to to do next year.
+
+So the first thing that I wanted to share is that everyone who is going to subscribe who is subscribed already or going to subscribe until August 4 which is today. Although who are subscribing for the for the evening November in this week. And that has already done it. Will participate of a workshop that I will give August 13 online okay about Atlantic cost musician.
+
+And I wanted to clarify something that I that today they told me that I was saying it wrong because I. Makes it with the second point which is that that this this course of of Atlantic. Como vision that I will give August 13 is not only for fire and water groups is for air and air too so the four elements that are going to be present in November. And I will say the four elements will be able to join those who have subscribed before August 4 okay so.
+
+If you have subscribed for August 4 and you are. If water or fire so you will be able to be in that workshop that I will give okay. And I was then mistake that I did.
+
+So the second thing is that those who have been physically in Egypt. And or. I 'm going to be in Argentina you can have gone just to Egypt or just Argentina for both of them does n't matter you will be able to participate if you are fire and water is to. You are going to participate in the are saying the facilitation next year 2003 okay so you will be in those courses.
+
+And I will be in the next year with me yeah so have that money. And the third thing that I want to share is that we are so in the intention this days to manifest the months university which is for on to present. And on top of it so the idea is to put all the knowledge together. To make a university where everyone can go and learn about all the topics and.
+
+The what I wanted to share with all of you is that you are making this possible by. I mean members of the foundation by going to the gatherings so what we wanted to. To do is to make you all. Seat founders of this university so if you have gone physically to our gatherings new gift and will be physically in Argentina your name your certificate of founder will be.
+
+Okay so we want to name you co-founders of this university because you physically help us to make it possible. And so thank you for. For helping. For helping us to make it.
+
+Visit all to manifest this. This center of education that I always want to be it so everyone could. Could manifest could share this knowledge. Yeah and easy way.
+
+## Energy Work
+
+So these are some of the things that I want to to manifest in the days. And this special year portal year that. That is the beginning of all the things that we are going to manifest. After this year.
+
+So I remind you that today we are going to integrate the information of water. And we are going to be able to create a similar that in us.
+
+Remember that the trend of water is related to the work that we have done in the months of cancer. Scorpio and pieces.
+
+So we will go through this. Three types of water and integrated. Inside of us. Yeah.
+
+And I 'm at your lot of those. Hello everyone.
+
+Sorry I was just saying that. That you can hear the water running. Back there. But I thought it was the bathroom that was leaking.
+
+But now it 's a phone. It 's a fountain that he has at home.
+
+So we do n't get so intense because maybe we will get intense.
+
+So let 's remember cancer. Scorpio. Pieces. Sit comfort double try to find a comfortable position.
+
+We close our eyes. Concentrate in your breathing.
+
+## Guided Meditation
+
+Softly we massage and carry our body. To let it understand that we are not leaving to the mind. But we are fully present in this body. Breathe.
+
+Once you are trained in your breathing. Feeling the air coming in your lungs. Receiving the humidity in the air. I feel the oxygen and hydrogen flow from my lungs to my heart.
+
+Flow into my veins inside the blood as rivers distributing throughout every corner of my body. And I become aware that more than the 70 % of my body is still up with this oxygen and hydrogen. I am water. And every time that I exile , I set part of this water free from myself.
+
+I 'm in bug. To the humidity of the air. I take a deep breath with the nose. I exile through the mouth.
+
+Feeling the water coming to the humidity of the air. And this is how I recognize myself as part of the humidity in the air. Dry sub to the cloud. I hesitate with a thin water towards this kind.
+
+The knowledge in that same water I am is the same water that creates the clouds in this case. In each breathing I can feel the movement of the cloud. I can sense how my body , the clouds , carousthamountains , creating fog , mist. I can feel how I get cooler , attracting to me the mist of others.
+
+Becoming a drop. Everything that emerged from me in my breath turns into a drop of water in the clouds. Every feeling , every emotion. Every word that comes from me , from my veins , my organs , myself.
+
+Everything that I feel , my emotions. I hesitate this kind , turning into drops of water. The clouds are filled with all the emotions and tangyness of both humidity and feel. And the light in this sky is filled up.
+
+It 's water. It 's drops with information. It 's my self-draught , turning into rain. In eyes on the top of the hills , turning into snow.
+
+There 's no melts with the rain. We need dreams that flow through the rivers and lakes. My life is being drank. It 's drunk by all the beings that walk aside me.
+
+I 'm truly living creature towards the ocean. A siris of nice myself , a stir river. I acknowledge that my life is a river that flows through sharp territories to the flat ones. I 'm truly happy to be able to be drunk by other beings that takes my water from me.
+
+I have to struggle shaping the rocks and walls to make my path. And the every step , the water keeps the memory of the shade , the memory of every experience. The water is being sung , drunk by every soil. Every lagoon , every wetland.
+
+Down there , hidden by the dark , we find everything that is buried. And that gives life , while it 's touched by the water. The water brings life back to all those things that we have killed within ourselves. Giving to it a new chance to turn into life.
+
+I allowed to recognize all the things that I have hidden , all the things that I do n't want to see that I forgot. That are dark inside. I allow myself to bring it all out of the mountains as trains. Let it all purge along the flow of the river.
+
+Come back to transcendence and consciousness in the sea. I take a deep breath and allow my body to move as the waves of the water in the sea. I feel in my body that the path that I have taken along the river , unites with many others. That every drop of water that I turn to , are as high as many others.
+
+I move like the waves of the sea. I transform the reality from the rocks and from sand into salt. I transform all my modes into the essence of life. And as I move , I ca n't first heal along the coast.
+
+And every one of me family , my friends and brothers and sisters , lovers , all humanity , flowing as the waves of the ocean is seen. Transforming ourselves once and again in each life. I allow myself to fall into the ocean , going farther inside the water far from the coast. Until there is nothing else , nothing more to transform for I am everything in the deep blue.
+
+I am just a tiny drop of water in the ocean , and so I am the ocean. I find here the harmony of my being , the peace , realization that everyone lives in me and I live in everyone. And knowing this is that I decide to leave each one of them. And it is so that I decide to become , or my water becomes , missed , and the missed turn into cloud.
+
+The clouds turns into snow and rain , walking the path again throughout the rivers and lakes , being born again , allowing myself to leave. And you life is born from the awareness. I am the eternal life , where I am water. I am the eternal life.
+
+I am the eternal life. I am the eternal life. I am the eternal life. I am the eternal life.
+
+I am the eternal life. I am the eternal life.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

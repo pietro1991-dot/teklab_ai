@@ -125,19 +125,21 @@ class EmbeddingsGenerator:
     
     def find_all_rag_folders(self):
         """
-        Trova tutti i file markdown nella nuova struttura Fonti/ (file unificati COMPLETE.md):
-        - TK3_SERIES_COMPLETE.md (Oil_Level_Regulators)
-        - TK4_SERIES_COMPLETE.md (Oil_Level_Regulators)
-        - TK4_MB_SERIES_COMPLETE.md (Oil_Level_Regulators)
-        - LC_PH_COMPLETE.md, LC_PS_COMPLETE.md, LC_XT_XP_COMPLETE.md, TK1_COMPLETE.md, ROTALOCK_COMPLETE.md (Level_Switches)
-        - K11_COMPLETE.md, K25_COMPLETE.md, ATEX_COMPLETE.md (Sensors)
-        - ADAPTERS_COMPLETE.md (Adapters)
-        """
+        Trova tutti i file markdown in:
+        1. Fonti/*.md (file Teklab unificati COMPLETE.md)
+        2. Fonti/Autori/**/Processati/**/*.md (transcripts spirituali)
+        
+        Supporta struttura multi-autore con categorizzazione automatica.
+        \"\"\"
         markdown_files = []
         
         if not FONTI_BASE_PATH.exists():
             print(f"❌ Cartella base non trovata: {FONTI_BASE_PATH}")
             return []
+        
+        # ========================================================================
+        # 1️⃣ TEKLAB FILES (Root Level - Prodotti tecnici)
+        # ========================================================================
         
         # Mappa nome file → categoria (per classificazione automatica)
         file_to_category = {
@@ -162,7 +164,7 @@ class EmbeddingsGenerator:
             "ADAPTERS_COMPLETE.md": ("Adapters", "Adapters"),
         }
         
-        # Scansiona tutti i file .md nella cartella Fonti/
+        # Scansiona file Teklab nella root di Fonti/
         for md_file in FONTI_BASE_PATH.glob("*.md"):
             filename = md_file.name
             
@@ -175,9 +177,45 @@ class EmbeddingsGenerator:
                     "doc_type": "unified_complete",
                     "source": "Teklab"
                 })
-            else:
-                # File non riconosciuto → categoria generica
-                print(f"   ⚠️  File non mappato: {filename} (categoria: General)")
+        
+        # ========================================================================
+        # 2️⃣ SPIRITUAL TEACHINGS (Autori → Processati)
+        # ========================================================================
+        
+        # Scansiona ricorsivamente Fonti/Autori/**/Processati/**/*.md
+        autori_path = FONTI_BASE_PATH / "Autori"
+        
+        if autori_path.exists():
+            # Pattern: Fonti/Autori/[Nome Autore]/Processati/**/*.md
+            for md_file in autori_path.rglob("Processati/**/*.md"):
+                # Estrai nome autore dal path
+                # Es: Fonti/Autori/Mathias de Stefano/Processati/Pyramid.mathias/Day_1_Transcript.md
+                parts = md_file.parts
+                autori_idx = parts.index("Autori")
+                author_name = parts[autori_idx + 1]  # "Mathias de Stefano"
+                
+                # Estrai serie/collezione (se presente)
+                processati_idx = parts.index("Processati")
+                if processati_idx + 1 < len(parts) - 1:
+                    series_name = parts[processati_idx + 1]  # "Pyramid.mathias"
+                else:
+                    series_name = "General"
+                
+                # Estrai product name dal filename (Day_1_Transcript.md → Day 1)
+                filename_base = md_file.stem  # "Day_1_Transcript"
+                # Rimuovi suffissi comuni
+                product_name = filename_base.replace("_Transcript", "").replace("_", " ")
+                
+                markdown_files.append({
+                    "path": md_file,
+                    "category": f"Spiritual_Teachings_{author_name.replace(' ', '_')}",  # "Spiritual_Teachings_Mathias_de_Stefano"
+                    "product": product_name,  # "Day 1"
+                    "doc_type": "spiritual_transcript",
+                    "source": author_name,  # "Mathias de Stefano"
+                    "series": series_name  # "Pyramid.mathias"
+                })
+        
+        return markdown_files
                 markdown_files.append({
                     "path": md_file,
                     "category": "General",
@@ -266,7 +304,8 @@ class EmbeddingsGenerator:
         metadata = {
             "keywords": [],
             "qa_pairs": [],
-            "natural_questions": []
+            "natural_questions": [],
+            "practice_elements": {}  # NEW: Spiritual practice metadata (mantra, chakra, etc.)
         }
         
         # ========================================================================
@@ -299,6 +338,29 @@ class EmbeddingsGenerator:
                     if kw_match:
                         keywords = [k.strip() for k in kw_match.group(1).split(',') if k.strip()]
                         metadata["keywords"].extend(keywords)
+                
+                # ====================================================================
+                # 🆕 ESTRAI PRACTICE_ELEMENTS (Spiritual Transcripts Only)
+                # ====================================================================
+                # practice_elements:
+                #   mantra: "I CAN"
+                #   vibration: "MA"
+                #   statement: "I am the portal..."
+                #   chakra: "Crown"
+                
+                practice_pattern = r'practice_elements:\s*\n((?:\s+\w+:\s*.+\n)+)'
+                practice_match = re.search(practice_pattern, yaml_content, re.MULTILINE)
+                
+                if practice_match:
+                    practice_lines = practice_match.group(1)
+                    # Parse ogni riga: key: "value" o key: value
+                    for line in practice_lines.split('\n'):
+                        if ':' in line:
+                            key, value = line.split(':', 1)
+                            key = key.strip()
+                            value = value.strip().strip('"').strip("'")
+                            if key and value:
+                                metadata["practice_elements"][key] = value
                         
             except Exception as e:
                 # Fallback silenzioso a metodo markdown

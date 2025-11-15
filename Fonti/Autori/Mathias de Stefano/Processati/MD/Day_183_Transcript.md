@@ -1,0 +1,352 @@
+---
+title: "Day 183 - Portal Opening"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 183
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 183
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - portals
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - constellation work
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 183 - Portal Opening
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi everyone , how are you? Good morning , good afternoon , good evening. Happy year of the AM.
+
+## Energy Work
+
+Today we are in the middle of our path , in the portals of the time and the space.
+
+So , because there are so many people that had joined us lately , that I will explain a little bit of why we are in the half way.
+
+Today I painted this. I was doing this connecting to the surgical things that we were speaking about today. Aquarium. This is what we do in a period of time.
+
+Detachment.
+
+## Q&A
+
+Some people were asking about yesterday the message that I received it was my own connection with my own aliens.
+
+So , it was part of my task , something that they , something that clarified things that I had to do in the late months of this year.
+
+So , I will explain something that is related to the constellation of signals , which is topic for today. I forgot about one day.
+
+So , first of all , let 's talk about this. This dates nothing happens. Really , there is nothing really happened. These days are just codes , numerous , numerous codes.
+
+So , they are written that you can read them from one side to another. That 's not it.
+
+So , the reason why they are codes is because people can see it and recognize that something special is happening. And the reason why this is so important is because all the people can see and is connected to this same code.
+
+Okay?
+
+So , it 's not about what is happening in the stars. It 's about what is happening in our consciousness. That is why.
+
+So , this number is a sum of eight to it 's eight.
+
+So , eight is the number of the tourists , which represents the time , the number of time.
+
+## Energy Work
+
+So , that 's why the portal of time is this day. What 's this day? Exactly one year ago. And then this day will repeat again.
+
+And that day will repeat in February , 2022. In February , 2022 , we will have again all these numbers. And why this date and not in 2022? Because this makes 12.
+
+All these numbers make 12 , which is the space , the omega tyrant.
+
+## Practice Structure
+
+So , it 's the structure of the space.
+
+So , here the 12 is important because it closes the cycle of time and space.
+
+## Energy Work
+
+So , in between the portal of time , 2022 , in between with this other portal in 2022 , is the frame of the door where you go from one spot to another.
+
+So , that 's why , in between February , 2022 , 2022 , we will be living this kind of weird time of coming from one spot to another.
+
+So , this is why one month after , 2020 , the COVID and quarantine started and all those chaotic things. And do n't expect it to end until at least the beginning of 2022.
+
+So , yeah.
+
+So , anyway , these ears for those who are working with the consciousness of the planet , these ears will be very , will be the key for this transition.
+
+So , we have still one ear more of this weird situation.
+
+Remember that in between , we started this ear the August 4th , because serious the start rise up on the here in care in GIS.
+
+So , we started the Syrian ear according to the , to the Atlanta calendar. It does n't usually rise up the August 4th , it moves around like sometimes it 's a days before , sometimes days after , it depends on the position of the planet. But it was amazing that this past year when , when I made , sorry , this past year , the start rise , rise up. The August 4th , which is my , which was my 33 birthday.
+
+So , this is why we end up also this conscious ear in July 2009 , the 2021 , because remember that we have five days out of time , according to that calendar.
+
+So , the 33 , 31 , 1 , 2 and 3 are the days outside of time. These things that we are doing every day are only going to be in between this day and this day , which is the time of the alignment of the consciousness of the planet in between this.
+
+So , after this date , after this date , we have to connect the planet from the north pole to the south pole in the path of the dragon.
+
+So , the last connection that we have like this will be July 29 , 2021. After that , I go to the north pole.
+
+So , from the north pole to the south pole , I will be going into certain places of the planet. And then I come back here for this date to close the whole project. And at the other day , I will go sleep. This is why today , the second , we are halfway to halfway to the end of the project of the I am.
+
+We have too many things to do , so we will keep working.
+
+So , for the people that say , if you do that , why you did n't set anything about the virus and the answer is I did. I did in 2019 , I explained about the virus in 2020 , but I explained in a different way , because for me it was like , I thought it would be more conceptual , because everything that they explained to me seemed like , there is spiritual way of saying it , so I did n't , I had no idea that it would be so exactly , according to what they said. But if you check my post in 2019 , you will find it.
+
+So , signs is one of the north end constellations , and it 's bigger star is the name that in Arab means tail. And is the tail of this , I do n't know where I 'm English , or signs , swan , swan , oh , swan , okay , thank you , swan , okay. Then , the tail is one of the north end stars of the like Paris that was the north end star , approximately around 15 to 16,000 years ago. And it 's also known as the cross of the north.
+
+So in the south , we have the south end cross that we call it the south end cross , but actually , it 's name is just crux , that means cross in Latin.
+
+So crux is only seen in the south end hemisphere and signs , the north end cross is seen only in the north end hemisphere. Even if you look for it , if you are in the south end hemisphere , you will never see this one , if you are in the north end hemisphere , you will never see this one.
+
+So just , I want to be really sincere with you , I do n't remember anything about what I wrote today in the blog.
+
+So I recommend you to read the blog , and I would do the same when I finish this video because I do n't remember. But kind of the idea of what signs means , I have.
+
+So the reason why I do n't remember is because I do n't know , it 's so much information that I do n't even know exactly what I 'm explaining.
+
+So yes , it 's like a fiction like a movie. But I think that is related to the seat and the cube. I have the earth here and signs , the swan and the crux in the south. They were present really an important thing here for purpose.
+
+What? Then in the signal constellation was the north end star , 16,000 years ago , approximately. And it was the moment when the Atlantic civilization started to rise and understand its purpose in life in the reality.
+
+So basically the purpose of this civilization was to reconnect the network of the planet through consciousness.
+
+So we could open the portals in between time and space.
+
+Remember that we spoke yesterday that in order to go through space , we need to activate the machines of time , which is through the vibration of the atoms. This is why the Atlantic civilization on earth had to open the doors from north to south between time and space. And it 's something that we used to call the Atlantic Cross. And the Atlantic Cross was the key of the civilization.
+
+So the cross of the north is the one that represented the four times. To be born , to grow , reproduce , and die. Express , experiment , integrate , and transcend. And the southern cross would represent the four spaces.
+
+In front , behind , right , left , north , south is the west.
+
+So in order to connect the north and the south , the time and the space , they had to work with the connection of this structure , which was the four times manifested in space. That we call , sauce this and equinox.
+
+So spring , summer , autumn , and winter.
+
+So kind of like this in a very horrible way.
+
+So now we can see that we have the north and the south and the south and the south and the south. And in the center would find the earth. And this earth will be connected and hold by spring , autumn , summer , and winter.
+
+So when we today call that Landing Cross , it 's really a cube.
+
+So the cube can also be connected with an inner cube connected to every one of the dots. A structure that we call this rock.
+
+So I can also expand this cube in different dimensions. Going up , going down , coming out from this side , from below , from anywhere. But I 'll pick that.
+
+So another way to connect and manifest this structure of the project is by taking this cube to each one of the sides. Expressing different dimensions. Up and down. On the back.
+
+Below. That 's another way.
+
+So it was so difficult to make a graphic of this in the past in three dimensions that it was easier for the people to make this drama. We call this chakana in South America. But this is not only from South America. This is from everywhere in North America in Africa , in Middle East , in Europe , Asia.
+
+It 's a pattern known by many. It 's just sometimes we just take this.
+
+So that 's the cross. Never ever since the project.
+
+## Q&A
+
+Remember that we spoke so many times how to activate the cube. The question would be , how do we activate the cube?
+
+So to activate a cube , it 's very easy , which has to see there and mediate.
+
+## Practice Structure
+
+So there is one way we see it like this as humans to mediate is because this person is inside the structure of the tetrahedron. The first one will be the north in positive. And we have the base of Trinity , the migration energy and matter. This is the physical , the physical dense aspect.
+
+And then we have the aspect of the subtle.
+
+So we will have the solvenetic and above the Trinity that we will call love , wisdom and will. Love , wisdom and will. This is the structure that then we will know as the star of David.
+
+So remember that in between this two , if we accomplish to get this structure , we will recognize that this structure of the Merbabu is the key to the expansion to everything , to all the things that are created in the universe. In the perfect vibration and harmony , you can connect with the basis of the atoms of the creation.
+
+So you go beyond the structures of this reality and you , by this , can travel through time and space , time and space. And here 's where we find the cube again. We find the cube. And here we have again our famous cube.
+
+So what the Atlantis we 're trying to do by connecting all this often cross and the southern cross in the center , activating this Merbabu , was trying to make the whole plant earth into a spaceship. The travels not through places but through dimensions.
+
+So what Atlantis did was something that usually people does for themselves like aligning , mediating , creating this pattern of light , maybe enlightened cells as masters , high masters. But what Atlantis tried to do is to do exactly the same with the whole planet is really being. How can you do that?
+
+So in order to accomplish that , you need to go and look for the specific spots to build the machines to activate the entire spaceship. And they did it following the lines of this structure.
+
+So easy how they did it. They start to build the structure of the whole earth.
+
+So how they did it. They opened the structure. How do you open the structure in the same way as for sure you have heard the senses. Think out of the blocks.
+
+Think out of the box.
+
+So they expanded the box. Can you see the expansion of the box? Is what you call Doria Patron.
+
+So this is one of the doors of the box opening , breathing , think out of the box. And this is how they started to find the matrix of the flower of life , the structure of the main creation of all the things.
+
+So the Icosahedron. This is what makes the earth a spaceship.
+
+The reason why Atlantis tried to do this to make the planet a spaceship is because all the other planets that were aware of this. They made their own worlds into spaceship. And through the network , they found how to travel through all the planets that are aware of themselves. If one planet becomes aware of each one of the nodes , it opens the doors through all the worlds in different dimensions.
+
+And they just tried to do this guided by sickness. And the ones in the south guided by trucks. Because through sickness , they found where was the axis and that time.
+
+So the core of all this structure is what we call an octahedral. Is this an octahedral? That 's the center of all the creation. Is the core the heart of the of the of the merkaba.
+
+And what is this is basically a pyramid.
+
+So each pyramid is a key for the machine. Each pyramid is the heart that must be in order to activate all this.
+
+So the pyramids are like the dandandandandandandandandandandand. For the entire machine. Basically because it 's the heart of the merkaba.
+
+Remember that in the core of all this , there was a human mediating inside a merkaba.
+
+So the way you activate the whole merkaba is with your inner seed. The inner octahedral. And that octahedral is in between the heart and the plexus.
+
+So in order to activate the potential of this machine. Then we have inside the seed of our creation. We have to be who we are to find the I am in a plexus. And to share what I am with others.
+
+Where the we are.
+
+So the way we activate all this machine is by. The heartbeat of the heart.
+
+So the if the heart is out of the harmony.
+
+So you get lost and this is not activated. But if you find the balance and coherence , this is activated. And what is what I am activating here. The inner potential of my multidimensional aspects.
+
+My divine in the sky activated here in the earth.
+
+So what is the seed? This seed is the one that we so long time ago. From another dimension. And how?
+
+Why? Because all these doors are open to any dimension. And as in anybody. In every reality we have viruses.
+
+And some of these virus are in different dimensions. Distortion of the self.
+
+So this virus can go in between these doors. And the only way in which you can really heal. In between different dimensions. Is if the white cells and the proteins of those dimensions are born.
+
+As a part of the immunological system. And the way in which you can heal are the seeds. A virus in the body is if the cells leave the experience of the virus. Leave the experience of what is the problem.
+
+So you can handle it from within. And from there you can heal it.
+
+So to understand this. It 's easier to compare with our body when you have a disease. A virus for example or a cancer for example.
+
+So one cell of the body. One cell of the body starts to distort it itself. And when it distorted itself starts to use the energy of the body to survive.
+
+So it starts to kill other cells. And imagine that this cells of the cancer is in the lungs. Suddenly the lungs starts to. It makes it metastasis and it goes to everywhere.
+
+So it changes the organs. It goes to the stomach. It goes to the heart. That 's changing from one dimension to another.
+
+Change from one dimension to another from one organ to another. It 's exactly the same.
+
+So when this cells starts to make metastasis. The immunological system starts to act. Which is to try to find balance. And balance is what the confederation is doing.
+
+It 's exactly the same as the immunological system. What it 's trying to do to find the homeostasis. The homeostasis is the factor that helps the body to be aligned in balance.
+
+So the confederation is basically like that system. But how can you heal? At problem that is from within from the same body. You have to become those cells to understand.
+
+To understand where is the mistake.
+
+So they see themselves in this world where there is the disease.
+
+So they could heal it from within. And it takes a lot of time to understand it from within.
+
+So that 's why we see ourselves from the alien world to live a human experience.
+
+So there are aliens that are the disease and are humans that are the disease. But that makes them bad people or good people. No. They 're just distorted or balanced.
+
+What is the mistake? That is what we are trying to solve day by day in this path of the iron. We will keep talking about this because we have many days ahead. Looking to the.
+
+Into the block because I wrote today about this aliens about the white brotherhood about. All of it. I 'm sorry that is too much information but. It is needed to to be spoken.
+
+## Daily Practice Elements
+
+The vibration for today is. The statement for today is I am the word of truth. The goal for today is water in the shape of ice. The third and then sir aspect of the water 's Trinity is ice.
+
+It is produced when the source vibration is lowered and condensed until its energy stops. Floating to become a pattern. These patterns are the potentials of the spirit and the soul materialized materialized in the form of a body. What we see as geometries.
+
+Like the snowflakes that unite the united create. At the answer matter. Where the ideas and emotions of the universe materialized and registered. To be experimented.
+
+Let 's go to the element. St. Ro160 V breath. In the come aware of the environment that surrounds you.
+
+In the come aware of the environment that surrounds you. In the come aware of the environment that surrounds you. The use of imagination to make this space that you are into a wide and big dark night. Until you find yourself becoming the planet Earth , floating in the vast space filled with stars.
+
+I pay attention above my head and I see a constellation for my four stars. The northern cross. In the northern cross. In the under my feet I can perceive other four stars shaped in the southern cross.
+
+In the northern cross. In the south in the south in the south in the south in the south. Connect around me by four pillars. Make me be inside a cube.
+
+Screen , sound , pattern and winter. To decorate and I recognise myself crucified in between time and space. Here and now. I recognise myself inside a box.
+
+To explain myself. I recognise that this is the time to think of side of box. To explain myself. In all the possible here and every possible now.
+
+In all that in every dimension. To explain myself. To recognise with my deepest truth. I know.
+
+I know. I know. I know. I am the word of truth.
+
+I am the word of truth. I know. Take your dear breath. Next hand box.
+
+All around. Open in the potential. Open in the doors. To the connection.
+
+Of all those conscious worlds. To the connection. Throughout the whole galaxy. All of them.
+
+A rare being. Would be able to listen to me song. That 's truth. I am the seed.
+
+That was so. In the past. By those who live in the future. In order to find the heal.
+
+The healing process. In those worlds. To the connection. I am.
+
+I am.
+
+Son. And brother. Body. And sister.
+
+Of the wild Robin Bridge. The seed. Of the Galactic Confederation. The seed.
+
+The seed. The seed. My own.
+
+Son. Of the stars. In the daughter of the year. My own.
+
+My own. My own. Take you to the bread. And recognize.
+
+I am. The seed. Of the stars. I am.
+
+The Protector. My own. The Spaceship. The Softly.
+
+I started to careers to body. Every edge where happiness is nothing. Break and Research. The future.
+
+Tears away. His heart. Thank you everybody for being there as always. Thank you to my Lord , in the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

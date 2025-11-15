@@ -1,0 +1,288 @@
+---
+title: "Day 296 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 296
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 296
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - I AM presence
+  - month hold
+  - month hole
+
+---
+
+# Day 296 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+I am everyone. Good afternoon. Good evening.
+
+So , so , before we start , I wanted to clarify something that maybe will happen next month. As you have seen in my videos , there 's no ads. There 's no publicity of any time. Because I decided before we started this path that I did n't want to make money with this video.
+
+So , the first thing I did n't want to make money with this video is that I did n't want to put any ads. And , of course , that I did n't want to put any publicity because any ads. Because it bothers the people.
+
+So , I do n't want to cut what I 'm explaining with videos in the middle of with ads in the middle. And , even less to cut the alignment , of course.
+
+So , that 's why you do n't have anything here with ads. But , I 'm telling you now that next month you for sure will see ads because YouTube had not utilized us today that my , it 's new. How to say it. Regulation if it 's new policy , they will add ads and publicity anyway.
+
+Okay.
+
+So , even if we do n't want to , they will put ads in our videos.
+
+So , I just let you know this because maybe next month you will have some , some , videos , some ads in the videos. But , we will try to , to put our publicity instead of anything , whatever.
+
+So , we will try to do that.
+
+Okay. But , anyway , I will try for the content not to be cut in the middle because I did n't like that. Well , about this , of course , YouTube is a private company is not a state company is not a public system.
+
+So , that 's why they leave through publicity , they leave through ads.
+
+So , so we can not say anything because we are using their system.
+
+So , it 's normal. We can , we could complain if , if it would be from the state , but is the company and we are using it system.
+
+So , so we have to adapt to their policies.
+
+So , today our topic for today is the expritor , expritori system.
+
+So , today I have the complete right to send everyone to a shit hole.
+
+So , something like that , let 's say that you can go shit.
+
+So , economy , politics , companies , YouTube , everyone go shit yourself.
+
+So , let 's talk about the expritori system.
+
+So , as you see , I , I love to say this , but words and to talk about , because this is catalogue of things. Because usually , with people when we start to think about spirituality , we go to the heaven , we think about butterflies and all these kind of things. But actually , when we understand the spirit , we can know that it 's not only that. It 's not that the spirit is there in the , in the beauty realm of light , the spirit is everywhere.
+
+And basically the spirit is also in the eskirtori system , in the shadows , in to face the darkness that we have with them.
+
+So , we have to face it and speak about it , because it 's a part of it.
+
+So , let 's speak about this and also try to understand why we try not to speak about this kind of things when we are in this spiritual path.
+
+So , first of all , let 's understand that the expritori system is the one that helps us to basically keep keeping ourselves alive. Because the expritori system is the one that helps us clean our entire organism. We have , when we eat , when we absorb things , many of those things , we do n't need them in this moment. And we need to take them out of our body.
+
+So , we have to let them go , we have to let it out from our system.
+
+So , it does n't poison us.
+
+So , all the toxic things that we have inside must be out of our body.
+
+Okay. Perfect.
+
+So , basically we have to be very thankful to the expritori system.
+
+So , we will see the expritori system in three weeks. One which is the solid , the other one is the liquid , one is by sweating.
+
+So , the first one , the solid is the continuation of what we were speaking yesterday , the digestive system , that goes through the large intestine.
+
+So , it keeps going through the large intestine and then it goes out through the ends.
+
+So , that would be the solid. And then we have the other , which is the liquid related to the kidneys.
+
+So , we will see how the kidneys does it. And the other one , which is through the skin , which is eliminating toxins by sweating.
+
+So , of course , that then we have different other ways to excreted minerals and toxins from our body. But these other two are not precisely to eliminate , but also to , but mainly to help in the immune system , which are the focus , the mucus from the nose. And the tears from the tears from your eyes.
+
+So , let 's go into this.
+
+So , just to know , let 's go to the origin of the digestive system.
+
+So , everyone needs to eat in order to take the energy to grab the molecules that the cells needs in order to exist , in order to have energy.
+
+So , we eat , but when we eat , all the things are together as one. They are all the only one thing.
+
+So , the digestive system , what it does , is try to take and divide all the things from one another. They are only one.
+
+So , they divide the things , because maybe the system only needs this here , which is carbohydrates. And these other here , that are proteins.
+
+So , from this entire structure , in this entire structure , it will just need this too.
+
+So , it will try to divide as much as possible all this construction.
+
+So , then it can take the carbohydrates and the proteins , okay?
+
+So , they go to the cells. But what happened? We have this other three. One that is liquid and the other ones that are solid.
+
+So , they need to go out. They need to get out of the system , because they are not neat in the system.
+
+So , imagine that the green ones are the solid , and this one is the liquid.
+
+So , the liquid is absorbed so fast by the system that it goes right into the blood.
+
+So , that 's why we need one system in charge of the solid and other system to clean up the blood. And there 's where the kidneys come and evolve.
+
+So , excretory system will try to eliminate those things that are not useful for us. One thing that for sure you have heard or have seen is that there are animals in six that they eat their own poop and they drink their own pee. And why is this? Because most of the animals they can smell and perceive very easily some hormones or some proteins and minerals that are needed and that they were exposed by the body of others or oneself.
+
+So , some animals and beings they are looking for these expressions , increment.
+
+So , they could eat it and have these proteins , these minerals , these things that the body had been releasing. And of course , when the urine , the pee is very clean , it can also drain many hormones and many minerals that are useful for the body , even if it were filtered by the kidneys.
+
+So , that 's why many animals are attracted to drink the urine. And some all traditions in human cultures , they also ate and drink their own excretion because they could take for example in desert territories. They could drink their own water and they could gain some minerals that they would lose if they just give it away.
+
+So , this is why there were some traditions that used to eat again these expressions.
+
+So , of course , that we must say that it 's not any poop or pee that you can take in the nature , the food is natural , the water is pure. For example , humans , we can not do that today because we eat so many processed things that we have many toxic to give away.
+
+So , in the past , this did n't happen because the water was pure from the mountains and the food was right natural from the fields.
+
+So , the body was so pure that they could use it again because it does n't have the toxins , it has hormones and things like that , like minerals , so they do n't lose it in the body. If you want to do something like this , you will need like a mouth at least to purify the entire body , of course. Many of the mammals that used to live in between their own increment. They started to see how many of the individuals got sick because of the accident around because eventually many of us started to eat many things.
+
+So , we created much more toxins inside.
+
+So , many of the of the beings that started to develop the smell , they started to recognize that these experiments were not that good for them to coat this with it in the same space.
+
+So , our brain , not only the human brain , all mammals brain , usually most of them started to evolve in some way in which we could smell that the experiments.
+
+So , it 's not that it smells bad , is that we evolve to smell it in a bad way.
+
+So , our body could prevent us to even get closer to the experiments. Eventually , with the time , we started to feel that in order to protect ourselves from these toxic things. We not only started to smell bad those things that we believed they were toxic , but also we started to feel like disgust like I do n't like it. You make like this with your face with like something smelling bad and you immediately wants to get away from that.
+
+So , this is basically the neurological system that was designed in our brain and map to interpret it where do we find the things that we think or feel our toxic for us.
+
+So , it 's a way of identifying the things that we do n't really like. The things that we do n't really have to eat the toxic things.
+
+Okay , so this is how we , you know , we 're culture evolved to say things like this smells bad or it does n't taste good in emotional situations in mind situations.
+
+Okay , like these things are not good enough for me , like toxic relationship or things like that we use the codes of smell and taste. It 's because of this all tradition of understanding what are the toxic things for my life , for my organism.
+
+So , through our thousands of years when we have created was a culture edition of just tried to deny all the experiments and to throw them away and not to think about it.
+
+So , this system created the tradition through thousands of years that the things that we do n't like that are bad for us. We have to live it away like I do n't like this so it can be bad for me in toxic so you live it away so thousands of years ago. The waste that humans could produce from the inside. It was old natural because whatever a human body could produce.
+
+In a very short time it was used for the fungi realm , the digital realm , some insects and animals. In a short period all this garbage would disappear it was easily to dissolve. But as we started to evolve through time , what happened was that the garbage , the expressions that we did. It was longer to be dissolving and even today creating things that they are almost impossible to dissolve but we still do the same.
+
+Give it a little bit behind , we keep going , we do n't want to have anything in common with that. In our history basically , if we took a banana , we needed the banana and we throw away the cover of the banana , I do n't know how to say it.
+
+So in one month it would disappear no more peel up banana. But because we are animals of costumes , I do n't know the word in English sorry , because we are animals that repeat ones and again the same things. We started to do the same with plastic.
+
+So we opened the plastic , we take the things and throw it away , habits. Thank you. We are animals of habits.
+
+So we throw the plastic away.
+
+So basically we are doing the same , but the plastic does n't disappear.
+
+So some cultures did n't evolve as much to understand how terrible is that.
+
+Some cultures they do n't do it because they are bad people. They do it because it 's a habit and they do n't know how to interpret it and you may. When we are doing today , it 's basically to throw all our waste into the environment. And this is something natural because from the very beginning , every waste that nature produces is useful for other part of nature.
+
+Waste is not bad. Waste are good for the environment because they use it for new things. The problem is when the waste that you are producing is not useful for the environment. It 's not useful for other beings.
+
+This is when the same things that we have thrown away are coming back to us when we throw the plastic. The plastic is coming back to us in a different way. And this is also happening in our inside. Imagine an emotions.
+
+All the things that you do n't want to face. The juice just throw away that you say this smells bad , so I do n't want to face it. Talks to relationships. Emotions that you do n't have , that you ca n't hold.
+
+You throw that all away. And like the plastic will come back.
+
+So the important thing about all these things that we just live behind is that all the waste that we produce is only produced because we consume something for your to exist.
+
+So it 's according to what we accept it in our life that we have this kind of things.
+
+So if something smells bad , it was because we produce it in that way. I do n't know if you have noticed this , but usually the people that it 's properly , they should properly. Their shit does n't smell. They do n't even smell in the skin.
+
+The people that it only that drinks only water all the time. The pea does n't smell bad. One of the ways in which we can understand what we are eating is healthy is how it smells when it comes out. This is why to pay attention to the eggs.
+
+Helps us to feel if we are healthy to know if we are healthy. And now emotionally , we can face the same thing with emotions , with relations. If you see a pain coming and still when you see that person you do this face , is because your body interprets that that person still smells bad.
+
+So this means that we are related still with that. There is some why it usually can smell that. The why it can smell that is because of methane. How does it say , it 's like that?
+
+This is a noble gas. This gas is the one that is produced in the separation of the molecules and what we eat. Methane , methane , thank you.
+
+## Practice Structure
+
+So when the food is separated when the structure of the molecules is separated , this gas emerges.
+
+So we are all producing gas , methane all the time. Every time we eat and we do the gestion , this gas is fresh.
+
+So it 's something helpful for the environment , but we have to know why this is helpful.
+
+So every animal must produce a little bit of this methane. This is why we fart every day. And I know that there are people that can say I never fart , but as I say in Spanish , for sure you are a party during the night when you sleep. Because you have to , otherwise you are not human , you have to fart is natural.
+
+If you , for example , if you think about it , most of animals , all the animals , they release this kind of gases. And not only animals , but also the volcanoes , the Permafrost. They encode methane and it 's released.
+
+So that 's why when you go to hot waters or to volcanoes , you will smell like fart. Maybe it 's weird , why a volcano can smell like fart? Because they are the same compounds.
+
+So I once heard that in Argentina , of course , we are a country that eat a lot of meat. And I 've heard someone that said that the reason why we have to eat all these cows every year is because the cows are one of the biggest producers of methane gas in the world.
+
+So they had to kill this cows every year to tear off the greenhouse effect , which for me was amazing to hear , but so stupid at the same time. It was like , wow , great things to say that if it would be like that , we can think also that dinosaurs have died because of a fart. But anyway , so , thing is , let 's see.
+
+So let 's understand this , how it works , the greenhouse effect. We have to understand that greenhouse effect is not something but. And let me explain about this , because today we usually heard hear the greenhouse effect as something that is terrible that we have to stop it. But it 's not that , okay , it 's not.
+
+It 's not the greenhouse effect that kills us is where we are adding to it what kills us.
+
+So let 's understand this.
+
+The reason why we have greenhouse effect is the reason why we are alive. All the noble gases that fill up the atmosphere , they catch up the light of the sun and keep it here on the troposphere in the lower part of the atmosphere where we live.
+
+So all this heat is the one that keeps us alive. Otherwise , during the night in the planet , we would be always 1880 degrees below zero Census.
+
+So that would be very terrible , okay.
+
+So , so we have to understand that the greenhouse is what in the fields you would call this kind of house that you hold the tiny little plants during the winter.
+
+So the heat can keep them alive.
+
+So imagine that that is happening in our planet every day.
+
+So we need these gases for it to keep us alive , okay , to keep the heat on the planet. What happened? That in some periods of time , naturally the greenhouse effect grows because of volcanic eruptions because of. Many things like the permafrost melting , these kind of things makes that all this gases goes back to the atmosphere and they increase the greenhouse effect that can kill us if we are sensitive to the heat.
+
+So , so it 's not because of the cows is because of many other things like we producing many gases in factories and all these kind of things that. That makes this greenhouse effect to be.
+
+Okay , so of course that because of. There are so many places that grow cows today. There is much more production of. And methane gas.
+
+But it 's not the main reason. It 's useful for the environment. Everything that we naturally use. And we let go is useful for the environment.
+
+The problem is that we are not releasing that. Being a wood of how we release it. How much from where. Why.
+
+And this is what. Pollution comes from. Because we do n't know how to use it. We do n't know how to.
+
+Applying properly because we are not paying attention to it. That 's why. We have this problems. Physically emotionally and mentally.
+
+This is why we have to start to pay attention to all the things that we. Waste that we throw away. That we usually do n't pay attention to. That we hide.
+
+So this is why we have to start to think about. That through thousands of years in this. Idea and this religious cultural. Spiritual idea that we have to go to the heavens.
+
+We started to think that all the waste. It 's just for here. It 's just something that we do n't have to pay attention to. And that 's why.
+
+We do n't involve because we do n't pay attention to how that is related with everything.
+
+So this is why we have to that all the waste that we produce. Is the one that tourism. The environment will live in.
+
+So if we do n't pay attention to what we are producing as a waste. We 're going to do what contaminated and creates pollution in our environment. And I 'm saying this in the three levels. In the physical production of waste in the emotional production of waste and the mental production of waste.
+
+Once said this , let 's go to the element. The vibration for today is. The same thing for today is I am channel between creators.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

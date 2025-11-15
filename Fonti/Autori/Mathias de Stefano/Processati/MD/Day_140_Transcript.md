@@ -1,0 +1,252 @@
+---
+title: "Day 140 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 140
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 140
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - portals
+  - consciousness work
+  - crown chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 140 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone , how are you?
+
+So hi everyone.
+
+Today this is kind of a weird situation because we are organized in everything in a different way. I have the camera there so hike and the computer down here.
+
+So if I look like this is because I 'm trying to organize something and to see if you can hear me.
+
+So perfect , you can leave me.
+
+So hi everyone. Good morning , good afternoon , good evening to everyone. And well , I hope you 're having a happy December 21 , 2020 and happy solstice.
+
+So today has been a day for running because we 've been in many places and right now we just arrived from the middle of the desert.
+
+So I hope everything works because we did everything running.
+
+So just to remind you that today is a special day because we are all here together , connected as you see we are many. And this is because today we are in a total date date. And all these people that you are seeing now are the persons that are holding all of us and myself every day of the tour.
+
+So that 's why we are all together here.
+
+So I also consider that this is a special day because today besides the solstice was also the conjunction of Jupiter and Saturn.
+
+So I thought it would be good if we are all together here today.
+
+So I can not see anything that you are writing.
+
+So if there is anything , some of them will let me know something.
+
+So to introduce the people that we are here today.
+
+So me here , Size from Argentina from Until , then we have from Dos , Annie , Mauro , Like and Lucas from Barcelona , Laura and Alberto , Mater from Slovenia , Esperanza from Barcelona , Maria , that she 's closing the shop.
+
+So that way we do n't see her from Gerda , then Bib from Mexico , Max from Italy and she did from my room because she 's here.
+
+So we are in the same spot.
+
+So also today is very special because today we are working with this prophecy of this special box where they were blue box where we had these minerals , these crystals that they said they should be spread around the world to light the consciousness of this planet.
+
+## Q&A
+
+So today was the official day when we were supposed to align those crystals for the task that we are going to keep doing these next moments. And in August , the moment when I go to the North Pole , all these people that you see here will be delivering one of those crystals in each quarter of the world , in each part of the planet connected to the Greek of the planet with magnetic conscious wheat.
+
+So today we went to Abu Ghana , which is a pyramid where there is a special spot which is like this box , this box made of alabaster and quartz. And we activate them in that place , taking all the energy of the special day which is today.
+
+So each one of these persons here can deliver it in the world. According to this special day , remember that we have received this message of look into the blue color , watch the blue color.
+
+So that 's why we have here this blue color in these crystals.
+
+So we could all know that this will be the anchor energy of the whole network of consciousness , anchored by the people that you see now in this screen.
+
+## Practice Structure
+
+So here we have the structure of the geometries that we are going to work with through this year and everything that we are going to do in this next month.
+
+So you can see here the structures of this geometry and each one of the joints are like the notes where each one of those crystals will be seated in the planet.
+
+So all together they create the network of consciousness.
+
+So these crystals will be the seats for that consciousness that we are working with this blue color. And so six of them will go in the south of the planet related to the feminine aspect.
+
+So six of the women that you see now , they will go to six spots in the south. And then we will have the six of the north which is the masculine aspect. And then the two in the middle will be the ones connecting the north pole and the south pole where I am going to be.
+
+So the reason why I put this here today is so you can picture , can watch that. From today until we finish this process , we will be activating the information of every day of every alignment into these crystals. We will download this information into the crystals.
+
+So so we can see it in almost around the whole network of consciousness.
+
+So today the importance of this day is because we begin with this appears energy. And we begin today with the downloading of the Kristin energy , which means that we are here downloading the concept of us being sent to this reality by ourselves from other dimensions.
+
+So we could do work , change and transform this reality with our own Kristin energy. In the 12th , 2000 years ago , this Kristin energy was related with pieces.
+
+So it was more related with the dream , with the utopia , with this idea of creating something beautiful and living in a dream. But today we started with another energy of the Kristin network , which is to be responsible of our choices , to be responsible of our reality. And to start to create our own reality from the inner self.
+
+So 2000 years ago , the idea of the Kristin energy was a lot of people putting the intention on one person to follow , to be followed , to guide the rest. But today and from this moment and to the future , this only one unity spread in many , in thousands.
+
+So each one can be the guide of its own path , and even though connected in a network.
+
+So related to what I said yesterday , today we concentrate in to take that responsibility.
+
+So I know it 's difficult when we hear , we listen to the word , to the word , responsibility , because it implies in our culture some kind of readiness like a random. But for these new times , responsibility is not to bring or to follow the path of some celestial mandate , some pattern that was sent to us from the heavens. In order to accomplish with our responsibility in this new time , all we have to know is that we are creating our mission and purpose. We have said that a few times ago , there is no mission and no purpose for the universe.
+
+We are the only ones creating that mission and our purpose as we walk ahead.
+
+So there 's not about Jupiter and Saturn telling us what to do. It 's not about today beginning the queries. It 's about we choose and we take in the choice of that being a reality.
+
+So it 's us who decide to take that responsibility and to decide that today is that moment. And that 's the key of the real responsibility , which is freedom.
+
+So this is why it 's so important this day and the freedom of responsibility. Because what we have to acknowledge for today is that there is no one from the heavens telling us what to do. It 's our own responsibility and it 's something that we have chosen for ourselves. Perhaps a long time ago in different dimensions.
+
+So anything that we remember that we have to do is not someone saying we have to do it. It 's ourselves reminding us that we decided to do this.
+
+So this is why for today we should not keep doing this saying I have to do this. Otherwise something wrong could happen. From now on what I have to say is I choose to do this. Because of my freedom of choice.
+
+So I decide to do this. It does n't matter what happened. This is my freedom. And the same word freedom speaks about this.
+
+Freedom is not to do whatever you want. Freedom is to recognize that there is a lot of people that decide to gather to do something by their own will. That 's why freedom also originates the word friends friendship.
+
+So this is why what we are doing right now is not something that from other dimensions. Superior beings are named to us in fear of beings to do what we are supposed to do. The reality is that we are all friends. That it does n't matter in which dimension we are.
+
+Everyone that you are watching right now here. We are friends. And that 's why my freedom we choose to do this. This is why they said in the past the truth will set you free.
+
+It 's not because we have to acknowledge something in order to escape from the system. And to be free outside is because when we realize about the truth we are realizing that this system is made up between all of us. That all together we are realizing this.
+
+So all being as one is how we can transform it.
+
+So remember the truth will set you free.
+
+## Daily Practice Elements
+
+So let 's begin with the alignment. The vibration for today is the statement for today is I am the eternal legacy. The goal for today is the indigo color. The color of vision of making the visible invisible into visible.
+
+## Guided Meditation
+
+Of perception commonly related to the third eye it 's a spectrum of the wavelength that connects us with the inner self with the dream , the imagination , the projections and ideas. This level of vibration takes us out from the visible and mundane to go to the transcendental , transcendental and wider level. Set comfortable. The focus in our breathing , take deep breath , pull and breathe out.
+
+The same , we will softly make body with messages and carries us. I accommodate the body and become aware of all my physical aspects. And I remember that I am the power of every individual throughout all the planet Earth. I remember that throughout my history , I have emerged from the forest in Africa , spreading towards the horizons , to the highest mountains , reaching this light that came from this time , to give me a legacy that I used to create civilizations , and by that , I met the Divine , and through my life , I recognized that Divine within me.
+
+I remember how for my essence , from the Divine within me , I delivered this legacy to the prophets , and the prophets , to deliver this message to thousands , and from the Middle East , to the Middle East , to the Middle East , to the Middle East , to the Middle East , and from the Middle East , this thousands of people brought this message to their families , to their villages , and this families , gave birth to a new humanity. And these new humans , expanded from the Middle East , to Asia , Oceanian , Europe , the Americas , and the oceans. And I recognize that all of those humans , started to create this path , along the planet , creating evolution , development , connecting the whole world , the network , until they arrived to us , here and now. I recognize that here and now , I am connected with thousands of other people , in different countries , connected in this moment through the network , and I recognize , I feel them , as my friends , live in them , and from this freedom , that we take the decision , the choice , to expand and open this box , for the future ones.
+
+I picture around the world , this box , with a square face on top , and both , a square face below , for them around , for vertices , on the top , for on the base , all of them connected , by edges , 12 edges. And I recognize that , the choice , and I recognize that , by edges , 12 edges. Creating the cue of the creation. I take a look into this box , and inside of it , I can see 12 crystals , shining in blue.
+
+They represent the seats , the information of our own creation , from the blue shining stars , our tools , ladies , zealous , Orion , Vicar , all those stars , are the places , from where we build these blue branches , and we send ourselves to this reality , and the great blue pearl in the center , is the earth. I am the earth , I am blue. I perceive and see how this earth is moving , to one side and another , looking for this axis , from the north , of the south. I observe the earth , inside this box , this interdimensional cue , that keeps the earth locked , from the light.
+
+I put the intention to open this box , to expand the earth , and to receive , absorb , and expand this legacy of eternity , through every dimension.
+
+So , now I recognize the 12 codes , the 12 doors that I must open , for this box to expand , for this cue to activate , take a deep breath , eat it , and then , save your life , how I , read them , make her need you , and see you tomorrow. Thank you. I am the earth , I am the earth , I am the earth , I am the earth , thanks for your attention. I will not be a princess.
+
+Father , North Pole , South Pole , take a deep breath , take , take , I have served the earth , being crossed , made an earth pole , and the South Pole , and recognize the cross from the north , to the south , from the east and the west. I recognize the water and the earth , the fire and the air , solstice and equinox. Winter , summer , autumn , spring , I am the earth , deep , tack , the hour , self is close , deep , tack , deep , tack. Feel the heartbeat of the earth , I am the heart of earth , pulling , the magnetic field up from my head , and down from my feet , connecting the great torus.
+
+## Energy Work
+
+The earth , deep , take a deep breath , and observe into the skies , the king on the earth , Jupiter and Saturn. Observer the conjunction of Jupiter and Saturn , reminding you that you yourself has to be aligned to , to remember your crown , for you are being coronated , crowned as everyone in this planet. I perceive the crown shining in my head , in the north pole , take a deep breath , I find the axis , from the crown , within myself , I find the coherence within me. And from the heart , from the coherence , expand this light , this projection , expanding through every one of the 12 portals of the earth , the 12th race of colors , heading to the 12th constellations in this time , to the every one of the 12th constellations in this time , to the every one of the 12th constellations in this time , to the every thing.
+
+This is the new perception , the perception , of the freedom of the being. I am expression , experimentation , integration , and transcendence. I am air , water , earth , and fire. I am all the times , all the spaces , all the time , all the spaces , I am the light , I am the back , I am the truth , I am the light , I am the love , I am the Christ , I am the who I am , and from these consciousness , I begin to radiate to all existence.
+
+Learning I see for I am. I see. I see. I see.
+
+I see. I see. I see. I see.
+
+I see. I see. I see. I see.
+
+I see. I see. I see. I see.
+
+I can see all of you. For I am. I see. I see.
+
+Tell me. Who are you? What is your only name? Your name?
+
+Your only name. There is no I was or I will be for the universe. There is only I am. This is the moment to acknowledge that there is no expectations when you will become.
+
+There is no memory of why you have been. There is only I am. And that is the biggest freedom. I see.
+
+You are so I am. I see. This is the time. I see.
+
+There is no message and prophecies for today. The moment to remember the importance of the I am. I am is not a concept. I am is you and me.
+
+The greatest responsibility of the world is to remember that I am. The darkest days you will go through. The dark night. The dark night.
+
+The dark night. The other day you will be a great responsibility. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. This is your memory.
+
+The darkest night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night. The dark night. The dark night.
+
+The dark night. The dark night.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

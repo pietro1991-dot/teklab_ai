@@ -1,0 +1,250 @@
+---
+title: "Day 60 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 60
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 60
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - crown chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - constellation work
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 60 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi , hi everyone. Good morning , good evening , good night. I hope you all are fine.
+
+Today , I also changed the place of work because in the hotel where I am , there are two weddings , one in each side of the hotel.
+
+So I am like hidden in a corner of the hotel. There was a lot of people in Cairo willing to get married during the quarantine.
+
+So last week , the government said weddings are allowed , so everyone run to get married. They do n't know what they are waiting for. Even today , for most of the cultures , to get married is important.
+
+So I 've been reading today 's the last day of Virgo.
+
+Some of you did n't make the list of Virgo , so shall we begin again? Do we do the whole thing again? A new month? No?
+
+So I know Virgo has been hard , but I want to begin with this concept. That Virgo is a constellation of the order to put order on the things. And we as the people that are willing to bring the change to the world , that are willing to bring a new level of consciousness to become something different , to transcend this chaotic civilization in order to find the balance and harmony in the future. We are the first ones that must do something with that , because for sure you have heard this combination , that if you are willing to change the world outside , so first begin with your own world within.
+
+So we are not going to be able to bring awareness , to bring harmony , and to organize the new world. If we do n't do our own work within , if we do n't do our own hard work of organizing when we have inside. This is why in order to work for the external world , what we have to do is to begin by working with the internal one , because we need coherence in order to do it.
+
+## Q&A
+
+So this is the most important thing. One of the main things that I have heard from a lot of people when I am speaking about the new system , which is on top of the future , is that a lot of people are asking me , yes , we want the on top of the system , we want the on top of the system to happen as soon as possible. But whoever says that is from the need against the actual system , so this is one of the things that wo n't work.
+
+So the reason why it 's so difficult to create the concept of on top of the future , is that on top of the concept of a society , that first needs to make a big transformation within.
+
+So if we are not willing to make that inner order , inner work with ourselves , we are not going to be able to do the same with others.
+
+So we should understand that in order to make something in the future , we should not say , okay , I do this now , so I already did it.
+
+So I already have it , so I go into another thing. The process of Virgo is something that we all have to work constantly. It 's not just for just the moment and then you just transcend it. The process of doing this acknowledging of doing this and analysis of myself is constant , is always.
+
+So what we have done now is just a practice to give you tools to let you know in which ways we could make that analysis throughout our life.
+
+So this is related with what we have to talk about today , which is what we do. What we analyze , what we have done to deliver it to others in the future , that we may call it service.
+
+So we are going to speak about on toprassie , of course. I will describe on toprassie in next post and month. But it 's not something that , okay , we are going to discuss this in the future. No , what we are doing every day is on toprassie.
+
+So remember that the concept of on toprassie comes from the great words , on toprassie , that means being. And the word Rates , that means power.
+
+So on toprassie is the power of the self , of the being.
+
+So this means that on toprassie is not a future social system. It 's a way of life.
+
+So this is what we are trying to work with all this work in this month.
+
+So if you may ask me how many times do I do my preparations , my analysis of myself , I would say that always , every day. Because this is not something that you do in a weekend. This is something that you do constantly. I do it every day.
+
+Every day I analyze something in myself. Every day I 'm thinking about from where this came from or from where I 'm watching this is constant. It 's something that at first is very difficult. But at the end , when you work with that , you start to naturalized this.
+
+And it 's easy.
+
+So basically when you start to make the analysis and do the questions to yourself , is when suddenly you feel how you are more connected with the concept of I am , you start to listen to hear the answers.
+
+So as humans , everything that we are doing here is a service.
+
+So let 's begin with just understanding that what we are doing through all this year is to make a service to ourselves in order to be. To be strong.
+
+So then we can be in service to others.
+
+So now let 's talk about what service means for those who were n't able to read the log today. First of all , let 's try to understand what service means for us today. From our point of view in the culture , service means to precisely to be in service to others.
+
+So to be useful to serve the others , all these concepts comes with the information and the concept of slavery. Because we usually relate to be in service with this servant , with the person that serves to others , a master , a boss , something.
+
+So you serve to others.
+
+So you give everything from you to others.
+
+So that 's why in our history we relate service with slavery to have a master to whom you may start for.
+
+So the reason why we relate slavery with service in our mind usually is because one of the main moments when service and servants were used was in Rome during the Roman Empire. There was this big families , the important families of the Roman Empire that lived in big houses that you may know as domes.
+
+So in the domes , these big families were the ones that had a lot of people doing stuff for them in the house.
+
+So they called them the servants.
+
+So they were slaves. They were all slaves. And they understood that slaves are in the service of the home.
+
+So from that moment on in history every culture that came from the Roman Empire after the fall of the Roman Empire , like for example globalization , came from that.
+
+So all the localized civilization inherited the concept of slavery as service until today that we have services today we call service to everything.
+
+So in this concept we have a Roman vision of what is the service and therefore , in particular , a Christian vision of what is the service. In the institutional level , Rome left us to be the public service.
+
+So the public service , the service of the Burgess of the city , means to be the service of the city , the service of the system on one side and on the other side , from the religion of Christianity , was to be the service of God. Therefore being the God 's order is to be fully the service of the life if necessary to put the service of a king who is in heaven or a king who is in the throne.
+
+So basically from the fall of the Roman Empire , we had two different services , the service of the service of the society which is social services.
+
+So this means that sadly the civilization went towards the cities that in Latin you may call burgh.
+
+So the burgh gave the name to these new kind of kings that were the Burgess.
+
+So the people that lived in the cities , so all this system of society was about to serve to others and mostly those who need in the cities. And in the other hand , by religion , the servants were serving to like slaves to a God to a king of heavens.
+
+So this is the concept of I have to serve to others , I have to serve to the community , I have to serve to the other people.
+
+So basically what we used to think when we hear the word service is the one coming from those two currents in our history , which is to be in service of others to to subordinate myself towards before and below the power of others.
+
+So that 's how usually we project the service , the idea of service. The word to serve was taken by the Romans from the Indo-European languages that in the Indo-European languages you may say serve and serve means guardian.
+
+So the concept of that Romans gave to the slaves were those that take care of the house , those that protect the home , the guardians of the domes. Look into this. Look how in history the Romans used the word service to talk about the people that were taking care of the house. And those people were the slaves.
+
+So suddenly in history what we did was to take the concept of the guardian and we attach it to the person that was taking care that was the slave. And we put them both together as one and from there we built a whole civilization. This is kind of semantics. And it 's not a plan behind that says who changed the name so they can control us.
+
+No , no , no , it 's just semantics. It 's just a way of communication and suddenly you relate this slave with the guardian and it 's just mistakes and semantics of history. That 's it.
+
+So basically all the people that came from the concept of unifying the guardian with the slave together all the ones that come after that were in the trap of themselves. They just felt in their own mistakes of languages. There was no one doing a plan to control. It was just something that happened.
+
+This is why what we have to try to do is to give the things and you meaning or to resigning the things.
+
+So one of the things that I would like to for you to understand is that there was no one saying we are going to control this population and make them slaves. No , and why no? Because the vision of slavery that we have today is not the same vision of slavery that they had in their time to be a slave to have slaves in the past was normal. Even until 60 years ago for some countries to have slaves was like , oh , it was always like that.
+
+Even for slaves , it was normal. Because it was the only thing that they knew.
+
+So we can not judge the past from the eyes of the present. What we can do is to resigning the past to create a better present. But we can not say that someone tried to rule ourselves in the past because that was the system how it was. It was the only way they knew.
+
+So a picture that in the past to have a person as a slave was the same thing that for us today is to have a pet , to have a cat or a dog in a home.
+
+Some day in the future they will say how is possible that those people had dogs and cats as slaves at home? Have you thought about that?
+
+So to resigning things is not to go and judge the things from the past is just to take the things from the past and give them another meaning so I can build a better future.
+
+So this is why one of the things that we have to ask ourselves according to the service is from where I used to serve in my life. Because all of us who worked for the consciousness we would say I am here is to serve in service for humanity for society. We usually say that.
+
+So the question would be from where? From where are you in your service? Because it 's not the same being in service because you just have to do it because you have no other option. Or you can say no I do it because it is in my power and I decide I decide to be for the others.
+
+So the question would be the things that I do for others in my life that I did for others in my life. Where from the from a mandate? Where because I have no option or I did it because it was in my power and it was my decision to do it. And I say this because we have to take note of all of that because sometimes when we just think about it we usually do n't recognize that many of the things that we do for others.
+
+But we do for others as a service. They are not made because it 's in my power and decision. They are made because I do n't want to be alone. I do n't want to be felt like I 'm not doing anything.
+
+Or because you just do n't want to go to hell and there 's a mandate saying that you have to do it or otherwise you have that things in your life , whatever.
+
+So the task for today would be to take note of all the times that you have served others and to picture if you have done it because it was in your power or because you were thinking what would happen if I do n't do it. When we do that we will recognize that most of the services that we did in our life and we do in our life they are born from the obligation and not from the freedom of choice.
+
+So let 's remember that the constellation of Virgo is the one that remind us how it is to be in service to others. Virgo is Mother Earth and this is why Mother Earth gives everything without obligation , without expectation , without waiting for having something back.
+
+So let 's remember that the Mother Virgo is in the entire service to its daughters and sons.
+
+So basically Mother Nature , Virgo , what it does is to put order into life , into all the living things.
+
+So each one can have what they specifically need without expecting anything in return. I recognize that I am in balance with the energy of Virgo when I recognize that I have order in all the things that I have inside myself.
+
+So because of this order I know what to give to each one around me without expecting anything in return. That 's an unconditional love of Mother Virgo , Mother Earth. That 's the service of Mother Earth.
+
+So what is Mother Earth doing? It 's not at the mercy of its kids. What it does is to protect them , to take care of them , to tourism them.
+
+So this is when we can understand that everything that we have done in each one of these days in the month of Virgo was to put order inside all the things that we have within.
+
+So we could deliver it on service to the environment that we have around , to be in balance in harmony with everything.
+
+So this is why I remind you this was a practice. It does n't end today. This month was just a practice.
+
+## Daily Code
+
+So let 's go to the information of today. The vibration of today is the statement for today is I am the eternal greed. The code of today is the sole pattern Z. And it says , but who determines the continuity of that power is not the accumulated energy , but the vibration it has to be sustained through time.
+
+Z is the sound of the constant buzz. The sound that unites and goes through all. That connects all charts , organs , existence , existence , even the spirit itself. That gives coherence , coherence and harmony and destroys everything that is not in it.
+
+Those that lost its purpose , its path.
+
+So let 's go to the alignment. As always we will begin by stretching the body , crossing the body and young. I let the weight of the body fall down. I begin to focus in my breathing.
+
+Take a deep breath and perceive how the oxygen gets within your body through the nose towards the lungs. Heart , blood , organs and muscles. Take a deep breath and allow yourself to fall down inside your body.
+
+Now I will return to go through all the path that I have gone , I have done to be who I am. Look within your body , a big cell , and start to perceive it as big as your body in front of you. Become aware that this is a mother cell and that inside of it you can find all the information of everything that had happened so you could be today , being here who you are. Take a deep breath and dive within the cell , absorbing the information , taking it from the chromosomes , crossing with your hands , the NA chain.
+
+The balance that all the path that I have gone is here in my hands. Recognize everything that had happened. From the moment you were just an egg , feeling this permazzoid , becoming two cells by meiosis.
+
+Remember when you have become organs and dividing the cells by meiosis. I remember the creation of my entire body within the uterus of my mother. I remember how each one of the steps has made me what I am today. I become aware of all the things that I have organized within me so I could be what I am.
+
+I become aware within the cell that everything that I have gone through in these past ten days has been just the activation of a mother cell to resign my birth. To understand the process of my creation and to set a new idea , a new projection of who I want to become. All of that is now screwed in one of my mother 's cells.
+
+So now within this mother cell in my body , I have the entire information of what I want to become in this new path , in this new life , in this new order that I have within. I become aware that all the process of being born , that I have lived in these days , have been to program to resign my birth.
+
+So my cells can now know that I am willing to be born in a new life , in a new world of consciousness. I recognize that the mother I am coming from is mother Earth. And that my process of being born is the information and the projection of living in the path of a new consciousness.
+
+So now I recognize and feel how the arms of the light are holding me in front of the body of my mother. I perceive my mother opening her eyes. I am now opening her arms on service , watching me and receiving me , willing to serve in my new life. I perceive how the arms of the light put me in the arms of my mother , feeling her heartbeat in the chest , her feeling.
+
+In her breast , the warm skin of her body. Take a deep breath and recognize that in the same way she is in my service , protect me , taking care of me. I have also come into this new world to be in service to her world. I recognize that her service to me is related to protect me , to tourism me , to take care of me as my service in life is to empower myself to become , to accomplish what I am supposed to be.
+
+## Energy Work
+
+Take a deep breath and begin to feel how each one of your charts starts to shine into every direction , creating a big rainbow of light all around from within. Take a deep breath and start to violate , activating the torus , expanding the potential of the seed of your inner self. I feel how the torus starts to create a sphere around my body. I perceive how it goes through the crown and goes back to the feet.
+
+I have made the sound as I feel how the light makes me an individual cutting the vehicle for you. I keep pronouncing the vibration. I perceive through the sound how the torus of myself starts to become a tree in the body of my mother earth. I recognize the eternal greed.
+
+It is the order and ready to be in service for this new world for flight and take a deep breath and bring your house to the heart. I say to myself , I am in order.
+
+So I set myself in service for the eternal greed. Take a deep breath and begin to bring all this awareness through the body , crossing , stretching , assuming and young. I can now open my eyes. I can now take some papers and pencils or whatever you feel better to begin making the drawings.
+
+To take the beauty out , outside of us , not our way.
+
+So set this , drink a lot of water and rest as much as you can. See you tomorrow at the same time as always. Thank you for this month.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

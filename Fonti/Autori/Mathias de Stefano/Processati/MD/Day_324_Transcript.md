@@ -1,0 +1,352 @@
+---
+title: "Day 324 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 324
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 324
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - month hold
+  - month hole
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 324 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening. How are you? I hope that everyone 's fine.
+
+Today we are in the week of the heart , sorry , in the day of the heart , in the physical week of the day.
+
+## Q&A
+
+So topic for today is metosys and as we come back to biology , I will ask for you to pay a lot of attention.
+
+So first of all , I want to clarify something for those people that are following this and maybe the people that it is just relating with the path in the same story period of time. Why I am speaking about biology and that is spirituality.
+
+So , explanation.
+
+So I would like to clarify this because sometimes when we are in this spiritual world , we can relate that the information of spirituality should be much more human and from the heart and much more connected to something really magic and so on. And when we start to explain through chemicals and through biology , some people could think that I am just talking through the mind and I would like to make this connection again so we can understand better how the thing works. That is not separated. The things are not divided.
+
+It is all one.
+
+So how do we know that is the same because those emotions that we feel with our heart that makes this human are a product of hormones that are produced in our glands and the glands are a product that are produced by energy which are in the spiritual realm.
+
+So sometimes when we explain things from the biological point of view , can help us much better to understand things from the spiritual realm.
+
+So this is why we have to think that it is not one thing or the other. It is the whole , it is the everything.
+
+So I just wanted to say this to clarify this whole picture.
+
+So from my point of view , you know me from these videos but I am a person that lives in a very spiritual life because I channel , I connect with different beings from other dimensions and so on.
+
+So I always speak about these kind of things but I try to explain that the other realms are not something different. There is no spiritual world and the physical world that all of us , we are just a consequence to each other.
+
+So there is no division between these two worlds. There is no difference between just a different organization.
+
+So when I say for example that an emotion , a human emotion is produced by hormones in a gland is not taking the power to that emotion is actually empowering that emotion saying that it is a physical thing that is something that you can relate to here in this reality is not just a mind and idea.
+
+So for me from my point of view to acknowledge how the glands and the hormones and all these atoms are creating what we feel , what we are for me is much more magical than just believing that in other things.
+
+So that is why I try to explain this in biological way if I may , if I can.
+
+So of course that I am not sharing the entire information because I am not the scientists , I am not biologist. I just try to put all these mental concepts that we have into the physical world so we can understand it that we can relate to in this world.
+
+So they are just the basis. Then if you want to know more you have to look for much more data because there is thousands of things behind this.
+
+So just wanted to share the main basis of it so we can start to connect these two worlds that we have divided through history. Let 's go into tosses and let 's try to understand what is tosses and how it works and of course how is useful for that , for us to know in our daily life.
+
+So sorry I was just explaining that I was laughing because I felt like an exam , like making an exam myself and it was because it was cool. I hated biology and physics and chemistry so I usually in the exams I did the drawings of drawings just whatever and that was what I gave as an exam.
+
+So nobody wanted to approve me of course because I was doing nothing. Basically I did n't like it and I hated to be tested.
+
+So eventually when I had to finish my high school they told me they maybe less exam and it was horrible , it was terrible and the two of them the mathematics teacher and the chemistry teacher they said you know what we know that you are not going to work with.
+
+So just go away because I do n't want to see any more here.
+
+So they just let me go because I was so terrible that they did n't want me to see any more. Eventually I end up explaining this thing so it 's an irony of life I do n't know so it 's funny.
+
+Sorry for those teachers that could n't stun me and now I 'm doing that.
+
+So let 's unite me toss this with the heart.
+
+So fortunately you all know this symbol , this beautiful which is the basic arises. The basic arises is called like this because it 's the , how do you say not bladder? It 's the bladder , do you call it that? Fish bladder where the bee is storage , I do n't know there were a new age , but well , fishes bladder that that would be the name I guess.
+
+So that 's the name of basic arises in Latin.
+
+So what is the basic arises? It 's two circles that we a this shape in and during here. One of them is positive , the other one is negative , one is masculine , the other one is feminine , I 'm both of them create something in the center. It is called basic arises because it creates shape of a fish.
+
+You can see here the little fish , but it 's tight there , take it there.
+
+So you have here the little fish.
+
+So that 's why it was called the basic arises. This shape is the shape of creation of unity because we have here a mouth. As you can see here , this is the mouth , the verb , the creator , but we also can have an eye.
+
+So it 's the one eye that sees everything. And also we can have a vagina , which is from where all life is born.
+
+Okay.
+
+So the very in the very ancient history , one of them is the son and the other one is the moon. And it 's talking about the periods of harvest and sewing.
+
+So the seas.
+
+So it 's how according the cycles of solstice and equinox , according the cycles of the moon , every 28 days , you know where to sew , where to harvest , where to eat , where to celebrate.
+
+So basically it 's talking about the seed.
+
+So you can see here how the seeds is also growing and expanding.
+
+Okay.
+
+So it is related to the entire cycles of life.
+
+So that 's why it 's related to the sun , the moon , the positive and the negative , the feminine , the masculine , all together.
+
+So way after this in the beginning of pious era , it was taken by the Christians as a symbol of the fishermen of men and a symbol of Jesus Christ and Mary Magdalene and so on.
+
+So that 's the symbolism of this. The interesting thing is that also in biology , this is called mythosis.
+
+So mythosis comes from myths that means tissue and also is ten means impulse for also action.
+
+So mythosis would be the action of creating it. Creating an attitude.
+
+So how this tissue appears.
+
+So let 's go to that.
+
+So we had spoken that they that the unity has divided it in , has been divided into things. Called the subject on the verb. This here is the only one thing that the subject on the verb are. But how can I difference both of them?
+
+Well , it will happen when the potential is debated. And that means that the potential starts to get an action and we can know who is starting that action.
+
+So that would be the potential. The potential is within the everything and suddenly through the action by an intention by am. The potential is released.
+
+So when the potential is released from its tension , it makes the potential move creating energy and the energy starts to flow moving what before was intention. All the inner potential that was released starts to create energy.
+
+So what happens here when the potential is released and the energy is set free.
+
+So the energy creates something that we call positive and negative , which is basically a new structure in which this tension is now flowing.
+
+So if this is an absolute tension , how it 's going to be released , that tension by flowing and plays. As much potential is released , the biggest is the movement.
+
+So now this line of tension , it does n't exist anymore. But now it 's a concept that helps us to know when we have a positive energy and when we have a negative energy.
+
+So positive and negative will create now a potential energy.
+
+So what we have here is a wave of vibration that is divided in something that obviously we call hills and valleys.
+
+So this movement will create that the subject is the negative and the verb is the positive because the the verb is the one that takes me to action to manifest something outside.
+
+So we can find here that we have I am I am I am.
+
+So what we 'll be understanding from this is that I and am subject and verb are not different things. They are the same wave of vibration only one thing that has two different options that are complementary to each one to each other.
+
+So now this two things here , this space here is what we call white and this here is length. Why sorry I did n't know how to why.
+
+So we have here the amplitude for white of the length and longitude or length of the wave.
+
+So according to the amplitude or wave of the wave or according to the length or longitude of the wave the I and am the subject and the verb will be different from each other. And this is why we have different beings doing different things taking the actions in the universe.
+
+Okay. This is what those two are in the same level. We used to call that we rebound.
+
+Okay.
+
+So now every one of us , every being is in a specific wavelength or amplitude.
+
+So we follow that so we can keep the same information. Why is that? Because in the very beginning maybe perhaps we have created one specific structure that we want to be passing information that we need.
+
+So what we are doing is to repeat things , repeat the same pattern is a cycle that will repeat patterns once and again because our self do n't want to lose that information. That 's why we repeat patterns is like repeating the same wave. Patterns are not the bad thing. Patterns helps us to follow a path in evolution.
+
+So the real problem is when the entire environment has changed the vibration and I am still with the same one before. That 's the problem.
+
+So patterns are not bad. Is the bad thing is that I get used to them even if the environment has changed.
+
+Okay. But sometimes in our life we reach that point of tension between the positive and the negative. And when we go through these moments of process is when we reach the nodes. Lost are the middle point in the tip and the negative.
+
+A point of balance in between each one of them.
+
+So what do we have here? We have here an edge and a vertex. Edge and vertex. Hmm.
+
+So just a wave of vibration and energy. But eventually this energy of positive and negative will bend towards itself in order to earn this energy and to save this energy. Creating a structure. What we are watching here is into dimensions , lines and dots.
+
+What we have here is that a node is basically the neutral point in between two different energies complement each other , positive and negative.
+
+So in the center in the core it 's created where we call optical. All the energy of the wavelength creates a particle in the middle point. A particle is the tiny part that 's the main and a particle. A part that is in between the two complemented forces.
+
+Let 's go to the detail here.
+
+So if I have this structure in this way , how can I turn it into 3D?
+
+So one of the things that we start to do is to unite one of the dots with the next one.
+
+So which structure are we going to shape? When I turn all these waves into these triangles , I start to take this shape. They are tyrant. Then they have another one.
+
+So do n't take exactly a triangle , but the shape is triangular.
+
+So this here creates one atom.
+
+So we have here one atom , another atom , and both together creates molecule. And I keep creating this structure. Once and again , once and again , of tetrahutrons. It 's difficult to see here , but what we have here is the joint of many tetrahutrons , ones and again , once and again creates a spiral from one side and the other.
+
+So this structure of vibration that starts to bend towards itself.
+
+So to accumulate the memory of the energy , we 'll take the shape of a dull helix that is the NA. Just connecting tetrahutrons.
+
+So tetrahedron , the fire of the spirit , creating the double helix of the NA.
+
+Okay?
+
+So now inside the structures of the net , are created. All the net work is created inside the NA. What does this remind you? Hexagonal 's and pentagon 's.
+
+## Practice Structure
+
+The structure of hexagonal 's creates the main structure of the Icosahedron , and the pentagon 's creates the main structure of the Icosahedron. They are basically the patterns that shape the planetary grid or any grid.
+
+So when we have here , the structure of this structure is how the four elements of life are manifested. The ones that we call Adonis , C2C , one in and team in. And they , this four combined are creating where we call the consciousness , the Christy consciousness that is the information of everything inside the NA. And it is called by the tetrahedron of the phosphate that creates the double helix of the NA.
+
+One fire going up as positive , one fire going down as negative. The Kundalini , basically how we call the Kundalini is the two fires , the pink or red fire with the blue fire. Is the spirit , basically is spiritual. The network of consciousness.
+
+I 'm so sorry , I 'm going to speak a lot.
+
+So this structure that we have seen here , it organizes in a very structured way like this. There is power way like this. This structure is what we call chromosome. And now the chromosome is inside the nucleus of a cell.
+
+So inside this cell , what we have here , the structure is what we spoke before. The spiritual being the self that takes an action that activates a potential and the potential starts to create a new structure of energy that creates. The geometry that organizes itself in order to hold that information , storage information and it creates the NA.
+
+So in order for this information to be activated and be useful to transcend through time to space , it needs a lot of energy.
+
+So it needs to bring energy from outside.
+
+So it is surrounded by a nucleus and inside of it all around , it has seat of plasma with a lot of different proteins and many tiny organs that will help this nucleus to receive the energy that it needs.
+
+So what happened here is that all the energy that is here is all focus in trying to multiply the content , the information that this has to have security copy.
+
+So whatever happens to this cell , another one can keep going with information.
+
+So this is why all this energy is used to multiply this information just aside the other one. All again.
+
+So suddenly what happened is that in this positive and negative that starts to be created in the cell , this organism starts to go from one side , some of them from one side and the others to the other side.
+
+So this one here also starts to divide itself in order to multiply the information.
+
+So this is the process of creation of a new cell. Where suddenly we have two nucleus with exactly the same information. And in the last part of metosis , the cell is divided and we create two more cells.
+
+So this that in biology has been created as a way to reproduce is basically how the universe found a way to keep the information since the very beginning. From the very beginning of the universe , the information has been repeating once and again multiplying itself in order to keep much more information.
+
+So basically our cells are the best examples to understand the huge library.
+
+So within ourselves , we do n't have only the information of our life. We have the information of the entire existence. And usually when we go to the Akashi Records to live for information , we basically go to ourselves. It 's the energy of ourselves that retains the cosmic information.
+
+So every 16 hours mostly each one of the cells move itself once and again once and again in order to keep the information going.
+
+So this multiplication of things of the information ca n't go forever.
+
+So some of them can not adapt to the environment , so they needed to find a new way in order to keep with information going in case of all of the cells die.
+
+So the way they found it is through reproduction , sexual reproduction.
+
+So they create a new being outside. And now it 's not about meiosis. Methods will be multiplied by meiosis.
+
+So in the process of metosis , the same cell divides itself creating two cells with the same information.
+
+So in meiosis would be different to different informations get together to create a new one. One feminine , the other masculine. And this makes the species better because it gives the information from one being and from another being.
+
+So the best part of both.
+
+So what is basically metosis and meiosis? It 's mainly the way in which nature , the divine , the universe , has found to keep the information alive all the time. Consumably. This is how it works , how we exist.
+
+So basically the consciousness is here in this tiny universe. And we , the result , are just the product of that. And we are the package where all this information is happening. This is why we can not take for granted the biology in front of the spiritual world because basically biology is the spirit.
+
+And all those things that we usually see as huge in the space are actually happening in the tiny world within ourselves.
+
+So how is this useful in our life? It 's basically to understand that there 's no a God above in this case. There 's no an casting records that is in heavens that you have to go away to look for it. It 's basically within is ourselves.
+
+## Guided Meditation
+
+Every time that we look ourselves into the mirror , every time that we touch our body that we breathe. There we have the information. There we have a library that every 16 hours , it 's generating books , rewriting books. And of course that our planet is also cell.
+
+Our solar system is a cell. The galaxy is a cell. Everything is a cell.
+
+So everything has an casting record. Everything is a book of information. But if we want to get into that information , so we have to just go to the closest library that we have , which is our body , our own cells.
+
+So all this explanation just to say the famous sentence of all the answers we 're always within you.
+
+So we thank for the writers in the cells that everyday are writing the books through mentalsis. And of course not everything is so beautiful.
+
+## Daily Practice Elements
+
+So that 's why tomorrow we will speak. We will talk about mutations. The vibration today is key. The statement today is I am the product of written.
+
+The code today is fun and fear. In the lower center that united us to earth and the glory of living in the reality of the third dimension. One of the keys of this chara is learning to enjoy everything that exists. And therefore it irradiates the positive emotion of fun that reminds us to be kids play with life.
+
+## Q&A
+
+And enjoy every instant of matter like if it was the last one. But it 's negative source of people by polarity is the emotion of fear that prevents us from having fun. Ask us to be safe on a safety place on a cave inside of earth when misfortune can talk on the outer world. Help us survive.
+
+State comfortable. Close your eyes and concentrate in your breathing. I take a deep breath , pain attention to my feet. And I become aware of the entire physical body.
+
+Starting to move softly. Each joint in circles. I start to move softly. It 's joint from the ankles , knees , hip.
+
+Despite. Fingers , wrists. Also , shoulders. Neck and Joel.
+
+And I start to stretch the body softly as if I am in a slow dance. Warning in every movement. I become aware of each part of my body. Anyway.
+
+As I relax the body , I start to touch with the tip of my fingers , each part of the body from the head to the feet and a side make its soft massage. I start to recognize that everything that I touch , I can find cells that are doing mitotic , reproduce in themselves and decide touch the body. I recognize the entire history of thousands of data and information that 's been rewritten inside of me , like if millions of writers are taking note of the entire history of the universe within me. As I touch the body and have become aware of this , I allow myself to perceive all this knowledge , information that is waking up.
+
+I let the images , the memories , the feelings , wisdom and knowledge to come out. I touch and enjoy touching the body , connecting myself with my own memories , with my own Px records. Whether I have remember , seem or felt anything from those memories within or not , I become aware that all this information is inside of me. And I take it all to my heart.
+
+Taking a deep breath. I become aware that all this information is there for me , waiting for the precise moments , the right time. I remember that all the information of the universe is within me. And there is no need to go beyond the stars to look for data.
+
+All that it takes is a curious , is a breath to find it in yourselves. I carry softly the tip of my fingers , feeling the heartbeat and how it connects me with every cell and all this information. I carry softly the tip of my fingers , feeling the heartbeat and how it connects me with every cell. I carry softly the tip of my fingers , feeling the heartbeat and how it connects me with every cell.
+
+I carry softly the tip of my fingers , feeling the heartbeat and how it connects me with every cell. I carry softly the tip of my fingers , feeling the heartbeat and how it connects me with every cell. I carry softly the tip of my fingers , feeling the heartbeat and how it connects me with every cell. I carry softly the tip of my fingers , feeling the heartbeat and how it connects me with every cell.
+
+I am a product of rhythm. I am a product of rhythm. I think. I think.
+
+I think. I am the universe library. I take a deep breath and slowly. I am a product of rhythm.
+
+I am a product of rhythm. I remember that every day till the next 21st July , every day before we go to sleep , which has been a long time. I am sound. Thank you everybody for being here.
+
+One day and as always , see you tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

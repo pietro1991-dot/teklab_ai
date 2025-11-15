@@ -1,0 +1,354 @@
+---
+title: "Day 265 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 265
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 265
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - crown chakra
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 265 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening to all of you.
+
+So I changed my place today because there was a celebration , I do n't know what it was , but not the wedding because we are in Ramadan , so in Ramadan you can not eat drink , the parties and not even have sex.
+
+So Ramadan is a Muslim celebration which is like the Easter for the Christians and the Jewish , also in the same mountains , same traditions.
+
+So you are not supposed to eat and you are doing just supposed to do fasting and test things. I would try to begin by two or three comments that I would like to make very short.
+
+## Q&A
+
+So the first thing that I wanted to say is about something that has been happening this past month , which is that a few people , two or three persons had come to Egypt to try to find me and they did it in a very invasive way , like asking or asking like , like , I have to see you or coming to my place and knocking my door. And those things are really invasive even if you are doing with all the love. And I am very Capricorn in this. Besides I am here doing a planetary project talking with all of you here in the screen.
+
+This does n't give you the right of believing that I am here for everyone , for whatever you please. And I have my own life , I have my own place and I am really Capricorn in this way. I am not open to see anybody unless I am asking for that.
+
+So sorry , but I am not going to be open to receive anybody in that in those terms.
+
+So I am saying this so you do n't take a flight to Egypt just like that. And also , regarding this thing , I would like to remind you that if you come here because of a projection , of course that in some way is my responsibility that you might have some projection or me because I am here in the screen and put in myself here in front of all of you. But when you ever had a projection with someone , first of all , you always have to think about , mediate , ask yourself why I have this projection from where it comes from and so on. I am not speaking with anyone in other dimensions.
+
+I am not speaking with anyone in their dreams. If I need to speak with someone , I will write through WhatsApp. This is the 21st century.
+
+Okay , so that 's what I wanted to say. And I wanted to clarify some aspects that comments that maybe is good to clarify for a lot of people , for all of you. One of the things that I wanted to clarify for everyone due to a comment was that someone who is in the same way , someone asked why I am speaking so much from the individual and not about the collective , which is so important , also that many things like integration for example not only happens in the self but also happened in a network of group of people. Well , I would say to all of you maybe I did n't explain very well in the blog , but I actually did explain how this happens in many fractal constantly , like from the atomic point of view , until the society point of view , all the concepts are being equal.
+
+So I did n't speak about that and today I wrote about that , so I would recommend for you to read it again in order to see that specific part.
+
+So in the other hand , also this path is called the In , not we are.
+
+So the reason why I 'm speaking about the In is because before we start to work with the groups of people , we have to acknowledge who we are as an individual , as oneself.
+
+So if I am an individual that acknowledge itself , so then I can be very easy to connect with the others much more faster.
+
+So that 's basically this is the path of the In.
+
+So another concept that came from the same topic is about the idea of competition that I was talking about. There were some people that were saying that today there was a discovery in biology that most of the organisms does n't compete , that they really cooperate.
+
+So I should explain better because or to take in count that is much more cooperation than competition.
+
+So what I want to say about this is that I actually was saying that.
+
+So cooperation comes from the word co and opera that means to act , to do an action together , all together doing something that 's cooperation. And I was explaining that competition is to ask something together.
+
+So what I was trying to explain is how we misunderstood the concept of competition with ideology in the capitalism of being over the others , but the real concept of competition is about collaboration. In between the different organisms.
+
+So I was trying to explain that and I guess that I did explain exactly that , but maybe some people did n't understood properly what I was trying to say.
+
+So another thing that I wanted to explain about a bit is there was a comment that was a bit impulsive.
+
+So I was focusing in the idea that maybe I 'm not taking in count all the people that really are suffering or being. I 'm protected when I am asking the things like go out and expression that or whatever. Maybe because I 'm a man. The person said that maybe because I 'm a man.
+
+I am not taking in count how difficult is for others. I think that person was suggesting women to express or to do things in the outside being this protected without protection. Maybe I have protection because of my sex. That 's why I feel much more free and comfortable.
+
+So I wanted to comment about this.
+
+So as a second thing I would say that the concept of saying that I 'm not taking count persons that are afraid or in problems when they express is actually very weird because the entire blog was about that. And the people that are afraid of facing the cultures that are judged in them.
+
+So maybe it 's not the same way. Maybe it 's not only going out and screaming that you are able to do that. You have to find your own way. I was just sharing my way.
+
+I 'm not saying that that 's the way you have to do it.
+
+So just to clarify this. And the whole point is exactly to help people that feels am protected by this society to be strong and to say I am this I have to express it even if I feel in this wrong environment.
+
+So and the other thing is about men. Me being men maybe I do n't think count the people that suffer in this society. Well I would like to remind you that yes I 'm a man by the name of homosexual in a Muslim country.
+
+So I grew up knowing what it is to have a healthy pressing on you.
+
+So being scared of society being who you are or acting what you are.
+
+So kind of I know that. And in the other hand of this remember that. We are beings if we start here to debate about if men or women is because we are not getting the thing and of course of course that. Women are suffering much more in history than men.
+
+Yes that 's the fact of course. But we should not put ourselves as victims. We should do stuff to move forward. Not to set ourselves as the poor ones that are suffering because of this or that.
+
+So we have to just face the reality and start to do stuff in order to be value.
+
+So I 'm sorry but these are kind of some topics that I guess they are good to repeat sometimes so we can.
+
+So we can do for the new people that are joining to for them to know some of this clues.
+
+So sometimes for example some things that happen that when when they said. You did n't face maybe difficult things because you are man and your. You are protected and so on well I would like to say that there are some stories that I never share because unless someone asked I do n't share it but. I would love to remind you that or to tell you that once I was mediating and and and some people kidnapped me they were organ dealers in that region.
+
+So they kidnapped me and because I was mediating I had guns in my head pointing big guns in my head and. And I is keep.
+
+## Guided Meditation
+
+So it 's a long and funny story but anyway. It 's not for today but when I when I wanted to say about this is. I too felt. I 'm protected and really in danger because it was meditation and mounting.
+
+So.
+
+So talking about this. Shadows and lights. We reach the point of integration. What do you have it.
+
+As I read just read here.
+
+So integration comes from the words in. Tangerine and action in meaning inside of course. Tangerine meaning. Tangerine which is to touch and also we will take the technology.
+
+Tangerine which is to weave. And Icon which is action.
+
+So this could mean the action of being able to touch what is already manifested. What you can touch manifest it. But it 's real now.
+
+So let 's go to understand integration.
+
+So here we have the expression which is from the pressure that we have within. It goes all outside. The pressure is setting free.
+
+So this expression reaches a point in which. The same expression starts to observe itself.
+
+So. Like eyes. Start to observe itself. From different points of views.
+
+So once this has been expressed. What happened is that the same expressions. Start to experiment itself. And what is this?
+
+To be able to. To prove. Different ways of only one thing. We have only one thing inside.
+
+And we start to watch inside. To the core. Of serving only one thing. As.
+
+From many different points of view.
+
+So what happened here. After the individual. As experienced experimented. Each one of the points of view.
+
+They start to share their ideas of this point of view. Manifesting.
+
+Something. In the center. A new reality. Inside.
+
+So this one starts to share different ways of. Information. And each one of them starts to share different points of view. Creating a new idea of what is inside.
+
+And that 's what we call. Integration. And then of course we have. The.
+
+Transcendence which is to create. New ones coming from the main one. Transcendence. Going from one spot.
+
+So another spot.
+
+Now. What we have here. Is that. We have spoken about the.
+
+Things that create. Um. A reality.
+
+So we have the shape here again. And remember that in order to manifest to create something. We need vibration energy and matter. And of course.
+
+In order to download the spirit to recognize with the divine. We need the attributes of love. We 'll. And wisdom.
+
+And all of them together. Creates in the center where we call. The beam. Hmm.
+
+So here we can say that all this attributes here. Are the ones that will determine the.
+
+So the integration of certain types of vibration energies and matter.
+
+So of certain levels of will love and wisdom. Will form what I call as myself.
+
+So the integration of this attributes is creating what I am. Hmm. Of course that in different ways in different levels.
+
+So each one , each being is unique. Individual unique. And special.
+
+So what would be an integrated being. A being with integrity. A being with integrity would mean someone that had accomplished to have all of this attributes. Sharing.
+
+One another. And being used in harmony and coherence.
+
+So remember one thing. Coherence. Coherence is equals action in this terms. Coherence is the action that we take in order to.
+
+Leave our lives. Connecting love with wisdom. With wisdom. The wisdom according to the will that we have.
+
+To leave our lives physically according to our energy and our vibration.
+
+So coherence basically is to take action on how we do. The relation between all these attributes. And integrity. Is describing what it is.
+
+So it 's describing the subject of the action. Hmm.
+
+So integrity would be. What do I have in this connection? Not what I 'm going to do with what I have. It 's about to realize and discover what I 'm.
+
+What do I have within.
+
+So and a person with integrity is the one that accepts. All the links. That has and leaves accordingly. Accordingly to that.
+
+So of course that in order to be a person with integrity. We have to act with coherence.
+
+So but in order to act with coherence. What I have to do is to acknowledge the things that integrate me. What do I have within? What are the tools that I ca n't with.
+
+In order to be coherent.
+
+So this is what the journey of the person that is looking for. Integration. Is to acknowledge the things that that person has inside. All the things that we just know that are parts of ourselves.
+
+So this implies how can I do that.
+
+So remember that we are a human being. Composed by vibrations energy and matter. And this means that through vibration. We are vibrating all the time and rebound and relocating with things.
+
+Or not we can be in a high vibration or low vibration heavier or light. We can go faster slow.
+
+So vibration determines the way in which we leave every day. With with which things we connect. Which brings us to polarity in the energy. How do we feel with that?
+
+The emotions that we perceive. Positive and negative. The energy moving us through the connection with other people with the. With with others.
+
+So. The energy is also determining. How do we leave in our reality? And of course the matter.
+
+Which is the body , the NA. The cells. The information that we hold from our history. All the things that we have from our ancestors.
+
+So that would be. That would be all the codes that summarize what we are. Who am I now?
+
+So it does n't matter if you go and take all the courses you want. All the. All them. You see all the documentaries you want.
+
+You look for all the books that you would possibly read. It does n't matter if you do all that. You are not going to be coherent. Or integrate it unless you know what you have within.
+
+So eventually some moment you will have to watch within. To understand what are your parts.
+
+So all these things are the things that you and only you are able to discover. There 's no medium channel person. There 's no master. Therapy.
+
+Anyone or anything that can tell you exactly what you have. Those people can guide you. Can lead you to find the answer. But no one can give you the answers of what you have here.
+
+## Q&A
+
+So this is your own task your own job as an individual. The same thing we 're having with our attributes of the thing. Love , will and wisdom. Love will and wisdom.
+
+So in one hand we have the attribute of love related to the vibration. Which is the one that will show me how do I feel the things that I perceive and rebound with things.
+
+So we have all spectrum of love in which we can dive right from the hatred. Very low and the unconditional love there you are.
+
+So will is related with energy. If I am not willing to do stuff is because I do n't have the energy to do stuff.
+
+So by acknowledging which wheels do I have in which things I put the will in my life. I would know where my energy is pointing at.
+
+So wisdom is related with matter because of course wisdom is the manifestation of the mind.
+
+So this would mean that I will be leaving my life according to my level of wisdom. This is the way in which we can identify the concepts. Mostly.
+
+So in order to integrate in order to integrate here. What we have to remember is that each one of these attributes. We have lived each one of them throughout our lives. We have lived different kind of wheels in our life.
+
+Different kind of energies. Different kind of knowledge and wisdom. Different vibrations and things with which we re-sound. Different types of love.
+
+So we have been living different ways of this things. And the way in which we know if they are integrated or not. Is if we start to do like a list. Going backwards of all the things in which we have expressed or lived with.
+
+Our energy , our wisdom , our life and the matter. The body , our love. And when we start to make like a list of each one of the six attributes throughout our lives or this life. When we start to acknowledge.
+
+Is in which things we are not still able to integrate. And how do we do that? Because we will be moved by emotion. When you are moved by emotion.
+
+This means that the concept is still moving through the edges of the shape of who you are. And it 's not integrated and stable in the center. This is the important thing of integration. Which is to be able to know which things from the past are still moving ourselves.
+
+Which things from the future. Our projections are still moving from ourselves. And what others are still in the center. Knowing that all the other things are part of myself.
+
+But they do n't move me anymore. You have the entire life to do this. This is not for today. This is a task for the entire life.
+
+This is something forever. All the time.
+
+So no rush.
+
+So of course that. Well , today I give you a task.
+
+Remember that I wrote in the post the task.
+
+So always in the post of everyday. And the idea of the task is just to make a tiny. Tiny practice of how to connect. The lines , the dots of your history.
+
+All creating you integrated in you as oneself.
+
+So that 's that 's the task itself is to try to. To think about the. The steps. To think about all the things that brought you here.
+
+All the things that need to be what you are. And connect them playing. Whatever you had in your reach. Once said this , let 's go to the lineman.
+
+## Daily Practice Elements
+
+The vibration for today is here. This statement for today is for today is I am the designer of web. I become aware of the space that surrounds me. The body I inhabit.
+
+My own writings. I observe the low of my feet. The light of the consciousness of my body. In the shape of a divine spark.
+
+## Guided Meditation
+
+I breathe and ignite it. I rise up this part to my feet in the shape of legs. I recognize this two legs. As a source of life.
+
+The origin of two rivers. White and blue. Going up. And.
+
+It is slow. I send intention. To integrate all the paths. That took me to where I am now.
+
+I breathe and ignite my feet. I rise up this part to my knees. Where both rivers. I recognize here.
+
+The the feminine and the masculine energies. Throughout the history. The nice here. To make me be what I am.
+
+I send intention. To integrate all my history. Here and now. I breathe and ignite my knees.
+
+## Energy Work
+
+I ascend this energy to the root chara. I am the source of my vital energy. I observe the holy legs. I rise in the energy of the Kundalini in me.
+
+## Guided Meditation
+
+I send intention to integrate all the outer world in me. I breathe with night and roots. I ascend this part to the creative center in sacra. I recognize here the creative power of another in me.
+
+I am the source of my vital energy. I send intention to integrate all those things that I have created in my life. I breathe and ignite this sacra. I have this divine spark to the plexus initiating the No.
+
+I recognize the temple of the body of my personality within my places. I am enlightened. I set the intention to integrate all these relationships and attributes that I manifested in my life. I breathe and ignite the plexus.
+
+I ascend this divine spark to my heart. I recognize here the temples of life and love expanding to the world in service. I set the intention to integrate all emotions and feelings within me. I ascend this divine spark to my throat.
+
+I contemplate in its the temple of the sun , radiating the light , the 12th race of truth. I send intention to integrate all the wisdom knowledge of the world in me. All the truth. I ascend this divine spark to my throat.
+
+I observe in front of me the eyes of the teams contemplate in what I am. I set the intention to integrate all the qualities and perceptions perspectives of this world. I breathe and ignite my throat. I ascend this divine spark to my throat.
+
+## Energy Work
+
+I observe the crown opening like a delta green shining all surrounded by pyramids. I set the intention to integrate all my beliefs and all the divinity of existence. I ignite my crown of pyramids. I become aware of this inshetic path within me.
+
+I integrate each step of it. Each path is a chord , a string in the network of the web that mean myself. I 'm creating. I am the designer of the web.
+
+I am the designer of the web. I am. I am the designer of the web. Thank you everybody for being another day here with me.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

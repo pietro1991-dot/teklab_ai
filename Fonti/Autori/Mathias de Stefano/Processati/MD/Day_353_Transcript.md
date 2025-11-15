@@ -1,0 +1,218 @@
+---
+title: "Day 353 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 353
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 353
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - mantras
+  - vibrational practice
+  - consciousness work
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - month holding
+  - month hole
+
+practice_elements:
+  chakra: "Root"
+
+---
+
+# Day 353 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Root`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening.
+
+So today I 'm very tired because emotionally tired because today I woke up with me changes , many things that had happened that I had to rethink and reorganize for my next steps and it 's been like heavy , so I am very tired of it.
+
+So for you to know , we are already in the energy , getting inside the energy of Leo , of the sign of Leo , but we are following the Atlantic calendar , so that 's why we will keep with cancer until the 29th this month.
+
+So because we are still in cancer , you will still watch this face of someone that is emotionally destroyed.
+
+So I guess that all of you remember what is in Atom , because the topic today is Atomic. We spoke many times about this , so I guess all of you already know.
+
+Okay , so Atomic , what is Atomic?
+
+Remember first of all , Atoms , Atoms comes from the Greek language and it means No division.
+
+So Atoms means no division without any division.
+
+So the word Thomas means something that is divided and Atoms something that is impossible to divide or is not divided.
+
+So why do we call Atom to something that has different parts?
+
+So when we go to school , usually we learn that an Atom has different elements.
+
+So why it is called an Atom if it has different elements.
+
+So we have these three elements on an Atom mainly. A proton , a neutron and electron. The electron is a negative charge , proton has a positive charge and neutron has its name the same , it is neutral. It can be also that there is no neutron in the Atom.
+
+It can be that it has only one proton , one electron or has many electrons or has many protons.
+
+So that would be the different charges of an Atom that makes a structure much more compact or much more flexible.
+
+So the different atomic charge that would be the amount of electrons or the amount of protons that an Atom has would show which chemical element it is according to the weight that it has of matter.
+
+Remember that yesterday we said that these particles here are the matter.
+
+So the rest is just void , fill up with magnetism because of the positive and negative electricity in between both of them.
+
+So most of it is void and the connection between different atoms they do n't touch each other. They just share some signs on electrons that would be the Atom and Tangleman and Tangleman. But besides that this void is not filled. The electrons are not crossing in the middle.
+
+## Practice Structure
+
+They are always holding the structure of the core , okay?
+
+So they do n't mix each other. But sometimes the Tangleman makes that one electron that comes here , who goes that way?
+
+So they are all the time shared and that makes a very strong structure. It is like if a sun is sharing planets with another sun , something like that.
+
+So if I , as you see when we call Atom to this but we have one , two and three objects here.
+
+So if I open the structure of the proton I will see quarks and quantum.
+
+So it is , it goes winner and winner. All these particles are called subtopic because they are under the atom. Eventually some scientists discovered this , that this one here could be seen much more wider and you see proton neutron and the electrons.
+
+So they call that subtopic particles. But then they took these particles and they started to see , they began to see that there are many other structures inside. There comes this moment that we have so many subtopic particles that you start to see that there is no atom really , that there is no atomic reality that there is nothing that is one , the bottom of everything.
+
+So that 's why they started to call it the quantum. The quantum is quantified the things you can count , one , two , three , four , five.
+
+So if you still can count it , it 's part of the quantum.
+
+So they went beyond the atom because an atom is really not atom because it has many parts.
+
+So now what happened is that eventually someone saw that this quantified aspect , the same thing that you can count , one , two , three , four. Depending on the environment , depending on the context , they can also behave as a wave.
+
+So eventually they could see that the same things that were quantified , they can also be measured as a wave and maybe they are all connected as one.
+
+So now suddenly all the different particles of the subtopic reality can also be seen as a wave.
+
+So in this way of thinking as we spoke yesterday about existence , we can think that this particle here is equal one. It 's equal one. But if I have another particle , it 's also one , but I can count it.
+
+So I can say that each one of the next particles are a unity by itself.
+
+So they are one particle , one particle , or I can count it , one , two , three , four. Because they are particles.
+
+So I can see them by separated.
+
+So what happened here when the particle starts to behave as a wave? They start to behave as a wave. And so now we do n't have one , two , three , four particles. We have one , two , three , four frequencies in one vibration.
+
+So what we have here is that an atom.
+
+So one , two , three , four particles with a neutron and a proton.
+
+So when these particles start , these electrons stop behaving as electrons as particles. They start to behave as a wave.
+
+So suddenly we have only one wave with different four types of frequency.
+
+So that 's an atom. We can see this now in a different example. Because this atom can join with other atoms and create a molecule. And the molecule creates a chemical element.
+
+And the chemical element , a component , and this , that component creates an organ and an organ or a cell , and the cell , organs and so on until they create life.
+
+So let 's take a look into a different thing.
+
+So I have here one , two , three , four , five senses that shape one human , which is the same unity.
+
+So they are different senses of itself. They are a unity by itself , but they mean only one thing. I can also say one , two , three , four , five , three , or I can say there is a forest.
+
+So we can say here that we have five individuals in one family. We can say five individuals in one humanity , as we have said each individual is an electron inside an atom or a frequency inside a wave. Of? We have here a human , stirring it at human , but we can also say an electron stirring another electron.
+
+And what we see here is that we perceive the other one as different , because we are watching the matter aspect of this , because we see the particles. And the particles are basically the part that is the basis of our reality.
+
+So each one of these electrons is a tiny particle of reality , that is the base of the creation of our body.
+
+So our body is basically electrons and protons all together , organizing different ways. Of?
+
+So , but they are the basis , they are that. When a person sees the reality , it sees the particles. It sees the parts. Our observer is designed to perceive the parts.
+
+Of?
+
+So that 's why we can see part of things. We can see one human to humans , because we are made on the base of electrons and atoms , particles , parts.
+
+So what happened here when the particle stopped behaving as a part and starts to behave as a wave? Suddenly , the particles disappear.
+
+So all the bases of reality also disappear , where we perceive as parts they disappear.
+
+So we now can understand that these two parts are only one , that every human is just an extension of the other. This is what we call unity or unified field. In other words , we are one. That thing that we usually say , we are all one.
+
+Yes , today I said , what is real? Reality. What is real? Real.
+
+Real comes from the Latin rest. That means one thing.
+
+So what is reality? What is real? Real is the quality of being one , only one thing. If everything is one , how can I exist in order to exist?
+
+I have to get out from what is real , from the one thing.
+
+So I have to get out from where I am staying. How does someone to exist? It goes out from what it is. Forcing the other one to do the same , to go out from what it is.
+
+What is to exist to exist is basically to get out from reality.
+
+So this is real. This is real. And this is to exist.
+
+So me here , imagine that this here , this one here is Matthias. Yes.
+
+So this is me , Matthias.
+
+So I am not real. I exist , but I am not real. Here , gone , a spirit or other one , whoever , another person , also exists , but it is not real. Unless I connect with the other one , as if I am one with it.
+
+And that is real. When the universe behave as a wave , everything is real. Everything is one , is a wave , it is connected. But when the universe behaves as a particle , everything exists , but it is divided in parts.
+
+So what we have to find is atomic consciousness. What atomic consciousness means , means to know is to acknowledge myself one with everything. Basically , it is realized that being one. This is why we can say that God is one , that God is the atom.
+
+Because God is one behaving as many. Many gods. God is one behaving as many.
+
+So this is why one God is many gods. One human or many different humans is a humanity. Many trees is the forest. Many planets is a galaxy.
+
+But also a human with a tree , with an animal , with an insect , with an atom , with a mineral. They are nature. Everything in the universe is constituted by subtopic particles. And that 's why everything in the universe is only one.
+
+The only reason why the consciousness divides itself in many perceptions is to understand the parts of the unity. The only reason why the consciousness divides itself in many perceptions is just to understand the parts of the unity. This is why we could say that nothing really exists , but it only exists because the reality decided to express itself in parts. The vibration today is quiet.
+
+## Daily Practice Elements
+
+The statement today is I am the root of truth.
+
+So today , 22nd starts our new mantra for this month. Until August 21st , we wrap the task that we are doing of connecting every day just when we go to sleep with a mantra I am and the word.
+
+So we are shaping the whole pattern of the miracle that we are all building.
+
+So from today , tonight , when we go to sleep , we just think about I am light. This is the mantra for this month.
+
+So every night that you go to sleep until August 21st , just say I am light.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

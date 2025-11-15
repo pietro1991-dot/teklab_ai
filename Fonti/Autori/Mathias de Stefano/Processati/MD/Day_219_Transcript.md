@@ -1,0 +1,265 @@
+---
+title: "Day 219 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 219
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 219
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - month hole
+  - month hologram
+
+---
+
+# Day 219 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hi everyone. Good morning. Good afternoon. Good evening to all of you.
+
+So today my phase is explained because I will cover 6 am today and since 7 we 've been doing many things and I just finished 20 minutes ago.
+
+So I was doing so many things that I even forgot to eat and I 'm really my phase is really tired because of the sun , wind and the sun.
+
+So that 's what you will see this phase.
+
+## Q&A
+
+Today in one of the moments that we sat around the pyramid I just asked to the arm to myself. If I am tired today that I did n't do anything , how I 'm going to be for the event in February 22 , 2022 with so many people on so many things to do and my house I 've said well you are asking that from the point of view of Matthias and he said who else and it said well in that moment you are supposed to be I am.
+
+So I guess I do n't know when it 's going to happen in those days but I guess that I would be fine. And once said this with my mind mostly asleep I would try to explain the 9th dimension.
+
+So let 's see from where can I start to explain this? Let 's see how to explain this because for the new ones I would say that I do n't usually I never know exactly what I 'm going to say.
+
+So I just get the idea when I am as I am speaking with you. Let 's see if I can do what I want to show you to you.
+
+Now I could n't do what I wanted to show you.
+
+So let 's go to the 7th dimension because I am not willing to do what I want to show.
+
+Remember that the 7th dimension is irritating it 's light towards 12 directions.
+
+Remember that each one of them creates a torus from each one of its directions.
+
+So what happened with this torus is that they start to create a circle as you can see.
+
+So it 's not only that one torus creates many different different like a 3d dimensionality like this. Like 3d dimension like different lines creating a 3d mold of the torus is not only like this that appear but also they multiply by 12. 6 torus we have 6 torus. We have like 6 torus here that multiply themselves.
+
+So it 's like having these torus here and we multiply and multiply and multiply it in all directions.
+
+So as I said the torus is only like the shape of the apple and the apple is created by that because once you have one symbol of the infinite it starts to multiply in 3 dimensions like all the filaments around creating the shape of an apple.
+
+So in the 8th dimension what happened is that there are many of these torus interacting each other so they start to create like this pattern that is not like a flower is a sphere.
+
+Okay so they create it create the 8th dimension create this beautiful flower of the sphere that we have here.
+
+So what happened here that this circle that we have here the cross of the sphere has many many links crosses dots notes that matches and create this pattern around like the surface of the planet for example.
+
+So now remember that each one of these nodes are the creation of the cross of two lines. One line is the line of time that 's two in again. One in this direction is the line of time. The other one in that direction is the line of space.
+
+So in the middle they create a node that will become matter and this node is something that we call here and now.
+
+Okay perfect.
+
+So yeah so this means that each one of these nodes here of matter will be the conjunction of the constant of time and space living through the pressure of here and now creating matter.
+
+So now remember that these nodes are not just a few here in this sphere. Are all around in this sphere they create this sphere. Because remember that a few videos ago I explained that as fear is basically the conjunction of thousands and millions of dots of vertices. Because as fear is the product of the fragtalization of the triangle.
+
+So a triangle fragtalize thousands and millions of times it creates a sphere. A circle then a sphere okay.
+
+So they multiply and they create that.
+
+So as you see each cross of time and space is billions of these nodes of matter that create the crust of this sphere.
+
+So let 's try to remember why we spoke in the third dimension and the sixth dimension.
+
+Now remember simply the third dimension. How do we made a figure in the second dimension to become third dimension? We have to find the vanishing point.
+
+So we made the vanishing point here and we connect with the vertices. And there we have a data agent , a data agent.
+
+So that 's the third dimension , the depth.
+
+So now where do we have the sixth dimension? The sixth dimension will come with a fragtalization of the third dimension.
+
+So for example it 's fragtalize here the third dimension. And what we obtain is a merkel.
+
+So from the merkel it starts to create many realities. Then you can check again dimension three and dimension six.
+
+So now why I 'm explaining the three and the sixth here? Because in the third dimension we have here that is the multiplication of the triangle that creates all these vertices that as much they divide they start to create. What? The circumference it creates the idea of a sphere.
+
+As you see here it kind of starts to create the idea of a sphere. As many multiplication it lives. And what was the sixth dimension? Is the connection and fragtalization of all this structure creating new possibilities , new potentialities of the same pattern , creating many others.
+
+So what is the third dimension? Do you remember that in the sixth dimension each one of the nodes of these possibilities of this creation? Start to radiate the energy towards the seventh dimension.
+
+So this structure is the one that starts to manifest the idea of the seventh dimension which is the light. Can you see the depth?
+
+So now here we have now a sphere you see the depth of this sphere because the third dimension created this sphere and the sixth dimension is transforming all of them into the core into the seventh dimension.
+
+So now look at this the same structure that with pressure creates the light is created by the radiation of the light that they create.
+
+So that 's why the radiation of the light of the seventh dimension creates this pattern of the eighth dimension of time and space. This is the paradox of the universe in which the created is the creator.
+
+So usually when we as humans we try to explain the reality through a line.
+
+So first these second these third that but when we reach these dimensions is all possible is look at this. It 's very complicated to understand what is first and what is next.
+
+So the reason of the paradox here , the creator that is the creator emerges from the concept that none of them is real.
+
+So what is first the egg of the or the chicken? Which one is the first one? The third dimension or the sixth dimension. The seventh dimension or the first dimension.
+
+The fifth dimension or the ninth dimension. Which one is the first one? Not even the eighth dimension and the seventh dimension , sixth dimension , fifth dimension , fourth dimension , third dimension , second dimension and first dimension. All of them they do n't have a process of creation in a linear way because they are all creating themselves.
+
+Once and again , once and again.
+
+So they are projections of each other. That explains that all of them are just a hologram. The hologram is in the ninth dimension. I 'm so sorry but eventually these complex topics would come along.
+
+So what are all the other dimensions that we have been watching until now? Basically all those dimensions are just concepts , parts that helps us understand the hologram of the ninth dimension.
+
+So it 's really difficult to explain this with the very human body experience because we do n't have that. The only way in which we can kind of understand this is with the cinema.
+
+So I wrote about this in the blog. If you want to read better , how this dimension is related with cinema.
+
+So basically when you get to understand the ninth dimension is when you realize that you have been the producer , the writer , the filter , the one that films film linked , the one that paid to film the camera , the camera guy , all of it , the plot , everything , you are all of that. This is why the ninth dimension is the dimension of God.
+
+So why the dimension of God? Because basically is the dimension where you find the one that does everything that creates the whole thing.
+
+So the ninth dimension in order to create the whole rest , first must have the idea that itself is a history.
+
+So that 's how it starts to think about that history. And this is why the first thing that appears with the ninth dimension is the mind.
+
+Remember , we have spoken about the seven loss of the universe.
+
+So in the ninth dimension , the seven loss are created. First of all , the thought , the mentality , everything is mind.
+
+So it creates the idea of the story. When it creates the idea of the story , it projects the story , corresponds. It creates the music for that story , vibration. It creates the timeline , the rhythm , the conflict , cause an effect , the antagonist and the main character of the story , polarity.
+
+And by that , it starts the action , which is generation.
+
+So when this being creates the seven loss is able to design the movie , what 's movie? Move , move , move , move , move. When was movement? Attorney , what is the eternity?
+
+Constant , the constant , what is time and space? And we humans call that love.
+
+So the universe starts to move through love and by love to create its story.
+
+So first of all , to start the story , it must have an end.
+
+So create the idea of the beginning , and an end of the story of the plot. And that 's the first dimension , alpha omega. But it 's just an idea , an idea for a movie. The second step is to create the storyboard , which is to connect the ideas that will happen in between the beginning and the end.
+
+That 's the storyboard of the movie , of the story , synopsis of the story.
+
+So then it will design the characters and the scenery of this story , where it 's going to happen , who is going to do it. And that 's the third dimension.
+
+So then in the narrative , it does n't matter if it uses the resources of time , like going to the future , coming back to the present , going to the future , and going to the past to explain something. Mixing the timeline is a very important resource in the narrative.
+
+So that 's the fourth dimension.
+
+So once this person has everything , now it can write the script.
+
+So the script will describe exactly what everyone is going to say , what will happen , why it happened , etc. That 's the script. Fifth dimension. This is the fifth dimension.
+
+So once it put together the first second , third , fourth and fifth dimension , let 's start with the filming.
+
+So they start to practice with the actors. They start to make the arrangements in the script , and they start to put all the things all the work on the scenery and so on. And suddenly , during that process , they realize that , hey , we can do it better. We can do something , trust and dental here.
+
+We can change some aspect of some of the script of the dialogues , or we can change the scenery to something better. All this would be better explained this way. We can also make these characters evolve much faster , or make changes put some different concepts that makes much more rich , the idea of the script of the story that 's the sixth dimension to make create expand something different. During the process of filming , once we have everything ready , all transformed.
+
+So there someone says , light , camera , action , light , camera , action , seven dimension.
+
+So in the seven dimension , what do we do? The photons start to bring the images , the light colors from the actors , the scenery , everything , and it goes straight to the camera by the lens and us in the old cinema. The light ways , the light particles , they get attached in a in a thin , how do you say , película? I sell those film , yes , sorry.
+
+I sell those film , yes , a cellulose film where it is registered. And this cellulose film is the one that rotates once and again , once and again , registering , recording , everything that happened every second and that 's the eighth dimension.
+
+Remember , seven dimension is the light that allows the things that are there to be registered into the camera , into the cellulose and the eighth dimension is the same cellulose that is the cellulose that is recording every data of the light.
+
+So now what we do? We take the eighth dimension , which is the film film is the something that is really thin.
+
+So we take the eighth dimension , the film , and we do the opposite. Instead of receiving the light from the sixth dimension , what we do is to protect the light from the seventh dimension. Before we were receiving the light from the sixth dimension , the transformation that was going on there , we were received to create the seventh dimension and now we project the light from the seventh dimension through the eighth dimension to project into the wall , the film , the hologram of everything that we have done before. And that hologram that exists , it contains everything that you have done , but you can not touch it , it 's just an idea.
+
+That 's the ninth dimension.
+
+So now this movie has many viewers , many people that is watching the movie.
+
+So all those people , each one of them will think something different from the movie , will feel something different from the movie and will activate a will to do something from the movie. Everyone will feel something different , everyone will perceive something different from the movie. But all of them will be inspired. And this inspiration of the movie will make that in the moment when they are willing to go out of the cinema , they will decide to do their own story to make their own movie.
+
+So who was God in all these processes? It was not the producer , not the actors , it was not the one that financed it , was not the writer , was not the musician , God was the idea , the idea that moved the emotion , the idea that moved to do all those things. God was the idea , that 's it.
+
+So basically what we are doing is to tell in the story of the idea of God in different stories , in different ways , in different movies. This is living our own movies.
+
+So the , everyone of us are living its own movie , its own story. According to the inspiration that they got from the main idea , so as you have seen , some humans love drama , some humans love war movies , some some love romantic , some love real stories , some love science fiction , others comedies.
+
+So everything that summarized the 9th dimension is the inspiration on the idea.
+
+## Guided Meditation
+
+So basically what God is trying to say to us from the 9th dimension is not that God is the creator of the idea , is that God is the idea. That 's why in the 9th dimension it says , I am , I am the idea. And the key of all that idea is inspiration on that idea. This is why the ancient Atlantis used to understand the 9th dimension as the divine inspiration so what is inspiration it comes from the Latin , inside , speed , breathe , in speed , and the whole universe summarized in , to breathe , to inspire one 's and again , that in Latin you may say , re , speed , breathe , inspiration , to breathe , the eternal respiration , and what is the respiration is the spirit , speed spirit , spirit , the spiritual level.
+
+The 9th dimension is the real plane , the real level where you find the spirits. And the only way which you can connect that dimension is by respiration , breathing , and the divine inspiration. And the divine inspiration is that moment when without comprehension of anything you understand it all. 9th dimension.
+
+## Daily Practice Elements
+
+The liberation for today is , the statement for today is , I am love that tourism. The code for today is to connect. When the being realizes everything that has within and what it can be obtained from. When the being realizes everything that has within and what it can be obtained from its projections in the external world decides to connect all those things or beings that work created.
+
+Connecting is the attribute that makes it be aware that all things are united somehow and that for all of them to work tourism , moving in coherence , they need interconnectivity. This way becomes a meter of dreams. Of ideas , of actions , sounds , lights and forms , meter and linked of worlds and realities. Let 's go to alignment.
+
+See it comfortable , close your eyes and concentrate in your breathing. 5th dimension of่ concentrate. In the space I find myself in and using imagination , expand all of it towards the infinite. Until it all disappear , let me float in , hesitate in the nothingness , in the cosmic void.
+
+## Guided Meditation
+
+Breathe. Take it in breath and direct nice that all this void is here for me to imagine , to the sign. Breathe. Breathe.
+
+Breathe. And I used this space to bring to me the ideas that inspire me , all those things that had inspired me in my life , and that inspires me now. Places , ideas , emotions , music , people , all of it. I bring all this that inspires me towards me and I inspire all of it.
+
+I observe my inspiration. I become aware of all those things that inspire me in my life , and that I have been in come , able. To manifest them , to integrate them within me , and how many other inspirations I was n't able to manifest. I become fully aware of my breathing in front of each one of these inspirations.
+
+I become fully aware of my breathing in front of each other. I become fully aware of my breathing in front of each other. I become fully aware that all these inspirations are the ones that inspire me to be inspired. I inspire the being that I am.
+
+So I recognize that all of them tourism the being that I am to the being into that I am. And I become aware that I side inspire myself as their own inspiration. I am inspiration for the whole universe to be. I am the inspiration of all inspirations.
+
+I am Eltham. I am Eltham. I am Eltham. I am Eltham.
+
+I am Eltham. I am the love that tourism. I am the love that tourism. I believe I am the inspiration.
+
+I am the love that flourishes me. I am the love that flourishes me. I am the love that flourishes me. I am the love that flourishes me.
+
+I am the love that flourishes me. I am the love that flourishes me. I am the love that flourishes me. I am the love that flourishes me.
+
+I am the love that flourishes me. Take a deep breath. Take all these consciousness throughout all your body throughout all your being. And each one of the time I come back here and now.
+
+And always see you tomorrow and same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

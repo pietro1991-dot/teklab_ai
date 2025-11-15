@@ -1,0 +1,334 @@
+---
+title: "Day 149 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 149
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 149
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - I AM presence
+  - I CAN affirmation
+  - month holds
+  - month holy
+  - month hole
+
+practice_elements:
+  vibration: "ALL"
+
+---
+
+# Day 149 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Vibration:** `ALL`
+
+## Introduction
+
+Hello everybody. Good afternoon , good evening.
+
+So welcome all of you to this days for the feet , the ankles chara , in the week of the physical aspect of the Sagittarius month. And tomorrow is our last day of Sagittarius.
+
+So yes , we finished the month of Sagittarius according to the Atlantic calendar , but also tomorrow is the last day of 2020.
+
+So 2020 is over tomorrow , but it 's energy is not finished.
+
+So we are following the Atlantic calendar , so we are right now in the middle of the year. The Atlantic calendar says according to the start of series that the year finished and begins in July. The finish in July starts in August.
+
+So we are right now in the middle.
+
+So tomorrow is the last day according to the Gregorian calendar.
+
+Okay , so we 're going to encourage calendar and tomorrow.
+
+So of course that for tomorrow I would be connected at 20 as always , Egyptian time.
+
+So I would be here during the alignment as always. Of course that many of you will be many of you will be celebrating already , but most of all the people that are right now from India going to China , Japan , Australia , New Zealand and Indonesia and all those countries. And we will be already in 2021 tomorrow when I connect.
+
+So I hope , well , I will say now I will say happy new year to all of you who tomorrow will be already in 2021.
+
+So tomorrow will be really weird for me. This is the first new year ever on being alone.
+
+So it 's the first time I always used to celebrate the new year with everyone family friends and so on. But this year I will be here alone for myself. And of course , beginning this celebration with all of you during the alignment and of course with some friends online. But we 'll be weird , but new experience to begin this 2021.
+
+So just to before we start with today information , I do n't want to speak about this tomorrow because we 're going to be like more much more happy maybe. Just to remind you that tomorrow and such ferries and of course in January first we begin with the new month which will be my rice and sign. Last so you know what it is. The new month begins.
+
+Copy record.
+
+## Practice Structure
+
+So I just wanted to say that you have to be prepared because from the very first day of the year we are going to work with the structures. This means of everything so the house does n't fall down.
+
+So we have to work that 's copper corn style. We will begin this year working.
+
+So be prepared.
+
+Sorry for sorry for all the water air and fire signs.
+
+Sorry. But we begin with this hard month.
+
+So let 's see what this month mentions do but somehow this month has to begin.
+
+So I will try to make it more soft as I can this new month. But it does n't depend on me. It 's not on me this because of course I am the face of this but the ones that are working with this they know what to do.
+
+So I want no until they come so who knows. Just in case I will tell you this. Have some paper some pencils or something to write down because this is copper corn. And it 's all about work.
+
+So this is like kind of the joke of 2020 that we said , oh yes we end this year at last we live this heavy year behind and suddenly the first month of 2021 is copper corn.
+
+So it 's like working with the Saturn energy and the hard work and all the karma coming back again and showing us if we are able to face all the things that we have worked before.
+
+So I love that. I love the copper corn energy.
+
+So that 's why I 'm happy.
+
+So for sure this generally can be very very heavy for some people so. Anyway.
+
+So in order to. To be able to begin with this. Big. Air in January.
+
+So let 's. Finish it with this great ocean of water. For today.
+
+So the feet feet are the. And the water is they are related to the path the way. But it 's not about the wave where you move is about the way the way the path that you incorporate in yourself.
+
+So it 's about every step you give is registered recorded within your own body.
+
+So this is related to the purpose , the mission , the places where you go. And you choose.
+
+So it 's all related to all the steps that you give in your in your way in your path.
+
+So the means yesterday they are related to the history , the memories of all our ancestors and the feet is related to the steps that I or we ourselves have given and storage for ourselves. For ourselves in our path.
+
+Okay.
+
+So this is why the feet are related to the life. Life as what as what we experience what we have created for ourselves and is what we are a gesture in ourselves life basically everything that we are. When we when we speak about life on the feet is because we leave a process of evolution and we walk through that process of evolution going ahead moving forward. But what is life from the point of view of mind water life sorry life would be like this concept that.
+
+That that holds all the ideas of everything that has energy and so on that everything is a continuous and so on. But when we go into the physical aspect life is related to not only the movement and the transformation but also with the element that allows life to exist which is this individuals separated from one another changing , changing information. And that 's why life is related to water basically water is life. We usually say that life is not possible without without water we need water in order to have life but that 's not really like that what really happened is that water is life.
+
+Life does n't need water water is the life. When we say life is water we have also to remember that from the point of view of the universe everything that violates is life.
+
+So we have organic and inorganic beings like inorganic for example is like a stone like the mineral kingdom they also have life because they violate.
+
+So if there is vibration there is life but we have another way of life which is the organic and organic means that it can transform and interact one another to create new. Compositions , structures and so on constantly it 's moving flow constantly so that 's why it 's organic. And that those organisms are the ones that we used to call living beings because they move. If we think about this where we call organic and inorganic they are not different things.
+
+They are the same thing because we live in beings we are made up with minerals. We live live we are alive because we have with them carbon , magnesium , calcium , iron , silicon , hydrogen , oxygen. We have so many minerals inside that we usually find it in stones , rocks and mountains but we have it organized in a different way which is flexible. They are moving they interact in a different way because of water water is the one that helps this inorganic structures to become organic.
+
+That means that they can move , they can flow , they can transform the shapes , they can adapt to the environment.
+
+So because of the water because of the water which is this flexible element that controls form itself in different three states. It helps the minerals to interact in each other in different ways.
+
+So life is basically the interaction of the minerals which are inorganic.
+
+So we can understand that life is basically inorganic minerals inorganic elements that are structured in an organic way. That 's how we could understand life.
+
+So basically water is the element , the mineral element that helps the inorganic to structure themselves to organize themselves in living organisms.
+
+The reason why it happened here on earth , why the inorganic started to become organized inorganic is because the heat of the volcanoes under the water. The submarine volcanoes , they create a lot of heat. And this when we when you do n't have water , this heat is just going away because the lava kills everything around melts everything. But when you have water , the water starts to heat up.
+
+So it it allows the minerals to interact and not to melt , not to be this composed.
+
+So the water allows for this organisms , this minerals to interact as we spoke in some videos in the previous videos to earn and to save energy.
+
+So being in the water , it helps that this energy to be storage. And that 's why they create this membrane of sugars and and and salt is salt. It starts to create this membrane that we call a cell. These elements are the ones that start to be organized in some way to create a unicellular organism.
+
+So this cell is the one that starts to divide itself in many other cells.
+
+So it creates multi cellular organism , flyer cellular organism as we are.
+
+So this would n't be possible without the water which allowed to create this unicellular organisms.
+
+So when water arrived arrived to this planet was the last key to help this world to use the minerals from this world in order to create life. Because water is the key of life because basically water is life.
+
+Remember water is not from this planet water is an extraterrestrial beam.
+
+So water basically is not an element from the air water is an extraterrestrial element. It 's from outside this planet is an extraterrestrial beam. Water is one of the most difficult elements to be created because it 's impossible to replicate water. Water is always the same and it 's all over the universe exactly the same is water because you need so much energy to create the fusion to make the molecules of water.
+
+That it could be only it could have been all created at the very beginning of everything.
+
+So the the the creation of water is one of the most wow. The most incredible things of the universe and water is always water. You can not change it in another thing. It 's always water is sometimes his eyes and solid shape sometimes his is liquid sometimes his guess but it 's all over the universe being water on the rings of Saturn on some other moons as eyes and Jupiter.
+
+It 's traveling all around galaxies through comets asteroids so it 's everywhere water is everywhere.
+
+So water came to this world by comments that collapse to our planet.
+
+So basically the comments the eyes of the comments are kind of like the spermatosides that penetrate in the of all the of alles of. That we call planets.
+
+So all the things that we. That have life that have water. We are 70 % water. Everything that is water is an alien.
+
+But we also have minerals from this planet.
+
+So that 's why we are also from the earth. But the thing is that water has come to this planet so many millions of years ago that we can think that water was always here.
+
+So throughout the history the water is the element that tries to adapt by vibration. According to the vibration that we have around water starts to look for the shapes to adapt to the environment.
+
+So that 's why we see for example the snowflakes that has these beautiful shapes each one different from the other one. And we can say now that by the status of massacre amount of how the water is changed in accordance to the vibration.
+
+So now imagine that the vibration is all around your existence which is your environment.
+
+So everything that happens in your environment is going to change the shape of your water inside.
+
+So that 's what we call evolution. Basically what makes a tree up here a human dog every animal and everything exists in life is water adapting to the shape according to the environment.
+
+So for example if I have water in a bottle it takes the shape of the water. It takes the shape of the bottle and inside of me takes the shape of a human.
+
+So water is adapting and that 's what we call evolution. Basically evolution is how the water is adapting to the environment by vibration. Also important thing that if the water inside my body goes to the water inside another person or goes inside a tree or we share the water everywhere. Water is always the same but water has the memory.
+
+So the water remembers inside of it the structures where it used to be.
+
+So that 's why water has memory and everything is recorded in water. This is why through water we can awake information through the blood and the cells you can talk about the potential of our ancestors. Through the rivers we can talk with information of the civilizations and so on. We can speak with the water and bring the information of that water.
+
+This is why a water that is programmed inside a plant can create a medicine. A water that is programmed by voice by intention can also become medicine or a poison. Water contains information of all things. If water has memory , what can we also access to from where water came from?
+
+It came from space.
+
+So we inside have the information of the cosmos because the same water that we have inside is the same water that is in the range of Saturn that is in the earth. It 's a set of Saturn that is all around in every planet and asteroid etc. This is why water is the holy or divine library. It 's why in history in the past the ancient ones not only honor water because it gave life , but also because it was a way to communicate with other dimensions with the cosmos , with other beings and other planets with the divine God , the goddess with everyone.
+
+So this is why also in ancient cultures they use the water to communicate with the divine by washing the hands before the prayers , the feet and the face or also the baptism. All these kind of ceremonies with water is not because only the water was bringing life , but also because it was the way to communicate with the divine.
+
+So water has the information of the whole cosmos and this means that every one of us has access to all the information of the cosmos because we are part of the library. What makes you get inside one information or another is your state of vibration.
+
+Remember that the vibration of the water is the one that creates the patterns and activate the information.
+
+So this is why the vibration of the water makes sometimes the vibration of yourself makes the water awakened for example the potential of remembering as I did. For others is the memory of how to make music for others is how to understand numbers is depending on the level of the water.
+
+So water has conductivity , electricity allows the electricity to move faster from one spot to another.
+
+So that 's why the nearest system is the one that can bring the information from one spot to another because of water. Water is the one allowing your mind to flow all over your body because water is your mind. The only thing that happened is that the minerals have been organizing to process and to understand the code the information of the water so you can think you can do whatever.
+
+So for example we can go now to the biblical story of Jesus washing the apostles feet with water and today we are in the day of the feet. And this is this is a symbolism that represented at tradition of the S , how do you say the English Sous SN people , SN people.
+
+So this people used to get inside the water to mediate under the water so they used the water to connect with the divine every day the SN people. I do n't know SN.
+
+## Guided Meditation
+
+Okay , that people from me the list. They essence , NS , NS , okay. They used to get into the water to connect with the divine every day doing the meditation inside the water. And that is the tradition that Jesus took to wash the feet of the apostles because the symbolism of that was you have walked through.
+
+Through the the the earth now you have to to wash to become connected to the path of the divine.
+
+So of course there are many stories about water in the past and one of the of the symbologists for example of Jesus walking on the water. It 's not because it 's not because he walked literally on the water but because it was a symbolism representing representing the concept of water being the divine and everyone can go down in the water.
+
+So you can not flow you can go into the depth of the creation when you go into the water because you do n't know how to how to get out to see the whole.
+
+So the symbolism was he was able to walk over the water because basically he was the water he was the divine that 's the symbolism. Our planet is 70 % covered under the water even if it is not all water it 's cover 70 % on water.
+
+So we call it the earth because we live on earth we live in the ground but because we are kind of selfish as humans we should really call it the water the planet would be the water but that 's just a perception.
+
+So we can consider the earth a very holy planet because it 's covered under the water. Also watching the earth with this water for sure you have heard that we will have a lack of water that we would have for water. Well water can not dry and disappear because there 's no way for the water to escape the planet and the single water that was from the very beginning of this world. Till now it 's exactly the same amount of water sometimes maybe the water get frozen in the poles sometimes it goes deeper sometimes we have a draw very deep draw in some parts of the world but maybe in other stone.
+
+So the water wo n't disappear it 's always the same amount of water maybe it can be zero to your whatever but it 's the same amount.
+
+So if our world is basically water this means that every time that we can go to the water we can connect more widely with the divine.
+
+So when we go to the ocean to the sea to the rivers , lakes and whatever we can connect even more with the divine. And if you say I can connect better in the highest mountains well the highest mountains is because once they were the bottom of the oceans and the oceans basically were rise up by the planet the planet and they put this highest mountains to describe but it was the bottom of the ocean.
+
+So for example also the biggest deserts the deserts of the Share the driest deserts of the world the Alabama also the deserts of North America they were all under the water they were all they had all the information of the of the ocean.
+
+So it does n't matter where you go in the planet you will have the information of the water. But even though everywhere we have the water there are specific landscapes where all the information of the divine in the cosmos are connected. Specific spots in the middle of the oceans and those places are the tiny islands that are volcanic islands that they do n't belong to any specific tectonic plates but they were rising up in between the continents. In the blood I wrote kind of a list of all the places where you can find this information of the cosmic memory in the water.
+
+Okay so you can read the blood and there you will have it.
+
+So let 's go to the alignment. I got tired of talking. The vibration for today is. The code for today is the matrix.
+
+The larger the quantity of data of books of records and infinite web that draws millions of programs and probabilities of the universe is constituted. It 's like the gestation place of all the ideas of imagination of all the science and intentions dreams and for that is like a mother that just states a matrix that in Latin that are uterus that in Latin we know as matrix. Uterus or tissues that generates life. The information of all is I am the dominant of the oceans.
+
+## Daily Practice Elements
+
+The statement for today is I am the water of skies skywalker. But I am.
+
+So we see it comfortable focusing in your reading. I remember that my body is the summary of all the animal kingdom.
+
+So in my path of consciousness I help all of them to find enlightenment. Take a deep breath. I have served the horizon. I find myself watching.
+
+It 's wide and light blue colors. I find myself. In between the middle distance of Middle East and Central America. In an oceanic place.
+
+At the doors of Europe. In the Atlantis region. Between Made and Years. In turning towards the north.
+
+I recognized the path. Where all the memories go. Where the purpose is heading to. To the north board.
+
+Take a deep breath. And go towards the north. Watching the seas. The frozen seas of the north.
+
+I see the great wide island of Greenland. I am the size of it. I vote the king island of Iceland. The door to the Arctic Ocean.
+
+## Q&A
+
+I feel the fresh water. I see the ocean the coast of Norway. Russia. Alaska.
+
+In Canada. And in the center. The great sea of ice. I descend to the eyes of the north board.
+
+Become in the eyes. Going down. To the hills under the ocean. Become in the water.
+
+I love the eyes. The spanned in myself. From the ocean. Of the world.
+
+Access. The memory of the purpose of life. And I bring this force to the world. I go down from this ocean.
+
+To the Atlantic Ocean. To Iceland. The Years. A sentient island in front of Brazil.
+
+Scent Helen in front of Africa. Just on La Unit. In front of Argentina. And I turn towards Africa.
+
+Hitting to the Indian Ocean. I find there the volcanic islands of the Great Indian Ocean. Mauritius. Reunion.
+
+Maldives. Seychelles. Il Amsterdam. And I go under Australia.
+
+In Tasmania. New Zealand. Rich in the Great. Great is ocean of all.
+
+The Pacific Ocean. I go around the Greatest Ocean of the Pacific. By my finisher.
+
+Some more. Hawaii. East Ireland. Frenchball in Asia.
+
+Cook islands. Marshall Islands. And I go down in between Patagonia and Antarctica. Surrounded.
+
+In the Great Canal. Going around. Then , Antarctica. Watching the George 's in sandwich.
+
+Caragelen Island. And Rita. The farthest. And loneliness.
+
+Sees. From all the world. The Ross Sea. I go to the Ross Bay.
+
+Just a side Antarctica. Watching the white. Of all the most ancient waters of the Canal. The ice of the continent.
+
+Touching the ice of the sea. This is the strength of the memory of water in me. And the Cyrus Sound. I begin to be myself.
+
+To me. That provides the liquid of the oceans. And the ice of the continent. Expanding myself as clouds all around over each continent.
+
+And the beach. Ocean. As guests. Floating.
+
+All around the atmosphere. Before becoming rain. To me. To me.
+
+I am the Walter of the skies. I am the walker of the sky. I am the Walter of the skies. I am water.
+
+I am life. Take a deep breath. And softly with the tips of your fingers. We start to bring this information all over the body as rain drops.
+
+All over the skin. And you can back here and now. Opening your eyes whenever you feel. Thank you everybody for being there.
+
+And as always , see you tomorrow at the same time. In the last day of 2020.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

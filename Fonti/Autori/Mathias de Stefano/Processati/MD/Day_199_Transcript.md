@@ -1,0 +1,261 @@
+---
+title: "Day 199 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 199
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 199
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - I AM presence
+  - I CAN affirmation
+  - constellation work
+  - month hological
+  - month hology
+  - month hole
+  - month hologically
+
+---
+
+# Day 199 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Introduction
+
+Hello everyone , good morning , good afternoon , good evening , how are you?
+
+So today we are close to our closure of the emotional week of Aquarium related to the ankles , the topic for today related to the ankles is the constellation of Turns.
+
+So today we are going to talk about what is Turns and why it ended up in this case.
+
+So I just remember what I wanted to say , which is not only speaking about history of Turns , but we will also speak about what is the relation or the things that we have to learn and to take from the archetype of Turns in this new age of Aquarium. Yes , and remember that we are talking about archetype , we are not talking about the personalities of those who are Turns people.
+
+So first of all let 's try to go into the most related history that we have to the Turns. Turns is in Latin , which is Turns , Turns means Bo , the masculine the cow. And it 's very important that we are history , you know , we are also mother history , because the origin of our civilizations of the Mediterranean civilizations , the means of least civilizations from the north of Africa , the Mediterranean Sea with all the islands , all this , all this first civilizations that settle the basis for our civilizations today , we are based in the era of Turns. The era of Turns began around 5,000 years ago.
+
+So the constellation of Turns was in this kind in that moment.
+
+So that 's why all the people in territories of the Mediterranean Sea that were related and also the Middle East and the East related to that period of time , celebrated time and well related to the kings and the queens , with the Bo.
+
+So Bo , this animal was the one represented representing all these civilizations because of the constellation. That 's why today we have some countries that still has this tradition of celebrating things with the Boats. Well , of course that today we call that the Boat Turns , but in the beginning was not only the Turns , it was also the cow. The cow was also a part a very important part of this constellation because we have to take in count both sides , the feminine and the masculine side of this constellation.
+
+So the Boat and the cow. And in order to understand why this constellation was so important , we have to remember us always we say that we name the stars according to what is happening on the earth.
+
+So we relate that to his cause and it 's very important also to remember that the reason why we name the stars is because of agriculture. A remember that before humans started to become spiritual or to look for transcendental answers and looking into this Christ , why we people used to do was to try to survive to look for what to eat.
+
+So everything that we now has as spirituality , as mythology , philosophy , whatever is basically related to the basic needs of the ground , of the earth , what to eat.
+
+So once said this we can understand later all the other mythological explanations.
+
+So remember that in the first thought when humans discovered agriculture , they were first using the hands. I do n't know how you say the English , but but there is this sewing technique with your hands , like you just put the seats like this , like flying , you know , throwing them to the ground so they can grow. But of course the birds eat the seats.
+
+So they found out the way to carve the ground , make a hole , put the seats , and then cover with the soil.
+
+So in this way they understood it was better so that there 's would n't eat the seats.
+
+So they started to use other tools to carve the ground and so on until they created the plow.
+
+So when they created the plow , they were able to handle much more land. But the populations started to grow much and much.
+
+So they started to begin to need much more food and much more land to harvest , to work with.
+
+So because of this , they started to use some animals to help with strength and the bull , the cow , where the first animals that they tried to train and they started to to the mystical.
+
+So they started to tame the bull and the cow.
+
+So they were able to handle bigger lands and to plow much more. And so they were able to have much more food.
+
+So whoever has a cow in that time was rich person.
+
+So they had much more food , much more resources.
+
+So the cow and the bull became like a symbol of wealth. Because the bull has the strength to handle the plow. The also was a symbol of fertility because it fertilizer the cow so they could have babies and those baby cows were eaten. And they were used by their meat and the bones and for the tools and the leather for clothes.
+
+But all these tools and of course the cow was used to produce meal like milk. They could make cream cheese and butter and all these kind of things.
+
+So whoever has a cow or a bull , they would have a lot of wealth in that time. It would be rich.
+
+So it was a symbol of the kingdom of the people that had much more resources.
+
+So it 's because of this. It 's because of this that the people related the bull and the cow as a gift from the gods because they would give so much for the people.
+
+So it was like kind of a gift. And of course that during the time of the hard work they were helping a lot with strength and it 's power and all the food that they produce for the people.
+
+So that 's why they they consider these animals like sacred , like really good.
+
+Remember that the bull that for that time there was no religion , there was no faith , it was only food.
+
+So whoever has much more food , whoever has much more resources was the better person.
+
+## Guided Meditation
+
+So we were not working on meditation or transcendence , we were just trying to survive.
+
+So whoever has the resources for wherever has the resources to be safe , to eat every day , to sleep quietly every night.
+
+So these people were kind of the followed ones.
+
+So it would take a while until the people start to to put the psychological aspect into the image of these animals. Like when it on that time arrived they put the image of the bull in the skies.
+
+So they could know that in the period of that constellation we had to work because the bull represented the , I just said the strength , the will and so on. Psychologically as for the bull we started to relate the concept of will strength going to one spot to the point and hardworking to get somewhere for the cow in the feminine aspect we related with the abundance , with the food , with the one that gives everything that we need.
+
+So for that time they started to consider psychologically the attributes for the bull related to the will and to go straight to one point because they needed to handle the , the plow so they would open the ground in the earth.
+
+So it has to have a goal and objective and just go there.
+
+Okay , straight there. That was the masculine point of view and in the other side the feminine point of view the cow was related with the mother because the mother was the one giving , giving , all in for me all them sorry the mother was the one giving all the products for a whole civilization. A mom , a human mom can give to their own sons and daughters. But the cow was related with the animal that represented the mother for the whole for the whole civilization or the whole population because the cow was giving the meal , the meal , the milk , the cheese and everything that we needed as a population.
+
+Okay , so they started to relate the cow with the mother of all because of this tradition of the cow being the one giving all the meal to the population of the civilization. They related the universe , the one that gives everything to the humans , to the world , they give the same image. If the cow gives us everything as a civilization so the universe is also a cow given us everything for this reality.
+
+So they put the image of the cow in disguise and they said that everything that is there , the stars are the shining of the milk in the space.
+
+So that 's why in Greek language they call everything that was in disguise the milk which in Greek you may say galactic. Galactic means milk and that 's the galaxy. That 's why we call it galaxy and everything that is galactic that we call from this disguise it means made out of milk and that 's why the path of stars are our galaxy we call it the path of milk that is the Milky Way.
+
+So this is why in disguise they said the bull saying the universe is someone that pushes the pulse that said energy so we can move ahead and also is a cow which is the mother given us everything. Everything that we need is given by this mother universe everything is here for us and we have to figure out how to use it but there is everything related to this wealth that the cow and the bull were given us.
+
+Remember that whoever has more cows whoever has more strength of the bull and more abundance of the cow were much rich so they had much more wealth so that 's why they can have a house they can have a castle okay so they have a lot of things and everyone kind of wanted to be like them because they had so many things they had a lot of wealth.
+
+So this is why the cow became like concept related to having a house with many things inside and the most important things inside for sure were the grains of what of wheat wheat is the most important grain for history.
+
+So this wheat is like gold and then shiny and then they took the gold also in the mineral.
+
+So this is like the shine this is like the golden seeds and the golden mineral. These two represented the wealth of the house but in this sky this wealth was represented by the sun. The sun is the the gold of the sky is the is the the wheat that gives energy.
+
+So because of this the people started to say that the universe was also like kind of this big house because the cow was given so much wealth to the whole universe that they understood that the universe was the biggest house and the sun was that gold that light inside.
+
+So they started to relate the sun as this wealth inside the house of the cow. This is why they started to to draw this image of the light inside of the house to say to speak about the wealth of the universe. In Egyptian tradition house is hut and light is hul.
+
+So hut hul is the name of the cosmos is the name of the house of the light where the sun lives.
+
+So this is why we may have heard the name of the goddess of the of the cosmos which is author. Author is hut hul which is the house of light. For the Egyptian tradition there was not many gods there were attributes of the divine.
+
+Remember that the Egyptians come from the traditions from the plants and funimation. And this tradition is speaking about the attribute of the cow which is the one that gives everything to the creation.
+
+So that 's why they 're related to the universe with the feminine body with a cow face. It 's a cow face because not because the Egyptians believed that there was a goddess with a cow face and they honoured the cow face. No. They honoured the concept of the universe and in their language they had the way to explain that with symbolism.
+
+Imagine like in 5000 years a head someone would read something like you universe the word universe and they would think that we were honoured in the letter you because universe is spelled with you.
+
+So if you is the letter is the head letter of the of universe maybe they would say they were honoured in the letter you. No. In the ancient times they were not honoured the cow or a goddess with the face of a cow. They were trying to summarize the universe in the concept of that being that gives everything which for them was the cow.
+
+So from this story is from where the archetype of Tours begins and comes out. The relation between the Tours constellation and all this story begins by the house. The house of the sky , the house of the cow , the great house where everything is produced for everyone , the food , everything that we need , everything that we expect from the universe is produced in the house of the universe where the cow leaves.
+
+So that 's why the main symbolism of Tours is the house. The house where everything that we need is based in everything is there , everything that we need to survive.
+
+Remember that Tours represents the physical body of the Trinity of Earth.
+
+So this represents that the body has three needs , main needs , to eat , to sleep and to produce. This is the main thing for Tours to produce what we need. Where in the body , inside the house , to be comfortable , sample inside this huge house that we call universe and being in a physical body , we will be trying to eat , to sleep and to produce. The main thing.
+
+So the archetype of Tours represents the hard work but not like Capricorn. Tours is the one that has a goal and works hard for it and finish it to take the benefit. To take that home. Everything that Tours is working for is to have stuff for home , to build that house where it will feel safe , secure and create this space of wealth.
+
+All the things that Tours does as a strength is only to get a reward regarding the three places of all. Food , sleep and reproduce.
+
+Now we go to the emotional level of Tours and we will find here that Tours is looking for filling full , filling quiet tranquility and filling loft. Tours is not only related to the people of Tours , it is related with the physical body. This is the physical body related to Tours. All of us , every one of our bodies are the Tours aspect of ourselves.
+
+So what Tours is telling us is that this body is the temple that feels that perceive the sensations that we need to experience.
+
+So without the body , we are not spiritual.
+
+So the body , the Tours body , is the one that says I need to feel. The way I can perceive and taking information from the environment is by my sensations.
+
+So I need to eat , I need to rest and I need to be to feel the body to how to say this. The feel affection , the affection , crisis are the way in which the body perceives and flourishes itself of information.
+
+So the body needs pleasure to understand that it 's flourishing properly because if the body suffers , it 's not the good energy , but if the body feels pleasure , the body will be ready to allow the spirit to live friendly here and now. That 's the reminder that Tours makes to us.
+
+So the body needs to feel the matter. It needs to feel this reality in order to feel fulfilled. The sensations , sexually eating , sleeping , everything. If being in your center , you allow yourself to enjoy the pleasures of life.
+
+What you are doing is to allow the energy that you have inside of you to expand the spirit because the spirit the soul is energy.
+
+So if you allow the pleasure to be felt in your body , the spirit will be expanded in your body. This is the teaching of Tours.
+
+So love is energy is based on sensations. You can not think about love. You have to feel it , experience it , perceive it with every one of your senses. That 's what Tours is saying.
+
+Love was materialized in our body.
+
+So only through our body we can reach love. That 's what Tours says.
+
+So the key that we have to take from Tours for this new age of Aquarium is that Aquarium is air. It 's up there in the head. It 's all ideas. And the whole era will be about let 's do new things , let 's change everything , and so on.
+
+But usually the archetype of Aquarium is like do n't touch me. I do n't like to be touch so much space in between one another. If you want something with me , I will send you WhatsApp. But do n't call me.
+
+I will just want to help you. Aquarium is so in the mind.
+
+So up there , there is very impossible for them to allow themselves to feel. To feel what they are doing. And Tours is a very important energy that we have to activate it as if we want to be coherent in this new time. Because otherwise we are going to be always in our expectations of what is coming and not enjoying what we have done.
+
+So Tours is telling us , enjoy the touch , allow yourself to taste the food , taste the air , touch the other ones , allow yourself to give care to resist , to receive care to resist.
+
+So you can enjoy what you have accomplished , what you have here and now.
+
+So very much more sensitive.
+
+So remember that the best technology ever created in the history is the human body , the biology which is the territory of Tours.
+
+So if we know how to handle and how to enjoy the physical body , we will be able to understand the best technology that Aquarium could discover in this age.
+
+So if we are in balance and our Tours energy is in balance in our body , so we will only leave through the pleasures of life. We will only believe in what we feel , what we see. We will only be attached to the things that helps us to feel secure , to have a house , to have a work , to have a partner , to have enough money to be rich if it 's possible. And only based in the physical aspects of the reality and nobody do n't bother me.
+
+Basically it 's do n't bother me. This is the perfect life and you know , trying to sleep , being lazy , not willing to do much , growing , nothing , just. And of course that the Tours energy comes like a star , stubborn people. Like , is I see this , I want this , I will get this and I am attached to what I feel and my own point of view.
+
+So stubborn aspect. And of course that in the opposite side of Tours we have Scorpion and Scorpion is the one that comes to the Toro person and says , you know , what anything that you see is real , everything is a lie and when you die because for sure you will die , nothing that you have , you wo n't be able to bring with you anything that you are. You will be alone. And of course that 's the hell and the horrible nightmare for Tours.
+
+## Daily Practice Elements
+
+So let 's go to the information for today. The vibration for today is bug. The statement for today is I am nourishment that tourism. The code for today is in front.
+
+The front part of my body or of an object is from where the object is projected. Biology places the front of a being in relation to its progress , to where it goes in life. The conception of forward references to the visible , the tangible. What is known?
+
+This has two possible interpretations. What I see in front of me is related with my beliefs , patterns , with my beliefs , patterns , this side in the past. Or with the direction towards I am heading to fulfill my objectives , my future. We close our eyes , see the comfortable , we will be focused on our breathing.
+
+I become aware of the environment I find myself in what is my place. The objects around me. Try to think , is the place you find yourself right now. It 's a place you can relate with the house , with a home , or neither of both.
+
+I am trying to think about the objects that are around you , that belongs to you. Those that you can say , this is mine.
+
+Now , think , what is your house? Where is the place where you leave and sleep? And now take a deep breath and think , feel , where is your home? Where your soul of reading habits?
+
+Try to think now about all the objects , all the physical things , that you have , then you have accomplished to get through your lives , and the power in this house , in this home. Take a deep breath and once you have put all of your objects around , try to think about all the things that you have learned as a success in your life. And then you have to think about all the things that you have learned as a success in your life.
+
+Now think about all the foods that you inherit every day. Try to think , what type of food is it one that you eat the most and put all this food and dishes all around you. Think now about how many hours you used to sleep and how many of them you really rest. Are you taking care of the rest of your body?
+
+Or you stress your body? Take a deep breath through. Become aware now about the flesh you 're getting to your body , essentially and sexually. How many times you give this flesh to your body?
+
+Do you do it by need or just by flesh? Do you do it by your will or so weight? Do you do it by your will or so? Do you do it by your will or so?
+
+Take a deep breath. Take a deep breath and think now about all of this projects that you had accomplished in your life from where from those from where you have taken the fruits of. Take a deep breath through the flesh. Take a deep breath through the flesh to all the things that now are around you.
+
+It 's a full space where it 's empty. Where is empty? How this makes you feel? And there are people who are getting in the trail.
+
+Now take a deep breath and think of all these people that have given to you love and you share with and they give you their emotions and energy. Picture them all around you.
+
+Now picture that each one of these people turns into these objects. Situation times everything that is around you becomes stars in a deep space. And all of them shape the constellation of torus the Milky Way , the great galaxy. With my hands I take this information from the stars as nourishment for my own self making all this matter into my own body.
+
+I am the nourishment that tourism. I am the nourishment that tourism. With my hands I take this energy of torus , each and every making it into my body. And I take it deep breath and each one of these some time come back here and now.
+
+Thank you everybody for being here and always. And see you tomorrow to close the emotional week.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

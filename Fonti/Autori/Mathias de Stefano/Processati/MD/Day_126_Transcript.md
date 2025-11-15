@@ -1,0 +1,230 @@
+---
+title: "Day 126 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 126
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 126
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - root chakra
+  - I AM presence
+  - I CAN affirmation
+  - month holds
+  - month hole
+
+practice_elements:
+  chakra: "Root"
+
+---
+
+# Day 126 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Root`
+
+## Introduction
+
+I have a red eye , something got inside. Good morning. Good afternoon. This is the last thing that I needed.
+
+Now I have only one eye. This is incredible this process that makes you work with everything that you have within to put it in the outside.
+
+So this is it. We are healing and healing.
+
+Today there was a sunstorm , a little bit , so maybe something got in my eye.
+
+Today I had one of those days that it would be better if I would sleep the whole day.
+
+So even being in that mood , I had to write about adventure.
+
+So it was kind of a paradox today.
+
+So I really struggled on writing today the blog.
+
+So I just decided to write when I was feeling in that moment.
+
+So even if I was feeling really low , the moment when I got connected with my higher self , it always manages to turn it into another position to take me out of that.
+
+So speaking about adventure , just to say something about my life. My grand grandfather of my grandfather. He was called Buenaventura , which means good adventure. When I was in Dude de Stefano.
+
+And he was not good and he was not living an adventure.
+
+So he was totally the opposite to his name.
+
+So I am a double of him in genealogy.
+
+So I am kind of trying to follow what he could in a complex.
+
+So kind of I am trying to leave his good adventure in this life. Let 's see if I can do it. I guess I 'm doing it.
+
+So by this genealogy , one of my responsibilities with my true life is to manage to live in my whole life. And good adventure.
+
+So to begin with the understanding of what adventure is , we have to understand what for us today is adventure. In our society , today in our cultures we call adventure to live something extreme. Like going to the top of the mountain to jump from an airplane. I do n't know to live a very emotional things that physical emotional things that takes you to the risk to live the risk.
+
+So an adventure is like a known trip to the wild or something like that. But also it 's related with the bunch in the meaning of I there to jump ahead to adventure myself into a situation that I have no idea what is going to happen.
+
+So I had anyway to that situation. That 's kind of the concept that we have of adventure. But adventure comes from the Latin word , the Venice , Urls , the Venice Urls. That kind of means all the things that are common that I know are common , but I have to be exactly how they will be.
+
+So it 's uncertainty of the things that are common ahead. That 's adventure. That 's what adventure means.
+
+So it 's not about the situation you leave is about not knowing about what is going to happen.
+
+So adventure , as I said , is the concept of not knowing why it 's going to happen. It 's not the concept of leaving the things , the wild things.
+
+So when we say add adventure , this add of the word adventure , add means to go to.
+
+So this means to jump into a situation that I have no precise idea of that something is that is uncertain for me. But even though I jump into it.
+
+So that 's kind of the concept of the adventure thing.
+
+So the reason why this today is related with the scrum is because we have spoken today 's ago about the adrenaline , the hormones that are created in the aren and glands on top of the kidneys.
+
+So this gland , this glands generate a hormone , the adrenaline that helps you to face situations that you have no idea how to solve.
+
+So an adventure is basically that is something that you do n't know how to handle that is coming.
+
+So remember that the adrenaline prepares the body to face those kind of situations. This is why we are related with this chara is related to the adventure. And another thing important thing to know about this region , the scrum is that is the one that creates the one that manifests the realities that creates.
+
+So this is connected to the creation because when you are an artist , when you are creating. You never know exactly how it 's going to end. What 's the final product?
+
+So it 's an adventure to create because the result will be always different from what you expected or you 've rejected on it.
+
+So this take us to the very origin of the universe by consciousness , creating all this reality.
+
+So first of all remember how the universe starts. It begins with the divine , the knowledge , the consciousness from the unity , projecting itself into the outside. Protected into a polarity to be able to see itself.
+
+Remember that the unity holds all the realities within.
+
+So this means that from the unity , the consciousness can perceive everything , can see every direction , can see all the realities.
+
+So this is why the universe , the consciousness of the universe has every answer because it can see everything is a unity. And the only answer possible that this being knows in the universe is I am. And this is because whatever this being can see in whole creation , the whole universe is something.
+
+So exist.
+
+So is something. And that something is related with itself , with the self , with the being itself.
+
+So the I.
+
+So that 's why I am is the only possible answer for all the things in the universe.
+
+## Q&A
+
+So the question here would be why someone that has , that has all the answers that has all the , the wisdom , the consciousness , the knowledge of everything that exists in the universe. Why would that being create again in order to leave what he or it already knows.
+
+So the reason why the universe creates again is because when the universe is is eternal , it 's constant.
+
+So if the universe is eternity , so the only thing that it can do is to create a new question. That would be I know all this already.
+
+So what would happen if I change this.
+
+So what the universe is doing by that is to allow itself to leave every , to experience to create every potentially. And by that the universe is just allowing itself to experience them to leave them.
+
+So this is the closest concept that we could get from what people call free will. Because free will is basically that. We are leaving that experience of allowing ourselves to try to change the realities because we are the experiential experiential aspect of the question what if. If anyone does n't like how this universe works.
+
+Maybe someday when you get to the point to the center to the unity again. You will be able to say.
+
+So now it 's my turn. What if. This concept. This question which is what would happen if or what if.
+
+Is what in Latin you may say adventure. The universe from the very beginning it just settles a few universal laws and from those universal laws from those seven laws that this universe decided. It starts a question what if what if and adventure begins. Reality we are constantly living an adventure.
+
+So when is the moment when we lose the ability to live the adventure. Is the moment when we lose the connection with our imagination. We just stop asking ourselves what if.
+
+So an adventure is not something that you leave in your life as an experience. An adventure begins with your own imagination with your ability to ask yourself what if and to design thousands of possibilities from that.
+
+So here we have a big. The universe is not creating the reality through certainty. The universe is creating everything through doubts. And there are two types of doubts that we can face.
+
+The doubt of what would happen if and the doubt of I have no idea where I am. The creation basically begins. But we will of living the dream of all things that I am able to imagine. A person with a big lack of imagination will struggle a lot to connect with entire universe.
+
+A person that does n't make questions and that believes that it has all the answers.
+
+So it 's a person that is not connected to a universe. That 's why it 's so important to make yourself questions and to imagine like a kid , like a child. And this is why if we are willing to leave the adventure of life , of creation , we have to allow ourselves to experience the ability to be amused by things. The ability to not know what is going to happen.
+
+To know the future does n't make you more connected or more wise. What makes you feel more wise and connected is to allow yourself to be amused. During the experience is to be amazed of the possibilities.
+
+So in order to begin to leave the adventure in your life , you must start to allow yourself to use your imagination to solve tiny things in your life. Very simple things. You have to change in order to be connected with this adventure. You have to practice like for example change in the path you take in order to get to the same place where you always go.
+
+To address something that you would never dress to would n't you would never wear. To speak with someone you would never talk to. It 's to create possibilities through imagination.
+
+So remember adventure is one of the most important keys for the creation. And to adventure is to jump into something that I do n't know pretty well.
+
+So to adventure is to gain back the ability of imagination and to maze.
+
+Sometimes it 's good to know that when some people calls us for example myself. Call us that everything that I 'm doing I am just making it up like an invention and that everything is just imagination my mom. I would just remember that everything , everything , every invention of humanity that makes humanity evolve was originated by the ability to invent and to imagine.
+
+So it 's not something bad when someone says or think that we are imagining all this. And just to close about close this topic I would like for you to know that this topic of a thing what is very important on this time from this. Is that is not knowing a lot and all the answers that you will get into the consciousness. It 's not about taking data and absorbing information that you will recognize all the answers of the universe and transcend in their universe.
+
+## Daily Practice Elements
+
+It is precisely the ability to adventure yourself into something unknown that helps you to transcend. And that 's the key of adventure. The vibration for today is you. The statement for today is I am the cosmic that dimension of the cosmic design.
+
+The code for today is the truncated tetrahedron. This figure is obtained from cutting the vertices of the tetrahedron creating four new triangular faces. This means a total of eight faces four triangular and four hexagonal with 12 vertices and 18 edges. The fire spreads this way.
+
+## Practice Structure
+
+It 's roots. Creating the structure of the pattern that will shape the energetic will that will call is or root chara. Generator of the vital energy of the spirit in the Kundalini.
+
+So let 's go to the alignment.
+
+## Energy Work
+
+So we sit comfortable and as we start to relax the body we focus in our breathing. I picture myself as this seed on the ground. Observing the nutrients of the mod to extend my roots deep into the air. On my first leaf up into the air.
+
+And I can hear the sounds of the animals living in the forest and the savanna. I can feel my roots growing deep as the roots of the tree of life. And my body goes straight as a trunk of the tree as I go up towards the branches of some of these. I open my path between the leaves searching for the light.
+
+Using my hands to feel the flower and accompany the flower searching for the sun. I can see now the light of the sun is dark. The rest of the trees are all forest in the savanna and the horizon. I can see.
+
+And I rise up , opening my flower subtly. I can see the entire forest now. The savanna , the ocean , all the animals below the scientific horizon. Rich in the skies I can see the yellow light of the sun.
+
+Feel the light blue of the sky and the soft white of the clouds. Everything is light and I can see everything below me. A safe flower , wider , wider. I reach to get out the atmosphere , reach the space.
+
+So I can see now that all the light that I was searching is now in the surface of the planet. I can see now that all the light that I was searching is now in the surface of the planet. I can see now that all the light that I was searching is now in the surface of the planet. I can see the light of the sun.
+
+I can see the sky and the sky. I can see the sky and the sky. I can see the sky and the sky. I can see the sky and the sky.
+
+I become aware that in every new place an adventure is waiting for me to help me learn something from the world and also something for myself. I am the one , the dinnerings , all this past. I am the one who is going to be with my hands. I take the earth and I bring it to my circle of chocolate within my body.
+
+And I awake the vibration that you nightly with this adventure. I am the one who is going to be with me. I am the one who is going to be with me. I am the one who is going to be with me.
+
+I am the one who is going to be with me. I am the one who is going to be with me. I am the one who is going to be with me. I am the dimension of cosmic design.
+
+I am the dimension of the cosmic design. I am the one who is going to be with me. I am the one who is going to be with me. I am the one who is going to be with me.
+
+I am the one who is going to be with me. I am the one who is going to be with me. I am the one who is going to be with me. I am the one who is going to be with me.
+
+I am the one who is going to be with me. I am the one who is going to be with me. Thank you all of you for being there. I am the one who is going to be with me.
+
+I am the one who is going to be with me. I am the one who is going to be with me.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

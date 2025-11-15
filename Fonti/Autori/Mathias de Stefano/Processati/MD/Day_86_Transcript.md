@@ -1,0 +1,246 @@
+---
+title: "Day 86 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 86
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 86
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - portals
+  - consciousness work
+  - crown chakra
+  - heart chakra
+  - third eye
+  - I AM presence
+  - I CAN affirmation
+
+practice_elements:
+  chakra: "Crown"
+
+---
+
+# Day 86 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Crown`
+
+## Introduction
+
+Hi everyone. The room is full. We have all of them. This is an improvise.
+
+It was very difficult to do it in the garden because you ca n't see anything.
+
+So we are all in the same room.
+
+So remember that today we connect with the scrum chara in the month of Libre in its week , in its fiscal week.
+
+## Practice Structure
+
+So related to the scrum chara , the scrum is the one that generates the energy that creates the energy of our body to generate the creation of ourselves. And in relation with the Libre , the balancing , we are going to work with these two concepts of how we handle our own energy , which is health and disease.
+
+## Q&A
+
+So if you may ask because we are all together here , this is of course a very likely environment for COVID right now. But we all had done the test , the CR , so we are all good. And Egypt is really doing well with COVID because I guess that everyone has it already.
+
+So everything is fine. That 's talking about this is n't it?
+
+So yesterday we 've been talking about feeding. And I want to remind you what we have said before that feeding eating food is not only about the physical things. Even if we are talking about the physical aspect in this week , we have to understand that food is basically energy organized in a different way.
+
+So when we say we are eating energy , we just absorb the energy not only from food , but also from emotions with the links with others and also through thoughts by thinking. The everything that we inherit that we that we absorb from the environment is basically energy , okay , it does n't matter which structure you have it has.
+
+So we also have been talking today 's ago about about given and receiving. And this system that we have spoken is about the economy of the being. And the economy of the being is related with the flowing of this energy that I am absorbing.
+
+So all the things that I eat that are physical for my body that I receive by emotions to my soul or that I receive by thinking by thoughts in my mind.
+
+So all of that is energy and I have to receive it , but also give something away so I can receive new things and not to accumulate. We accumulate because of fear because we are afraid of the lack of energy.
+
+So we create this need of accumulating this energy within our body , but it 's a bad thing because we stuck our energy and it 's not allowing us to move to transform ourselves.
+
+So related to these two concepts of the energy and the way I administrated the energy is how we can now understand the two concepts of health and disease. Let 's go to the term what what it means disease.
+
+So disease comes from Latin and it 's a word. It 's a word divided in this which is different and cease and ease which is to stay calm.
+
+So ease means to stay in the same place. It means to lay down in the same place. To be calm would be the concept of someone that is comfortable in the same position.
+
+So disease would be someone that is taken to a process of which is uncomfortable that would be disease.
+
+So it 's related with the Spanish word in such way because both of them are talking about the concept of staying rigid in one place. As I said in Spanish , the word disease is enfermedad which comes from Latin infirmary that means to stay still.
+
+So it 's not moving at all.
+
+So they are connected but the both concepts are connected from the origin of the words. And basically what it means is that you are not allowing yourself to move forward.
+
+So when the energy is stopped and nothing is moving because you have accumulated so many energy that you do n't know how to how to flow with that energy.
+
+So you just stand still.
+
+Okay , so that 's the concept of not moving and not transforming yourself. The main thing we are going to try to talk about is about the diseases that are not coming from the outside but the diseases that start from the within from within.
+
+So in that concept means that the diseases that we may have they are related with our cells and our cells are like the. The places where where all the energy information is storage.
+
+So the cells are not thinking about now they are thinking usually about past because the cells are the product of the past.
+
+So what what the cells are really doing is to expanding the energy that is storage in them that was recorded through thousands of years or centuries in my in my tree in my family tree.
+
+So it 's when I get a disease is not my own problem is the whole tree problem is something that maybe happened to other generations to my ancestors that I am expressing it right now myself from within.
+
+So all this so all these conflicts that I am inheriting they are now giving a result of a disease so disease is not the conflict itself this is is not the end or the result the consequence. It 's not the the the the reason why you have the problem the reason why you have the problem is what happened in the history and now you have the consequence the result which is the disease so the disease is not exactly the problem.
+
+So the what it is the disease the disease is a is a system a program a tool that helps me to acknowledge that I have energy stopped in my body that my body ca n't handle anymore it 's been locked inside and now it needs to move okay so the disease is something that is calling my attention so I can start to work with it.
+
+So if the disease is the consequence is the effect of a cause we should not do the same thing that we in our society do that is to watch the disease as the problem the disease is just the effect of the cause so in order to to transform the disease to to transcend the disease you have to understand it as an effect and the symptoms. Of that effect are the ones that will tell me how can I understand and find the the cause the origin of that so in our society is today we we usually look what when we see a disease at the very moment we look for a cure and when we look for a cure we are just what we are doing.
+
+So I 'm watching the disease itself the effect and not the cause and cure comes from the lasting work to take care is the same origin of the world to care is to cure is the same origin of the world so this means that you are relying your power to other that can have the power to heal you to take care of you so when the disease ends. The effect ends because someone took care of you suddenly you go out to the straight again and you will have exactly the same problem because there is no one taking care of you and you have no idea from where the problem came from.
+
+So to cure is not the answer to heal a disease to cure is just a short answer for the present for the moment of someone helping me to go through that because I do n't have my tool yet.
+
+So but I have to look for my own tools in order to find to transcend really the disease.
+
+So the other path when we recognize that the cure is just for a tiny moment we find that the other path is healing. In the other way in the other hand healing healing would be in first in Spanish in Spanish the word sonar you have also this word in English which is sanity. Sanity basically comes from the Latin that means to have sense of something.
+
+So to have sense of something it means that you are able to perceive and to handle your five senses.
+
+So basically this means that you are not crazy.
+
+So this is why in English sanity is related with being crazy or being in mental health.
+
+So what really means the process of healing is related with sanity that is to put order on the things is to put order on your mind basically to be coherent.
+
+So to make a process of sanity would be to order your energy to give the place where each energy belongs and also to get rid of the energy that you do n't need to receive a new one and basically to balance yourself.
+
+So this is why the process of healing is much longer process than than than the cure is long but is you is more useful.
+
+So we may think that disease and health are different things that they are completely different things because this is the problem the disease is the problem and to heal is the solution but it 's not like that.
+
+So as I said the process of disease is the beginning of the process of healing.
+
+So the disease is telling you that there is some energy some information that you do n't know where to put that it 's all mixed and you do n't know where it belongs.
+
+So the process of healing is the process of organizing that energy in a way it could be useful.
+
+So this is why the disease is the beginning of the process of healing. And now from the point of view of the external , all the diseases that come or the conflicts that come from the outside , like the virus that we are seeing today , are entering our life and that we are moving our stability. And in the other hand we have the diseases that come from the outside , like the virus for example this year and all the things that come from the outer that affects us within.
+
+So from the point of view of the diseases from the outside that break in our balance life , balance life , we should say this at first that nothing from the outside can get inside if you do n't open a door.
+
+So if there is something from the outside affecting you within is because you are open to that.
+
+So you should not blame anyone from the outside because everything that is around if they get in is because they saw a window or open door. Easy.
+
+Okay.
+
+So in the other hand , what we have to understand is that our society or civilization is thinking that humans are individuals that are walking around the planet and they do n't have anything coming. But when you look from the outside , the planet is just one is one cell.
+
+So we humans are part of this body.
+
+So we are not outside from others problems. Everything that happens to the world is happening to us.
+
+So this is how biology works. We are all the same cell. We are all the same organism.
+
+So we share constantly the same information.
+
+So sometimes when there is a group of people with a conflict or a disease , whatever. And suddenly that disease goes to me and I say , but why? If I am really balanced , I have worked in everything. I am perfect.
+
+And why I got ill. Well , this you may call it symbiosis. And by symbiosis , we can understand that an organism when an organism finds that there is an organ or a part of the self that has a lot of power. And it 's very high , vibrating very high.
+
+And the other parts are very low. It distributes the energy.
+
+So this one that has the tools can help the other ones to rise up.
+
+So if you are so balanced , so maybe you will know how to handle it. That 's easy.
+
+So let 's symbiosis. We are all the same body.
+
+So we all work together. And this is why when you are balanced , you are helping others to clean the things that they can not because we are the same cell. We are the same body. We work all together.
+
+Okay. We should not think like individuals separated from each other. 2020 is one of the most difficult years that we are having because we have been in a disease. But I am not talking about the virus.
+
+I am talking about the planet stopping.
+
+So if the disease is to stop , humanity has been stopped during the quarantine. The quarantine is the process that you may recognize as the process of stopping.
+
+Okay.
+
+So in the disease , the body stops itself. And sadly , is the moment when you have the opportunity to think about why I had this reaction? Why I came so far this to live this? Why I end up being like that?
+
+So is the moment when you have to think about all the things that we have done?
+
+So 2020 is the moment where the Earth stood still. And the Earth is having a disease. It 's sick.
+
+So because a lot of cells , the aware cells , which are humans , are all standing by. Like , do n't know what to do. But the problem that we have this year is not the COVID. The problem has been the last 2,500 years.
+
+And now we are like this.
+
+So we have to start thinking about what we have done 2,000 years ago. To be like this today. Contemplation.
+
+So this you have to apply it to your own life and to the planet.
+
+Okay.
+
+## Daily Practice Elements
+
+So the information for today. The vibration for today is shoe. The statement for today is ion evolution in constant expansion. The code for today is the law of correspondence.
+
+The second is the law of the dream and the dreamer of the created and the creator. Everything in the universe corresponds to something else. For everything is a projection. Begin and end.
+
+Alpha and Omega. Up and down. Inside and outside. Left and right.
+
+Front and behind. Reality and illusion. Sleep and waitfulness. Feminine and masculine.
+
+We said ourselves comfortable. I do n't know. Here is possible. We begin as always stretching the body , messaging the body and warning.
+
+I let my weight fall down. Relax the body. Take a deep breath and focus only in your breathing. Close your eyes.
+
+Take a deep breath. And bring all your attention to your left foot. Start to move softly. Bring your toes to the left foot.
+
+And smooth movements and circle with your ankle. Bring in this movement to your knee and left hip. Bring your attention to your body then in it towards the left. Coming back.
+
+Feeling the pressure in the waist. Let 's hear you come back to the center. Then I bring my attention to the movement of my left hand with its fingers and circles of my wrist. I go to the elbow and then the left shoulder and circles.
+
+I bring my attention to my neck and start to move my head and circles towards the left. And softly I move it towards the right in circles. I begin to descend my attention to the movement of my right shoulder and then the right elbow. Then I bring my attention to my right wrist , hand and right fingers.
+
+## Energy Work
+
+I bend my body towards the right , feeling the pressure in the waist. Come back to the center and I descend to the right hip and knee. Until I move in circles , my right ankle , foot and toes. Take your deep breath , pay attention to each one of the portals in my joints.
+
+Take your deep breath and pay attention to the higher self that I am above you. I 'm helping to descend with your imagination through the crown , the third eye , through heart , plexus and scrum all around the waist in the intestines , belly button , uterus. With both hands and the two fingers in each one of them , I start to make a soft massage around my waist towards the kidneys and all around the belly button. At the height of the intestines , I start to make a massage in circles clockwise.
+
+I perceive that this is opening like a portal through where all the scrum energy and light is coming through. I relax my hands and allow myself to perceive the sensations that I have at the height of my intestines. I start to ear-adjage all the strength of balance through my vibration. I am devolution , in constant expression.
+
+## Guided Meditation
+
+I am devolution , in constant expression. Take a deep breath and I breathe this consciousness throughout all of my joints , the portals going through all my body. I begin to bring this information by stretching , warning and messaging. Throughout all the portals of the joints , and each one at some time , come back here and now open your eyes.
+
+Thank you everybody for being there and remember to drink a lot of water and rest a lot to assimilate the information. Thank you everyone for being there and we feel each other in the network. Bye.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

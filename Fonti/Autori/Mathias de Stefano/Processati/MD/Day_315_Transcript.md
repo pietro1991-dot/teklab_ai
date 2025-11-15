@@ -1,0 +1,304 @@
+---
+title: "Day 315 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 315
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 315
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - heart chakra
+  - third eye
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+
+practice_elements:
+  chakra: "Third Eye"
+
+---
+
+# Day 315 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Third Eye`
+
+## Introduction
+
+Hi everyone , good morning , good afternoon , good evening. How are you? I hope everyone 's fine.
+
+So today I was supposed to be alone here , but my friends from Argentina , they are coming back to the hotel because their flight was cancelled.
+
+So they will leave in today 's.
+
+So that 's how it is.
+
+So this change that just happened brings us to the top of the day , which is adaptation.
+
+So we have to adapt to all the changes.
+
+So this past two weeks we have been doing a path called phase with 72 people.
+
+So that means the snake of light. And along this path we 've been living many , many things , many really deep things that are really difficult to share , to say , to express what they are , what really happens. Because some of the things you have to live them in order to understand them , otherwise me explaining that here is really weird and maybe it 's not going to the point.
+
+So that 's why I will try to take a time to process to understand what it is , what it means. And try to share with you at least the channelings that have happened and that I have to process by myself.
+
+Okay , of course.
+
+So I need to process that first. If you see my face like tired today is normal because I could n't sleep tonight. It was terrible for me because yesterday we had two days ago we had a meeting and we were under the sun and I was given my back to the sun all the time for two hours and I forgot.
+
+So I got an allergy to the sun never happened to me before. And I could n't sleep because something was happening in my back like itch and it was n't. It was impossible to understand it. And then of course , got well but today we have been doing large and all the things so that 's why I did n't sleep much and that 's why my face.
+
+So let 's go to the etymology as always. I hope you can see it well.
+
+So remember this. Adaptability to adapt. To adapt comes from the words add that means two to words to go to. That means to reach to take something and ability that means the inner capacity to do something.
+
+So adaptability would be the inner capacity that someone has to move forward to reach something. And of course we have the opposite of this adaptability which is expectation and expectation would be like the passive aspect action of the self the passive and this one is the active active here passive here.
+
+So expectation comes from X that means out to go out. Spectacle that that is that means to watch to observe or wait for something. And of course , shun expectation that means the action of something. Adaptability the concept for today is the capacity that someone has to reach something beyond to go and look for something ahead.
+
+So basically we as humans are the result of adaptation. Why we have to adapt because adaptation is kind of the main key for evolution. We need to adapt so we will know why.
+
+So from where adaptation is the basics of evolution we have to go to the very beginning to understand this. When we were just simple sales and for sure you have heard this concept that we have to adapt to our environment. And this is the key of everything and to understand why we have to adapt to the environment we have to remember that the environment is in constant change. Everything is changing all the time.
+
+So we need to adapt to the constant change. We change by weather , temperature , the shapes of the mountains and rivers. All the things change and because the environment is changing constantly. One of the things that happened is that the sources of energy that we need they also move.
+
+They also change.
+
+So remember the three main needs that a cell has which is to feel safe , to eat and to reproduce.
+
+So through these three needs we can understand that a cell needs to follow to go towards something that needs to catch. In order to have the main needs and that 's the word adaptation. To adapt to something you have to move forward and to take what you need from that other reality from that other environment in order to survive.
+
+So if that other environment is different you have to change yourself also into that reality.
+
+So by nature we are adaptable. We adapt to everything all the time. But eventually our societies has left adaptation aside and as a cultural beings we started to leave through expectations.
+
+So let 's try to understand why we started to leave through expectations and not through adaptation. In the very beginning we were hurts. We were living in tiny families and these tiny hurts were looking for food and each one of the people that were part of the family they were in charge of reaching for something that helps the group to survive with their basic needs.
+
+So what they started to do was to to organize themselves and to leave in tiny hurts. But eventually they started to grow as a group.
+
+So they I will talk about this a few months ago.
+
+So they started to grow they started to create a big hurts , a culture.
+
+So they always sharing many things all together.
+
+So eventually emerge is something that in Latin they called later families. Later families literally means the Lord of those who are in hunger. Later families which is the family that basically. The family that the father of the family.
+
+So the words father family means the Lord the one that rules on those who are hungry.
+
+So when everyone gives the power to these later families , the society starts to organize in a very different way in which instead of being the individuals trying to solve the problems of everyone , they relied the power in someone that can represent them.
+
+So when they started to be represented by someone , this someone is saying to everybody , I will take care of this , I will be in charge.
+
+So you just have to wait for me to solve the problem.
+
+So when this power starts to rely in only the later families and other people around. Eventually they say to the people to wait for them to solve the problem. And in that case what happened is that the people becomes the ones that expect. The ones that wait for someone to solve the problem.
+
+And therefore , in the place of taking action for the solved problems , the people who are doing this give the power to another.
+
+So you have to save it , you have to save the power , you have to save the power.
+
+So when this system starts to get structure , most of the people lose their ability to solve their own problems. And they start to choose people to solve them for them. And in this relationship , the people starts to stare to watch those people that were chosen.
+
+So they expect for them to solve it. Expectations , the ones that expect.
+
+So when someone loses the inner power to solve its own life , becomes a person that lives through expectations. How can we understand a person that lives through expectations? Is the person that does n't set any energy or does n't do anything? And just wait , expect for someone to solve their problems or for something to happen to solve their problems.
+
+So coming back to the idea of the families , when we were just tiny families and heard around the planet , we had to move forward if we wanted to survive. If we were willing to find food , we had to walk , we had to look for something in the horizon. We have to reach something.
+
+So that 's why if there is a desert , you have to go through the desert to find water.
+
+So that created the nomads and the nomads , they were going through the desert and trying to find it until they found the place with water and food and everything in order to make their own life.
+
+So that 's adaptation because you are adept to the desert , to move through the desert in order to find something that would be adaptation , you are moving forward to find something ahead. But when this families stop looking and they just stand in one of the places , as one of the other persons walked through the desert to find the well of water. When they came back , they said , oh , I found the most beautiful place with water , with trees and so on.
+
+So people starts to do an image through imagination. They create an image of the place like a paradise.
+
+So they say , oh , when we reach there , it would be so amazing and so beautiful and blah , blah , all that and eventually they become expectations. They are expecting for someone to solve their problems.
+
+So when they all follow that person to the will of water , they originally say , oh , it 's just a hole in the ground. This is not that much , it 's not that woes.
+
+So the expectation breaks down.
+
+So it 's like , you lose the expectation. You were putting an expectation in something that was not really as you imagine that because you did n't do anything to solve it.
+
+So you were waiting for something greater. Because you imagine much more than what it is. But for the person that you go that when through the desert to find the well , the well was everything , it was not just a hole.
+
+So expectation is not related at all with reality. A expectation is just someone that sits down and starts to think and imagine about a result , which is not related at all with reality. The expectation set ourselves into a position of servers , watchers and adaptability put us on a place of creatures to do our own things.
+
+So eventually when the people were in them are in them looking for something , looking for the well , here comes religion. Why religion? Because religion means to really get it , really get it. That means to tie the things all together.
+
+That 's what it means to religion. It 's to tie things together.
+
+So they tie all the people together in order to find a spot in order to find something in front. That 's why all the people together in our religion , they go to find something. But they do n't follow their own heart. They follow someone.
+
+So that 's why they have expectations into something. Because it 's not their own rich. It 's an expectation about something in front. They are following someone that says where it is.
+
+There is no adaptability in religion because they are following precisely rules that you have to follow. That 's why there is expectation waiting for the paradise.
+
+So what we are doing here right now , this is a religion. This is basically a religion because I am here explaining philosophy and most of the people put an expectation upon me to do something. How I am going to do it. How is it supposed to be done and all these kind of things?
+
+So of course this could be a religion.
+
+## Q&A
+
+Some people put expectation. Not all of them. But I just wanted to say this because the question would be what would happen if I disappear tomorrow? If I do n't do this anymore?
+
+What all the people would do? Would you follow your own path? What do you need for me and do your thing? Or you want to know what to do if I do n't say exactly what to do?
+
+The other day I heard someone told me that there was a group in Facebook that was defiant debating if I was vegan or vegetarian or I eat some fish or whatever.
+
+So that 's religion because I do n't care. You do n't have to care about myself. It does n't make a difference if I am vegan or vegetarian. I 'm just a person.
+
+I can die tomorrow.
+
+So the important thing is that you can take whatever you need for me , what I 'm explaining here , you take whatever you need for me and then you do something with that and that 's it. That 's the most important thing to do. Otherwise there is expectation. The problem when we start to leave through expectation is that everyone is waiting for the other one to solve every kind of clue because there 's no way to adapt.
+
+You do n't find a way to adapt.
+
+So we have to see it in this way. For example , I said the other day to put a candle for the eclipse to make an alignment to make the connection with the eclipse.
+
+So I 'd say this as a suggestion. It would be nice if you put a candle. And then come some questions from many people. The questions are , how should the candle be?
+
+Think small , tall. What happened if I have to be alone or outside? And I can use the candle. What would happen when we do that , the activation?
+
+What would happen then?
+
+So all this kind of questions come that that makes me understand that we are all leaving through expectations. Because a lot of people are expecting for me to tell this is done like this , like that , and like that. But the reality is that what I say always is a suggestion because we have to learn to adapt. If you go outside , it does n't matter if you have a candle or whatever.
+
+It could be a lighter. It does n't matter. But you have to adapt. To adapt is to improvise because magic happens when you improvise.
+
+No one you have a list of things to do. Everything that I share that I do is kind of align so you do n't get lost , but then you have to improvise. And that you can only do by adaptation. If you follow exactly what I say , that 's expectation.
+
+And then happens that when you are thinking about , oh , this will happen if I do this , and then it does n't happen , you get mad , frustrated , maybe mad at me , and all these kind of things that happen. Because you are waiting for something different to happen , that was only your mind.
+
+So basically , when we speak about adaptation , it 's for you to learn how to flow. We need to open ourselves to listen many other people. Because of course there are many other people that are there with a lot of knowledge of things that I have no idea of. And you have to open yourself to listen everyone , many others , and to learn from different point of view , and to take a lot of information from everywhere until you find your own.
+
+Until you find your own way to do your own things.
+
+So it just happens to me many times that the people that were closer to some people that were closer to me , they were expecting for me to do what they thought that I was meant to do. Like , you have to do this , we have to do that. And I was not meant to do that now , but they were mad at me because I was not doing that. And I was like , why if you want to do that , just do it yourself.
+
+If you know what you have to do , just do it. And some of them even used the idea that my guides told them , even people that I have no idea who they are , that my guides told them , what I am doing wrong , so I have to do it better. And if you can listen and know what you have to do , do it. Do n't expect for me to do something.
+
+Do n't expect. Adaptation. Let 's use the right meaning of adaptation. Move forward.
+
+Take action. Whatever you feel you have to do , you have to do it. Do n't expect for another person to do it for you.
+
+So remember this that every time that we set our expectations upon someone , we will get frustrated for sure because never reality matches exactly with what I have in my head. Never. Reality is always readable. Why not?
+
+So adaptation. We have four types of adaptation in our life.
+
+So four types of adaptation. The first one is to the environment. Because the environment is always changing.
+
+So we have to adapt to the environment.
+
+So the environment , the adaptation to the environment is when the outside is when the outside is forcing me to change to adapt. And then we have the body , an adaptation of the body that is related to my own will to adapt to a new environment.
+
+So the first one here , the adaptation to the environment for example , would be like you live in a country that has the four systems. And so winter comes and and I have to adapt to winter because winter comes and we can enforce it.
+
+So we have to find some codes and to organize ourselves in order to survive. In the other hand , the adaptation of the body is related to myself deciding to go to a place of winter.
+
+So I have to force my own body to adapt to a mountain , to snow or whatever.
+
+So this environment is from the outside modifying the within and the body one is myself from within trying to modify myself to adapt to something new.
+
+So like going to the gym for example , would be the adaptation of the body. And of course then we have emotion. The adaptation to the motion is the ability to be flexible in adapting to relationships to every bound and link that we have with others emotionally. And of course the last one is the adaptation to the mind which is to open yourself to new visions , new possibilities , new ideas that whites your world.
+
+All this here , adaptation , all these concepts here gives us something that we call integrity. Integrity is the ability to integrate all these concepts to put all this together to integrate the different points of your mind to open yourself to different emotions.
+
+So you are integrating many things. We have this all vision of what integrity means that sometimes we say a person has integrity when all the time that person on always every year has the same point of view and never changed and that person is like , has integrity because you can see that always is the same and I 'm so sorry but a person that is always the same is not a person with integrity. A person that that 's all the time in the same is just an old guy that has attached to in the face that says pattern.
+
+Okay?
+
+So that 's not integrity. Integrity is when you are open and you adapt to everything. Basically what we usually say is the opposite of integrity is the word hypocrisy. What is a hypocrisy?
+
+Hepochret. Hepochret means under their and creating means to discern.
+
+So what is a hypocrisy? It 's a person that in the ancient times was called an oracle. The oracle was the person that everyone wants to to see to ask about their dreams about their future , about the things.
+
+So all these people , the hypocrisy , the hypocrisy , where the people that read the lines of the hands that know , that knew how to read the dreams to take the information under the data to discern what is under , to discern the information.
+
+So they would reading all the data and they would say the information that is hidden under something. That 's why it was called hypocrisy. Hipocrite.
+
+So the hypocrisy was the person that was able to put itself in the position of each one of the persons that they were speaking to in their own thoughts , in their own emotions.
+
+So they could read and understand information inside.
+
+So they could teach them and explain to them. Eventually a hypocrisy also was the person that was able to set themselves in the motions and mind and body of others.
+
+So that 's why it is also another way to call the actors and actors in the Greek time.
+
+So the hypocrisy was the person that was acting in the theatre. Eventually with the parts of time , there were some people , liars that were trying to manipulate the people through the mind , through the motion , and through the body.
+
+So they were using these kind of tools in order to manipulate the others , making them believe something that it was not. And that 's why in a negative way we started to call them hypocrisy people. And that 's how it turns into something negative. Do you see how it turns into something wrong?
+
+Now imagine this in our cultures today when we say to adapt to something , we start to think that we have to change our point of view because in order to adapt , you have to change your point of view , your own vision. And in our cultures that 's horrible because we believe that integrity means to hold your own point of view during your whole life , all the time. And if you do the opposite , which is to adapt to different point of view , you will become and hypocrisy.
+
+So that 's why we kind of deny adaptation to other point of view because we think that that 's not integrity , that that 's hypocrisy. This concept is the one that makes us be a little bit afraid of adapting to different point of view because we believe that we will lose integrity if we change our point of view of something.
+
+So what I will ask for you here is to be a little bit more hypocrisy.
+
+So you can position yourself in the point of view of another one. You can discern in your imagination. And you can change your point of view to change our point of view helps us to open our vision to open our point of view , helps us to evolve.
+
+So in a short sentence , we would be do n't be a hypocrisy liar. Be a hypocrisy within integrity.
+
+So if we want to evolve , we have to adapt.
+
+So we have to change our point of view to allow ourselves to wider our world.
+
+## Daily Practice Elements
+
+So we have to adapt. Let 's go to the formation today. The vibration today is L. The statement today is Ion Energy of Personality.
+
+The goal today is amusement and confusion. In the vibration of the third eye chara. The energetic bipolar waves that allow the beings sleeping and awakening generates two known emotions by those who are in the waking dawn of consciousness , amusement by what they are capable of seeing of understanding and contemplating , now that they have their eyes wide open to a part of the truth and at the same time in contrast the confusion emotion before unfamiliar patterns before too many data and lack of preconceptions. Let 's go to the line.
+
+So see if comfortable , close your eyes and concentrate in everything. Let 's take you deep breath and come to the where my entire body. I put my attention to my feet going up through the legs , spine back , arms and hands , neck and head. And slowly I move each one of the joints and circles.
+
+I take a deep breath and I observe in front of me a reflection of my body staring at myself like if it is a mirror. And around both sides and on the back of this reflection I see the registry of all those things which I set my expectations on and those that I was able to adapt. I recognize which things and which people my such my expectations to and in the other hand to reach places and things so as people I had adopted in my life. Connected from the places through these expectations , adaptations I tried to feel which are the biggest ones that I had in my life through the physical emotional in the mind in my body my soul and my spirit.
+
+## Guided Meditation
+
+I breathe and connect myself to all this memory. I become aware of all these adaptations that I have lived through my life and I have swore all of them setting in tension to adapt myself into every new situation in life living with my own ideas , expectations willing to adapt. I take a deep breath allowing myself to incorporate me all the adaptation that I have lived in my life allowing me to know for a long time. Of , I think that question is more commonly used as knowledge And all this adaptation , one city , the personality , the energy of who I am , I am the energy of my personality.
+
+I am the energy of my personality. I am the energy of my personality. I think I think I think. I am the energy of my personality.
+
+I am the energy of my personality. Take your degree. And each morning at some time , starts to come back here and now stretch you and go on with a body. And then you go on with a body.
+
+And then you go on with a body. And then you go on with a body. And then you go on with a body. Thank you everybody for being here another day.
+
+And as always , see you tomorrow and see you tonight.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

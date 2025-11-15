@@ -1,0 +1,396 @@
+---
+title: "Day 215 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 215
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 215
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - energetic alignment
+  - consciousness work
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - month holds
+  - month hole
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 215 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hello everyone , how are you? Good morning , good afternoon , good evening to all of you.
+
+So today explanation of the fifth dimension , so let 's see how we can explain this , which seems easy , but it 's not. I guess.
+
+So before we start something that I wanted to clarify , so you all know and and you can tell other people just in case is that I read everything. I always read all the comments that you post here and everywhere , even if I do n't answer , I read it. I do n't know if you noticed , but sometimes some people disappear from the comments.
+
+So sometimes is because I love them and I want to explain why. Because my social media , my the space that I am using in Facebook and Instagram , is my space is my place that I share there where I put all my things is not a public space , okay , like for example , if it 's the state of Egypt , the state of whatever of Argentina is the state.
+
+So it 's public , we pay taxes , so we deserve to say whatever we want , but in the spaces that belongs to a person that person can decide what to do with their social media.
+
+So this is why I block or erase comments that insults or say wrong things about someone or myself , okay , I do n't block when people disagree with me , I do n't block when someone is saying something against when someone is maybe disagreeing with the concepts or adding something that I did n't see , whatever , but when that those persons goes beyond the respect , treating the others , but saying wrong things , saying bad things to others. I will block them because it 's my right , my space , okay , so I just wanted to say this , if you see someone disappearing from the place from my spaces , okay , so just wanted to say this to clarify that.
+
+## Q&A
+
+So the key for me is respect that we can always disagree with someone ask something or whatever without the need , without the need of this respect someone , okay , so just seeing this for future situations just in case. There were some questions that I wanted to clarify. Just to clarify a question that was not the question was a suggestion that was saying that this month explained the dimensions. The dimensions is being too much mind to abstract and it should be much more lovely and magic like Pieces is.
+
+So I just want to clarify this. That we are in the mental week , we are explaining through the mind , the things of Pieces.
+
+So when we get into the emotional week and the physical week , we can explain the magic and the love and all the things with the background of the month.
+
+So we can have basically the structures of where that mind of Pieces moved through.
+
+So we can understand the emotional concepts , okay , so that 's why we are explaining this now in a very mental way.
+
+So another question or comment that I read that I think is important to clarify. Is about the idea that we have that the beings from other dimensions are controlling us in this dimension are controlling us in our , in our reality. Like if there is a master of the puppets and we are the puppets. And that we do n't have this very will because everyone from other dimensions are basically deciding what we are doing in this third dimensional reality.
+
+But I also this brought the concept of having the idea of a higher self , which encodes the idea of a lower self.
+
+## Practice Structure
+
+So for the universe , this does n't really exist because as I am writing , I call the higher self the am and the lower self the I so I am is a whole thing. This one can not work without the other one , okay , so it 's not higher or lower. These conceptions are from the earth , from the structure of reality , from our point of view , from our human point of view of how we structure reality , okay.
+
+So it 's important to understand that when we describe the dimensions , we are not describing them from the point of view of humanity , we are describing it from the point of view of just geometry , which does n't have the morals that we have , okay.
+
+So , say this is I think it 's necessary to clarify that there is no one outside controlling us , that is us in different levels , okay. But now I will try to explain that in a very human way , so we can all get this idea.
+
+So for example , I will explain something that happens to myself , not anyone else , but me.
+
+So during my life , I have this conflict with myself believing that gun , my higher self was a higher self was someone from the outside.
+
+So that person that being was controlling my life , I felt like a puppet from the master of the puppet.
+
+So this one , this being was controlling my life. And I kind of wanted to be free , so I said I do n't want to have that being telling me what to do and controlling my whole life. What I want to do is to be free to be my own.
+
+So I decided to disconnect from gang many times in my life. And when I did that , my life was terrible , was horrible. Everything was completely a mess , a disaster.
+
+So I was thinking that time that this was because of him , because my higher self was trying to control me and was doing everything wrong in order for me to not have the proper life being free.
+
+So I blamed him because of this. Until with the years , I suddenly recognized , oh no , the thing is that gang is not someone else controlling my life. Gun , my higher self is a part of me in another dimension and I am a part of him in another dimension.
+
+So we are one , we are one together.
+
+So that 's why when I wanted to separate myself from it , everything went wrong because it was disconnected from myself.
+
+So that 's why that 's how I understood that no , I 'm a part of it. It 's not someone different , controlling me. And now let 's go into the opposite way. Me , Matthias , this body is the higher self of my liver.
+
+My liver is an organ inside of me , so it 's a tiny part in another dimension of myself.
+
+So this being here , the entire body is higher self of the liver.
+
+## Q&A
+
+Now ask yourself , how many times did you ask to your liver? What do you want it to eat? How many times did you. .
+
+. How many times did you ask yourself? Did you ask to your liver? What does he want to eat?
+
+Is n't there sometimes that you just eat sugar or you just want coke or pizza? And that 's it. And you just eat it , not asking your liver.
+
+So that 's how you have to see it in a big picture.
+
+So the reason why we think or why we believe that someone outside is controlling our lives is because we are not aware still of how to handle our own. How to handle our own reality.
+
+So because we do n't know how to handle it , we relate our power to someone bigger that has much more awareness about ourselves. That would be. Until we become aware of ourselves.
+
+So let 's go now to the fifth dimension.
+
+So let 's go to understand the fifth dimension in order to see why the fifth dimension is ruling our lives until we know how to do it by ourselves. And conscious being aware. From now , I must tell you that it wo n't be easy to live in the fifth dimension.
+
+So I would just advise you to relax.
+
+So now remember this. This is the fourth dimension. Here we have the third dimension. Here the fourth.
+
+So. Let 's picture like this. Is the past. This here is the past.
+
+This is the present. The process. And this is the future.
+
+So remember that here the cube has its potentially in the fourth dimension and expands itself outside creating another one.
+
+So this is what is showing us the different timelines of something from the third dimension.
+
+So.
+
+So remember. For example , we are in the third dimension here. But as you can see , if you see all the videos since when we begin , I have the her longer beer. I have.
+
+I backs. I 'm dying slowly.
+
+So you can see the difference. And that means that you can see the fourth dimension. Because I 'm changing.
+
+So we all are changing constantly.
+
+So that 's the fourth dimension. The only thing that happens from the third dimension is that we are not being able to handle that to manipulate the fourth dimension. But we can see it and experience.
+
+So in the same time. That. This is happening in the third on the fourth dimension. Another dimension is happening to.
+
+Which is this one.
+
+So this is a mirror. Which means that from the third dimension. Expanding itself through the fourth dimension in the process of time. We have the fifth dimension.
+
+Which is the mirror of all that. Third dimension equals space for dimension equals time.
+
+So here we have perfectly space and time. What is the fifth dimension is a reflection of time and space.
+
+So let 's go into a simple example of this. The simple example of this would be like go and watch yourself in a mirror. But yourself in front of a mirror. And you will see that this body is the third dimension.
+
+That the fourth dimension is the process. The time that you take while watching yourself in the mirror.
+
+So the time is passing by. And an inner process is happening through the vision. And you see the reflection in the mirror. Which is the fifth dimension.
+
+So as an example , what is happening here. That as I look into the mirror , my reflection is looking me back. I 'm watching myself in the mirror. My reflection is watching me.
+
+So with example of the reflection in the mirror , we can make a summary of all this. But let 's complicated a little bit more. Why am I using the cube? Because the cube is that easier way to explain all this to draw this.
+
+Because if I have to explain it with people , I have to draw many different lines and things. It 's easier to do it with a cube. But imagine now that this cube in the third dimension is me , my body. Here.
+
+So me , I am leaving a life through the fourth dimension. I am leaving a process of life.
+
+So as I am leaving a process of life , I have a side , a reflection , which is a parallel life , where it 's me reflecting myself and watching my own process.
+
+So now it 's important to understand that this is not like a straight like that. This is not like I am here in the third dimension , so my reflection in the parallel will be also in the third dimension and this one in the fourth dimension , the time.
+
+So this is a summary of things. They go a touching concepts.
+
+So all this is not happening a reflection of the third reflection of the fourth. It 's happening everything the fifth dimension.
+
+So this is not like this. And I am going to explain now what it means. To explain this , I am being in the third dimension that leaves a life through the fourth dimension in time.
+
+So both of them project in the fifth dimension. And what is the fifth dimension is the connection and the logic of these two together.
+
+Okay , so this means that the fifth dimension is the one that can answer why and what for. The third dimension will ask why. The fourth dimension will ask what for.
+
+So the fifth dimension by this reflection is the one that will be able to answer the question why and answer the question what for.
+
+The reason why the fifth dimension is the answer of why and what for is because. This is not a line exactly with with each one of the dimensions is the summary of everything that happened here.
+
+So what happened in the matter and then happens through time. This all together is reflected and this means that in the fifth dimension you have the whole package of everything that happened in the past and the present in the future.
+
+So the first thing of your whole existence.
+
+So the life you are living in the fifth dimension is the one that is aware of all your existence from the beginning till the end. This is why the fifth is the dimension of consciousness.
+
+So why is the consciousness because it can see everything from the unity , the unity of what the unity between time and space. And this is why the beings that live here are called. Guys and masters. And why is this because a guide.
+
+Is the one that tells you where you go and the masters are the ones that explains you why you go.
+
+So now for example , have you ever listen the question and have someone ever make you the question. If you were able to speak with your with a child you want to wear. What would you say to yourself. Have you heard this question.
+
+Have you done it in some therapy or something. If you heard this question this is a question for the fourth dimension. Because from you being an adult right now. You use the resources of the fourth dimension in order to speak with yourself in the past.
+
+So that would be a question like for example what would you say.
+
+So maybe you 're being an adult. You tell to your kid do n't worry everything is going to be okay. Do n't be afraid whatever.
+
+So why would be different. When we listen the voices of a guide or a master that is in the fifth dimension. Given us a basis of what to do where to go. What if.
+
+The voices that we hear from the fifth dimension from guides and masters. What if they are just trying to help us help themselves in another dimension by guiding themselves. Us. To go properly through the third and the fourth dimension in the same way as we used the third the fourth dimension to speak with our past in order to heal it.
+
+So the beings in the fifth dimension there are beings that exist that are real that are there. Masters with their names with their story everything. But they are beings that accomplish to. For managed to transcend and unify this space and time as one.
+
+So that 's why we can see everything.
+
+So we can talk to them , we can. Say whatever to them. And they will listen to us because they are us. We can see different.
+
+Reality in a different dimension.
+
+So. These are. Aspects and beings. That are able to see everything from the unity.
+
+But really there are ourselves. Watching ourselves.
+
+Remember that we are all one.
+
+So. What we are doing. By being one. Is to experience and transcend different stages from ourselves.
+
+Like for example , you are not the same. When you were seven years then when you are. Thirty years when you are sixty years old. It 's not the same.
+
+You change. We all change. We are not the same person.
+
+So this is exactly. As it happens. With a fifth dimension. When we transcend into another dimension.
+
+Is exactly the same as we with sixty years old. Transcluded the seven years old. This is why we can consider. That they are different beings with different names with different lives.
+
+And even though. They are me. Be aware of this. We can not understand this from a linear process.
+
+The line disappear here. It disappears. In the third dimension. With the fourth dimension.
+
+The timeline is completely different.
+
+So we are now in the fifth dimension. Completely different. There is no line. This is why it 's difficult to understand.
+
+So now. Why so many people are willing to live in the fifth dimension.
+
+So there is n't why so many people want to go to. The fifth dimension is because the fifth dimension is the unity between time and space. Why is unity and why we want to live in the fourth dimension? Because the physics of space and the quantities of time.
+
+They become together as one. And that means that we can live our dreams. We can manifest our dreams. See?
+
+This is why we picture the fifth dimension like this beautiful and amazing place utopia. Where everything is perfect. And why is that? Because in difference from the fourth dimension.
+
+There is clarity and consciousness. This means that in the fifth dimension. We do n't have confusion. We do n't have this complex.
+
+So there are some people that are asking what is a quantum leap.
+
+So what is this?
+
+So what is the quantum leap that all people are talking about to go to the fifth dimension? Can you see this? See? A leap jumping is a concept.
+
+So this little person does n't have to jump. It has to project itself. See? A quantum leap.
+
+It means that one being projected self into another dimension completely. We humans make this quantum leap by dying when we are unaware. We die and we go into another dimension. But if we become fully aware , we can do this leap physically , which is like an alien.
+
+Like the aliens does. Going here. Coming here.
+
+So many aliens that live in three dimensional worlds. They use the fourth dimension and even the fifth dimension in order to move from one word to another.
+
+So this means that they are not using space to move through. They are using time. When a being moves through space in the third dimension , they will need to move through space. And in the third dimension , they will need this projection in order to go here to go to a spot to a place.
+
+But a being that moves through time can make this jump here. What it really is doing is to bend time and space. If one being is in the fifth dimension , what would they do? A being from the fifth dimension does n't need to travel , neither from time , neither through space.
+
+Because it 's always in the same spot. But we are here moving through time and space in the middle in between.
+
+So because we are here in between time and space , we are determined attached to only one vision , which is the vision of the distance , the space. And that 's why we can not see the whole options.
+
+So for example , as from the earth , when we see a star , we can see that the light is coming to us and it will take certain light years of distance. But from the fifth dimension , this star is everywhere.
+
+So as we are watching straight to one object , straight there , and we see one reality in the third dimension , we can measure the third dimension. Other beings from other realities can see a totally different thing.
+
+So that 's why they can get through a mirror or appear from nothing , something like that.
+
+So this is why we can say a being appear like there in a place , why they appear and disappear so easily. Because it 's not that they are just , I do n't know , magical. They just turn a corner of a dimension that we can not perceive.
+
+So the reason of all this mental explanation , basically to try to understand a little bit , to magic.
+
+So we will keep talking about dimensions.
+
+So take a deep breath.
+
+So all the dark things in the universe that holds the stars , the sun , the planets , everything , the dark side of the cosmos is whole by the fifth dimension.
+
+So now take a deep breath. I will try to make it short.
+
+So let 's imagine now that this is like a star or a planet.
+
+Now for example , we have here the moon and the earth.
+
+So we usually say that this is the concept of gravity , which means that whatever object that has much more weight , attract the ones that has lower weight.
+
+So the moon for example is attracted to the earth because the earth is bigger.
+
+So because of this it is pulled to the earth. But the thing is that why they imitate or they float where are they exactly? Gravity comes from Latin and means quality of weight. Is a quality of weight.
+
+If gravity is weight , this can say that the moon is smaller , so that 's why it falls down here. But why the moon is not falling down straight to the planet and it 's going around. Again here I 'm sorry for the people that believe the earth is flat.
+
+So now what has been trying to be explained by theories is that this is much more related with the networks of time and space like this kind of. Net. Imagine that this line here is called space. Imagine that this lines here are called time.
+
+So this theory says everything the universe is whole by two constants. The constants means that is eternal.
+
+So the constants are time and space.
+
+So we can back to our lines of time and space.
+
+So imagine now that this planes starts to curve themselves , contracting each other , so creating matter.
+
+So the first particles are created by the conjunction of time and space of the constant of time and space.
+
+So as much more particles of matter much more weight.
+
+So as much the weight of the matter , the matter starts to curve the lines of time and space.
+
+So the moon is not falling or floating around the earth. It 's falling in a spiral way towards the earth. Falling or going away , depending.
+
+So as you see the object like this is the one that has weight is the matter. Matter is not space. Space is the place through where the matter is moving. It 's not the matter.
+
+Okay. It 's nothing. The matter is the result of the combination of time and space is the result of it.
+
+Okay.
+
+So remember in the fifth dimension , in the fifth dimension there is not up or down. It 's a hole and everything.
+
+So what from our point of view is a weight that goes down from the fifth dimension , it also goes up and goes to one side to another side. Behind and in front.
+
+So from the fifth dimension , this object is expanding and contracting towards every direction as a constant reflection.
+
+So basically is the fifth dimension. The one that is allowing everything to hesitate to the space.
+
+So right now we have spoken about the side scene of how is the fifth dimension.
+
+So when we get much more emotional maybe we will speak about who are the beings that live there. And if you have any question , you can do it. You can do them to yourself of the fifth dimension.
+
+So let 's go to the alignment.
+
+So just before we start with alignment. I remind you it does n't matter if you do n't understand it now. Do n't worry. Even myself if I am the one explaining now , it takes a lot of time to discover this.
+
+And also I will have a lot of time to rediscovery new ways to understand the fifth dimension.
+
+So we are all in process to understand it.
+
+So do n't worry. It 's not necessary to understand it now. Just take the information and then you will know what to do someday somehow. Do n't worry.
+
+Just to help all the people that maybe says why I can understand this or is too much or whatever. I would just say this. Full is the one that believes that knows everything.
+
+Okay , so we are all wondering we 're all trying to understand new things.
+
+So do n't worry. Do n't rush. The another one that abnormal yourself , you go if you 've asked three or three questions. The first one safer Mil маленьas你看ers to say hello.
+
+Tell you what Monday football your opinion regarding the name of the club Seeín return first. Many people know that Monday. We will need to produce in the form of kids or projects. But both mean that is the time to unify all experiences and acquire knowledge to be expressed in a final product that can continue along the path on its own , like any inheritance , like a heritage from us to the world.
+
+## Guided Meditation
+
+Let 's go to the alignment. I sit comfortably , close my eyes and concentrate in the breathing. I sit comfortably , close my eyes and concentrate in the breathing. I sit comfortably , close my eyes and concentrate in the breathing.
+
+I take a deep breath and become aware of my body and the place I find myself now. Take a deep breath and with my imagination , I expand the place I expand the room to what 's the infinite , expanding the roof , the floor , the walls , and every direction is appearing towards the infinite , still in surrounded by the universal void. I recognize the axis of my first dimension connecting the upper down through the spine and down up my positive and negative. I recognize the shape , the human figure , of my second dimension.
+
+I take a deep breath and become aware of the depth of my physical body in the third dimension. Take a deep breath and become aware of all the things you have been , you are and you will be as this individual , as this being here and now through the time of the fourth dimension. I take a deep breath and I see above you low in front behind. In both sides , images of myself with different faces , different colors , coming towards me from all the directions watching me , as I recognize that they are my guides and masters.
+
+I see them as the reflections of myself in the fifth dimension. I recognize that they are guiding me through life. I recognize all of this masters. I recognize that they are guiding me through life.
+
+I allow myself to interact with them to feel how they touch me , how they share with me their visions of clarity and awareness. I see a side feel all of them. I go deep to my heart and I start to connect them all as one to me through my vibration. I see them as the reflection of myself in the third dimension.
+
+I am all of them. I am the unity in this fifth dimension. All the masters live in me. I see them as the reflection of myself in the third dimension.
+
+I see them as the reflection of myself in the third dimension. I see them as the reflection of myself in the third dimension. I see them as the reflection of myself in the third dimension. I am the love unity.
+
+I am the love unity. I am the love unity. I believe all the masters live in me. I see them as the reflection of myself in the third dimension.
+
+I see them as the reflection of myself in the third dimension. I see them as the reflection of myself in the third dimension. I see them as the reflection of myself in the third dimension. I see them as the reflection of myself in the third dimension.
+
+I see them as the reflection of myself in the third dimension.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*

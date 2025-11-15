@@ -1,0 +1,314 @@
+---
+title: "Day 177 - Consciousness Work"
+author: Mathias de Stefano
+series: "360 Days Consciousness Journey"
+day_number: 177
+source: "360 Days Consciousness Journey"
+date_processed: 2025-11-14
+document_type: "transcript"
+language: "en"
+
+keywords:
+  - Mathias de Stefano
+  - 360 days
+  - Day 177
+  - consciousness
+  - spiritual practice
+  - meditation
+  - pyramid
+  - vibrational practice
+  - consciousness work
+  - root chakra
+  - heart chakra
+  - I AM presence
+  - I CAN affirmation
+  - breathing exercises
+  - constellation work
+
+practice_elements:
+  chakra: "Heart"
+
+---
+
+# Day 177 - Consciousness Work
+
+**Author:** Mathias de Stefano  
+**Series:** 360 Days Consciousness Journey  
+**Source:** 360 Days Consciousness Journey  
+
+## Daily Practice Elements
+
+- **Chakra:** `Heart`
+
+## Introduction
+
+Hello everybody. Good morning. Good afternoon. Good evening everyone.
+
+How are you? We meet again One more day to connect with a rude chara in the physical week of Capricorn. We are really close to and Capricorn.
+
+So take it to breath and relax. Just three more days. Three more days of tourist and systems. Let 's go into the topic for today which is our culture related to the rude chara of society.
+
+## Energy Work
+
+Of course that for the day of the rude chara we needed to connect with the roots.
+
+So the agriculture to connect with the roots of the world to create very deep very deep roots in the ground and to come back to the depth of our earth. As always , of course we will begin by the understanding of the origin of what is agriculture.
+
+So the etymology of the world. It 's important to know the origin of the concept of this agriculture because when we say when we speak about the spiritual of our culture we all kind of feel gathering , and get this connection with the planet and so on. But when we speak about the system of our culture we usually politician this or we talk about the companies that are doing modifications in NA of the seeds and so on and it 's a heavy issue to discuss. But let 's try to understand what this system really means.
+
+The word agriculture is composed by the word culture and agar. Culture is what we have seen yesterday.
+
+So you already know the culture is very related to the agriculture but in a spiritual way in the way of creativity.
+
+So the the curve is related to the spirit to the spirit which is the seed and the seed water by the water. In the soul with emotions and from the body it takes the nutrients , the minerals to grow as a plant.
+
+So a culture is how the spirit manifests itself this dimension. This terrain which is the third dimension.
+
+So that 's the culture , the expression of the spirit through our life. But here comes then the again culture. Agriculture has this other agar that means terrain means land soil. That 's what it means.
+
+So agar is the one that in Greek we used to call a gay , yeah , agar is all the lands together , okay , all the lands. And in spirituality the concept of agar was called gay. Gay is the way in which the Greek people used to call the divine aspect of the earth. That 's why we have the word gay to describe the earth.
+
+Egypt also we had the concept of gay , which is the same etymology relates to the divinity of the earth. And this concept of gay is the one that gives the origin of gay.
+
+So gay is the name of the spirit of the earth.
+
+So the earth gay called gay , which is exactly the same name but with the different sounding.
+
+So we or speak a lot about what is gay , okay , we 're connected to gay , the spirit of gay , et cetera. But what is gay? Gay is just the spiritual aspect of gay. And what is gay is the land which is agar.
+
+So agar called tour is related to the concept of the culture of the ground of the soil.
+
+So the word agriculture is composed by land agar and culture which is cycle of moving from one house to another.
+
+Remember that yesterday we 're talking about how culture is related to changing from one house to another house according to the astrology.
+
+So from that point we can understand that this cycles now are related to the ground to the earth , the soil agar.
+
+So agriculture is describing the cycles of land which we could say , for example spring , summer , autumn , winter and of course when is the time of sewing , when is the time of growing and when is the time of harvesting. All the beings that needs to eat are related to agriculture because we are all related to the cycles of the earth. But animals are related to the cycles of the earth being by the cycles of the earth. This means that when the cycles change from one season to another the animals must adapt to that.
+
+But humans got the tools to be able to take that information of the time and rule the time knowing what is going to come.
+
+So that 's why we created culture through the agar culture all because we needed to eat because we are related to the ground to the earth.
+
+So this means that everything that we are our civilizations , languages , our religions , our philosophies , everything that we are that we have today is related to the adaptation of humans to the cycles of the earth.
+
+So this is agar culture.
+
+So this is why what we are doing as humans is trying to survive. Everything that we are that we create is because we need to eat to survive in this planet. This is why the basis of everything that we have created is our culture.
+
+The reason why this concept is related to the root chara is because this is the root of the whole civilization of the whole history of who we are. The root chara is the agriculture because allows the fruit of the culture to grow. And the culture is the one that creates the tools that we have technology , the arts. And this art is the one that creates our economy at home.
+
+And from the economy we create the teaching , the shared abilities that helps us to organize in a political way. And this politics is the one that creates the religion. And this is why the roots of all the system of our civilization is what we eat our relationship with the ground , the earth.
+
+So let 's go first of all to understand the third relationship that we had with agriculture. At the beginning of our humanity which was more how minutes we were not using agriculture to eat. But I recall her with using us and how is this? That the cycles were pushing us to leave according to the seasons.
+
+We were not handling the agriculture. The agriculture was just pushing us according to what was happening outside.
+
+So we were we were living in the forest. We were harvesting the harvest , no we were collecting fruits and vegetables. We were in hunting. We were just tiny groups trying to survive in between the savanna forest.
+
+So because we were so weak we needed to protect ourselves so other animals would n't find ourselves by the smelling.
+
+So that 's why humans used to put mud , mud all over the body to cover all the body with mud.
+
+So any animal could could smell us and we also were like it was like a camouflage and of course the insects would invite us. Because of this covered on the mud the tradition used to all ourselves like the people that comes from the wet land covered on land. And this story is a one that started to make us be called like the people of play made up of faith. This is a tradition that the religions then say we were made at the image of the gods with clay with mud , wet land , soil.
+
+And so , sorry to take all this maybe spiritual beliefs of how the gods from the sky created us with shapes and so on. But really the reason we were made of mud is because we were covered on mad. During the first thousands of years trying to protect ourselves the animals that would kill us.
+
+So that 's why the tradition kept saying that we were the people made of clay and that 's and wet land in mud , in in Latin you may say human.
+
+So human is the humidity okay the land that is wet humidity.
+
+So we are humans , humans means wet land because of this because we were people covered on mad.
+
+So through long periods of time we started to know how to handle the mud not only to cover ourselves to protect ourselves but also to make jars , basins , to make some tools to make some tablets to to to the right with clay.
+
+So so we were not only using the clay to protect ourselves but we were using it storage water to storage seeds and materials doing many things. And that 's why that was the moment when we stopped being used by the agriculture and we started to use agriculture.
+
+So the next step was start to create sedentaryism. How we created houses of mud.
+
+So this this earth was used to create to create houses and then to create farms and to they used it to sew the seeds and to harvest the fruits.
+
+So we started to create sedentaryism through the mud.
+
+So this all this culture started to use the mud , the the the wet land for everything in their daily lives. That 's why we were called the humans , the people of mud.
+
+So something that is important to understand here is that the first thing that we started to to to make grow were tiny little seeds and fruits that we were able to eat. But sometimes these fruits started to have malformations and these malformations were like genetically genetic the formations of the fruits or the grains and suddenly sometime there were many more grains in one fruit or the size was bigger.
+
+So what they started to do was some of the some of the of these fruits and the seeds and they only reproduce those of them. And they started to cross one another.
+
+So they started to create bigger fruits or with other flavors and so on.
+
+So for thousands of years humans were doing genetically deformation and manipulations of the food through thousands of years.
+
+So all the fruits and food that you eat today has been all of them touched by humans for thousands of years. And that 's why you have as big. Like the tomatoes for example they were just tiny like this. And because of this transformation we were using the genetics we 're getting bigger.
+
+And that 's why today we have big tomatoes.
+
+So what the people is doing now with biotechnology for example is something natural for humans for thousands of it 's not something for today. The only thing that happened today is that instead of just crossing plants or doing it for a family they are doing it for a whole company and going straight to the genetics of the seed. That 's only difference. It 's a huge difference but the essence is the same on this for thousands of years.
+
+So as we were looking into the sky to understand when to sew something , where we started to create the idea of the divinity helping us to do so.
+
+## Q&A
+
+So that 's why we started to create these cultures with ceremonies asking for the gods to help us to do this.
+
+So the religions comes and the organization and the economy and so on that we have spoken in all the previous videos.
+
+So imagine what happened in one point. Suddenly we just discovered that agriculture is not really not that we are our culture.
+
+So we suddenly realized that we were able to handle to handle the earth , to handle everything around , to manipulate.
+
+So by this a lot of people started to ask themselves maybe we are not from the earth. Maybe we are from the divine the divinity on the heavens and here and we are here to use the earth as a gift as we please.
+
+So that we should not just judge this thinking from our own point of view today. We have to think how thousands of years ago this was a very important transformation of the consciousness recognized that we are able to manifest to create , to manipulate our environment , to be like God.
+
+So as I said , do n't judge the past. It 's something that happened. It was a change of consciousness that we had in that time and the change was that if the sun the moon the stars are the ones telling me how to so how to harvest , maybe it 's because the gods are telling us what to do with the earth.
+
+So if we are here , living in earth but we are ruled by the heavens so our home is heaven and we are here using this earth as a gift from the gods.
+
+So just think about for a moment in a very ancient way if it does not so logical to think that if all the things that we are so in harvesting is related to the skies , the star , the constellations , the sun , the moon.
+
+So maybe people would say , well if I understand how this works , maybe I am from the heavens.
+
+So I am from there.
+
+So what I have to do is to use the earth as I please because the gods are telling me how to use the earth. There was a common thought.
+
+So of course that is logic for a weird thinking , a weird thinking of a civilization that says if we come from the heavens and we are eternal like the stars , we just come to earth for just a moment so we can use it as whatever we we please okay and that 's it and that 's the main basis of all the religions that we have today. All the religions we have in our present they came from this idea and they still hold this idea. This is what originates the story of Adam and Eve in the eating which is two people , one of them made up of clay and the other one is life that the the giver of life and they were used in the garden as as they please , three eternal that 's it. But this is just a few of the people time.
+
+According to this we are thinking of agriculture that we were able to manipulate this information this ground this land. We could handle the earth.
+
+So all the history of the last thousands of has been humans creating civilizations to control the earth.
+
+So all the people were fighting for land were fighting for a mountain. This is my territory , this is my limit , this is my ground. And they were fighting for this , creating the countries , then the companies , then the rulers of the earth and then all these people started to think that the resources of their countries are for them and they can use it as whatever they want.
+
+So this is what we are now. This is how we are using the resources of the earth because of that thought of the past. All of this has started because of a big group of people in the planet that started to look into heavens trying to go up to go out and just in the earth for just a moment.
+
+So now I want to make this thinking , this idea that this same thing that I just explained is the same thing that we in this spirituality for the new age are exactly doing. Why is this? Because all the people that we usually speak about Gain , we speak about Gain as the spiritual aspect of the earth. And we say , oh Gain and Gain and we work for Gain , but Gain is something that is in another dimension.
+
+And when we do that is because we want to light the planet in the fifth dimension. But because we do n't want to be in the third dimension because we want to light ourselves ascent to the fifth dimension , to leave this place and come back home to the stars with our families from the constellations. And that 's exactly the same thing people in the past did. The other cultures of that time saying , we have to go to the heavens because we are from there.
+
+So someday we have to leave the earth. I think that this reflection , this , this , how to say reflection. I do n't know how to say this thinking that I am doing is good for us to do it. As we are doing exactly the same thing.
+
+In the spiritual level , as people in the people that we criticize normally are doing like when we , when we are saying the governments are killing the earth or we have to protect Gain and all this things. But suddenly when we speak about spirituality , we want to go to the fifth dimension and to leave the third dimension because it 's really heavy. We suffer here and so on.
+
+So in spirituality , we are exactly doing the same thing as all the people that we used to do , that we used to criticize are doing.
+
+## Energy Work
+
+So we have to think very deep about this because we are doing exactly the same thing as we did thousands of years before. And now pay attention to this. In only three days , we will start with Aquarium and in Aquarium , we will go up there to the stars , to the innovation that the aliens brought to us and all the weird things that we are coming to this world. But in order to do that in a good way , we need to remember that we have to be with deep roots here on this planet.
+
+Otherwise , anything that comes from there will be useful for us here.
+
+Okay , so that 's why we are speaking about all these things before.
+
+So that 's the good thing of starting with Capricorn before Aquarium because we need deep roots of the systems to be present here and now.
+
+So our branches can reach the heavens , the divinity. In order to be able to reach the heavens , in order to be able to reach the heavens , we need to remember before being part of the cosmos.
+
+Now as humans , as this being that I am , I am from earth and I am earth itself. I am not a being living on the earth. I am the earth.
+
+So , this means that human is to be earth. And in order for me to reach the divinity , I have to go to the core of myself. First , to connect to the heart of what I am. By gravity , I go deep into the core of the planet to be connected to the heart of who I am.
+
+And the quality of coming back to earth is called humility to be humble because humble humility comes from the Latin word the ability to come back to the ground , to the earth. That is to be human. Before we go to the expansion of other dimensions to other levels of consciousness , we have to recognize that we are earth. And how is that we are earth?
+
+Because every cell of our body is made with things that we eat coming from earth. The plants , the animals , everything that we eat , they are made of all these elements that we have been speaking about. Phosphorus , calcium , nitrogen , iron , all these elements from the ground comes to the plants. And we eat it.
+
+So , we are the result of the earth. We are earth.
+
+So , to understand who we are , first we have to be humble with to reconnect to the origin of who we are , which is the planet. In the middle ages , the concept of humble and poor was mixed. They were put together as one , but they are not the same thing. Why?
+
+This was like this because the poor people were the workers of the fields , the iron cultures. And they were poor because the government wanted for them to be , so they can have control of the products and lands.
+
+So , religion created this idea that if you work with the earth , if you get dirt in the ground , in the mud , you will be humble , you will be related to the earth. And that makes you earn in the heaven.
+
+So , if you work the fields , you get dirt , you get humble , you will earn the heaven. That 's how both things mixed.
+
+So , this is how , for us today , we got this idea that to be humble , is to not have things , is to shut up , is to not show yourself to be helpful , is to be quiet , not do anything , just work , on have material things , try to be poor.
+
+So , this concept of humility to be humble is the one that changed our history. By saying , if you want to be rich , if you want to be successful in your life , you should n't be humble , you have to show yourself , you have to have things.
+
+So , you need to get away from the idea of poverty and to show yourself , have.
+
+So , this is what the companies , the famous people , the politicians they were trying to do , to be successful people. And how people were imitating that , by trying to earn money and to be successful in life , by living the fields , given a way all the fields , the mountains , going to the cities , to work in the factories , to try to compete in companies and all that.
+
+So , it 's related with our history of growing growth.
+
+So , this is what separated us from the earth. And we started to live for being successful. And in religion and spirituality , we call this Enlightenment and ascension. To ascend in a work , to ascend in the image , the same concept.
+
+So , the universe is like one big sphere that is expanding , but all this universe that is expanding has only one core that is related to every dot around.
+
+So , if I want to look for who am I , I have to go to the core to the center and then expand again with consciousness. But if I just expand , I lose myself from coherence.
+
+So , how do I find the closest core? I self , that is the heart. And what is the closest core to the heart is the center of earth.
+
+So , that 's why the only way to go back to the self is by looking into the earth , to be humble , to look into the earth and to realize that whatever I do to the earth , I am doing it to myself.
+
+So , how can I connect myself with the earth again by trying to understand from where the things that I eat come from? What are they made of? What are the , the nutrients that is sharing with me? Information that they have for me , from where they come from , how they come from , how are they cultivated , what they have within , understand the environment that makes us be what we are.
+
+As I said today , in order to connect with the higher information of the stars in Aquarium , I must have very deep roots on earth.
+
+So , that music that you listen outside is the new Viennubians , which is the culture south of Egypt , which are the black people from Egypt. And they they had really beautiful , cold , beautiful music.
+
+So , today is the last day that we stay here in Asian , where they are mostly from here. And that 's why they came to make a party with their music.
+
+So , one thing.
+
+Remember that tomorrow is the full moon. And because of this , we have to be prepared.
+
+So , I invite you to go to my and invite you to go to my social media in Instagram to see a little bit of what explanations that Mercedes Argues have done for us , Spanish and English.
+
+So , so you can see the video to see why it 's going on. Let 's go to the information for today. The vibration for today is though. This today is I am the essence of the Father pattern.
+
+The code for today is sodium. Six most abundant element in the terrestrial cortex is another fundamental one for life.
+
+So , do not is owned mostly in oceans. And all those who have evolved from it , from it , use it for our life. In a body , sodium is necessary to narrated the nervous impulses equilibrium , cellular metabolism and nutrient absorption. Being the biggest of the alkaline elements , it 's useful to improve the operation of the band for the lute , passes , in leaked mediums.
+
+So , it 's important to know about sodium.
+
+So , right now , with all my pride of my apron side , I will go out and say to all of them , please silent , I 'm working. And this is how a apron side ruins a party. They will keep going for sure , but they are a little bit farther. Let 's go to the lineman.
+
+## Guided Meditation
+
+See the comfortable. I see you start to take the breath , bring your attention to all your body , by doing the softness and such to each part of it. I see you breathe , use your imagination to the side around you , the huge land with fields. It can be a mountain , the plains , the shorts of the ocean or a river.
+
+The sign , this beautiful field , where you remember , you felt more. With your hands , start to carry as you walk. The plants were growing in the fields. And you recognize that you walk in the barefoot , feeling the wet earth , getting your feet dirt.
+
+See you walk. As I walk , I breathe , feeling peace and this side seemed of serving the nature around me. I self connected to this ground , to the fields , being one with it. I become of the great truth as I walk in the fields.
+
+This is the only thing that has never changed. This same field with plants are the same thing. There was flourishing my ancestors thousands of years ago and feeding me today. The food that I eat is growing in this field.
+
+All the minerals of the ground become plant , plants are eaten by the animals. And all of them become part of the food that I eat. Become my body. I am this field.
+
+I was , I am and eat. This is the only thing that has never changed. I am what I eat. I am Earth.
+
+And it 's now when I decide to resigning. The Himalayan humiliation , the concept of bending yourself to the ground and your knees. The humiliation is to be defeated. The humiliation is the action of coming back to the earth , observant and being attracted by its love.
+
+I am in the ground in this field. Take a deep breath. As I breathe , I put my hands on the wet land , feeling it in my hands. I recognize the quality of this earth that lives within me and that I call humility.
+
+## Practice Structure
+
+I find myself being humble. With my hands , I take this and I put it all over my face. This way , in which I humiliate my ego to find my body , to be able to be able to be humble so I can recognize that I am human. This ego is made up with the patterns that constructs the structure of who I am.
+
+The father of his , of myself and I recognize that the goal of the father is to sow the feet in the mother. I take with my hands now , some in the next change. Taking all my turns , creating a seed that I was so in the mother , earth , from the inner of the father in me. I am the essence of the father pattern.
+
+I am the essence of the father pattern. I am the soul. I am the other culture of words. Take a deep breath and a drawn time.
+
+Come back here and now. Thank you everybody for being there and as always see you tomorrow at the same time.
+
+## Frequently Asked Questions
+
+<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
+<!-- Formato consigliato:
+
+### Q1: [Domanda principale]?
+[Risposta dettagliata basata sul contenuto del giorno]
+
+### Q2: [Altra domanda]?
+[Risposta]
+-->
+
+---
+
+*Transcript processed for RAG embeddings*
+*Processing date: 2025-11-14 15:19*
