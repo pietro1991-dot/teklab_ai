@@ -1,336 +1,209 @@
 ---
-title: "Day 87 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 87 - Sociality and Sexuality"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 87
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 87
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - mantras
-  - vibrational practice
-  - portals
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
+constellation: "Libra - Physical Week"
+chakra: "Root"
+date: "October 29, 2020"
+topics: ["sex vs sensuality", "gender biology", "erotic cultures", "ancient no segregation", "diversity in feeling"]
+keywords: ["sexuality", "sensuality", "sex", "gender", "erotic", "Eros", "love", "segregation", "diversity", "five senses", "spirit experiencing creation"]
 
 practice_elements:
-  mantra: "NOT ABOUT SEX WITH GENITALS"
-  statement: ", i am fruit of all evolution"
-  chakra: "Crown"
+  chakra: "Root"
+  vibration: "SSfuni"
+  statement: "I Am Fruit of All Evolution"
+  code: "Vibration (Law 3) - Third law: nothing stops, everything moves, vibrates. Everything moving constantly. Energy creates atoms through vibration of strings. Everything comes from movement, nothing still."
+  body_position: "Comfortable"
 
 ---
 
-# Day 87 - Consciousness Work
+# Day 87 - Sociality and Sexuality
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+## Overview
 
-## Daily Practice Elements
+Today connects with root chakra in Libra Physical Week, exploring sexuality and sensuality. Root chakra represents structure of who I am—basis of structure that gives stability.
 
-- **Mantra:** `NOT ABOUT SEX WITH GENITALS`
-- **Statement:** `, i am fruit of all evolution`
-- **Chakra:** `Crown`
+Sexuality is something we don't talk much in society because there's lot of fear around sexuality—fear created by culture, religion, education we've received. But sexuality and sensuality are quite not same thing we believe they are.
 
-## Introduction
+When we understand sexuality, we have to go to true essence of what word means. When we understand sensuality, we have to understand what each concept means. Most people confuse sexuality with sensuality. What we call "sexual" and "sensual" are different things.
 
-No , no , I would say. Hi. Hi , everyone. Good morning.
+What I want to teach today is fundamental structure we have as humans, animals, organisms in general—we have to understand why we're structured like this, to understand better why we feel like we do, why we're diverse as we are.
 
-Good afternoon. Good evening. I hope you 're here and well and.
+## Core Teaching
 
-Now watching.
+### Sex: The Act of Separating
 
-## Energy Work
+Sex comes from Latin word secare—meaning to separate, cut, divide. Related with concept of separation. When you're at root chakra, you're separate from whole. Root chakra is place where you're cut from cord of your mother. That's sex.
 
-Okay , so today we are united here. And to connect with the root chara in the physical body , in the physical aspect of Libre. They 're asking how it was. I think it was fine.
+Sex is process where you separate something in two, three, four, ten parts. Sex is simply act of separation.
 
-For me , for me , it was normal.
+When we understand word sex like that, we understand sex is not only what we call genital expression, but sex is everything that separates me from others. Sex is everything making us different from each other.
 
-So I do n't want to explain too much because , of course , I think it was more experience , experience of , but it was really chaotic at the beginning. And as it was supposed to be. And then in balance.
+Sex is word we use when we want to express that our structure divided, separated from something else.
 
-So it was nice. And the goal was to simulate the information through vibration.
+### Gender: Only Two Biological Options
 
-So we were , we have been. And we were practicing that by singing. And it was , it was really nice. Of course , they are the ones that should speak about , about what happened for me was like , like , every day thing.
+Gender related with word "to generate." Gender goes to genitals. Comes from same origin: genital, generate, gender.
 
-But I think it was. It was amazing. They do n't fear nothing. It was funny.
+Gender is only biological thing you find when you separate (when you sex). There are only two genders: male and female. That's it. Nothing else. And it's only biological.
 
-I expect to feel something. I should.
+When you separate (when you sex), you find two types of biology that have only one purpose—to join again in completely different, new structure. That's why you find two genders.
 
-So then I do n't know if you could read it today , the blog. But the information for today is related to.
+But we confuse concept of gender and sex, that are only biology, with sensuality and sexuality—that are completely different.
 
-Socialist and sexuality.
+### Sensuality: Diversity Through Feeling
 
-So we are close by Scorpio energy.
+Sensuality comes from Latin census—to feel, perceive. Related with concept of senses. When you feel, when you perceive, you start creating sense of things—give meaning to things.
 
-So we start to go into that. Of course , it 's a , it 's a hard topic for our civilization today. But we will speak about it many times along the year. And then we will talk about it.
+Sensuality is about how I am able to perceive world, how I am able to feel things through my five senses. Sensuality is related with all perception.
 
-And then we will talk about it. This was kind of. An explanation and an introduction of it in such a way.
+Sensuality is related with diversity. This means there are not two types of sensuality—there are millions of types of sensuality, ways of perceiving, feeling.
 
-So , but we will go deeper into that. Of course , that for today , we are related to the physical aspect of the root chara.
+Sensuality is subjective. Sensuality is way I feel things. Gender and sex are objective—biology, structure. Sensuality is completely subjective—millions of ways I can perceive, feel.
 
-So the genitals.
+This is why when we confuse sensuality with sexuality or gender, we limit our capacity to feel, to perceive. Diversity of sensuality is what gives me diversity.
 
-So this is why.
+### Sexuality: Tool for Sensuality
 
-So we are going to talk about the specific way , not like before.
+Sexuality is related with how I use my genital structure, my biological gender, to express sensuality—to express how I feel.
 
-Someday that we spoke about it through the soul. Through the aspect of the soul.
+Sexuality is just tool I use to give sensuality form. Sexuality is just one of ways to express sensuality. But sensuality itself has millions of ways to be expressed—not only through genital structure.
 
-So first of all , to understand the. The concepts that we are going to discuss. We have to go to the origin of the word.
+When we confuse sensuality with sexuality, we limit ourselves to believe only way to feel is through sexual expression. But sensuality expresses through all five senses: taste, touch, smell, sight, hearing.
 
-So I know that sometimes maybe I am a little bit. How do you say heavy pushing and then with the technology. Like it 's more of a geology all the time. But the thing is that we usually learn a lot of of words in our society today without a meaning , which has repeat them.
+Sexuality is just tiny part of sensuality—one tool among many tools to perceive and express how I feel.
 
-And we give them another meaning that is not related with the original.
+### Spirit Experiencing Through Senses
 
-So , so we lose exactly what they mean.
+Why we're structured like this? Why we're here?
 
-Okay.
+Spirit is something that doesn't have matter. Spirit has consciousness, awareness, but doesn't have structure. Spirit came to creation, to matter, to experience through structure.
 
-So this is why I always go into into that into that information. The origin of the word sexuality means the attribute of sex. And sex come from the Latin word sectors or sector that means to separate things.
+Spirit came to creation to perceive, to feel. Spirit wants to experience through five senses what it cannot experience in spiritual realms.
 
-So everything that is for example , the word section also comes from that from that word. And it means to separate things when they are somehow different.
+This is why we're here: to feel, to perceive through senses. Your job as spirit in matter is to feel as much as you can—to experience diversity of perception.
 
-So in the in the past. They said , okay , women has this gentle. The other ones that has this gentle.
+When you limit your sensuality to only sexuality, you're limiting whole experience your spirit came here for. You're reducing enormous perception capacity to tiny genital expression.
 
-So they have different sexes.
+### Ancient Erotic Cultures: No Segregation
 
-So they are separated.
+In ancient times, there were cultures we call erotic cultures. Erotic comes from Eros—Greek god representing love, union.
 
-So that 's the sexuality that they were talking about. But also they use the same word to define. To define beliefs.
+Erotic cultures were societies where people understood sexuality and sensuality differently than we do today. They understood all ways to express sensuality were valid—not only genital expression.
 
-So this is why we call sex to sector to the religious. For example , religious different thoughts , the different thoughts of different beliefs that existed.
+In erotic cultures, there was no segregation based on gender, sex, or how you express sensuality. All expressions were part of same thing: spirit experiencing creation through senses.
 
-So this is a way to call it. As we may see now , sexuality is not related at all with what we today think it is. We think that sex is related with the genitals when it 's not. It 's basically related with the idea that there are different groups that they are separated by biology.
+There was no segregation between men and women. There was no segregation between different ways to feel. Everything was integrated—understanding diversity as natural state.
 
-They are separated by emotions and that they are separated by beliefs.
+### Monotheistic Religions Created Segregation
 
-So it does n't matter in which level you are , you will be sexual. And basically so that 's basically what it means. The aspect of sexuality that we have that we have today. And we related with sex is basically what the ancient did.
+When monotheistic religions appeared (Judaism, Christianity, Islam), they brought concept of rigid structure, control, order based on fear.
 
-The ancient , I mean in the past 2000 , 3000 years , a lot of people started to divide the concept of feminine and masculine women and men.
+Monotheistic religions created segregation between genders. They separated men from women, giving power to one over other. They created fear around sexuality, sensuality.
 
-So they said , okay , so men and women has to have kids.
+They limited diversity of sensuality to only one way: heterosexual marriage for reproduction. Everything else became sin, wrong, bad.
 
-So they interpreted that sexuality. Sex was to separate these two genders , but to find the balance also. How do we find the balance in between both of them by having kids?
+This segregation, fear, control—this is not natural. This was created by culture, religion, education over last 2,000-3,000 years.
 
-So the women and men should have kids. That was the thought. And this is why we relate the sexuality with having sex for kids. For to have children.
+Before that, in ancient erotic cultures, there was no such segregation. Diversity was natural. All ways to feel, perceive, express sensuality were valid parts of spirit experiencing creation.
 
-Okay. To reproduce. And why is this? Because there was a moment in history where people used to die when they were 35 , 40 years old.
+## Practice: Root Chakra Activation
 
-So the main religion , the main religions , they said , if we do n't reproduce , we will die.
+**Preparation:**
+- Comfortable position
+- Stretch body, massage, warm
+- Let weight fall, relax, focus breathing
 
-So the gift of God is to have kids.
+**Wave Movement:**
 
-So the only goal of women and men was to reproduce.
+1-18. Complete body activation sequence
 
-So they started to talk only about women and men doing sex because they were two different things that created a new one.
+**Root Work:**
 
-So this is the concept of why we started to call sexuality. The act of reproduction. And this is all because of Christianity and other religions , monotheistic mostly , that they thought that.
+19. Pay attention to higher self above you
+20. Help descend through crown, third eye, throat, heart, plexus, sacral, root (genitals, anus, perineum—all between legs)
+21. With both hands, massage softly genitals (yes, touch them physically—they're yours, this is your body)
+22. If embarrassed: get over it. This is structure you have. Spirit chose this to experience creation.
+23. Massage around perineum, anus (portals of root chakra)
+24. Feel energy at base of spine, between legs—foundation of physical structure
 
-So they could reproduce.
+**Integration:**
 
-Okay.
+25. Relax hands, allow perceive sensations at root
+26. Vibrate: SSfuni
+27. State: "I am fruit of all evolution" (repeat)
+28. Feel all ancestors in your root—all generations that brought you here through sexual reproduction
+29. Honor structure you have as gift for spirit to experience creation through senses
+30. Stretch, warm, massage throughout all portals of joints
+31. Return here now, open eyes
 
-So today , this is why today we still have this concept of sexuality by reproduction or by putting the genitals together. Basically , basically , that 's the concept.
+**Closing:** Drink lots of water, rest to assimilate. Feel diversity in room—all different ways people perceive, feel.
 
-So another word for. To understand the origin is something that we hear today a lot , which is. Which is. Gender.
+## Key Insights
 
-Okay. The word gender. We are talking about diversity of gender. But gender , the origin of this.
+1. Sex (secare) means to separate, divide—root chakra is where you separate from mother's cord
+2. Gender is biological only—two options (male/female) for purpose of generating new structure when joining again
+3. Sensuality (census) means to feel, perceive through five senses—millions of diverse ways
+4. Sexuality is tool for sensuality—one way among many to express how you feel
+5. Confusing sensuality with sexuality limits perception capacity to tiny genital expression
+6. Spirit came to creation to experience through five senses what it cannot in spiritual realms
+7. Your job as spirit in matter: feel as much as you can, experience diversity of perception
+8. Ancient erotic cultures (Eros=love) had no segregation based on gender or sensual expression
+9. All ways to express sensuality were valid—integrated, not segregated
+10. Monotheistic religions created segregation, fear, control around sexuality/sensuality over last 2,000-3,000 years
+11. Before that, diversity was natural state—no sin, wrong, bad labels
+12. Limiting sensuality to heterosexual marriage/reproduction is cultural control, not natural
+13. Root chakra holds all ancestors who brought you here through sexual reproduction
+14. Diversity lives in sensuality (millions of ways to feel), not sexuality (limited genital tool)
+15. Honor your structure as gift for spirit to experience creation
 
-It 's talking about jeans. It 's talking about the generation and the genitals. All these words comes from again , genitals in Latin , that is to originate something. That 's that the meaning is to originate something.
+## Integration
 
-That 's why they call it genitals because genitalia means those organs that generate life.
+**Daily:** Notice how you perceive through all five senses—not just genital sexuality. Taste, touch, smell, sight, hearing. Expand sensuality beyond sexuality.
 
-Okay.
+**Weekly:** Root chakra practice, massage genitals without shame. This is your structure. Spirit chose it to experience creation through matter.
 
-So this is why when we speak about genitals or gender , the origin of the word is talking about male and female. And that 's it. There 's only two unless you are an afforded , but. But there 's only two by nature.
+**Monthly:** Identify one area where you limit sensuality to sexuality. How can you expand perception beyond genital expression?
 
-So this is what gender means.
+**Ongoing:** Remember: ancient erotic cultures had no segregation. Diversity is natural. All ways to feel, perceive, express sensuality are valid parts of spirit experiencing creation.
 
-So when we speak about diversity of gender. It 's not what do you think you are. It 's about what you really are in your biology.
+## Questions and Answers
 
-Okay.
+**Q: If gender is only biological (two options), what about gender identity?**
+A: Gender identity is not gender—it's sensuality. How you feel, perceive yourself is sensuality (subjective, millions of ways). Biology (gender) is objective, two options. Don't confuse structure with perception.
 
-Okay. This is one of the of the things.
+**Q: Does this mean all sexual expressions are valid?**
+A: All consensual expressions of sensuality are valid. Your job is to feel, perceive as much as you can. As long as you respect others' autonomy, all ways to express sensuality (including sexuality) are part of spirit experiencing creation.
 
-So sexuality. It has no relation with gender in its original world. Because sexuality is a way in which you organize the different. And then you have the same gender.
+**Q: Why did monotheistic religions create segregation?**
+A: Control. When you segregate, create fear around natural things (sexuality, sensuality), you control people. Fear makes people obey. Ancient cultures understood diversity as natural—no control needed.
 
-So you divide feminine and masculine and that 's it. That 's how sexuality works. Is the tool to divide not the tool to explain genders.
+**Q: How do I overcome shame around sexuality?**
+A: Understand: shame is cultural programming from last 2,000-3,000 years. Before that, no shame. Your body is tool for spirit to experience creation. Touch it, honor it, know it. Shame serves control, not truth.
 
-Okay.
+**Q: If spirit came to feel, why is there pain?**
+A: Spirit came to experience all perception—pleasure, pain, everything. Full range of sensuality. Pain teaches too. You're here to feel as much as you can, not avoid feeling.
 
-So. This one thing.
+**Q: What about asexual people who don't feel sexual attraction?**
+A: Perfect example! Sexuality (genital expression) is just one tool for sensuality. Asexual people experience sensuality through other senses. Diversity is millions of ways to feel—not all include sexuality.
 
-So in the other hand.
+**Q: How can I practice ancient erotic culture in modern world?**
+A: Internally: remove segregation in your mind. All expressions of sensuality valid. Externally: respect all ways people feel, perceive. Create space without judgment for diversity.
 
-Now we will have the concept that we should talk about in our current society , which is sexuality. Sexuality comes from the Latin word census , which is the ability to feel , to perceive , to have sense. The sensation means that you are receiving the reality through your five senses.
+**Q: If there are only two genders biologically, how do I honor people who identify differently?**
+A: Honor their sensuality—how they feel, perceive themselves. Gender (biology) and sensuality (perception) are different. You can honor both: biological reality and subjective experience.
 
-So it 's all about perception about how you feel it , about how you connect.
+## Closing Reflection
 
-Okay.
+Today's teaching separates confusion: sex (separation), gender (biology—two options), sensuality (perception—millions of options), sexuality (tool for sensuality). What culture taught you to fear, control, segregate is not truth. It's programming from last 2,000-3,000 years.
 
-So this is a much more accurate. A word in order to explain how we live today , our. Sexuality. Sexuality is related with five senses.
+Before monotheistic religions created segregation, ancient erotic cultures (Eros=love, union) understood: all ways to feel, perceive, express sensuality are valid. No sin, no wrong, no bad. Just spirit experiencing creation through senses.
 
-So these five senses are the ones that allows me to feel to perceive.
+Your root chakra holds your biological structure—gift your spirit chose to experience matter. All your ancestors brought you here through sexual reproduction. Honor that. But don't reduce enormous perception capacity to tiny genital expression.
 
-So I want to relate myself with something different that I perceive of myself and that I perceive from the rest.
+Spirit came to creation to feel through five senses: taste, touch, smell, sight, hearing. Sexuality is just one tool among many. When you expand sensuality beyond sexuality, you fulfill why you're here—to perceive as much as you can, experience diversity.
 
-So is here when we can speak about diversity. Because it 's your feeling , your sensations , your perceptions of who you are. And what are the others that makes you be. That makes you be.
+Diversity lives in sensuality, not sexuality. Millions of ways to feel, perceive. Your job: remove segregation in your mind. All expressions valid. Ancient cultures knew this. Modern culture forgot. Now you remember.
 
-What do you believe? If you have a body of a man , but you feel you are a woman.
-
-So in this sexuality , you can say , yes , I am a woman. If you feel otherwise you are a woman , feeling a man. In the sexuality , you say , yes , I am a man. And you can be called men or women because it does n't matter.
-
-Because it is what you think you are , what you perceive of yourself.
-
-So is here in the sensations is here in the sexuality where you can talk about the diversity of everything that you can become , everything that you are. We are fighting to try to accept the diversity with a concept that does n't have diversity by its origin.
-
-So it 's like a lost fight. It does n't have any end. It does n't have a goal.
-
-So there is where you find the diversity. Let 's go to another level because we have spoken about our society and how it is today. But we have to understand that everything that exists all in this matter , the reality that we have was created by the mind of the spirit.
-
-So this spirit has created everything.
-
-So it created everything so it could feel. And we have to understand this that we sometimes believe that the spirit created all of this to find the spirit. And that 's absurd because why someone would create something to find itself if it was already there?
-
-So the spirit is not trying to find itself. The spirit is a creator trying to perceive , to feel what it has created.
-
-So it needs to feel , to experience its own creation.
-
-So the only way the spirit can perceive and leave its own creation is only by sensations. It 's only by the senses.
-
-So this is why sexuality is the way in which you can perceive the spiritual world. It 's the way in which the spirit can experience its own creation. It 's easy. You need to perceive with your senses by sexuality.
-
-And sexuality is basically a tool for the spirit to experience what it has created.
-
-So this is why the spirit is infinite. And this is why in sexuality you have infinite opportunities to be what you are , what you want to be.
-
-So there is the diversity in the sexuality.
-
-So one of the usual mistakes that we do in history was to think that sexuality and sexuality , they are low vibrational things that in order to find the spirit you have to mediate and go up. High vibration.
-
-So go away from all that. But basically that precisely is the thing that took us away from the spiritual pattern. Because the energy of the spirit is created in a Kundalini , which is the root chara.
-
-So the only way you can connect with the divine within is with your matter.
-
-So the only way you can perceive , feel , acknowledge this spirit is by living and feeling here and now. That 's the only way. The rest will come just if you acknowledge what you are now. Before we had monotheistic religions and the segregation , which is the word for sexuality , to separate everybody.
-
-In the ancient cultures , there was not segregation by sex. It was the word erotic. The ancient civilizations were erotic. And from where comes this name , it comes from the God of love , Eros.
-
-Eros is the God of love for Greece.
-
-So erotic is everything that is related with Eros , the God of love. And this concept is the one that the ancient civilizations used to work.
-
-So men with men , woman with women , woman with men , does n't matter because it was just experiencing the different types of love.
-
-So basically the difference and the joint of sex and sense would be sex is the ability is the tool for the sense because sense is too many things.
-
-So sex relate like separate the senses.
-
-So you can understand what you are feeling in each time.
-
-So sexuality as we interpreted today in our current days is another tool for sensations.
-
-So it 's another tool for sexuality. It 's just that. It 's something that helps to feel. But before you need to experiment with sexuality , which would be the ability to perceive with your five senses , everything that you are that you have.
-
-And also to share it with others.
-
-So we have a lot of things to talk about this , of course. But the most important thing to acknowledge about this is that the only way you will allow the spirit to perceive its own creation is by allowing yourself to perceive your reality through the five senses.
-
-So these five senses , you are going to be able to perceive , to connect to allow the spirit to feel this reality , which would be the correct sexuality. That 's the thing that we must acknowledge.
-
-So just I want to say another thing about feeling , about sensations. I 'm saying that in order to feel the spirit , you need to practice with your sensations with your five senses. And you need to practice with your sexuality. But this does n't mean that tomorrow you have to run and make an org.
-
-Because it 's not that. Because it 's not an org. We 'll help you to connect with this spirit.
-
-So when I 'm talking about sexuality , it 's about learn how to feel , how to sense.
-
-So it 's about how to demonstrate your own energy , how to use and handle your own energy.
-
-So we start in this kind of path. And suddenly we understand that the trapped energy are in the sexual energy.
-
-Some groups of spirituality start to or communities start to say , so maybe we have to have sex with everyone.
-
-So we can transform the energy and so on.
-
-So this created conflict because from the people from the outside , they say , oh , they are just together because they want to have sex. And from the point of view of the group , they would say , they would say , we are doing this because this is the only way in which we can block all this energy from the Kundalini and so on. And both of them are somehow wrong.
-
-So let 's talk a little bit about this.
-
-So to understand this , why this is mistaken , we have to remember that sexuality and sexuality to understand what it is. It 's about learning how to handle your own energy by five senses.
-
-## Daily Practice Elements
-
-So it 's more related with the mantra. Mantra is not about sex with genitals. It 's about how to use the energy of your body to organize the energy of your body through five senses.
-
-Okay.
-
-So it 's something that you have to work with yourself.
-
-So in maybe in the next steps someday , you have to practice sexuality , the genital sexuality. But this is not a need in the process.
-
-Okay. The most important thing is to know how to handle your own energy.
-
-So when you are with other people , you do n't lose energy. Basically , you recreate energy.
-
-Okay. But do n't think that you will practice the connection with the spirit by having sex. No. If someone tells you , no , let 's go.
-
-We have sex and we connect with the spirit. No , that 's not the way that you are losing time. Yeah.
-
-So that 's it.
-
-Okay. That 's it. The vibration for the day is show. The statement is , I am fruit of all evolution.
-
-The code for today is the law of vibration. The third law of the universe is the one that unites us all. All things for static as they may look are vibrating. For everything moves in succinctly , incessant , never said that word.
-
-In different frequencies , generating the sound of the universe , all the acknowledges itself is in the same resonance. For the cosmos is itself like a radio station , like a radio station , where every reality is heard in attending according to its vibration.
-
-So we begin by sitting comfortable , stretching the body , warning , messaging. I let all my way down , fall down , just relaxing and focusing only. And you 're breathing. Aside breath , very deep.
-
-I bring my attention to my left foot. Very softly , I begin to move my toes , the foot and smooth circles with your ankle. I begin to bring my attention to the movement of my left knee and left hip. I take my attention to my waist , bending my body towards the left , feeling the pressure and the waist and coming back to the center.
-
-I bring my attention going up to my left hand , moving my fingers and smooth circles in the wrist. And I go up by the elbow and shoulder. I pay attention to my neck and I start to move slowly my head and circles towards the left. And very softly , I stop and begin to turn the head and circles towards the right.
-
-I bring the movement to the right shoulder , the elbow. I begin to move in soft circles , my wrist , my right hand and its fingers. I bend my body towards the right , feeling the pressure and the waist and come back to the center. And I bring my attention to the movement of my right hip and knee.
-
-## Energy Work
-
-Until I move very softly in circles , my ankle , the right foot and its toes. Relax the body. I pay attention to the eye and above my head and with a deep breath , I invite it to get inside my body. I feel it coming down through the crown , through the eye , through the heart , plexus , scrum and anchor in the root chara.
-
-Expanding its light in my genitals. Using the two fingers of each hand , we pay attention to the physical aspect of our genitals , messaging all around , making pressure over it , acknowledging each part of the physical genitals and root chara. I start to move this messaging pressure towards my legs.
-
-## Guided Meditation
-
-So I open the portal for the energy to come to the ground. I relax my hands , allowing myself to perceive this energy moving through the matter. I take a deep breath and begin to rebound , activating my essence and consciousness in my genitals. I take a deep breath and begin to breathe.
-
-I take a deep breath and begin to breathe. I take a deep breath and begin to breathe. I take a deep breath. I am the fruit of evolution.
-
-I am the fruit of evolution. I take a deep breath and begin to breathe. I am the fruit of evolution. Thank you all for watching.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+You are fruit of all evolution when you honor structure you have (gender, sex), expand perception beyond limits (sensuality), use tools without shame (sexuality), and recognize: you're spirit experiencing creation through senses. That's why you're here. That's the teaching.

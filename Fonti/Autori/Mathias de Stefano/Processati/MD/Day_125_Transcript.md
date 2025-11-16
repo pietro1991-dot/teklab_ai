@@ -1,282 +1,324 @@
 ---
-title: "Day 125 - Energy Alignment"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 125 - The Compass and the Solar Plexus Chakra"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 125
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: "2025-11-16"
 document_type: "transcript"
 language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 125
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - portals
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
-
+keywords: ["Sagittarius", "Solar Plexus", "Compass", "Inner Compass", "Magnetism", "North Pole", "Core", "Heart", "Alignment", "Suffering", "2020 Shift"]
 practice_elements:
-  chakra: "Crown"
-
+  vibration: "Yee"
+  statement: "I am the dimension of the masters"
+  chakra: "Solar Plexus"
+  code: "Dodecahedron - Represents Water and Life"
 ---
 
-# Day 125 - Energy Alignment
+# Day 125 - The Compass and the Solar Plexus Chakra
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** Day 125 Transcript - Sagittarius Month, Solar Plexus Chakra, Mind Week
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
-
-## Introduction
-
-Hi everyone. Good morning , good afternoon , good evening to all of you.
-
-So let 's begin today with the solar plexus in the mind week related to the mouth of Sagittarius. The topic for today is the compass , the inner compass.
-
-So let 's begin to speak about this topic for the alignment.
-
-So for sure , all of you have heard or have said the sentence of the sentence which is losing the North. And we usually say that in a conceptual way , but actually sometimes it happens physically. It really happens. Let 's picture this why the compass.
-
-The compass was an instrument used for a long time that this was put in a box in a tiny box with water or liquid and they put this needle that was magnetized.
-
-So it could point by an extra magnetic field. It could point to the magnetic node pole.
-
-So they could find the north and trace the maps so they could find all the places where they were heading to.
-
-So this was something that put all the places , all the steps that you have to do together.
-
-So it 's like the point where you connected all the path , all the steps that you have to give. And that 's why in Latin , all everyone together you say , cum and step , you say , passes.
-
-So cum passes compass is the way in which in English you call this tool.
-
-So for cartography , for geography , for aviation and for the ships , for sailing , this is the tool that shows you where is the north.
-
-So it helps you to find where you have to go to. Of course , today we have different tools , electrical tools to guide us through the planet , but they are also called compass.
-
-So even if we have tools in the outside , we all in the inside in our bodies has this connection with the north pole. It 's something normal for us is natural. Because the core of the planet is made up with iron , melted iron.
-
-So that creates a lot of magnetism , electromagnetic. And we have iron in our bodies mostly in our blood.
-
-So all this iron is connected to the iron of the core.
-
-So this core iron of the planet creates this magnetic field that expels its energy up and down , creates the positive energy and the negative energy like a huge magnet that we call the north on the south. The core of the planet usually moves very slow but it 's moving.
-
-So this means that these magnetic fields are also moving with movement of the center.
-
-So this liquid iron core of the planet is moving around in between the magma around the planet.
-
-So this movement is pushing the magnetic north pole also from its position to different places constantly. This movement of the core of the planet sometimes is still. It does n't move much.
-
-So that 's why the north pole stays around in the same area for a long time. But some other times it moves so fast that it can change its position very fast and even can create a switch of poles.
-
-So for sure we have heard this theories that the north pole maybe can switch and move into the south pole but a lot of people has this idea that the whole planet would do that , like physically and no it 's not like this. If that would happen if the planet would do like this physically so not even a cartridge would survive.
-
-So nothing , no one , complete destruction.
-
-So that 's not the way as it happens. What happens is that the nucleus of the planet the core starts to move a little bit more faster so the north magnetic , magnetic pole moves to the south changing the clarity of the planet.
-
-So we can know this analyzing the movement of the iron in the mountains. In the status of the mountains you can see that the iron , the positive part of the iron is organized into the north constantly.
-
-So depending on where it is heading you can see where the north pole has moved through history.
-
-So this would happen because the melt iron core of the planet has such a power of magnetism that all the iron in the planet would be pushed by the magnetism of this iron.
-
-So that 's why all the iron around is moving to the north pole.
-
-So what this means that if we have iron within our blood , our body , naturally we also are aligned constantly with the magnetic north pole.
-
-So many animals has still this connection with the north pole because they developed themselves through the iron within.
-
-So in the rains they have this compass that shows them where is the north.
-
-So that 's how they find the places where they have to go.
-
-So migration is because of the magnetism.
-
-So I do n't know if you have , so humans , we started to follow the animals. We started to follow the seasons. And we started to use other tools like , we started to use tools like doing maps , culture , talking , drawing. We started to create many other tools to guide ourselves in the world.
-
-And we lost this ability to connect with the magnetism of the planet. Like for example , when you do this , how do you say English , right? Reduce , tasty? I do n't know how to call an English.
-
-But when you 're with your own body , you measure the magnetism with your own hands , trying to figure the energy of a person or also to find water underground to see where the north is sometimes we use our own body. And lots of people in the past , they use it to connect with the planet. But we started to lose it. Tossing?
-
-That 's why you call it , get doing.
-
-So we started to lose that connection.
-
-So we started to use other things , other tools like PS.
-
-So suddenly the magnetism stopped being something that helps us to guide ourselves in life. And suddenly the magnetism is something that makes us feel lost in life.
-
-So there is a wide happens , this is because as any animal in the planet , we also have like a kind of compass in our brain that balance the brain and helps us to find the north.
-
-So through history , we stopped being connected with the planet and we stopped to be intelligent beings.
-
-So that 's why instead of being connected by the magnetism in the geography , we start to be connected with the magnetism through psychology.
-
-So this makes us feel that when we lose our north , it 's when we feel kind of like crazy. We are lost , we do n't know what to think.
-
-So this is something that psychologically connects us all as humans. Because even if we think different our axis , our north is the same.
-
-So magnetically we all are heading to the same north and connected to the same particle. Paradigm. Paradigm? Paradigm?
-
-You say? Paradigm? Paradigm? I do n't know how to say it.
-
-## Q&A
-
-So here we have to understand also why the north is so important? Because I 've heard for example many times we have heard that the questions of why the north should be most important. If we are countries in the south , for example , we should be ruling ourselves by the south , not by the north.
-
-So the south should be our north. But it 's not like that. Because when you organize it magnetically , the energy is flowing north and then goes south , north and south.
-
-So all our biologically , our biological body with the iron is heading constantly to the north.
-
-So it 's not about politics , it 's not about culture. This is about finding the north.
-
-So here comes the important thing. Why does the north exist? It does n't exist because the north is important in the south is less important. North and south exist because of the magnetism of the core of the planet.
-
-So the important thing is the center of the planet , the core of the planet.
-
-So south and north are just a way of this charging energy. To picture how this magnetic field works , we have the earth here and then we have these torus around the earth like an apple. If you have the world inside an apple , so this magnetic field with a ship of the torus like an apple , it 's protecting with magnetism , the earth of all the the bad rays and energy that comes from the outer space.
-
-So when all this magnetic , all these energies come to the earth and hit this magnetic field , it breaks , it breaks there and it goes into the center of the planet like an electrical discharge like this. And that is what you in the sky see like the northern lights and the southern lights. The planet has a core , we also have the core of the planet which is the heart. And this is the iron core of our own planet which is the heart.
-
-And from there it also has a magnetic field , a torus. And this magnetic field is protecting us from the magnetic influences from the other people and other places.
-
-So it also creates this discharge protecting myself. But if I have my heart , very weak and it 's not , it 's feel and safe and bad.
-
-Okay.
-
-So the magnetic field will be weak.
-
-So everything that happens around will affect me.
-
-So why this heart is weak and being affected? Because the core is trying to look for the north , is trying to reach the balance , the axis.
-
-So the compass that we have is our own axis , our own self.
-
-So what is the thing to understand here that from our cultures and our way of thinking , we believe that the north is where we are heading to. But the north is like a place or a goal that we have to accomplish.
-
-So this is not like this.
-
-So the north is not the place where I should go. The north is the place that helps me to order myself. This means that in order to find my north , I do n't have to go to the north or the south. I have to go to the core.
-
-And the core of a human is the heart.
-
-So why we are talking about this , if this is the plexus day , because the heart and the plexus work as one in the core of the body. They are like one , like a polarity that works as one together. While the heart is contracting and expanding the energy , the plexus is the one creating the magnetic field around all the links that connects you with external with others with a world. It 's the torus.
-
-So these two are the ones that constitute the AM.
-
-So these two together are the ones that will calibrated and align the beam , because both together are what we call the compass. How can I find my north?
-
-So to find my north , I have to understand. What is moving my heart? Where is my heart willing to get heading to? Where should I go?
-
-Where am I heading to? What is my heart feeling that it needs to go? And my plexus is the one saying , who am I connected to? What are my attachments?
-
-I can not move , because I am attached to things.
-
-So I have to know which things I am attached to.
-
-So what I have to do to find my north is to heal the bounds , the links that I have with the people that I am attached to , and to stop moving outside with my heart to reach something and to be centered in myself. Those two things are the ones that calibrated the compass.
-
-So the questions of how can I do it? I can not help , because each person is unique , each person is different.
-
-So some people will need to speak with the people , they are attached to some people we will have to make ceremony , some people will need to go to therapy I do n't know , each one is different , you have to find your own way. I 've all explained the system , but how you use the system is your thing. And this is important. Each person has to find its own way , and maybe to find your own way you have to go through thousands of ways , but you will find yours.
-
-The reason why it 's so difficult , this moment , this task of saying , now you find your own way , this is the most difficult , and this is the reason why there exists religions , because it 's easier to say , okay , in order to get enlightened , you need to follow this first step , second step , third step , and then you get it.
-
-So now it 's not how it works , you have to find your own way , and that 's a hardest part , I know , but it 's the only way.
-
-So , I do n't know if you know this , but the magnetic north pole in the last five years have been moving faster than it did in the last centuries.
-
-So the magnetic north pole has been moving around Canada in the north , north and territories , and LunaVood for the last centuries , many centuries. In the year 2000 , the north magnetic pole left for the first time land in the islands of LunaVood and started to touch the Arctic Ocean. And in the last five years , the magnetic north pole has been moving through the Canadian Arctic and it went away from the Arctic , from the Canadian Arctic , from the boundaries. And last year , in 1919 , it moved so fast that it went out from the country 's region , and it is in the center of the Arctic Ocean , close to the , to the north , the physical north pole.
-
-During the 2019 , all the aeronautics had to change its PS 's , because all the machines were heading to the wrong way , okay?
-
-So they had to to correct all the PS 's. And in this 2020 and 2021 during the next year , the north magnetic pole will be aligned with the physical north pole.
-
-So this did n't happen since the registry of this. What this means that the physical and the magnetic pole are aligned right now. But something else and really important happened at the beginning of this year that the magnetic north pole has moved through the line of the narydium , the zero narydium , from west to east.
-
-So for the first time in registry , we are leaving now that it moved from the west hemisphere of the planet towards the east , so from the right to the left. This means that it changes not only the polarity , but also the particle , particle , however you say.
-
-## Energy Work
-
-So this means that all the humans in 2020 has changed the polarity , the north pole from one side to another , from one hemisphere to the other. And this is why this year , all the humans are crazy because we have gone through something really crazy. The message is the crown of the planet is being activated. And there was something important to do that during this change of paradigm , during this change of polarity , we had to stay still , not to move.
-
-So we could all align with the planet. And that 's why this year we had to leave this quarantine. We have to put the crown and this December to December 21st , but this crown will be set in the planet. The crown is Jupiter and Earth is Saturn , both together that day.
-
-And what this means that these two planets will be in the first degree of Aquarium.
-
-So this means that it 's the ending of what time and the beginning of the new one. Of something different. And that 's why that day must be coronated. And this does mean that it 's going to be okay next year because we have a necklace December 14 that we 'll we 'll talk about the next six months of shadows that we have to face of all the things that we could n't do this year.
-
-So this is wo n't end.
-
-So at 2021 the 2021 that is coming is terrible but anyway it will be a great year because it 'd be giving us something.
-
-So the important thing to know about this information for today is that the planet is aligned in itself this year and the next one.
-
-So this means that we have to align two ourselves. And of course there is a lot of suffering in the world but I would like to remind you this that suffering comes from the Latin word superferrum that means under the iron.
-
-So we have spoken today about being under the pressure of the North Pole and the iron of the court.
-
-So whoever suffers is whoever is not aligned with the court with the planet. Myself for example I was suffering this whole month because I was not aligned. This is how it works.
-
-## Daily Practice Elements
-
-So let 's go to the alignment then. The vibration for today is year. The statement for today is I am the dimension of the masters. The code for today is the dodecahedron.
-
-According to that Latin ambition it represents the element of water life. Its form is the one that delivers the essence of this fear and show the main web that unites all existent life. Its edges are the values between the mountains of the igosehedrin. It has 12 pentagonal faces , 30 edges and 20 vertices.
-
-## Energy Work
-
-Being exactly the opposite process to the igosehedrin , implementing the path of the spirit , soul and body. But instead of searching this less ill portals , searches to the sand that information to the denies cells of life.
-
-So let 's go then. I stretch a little bit. Young and remember that we are under the ground. We are seeds absorbing all the nutrients of the mud.
-
-Simple climate balance. I feel the roots extended in the ground and my leaves going up listening to the animals of the forest. I rise on the side of the tree of life. I feel my roots grow deeper and deeper in between the roots of the tree of life.
-
-I start to grow up going in between the branches and the leaves searching for the light to flower. I get to the top of the tree being able to see the forest from above and feeling the light. I allow myself to follow how I flower with my hands in the horizon I can see the sun. I feel with animals and the both the light of the sun and take a deep breath and I go higher and higher.
-
-I go up I can see all the animals the forest. I am tired of the bottom and the horizon the coast of the sea and I flower between the birds in this time. I run in the colors wide light blue from the sky in the clouds and some touches of yellow the light of the sun and take a deep breath and leave the skies crossing the atmosphere reaching the space. I can see now the north and south and its magnetic the forest.
-
-With the northern and the south and the lights shining with this dream of gold and I recognize that I am part of that great field of magnetism. I recognize that power comes from the center from the board. I use my hands to bring the whole planet with its magnetic field towards my solar places. Aligning the core of the earth with the core of my being.
-
-I perceive , can feel how this magnetic field is expressed by the north in my head and the south in my head. I am the countless of my being. I am my north and myself within me. I find the consciousness and coherence.
-
-My south is the mastery. My north is my learning and both of them live within me in the core for I am my master. I am the dimension of my spirit. I am the dimension of my master.
-
-I am my own axis , my north and myself. I am all the conferences of my being.
-
-Now I see it. I see. I see. Take it to bed and slowly.
-
-I begin to carry your body spreading all this consciousness all around yourself and by stretching and warning. Each one at epsilon time come back here and now open your eyes. Thank you everybody for being there. Thank you for being here.
-
-Rest and see you tomorrow at the same time. Bye. Thank you.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Solar Plexus (Manipura)
+- **Week Theme:** Mind Week - Sagittarius Month
+- **Main Topic:** The Inner Compass
+- **Vibration:** Yee
+- **Statement:** I am the dimension of the masters
+- **Code:** Dodecahedron - Representing water/life element, delivering the essence of the sphere showing the main web uniting all existent life
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Today we explore the concept of the inner compass - how we find our true north not by looking outward but by going inward to our core. We learn about Earth's magnetic field, how humans have lost connection with planetary magnetism, and the profound shifts happening now in 2020-2021 as the magnetic north pole aligns with the physical pole.
+
+## Losing the North
+
+We've all heard or said the phrase **"losing the North"** - usually in a conceptual way. But it actually happens **physically**. It really happens.
+
+## The Physical Compass
+
+### How the Compass Works
+
+The compass was an instrument used for long periods. It consisted of:
+- A tiny box with water or liquid
+- A magnetized needle inside
+- The needle points to the magnetic north pole by Earth's magnetic field
+
+The compass helped find north and trace maps, connecting all the places you're heading to. 
+
+In Latin:
+- **"Cum"** = all together, everyone together
+- **"Passus"** = step
+
+**"Cum-passus"** = Compass - the tool that puts all the places and steps together, connecting all the path.
+
+For cartography, geography, aviation, and sailing, the compass shows where north is, helping you find where you have to go.
+
+### Our Internal Compass
+
+Even with modern electrical tools (also called compasses), we all have this **connection with the north pole inside our bodies**. It's natural for us.
+
+The core of the planet is made of **melted iron**, creating massive electromagnetic fields. We have **iron in our bodies**, mostly in our blood. All this iron is connected to the iron in Earth's core.
+
+## Earth's Magnetic Field
+
+### How It Works
+
+The iron core of the planet creates a magnetic field that expels energy up and down, creating:
+- **Positive energy** (north)
+- **Negative energy** (south)
+
+Like a huge magnet with north and south poles.
+
+The core usually moves very slowly, but it IS moving. This means the magnetic fields also move with the core's movement. This liquid iron core moves around in the magma, and this movement pushes the magnetic north pole from its position to different places constantly.
+
+### Movement of the Magnetic Poles
+
+Sometimes the core movement is still - the north pole stays in roughly the same area for a long time. But sometimes it moves fast, changing position rapidly, even creating a **switch of poles**.
+
+Some theories say the north pole might switch and move to the south pole. People think the whole planet would flip physically - but **NO, that's not how it happens**. If the planet flipped physically, not even a cartridge would survive - complete destruction.
+
+What actually happens: the nucleus (core) moves faster, so the **magnetic north pole moves to the south**, changing the polarity of the planet.
+
+### Evidence in Mountains
+
+We can know this by analyzing iron movement in mountains. In mountain strata, you can see that the positive part of iron is organized toward the north constantly. Depending on where it's heading, you can see where the north pole has moved through history.
+
+The melted iron core has such powerful magnetism that all iron in the planet is pushed by this magnetism. All iron around the planet moves toward the north pole.
+
+## Human Connection to Magnetism
+
+### How Animals Navigate
+
+Since we have iron within our blood, our bodies naturally align constantly with the magnetic north pole.
+
+Many animals still have this connection with the north pole because they developed through the iron within. In their brains, they have this **compass showing where north is**. That's how they find places - **migration is because of magnetism**.
+
+### How Humans Lost the Connection
+
+Humans started following animals and seasons. We began using other tools:
+- Creating maps
+- Developing culture
+- Talking and sharing
+- Drawing and recording
+
+We created many tools to guide ourselves and **lost the ability to connect with planetary magnetism**.
+
+Some people in the past used their own body to:
+- Measure magnetism with hands (dowsing)
+- Find water underground  
+- Determine where north is
+
+But we started losing this connection. We use GPS instead. Suddenly, magnetism stopped being something that helps us guide ourselves in life. Instead, **magnetism became something that makes us feel lost**.
+
+## From Geography to Psychology
+
+### The Compass in the Brain
+
+As with any animal on the planet, we have a kind of **compass in our brain** that balances the brain and helps us find north.
+
+Through history, we stopped being connected with the planet and stopped using this intelligence. Instead of being connected through magnetism in **geography**, we started being connected through magnetism in **psychology**.
+
+When we **lose our north psychologically**, we feel crazy, lost, we don't know what to think. This connects us all as humans - even if we think differently, **our axis and north are the same**. Magnetically, we all head to the same north and connect to the same paradigm.
+
+## Why Is North Important?
+
+Some people ask: Why should the north be most important? If we're countries in the south, shouldn't the south be our north?
+
+**It's not about politics or culture** - it's about biology and magnetism.
+
+When organized magnetically, energy flows **north then south**, north and south. Our biological body with its iron heads constantly toward the north. This isn't political - it's about **finding the north**.
+
+### The Core is What Matters
+
+North and south exist because of the magnetism of the planet's core. **The important thing is the center of the planet, the core.** South and north are just a way of discharging energy.
+
+## The Torus Field
+
+To picture the magnetic field: Imagine Earth inside an apple shape. The **torus** magnetic field (apple-shaped) protects Earth from bad rays and energy from outer space.
+
+When energies from space hit this magnetic field:
+1. They break at the field boundary
+2. Energy goes into the planet's center like electrical discharge
+3. This creates the **northern lights and southern lights** in the sky
+
+## The Human Core: Heart and Solar Plexus
+
+### Our Internal Magnetic Field
+
+The planet has a core (iron center). **We also have a core** - the **heart**. This is the iron core of our own planet (body).
+
+From our heart core, we also have a magnetic field - a **torus**. This magnetic field protects us from magnetic influences from other people and places. It also creates discharge, protecting ourselves.
+
+**If my heart is weak** - not feeling safe, feeling bad - the magnetic field is weak. Everything around affects me.
+
+### Why the Heart is Weak
+
+The core (heart) tries to look for north, tries to reach balance and axis. When it can't find its north, it weakens.
+
+**The compass we have is our own axis, our own self.**
+
+## Finding Your North
+
+### The Misconception
+
+From our cultures and thinking, we believe **north is where we're heading to** - a place or goal to accomplish.
+
+**This is not correct.**
+
+North is not the place where I should go. **North is the place that helps me order myself.**
+
+To find my north, I don't have to go north or south. **I have to go to the core.** The core of a human is the **heart**.
+
+### Why the Solar Plexus?
+
+We're discussing this on Solar Plexus day because the heart and solar plexus **work as one** in the body's core. They're like a polarity working together:
+
+- The **heart** contracts and expands energy
+- The **solar plexus** creates the magnetic field around all links connecting you with the external world, others, the world - it's the torus
+
+These two together constitute the **"I Am."** Together, they **calibrate and align the being** - they ARE the compass.
+
+## How to Find My North
+
+To find my north, I must understand:
+
+1. **Where is my heart willing to go?** - What is my heart heading to? Where should I go? What is my heart feeling that it needs?
+
+2. **Who am I connected to?** - What are my attachments? I cannot move because I'm attached to things. I must know which things I'm attached to.
+
+### The Two Actions
+
+To find my north and calibrate the compass:
+
+1. **Heal the bonds** - the links I have with people I'm attached to
+2. **Stop moving outside with my heart** - stop trying to reach something external; **be centered in myself**
+
+These two things calibrate the compass.
+
+### How to Do It
+
+Each person is unique and different. Some people will need to:
+- Speak with the people they're attached to
+- Make ceremony
+- Go to therapy
+- Find their own way
+
+**I cannot help with this** - each person must find their own way. I've explained the system, but **how you use the system is your thing**.
+
+This is the most difficult part - saying "now you find your own way." This is why religions exist - it's easier to follow steps: first, second, third, then enlightenment. But **that's not how it works**. You have to find your own way. That's the hardest part, but it's the only way.
+
+## The 2020-2021 Magnetic Shift
+
+### Recent Movement of Magnetic North
+
+The magnetic north pole has been moving **faster in the last five years** than in the last centuries.
+
+**Historical position**: The magnetic north pole has been around Canada's north territories and Nunavut for many centuries.
+
+**Year 2000**: The magnetic north pole left land in the Nunavut islands for the first time and started touching the Arctic Ocean.
+
+**Last five years**: The magnetic north pole moved through the Canadian Arctic faster than ever.
+
+**2019**: It moved so fast it went out from Canada's regional boundaries. It's now in the center of the Arctic Ocean, close to the physical north pole. All aeronautics had to change their GPS systems because machines were heading the wrong way.
+
+**2020-2021**: The magnetic north pole will **align with the physical north pole**. This hasn't happened since records began.
+
+### The Hemisphere Shift
+
+At the beginning of 2020, something even more important happened: The magnetic north pole moved through the **zero meridian line** from **west to east**.
+
+For the first time in recorded history, the pole moved from the **west hemisphere to the east hemisphere** - from right to left.
+
+This changed not only polarity but also the **particle**, the wave pattern.
+
+**All humans in 2020 changed the polarity** - the north pole moved from one hemisphere to the other. **This is why everyone is crazy this year** - we've gone through something unprecedented.
+
+### The Crown of the Planet
+
+**The message**: The **crown of the planet is being activated**.
+
+During this change of paradigm, this change of polarity, we had to **stay still, not move**, so we could all align with the planet. **That's why we had quarantine this year**.
+
+**December 21st**: The crown will be set on the planet - **Jupiter and Saturn conjunction** (the Bethlehem Star). Both planets will be in the **first degree of Aquarius**.
+
+This means:
+- **Ending of old time**
+- **Beginning of the new era**
+
+That day must be coronated (crowned).
+
+### 2021 and Beyond
+
+**This doesn't mean 2021 will be easy.** December 14, 2020 begins **six more months of shadows** - things we couldn't do this year that we must face.
+
+**2021 will be terrible but will give us something** - it will be a great year because it provides opportunity.
+
+### The Importance
+
+The planet is aligning itself this year and next. **We must align ourselves too.**
+
+There's suffering in the world, but remember: **Suffering** comes from Latin **"super-ferrum"** = **under the iron**.
+
+We've spoken about being under pressure of the north pole and iron of the core. **Whoever suffers is whoever is not aligned with the core, with the planet.**
+
+For example, the teacher suffered the whole month because he was not aligned. This is how it works.
+
+## The Dodecahedron Geometry
+
+According to Atlantean tradition, the **dodecahedron** represents the element of **water/life**. Its form delivers the essence of the sphere and shows the main web uniting all existent life.
+
+- **12 pentagonal faces**
+- **30 edges** = the values between mountains of the icosahedron, paths of spirit-soul-body
+- **20 vertices** = exactly opposite process to icosahedron
+
+Instead of searching the 12 portals, the dodecahedron searches to **send information to the 20 cells of life**.
+
+## Guided Meditation: Aligning with Planetary Magnetism
+
+The meditation connects our core with Earth's core:
+
+1. Begin as seed under ground absorbing nutrients
+2. Extend roots deep, leaves upward through forest
+3. Rise through Tree of Life toward light
+4. Flower above trees, seeing forest and savanna
+5. Ascend higher, seeing all animals, forest, horizon, ocean
+6. Reach skies with clouds, surrounded by colors
+7. Leave atmosphere, reaching space
+8. See north and south magnetic fields with northern/southern lights
+9. Recognize you're part of that great magnetic field
+10. Understand power comes from the center, from the core
+
+**Bring the whole planet with its magnetic field to your solar plexus** - aligning Earth's core with the core of your being.
+
+## Daily Practice
+
+**Vibration:** Yee
+
+**Statement:** I am the dimension of the masters
+
+**Code:** The Dodecahedron - representing water/life, the web uniting all existence
+
+**Meditation Focus:**
+- Recognize your north is within, not outside
+- Feel the magnetic field from your head (north) to feet (south)
+- Understand you ARE the compass of your being
+- Align your north and south within your core
+- Find consciousness and coherence in your center
+- Your south is mastery, your north is learning - both live within
+
+**Integration:**
+Work on two aspects to calibrate your inner compass:
+1. Heal bonds and attachments to others
+2. Stop seeking externally; center in your own core
+
+Remember: **South = mastery you possess, North = learning ahead. Both live within you in the core. You are your own axis, your north and south, your master.**
+
+---
+
+**Reflection:** The compass is not a tool to find external directions - it's a symbol of internal alignment. Our true north is not a place to reach but a state of being centered in our core. As the planet aligns its magnetic and physical poles, we too are called to align our internal polarity. The suffering of 2020 reflects collective misalignment as humanity shifts from one paradigm to another. Those who suffer most are those furthest from their core. The solution is not to seek north externally but to dive deep into the heart-solar plexus core, heal our attachments, and center ourselves. When we align with our own axis, we align with the planetary axis, and we find our true mastery and direction emerge naturally from within.

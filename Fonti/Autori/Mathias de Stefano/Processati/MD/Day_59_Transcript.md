@@ -1,320 +1,243 @@
 ---
-title: "Day 59 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
-day_number: 59
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 59
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - I CAN affirmation
-
-practice_elements:
-  vibration: "LIKE"
-  chakra: "Crown"
-
+title: "Day 59: Decision and Election - Choosing from Essence"
+teacher: "Matias de Stefano"
+series: "365 Days: The Path of I Am"
+day: 59
+cycle: "Virgo - The Body"
+focus: "Ankles/Feet Chakra"
+theme: "Elections from I Am, Not from Need"
+date: "2023-08-29"
+tags: [decision, election, choice, essence, ego, I-Am, higher-self, need, autonomy, biology]
 ---
 
-# Day 59 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+# Day 59: Decision and Election - Choosing from Essence
 
 ## Daily Practice Elements
 
-- **Vibration:** `LIKE`
-- **Chakra:** `Crown`
+**Morning Intention:** "I elect from my essence, not from my needs."
 
-## Introduction
+**Key Affirmation:** "I am the greed of experiences."
 
-Okay , hi everyone. Well I forgot many of the things that I was supposed to do as always.
+**Soul Pattern Vibration:** SCOOL
 
-So good night , good evening , good morning to all of you. I hope you 're okay.
+**Physical Focus:** Ankles, feet, foundation of movement
 
-So we are in the last two days of Virgo constellation and today we are related to the physical aspect of this week connected to the chara of ankles and feet.
+**Meditation Practice:** I Am integration - unifying ego and essence through higher self
 
-So the concept of today in the feet is the capacity to make decisions.
+## Overview
 
-Today in the blog I wrote about the decision so if you are able to read the blog then do it but I will try to make a summary of the main concepts.
+Today we distinguish between two fundamentally different ways of choosing: **decision** and **election**. The Latin root of "decision" means "to cut" or "divide" - it eliminates options. "Election," however, means "to choose" or "recreate" - it affirms what you want to create, not just what you want to avoid.
 
-So remember that yesterday we have been speaking according to the knees of the concept being unconscious with the knowledge and the concept of being conscious by wisdom. And those two aspects related to what we have lived and what we have conceived from what we have gone through our lives.
+This teaching explores the difference between choosing from **need** (the ego's external hunger, the "I") and choosing from **essence** (your being's internal truth, the "I Am"). The feet and ankles - our contact with ground, our foundation for each step - represent where these choices literally land in physical reality.
 
-So after we have spoken and we realize about if we are in our lives in the process of acknowledging or in the process of being wise of all the things that happen to us , the next step would be feet and feet will be the concept that guides us into our elections , into our elections in life.
+The radical proposition: **I and I Am are not separate**. The ego isn't the enemy; it's one kidney in the organism of self. The higher self - vibrating as "Gun" - integrates both into unified choice from essence rather than desperate reaction to need.
 
-So remember that yesterday we have been talking about that knees are related to our history and how our history and the surroundings of everything that we have around are affecting us from the outside to change.
+## Core Teaching
 
-So the information from the knees according to the history is the perception that everything that was outside is pushing us towards the change by an outer and external force.
+### Decision vs. Election: Etymology Reveals Purpose
 
-So for the feet will be exactly the opposite.
+**Decision** comes from Latin *decidere*: "to cut off, divide, separate."
+- When you decide, you eliminate options
+- You cut away possibilities
+- The focus is on what you DON'T want
+- It's reactive: avoiding pain, escaping limitation
 
-So the feet , one , I am recurring the information of our own decisions , what we choose in our lives and what we are willing to do from the inner self towards the outside. Knees will be the information from the outside , changing the inside and the feet will be the transformation from the inside pushing towards outside.
+**Election** comes from Latin *eligere*: "to choose, select, pick out."
+- When you elect, you affirm what you're creating
+- You select your desired reality
+- The focus is on what you DO want
+- It's creative: moving toward essence, expressing potential
 
-So now we all have the picture of this system.
+Both have value, but election creates while decision merely eliminates. Make decisions about what to avoid; make elections about what to become.
 
-So one of the things that we have to acknowledge in the moment when we go from the inside towards the outside is that it 's the moment in which we have to take our own decisions.
+### Need (Ego/I) vs. Essence (Being/I Am)
 
-So to take a decision means to decide in two different things.
+**Need** originates from external lack:
+- "I need love" (because I feel its absence)
+- "I need security" (because I fear danger)
+- "I need validation" (because I doubt myself)
+- The "I" that needs is the ego encountering the world
 
-So I have to live behind one of them and use the other one to go ahead to move that 's a decision.
+**Essence** originates from internal truth:
+- "I Am love" (regardless of external circumstances)
+- "I Am secure in being" (regardless of external threats)
+- "I Am valid" (regardless of external opinions)
+- The "I Am" that is needs nothing because it already contains everything
 
-So for example , when we talk about decision is to take two things and I have to divide them to leave one behind and to take the other one to move forward. Like for example in a path that opens in two.
+Choosing from need creates dependency - you remain enslaved to whatever fills the lack. Choosing from essence creates authenticity - you express what you already are.
 
-So I have to make a decision towards which one I want to head myself.
+### I vs. I Am: Unity, Not Opposition
 
-So to make a decision would be to think about what we really want for our life. We want to change what we have been doing and we want to go into a different direction that would be to make a decision.
+The common spiritual error treats ego (I) as enemy and essence (I Am) as goal. But this creates internal war. The truth: **I and I Am are one organism with different functions**, like two kidneys.
 
-So in order to understand what is a decision , we have to go to the motivate work which is from Latin and Indian languages that they come from the word that means to divide , to make an incision to cut.
+The **ego (I)** interfaces with external reality:
+- Navigates physical world
+- Manages relationships
+- Handles practical needs
+- Accumulates experiences
 
-So to make a decision for us is like to have one thing that is a long thing and the decision would be to cut this long thing in two parts so I can decide just one of them. Get rid of the other one. The problem that we usually have with taking a decision is that in our perception and the leave of what it is to take a decision is like I decide to go with this.
+The **essence (I Am)** maintains internal reality:
+- Holds your core being
+- Knows your truth
+- Provides direction
+- Generates meaning
 
-So I denied the rest. It 's like denying everything. One of the things that we have to understand that is the big problem here is that there is no division in the universe. Nothing you can cut it and just forget it.
+Both are necessary. A person without ego can't function in the world. A person without essence has no authentic self to express. The goal isn't killing the ego; it's integrating ego and essence under the direction of the higher self.
 
-You can not just deny the other part because whatever you have around you , whatever is happening to you , it 's going to stay with you.
+### The Higher Self: Gun Vibration
 
-So you can not just erase everything and start from the very beginning or just to catch with everything and begin from zero. That 's not how it works. The rest wo n't fear. And the reason why I kind of just erased the other thing and just begin from the beginning from zero is because the reason why I was leaving that , because I was leaving that , now I have it in my eyes.
+The **higher self** - vibrating as "Gun" - is the organizing intelligence that unifies I and I Am. It's not "higher" in the sense of "better than" the ego; it's higher in the sense of "overseeing, integrating, directing."
 
-So it 's a part of me.
+Like a conductor with an orchestra:
+- The ego plays its instrument (external interface)
+- The essence plays its instrument (internal truth)
+- The higher self conducts both into harmony
 
-Now it 's part of myself.
+When the higher self directs, your elections come from essence while your ego implements them in reality. This is choosing from I Am (essence) through I (ego) - unified action.
 
-So I can not erase some of this part of myself.
+### From Ideology to Biology
 
-So the advice of the I am was not to decide things but to elect things. To elect is like to choose. But let 's use the word elect because it 's more aggravated for this. To elect things comes from the word ex-legary that comes from the all languages that means to recreate things.
+**Ideology** says: "I should choose X because my beliefs/culture/values say so."
 
-To collect all the things that I can possibly have around and from that make an election of what is best for me. From the point of view of languages to elect or to decide , maybe they are like similar because like synonym. But what we have to recognize is that the essence of the word are different. The concept of decision is to have something that is complete and I caught it in half.
+**Biology** says: "I choose X because my being recognizes itself in this."
 
-So I could just stay with one part of this. The nine and the other one. To make action would be to know that all of this is together.
+The shift from ideology to biology is the shift from external programming to internal authority. Your body knows what nourishes it; your being knows what expresses it. This isn't rejecting wisdom from others - it's testing that wisdom against your own organism's truth.
 
-So what I do is to decide that a part inside of this is more useful for me.
+When you elect from biology (essence), even difficult choices feel aligned. When you decide from ideology (external shoulds), even "correct" choices feel forced.
 
-So the important thing is not just the word but the meaning of this. And the meaning of this is that we can not say things that they will be together always forever. One of the things that we have to be aware in our elections is from where are we electing. And that 's the feet , the steps that we are going to make.
+### The Controlled vs. Autonomous Paradox
 
-To understand from where I make an election , I have to think if I am doing it , if I am electing this from my needs or from my essence.
+The false dichotomy: "Am I controlled by external forces, or am I autonomous?"
 
-So let 's picture this. That one of your feet is called need and the other one is called essence. Let 's go to understand what is a need and what is essence. We have to understand this.
+The truth: **You are an organism within larger organisms.** Your cells are controlled by your body while being autonomous cells. Your body is controlled by Earth's ecosystem while being an autonomous being. Control and autonomy coexist.
 
-And need is a process of biology.
+The question isn't "controlled or free?" but "Am I consciously participating in the larger organism, or unconsciously reacting?" When you elect from essence, you participate consciously. When you decide from need, you react unconsciously.
 
-So a cell , a beam , an animal is trying to survive by grabbing the tools that the environment gives to it.
+## Practice: I Am Integration Meditation
 
-So it could survive.
-
-So need is the aspect that makes you look for all the things in the outside.
-
-So basically need , the need is the outer of external stuff in order to ensure the survival of the inner self.
-
-So who is this being? Is one that was built from all the things that I took from the environment?
-
-So what would be this being , how this being was created by all the things that I grabbed from the outside? The genetics that I inherit , the culture , the family , the friends , society , religion , everything that is around me are the things that created me.
-
-So this means that myself needed all those things outside to build the thing that I am right now.
-
-So all those things that have found me that made what I am in this moment all together create the thing that we call that in Latin we say ego.
-
-So ego means all the things that are in the outside that went together to create an individual.
-
-So remember that all the things that you have outside and you grab it to you were tools.
-
-So all those tools were useful for you to exist now.
-
-So the ego is not bad , the ego is the joint of all the tools that makes possible for you to be here and now. Again , let 's change the idea of what ego means for us.
-
-So ego is made of what? It 's made of all those needs that someday I had.
-
-So this is why one of the of my feet is called ego. Its name is ego because it 's based on needs. This is why we have to change our concept of the ego because to make an example of this to criticize the ego but willing to be in service for those in need is like weird. It 's like saying you see a person that is poor and that is in hunger and you just say go to jail because you are in need.
-
-So basically what we have to understand is that this one that is in need should n't be judged and kept in the jail because this ego is in need.
-
-So what we have to make with it is to help it because it 's in need. We do n't have to judge it.
-
-So let 's stop judge the ego because that 's the only one tool that we have to do what we do.
-
-So we have to help the ego to do what? To find its essence.
-
-So what is essence in the other feet? In the other foot , sorry. It comes from the world from the word in Latin RE which you may say absentia and absentia is the idea of being because in Latin essence comes from the RE which means to be.
-
-So this is the concept of essence , the attribute of to be looking at the difference of one. The ego that is in need , it needs everything from the outside in order to become something. In the other hand , essence is the ability of just to be.
-
-So it does n't need anything from the outside to become. It is already what it is. It 's complete acceptance of what it is. We have to picture this that we usually say the concept of essence like if it is something measurable , like the air or water that you can count or measure or like a flavor or an essence of the perfume that you may distinguish.
-
-But that 's not essence. Essence is just the attribute of just to be , just being. That 's it. Nothing else.
-
-No need of anything. That 's it.
-
-So this is why the essence is the one that coming from the verb to be.
-
-We are going to call it simply from the I am.
-
-So we will have one foot that we will call it I because it was made up of many other concepts of needs and the other foot that we are going to call it I am because it is the one that simply is from within.
-
-So basically the I will wrap all the outer things towards the within to construct to build the inner world and the I will be the opposite from what it is. It will spread and create outside from within to the outside.
-
-So we have those two images. We would say that we have two different structures that made us be what we are. One we call it the no , the pronoun and the other one would be the verb.
-
-So in one leg , one foot , sorry , in one foot , we will have the pronouns that would be I , you , he , she , we , you , they and in the other one , we will have the verb which will be I am , you are , she , he is we are , you are and they are.
-
-So one of the things that we have to understand now from this is that usually from our point of view in this reality , we used to separate these two and we can call to the to the verb like something divine because it simply is. It 's just what it is.
-
-Okay.
-
-So it 's so simple because it is that is divine.
-
-So we used to call to that superior.
-
-So that 's why we call it the higher of. It 's like if it is above over us. And we usually call it the ego , the one built by needs , we used to call it the the lower self in fear self.
-
-So this division has made us believe that there is a divinity that simply is and knows and another reality , the ego one that tries to survive.
-
-So these through thousands of years made the concept on the idea that here we are trapped and they in the other dimension , they are free.
-
-So what we have to , what we have done was to create the idea that we have to set our self free from the ego so we could be free as them as the I am in the outside. And also we have the opposite of this vision with this we are we have to set ourselves free but from them because them by being there free they set ourselves a prison. They create a prison for us.
-
-So we are here trapped because of them. Punishments. These two options are mistaken.
-
-So the reason why this is mistaken is because the I and I are not different things. They 're not separated. I can not decide between I and I.
-
-So what we have done is to put in the side of the I am the guides the masters angels , God the savior. And in the side of the I , the humans , the seniors , the conflictives , ones , all of them.
-
-So I and I , they are not separated. They are a continuous of the same thing , same body.
-
-So one of the things that we usually do is to say , I can not control my life. They are the ones , they are the ones that control my life. The guides , the everyone in the heavens are the ones that has a plan for me. They have a plan for me and I am just flowing and letting it be because I can not control my life.
-
-They do.
-
-So this is when I become irresponsible. And in the other hand , we have the ego that says , I am the one that takes the decisions. I am the one choosing everything. I am the only one.
-
-Nobody can control my destiny because I have very will. They are the two phases of the same coin.
-
-So the reason that really answer would be no. There is nobody controlling you and you are not controlling yourself neither. And the reason is because all that that we put up there and everything that we put down here are the same. Exactly the same.
-
-So what we have to understand about this is that it is not that someone controls you or you are controlling your life is basically that everything that happens to you , every decision that you make , every election that you take in your life is taking that a bigger aspect of your own self that is more wide , not superior , is wide.
-
-So when you have this concept of the wide self , this self is the one constructing all the path that you have around. But then if you hear , you do n't do anything , so there will be no results.
-
-So you have to do.
-
-So this is why both are like a team because both are one. And this is the most important concept of we are one.
-
-So let 's make sure this is that when I said that I here is Matias.
-
-Okay , I am Matias. And when I am talking about the higher self you may call , its name is gun. But gun is not his name , his is vibration. The vibration is like I can not say that every time that I am speaking about them , so that 's why I say gun.
-
-So the self , the higher self is not someone separated from me , is not someone different from me that sometimes I 'm channeling. Is my own body is myself , I am a part of gun. Let 's say that if gun is a person , I 'm a kidney in its body.
-
-So I am just a kidney. There is a lot of other organs and living beings that take part of this being. I am just an expression from it. But I am also it.
-
-Gun. Gun.
-
-So there are many other beings with different sounds like I did now.
-
-So you may have different other higher selves. Maybe you are part of one of them because there are thousands as sounds can be and exist in the universe. We are all a physical expression from a self , from a being that is a vibration.
-
-Remember that everything that is physical is just an energetic protection from a vibration so that vibration is the one that we may call the higher self. And it 's all the same. When I make a decision , a choice is not me , Matthias , who makes the choice. It 's a higher and bigger and wider self that is making all the decisions , the choices.
-
-And I am the one that will execute that election.
-
-So we are part of a whole , we are not dominated by anyone. We are part of an organism , a living being.
-
-So to those this idea , I want to speak about this concept of going from the ideology to biology. Keep that in mind.
-
-So basically one of the things that we have to understand is that we humans have shaped the universe in our own image. And why is that? Because in the last 200,000 years , we have shaped the world according to our own ideas.
-
-So the universe that we see is according to what we believe. But besides humans , what is the system that has been created by the universe that has been for billions of years throughout the whole cosmos changing everything. We call that the chemistry , the organic chemistry. That in our planet , we call that biology.
-
-If we really want to get again connected with the universe , what we have to do is to stop projecting our beliefs in the universe as humans and start to watch the real system that universe has created , which is biology.
-
-So in biology , there is no racism in biology. There is no social classes. There is no politicians. There is no pyramidal system in biology in this organic.
-
-So biology as the universe does n't have any judgment. The judgments are only moral and fundamental.
-
-So this is why we have to see nature and the whole world , the universe , to understand how it works. And yeah.
-
-So this is why we are going to try to bring all our ideologies towards biology through all this time.
+**Duration:** 15-20 minutes
+
+**Preparation:**
+- Sit or stand with feet flat on ground
+- Feel your ankles and feet as your foundation
+- Breathe naturally, following breath to your root
+
+**The Meditation:**
+
+1. **The I - Ego Interface (5 minutes)**
+   - Bring attention to the front of your body, your face, your hands
+   - This is your "I" - your interface with the world
+   - Notice all the needs arising: comfort, validation, security, love
+   - Don't judge them; simply witness: "This is my ego navigating reality"
+   - Feel the external orientation: reaching out, responding, reacting
+
+2. **The I Am - Essence Core (5 minutes)**
+   - Shift attention to your spine, your core, your center
+   - This is your "I Am" - your essential being
+   - Notice the presence that needs nothing because it already IS
+   - Witness: "This is my essence, my truth, my ground"
+   - Feel the internal orientation: resting in being, knowing, existing
+
+3. **The Gun - Higher Self Integration (5 minutes)**
+   - Expand awareness to include both front (I) and core (I Am)
+   - Visualize a golden light above your head - the higher self, the conductor
+   - This light descends, connecting ego and essence like two kidneys in one body
+   - Neither is rejected; both are integrated
+   - The Gun vibration harmonizes: "I Am choosing through I"
+
+4. **Grounding the Election (3-5 minutes)**
+   - Feel your feet on the ground, your ankles stable
+   - From this integrated state, bring to mind a current choice you're facing
+   - Ask not "What do I need?" (ego reaction) but "What am I?" (essence election)
+   - Feel the answer in your body, not your mind
+   - This is election from essence: choosing what recreates your truth
+
+**Integration:**
+Place hands on your belly. Speak: "I am the greed of experiences. My ego and essence are one organism. My higher self directs both. I elect from I Am through I."
+
+## Key Insights
+
+- Decision (Latin: to cut/divide) eliminates options; election (to choose/select) affirms creation
+- Need originates from external lack (ego/I); essence originates from internal truth (being/I Am)
+- I and I Am aren't enemies but one organism with different functions, like two kidneys
+- Choosing from need creates dependency; choosing from essence creates authenticity
+- The higher self (Gun vibration) integrates ego and essence like a conductor harmonizing instruments
+- Ideology imposes external programming; biology recognizes internal authority
+- The shift from ideology to biology is testing others' wisdom against your organism's truth
+- Control and autonomy coexist - you're an organism within larger organisms
+- Conscious participation (election from essence) vs. unconscious reaction (decision from need)
+- Make decisions about what to avoid; make elections about what to become
+- Feet and ankles represent where choices land in physical reality - your foundation for each step
+- True choice comes from essence while ego implements it in reality - unified action
+
+## Integration
+
+### Daily Exercise
+
+**Morning:** Before your feet hit the floor, ask: "What am I today?" (essence) rather than "What do I need today?" (lack). Let your first step on the ground be an election from I Am.
+
+**Throughout the Day:** When facing choices, pause:
+- **Decision check:** "Am I choosing to avoid/eliminate?" (cutting away)
+- **Election check:** "Am I choosing to create/become?" (affirming truth)
+- Shift from decision to election whenever possible
+
+**Evening:** Review your day's choices:
+- Which came from need (external lack)?
+- Which came from essence (internal truth)?
+- Were your ego (I) and essence (I Am) working together or fighting?
+
+### Applying the Teaching
+
+**With Major Life Choices:**
+- Don't ask "What do I need?" (dependence on external filling)
+- Ask "What am I?" (expression of internal truth)
+- Test the choice in your body: Does it feel like grasping (need) or recognition (essence)?
+- Make the election from I Am, then use your I to implement it practically
+
+**With Daily Decisions:**
+- Notice when you're deciding to avoid pain vs. electing to create joy
+- Both have value, but favor elections when possible
+- "I elect health" is more powerful than "I decide to avoid sickness"
+- The energy moves toward what you elect, away from what you decide against
+
+**With Ego-Essence Integration:**
+- Stop treating your ego as the enemy
+- Recognize it as your necessary interface with external reality
+- Practice: "My ego handles the world; my essence holds my truth; my higher self directs both"
+- When ego-needs arise, don't suppress them - trace them back to essence:
+  - "I need love" → "I Am love needing expression"
+  - "I need security" → "I Am seeking alignment with my truth"
+  - The need reveals the essence trying to express itself
 
 ## Q&A
 
-So the task for today is to write it down all the things that I have elected for myself , that I have decided by myself in my life , that transform my life , but that I was the one willing to do that.
+**Q: How do I know if a choice is from need or essence?**
+A: Need feels like grasping, urgency, dependency - "I must have this or I'll be diminished." Essence feels like recognition, resonance, expansion - "This expresses what I already am." Check your body: need contracts; essence expands.
 
-So this is why we have write down is a list of things that I myself have decided to change from the inside to the outside. In a way of that.
+**Q: Aren't some needs legitimate and necessary?**
+A: Absolutely. Your body needs food, shelter, safety. But even these can be approached from essence rather than desperate lack. "I need food" (lack) vs. "I Am a being that nourishes itself" (essence). The action is the same; the consciousness is different.
 
-So I do n't know if I 've been breaking many beliefs , maybe not , maybe yes , who knows , but I hope they worth it.
+**Q: What if my ego wants something my essence doesn't?**
+A: Usually, this means your ego has misidentified what will satisfy the need. Trace the ego's want back to its source - often you'll find an essence truth trying to express itself but targeting the wrong object. The higher self helps redirect the ego's energy toward what truly serves your essence.
 
-Sorry , I 'm speaking , each day I 'm speaking more.
+**Q: How is "election from essence" different from "following my desires"?**
+A: Desires often come from need (external lack). Essence comes from being (internal truth). Ask: "Does this desire come from feeling I'm missing something, or from recognizing what I already am?" The second is essence.
 
-## Daily Practice Elements
+**Q: Can I make elections for other people?**
+A: No. You can only elect for yourself. You can decide for others in certain roles (parent for child), but you cannot elect their essence - only they can know and choose what they truly are. Attempting to elect for others is control, not love.
 
-So the version for today is school. The statement for today is an agreed of experiences.
+**Q: What's the practical difference between decision and election?**
+A: Decision: "I decide not to eat sugar" (cutting away). Election: "I elect vitality" (affirming). Both might result in not eating sugar, but election is creative and positive while decision is reactive and negative. Election has more sustainable power.
 
-So the code for today is a strong sound , which is the soul pattern.
+**Q: How do I access my higher self (Gun)?**
+A: You don't access it; you already are it. The practice is recognizing it. Sit in meditation with awareness of both your ego (external interface) and essence (internal being). The awareness that can observe both IS the higher self. It's not somewhere else; it's the perspective that includes everything.
 
-So it says , this differences are materialized one over the other from the available energy to broaden the turret. And can be physical , ethereal and symbolic.
+**Q: What does "greed of experiences" mean?**
+A: The insatiable appetite to know through living, not just thinking. The universe's hunger to experience itself in infinite forms. Not greed for possessions, but greed for the fullness of existence. Your I Am expressing itself through endless I encounters.
 
-So is the sound of the energy sources of electric current. The more I expand , the more energy I will have , more energy I will collect in the world. After battles for survivors comes the struggle for the woods , the goods that end up being cultural and later of the religions that turn into philosophical conflicts that culminated in struggles for power , for who has the power controls all energies.
-
-So we begin by stretching the body and carrying the body. Focus in my breathing. I leave all the way to fall down. A sigh of breath , I feel the oxygen coming inside through my nose towards my lung , heart , blood , organs and muscles.
-
-Take a deep breath and fall down within your body , searching for a cell , a mother cell. And get close to it until you see it in front of you as speak as your own body. Take a breath and dive within the cell , floating in the sea to pleasant , reaching the core and taking with your hands the chromosomes. Begin to enroll them until you feel the NA chains curling between your fingers.
-
-I recognize that I am inside an egg within the body of my mother. I perceive how the sense towards me , the spiral , the light of the consciousness of the I am in the body of an esopharmatoid. I feel the spermatosoid , the limits of the cell , change in its polarity , making it shine like a sun. Take a breath and allow the light of the I am , the spermatosoid , to come inside the body through all your body.
-
-## Energy Work
-
-In the shape of a spiral , coming down through the crown , the third eye , throat , heart and plexus , feeling it , spread its genome material through the scrum , root , knees and ankles. I start to feel the cell , how it is dividing , projecting it into another cell. From my point of view , the I am in front of me , the I am. I recognize how these two cells divide in four , and then in age 16 , and it goes on and on until it starts to create my whole body.
-
-Take a breath and start to perceive how these cells are creating the heart , the brain , intestines , stomach , lungs , one of my organs , muscles and bones. I recognize my whole body , feet , legs and arms and head.
-
-Now , I become aware that I am the result of each one of my elections as a universal being. I am the final product of each one of my choices as a self , as a being. I am the result , the integration of all the experiences that I had in the universe. I am from here , I push towards life with my sound.
-
-I keep pronouncing the sound. As I keep pronouncing the sound , I begin to feel how my body starts to go outside towards the light. I feel how my body starts to go out , my head , neck , shoulders , back , chest , arms , hands , belly , waist , hip and my legs. I feel all the light on my body.
-
-The cipher knows the last breathing and liberation. I recognize myself outside completely from the body of my mother. Take a deep breath and recognize the world around you. I am the greed of experiences.
-
-For all the path has guided towards me all the experiences of my spirit , my soul and the biology of my history. They end up in me. I am the greed of experiences.
-
-So now recognize that I am the conjunction of all the experiences of myself , all the choices , all the elections are in me.
-
-So is this why now I recognize that I am ready to choose to elect my new life. I am I am I am. I bring my hands to my heart. I recognize that being myself , the condition , the product of all the choices that my higher self has done.
-
-Now I can choose by myself to elect the path that I will take in this new life. I am the greed of experiences. Take a deep breath and begin to bring all this consciousness to each part of your body by crossing , stretching and dummy. And softly I come back here and now open my eyes.
-
-Perfect. We have been born.
-
-So tomorrow the twilight.
-
-So thank you all for being there. And drink a little bit more. And see you tomorrow. Rest a lot.
-
-Until tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+**Q: What's the SCOOL vibration?**
+A: SCOOL is the signature of experiential learning - the vibration of the eternal student who learns through being rather than studying. It's the sound of essence accumulating wisdom through lived experience, integrating I Am with I through actual participation in life.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+*Tomorrow: Day 60 - The Service of Being*

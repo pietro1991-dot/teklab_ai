@@ -1,272 +1,171 @@
 ---
-title: "Day 81 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 81 - Logic and Illogic"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 81
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 81
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - crown chakra
-  - heart chakra
-  - I AM presence
-  - breathing exercises
-  - constellation work
-  - month hold
+constellation: "Libra - Physical Week"
+chakra: "Crown"
+date: "October 23, 2020"
+topics: ["duality vs polarity", "logic as mind", "illogic as feelings", "pulse and impulse", "imagination", "spirituality as breathing"]
+keywords: ["logic", "illogic", "logos", "mind", "feelings", "anesthesia", "pulse", "impulse", "imagination", "spirituality", "duality", "polarity", "methodology", "breathing"]
 
 practice_elements:
   chakra: "Crown"
+  vibration: "SSka"
+  statement: "I Am Spiritual Evolution"
+  code: "Nonnet (9) - Eight external directions plus center create unity, ninth heaven, life within every being"
+  body_position: "Legs uncrossed and open"
 
 ---
 
-# Day 81 - Consciousness Work
+# Day 81 - Logic and Illogic
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+## Overview
 
-## Daily Practice Elements
+Welcome to Libra's Physical Week. Matías begins by clarifying: duality is not two things fighting—that's human distortion. For the universe, this is polarity: positive and negative poles creating magnetic energy. We need polarity to exist.
 
-- **Chakra:** `Crown`
+Biology demonstrates truth: two cells dividing (meiosis), two eyes (depth perception), two hands (balance). The brain works in a cross—right brain controls left body—yet the whole brain works together. Duality helps us maintain equilibrium.
 
-## Introduction
+Today explores logic (logos = mind/idea) versus illogic (anesthesia = feelings/sensations). These are complementary tools. Logic is mind pulsing ideas outward. Illogic is impulses returning wisdom through experience. The universe operates on pulse and impulse.
 
-Hello , hi everyone. Good morning , good afternoon. Good evening. We have happy people in the garden.
+Revolutionary insight: imagination (illogical tool) helps logic understand itself. You become wise by living, not reading. Experience is how the mind recognizes what it created. Spirituality means "quality of breathing"—being here now in your body.
 
-So yes it is. Another wedding.
+## Core Teaching
 
-So welcome to the physical week of Libre.
+### Duality Is Actually Polarity
 
-So I remind you that even if we all know that Scorpio has begun for the normal astrology , we are not guided by the astrology. We are guided by the Atlanta calendar that is referred to the different aspects of the constellations.
+Humans misunderstand duality as conflict. For the universe, polarity means positive and negative poles creating magnetism that generates energy. We need this to exist.
 
-So enjoy a lot this next 10 days because after this arrives Scorpio.
+Biology shows: meiosis (one cell becoming two), mirrored body parts (eyes, ears, hands, legs), brain hemispheres working as one unit. Everything uses duality for balance.
 
-So if somebody does n't know what Scorpio is , so look for it and prepare yourself.
+### Logos: Mind Creating Reality
 
-So of course the topic for today is logic and logic. But at first what we are going to do is to try to explain the idea of this next 10 days according to the fact that I wrote a little bit in the blog.
+Logos (Greek) means idea, concept, thought. Everything is vibrations and atoms, but your brain creates ideas about it. Ancient philosophers understood: the world is made of invisible things. The only reason something appears real is the idea we have.
 
-So first of all what we have to understand or knowledge about this is the concept of duality. We talk about duality in Libre because of course is two things.
+If everything exists through ideas, something connects it all—a mind. But not "God thinking" (requiring God's creator). God IS the mind itself. There is no God, only mind. The first law: mentality.
 
-So in this concept of duality what we have created , what we have created this idea is that dual , the word dual comes from the word Latin dual. And dual is two.
+### Illogic: Feelings Assimilate Experience
 
-So the word two is two or two or two. It comes from the same origin , To tool. This concept means that we believe in two things , two different things.
+Illogic encompasses feelings and sensations. The mind pulses ideas outward; creation sends back impulses of information. The universe is pulse and impulse.
 
-So duality for us is talking about two different aspects , two different things. But what happened? That through the history of humanity we believed that everything that is two by force they have to fight each other , like to be against each other. And this is a very human concept because we usually we constantly in history has divided the things into one here and the other one against.
+The only way mind recognizes what it created is by feeling. Not thinking—living. You must experience to understand. Wisdom comes from experience, not reading.
 
-So these two different concepts one against the other is that is the concept that made us believe today that duality is something bad. But duality as something bad is something very , very human. For the universe it does n't really exist the duality as we see it. It does n't exist the separation between these two concepts.
+### Imagination: Tool Logic Needs
 
-For the universe this is polarity. And polarity it 's talking about poles. One pole is positive the other pole is negative. And both of them they magnetism that generates energy.
+Scientific experimentation requires imagination. The only way you recognize something can be done differently is imagining new possibilities.
 
-So we need polarity in order to create energy in order to exist.
+Imagination (illogical tool) helps logic understand itself. Humans evolve through imagination—dreaming change is possible.
 
-So when we talk about duality we are talking about the quality of two different aspects to be together.
+### The Problem with Logic as Methodology
 
-So this is why when we are in our current times in this spirituality for sure you have heard about the concept of we have to transcend duality we have to get away from this world of duality from this reality that is dual. But we are we have a mistaken concept of what is duality it 's a very human perception of two different concepts fighting each other when the universe never sees two different concepts fighting each other they both are working each other by polarity.
+Logic becomes method (methodology), which replicates as ideology. Ideologies disconnect from feelings and reality. We need civilization able to feel beyond logic.
 
-So that 's a good thing to understand. From the very beginning we have this concept of the in biology of this duality duality in biology is these two cells that makes me that one cell that makes meiosis the process of meiosis is the unity becoming two.
+Even spirituality becomes ideology when we create methods. True spirituality is feelings that change constantly, not rigid ideas.
 
-So two cells that divides four eight so everything is dual constantly so this duality is constantly creating mirror things.
+### Spirituality: Quality of Breathing
 
-So this is why through the process of evolution we can see ourselves as dual beings two eyes two ears two noses the mouth divided into the brain into the heart into everything is divided into two hands to arms two legs yes everything is like mirroring itself constantly. This is not a duality that says that each part of the body is against each other but both of them are are watch out.
+The word spirituality comes from "quality of breathing." It's that simple. Spirituality is being here now, breathing in your body. The rest is logic and illogic.
 
-So basically this duality of our things are the concepts that helps us to be in balance okay that the eyes helping us to see beyond the ears help to to have balance so we do n't fall down when we walk the hands doing things doing strength so you can grab things in balance. Everything it 's in balance the feet to walk so you do n't fall down okay so everything is using the duality in order to be hold the to hold the balance.
+## Practice: Crown Activation and Wave Movement
 
-So something that for most of the people maybe is something known because we have read about it we have heard about it or you have study but for another bunch of people is not normal and they do n't know it yet is that the brain that makes this possibility okay of balance works in a cross so this means that it 's not this part of the brain that works with all this part of the body and like dual like this but they work like in a cross so this side of the brain is the one controlling this hand and this side of the brain is the one controlling this hand.
+**Preparation:**
+- Sit or lie comfortably
+- Legs uncrossed, open
+- Stretch, massage body
+- Focus on breathing
 
-So all the the right side of my body is controlled by the left side of my brain and the right side of my brain is the one controlling my my left side of the body.
+**Wave Movement (Each part rests after moving):**
 
-So in a cross.
+1-9. Left side sequence:
+   - Left foot: toes, ankle
+   - Left knee, hip
+   - Turn body left, return center
+   - Left hand: fingers, wrist, elbow, shoulder
+   - Head circles toward left
 
-So basically also one of the mistakes that we do when we realize that the brain is also divided and controlling the different parts is that we usually also believe that the brain is so cut in the middle that it does n't have any connection.
+10-18. Right side sequence:
+   - Head circles toward right
+   - Right shoulder, elbow, wrist, fingers
+   - Turn body right, return center
+   - Right hip, knee, ankle, foot, toes
 
-So if I have if I have been working with the left with the right side is because I only work with the right with the sorry if I am working with the right side of my body so this means that it 's only my left side of the brain that is working no it 's not like this it 's the whole brain that is working constantly for the whole body.
+**Crown Activation:**
 
-So we usually have heard this about about that we are using the 15 or 20 % of our brain and some some people maybe believe that our tiny little parts of the brain that are working and the rest is not working but it 's not like that the brain is like a machine.
+19. Touch crown with two pointing fingers
+20. Press and circle—massage crown
+21. Press like "molding pizza, opening crown chakra"
+22. Feel light entering head
+23. Relax hands, feel sensation
 
-So the machine is working all together the whole machine is working but maybe it 's working in the 15 or 20 % of its potentially okay that 's what it really means but it 's constantly working one side with the other. But we have this kind of of branches that kind of connects more one side with the other. Also one of the things that we usually are thinking about the brain is that these two separations divide the brain in a believing that the right side of the brain is the illogical aspect of the brain. When we talk about the work that the brain does this part the right side is the illogical and the left side is the logical okay so this means that the left side is the one that works with analytics mathematics and so on.
+**Integration:**
 
-And the other side is the one that works with the imagination that dreams that is able to create.
+24. Activate vibration SSka
+25. State: "I am spiritual evolution. I am spirit in my body."
+26. Move through activated joints (crown → feet)
+27. Spread consciousness through body parts
+28. Open eyes
 
-So we usually say this because some parts usually when we are in a creative process or dreaming or imagining we usually use more parts of the right side of the brain and when we understand mathematics or something very logical we use more the left side of the brain. But it 's not 100 % like that both sides are working together constantly but one of them works the most when we are doing one thing or the other.
+**Closing:** Massage feet for energy exchange. Physical Week requires body comfort.
 
-So for sure you have heard that by reading or in this new times of consciousness that we are for sure you have seen any picture or something that divides the brain into the illogical part of the object.
+## Key Insights
 
-So we are going to talk about the illogical part of the brain and the logical part of the brain. In order to understand these two concepts we have to work to go to the word that unified both of them which is logos.
+1. Duality is polarity creating energy, not conflict
+2. Brain works as whole despite hemisphere specialization
+3. Logos (mind) is creator; "there is no God, only mind"
+4. Logic pulses ideas out; illogic impulses wisdom back
+5. Wisdom comes from living, not reading
+6. Imagination helps logic understand itself
+7. Universe operates on pulse (projection) and impulse (return)
+8. Ideology makes mind rigid; perception requires feeling
+9. Spirituality as methodology becomes religion
+10. "Spirituality" means "quality of breathing"
+11. Everything is vibrations/atoms interpreted as ideas
+12. First law: mentality (mind creates reality)
+13. Feelings let mind assimilate what it creates
+14. Pulse thoughts → experiences; impulse back → wisdom
+15. Balance recognizes logic and illogic as partners
 
-So in a Greek word that means idea concept thought.
+## Integration
 
-So whatever it is a logos it represents the idea that you have about something.
+**Daily:** When encountering "illogical" experiences (creative, emotional, intuitive), recognize impulses returning wisdom from experience.
 
-So in the very beginning of everything in the very beginning of of sorry not everything in the very beginning of our philosophies that priests and priestess that started with all this they understood that the world was not like this just by itself. That the world is made up with a lot of things that we can not see.
+**Weekly:** Practice wave movement meditation activating joints from left foot through crown.
 
-Now we know its vibration and atoms but at that time they just picture that it did n't exist really. That the only reason that makes something be what it is is the idea that we have about that.
+**Monthly:** Examine where you've made logic rigid ideology. Allow imagination to help logic understand differently.
 
-So everything that you see we have spoken about this in many other videos. Everything that we see is not exactly what we really what we think it is. It 's just vibrations and a conjunction of atoms but we see things and we say oh this is that this is this but it is really an idea.
+**Ongoing:** Remember spirituality is breathing quality. Return to simple breath awareness in body, here now.
 
-So the ancient ones they understood that everything that exists is just an idea a perception of our brain. By that they said so if everything exists is because something must connect it all and that thing that connects everything should be a mind something that is thinking.
+## Questions and Answers
 
-So they said okay so logos is the real God is the mind.
+**Q: Why say God doesn't exist if logos is creator?**
+A: God is not someone thinking (requiring creator). God IS mind itself. When we say "God," we project human attributes onto pure mind.
 
-So this is why in the ancient times they said that the first law of the universe is mentality.
+**Q: Are emotions more important than thinking?**
+A: Neither is superior—complementary poles. Mind pulses ideas; feelings impulse wisdom. Both needed.
 
-So basically the concept of logos is talking about the creator but we have to think about this. They did n't say God is thinking because if God is thinking so God should be created by another mind.
+**Q: How can imagination help science?**
+A: Experimentation requires imagining new possibilities. Logic analyzes what exists; imagination creates what could exist.
 
-So they said no God is not someone that is thinking and has a mind God is the mind itself.
+**Q: Why does brain control body in cross pattern?**
+A: Demonstrates duality creates balance through integration. Left and right work together through crossing.
 
-So there is no God there is only mind.
+**Q: Difference between pulse and impulse?**
+A: Pulse: outward projection (mind sending ideas). Impulse: inward return (creation sending wisdom).
 
-So this is why the people that follow the teachings of this those priests like taught that then was called Heroes by the Greeks.
+**Q: Is reality an illusion if everything is ideas?**
+A: From atoms/vibrations perspective, yes—you see interpreted ideas, not objective "things." Mind is primary.
 
-So the aromatic people the followers of Heroes the aromatic people were the ones calling God like logos. Because it was only that an idea and this is why we also hear Plato saying the world of ideas.
+**Q: Why do "illogical" things?**
+A: World's logic became rigid ideology disconnected from feeling. Illogical actions can help stuck logic perceive differently.
 
-So this is why logic means all those things that are related with the mind.
+**Q: What does "breathing quality" mean practically?**
+A: Stop making spirituality complex methodologies. Essence is being here now, breathing in body. Presence is foundation.
 
-Okay all the things that are related with the mind and I logic , I logic , sorry , I logic would be all the things that are not related with the mind.
+## Closing Reflection
 
-So that would be feelings sensations. Why we say feelings? Because we can say that the mind is the one pulling. It pulses ideas , it pulses thoughts and those thoughts are going to manifest experiences.
+What humanity calls "duality" the universe knows as polarity—complementary forces creating energy, not enemies. Logic (mind pulsing) and illogic (feelings impulse) are dance partners.
 
-And those experiences will send back the pulses by impulses. And those impulses will come back as wisdom to the mind.
+Ancient wisdom: "there is no God, only mind" frees us from external authority. We are expressions of one mind observing itself through infinite perspectives.
 
-So the universe is pulse and impulse.
+Spirituality lives in breathing quality, presence in body, here now. Your mirrored body parts don't fight—they create balance letting you walk, see, hold, breathe. That's duality's truth.
 
-So the mind is pulling , pulses the idea and freedom of being created. And then the created sends back an impulse of information to understand what I have created. Basically what the universe is doing by pulling is to project the idea. And the idea in order to be assimilated again as an experience must be felt.
-
-This means that the only way in which the mind can recognize what it has created is by feeling. This is why the feeling is the only way in which you can receive the time. Not by thinking.
-
-So thinking the mind is just the idea that projects the possibility. But the only way you can acknowledge that possibility is by living it. You have to live it. Otherwise you can not plan that.
-
-You can not make a clarification of this. But we have to understand is that the only way where how you can acknowledge and receive the information back is by feeling.
-
-So this is why the opposite thing to logic to the mind would be feelings that we call anesthesia.
-
-So if in English it 's like that. Anesthesia. Sinestasy. I do n't know how you call it.
-
-It 's opposite to anesthesia. Anesthesia. We are more related with the concept of anesthesia. Because we are more related to not to feel.
-
-But we are such a mental civilization that we call the anesthesia. I do n't know how to pronounce it. We call anesthesia as illogical because we think that something that has no logical should be illogical. But not anesthesia.
-
-So anyway , things of the language. What we have to acknowledge is what we are really doing. What we have to really do in order to acknowledge information is to live to experience. Because you are not more intelligent because you read.
-
-You are much wiser because you live. As much more experiences you have , the best information you can have. The only way you are more wiser and you acknowledge much more information and become more wise is by experiencing. And this experience is also what we call the Cartesian Cartesian Cartesian.
-
-The Cart method , which is a scientific method.
-
-So experimentation. But experimentation in science. It 's only possible because of imagination. The only way in which you can recognize that something can be done in a different way is if you imagine.
-
-If you are able to think in a different way to imagine a new possibility.
-
-So basically imagination , which is the illogical tool. Is the one helping the science to develop? Is the one helping the logic to understand itself?
-
-So you understand this concept that basically the illogical imagination is the one helping the logic , the analytics to understand itself.
-
-So the only way in which a human and aware of being can improve in their lives is by imagination. It 's by dreaming that that is possible.
-
-So this is why it 's so important that logic and illogical in our reality , in our body. Because logic and illogical are the ones controlling our body , the feelings and the way we perceive the reality.
-
-So I hope you got it. And if you did n't get it , I wo n't repeat it.
-
-So this is recorded. Do n't worry. And someday you 'll catch it up. This concept was very philosophical , but I guess everything that we speak is very philosophical.
-
-Now we go to the information of the day. I think before we start , that everything that I do , that we are doing , and everything that I remember I have done in my life , is basically illogical. For me , it 's everything that I do is illogical. It does n't have any sense.
-
-But I do all these illogical things because I am thinking that this will help the logic to understand a different way , to change its perception.
-
-The reason why with illogical , I expect to help the logic is because the logic of this world today , but it 's logical. We usually think that , or we hear that you have to be more logical. This is not logical. We have to be logic in this terms , whatever.
-
-We usually hear this concept. And the thing is that logic is mind. And mind is very organized.
-
-So it becomes a method. And that 's how we call methodology. This methodology , this method way of working is like a system.
-
-So it replicate itself through mind. And that 's what we call ideologies. We have too many ideologies , but the ideology of logic is not related with the feelings , with what really is happening in the world. The real concepts that the feelings can only perceive.
-
-So we need a civilization that is more able to feel , to perceive , to understand beyond the logic. And pay attention to this , that by logic , I 'm also talking about spirituality , because we usually make spirituality as another logic. It 's like if we are creating a method of our way of thinking in a spiritual way. And that 's called religion , when we start to repeat an idea of what it is to be spiritual.
-
-So suddenly we project our expectations , our ideas of how it should be by spirituality. But what really happens is that a logic is not a method. It 's just feelings. And feelings are changing constantly.
-
-Ideas does n't. Feelings are adaptable to the environment. And they interpret it what is happening. Ideas does n't.
-
-So basically ideology is a civilization. It would be a civilization more based in the perceptions.
-
-So in Sicilia.
-
-So this is why a lot of people is thinking that what we are doing here is illogical. And I think that. I really think that. Because if we would be here with the logic with the logic of always.
-
-We would not be here to change to transform the world.
-
-So another thing , the last thing is that here talking about philosophy. I will for us all to go back to what spirituality really means. That 's the most important thing to go back to the origin of spirituality. The origin of the word spirituality comes from speedy and quality.
-
-Which means the quality of breathing.
-
-So it 's so easy. The quality of breathing.
-
-## Guided Meditation
-
-So basically spirituality is to be able to be here and now. And breathe within your body. The rest is illogical and logical. The vibration for today is shah.
-
-## Daily Practice Elements
-
-The statement for today is I am spiritual evolution. The goal for today is non-net , which is a group of nine. The eight external directions of time and space cube have only one common point. The third.
-
-The eight internal directions and the one that joins them in the center constitute the concept that we call unity. The ninth heaven. Life within every being. And so the concept of the nine implies the site of the site of the nine dimensions that constitute the divine being that we are.
-
-## Q&A
-
-So I will ask for you not to cross the legs today. Just open them. If you are sitting in the in the floor , just do like this. Or with the feet in the ground.
-
-Okay.
-
-So we begin stretching the body. Messaging and closing the body. I focus only in my grip letting all the weight of the body fall down. I feel the air coming within my body.
-
-My body knows , feeling it in the lungs , heart , running through the blood towards the organs and muscles. Take a deep breath. And I bring all my attention to my left foot. Take a deep breath and start to move your fingers , your foot , your ankle.
-
-And slowly as you go up with this movement , feel like if it is a wave. The part that you moved before stays calm and you move the next one. And so on.
-
-So you calm the feet , the foot , an ankle and start to move the knee , the left knee. Then the hip , by the left side. You turn the body a little bit to the left and then go back to the center. Start to move the fingers of your left hand.
-
-Then wrist. Then your elbow , your shoulder. And your head , your neck , towards the left side , in circles. Until you stand in the center again.
-
-Take a deep breath and start to move your neck , your head towards the right side , in circles. Start to move , bringing this movement to the shoulder on the right , the elbow , the wrist , the fingers of your right hand. Turn the wrist towards the right and stay straight again. Bring the movement to the right hip.
-
-## Energy Work
-
-In the knee , the ankle , making circles with the ankle. And then going back to the feet in the right foot until the fingers stay in firm in the ground. Take a deep breath. I take my hands towards my head , touching the crown with the fingers , with two fingers.
-
-The one you used to point on the heart , the center one. And you put it in the crown. Press and move in circles. A still breath.
-
-And do this massage. Press like opening the crown chara. Like if you are molding a pizza on your head. And as I do this , I feel the light of the eye getting inside my head.
-
-Take a deep breath. I relax my hands , feeling the sensation that remains in my head. I set myself able for the energy of the spirit to begin with my evolution. Take a deep breath and activate the vibration that allows the eye am to anchor in my crown.
-
-I am the spirit in evolution. I am the spirit in my body. I am going through each one of the joints that I moved until my feet. And as I start to move again my entire body in circles , I start to spread this consciousness through each part of my body.
-
-By stretching , warning , massage your head. And I come back here now opening my eyes. Just an advice. Whether you use your feet , you make a massage in the feet , beginning by one side going up and then going down by the other side.
-
-And as you need for your body , it is an easy way of exchange of energy by warning. In this week of the body , we have to be comfortable.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

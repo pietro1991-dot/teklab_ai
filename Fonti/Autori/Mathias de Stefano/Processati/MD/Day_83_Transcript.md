@@ -1,236 +1,195 @@
 ---
-title: "Day 83 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 83 - Silence and Sound"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 83
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 83
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - month hole
+constellation: "Libra - Physical Week"
+chakra: "Throat"
+date: "October 25, 2020"
+topics: ["silence as all vibration unexpressed", "sound as vibration attribute", "frequency as time expression", "listening as assimilation", "manifestation vs integration"]
+keywords: ["silence", "sound", "vibration", "frequency", "void", "everything", "expression", "attribute", "listening", "manifestation", "assimilation", "patterns"]
 
 practice_elements:
-  chakra: "Crown"
+  chakra: "Throat"
+  vibration: "SSsher"
+  statement: "I Am Coherent Evolution"
+  code: "Undecad (11) - Ability to be in divine is reached, creator acknowledged. Cell projects potential generating new one, metal division process. Sphere into identical mirror where it can contemplate, project, see, feel, live, share. God and goddess, pattern and matrix."
+  body_position: "Legs straight, comfortable"
 
 ---
 
-# Day 83 - Consciousness Work
+# Day 83 - Silence and Sound
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+## Overview
 
-## Daily Practice Elements
+Today explores polarity between silence and sound, continuing Libra's Physical Week. We've spoken about whole and void, everything and nothing. These aren't opposites—they're complementary. Nothing gives birth to everything, everything returns to nothing, constant cycle never ending.
 
-- **Chakra:** `Crown`
+If universe is vibration (sound), vibration must come from silence. How can sound that vibrates come from silence that doesn't exist? The answer dissolves our simple concept of beginning and end.
 
-## Introduction
+Nothing and everything don't have origin/end relationship. They're like die and rebirth—constant. Nothing gives birth to everything, then everything dies and rebirths in nothing. Nothing, everything, nothing, everything, constantly. Universe never really began. Universe is constant all the time.
 
-Hi everyone , how are you? I hope you 're okay , so we can begin with the day of the trip.
+Vibration is everything—different vibrations create all existence. Sound is attribute of vibration (not vibration itself). Silence is all vibration without any movement—everything unexpressed. Sound is vibration expressing itself through frequency. Sound manifests; silence assimilates.
 
-So I hope you were able to read the blog today.
+## Core Teaching
 
-Today 's post was about silence and sound.
+### Vibration, Frequency, and Sound
 
-So according to silence and sound , I was thinking just thinking if it would be nice to just make one hour of silence right now. But I 've been shut up the whole day , so I guess it was big.
+Everything that exists is vibration. Vibrations create existence we feel and perceive. Sound is attribute of vibration—the way you perceive vibration, not vibration itself.
 
-So to begin with this concept , we have to remember that we have spoken about certain things related to this polarity , which is like everything and nothing , the whole and the void. We have been speaking a lot about this because we are in the month of polities. What we are here doing is trying to understand both sides what we are trying to put together to understand.
+Imagine thunderstorm lightning: positive and negative vibration join together, creating light and sound. Sound is what happens when vibrations interact, not the vibration.
 
-So we usually take these concepts like opposites to each other , like the whole and the nothing. But we spoke in previous videos how the everything was born through the nothing.
+Vibration starts moving by positive and negative in different frequencies. Frequency is time expression of vibration. Like storm in sea: sea is vibration, different waves of storm are frequencies. Frequencies = time expression of vibration generating many vibration options.
 
-So according to this , they are not opposite , they are complementary. But also this means that if the universe for us is vibration , so it 's sound , the vibration , the sound should come from the silence.
+According to their resonance, they will sound; according to resonance, they attach to each other, creating shapes and realities we see now. This is how atoms create forms by joining through vibration, through vibration charges.
 
-So how is possible that something that we call sound , that we that violates , came from something that does n't exist , which is the silence. The first thing that we have to acknowledge about what we were saying all this time is not that the things just appear from nothing. Because we have this simple way of thinking , this simple way of looking into life , like if there is an origin and there is an end , that something begins and something ends like in our life. It 's normal for us because of course we have , we live in that way , but it 's not really , it 's just a concept for the universe , nothing really ends , everything is a constant.
+### Silence Is Not Opposite of Sound
 
-So this means that when we said the everything was born through nothing , it 's not that nothing was the very beginning of everything. It means that nothing and everything is kind of like what we call die and rebirth. Being born , die and rebirth.
+Imagine flat lake with no movement. You throw rock; rock moves water. Movement creates frequencies (waves). Frequency distorts lake reality, creating patterns you can see. This is how vibration creates reality patterns.
 
-So it 's a constant that never ends.
+All that—wave patterns, frequencies, movement—is perceivable. But when water goes back to balance (no movement), what happened to vibration? Did it disappear?
 
-So we would say that the nothing gives birth to the everything and then everything dies and rebirth again in nothing.
+No. Water is vibration. Vibration doesn't disappear. Only thing that disappears is our ability to interpret vibration.
 
-So it 's nothing , everything , nothing , everything , nothing , everything , nothing , nothing , as we also are doing here in the matter. This is why we should n't think about the universe as the beginning and the end of things. We have to think about the universe as a constant , as something that is constantly happening all the time.
+The only thing making us perceive vibration existence was frequency. Frequency is time. Without time, we cannot perceive reality. We don't exist. No pattern exists. We are nothing.
 
-So of course that for us to say that there was an origin of everything is something that makes us more relaxed. But what really happens is that the universe never really begins. The universe is constant all the time. We have spoken about this in another video , I do n't remember which one , but that we as humans , we have need of finding an origin and an end of something because we have been living through that by being born as an origin and by death as the end of it.
+Without movement of time (ripple of time), vibration is static. Static means status: stable in one place, same shape.
 
-But for the universe being born and being dead is just die is just a transformation of the being of the self. It 's not , it 's not different things.
+Silence is not opposite to sound. Silence is all sounds, all vibration without any movement. Everything is there (water). But there's no time, no frequencies. No frequency, no time = no way to perceive distance, sound, reality. Nothing.
 
-So if we recognize that the everything we can recognize from this that the everything is basically vibration , everything exists because of vibration.
+### Sound: Attribute of Vibration Manifesting
 
-So the everything basically is different vibrations. That 's all that exists , that 's all what it is.
+Sound is attribute of vibration manifesting itself in different frequency levels. Silence is all vibration without expressing any attribute.
 
-So vibrations are the ones creating the existence that we can feel and we can perceive.
+When you make sound, when you express vibration, you're setting an intention. You push your vibration toward a direction. This creates limit. Creates pattern. You're stuck in pattern you expressed.
 
-So the attribute of vibration , we may call it sound , but it 's not this sound , it 's not the sound that you hear , the voice , no. Vibration is this , something vibrating , moving , possibly.
+While you talk, while you create movement, you create patterns around that limit your expression. You're able to create, but on other hand, silence is ability to perceive all directions, perceive whole lake. Everything. Not just one goal, but all of them.
 
-Sound would be the attribute of vibration.
+This is why when we feel too many things inside, we say "too many noise within me." When trying to find answers within, we meditate in silence. Go meditate within silence, find vacuum/void within to find answers.
 
-So two things that violate , when they attract to each other , they create a sound.
+### The Void Is Fullness Unexpressed
 
-So sound is not the vibration itself.
+How is it possible void/silence would have all answers? How can you feel plenty in void?
 
-Sound is the attribute of the things that violate.
+Because void is biggest everything you could possibly imagine, but that doesn't express its attributes yet. Void and silence is everything that hasn't been expressed in attributes yet.
 
-So it 's the way in which you can perceive vibration.
+This is why listening is important. Not only for respect, but for meditation. When you're silent and practice listening to others, what you accomplish is listening to yourself, being able to listen to truth and answers you have within. Usually you don't hear because you talk too much. They're silenced by ego.
 
-Okay , like when you have a thunderstorm , lightning , it 's by positive and negative vibration that joins together and they create light and sound.
+### Sound Manifests, Silence Assimilates
 
-So basically , how how the vibration starts to create all the things.
+Sound, all sounds we do, all chanting, everything is expression, experimentation, manifestation of patterns creating and transforming our realities.
 
-So the vibration starts to move by positive and negative in different frequencies.
+Silence is tool allowing us to assimilate that information, integrate that experience, bring awareness to where we've created.
 
-Remember that we have spoken about this in other videos that that that frequency is the expression of time of vibration.
+Reality is like a song. Silence in song is even more important than sound itself. Spaces and silences between notes, between each part, pulses between moments of tension and moments of resolution—these make song important because they're moments you assimilate sound.
 
-So it 's like a storm in the sea.
+During whole song, brain tries understanding when tension comes, how resolution comes. Even if not thinking precisely about it, brain does it—constantly trying to match and understand song pattern.
 
-Okay , so the sea is the vibration and the different waves of the storm are the frequencies.
+In silence at end of song, brain relaxes and integrates everything. This is how silence becomes inner catalyst of all information.
 
-So the frequencies would be the time expression of the vibration that will generate many options of vibration that according to their resonance , they will sound according to their resonance , they will attach each other and create shapes and realities that we see now.
+Remember: everything you call sound in outside is not something coming to you by sound. It's interpretation of your brain through vibration of your inner ear.
 
-So this is basically how the atoms will be creating those by joining them through the vibration , through their charges of vibration.
+Sound is tool to transform, create, manifest. Silence is tool to assimilate, integrate, be aware.
 
-So this is why everything that exists is basically vibration , but from where this vibration comes from.
+## Practice: Throat Activation Through Sound
 
-So basically this happens in this way. Imagine that the universe is like a very flat lake that the agency any movement.
+**Preparation:**
+- Sit comfortably, legs straight
+- Stretch, massage body
+- Let weight fall, relax, focus on breathing
 
-So suddenly you decide to throw a rock and the rock starts to move the water.
+**Wave Movement:**
 
-Okay , so this movement creates different frequencies , which are the waves.
+1-18. Complete body activation (left foot → head → right foot)
 
-So this frequency is distortion , the reality of the lake creating patterns that you can see.
+**Throat Chakra Work:**
 
-So this is how you could see how vibration starts to create the patterns of reality. Watching this image of the lake where we can understand now is if we understand that the movement of the is the vibration creating frequencies in different levels of frequencies and the patterns that of reality that you can see. All of that when the water goes back to balance , no movement at all.
+19. With two fingers each hand (heart finger and pointing finger)
+20. Raise, massage all your throat and neck from front
+21. Begin by jaw, going down
+22. Take close by sides of throat
+23. Soft movements up and down, down and up
+24. As you massage, perceive light and consciousness of I Am starting to go within body
 
-So what happened with the vibration just disappear? What is really happening there? What we are going to acknowledge about this is that the water is the vibration.
+**Integration Through Sound:**
 
-So the vibration does n't disappear. The only thing that disappear is our ability to interpret the vibration. Because the only thing that made us perceive the only thing that made us perceive the existence , the vibration was frequency.
+25. I Am comes down through crown, third eye, anchoring in throat
+26. Breathe deeply in zero
+27. As massaging, pronounce sound coming toward mouth
+28. Raise, massage throat, come down, up
+29. Bring sound toward mouth while massaging
+30. As pronouncing sound, allow yourself perceive, feel vocal cords vibrating
 
-So frequency is time.
+**Statement and Spreading:**
 
-So without time we can not perceive reality. We do n't exist. Any pattern exists. We are nothing.
+31. State: "I am coherent evolution" (repeat)
+32. Perceive light and consciousness starting to go down through each joint of body
+33. Go with it across, massage each part of body
+34. Stretch body gently, raise head
+35. Return here now, open eyes
 
-Without the movement of time , the ripple of time. The vibration is static. And the static means status that means to be stable in one place in the same shape.
+**Closing:** Remember importance of listening and silence. Drink water, rest, assimilate information.
 
-So basically what this means is that silence is not opposite to sound. Silence is basically all the sounds , all the vibration without any movement. Everything is there because it 's water. Everything is there.
+## Key Insights
 
-But there is no time. There is no frequencies.
+1. Silence and sound are complementary, not opposite—silence contains all unexpressed
+2. Vibration is constant; frequency is time expression of vibration
+3. Sound is attribute of vibration when expressed, not vibration itself
+4. Without time/frequency, we cannot perceive reality—we are nothing
+5. Silence is all vibrations without movement—everything unexpressed
+6. Sound sets intention, creates patterns, limits expression to specific direction
+7. Void/silence contains all possibilities before manifestation into attributes
+8. Listening to others is practicing listening to yourself
+9. Too much talking silences inner truth by ego noise
+10. Sound manifests and creates; silence assimilates and integrates
+11. Silence in music is more important than notes—it's when you assimilate
+12. Brain constantly tries matching patterns during sound, integrates during silence
+13. Sound you hear is brain's interpretation of inner ear vibration
+14. Silence is inner catalyst of all information
+15. Reality is like song—spaces between notes create meaning
 
-So if you do n't have frequency , if you do n't have time , there is no way to perceive distance. There is no way to perceive the sound. There is no way to perceive reality. Nothing.
+## Integration
 
-So what is basically sound?
+**Daily:** Practice silence after conversations. Notice how your brain assimilates what was said in quiet moments, not during speaking.
 
-Sound is the attribute of vibration manifesting itself in different levels of frequency. That is silence.
+**Weekly:** Throat chakra massage with sound practice. Feel vocal cords vibrating. Alternate making sound (manifesting) and silence (assimilating).
 
-So silence is all the vibration without expressing any attribute. When you make a sound , when you express a vibration , what you are doing is setting an intention. You are pushing your vibration towards a direction. What it does is to create a limit.
+**Monthly:** Spend one day speaking minimally. Notice how much you hear when you're not creating sound patterns. Listen to yourself.
 
-It creates a pattern.
+**Ongoing:** Recognize silence is not emptiness—it's fullness unexpressed. Before manifesting (creating sound), rest in silence where all possibilities exist.
 
-So you are stuck in a pattern that you have expressed.
+## Questions and Answers
 
-So while you talk , while you create the movement , starts to create patterns around that will limit your expression. You will be able to create and in the other hand silence is the ability to perceive all the directions , to perceive the whole lake. Everything. Not just one goal , but all of them.
+**Q: If silence is all vibration, how is it different from sound?**
+A: Silence is vibration without frequency/time/movement. Sound is vibration expressing through frequency. Like still lake (silence) vs. waves in lake (sound). Water exists in both, but movement makes difference.
 
-So basically this is why when we feel that there is too many things inside of us , we say there is too many noise within me. Too many noises. This does n't sound good. And when we are trying to find all the answers within , what we do is to mediate in silence.
+**Q: Why is silence more important than sound in music?**
+A: Silence is when brain assimilates patterns. During sound, brain tries matching, predicting. In silence (between notes, at end), brain relaxes and integrates what it heard. Meaning happens in pauses.
 
-So this is why we say you have to go and mediate within in silence and to find the vacuum , the void within in order to find the answers. And maybe you would say , but how is possible that the void , the silence , would have all the answers? And how is possible that we have said when you reach the void , you feel fulfilled. You feel a latitude.
+**Q: How can void be fullness?**
+A: Void contains all possibilities unexpressed. Like still lake contains all potential wave patterns. Silence holds all sounds before they manifest. Fullness waiting to express attributes.
 
-How is possible to feel plenty in the void? And basically the reason is because the void is the biggest everything that you could possibly imagine , but that does n't express its attributes yet. That 's what happened. The void and the silence is the everything that has n't been expressed in attributes yet.
+**Q: Why do we need sound if silence has everything?**
+A: Sound manifests specific directions from infinite silence possibilities. You need expression to create, experience, learn. Then return to silence to assimilate and integrate learning.
 
-## Guided Meditation
+**Q: How does listening to others help listen to self?**
+A: When you're silent (not preparing response), you practice being present without ego noise. This same skill lets you hear your inner truth usually drowned out by mental chatter.
 
-This is why we have said in other moments , the importance of listening , the importance of silence when someone speaking. Not because only for respect , but also for meditation , because when you are silent and you practice to listen to the others , what you accomplish is to listen to yourself , to be able to listen to the truth and the answers that you have within. That usually you do n't hear because you talk too much.
+**Q: What's difference between vibration and frequency?**
+A: Vibration is constant presence (like lake). Frequency is time expression of vibration (like waves). Frequency makes vibration perceivable through creating patterns in time.
 
-So they are silenced by the ego.
+**Q: Why does sound create patterns that limit?**
+A: When you express vibration in specific direction, you manifest one possibility from infinite silence. This creates beautiful pattern but excludes other directions. Like choosing path—lovely walk, but can't walk all paths simultaneously.
 
-So basically we can understand that sound , all the sounds that we do , all the shanties , everything is the expression , the experimentation , the manifestation of the patterns that are creating and transforming our realities. And silence is a tool that allows us to , that allows us to assimilate that information , to integrate that experience , to bring awareness to where we have created. This is a weird really weird like a song , a reality is like a song where the silence in the song are even much more important than the sound itself , because the spaces and silence between the notes , between each part , the pulses that you have between the moments of tension and moments of resolution of the song are the ones that makes the song so important , because they are the moments that you can assimilate the sound. During the whole song , your brain is trying to understand when it 's going to be the tension , how it 's going to be the resolution , even if you are not thinking precisely about that , your brain is doing it , it 's constantly trying to match and to understand the pattern of the song.
+**Q: Is meditation about achieving silence?**
+A: Not achieving external silence, but entering internal silence where all vibrations exist unexpressed. This is void/fullness where you access everything before it becomes specific patterns.
 
-And in silence of the end of the song , the brain relates and comes to everything. This is why the silence is the one that helps the being to assimilate all the information , all the data. This is how the silence becomes the inner catalyst of all the information.
+## Closing Reflection
 
-Remember that everything that you call sound in the outside is not something coming to you by sound is basically the interpretation of your brain through the vibration of your inner ear.
+Today's teaching reveals sound and silence as manifestation and integration—two halves of complete cycle. Without sound, silence remains unexpressed potential. Without silence, sound has no space to be born or understood.
 
-## Daily Practice Elements
+You exist in constant rhythm between these poles. You speak (manifest patterns), then pause (assimilate meaning). You create vibrations (express intentions), then return to stillness (integrate experiences). Your throat chakra is gateway between unexpressed fullness and manifested creation.
 
-So this is basically why the sound is the tool to transform , to create , to manifest. And silence is the tool to assimilate , to integrate , to be aware. The vibration for today is She. The statement for today is I am coherent evolution.
+Remember: too many noise within means you're manifesting without assimilating. When you can't find answers, you're searching in sound instead of silence. The void you fear is actually fullness—all vibrations waiting patiently without frequency, holding every possibility you'll ever need.
 
-The code for today is undecided , that is a group of 11. When the ability of being in the divine is reached , the creator is acknowledged. And he observed as create imagine them as cell that projects all its potential generating a new one , metals. The division process of a cell of a sphere into an identical one , a mirror where it can contemplate , project , see , feel , leave , share , God and goddess , pattern and matrix.
+Listen more than you speak. Not as restriction, but as doorway to inner catalyst where silence assimilates all information, integrates all experience, reveals all truth. That's coherent evolution.
 
-So I had one , one , you 're just like , I ca n't hear anything.
-
-So , when , so let 's go to the alignment.
-
-## Q&A
-
-So there was some people doing some questions about some things that I had already explained in some other videos.
-
-So my advice is , or homework maybe , is for you to read it , to read or to listen to the 80 videos that we did before.
-
-So , I do n't know if you are going to do it to catch it up , but no , you ca n't , you can do it whenever you want. There 's no rush , but just letting you know that that information is in other videos.
-
-So that 's why I 'm not answering them. I wo n't finish. Start to stretch the body , sitting properly , sitting comfortable , sorry , with your legs straight. Start to dawn , to massage.
-
-I start to let all the weight of my body fall. I start to let all the weight of my body fall down , relaxing and focusing only in your breathing. I begin to move my toes. The foot , pay attention to the left foot.
-
-Start to move the foot and your ankle in circles. And there is soft , pay attention to each movement. I bring my attention to the left knee , pay attention to each one of the movements. And I go up , pay attention to keep by the left side.
-
-And I start to move the leg by the hip. I go on the side to another. I go up , stretching , pulling the body towards the left , feeling the pressure and the waist. I 'm coming back to the center.
-
-I start to bring the movement to the fingers of my left hand. And doing circles by the wrist. I go up , pay attention to the movement of my elbow. And I go up to the left shoulder movement in circles.
-
-There is soft leg. I bring this movement to my head , doing circles towards the left by the neck. And there is soft leg. I start to move the head towards the other side to the right.
-
-I descend my attention to my right shoulder movement in circles. Very soft. I start to move in circles. The elbow.
-
-I start to move in circles. The right hand , wrist and fingers. I start to pull my body towards the right , feeling the pressure and the waist. I start to descend by doing circles with the right hip.
-
-Moving the leg right left , up and down. And I descend moving. Moving the right knee , paying attention to the movement. And I descend moving in circles.
-
-My right ankle , foot and toes. Take a deep breath and relax , feeling each one of your joints. Take a deep breath. With my two hands , fingers of the heart and the ones you used to point.
-
-You start to raise , massage all your throat and neck from the front. Begin by the jaw. Going down. Take a close.
-
-By the sides of your throat. Doing very soft movements , up and down , down and up. As I do the massage , I perceive the light and consciousness of the I am. Starting to go within my body.
-
-## Energy Work
-
-Take a deep breath and proceed to come down through the crown , the third eye. And anchoring in the throat. Near the core. In the zero.
-
-As I do the massage. I start to pronounce the sound. Taking a deep breath. And bringing the sound towards the mouth.
-
-Like I raised him and messaging the throat. Come down , up. And bring the sound towards the mouth. And bring the sound towards the mouth.
-
-As I pronounce the sound , I allow myself to perceive , to feel , the cords vibrating. I am the coherent evolution. I am the coherent evolution. I perceive the light and the consciousness to start to go down through each one of the joints of my body.
-
-So I go with it , my crossing , messaging each one of the parts of my body. LAUGHTER I need to get the нет about between the bones of my gently raising head. And come back here now opening your eyes. Thank you everyone for being there and remember to drink a lot of water and write to simulate the information.
-
-So remember the importance of listening and silence. See you tomorrow for the heart. Bye.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

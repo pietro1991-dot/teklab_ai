@@ -1,262 +1,307 @@
 ---
-title: "Day 54 - I Can - Personal Power"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
-day_number: 54
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 54
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-
-practice_elements:
-  chakra: "Crown"
-
+title: "Day 54: Impulse - The Heart's Eternal Rhythm"
+teacher: "Matias de Stefano"
+series: "365 Days: The Path of I Am"
+day: 54
+cycle: "Virgo - The Body"
+focus: "Heart Chakra - Physical Week"
+theme: "Understanding How Heart Impulses Move Life"
+date: "2023-08-24"
+tags: [heart, impulse, rhythm, circulation, love, heartbeat, cardiovascular, desire, motivation]
 ---
 
-# Day 54 - I Can - Personal Power
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+# Day 54: Impulse - The Heart's Eternal Rhythm
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+**Morning Intention:** "I honor the impulse of my heart - the eternal rhythm that moves me through life."
 
-## Introduction
+**Key Affirmation:** "I am the greed of sensations."
 
-Hello. Good morning , good evening , good night. Good night for me. I will take the glasses because otherwise there 's the reflection of the light and you can not see me.
+**Soul Pattern Vibration:** V
 
-The problem will be that I can not see you.
+**Physical Focus:** Heart chakra, cardiovascular system, blood circulation
 
-So I 've been reading about , well I 've been reading many comments that a lot of people were doing according to what we are working these days about remembering things from the past , from our childhood and many of you were saying that it is very difficult to remember or you do n't remember anything from your childhood and sometimes this is because your mind interprets that what you have lived in your childhood is something that is not useful for you today.
+**Meditation Practice:** Heart emergence - feeling the first pulse of life
 
-So and also because maybe it was something bad or that can harm you.
+## Overview
+
+The **heart** is the first organ to fully function in the womb. Before brain develops consciousness, before lungs breathe, the heart begins its eternal rhythm. This **impulse** - the heart's beat - is the fundamental drive of life itself.
+
+**Impulse** (Latin: *impellere* - to push, drive forward) means the force that moves you. Not random urges, but the **heartbeat of desire** that propels you through existence. Everything in life pulses: expansion/contraction, systole/diastole, giving/receiving.
+
+The heart teaches **circulation**: what you receive must be given; what you give returns to you. Blood flows out through arteries, returns through veins. Love works the same way - hoarding it causes stagnation; circulating it sustains vitality.
+
+**Today's focus:** Understanding how your heart's impulses - not your mind's plans - guide your true path. Learning to trust the rhythm of desire, knowing when to push forward (systole) and when to receive (diastole).
+
+## Core Teaching
+
+### The Heart: First Organ, First Impulse
+
+**At 22 days in womb:** Heart begins beating before any other organ functions. This makes it the **prime mover** - your first experience of self is rhythmic pulse, not thought.
+
+**Before consciousness:** You felt heartbeat
+**Before breathing:** You felt heartbeat
+**Before seeing or hearing:** You felt heartbeat
+
+**This means:** Your most fundamental nature is rhythm, pulse, impulse - not logic or analysis. The heart knows before the mind understands.
+
+### Impulse: The Drive That Moves Life
+
+**Impulse is not:**
+- Random desire
+- Uncontrolled urge
+- Irrational whim
+
+**Impulse is:**
+- The heart's wisdom expressing as motivation
+- The fundamental drive toward life and growth
+- Rhythmic movement between action and rest
+- The force that pushes blood (and consciousness) forward
+
+**Every impulse has rhythm:**
+- **Systole:** Contraction, pushing out, giving, action
+- **Diastole:** Expansion, receiving in, resting, integration
+
+**Most people:** Push constantly (all systole, no diastole) → burnout. Or rest constantly (all diastole, no systole) → stagnation.
+
+**Health requires:** Honoring both phases of heart's rhythm.
+
+### Circulation: The Law of Flow
+
+**The heart demonstrates circulation:**
+- Receives oxygen-poor blood from body
+- Sends it to lungs for renewal
+- Receives oxygen-rich blood from lungs
+- Sends it to body to nourish
+
+**No hoarding.** Constant flow.
+
+**Apply to life:**
+- What you receive (love, money, knowledge, energy) must circulate
+- Hoarding causes stagnation - like blood pooling instead of flowing
+- Giving depletes you only if you block receiving
+- The problem isn't giving too much - it's refusing to receive
+
+**The spiritual trap:** "I am a giver." If you only give and refuse to receive, you create imbalance. The heart receives AS MUCH as it gives. You need both valves working.
+
+### Greed of Sensations: Why We Seek Experiences
+
+**"I am the greed of sensations"** - today's affirmation reveals truth:
+
+Your heart drives you to **feel everything** - joy and pain, love and heartbreak, excitement and peace. This isn't weakness; it's purpose.
+
+**Why the heart is greedy:**
+- Each sensation is data about what it means to be alive
+- Experiences expand capacity to feel
+- Through feeling, consciousness knows itself
+- The I Am seeks to feel everything through you
+
+**Don't judge your impulses toward experience.** The desire to feel, to know, to experience deeply is the heart's natural impulse. The question isn't "Should I want this?" but "Does this impulse serve my growth or avoid it?"
+
+### Heart Problems Reveal Circulation Blocks
+
+**Cardiovascular issues indicate:**
+- Where you're blocking flow (giving but not receiving, or vice versa)
+- What you're hoarding (emotions, experiences, energy)
+- Where rhythm is disrupted (too much action, too much rest)
+
+**Common patterns:**
+
+**Heart attacks often occur in those who:**
+- Never stop working (constant systole, no diastole)
+- Won't ask for help (block receiving valve)
+- Suppress emotions (block heart's expression)
+
+**Low energy/circulation issues in those who:**
+- Won't take action (constant diastole, no systole)
+- Fear giving (hoard resources)
+- Avoid intense sensation (suppress heart's impulses)
+
+**The heart is literal teacher:** Physical symptoms mirror emotional/energetic patterns.
+
+### Desire: The Heart's Language
+
+**Desire** (Latin: *de* + *sidere* - from the stars) means "longing for what comes from stars" - your cosmic origin calling you toward experience.
+
+**Two types of desire:**
+
+**1. Heart's True Impulse:**
+- Aligned with your essence
+- Creates expansion even when challenging
+- Leads toward growth
+- Feels like "pull" or magnetic draw
+
+**2. Mind's Fabricated Want:**
+- Reaction to fear or lack
+- Creates temporary satisfaction then emptiness
+- Leads toward distraction
+- Feels like "push" or forced effort
+
+**How to distinguish:** 
+- True impulse persists even when difficult; false want disappears when uncomfortable
+- True impulse energizes even in challenge; false want depletes
+- True impulse aligns with your rhythm; false want fights it
+
+### Heartbeat = Life's Metronome
+
+**Your heartbeat sets the tempo** for your entire life:
+- Fast rhythm → high-energy, action-oriented life
+- Slow rhythm → contemplative, deep-processing life
+- Variable rhythm → adaptable, responsive life
+
+**There's no "right" heartbeat speed** - only YOUR right rhythm.
+
+**The practice:** Instead of forcing yourself into others' rhythms (work schedules, social expectations, productivity demands), **attune to your natural heartbeat** and structure life around it.
+
+## Practice: Heart Emergence Meditation
+
+**Duration:** 25-30 minutes
+
+**Preparation:**
+- Place hand on heart
+- Feel heartbeat for two minutes
+- Notice rhythm: Is it fast? Slow? Regular? Variable?
+- Accept it exactly as it is
+
+**The Meditation:**
+
+### 1. Return to Mother Cell (4 minutes)
+- Find beautiful cell within your body
+- Enter, floating in its plasma
+- Touch DNA spirals
+- Recognize: In mother's womb, in ovary
+
+### 2. I Am Arrives (4 minutes)
+- See I Am approaching as spiral spermatozoid
+- It touches cell - magnetic shift, light
+- Enters through crown → third eye → throat → **heart** (pay special attention)
+- Spreads to plexus → sacrum → root → knees → feet
+- Cell divides: I and Am
+
+### 3. First Heartbeat - The Prime Impulse (7 minutes)
+- Cells multiply: 2, 4, 8, 16, 32...
+- At 22 days, a cluster of cells begins to pulse
+- **Feel it:** Lub-dub, lub-dub, lub-dub
+- This is FIRST ACTION in your life - not thought, not breath, but **heartbeat**
+- Sound "OM" with each heartbeat
+- The rhythm organizes everything else:
+  - Brain forms around this rhythm
+  - Lungs will sync to this rhythm
+  - Entire body structures itself to this pulse
+- Witness: Your heartbeat is older than your consciousness
+
+### 4. Circulation Begins (5 minutes)
+- Blood vessels form - arteries and veins
+- Heart pumps:
+  - **Systole** - contraction, pushing blood out to body
+  - **Diastole** - expansion, receiving blood back
+- Feel this rhythm in your meditation:
+  - Give (systole) - send energy out
+  - Receive (diastole) - draw energy in
+- Balance them - equal power in both
+- Recognize: You are circulation itself
+
+### 5. Heart Emerges to World (5 minutes)
+- Crown, third eye, throat emerge from womb
+- **Heart emerges** - CRITICAL MOMENT
+- Your heart meets the air, the light, the world
+- It continues beating - same rhythm, new environment
+- Feel: Your heart's impulse carries you through every transition
+- Rest of body still inside mother
+- **Speak:** "I am the greed of sensations"
+
+### 6. Integration (3 minutes)
+- Hands on heart: "I trust my heart's impulse to guide me"
+- Feel heartbeat in present moment
+- Recognize: Same heart that beat 22 days in womb beats now
+- Massage body, stretch, yawn
+- Open eyes when ready, maintaining heart awareness
+
+## Key Insights
+
+- Heart is first organ to function - heartbeat precedes consciousness
+- Impulse isn't random urge but fundamental drive of life force
+- Every impulse has rhythm: systole (action/giving) and diastole (rest/receiving)
+- Circulation requires both giving AND receiving - hoarding either causes stagnation
+- True desire pulls you toward growth; false want pushes you from fear
+- Heart problems often mirror blocked circulation of energy/emotion in life
+- Your heartbeat sets your natural life tempo - honor it rather than forcing others' rhythms
+- "Greed of sensations" is the heart's purpose - seeking every experience of aliveness
+- Cardiovascular system teaches: what flows stays healthy; what stagnates becomes ill
+- The heart knows before the mind understands
+- Desire comes "from the stars" - cosmic origin calling you toward experience
+- Balancing action and rest = healthy rhythm; constant action or constant rest = imbalance
+
+## Integration
+
+### Daily Exercise
+
+**Morning:** Place hand on heart for three minutes. Feel rhythm. Ask: "What is my heart's impulse today? Systole (action) or diastole (rest)?"
+
+**Throughout Day:** 
+- Notice when you're in systole (pushing, doing, giving)
+- Notice when you're in diastole (receiving, resting, integrating)
+- Are you balanced? Or stuck in one phase?
+
+**Evening:** Hand on heart. Ask: "Did I honor my heart's rhythm today, or did I force myself into someone else's tempo?"
+
+### Applying the Teaching
+
+**With Burnout/Exhaustion:**
+- You're in constant systole (all giving, no receiving)
+- Practice receiving: Accept help, take rest, let others give to you
+- Notice resistance to diastole - what makes you uncomfortable about receiving?
+- Set timer: Every 90 minutes, switch from action to brief rest (honor the rhythm)
+
+**With Stagnation/Low Energy:**
+- You're in constant diastole (all receiving, no giving)
+- Practice systole: Take one concrete action toward a goal
+- Notice resistance to action - what makes you avoid the "push"?
+- Start small: One systolic action daily, then build rhythm
+
+**With Decision-Making:**
+- Stop asking: "What should I do logically?"
+- Start asking: "What does my heart's impulse pull me toward?"
+- Distinguish:
+  - Heart's pull = persistent, energizing, aligned even when challenging
+  - Mind's push = temporary, depleting, forced or reactive
+- Trust heart's impulse even when mind doesn't understand yet
+- The heart knows before the head catches up
+
+**With Desire:**
+- List current desires
+- For each, ask: "Does this pull me forward (true impulse) or push me away from something (false want)?"
+- True impulses: Honor and pursue them
+- False wants: Investigate what fear or lack creates them
+- Don't suppress desire - understand whether it's heart's wisdom or mind's distraction
 
 ## Q&A
 
-So your mind is kind of like , says , I do n't need to remember this. And maybe you do n't have anyone to ask to no one in your family. Maybe you have an age that you do n't have anyone else from your childhood.
+**Q: How can I trust my heart's impulses when they've led me wrong before?**
+A: Distinguish between heart's TRUE impulse and mind's fabricated desire disguised as impulse. True impulses persist, energize, and align with growth. False desires fade when uncomfortable, deplete you, and distract from growth. You followed mind's wants, not heart's impulses.
 
-So do n't worry about that. Do n't worry about not having who to ask or your mind. Just do n't remember. I invite you to make like a kind of imagination process in which you picture yourself being in your home , in your childhood home , lecturing the faces of the people that you lived with.
+**Q: What if my heart's impulse conflicts with my responsibilities?**
+A: Often the conflict is between your heart and others' expectations (not actual responsibilities). Real responsibilities can be met while honoring heart's rhythm. Question: Are these true responsibilities or adopted "shoulds"? Can you meet them at YOUR tempo?
 
-And just walk around like imagining and your memories will come up.
+**Q: I have irregular heartbeat. What does this mean spiritually?**
+A: Physical irregularities often mirror energetic patterns. Irregular rhythm may indicate difficulty finding YOUR pace - adapting too much to external demands, losing your natural tempo. Work with doctor for physical; work with meditation to rediscover your authentic rhythm.
 
-Okay , so it 's just about imagination and allow yourself to go through those memories.
+**Q: How do I know if I'm blocking receiving?**
+A: Signs of blocked receiving: Difficulty accepting compliments, help, gifts, or rest. Belief that receiving makes you weak or indebted. Chronic exhaustion despite "giving" a lot. The heart MUST receive to give - if you're depleted, your receiving valve is blocked.
 
-So take your time but eventually you will remember.
+**Q: Can I change my heartbeat rhythm if I don't like it?**
+A: You can influence it (exercise strengthens, meditation calms), but your baseline rhythm is your nature. Instead of changing it, honor it. Fast heartbeat? Structure active life. Slow heartbeat? Create contemplative life. Fighting your nature exhausts you.
 
-So today we have the issue that we had to discuss today is the impulse related with the heart.
+**Q: What's the difference between heart impulse and emotional reactivity?**
+A: Impulse is deep, consistent, aligned with essence. Reactivity is surface, temporary, response to trigger. Impulse pulls you toward; reactivity pushes you away from. Time reveals difference - impulses persist, reactions fade.
 
-Remember that today we are in the day of heart related to the physical body and inside the mouth of Virgo which is related to the concept of I analyze.
+**Q: How do I practice diastole if life demands constant action?**
+A: Microdoses of receiving: Three conscious breaths (receiving air), drinking water mindfully (receiving nourishment), accepting one compliment fully (receiving acknowledgment). Diastole doesn't require hours - requires willingness to RECEIVE in moments.
 
-So we all may agree that the heart is the one that is pulling constantly for the body to leave and pulling everything through the body.
-
-So the reason why the heart is so important is because basically what the heart is doing is to by this beating process that it has , it is like pushing the blood from the veins towards the arterial.
-
-So the blood is moving around the whole body.
-
-The reason why it does this is to bring to every cell to every part of the body , all the minerals , the oxygen , the nutrients that you may need.
-
-So this is kind of the distribution of the resources through all the body.
-
-So the heart is the one that basically is pushing around and distributing all the resources for the body to be alive constantly.
-
-So basically the reason why the heart is beating is because of the central nervous system because the electrical pulses that the nerves send to the heart is like electricity that when the nervous system pushes this electricity towards the muscle of the heart is like and suddenly the heart is like pushed inside like tension and then when the electricity stops it expands.
-
-So contraction and expansion is like a constant electricity from the nervous system towards the heart and that 's what makes the beating.
-
-So basically the nervous system that makes the heart beat is the parasimpatic system which is the one that takes care of all the parts of your body that you do n't need to think about. The function of each part of your body , each organ , you do n't think about it but the parasimpatic aspect of the nervous system is working so you could have.
-
-So you could leave.
-
-So psychologically we could call the parasimpatic system as the subconscience which is the system of yourself that is like kind of working behind us and we can not control it. It 's like we have all these things working around and it constantly makes us be functional but we can not handle that.
-
-So basically the parasimpatic system from the nervous , from the central nervous system is almost the same as talking about psychologically about the subconscience. Basically the parasimpatic system is the one that makes the body the heart beat by pulses through the impulses.
-
-So impulse means a pulse that goes within that goes from somewhere within.
-
-So it starts to push in order to make the pulses of the body. What I am saying is that pulse of our heartbeat and every organ is imposed by the nervous system. The parasimpatic. But the parasimpatic system at its best is imposed by another impulse that would be the vibrational.
-
-The constant vibration that is produced between all the molecules of the body.
-
-So the pulse of the neurological system is also imposed by something else that we would call vibration and from where this vibration comes from , from the molecules that violate in between each other to make the togetherings , to make the alignments and create the chemical process. Vibration comes from the resonance of the atomic reality. As deep we go , we can recognize that everything is connected through this pulses of resonance.
-
-So everything that is outside is pushing that resonance that sounds as that vibration towards me , implying my pulses. And also what I am vibrating and resounding within is also pulling towards the outside. What this means is that the physical reality is a constant pulse that connects everything through pulses. We are a constant reaction implying each other.
-
-So basically everything that we think feel perceived due in our life since we are born in this reality , in the physical reality , basically is a reaction of all this connection from all the this vibration that we receive , that we receive constantly from the outside. And all this information is being storage in the subconscious. For sure you have heard that all the information that your mind can not think about , you can not reason about it. All this data that comes from the environment usually goes to the subconscious.
-
-We have heard about all this information that is in the subconscious. But what we have to acknowledge is that the subconscious is exactly the parasympatic system.
-
-So remember everything that is around you is emitting pulses.
-
-So these pulses are sending a resonance that comes to me as vibration. That vibration imposes the same resonance of vibration within our body that creates electrical pulses.
-
-So from those pulses , electrical signal is sent through the nervous system. And this is how this electrical pulse discharge on the tissue of the organs that makes it work.
-
-So this is why when we say I fill this within , it 's not separate from the outside. Nothing that we believe that is within us and only within ourselves is really from ourselves. Because everything is connected in a network that is connected through pulses.
-
-So basically this is why the first words that you have heard when you were a child , the first touches the first words that you have heard , the colors you have seen , the smells , you have smell , smell. Everything that was around you was shaping your inner aspect , yourself.
-
-So this is why not only by genetics , but also by the environment , we can be so similar to the people we have lived with when we were a child. And the reason why is this , why it 's so important to understand this seven years , this first feelings is because everything that you are now is the product of everything that you have lived and received. In the first seven years of your life , that now is encoded in your parasympatic system and your subconscience. And this is why we have to make it conscious.
-
-We have to be aware of this. And pay attention to this. You should n't be aware of this to heal it. You should be aware of this just to be conscious about this.
-
-The difference is in the intention of how I say the word. Usually when we say I 'm going to heal my history , the reason why I want to heal it is because I want to set myself free from history. Be sincere with yourself , is n't it? Is n't like that?
-
-So suddenly you say I will make a therapy of healing so I can set myself free from all these trauma from childhood.
-
-So suddenly you go to all these therapies and you do all the healing process. Suddenly a few years later I say to you , hey , what have you done when you were a child? And we work on this and suddenly all crying. But why I 'm feeling this?
-
-Because if I did the healing before and the reason is because to heal is not to be aware of this. Let 's do a comparison of the difference. Let 's picture this idea. For example , you just go with your bicycle.
-
-You are willing to learn how to ride a bicycle.
-
-So you are a kid and you take your bicycle and you just want to go. And when you make the first movements , you fall down to the floor and you get hurt. When you get hurt , somebody comes and says , I will make a cure.
-
-Okay? A cure. This is to put alcohol to this effect. And then you put some heart to say some , I do n't know the words for this.
-
-Some stuff. Let 's say stuff in the wound.
-
-So you could be protected from the infections. That 's what we call cure to cure something.
-
-Okay? And then manages. Thank you.
-
-So you put some manages and that 's what you call to be cured. But then you have a long process like kind of a month for the healing process.
-
-Okay?
-
-So you have to heal.
-
-Okay?
-
-So healing takes long time. Once you have healed , once you have healed , what do you do? You never ride a bicycle anymore? No.
-
-You take your bicycle and start again. And maybe you will fell down again , but it does n't matter. Each time will get better.
-
-So you go and you go. And suddenly you are accomplished to get the balance and you can go. But why have you learned how to ride a bicycle? You have learned because not only you found the balance , but also because you made a lot of mistakes and you fell down many times.
-
-The next step would be that now I have a goal to go.
-
-Now I know how to go in bicycle , how to ride it.
-
-So I just put a goal and a destiny. And then I go with the bicycle. I just interpret it as the bicycle as something to move.
-
-Okay? But my sympathetic system of the nervous system , okay? The sympathetic system says you know what to do. Take your bicycle , which is a tool and just go.
-
-You do n't think anymore about what happened 20 years ago when you fell down. You just go. Your sympathetic system is thinking about to just go ahead. But there is another system that para-sympatic system.
-
-And that para-sympatic system is the one thinking constantly when you took your bicycle is thinking I 'm going to fall down. I 'm going to fall down. If something happens , I 'm going to get hurt as I did so many times.
-
-So he , the sympathetic the parsympatic system remembers everything that happens to you in your life remembers everything when what happened where you have the wound , how you healed it.
-
-So it says to the topological system , take care. Be aware because maybe something could happen. That 's happened to us before.
-
-So the sympathetic system is just thinking about the future and I 'm going there. But the para-sympatic system is just thinking about the past is thinking about if something happens could happen the same that happens to us 25 years ago.
-
-So we have to be aware of this.
-
-The reason why healing is not how you accomplish the whole process is because the process of healing was just for that wound. But you heal the wound. The process ended.
-
-So but the information of everything that happened because of the wound is n't the subconscious in the para-sympatic system. All the information of everything that happened is still with you because that what happened in the in this system helps you to keep going to keep moving.
-
-So when we do healing process in our life , what we do is to go to this wound here that I did with the bicycle. Imagine that some years ahead after what happened some many years of the healing , someone says to you , hey , let 's go to go to let 's go to ride bicycle. Let 's go to ride bicycle. And that other person shows to you a video of someone falling down from a bicycle.
-
-And suddenly you say that happened to me too. That 's the para-sympatic system.
-
-So in that moment is when we say why I 'm feeling this if I have healed that , if I if I did the healing process , why I 'm feeling the same. And I feel it because that information is still in me. It 's still here with me in my body. In the para-sympatic system.
-
-So this is why we have to make healing process. All the healing that you may do , they are useful because we always have some wounds that they need to be healed. The healing process helps us to to heal many wounds but not necessary mixes aware , mixes conscious about why it happened , why we fell down from bicycle.
-
-So this is why if healing is to try to set you free from the trauma to be aware and to conscious , to be conscious about why it happened is to understand what is the use of the use for that today. Because that thing may be what I am. The understanding would be this that to heal is the process of going back and to heal the wound because maybe I still feel the pain from that falling down but to be aware and to make conscious about this is to understand that I fall down in the past because I was trying to write the bicycle.
-
-So now I know how to write a bicycle because of that. That is to make a trauma conscious , useful.
-
-So basically everything that we have lived in that for seven years of our life are those things that made us be who we are now.
-
-So we need to understand. We need to understand.
-
-So the goal is not to to set myself free from the past is to give to the past a use , a purpose. This is why we are going to the past.
-
-The reason why we are going to the childhood is because our childhood was the impulse for our heartbeat today.
-
-So this is why the question for today is what is that I wanted to be when I become a group? Besides all the things that may happen to us in the past , there is one key impulse that is the most important of all. That is what our child pushed for us in the future.
-
-So the question would be , are we now what we were expecting to be as a child? I am the impulse of the impulse of my inner child. I seek it. This is the theme of the oil.
-
-So that is the issue for today.
-
-So this is why we have to go back to the past and to think about everything that we have lived in the past to understand what we are now. By going into the past , we can see if we have been following that impulse or we have been lost from that impulse. I think there was nothing else to say about this.
-
-So also what I wrote in the blog through my own experience is how from our childhood , everything that we have lived and learned and experienced from the outside , maybe by reading , by watching the To , by someone that was like our childhood hero or herring or teacher , master or whatever. As a child , maybe they had shaped what we decided for us to be in the future.
-
-So also one of the things is that by acknowledging that dream that our child has had in the past , helps us to understand where we are , if we had accomplished or not , what we wanted to become. And if we did n't , what we have to do is to try to take our inner child again outside and try to do as much as we can in order to make it feel , to try to do what we stopped doing to be happy as a child because we have a long life ahead still.
-
-So we need to recreate that dream from the child ahead.
-
-## Daily Practice Elements
-
-So basically we have to become ourselves an impulse for a new pulse in the future. Let 's go to the information for today. The vibration of today is C. The statement for today is I am agreed of beatings.
-
-As always we start by stretching the body , carrying the body and warning. I relax the body softly. I let the weight of my shoulders fall down and the whole body. Take a deep breath and focus only on your breathing.
-
-I allow myself to feel the oxygen coming through my nose towards my lungs , heart , blood , organs and muscles. Take a deep breath and dive deep within your body.
-
-Now , seeking for the most beautiful cell that calls your attention and go to it until you feel it in front of you. Very big as a sphere. Take a deep breath and dive within the mother cell , feeling your body floating in the seat of the plasmid. And with your hands touch the chromosomes within and angle the chromosomes until you feel the chain of NA , curling around your fingers , acknowledging that all of that are the codes that makes you be who you are.
-
-Become aware that now you are as in sign of an egg in the uterus of your mother and over your head. You can feel the eye am coming to you as a spiral in the shape of an espermatoid. Receive how the eye am , this espermatoid touches the sphere , the egg where you are , changing the polarity of the cell , enlightening as a sun. Take a deep breath and perceive the spiral of the eye am coming inside the cell.
-
-## Energy Work
-
-Through your crown , their eye , throat , heart , and plexus , and from there it sets free all genetic material to the scrum , root , knees , and feet. As I feel the energy of the eye am within , I feel how the cell starts to divide. It splits into one where I find myself as the eye and the other one in front , the am. In this process of meiosis , metiosis , I can say I am.
-
-Take a deep breath and recognize that these two cells starts to divide in four , eight , sixteen , and so on until I perceive that in its expansion starts to create the organs that shape my body. I perceive how these cells starts to create my heart , the brain , the mind , the stomach , the intestines , the liver , the pancreas , the lungs , the times , thyroid , and each one of the organs of myself , and by the muscles and bones , all this structure of my body. I start to perceive my feet , my legs , hands , arms , and my head. And I start to expand this information of the impulses through all my body by the sound.
-
-See , see , see , see , see , see. Keep breathing in the sound. I keep pronouncing it. I decide to perceive the formation of all my physical body.
-
-And with this singing , I impulse myself to seek for light outside my mother. See , see , see , see. I keep pronouncing it. Singing , I perceive the light from the exterior in my heart.
-
-Take a deep breath and recognize that now comes the hardest part , your shoulders and chests and back must go out. This is the painful part. And now , all the trauma , all the pain that you have lived , everything , now will become useful , everything worth it. Take a deep breath.
-
-Feel the light shining on your shoulders , chests and back. I see you expand yourself taking a very deep breathing. Feel for the first time your heartbeat in front of the light of the sun. Rise your chests , recognize everything worth it.
-
-I am agreed of pulses. I am agreed of pulses. I am agreed of pulses. Take a deep breath and take your hands to your heart.
-
-To feel those pulses. I feel in this pulse in orbit the impulse of my inner time. I open myself to perceive my heartbeat and each one of the pulses as if I am a child again. And I set my intention to expand a new greed of pulses from my heart.
-
-I am agreed of pulses. Take a deep breath and I start to bring this consciousness through my body , crossing , stretching and joining. And then I come back here and now , hoping in my eyes. Good.
-
-So , I always drink a lot of water , rest as much as you can and see you tomorrow at the same time for the plexus. Bye.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+**Q: What does "greed of sensations" teach us?**
+A: Your heart's purpose is feeling everything - this isn't selfish indulgence but existential assignment. Through your sensations, the I Am knows itself. Don't judge your desire to feel deeply. Judge whether specific sensation serves growth or avoids it.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+*Tomorrow: Day 55 - Wisdom and Knowledge*

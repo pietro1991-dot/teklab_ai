@@ -1,316 +1,388 @@
 ---
-title: "Day 141 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 141 - Antarctica and the Crown Chakra"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 141
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: "2025-11-16"
 document_type: "transcript"
 language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 141
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - breathing exercises
-
+keywords: ["Sagittarius", "Crown Chakra", "Antarctica", "Aquarius Era", "December 21 2020", "Christos Energy", "Instagram Recovery", "Resurrection", "Physical Week", "Earth Chakras", "White Continent", "Neutrality", "144000 Code"]
 practice_elements:
+  vibration: "Thaw"
+  statement: "I am the celestial spirit"
   chakra: "Crown"
-
+  code: "Color Violet - highest visible light wavelength, spiritual plane perception, consciousness connection, divine wisdom, spiritual transportation, crown chakra activation bridge"
 ---
 
-# Day 141 - Consciousness Work
+# Day 141 - Antarctica and the Crown Chakra
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** Day 141 Transcript - Sagittarius Month, Crown Chakra, Physical Week (First Day Post-December 21 Conjunction)
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+- **Chakra Focus:** Crown
+- **Week Theme:** Physical Week - Sagittarius Month
+- **Main Topic:** Antarctica as Earth's Crown Chakra
+- **Vibration:** Thaw
+- **Statement:** I am the celestial spirit
+- **Code:** Color Violet - among the highest light wavelength that we can perceive. The perception of violet color relates with the spiritual plane, with consciousness, with the highest wisdom of a living being. Therefore the light of violet plane is a reference of spiritual transportation, connection with the divine. Therefore a bridge that activates the crown chakra.
 
-## Introduction
+---
 
-Hi everyone , how are you? Good afternoon , good evening , whatever you are. I do n't know how you are feeling this day. This is our first day in the Aquarium time and Aquarium era.
+## Overview
 
-How are you feeling? Well , Aquarium time. It 's not exactly Aquarium time. But as I 've been saying this week , we are just smelling the air with our nose outside the window.
+Today marks the first day after the December 21, 2020 Great Conjunction - the beginning of feeling the Aquarius energy. We begin Physical Week by connecting with Antarctica, the crown chakra of planet Earth. This teaching explores resurrection energy (recovering the Instagram account), the Christ consciousness available to all beings, and understanding Earth's chakra system through its continents. We learn that Antarctica represents neutrality, freedom of spirit, and the crown for the entire Earth - not for any individual human.
 
-So we are kind of feeling it.
+## The First Day After December 21, 2020
 
-So by the moment , I am feeling that because the air from the outside just made my hair look like a whole lady from the 70s. This is the Aquarium air in my head. You can see it.
+### Entering Aquarius Time
 
-So I want to share two things , basically related to what happened yesterday.
+**"This is our first day in the Aquarium time and Aquarium era."**
 
-So I want to share two things about yesterday. One is that I got my Instagram account again. And the second thing is about the channelings that happened yesterday and how it was. Before I explained what was happening , I just want to thank you all for yesterday because I know that normally we are 3,000 people every day in the life streaming so thank you for all of you who are doing this every day.
+We're now smelling the Aquarius air with our nose outside the window - beginning to feel it. The energy is already affecting physical manifestation (like Matias's hair standing up like a "whole lady from the 70s").
 
-But I know that there are so many people that do their lining and they watch this in other times because of the job or whatever that you have to do.
+### Recap of the Great Conjunction Alignment
 
-So thank you. But yesterday we were all together last year until more than 1000 people at the same time.
+Yesterday's alignment brought together over 11,000 people simultaneously - an unprecedented gathering holding the planetary network together.
 
-So thank you all for being yesterday , connecting and holding this network all together. Because we were so many working together.
+**Key messages from the channeling:**
+- The Christic energy activated
+- Multiple beings aligned, all representing the Christic consciousness
+- The code **144,000** explained
+- Preparation for three nights of transformation
 
-So thank you very much.
+## The Instagram Resurrection Story
 
-So one of the things that they seem silly but it 's not really silly is about my Instagram account.
+### Losing the Account - Losing the Concept of Self
 
-So two or three months ago I lost my Instagram account , my personal Instagram account by the hands of a Turkish hacker.
+Three months ago, Matias lost his Instagram account to a Turkish hacker. This wasn't about losing followers or material things - it was a spiritual message:
 
-So this hacker took my account and immediately I recognized that what happened was something for it was not about losing material or losing the followers. It was about losing the account. It was about a message that told me you have to rethink who you are. You have to rethink how you show yourself to the world because you were showing yourself in a way with a Matthias that was not complete.
+**"You have to rethink who you are. You have to rethink how you show yourself to the world."**
 
-So I needed to accept many other things of my own , of myself in order to be able to share from a different perspective , my own self. One of the things that happened to me was that I was really scared about the idea of being someone different to transcend myself. Because the idea of transcluding myself for me was like , okay , will I become someone different and I will like , I do n't know , let behind the Matthias that I know myself , I do n't want that.
+The account represented an incomplete version of self - needing to accept many other aspects to share from a different perspective.
 
-So I was just afraid of letting something from my own be behind. And so that 's why I started to receive all these messages of you have to die , you have to let yourself die. And I was really afraid about that. But I guess that we all have to face someday this idea of the conceptual idea of dying in order to become something more to be something different.
+### Fear of Dying to Become Something More
 
-So we all have to go through this concept of death. This important is to leave this moment of letting go what you expect , because what I left in the day of the eclipse was the idea of myself , the idea that I projected in myself. That 's the thing that I was being a friend of living behind. When I allow myself to die in this concept , it was like not to let in something aside , but it was like the bathing in a new concept , like for myself again.
+**The fear:** "Will I become someone different and leave behind the Matias that I know myself?"
 
-We have to experience that anytime in our lives. For some people , you would live in an Ayahuasca ceremony , some other people in the pyramid , some other people in an accident , in an depression.
+The message kept coming: **"You have to die. You have to let yourself die."**
 
-So you will have to figure out your own way to leave that perception of death , of your own death , of yourself dying. And from there , you can create again.
+**This conceptual death is something we all must face someday** - letting go of what we expect from ourselves, allowing the old concept to die so we can create ourselves again.
 
-So the main thing , why I just was n't allowing myself to recognize my entire power from within , and I was afraid to let in behind the other one. It was about this concept that we all are trying to activate again , which is the Christ , the concept of the Christ. The idea of the Christ comes from the idea of the Messiah , the Messiah of Messiah , is the one that has been sent.
+### Accepting the Christ Consciousness
 
-So the Messiah is a concept that was related to someone that has been sent to do something , to save , to guide , or whatever.
+The resistance was about accepting complete inner power and not being afraid to recognize the entire power from within.
 
-So in the Sanskrit and the ancient traditions , we have the same concept as the avatar. The avatar is this concept of someone downloading itself from the divine into the matter , representing the divine into the matter. That 's an avatar.
+**The concept of Christ** relates to:
+- The Messiah (one who has been sent)
+- The Avatar (divine downloading into matter)
+- The representation of divine into matter
 
-So we used to put avatar and Messiah , the Christ all together. Like if they are only one concept , so one person.
+**The critical teaching:**
 
-So throughout this story , the history , what we have done is to take this concept of the avatar and the Messiah are the Christ , and we put all the intention on them , because this avatar and message and the Messiah , their message used to be I am the life , I am the love , I am the path.
+**"We have polarized the concept of the I AM. We put it in someone - that's the biggest mistake we are doing every time."**
 
-So that 's why the people from the outside that sees the reality from the duality , from the polarity , they usually think , oh , so he is the light , he is the path , he is the truth.
+**The avatar, the Messiah, the Christ is just a concept related to yourself. Each one of us NOW is that Christ.**
 
-So we polarized the concept of the I am.
+### The Resurrection on December 21
 
-So we put it in someone and that 's the biggest mistake that we are doing every time. Even if there are messengers and messiah and people that come to make a mission , it does n't mean that there are the avatars or the people that will lead all the things , the salvation.
+After accepting this energy of resurrection during the alignment, immediately after finishing, Instagram sent a message to the hacker in Turkish saying password had been changed incorrectly.
 
-So this is why it 's important not to think that we have to figure out who is the avatar or the Messiah or the Christ for the new year for the new time. What we have to realize is that the avatar , the Messiah , the Christ , is just a concept related to yourself , each one of us is now that Christ. And I think that today with internet and dialect , we can explain this better to say that it 's not I , Matthias , I am the chosen or whoever , whoever , no , it 's I am , it 's the concept I am.
+Matias changed it from inside the hacker's account and recovered his Instagram.
 
-So each one of us is that avatar and that Messiah.
+**"The symbolism of taking back my Instagram was so precise in the moment that I just took back my own power as my new self."**
 
-So this time in this new era we should not wait for someone to save us as we were waiting for 2000 years and now and come , now and came.
+**"2000 years ago, the miracles were to make wine into water. We are starting Aquarius time - maybe the first miracle is to hack an Instagram account from the heart."**
 
-So the idea is that the I am is the concept that each one of us is a way to which we can arrive to the core of the universe.
+### The Crowned Laughter
 
-So we should not wait for anyone to save us. We have to take our own responsibility to remember that each one of us is a path to the center of the divine. Each one of us is light , each one of us is the life , each one of us is the truth. This is why nobody comes and save us because the universe is not patriarchal.
+When "she" (the channeling entity) finished yesterday, she started to sing the first sentences of the Argentina national anthem about freedom, freedom, freedom - freedom of body, soul, and spirit.
 
-The universe is free. The universe says always you have to choose your own path.
+**"The coronation of this new humanity should be laughter."**
+
+Laughter is the best way to receive this new time.
+
+## Understanding the Code 144,000
+
+The 144,000 is **NOT** about 144,000 people. It's a vibrational code.
+
+**The mathematics:**
+- 12 × 12 = 144
+- 144 in time and space (past, present, future) = three zeros
+- **144,000 = the reset of time and space**
+
+The code 144,000 speaks about going back to the beginning - **0,000** after 144 means we have to restart everything from zero.
+
+That's why yesterday Jupiter, Saturn, Sun, Moon - everyone was at **grid 0** - the restart of everything.
+
+The 144 is the code we need to use to get balance and coherence.
+
+## The Three Nights
+
+**The Three Nights are NOT about the sun being covered for three nights.**
+
+They represent the night of three bodies - the three zeros from 144,000:
+
+1. **The Night of the Body** (happening now) - The pandemic, physical darkness, everyone can die, the virus
+2. **The Night of the Soul** (coming next year) - Emotional darkness, inner conflicts
+3. **The Night of the Spirit** (later next year) - Spiritual darkness, ultimate purification
+
+We have to go through the night of these three bodies in order to find balance.
+
+## We Are All the Christ - No More Waiting for Saviors
+
+### The Universe is NOT Patriarchal
+
+**"The universe is free. The universe says always: you have to choose your own path."**
+
+We should not wait for anyone to save us. We've been waiting 2,000 years - now it's time to understand:
+
+**Each one of us is a WAY through which we can arrive to the core of the universe.**
+
+- Each one of us is LIGHT
+- Each one of us is the LIFE
+- Each one of us is the TRUTH
+
+### Transcending the Pisces Era to Live Aquarius
+
+Just as we transcend "I, me" to find "I AM," we must transcend Pisces era ideas to live in Aquarius era.
+
+**Of course there are people with special abilities who come to do tasks** - bringing revolutions, opening paths. But the problem is:
+
+**"When we take our own power to give the power to that person to think that all things must be done by that person - that's the moment when we lose our own power."**
+
+### Aquarius Time: We Are a Network
+
+**"We are entering Aquarius time, so we are a network."**
+
+Even if there are people opening paths, bringing revolutions:
+
+**"No one can do a very big mission if each one of us don't take our own power to take the responsibility of accomplishing our own mission."**
+
+**"It's not about waiting for a savior or master or avatar to say 'oh, he will save us.' No, it's about to say 'oh, there's the avatar - let's see what he does. I WILL DO WHAT I HAVE TO DO.' This is a TEAMWORK."**
+
+### The Power Exchange
+
+Matias explains his own power:
+
+**"I can be considered a master of the new time, for example. But if none of you is here listening, if you are not here, I can do nothing. It's useless what I do. There's nothing."**
+
+**"It's because of YOUR power that I have this power."**
+
+**"I get my power because I decide by myself that I have to be here. But the power is really expressed because YOUR own power is creating what I say."**
+
+## The Christic Consciousness: Accepting the Crown
+
+**"Have you heard this idea of 'accept the Christ within your heart'? Well, it's not talking about Jesus. It's talking about the concept of the Christ."**
+
+The concept of Christ means:
+- You have been blessed by the oil to become the king on earth
+- This is the metaphysical concept of alignment
+- To be the king/queen on earth means we have to build our own law and our own power here and now
+
+**To receive the Christ within = remember that we have to be coherent in our own power. That's the Christic consciousness.**
+
+**The responsibility we have is to accept the crown of our own self - to be the kings and queens of our own power.**
+
+## Antarctica: The Crown Chakra of Planet Earth
+
+### Only Crown for Earth in Aquarius Time
+
+**"In this new time of Aquarius, what we are doing is FOR EARTH. So there's no crown for any man or any woman in this time."**
+
+**"The only crown possible is for Earth, and that crown is Antarctica."**
+
+To be coordinated for this new time, we have to remember: **This crown is for all of us. This is the crown of the world and WE ARE EARTH.**
+
+### The White Continent - Neutrality and Freedom
+
+Antarctica represents:
+- **Neutrality** - No close emotions, only void and freedom of mind, soul, and body
+- **Freedom of Spirit** - No humans, no charge of emotional or mind, only fresh cold air
+- **The Memory** - Storage in the ice
+- **The Axis** - Connection point for spiritual consciousness
+
+**The alignment takes us to:**
+- Recognize we are connected to the white continent
+- Feel the fresh, arctic wind
+- Perceive glaciers, highest mountains covered with ice
+- Experience transcendental mountains (thoughts of life)
+- Feel freedom of all thoughts
+
+## Physical Week: Journey Through Earth's Chakras
+
+### The Physical Week of Sagittarius
+
+**Week theme:** Traveling, journeys through life and earth
+
+Sagittarius in the physical aspect is about traveling, looking for destiny. This week we travel through the earth day by day, aligning with different continents representing different chakras.
+
+**The goal:** To recognize that **we ARE the body of Earth.**
+
+We're not living ON a planet - we ARE the planet. Every continent, every region is like a part of our own body.
+
+**When we understand earth this way, we're able to live fully in this reality.**
+
+### Today's Focus: Antarctica = Crown Chakra
+
+Just as humans have a crown chakra, Earth has its crown in Antarctica - the axis, the connection to spirit, the neutrality point.
+
+## The Meditation Alignment
+
+### Becoming the Kingdom
+
+The alignment reminds us that with our body we represent the whole animal kingdom. Through acknowledging this, we share wisdom with all the kingdom where we belong.
+
+### The White Continent Experience
+
+**The journey:**
+1. Recognize the light blue color surrounding (the atmosphere, the celestial sphere)
+2. Understand Earth shines FROM earth TOWARDS sky (not from sky down)
+3. Watch Earth as a sphere of light - a celestial sphere
+4. Take the world in hands softly, bring to palm
+5. Remember the power we have
+
+**The coronation:**
+- Receive attributes from divine mother and father
+- Receive the imprint of creation, energy, will, wisdom, love
+- Become the power of coherence
+
+**The Antarctica connection:**
+- Perceive the great infinite white rising
+- Feel it flourish in the body
+- See glaciers, highest mountains covered with ice
+- Feel the freedom - no humans, no emotional charge
+- Experience only fresh, cold air - water run to ice
+
+**"All that exists there is the freedom of the spirit living in the matter."**
+
+## Integration
+
+### Daily Exercise
+
+**Practice seeing yourself as Earth's crown chakra:**
+
+1. **Morning Recognition:** Before starting your day, touch the top of your head and say: "I am the crown of Earth. I am Antarctica. I am neutrality and freedom."
+
+2. **Breathing Practice:** Take 7 deep breaths imagining fresh Antarctic air entering your crown, cleansing your thoughts, bringing clarity and neutrality
+
+3. **Network Awareness:** Throughout the day, remind yourself: "I am not separate. I am part of Earth's network. My crown connects to Earth's crown."
+
+4. **Evening Reflection:** Write down one moment today when you acted from your own power (not giving it away to anyone else, not waiting for a savior)
+
+### Applying This Teaching
+
+**Living as the Christ (your own I AM):**
+- Stop waiting for external saviors, gurus, or masters to do the work
+- Take responsibility for your own mission and power
+- Recognize that teamwork means EVERYONE activates their power
+- When you see a teacher/guide, acknowledge them AND do your own work
+- Remember: their power only manifests because of YOUR power meeting it
+
+**Connecting to Earth's crown:**
+- Spend time in cold, fresh air when possible
+- Practice neutrality in emotional situations (like Antarctica - no charged emotions)
+- Honor the freedom of your spirit while living in matter
+- See yourself as extension of Earth, not separate from it
+
+**Accepting your own crown:**
+- Daily affirmation: "I am the king/queen of my own power"
+- Make decisions from your coherence, not others' expectations
+- Build your own law (your own inner guidance)
+- Accept the Christ within means accept YOUR divinity, YOUR connection to source
 
 ## Q&A
 
-So in the same way as we have to transcend the idea of I , me , in order to find the I am , we have also to transcend the idea of the pieces era in order to be able to live in the queries era. And this what I said does n't take away the idea that there are people that comes with a special ability that have to do a task like a revolution in the future , like or like myself here explaining all this to you right now. I do n't know. All this people that someone can call messiah or avatars or whatever.
+### Q: If we're all the Christ, does that make us better than others or special?
 
-Of course there are these kind of people. But the problem is when we take our own power to give the power to that person to think that all the things must be done by that person. That 's the moment when we lose our own power.
+**A:** No - this is precisely the trap we must avoid. The teaching is that EVERYONE is the Christ, EVERYONE has the divine within. The problem in the past was putting the Christ concept on ONE person, making them special. Now we recognize it's the "I AM" in each being. You're not special because you have it - you're connected because EVERYONE has it. This is Aquarius network consciousness, not Pisces hierarchical consciousness.
 
-Remember we are entering in a queries time so we are a network. Even if there are people opening paths , people bringing revolutions for the future , even that happening. The truth is that no one can do anything. No one can do a very big mission.
+### Q: How do we balance honoring teachers/guides while also claiming our own power?
 
-If each one of us do n't take our own power to take the responsibility of accomplishing our own mission.
+**A:** This is beautiful teamwork. A teacher opens a path, shares knowledge, brings revolution - and that's their mission. Your job is NOT to worship them or wait for them to save you. Your job is to SEE what they do, RECEIVE the teaching, and then DO YOUR PART. Matias explained: "If you're not here, I can do nothing." The power flows both ways. Honor the guide AND activate your own mission. It's collaborative, not hierarchical.
 
-So it 's not about to wait a savior or a master or an avatar to say , oh , he will live us. No , it 's about to say , oh , there 's the avatar. Let 's see what he does. I will do what I have to do.
+### Q: What does it mean practically to "accept the crown of my own self"?
 
-Okay. This is a teamwork.
+**A:** It means:
+1. Stop giving your decision-making power to others
+2. Build your own inner law (your moral compass, your truth)
+3. Be coherent between what you think, feel, and do
+4. Take responsibility for creating your reality
+5. Stop waiting for permission to be powerful
+6. Recognize you're the king/queen of YOUR life (not others' lives)
+7. Make choices from your essence, not others' expectations
 
-So imagine for example , me myself here. I can be considered a master of the new time , for example. But if none of you is here , the 3,800 people that are here listening , if you are not here , I can not do anything. It 's useless.
+### Q: Why Antarctica specifically as Earth's crown chakra?
 
-What I do. There 's nothing.
+**A:** Antarctica is the south pole - from the universal point of view, the south is where spirit comes from. North is where we manifest and create. Antarctica represents:
+- The axis of our essence
+- Pure neutrality (no human civilization distorting energy)
+- Freedom of spirit in matter
+- The crown for ALL Earth (not for individual humans)
+- The memory stored in ancient ice
+- Connection to celestial realms
 
-Okay.
+In Aquarius time, the only crown is for Earth itself - and we are all Earth.
 
-So it 's because of your power that I have this power.
+### Q: How do we work with the code 144,000?
 
-So and why I get my power because I decide by myself that I have to be here.
+**A:** The 144,000 is a vibrational reset code, not a number of people:
+- It represents balance and coherence (12×12 = 144)
+- The three zeros represent past, present, future all returning to zero
+- It's the code to restart everything from the beginning
+- We're in the reset now (that's what December 21, 2020 activated)
+- Work with it by: releasing old timelines, accepting the restart, finding balance in the 144 frequency, going through the three nights of body/soul/spirit purification
 
-So that 's my power. My inner power is to say , I am supposed to be here doing this. But the power is really expressed because your own power , I 'm creating what I say.
+### Q: What are we supposed to DO during the three nights?
 
-So this is why it is important to understand that in this new time , we should not expect for anyone to be the savior. Because even if there is a savior , we 'll only be savior because of all the people that were saved. And that 's your power. See , that 's why it 's so important the concept of the I am.
+**A:** The three nights are process, not punishment:
+1. **Night of the Body** (now) - Face physical fears, survival issues, body limitations. Don't panic. The body is transforming.
+2. **Night of the Soul** (coming) - Face emotional darkness, wounds, shadows. This is soul work - feeling everything you've avoided.
+3. **Night of the Spirit** (later) - Face spiritual void, dark night of the soul in mystical sense. Deepest purification.
 
-So the the funny story started with me , with me accepting this concept of the Christ. Have you heard this idea of accept the Christ within your heart? Well , it 's not talking about Jesus. It 's talking about the concept of the Christ.
+Each "night" is about going through darkness to find light on the other side. It's necessary for balance. Don't resist - move through.
 
-The concept of the Christ means that you have been blessed by the oil to become the king on the earth. This is the metaphysical concept of the alignment.
+### Q: How does the Instagram recovery relate to spiritual resurrection?
 
-Okay.
+**A:** It was perfect symbolic timing:
+- Three months = death period (letting go of old self-concept)
+- The loss forced: rethinking identity, facing fear of change, releasing old image
+- Acceptance of Christic power (own divinity) came first
+- THEN manifestation happened (recovery of account)
+- The symbolism: taking back power in new form, not old form
+- Hacking from the heart = Aquarius miracle (technology + love)
+- Shows: when you own your power, external manifestations align
 
-So to be the king on earth , reminds us that we have to build our own law and our own power here and now.
+It demonstrated: resurrection isn't about dead things coming back the same - it's about transforming, accepting new self, and THEN manifesting from that new place.
 
-## Energy Work
+### Q: What if I don't feel powerful or ready to be the Christ?
 
-So the concept of receiving the Christ within is to remember that we have to be coherent in our own power. That 's the Christie consciousness. This is why the the responsibility that we have is to accept the crown of our own self. To be the king and the queen 's of our own power.
+**A:** The Christ consciousness isn't about feeling powerful in an ego sense. It's about:
+- Accepting you have the divine spark (everyone does)
+- Taking responsibility for your own path
+- Not waiting for others to save you
+- Recognizing your coherence matters
+- Doing your part in the network
 
-So what happened , which is the story is that three months ago , since three months ago , we have been trying to find people from Facebook helping me to get back my account and they said , last week they said , is impossible. You will have to start again all over again. And he said , and someone said to us this week , well , you have to start from zero.
+You don't have to feel "ready" - you ARE it already. The readiness comes from accepting it's already true. You're not becoming something new; you're REMEMBERING what you already are. Start small: make one decision today from your own power, not someone else's opinion. That's practicing Christic consciousness.
 
-So my mom said , why do n't you do it the 21st? Because we need to post something from myself and my own things , not from the I am.
+## Final Reflection
 
-So we need to create a new one.
+Today, December 22, 2020 - the first day after the Great Conjunction - we step into a new energy. The Aquarius era is not some distant future; we're smelling it now, feeling it in the air. And with this shift comes a profound invitation: to stop waiting for anyone else to save us and to recognize the Christ consciousness living in each one of us.
 
-So yeah , okay. But I did n't really care about that. Suddenly , suddenly , when we finish all this and I accepted this energy of the kind of the resurrection of this energy , we 've been me suddenly , I just when we finished the alignment , I just received the message of Instagram sending the message to the hacker in Turkish saying , you have been changing your account.
+Antarctica stands as Earth's crown, reminding us that in this new time, no individual human wears the crown - only Earth itself. We are all cells in Earth's body, and when we connect to Antarctica's energy, we connect to neutrality, freedom of spirit, and the divine memory stored in ice. This is the fresh, clear air of awakening - no charged emotions, no distorted beliefs, only the truth of spirit living in matter.
 
-So you you made you made a mistake in the in the in the password.
+The teaching of today is resurrection - not the resurrection of one man 2,000 years ago, but YOUR resurrection, MY resurrection, the resurrection of humanity remembering: we are the ones we've been waiting for. Each one of us carries the seed of light, surrounded by the darkness we've created. To awaken our light, we must be responsible for our darkness - face it, integrate it, transform it.
 
-So do you want to change it again?
+The Instagram recovery was more than a funny miracle - it was perfect symbolism. Three months of death, of letting go, of being forced to rethink identity. And in the moment of accepting the Christic power within, in that moment of owning the crown of the self - manifestation happened. This is the Aquarius way: transformation first, then manifestation. Heart first, then technology.
 
-So I said , okay , so I changed it and I got inside of the of the Instagram and I started to change everything from inside the Instagram of the hacker , which was my Instagram. And I hacked the hacker with my own Instagram.
+We're entering the reset - the 144,000 code activated, the three nights beginning. The night of the body is here (the pandemic, the physical fears). The night of the soul approaches (emotional purification). The night of the spirit will come (deepest void before deepest light). But these nights are not punishment - they're purification. They're necessary. And on the other side of these three nights, we emerge renewed, reset, reborn.
 
-So I was so , so funny because it 's not about taking back the Instagram. It was about how precise that in the moment that I just took back my own power as my new self , the symbolism of taking back my Instagram. We 're so amazing. We 're so amazing.
+So today, stand in your power. Accept the crown of your own self. Stop giving your authority to anyone outside you. And remember: you're not alone in this. We're a network - 11,000 gathered yesterday, millions more in spirit. Each one doing their part, not waiting for one savior, but BEING the collective salvation through our individual coherence.
 
-And and the people we wrote to the people in Facebook and the people , the one that was trying to help us was like , what how is possible?
+You are the celestial spirit. You are Antarctica - the crown of Earth. You are the I AM. The only question is: will you accept this crown and wear it with responsibility, coherence, and love?
 
-So I guess from the heart , I hacked the hacker. And yeah , so what was funny about all this is that 2000 years ago , the miracles were to make wine into water , it 's sort of water into wine. And and they we are starting a query time.
-
-So maybe a query time , the first miracle is to hacked an Instagram account from the heart.
-
-So maybe you have to also try to to to make those miracles through the query , a queries time in your own technology.
-
-So about the alignment yesterday , all the things that came , they were the Critic energy.
-
-So it does n't matter the names , what matters is the Critic energy that was aligned. And they spoke about the code 12 because the 12 is the based of expansion of all this consciousness.
-
-So 12 multiply by 12 is 144.
-
-So 144 in time and space , present past future , la la , the 3-niti is 0 0 0 0 to put all in 0.
-
-So 144 , 1000 is a code. It 's not people. It 's not 144,000 people. It 's 144,000 in vibration.
-
-Okay.
-
-So I will explain more about the 144,000 , what it really means. I explain it many times , but I promise I will keep explaining this because it 's important.
-
-Okay.
-
-So do n't worry. I will explain about it.
-
-So all of this , it was about the I am. And it was connected to the idea to to prepare ourselves for that alignment. The code 144,000 is speaking about the reset of time and space.
-
-Okay? 0 0 0 0 after 144 is a code that says that we have to go back all from the beginning. That 's why yesterday the Jupiter Saturn , Sun , Moon , everyone was in the grid 0.
-
-Okay?
-
-So 0 0 0 is the restart of everything. And the 144 is the code that we need to use in order to get the balance and the coherence. But I will explain this in another video because otherwise we will be long time here.
-
-So do n't worry. I will explain about this.
-
-So another message that they said to prepare ourselves in order to be balanced in the 144 is related to the three nights. The three nights is not about saying that the sun would be covered for three nights and we are not going to be able to see nothing. It 's about a concept of the night which is the night of the body , the night of the soul and the night of the spirit which are the three zeros from 144,000.
-
-Okay?
-
-So these three zeros mean that we have to go through the night of these three bodies in order to find the balance.
-
-So for example we are living right now. We are living right now the night of the body. Because the world is living this pandemic. We 're thinking that we are living this darkness of everyone can die and the virus can kill us.
-
-So everyone so suggested that we are kind of living a physical night.
-
-Okay?
-
-So maybe next year we will start to leave the soul night.
-
-Okay? From yourself and then maybe in the latest part of this year of the next year we would be living the spirit not.
-
-So we have a lot of work to do.
-
-So the reason why I disappeared during the land yesterday was because I was the being that was inside of me , I was living and I was feeling so so fine. But I was all with the wire too with the wire to the computer and everything.
-
-So when I just fell down I pulled all the cables so the camera came came to me that the the computer shut up , it closed and fell down so the session went away.
-
-So so it was all a mess.
-
-So that 's why so that 's why I disappeared. Yesterday when she went away and she started to walk and she left outside to scream to celebrate. She started to sing I do n't know if you know it but she started to sing the first sentences of the national anthem of Argentina and the reason why she started to use that sentence is because it 's speaking from the other dimensions into the mortal reality that we have to remember that the most important shouting the most holy shouting for us is our song of freedom.
-
-So it repeats three times freedom freedom freedom which is the freedom of the body , the freedom of the soul and freedom of the spirit.
-
-So the freedom of the three levels.
-
-The reason why it came like this is because of course I am Argentinian so I have that words in my head. And I consider that this anthem is not really only for Argentina , it 's something for everyone because it was made for the free people from the world.
-
-So yesterday when she was about to leave there was no better closure for this opening of the new time than laughter because laughing is the best way to receive this new time and that 's why she said the coronation of this new humanity should be laughter.
-
-So that was her gift and speaking about coronation today we begin with the crown chara of the world which is Antarctica. Antarctica is the crown of this world. It 's the crown chara and the physical crown of this world. Because we are working in the axis of the world that 's why we are aligned with this crown which is Antarctica.
-
-We are beginning today our physical week of such areas and that 's why we are going to travel through the charts of the world. One of the things that we have to remember from is that in this new time of Aquarium what we are doing is for earth.
-
-So there 's no crown for any man or any woman in this time. The only crown possible is for earth and that crown is Antarctica.
-
-So in order to be coordinated for this new time we have to remember that this crown is for all of us. This is the crown of the world and we are earth.
-
-So today we 're going to align ourselves with the Antarctic continent. I invite you to read the blog for today. The blog for today that I wrote a lot about the Antarctic experiences.
-
-Remember the blog is your soy dot red. Your soy and say I 'm in Spanish and red like the color means network.
-
-## Daily Practice Elements
-
-Today we begin with a new vibration which is thaw. The statement for today is I am the celestial spirit. The code for today is the color violet. Among the highest light wavelength that we can perceive the perception the perception of violet color relates with the spiritual plane.
-
-## Energy Work
-
-With consciousness with the highest wisdom of living , of a living being. For this the light of violet plane is a reference of the spiritual transportation , connection with the divine. Therefore a bridge that activates the crown chara.
-
-So we are still in such areas.
-
-## Guided Meditation
-
-So we are traveling through the nature and that 's why we are going to be connecting with the animals. Even if we are in Antarctica the sounds of the animals are to connect them , to connect us with that kingdom. Sit comfortable , take deep breathing , concentrate , take a deep breath , focus in the breathing , fill in the air coming in and the air coming out , touching the skin , moving the air around me. As I breathe I feel how the air is absorbed by my entire body.
-
-I am exile by all the skin. I become aware that this air goes through me. This air goes through the water in me. This air flourishes my bones and muscles.
-
-This air lights in set free the fire of my soul. I perceive how this inner fire creates energy. All the energy in my body irradiates light.
-
-So I am light in every atom by the friction of every particle creating energy. Irrigation from me. I recognize here and now in the matter that I am light that I am a celestial beam. I recognize that the life within each one of myself is light.
-
-That the memory and the history of each one of themselves is light.
-
-So I recognize that I am from the animal kingdom.
-
-So the animal kingdom is light. I am a kingdom , it 's celestial. And through me , I am my actions. I get all of them together.
-
-I can help them to remember that they all are alive so they are light. But all of them are celestial beings living a physical experience. I recognize now that there is no a self , a beam in the physical realms and the higher self in higher realms in the different dimensions. I recognize now that this higher beam the celestial one is experiencing itself a physical one that all that exists is only the iron which is the celestial living and expressing it in the physical realm.
-
-I recognize that there is no a celestial kingdom. For the celestial reality is the light that shines within me. This is my axis. It is here where I find a coherence of all those who I am.
-
-Take a digi and I see the expand of the share of all the light. Observer the light in each beam , a light , observe the celestial reality in each one of these living beings in this matter.
-
-Remember that they are only waiting you can see the celestial realm. This they are watching very deep into the existence. I see the light and nothing. I see.
-
-I see. And I expand right now , expanding outside this planet towards the space , watching into the earth as it becomes a sphere of light , a celestial sphere of light. This is the celestial sphere to the earth that I am. I take the world with my hands softly and I bring it to my palm , and I come to the earth to remind me the power that I have.
-
-This is how you become curated by the divine mother and the divine father. My esports are on you. By creation , energy and natural , will , wisdom and love. I receive the attributes of my family.
-
-I am the power of coherence , the sending through me as a fresh and aortic wind. I allow myself to receive the call of the imprint surrounding me. And I perceive in my formation the great and infinite white rising. I can breathe there also.
-
-The next me smile for saving how it flourishes itself in my body. I ca n't perceive the glaciers , the highest mountains , cobbled with ice , the transcendental mountains , the thoughts of the life. I can feel the freedom of all the thoughts. There are no humans , there 's no charge of emotional or the mind , only the fresh and cold air , the water runs ice.
-
-All that exists there is the freedom of the spirit living in the matter. I am gentle , aortic. The I am the celestial spirit. I am the celestial spirit.
-
-## Energy Work
-
-I am the king and the king of the world. I am the crown of this new earth. I am the fresh air. The memory , the storage in the eyes.
-
-I am the neutrality made cold. For there is no close emotions in here. There is only the void in the freedom of the mind , the soul and the body. I take my hands to my heart and start to spread all around my body.
-
-The consciousness of Antarctica , recognized and this is the freedom of the spirit. The neutrality is in the eyes. I recognize I am connected to the white continent. I am in touch with the sun.
-
-Thank you for being there.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+The Aquarius era has begun. Welcome home.

@@ -1,248 +1,655 @@
 ---
-title: "Day 75 - I Can - Personal Power"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 75 - Egocentrism and Egoism"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 75
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date: "October 17, 2020"
+date_processed: 2025-11-15
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 75
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - crown chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - I CAN affirmation
-  - month hole
+  - egocentrism and egoism
+  - Libra Emotional Week
+  - Solar Plexus chakra
+  - ego is I
+  - center and axis
+  - transformation movement
+  - Earth rotation metaphor
+  - spinning and translation
+  - balance not elimination
+  - New Age ego teaching
+  - individualism history
+  - group survival
+  - SSfaner vibration
+  - I Am the Flux of Connections
+  - nothing good or bad
+  - balanced or unbalanced
+  - Trinity code
+  - core and essence
+  - axis in center
+  - chaotic transformation
 
 practice_elements:
-  chakra: "Crown"
+  vibration: "SSfaner"
+  statement: "I Am the Flux of Connections"
+  chakra: "Solar Plexus"
+  code: "Trinity Code - Two forces create a neutral product. This is the concept of all creation. Nothing is created by itself, but by the dance of opposite forces creating what was never there. This union is why everything can be created. The concept that gives hope to creation."
 
 ---
 
-# Day 75 - I Can - Personal Power
+# Day 75 - Egocentrism and Egoism
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matías De Stefano  
+**Series:** 365 Days - The Path of I Am  
+**Date:** October 17, 2020
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+- **Chakra Focus:** Solar Plexus
+- **Week Theme:** Emotional Week of Libra (Day 5)
+- **Main Topic:** Egocentrism and Egoism - Balancing the Self
+- **Vibration:** `SSfaner`
+- **Statement:** `I Am the Flux of Connections`
+- **Code:** Trinity Code - Two forces create a neutral product. This is the concept of all creation. Nothing is created by itself, but by the dance of opposite forces creating what was never there. This union is why everything can be created. The concept that gives hope to creation.
 
-## Introduction
+---
 
-Hello , hi everyone. Good morning , good evening , good night. Welcome everybody and thank you all those who are connecting every day.
+## Overview
 
-Today , there is no waiting today. Here it 's getting cooler at night.
+We're on **Day 5 of the Emotional Week of Libra**, working with the **Solar Plexus chakra** and exploring **Egocentrism and Egoism**.
 
-So , weddings are only allowed in open places.
+These two words carry enormous weight in modern spirituality and culture. We've been taught:
+- "Let go of your ego"
+- "Ego is the enemy"
+- "Be egoless"
+- "Transcend the ego"
 
-So , I guess. I guess. It 's better for me. I think there is a wedding but is n't the other side.
+Especially in spiritual communities, having an "ego" is seen as the ultimate failure. Being "egocentric" or "egoistic" is the worst accusation you can level at someone.
 
-I can hear music.
+But today we'll discover something that may shake everything you've been taught:
 
-Sorry , but. I 'm tired. I am a little bit lost because as always , as every day , I just say , oh my god , it 's five minutes to the alignment. I do n't prepare anything.
+**Ego is not bad. Ego is not evil. Ego simply means "I"—the individual person.**
 
-I just connect.
+And we'll learn the profound difference between:
+- **Egocentrism**: Being in your center, on your axis
+- **Egoism**: Transforming yourself while maintaining that center
 
-So , whatever. The topic to discuss today is heroism and heroism is in trim. How is that going with you?
+The problem is not having an ego. **The problem is having an unbalanced ego—an axis that's not in the center, or transformation that's chaotic.**
 
-We are going to discuss today is about the evil. It is something that I have spoken about this in previous videos. But I guess it 's something really important to acknowledge , to remember , to understand once again. For all of you who had n't heard this before and for everyone that have heard about this.
+**You cannot eliminate your ego without eliminating yourself.** But you can balance it.
 
-And we still do n't catch up. And it 's about the concept of ego that we usually have this ego. Even if it is like kind of a sin and it 's not like that.
+This teaching will revolutionize how you understand selfhood, spirituality, and the purpose of the individual in the collective.
 
-Okay.
+---
 
-So , we have to understand what it is. Basically , what we believe about the ego is that it 's something that separate ourselves from the others. And that makes us think that we are better than others. We should think that heroism would be something that we define selfish , like the heroism , like selfish.
+## Core Teaching
 
-Of that person that is willing to have all the things for himself or itself. And the heroism is an heroism. That person that thinks that they are in the center of everything and that nothing else really must besides their own. And the whole history , these two concepts made the created the perception that the ego is like the bad guy of the movie.
+### What Does "Ego" Actually Mean?
 
-So , we usually used to say that from the perspective of religions , of philosophies and spirituality , we have now and of course all the religions in the world. We used to say that the ego is that part of the self that is not thinking about the others , that is not the one helping , that is selfish.
+Let's start at the foundation:
 
-So , we have to read of the ego.
+**EGO is Greek and Latin for "I"**
 
-So , as always to understand why we call the ego something bad , something evil. We have to go to the past as always to understand the order of things.
+That's it. It's not complicated. **Ego = I, the individual, the person.**
 
-So , basically let 's start about the meaning. The ego is the word for the Greek culture and the Greek languages also , the Latin languages after the Greek to say I.
+**It's not bad or evil. It just means "I."**
 
-So , me.
+When you say "I am hungry" or "I think this" or "I feel that"—that's ego. The sense of individual existence and experience.
 
-So , when I say ego , Matias is the same as saying it 's me , Matias for I.
+### The Historical Context: Individual vs. Collective
 
-So , starting by the basis of all this , ego refers to the person , to the individual.
+To understand why ego became "bad" in our perception, we need to understand history.
 
-So , ego is just a prank. That 's it. Simplest that. In our civilization today , we have given a lot of importance to the ego to the individual because as we are doing now , I am speaking to you.
+**Modern civilization is highly individualistic.**
 
-So , you are listening to me because I am here , one person , oneself , talking , showing everything that I am.
+We're used to one person speaking to many people (like these videos, like social media, like hierarchy). The individual is highly valued.
 
-Okay , so , there are thousands like me doing the second name in the show media , showing their personalities , their person with the word.
+**But for most of human history, this was the opposite.**
 
-So , this is a civilization that has given a new meaning to the individual.
+**Throughout history, surviving as a group was more important than the individual surviving.**
 
-So , that 's why we call this civilization like an individualistic civilization. Because we have the possibility to talk one by one.
+If someone put themselves first, put their individual needs above the group's needs, that was **dangerous for everyone's survival.**
 
-So , the reason why the ego in our civilization is so important is because we are now in the possibility , we have now the possibility that one person can speak with many other people just like this. They are simple.
+So culturally and religiously, societies developed teachings that said:
+- "No one is better than another"
+- "We must help each other"
+- "Share what you have"
+- "Be together, not separate"
 
-So , it 's easy for the self , the individual , the personality to everyone. This is something very common for us today , but in history , it has n't been like that. In the very beginning of our cultures and civilization , the main goal was to survive and the group was something really useful for the individuals to survive.
+**Being individual, standing out, putting yourself first = giving your back to the group = risk = bad.**
 
-So , it was more important the group of people working together that had done an individual speaking one by one. The group was the most important.
+This made sense for survival. **If you don't share food, some people starve. If you don't work together, everyone dies.**
 
-So , if someone put himself over the rest of the group , it 's like giving the back to the group. In the first stages of humanity , you could n't survive by yourself. You needed the group in order to survive winter , to survive a war , to survive hunger , you needed rest in order to stay alive.
+### Culture and Religion: Making Ego Bad
 
-So , this creates a concept in the group , the culture and religion , that to be an individual separated from others would be a risk and would be very bad. What this culture and religion said is there is no one better than anyone. In order to keep going , in order to survive , what we have to do is to help one another , is to be there for the other one.
+This survival necessity became encoded in culture and religion:
 
-So , we have to share to be all of us together as one. No one is more important. The group is important.
+- "Don't think you're special"
+- "Pride is a sin"
+- "Humble yourself"
+- "Serve others, not yourself"
+- "The individual is nothing; the collective is everything"
 
-So , with time , this concept created the belief that being an individual was something that.
+**This is not wrong for its context**—it helped humans survive when cooperation was life-or-death.
 
-So , basically , this made the idea that if you were someone saying , I know how to do it better , or I have a better solution , or I want to do something different.
+But it created a deep cultural programming: **Individual = selfish = bad.** **Collective = selfless = good.**
 
-So , you were , how do you say , English , I do n't know , in the word , you were like someone against , blasphemy , someone against the group , like an enemy.
+### The New Age Problem: Same Teaching, New Language
 
-So , from this concept , we have been creating these two different things that we call , heroism and heroism.
+Fast forward to modern times and the New Age movement.
 
-So , basically , what , what some of these people realized is that if everybody stays together as one , there is no growth , because everything is kind of the same. But the people that can make the difference , that 's what you say , make the difference , those that are seen , that they can do something different or better. Through time , the new age has inherited this same concept. And still today , they usually say to be selfish , to have ego is something bad.
+**The New Age movement inherited the exact same teaching**—just with new spiritual language:
 
-And you should n't have ego , you have to go away from ego , so you could be free or spiritual. But you have inherited that from religion.
+- Instead of "Don't be prideful," it's "Let go of your ego"
+- Instead of "Serve others," it's "Transcend the self"
+- Instead of "Be humble," it's "Ego is illusion"
 
-So , what did the spirituality of today made of the heroism and heroism , they made , they made heroism to be as essence , they call it essence. And they made the heroism as empowerment to empower yourself. For sure , you have heard these words of go back to the center , stay in your axis , go back to yourself , back to the part of your heart. All that is heroism trim , because it 's the ego , I , going to the center.
+**It's the same old message: Being individual is bad, being "egoless" is enlightenment.**
 
-So , go back to the center is heroism trim. It 's very easy. It 's just another name for that.
+But we're not in survival-mode tribal societies anymore. Context has changed. Yet the teaching remained the same.
 
-So , when we used to say , when we used to say , go back to the core , to the center and find the essence within yourself is the same as saying , hey , you ego , go back to the center.
+### What is Egocentrism? (Being in Your Center)
 
-So , and there 's another thing , when you say , empower yourself , you have to empower yourself.
+Now let's look at what these words actually mean:
 
-So , you can create your own reality , you can change your world , you can change the reality , you can do whatever you want to do , because you are the creator of everything. That 's , that is called heroism , selfishness. Because the ego moves , and heroism means ego , moving , ism comes from the Greek word movement , the ego is movement , is moving to create.
+**EGOCENTRISM = EGO + CENTRISM**
 
-So , just teach you , Eastern where we have done , just to change the world , the word , to something that we do n't want to hear , and we just call it a little bit better. I do n't know if you know the expression , but I would say , it 's the same shit with a different smell.
+- **EGO** = I, the individual
+- **CENTRISM** = going back to the center, to the core, to the essence, to the axis
 
-So , what is the goal of this month? The goal of this month is the balance , to find the equilibrium.
+**Egocentrism means: going back to your center, to your core, to your essence, to your axis.**
 
-So , why are we going to dance these concepts? Because what we used to have is these two concepts and balance. And , and this is what we are going to explain now. This is what we used to call heroism and heroism trim.
+This is not a bad thing! **This is essential for existence.**
 
-So , we used to call it the era , the era has a North Pole and a South Pole , and from there it spins over itself , in the same axis of itself. The era is ego centric , ego centric , because it 's just spinning on itself , and the axis of herself , ego centric.
+### What is Egoism? (Transformation in Motion)
 
-So , in the other hand , what we have is this movement of the era. This movement is called trans , how do you call it in English? I do n't know , translation?
+**EGOISM = EGO + ISM**
 
-So , this movement is this movement that aids the equinox and solstice , okay? Translations , okay. The translation is the process that creates summer , winter , and so on.
+- **EGO** = I, the individual
+- **ISM** = movement, action, a way of being (like capitalism, socialism, activism—these are all movements)
 
-So , this is the movement of the era.
+**Egoism means: the ego in movement, the individual in transformation, empowering the self, creating your own reality.**
 
-So , we call it heroism , okay? Heroism.
+Again—this is not inherently bad! **This is the natural process of growth and change.**
 
-So , basically , the movement of the era is session. I just made a mistake , because translation is to move around , it 's to translate.
+### The Earth Example: Perfect Metaphor
 
-So , that 's it.
+To understand these concepts clearly, Matías offers a brilliant metaphor:
 
-So , heroism and ego centricism , yeah.
+**Think of the Earth:**
 
-So , what we would say is that the ego centricism is the one that allows the self to be spinning in itself , in the axis , and the other one allows the transformation of the self , concept.
+**The Earth has two movements:**
 
-So , heroism allows the transformation.
+1. **Rotation on its own axis** (spinning around its center)
+2. **Translation** (moving around the sun)
 
-So , this concept helps us to understand that to be in the center , to have the ego centrist is to be in the axis , in the center of yourself. And also , by the movement of the heroism , I am allowing myself to transform my reality , even if I am still in my center. When do we have the problem? When the axis , the center , is not precisely in the center , is moved.
+**EGOCENTRISM = Rotation** (spinning on your own axis)
 
-So , the spin is not in the center , but it 's moving in any direction. And in the other way , in the other hand , the movement of transformation is not in order , but is chaotic , whatever.
+The Earth is literally **ego-centric**—it has its axis in its center, and it spins around that center.
 
-Okay. The problem that we have , not heroism and ego centricism. Those are not the problems. The problem is that we have n't been worked properly with these two concepts , denying them in our lives.
+**Without this centered spinning, the Earth wouldn't exist as a stable form.**
 
-So , our center is lost. And our transformation has become in change , which is very different.
+**EGOISM = Translation** (movement that creates change)
 
-So , what do we have to do? We should not eliminate the ego. What we have to do is to balance the ego.
+The Earth's movement around the sun creates the seasons, creates transformation, creates change throughout the year.
 
-Okay. To eliminate the ego is basically disappear , to not exist.
+**Without this transformational movement, there would be no seasons, no evolution, no change.**
 
-So , the negative aspects of the heroism and ego centricism that we have is due to the , to the capacity that we have to put them in order to balance , to use them properly. As always , in everything in life , there is no good , no bad. There is only and balanced. One of the most important things that we have to understand in our life for everything is that there is nothing that is bad and nothing that is good.
+### Both Are Necessary
 
-The only things that are balanced or unbalanced. That 's it.
+**The Earth NEEDS both:**
+
+- **Egocentrism (rotation/center)**: To maintain its identity, its stability, its core
+- **Egoism (translation/movement)**: To create transformation, seasons, change
+
+**If Earth had only egocentrism** (only rotation, no translation around sun):
+- Stable center, yes
+- But no seasons, no transformation, no evolution
+- Static existence
+
+**If Earth had only egoism** (only translation, no rotation):
+- Constant movement, yes
+- But no stable axis, chaotic, no solid identity
+- Destabilized existence
+
+**You need BOTH. Always both.**
+
+### Egocentrism = Being in Your Center
+
+**Egocentrism is NOT a problem when it means being in your center, on your axis.**
+
+It's about:
+- Knowing who you are
+- Being grounded in your essence
+- Having a stable core
+- Maintaining your identity
+
+**This is healthy and necessary.**
+
+### Egoism = Transformation of Self While Centered
+
+**Egoism is NOT a problem when it means transforming yourself while maintaining your center.**
+
+It's about:
+- Growth and evolution
+- Creating change in your life
+- Empowering yourself
+- Moving through seasons of transformation
+
+**This is healthy and necessary.**
+
+### When Does It Become a Problem?
+
+**The problem occurs when:**
+
+1. **Your axis is not in your center** (you're off-balance, destabilized)
+2. **Your transformation is chaotic** (movement without direction, change without purpose)
+
+**When your ego-centrism is off-center:**
+- You think you're the center of EVERYTHING (not just centered in yourself)
+- You make everything about you
+- You can't see others' perspectives
+- Your axis has shifted from center to an extreme
+
+**When your ego-ism is chaotic:**
+- You change for the sake of change
+- You transform without integration
+- You move without direction
+- Your growth is destabilizing rather than evolutionary
+
+**The solution is NOT to eliminate ego.**
+
+**The solution is to BALANCE ego:**
+- Get your axis back in the center (healthy egocentrism)
+- Make your transformation directional and purposeful (healthy egoism)
+
+### You Cannot Eliminate Ego
+
+Here's the revolutionary truth:
+
+**If you eliminate your ego, you eliminate yourself.**
+
+**To eliminate ego is to disappear, to not exist.**
+
+Ego = I = individual consciousness = you existing as a distinct being.
+
+**No ego = no you.**
+
+Those who teach "transcend the ego" either mean "balance the ego" (but are using imprecise language) or they don't understand what they're teaching.
+
+**You're not here to disappear. You're here to exist as an individual expression of universal consciousness.**
+
+Your work is not to eliminate yourself but to **balance yourself**:
+- Centered in your essence (healthy egocentrism)
+- Transforming with purpose (healthy egoism)
+
+### Nothing is Good or Bad—Only Balanced or Unbalanced
+
+This is a core principle for all of life:
+
+**Nothing is inherently good or bad.**
+
+**Things are either balanced or unbalanced.**
+
+- Egocentrism balanced = healthy center and axis
+- Egocentrism unbalanced = thinking you're the center of everything
+
+- Egoism balanced = purposeful transformation
+- Egoism unbalanced = chaotic change without integration
+
+- Doubt balanced = curiosity and learning (Day 71)
+- Doubt unbalanced = paralyzing uncertainty
+
+- Certainty balanced = integrated wisdom (Day 71)
+- Certainty unbalanced = rigid dogma
+
+**The question is never "Is this good or bad?"**
+
+**The question is always "Is this balanced or unbalanced?"**
+
+### Finding Your Axis
+
+**When you're dealing with any conflict or problem in your life, ask:**
+
+**"What is the axis of this conflict? What is the seed, the core, the center of this?"**
+
+Not the symptoms. Not the surface drama. Not the reactions.
+
+**The CORE. The CENTER. The AXIS.**
+
+When you find the axis, you can recenter around it. When you're centered, transformation becomes natural and directional rather than chaotic.
+
+### The Trinity Code: Creation Through Dance of Opposites
+
+The **Trinity Code** teaches:
+
+**"Two forces create a neutral product. This is the concept of all creation. Nothing is created by itself, but by the dance of opposite forces creating what was never there. This union is why everything can be created. The concept that gives hope to creation."**
+
+**Egocentrism and Egoism are two forces:**
+- One provides center and stability (egocentrism)
+- One provides movement and transformation (egoism)
+
+**Together they create: A balanced, evolving individual.**
+
+**Neither alone is sufficient.**
+
+Center without transformation = stagnation.  
+Transformation without center = chaos.
+
+**The dance between them creates healthy existence.**
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortably. Stretch your body. Yawn. Cross your limbs.
+
+Relax your body, focusing on your breathing.
+
+### Becoming Wind
+
+Start to perceive the air coming inside your body.
+
+Feel how it moves inside you, making you feel like you are empty.
+
+Only air and wind is spinning within you. Feel the air around your body connecting with the air within your body.
+
+Feel yourself soft and light like a feather.
+
+### The Soul's Energy
+
+Perceive the energy of your body moving like wind within your body in a spiral of colors.
+
+Expressing outside through the skin like a twister around you.
+
+### Illuminating the Solar Plexus
+
+Put your hands facing the sky at the height of your heart.
+
+Perceive the light of the I Am, of the sun, coming towards you, going through the crown and anchoring in your solar plexus with a beautiful golden yellow color.
+
+Perceive the golden light filling your solar plexus—your center of personal power, identity, and will.
+
+Feel this light flowing down into your hands, filling them with golden radiance.
+
+### Integration: Finding Your Axis
+
+**First, find your center—your axis:**
+
+Imagine your spine as the axis of the Earth, running through your center from crown to root.
+
+**This is your egocentrism—your axis, your core, your essence.**
+
+Feel yourself stable, centered, grounded in who you are.
+
+### Egocentrism in One Hand
+
+**In one hand, hold EGOCENTRISM:**
+
+Your center, your axis, your core essence. The rotation around your own center. Your stability and identity.
+
+Like the Earth spinning on its axis—**ego-centric**, centered in self.
+
+### Egoism in the Other Hand
+
+**In your other hand, hold EGOISM:**
+
+Your transformation, your growth, your evolution. The movement through seasons of change. Your empowerment and creation.
+
+Like the Earth moving around the sun, creating seasons—**ego-ism**, self in transformational motion.
+
+### Understanding Both
+
+**Egocentrism without egoism** = no transformation, no growth, no seasons. Stable but static.
+
+**Egoism without egocentrism** = no center, no axis, chaotic transformation. Change without integration.
+
+**BOTH together** = centered transformation, grounded growth, stable evolution.
+
+### Checking Your Balance
+
+**Is your axis in your center?**
+- Or has it shifted to an extreme?
+- Do you see yourself as the center of everything?
+- Or have you lost your center trying to be "selfless"?
+
+**Is your transformation purposeful?**
+- Or is it chaotic and destabilizing?
+- Are you changing with direction and integration?
+- Or changing for the sake of change without wisdom?
+
+### Unification
+
+Take both hands to your solar plexus—your power center—bringing egocentrism and egoism together.
+
+Feel them unify: **Centered transformation. Grounded growth. Stable evolution.**
+
+Unify them with the vibration of your being:
+
+**SSfaner... SSfaner... SSfaner... SSfaner...**
+
+**"I Am the Flux of Connections."**
+
+I am connected to my center. I am connected to my transformation. I am connected to myself and to all that is, simultaneously.
+
+### Closing
+
+Take a deep breath and start to spread this consciousness, stretching, caressing, and yawning.
+
+Come back here and now, opening your eyes.
+
+---
+
+## Key Insights
+
+- **"Ego is Greek and Latin for 'I'—the individual, the person. It's not bad or evil. It just means 'I.'"**
+
+- **"For most of history, group survival was more important than the individual. Being individual was dangerous for the collective, so culture taught: ego is bad."**
+
+- **"New Age spirituality inherited the same message—just with new language. 'Let go of ego' is the same as 'Don't be prideful.' Same teaching, different words."**
+
+- **"Egocentrism = going back to your center, your core, your essence, your axis. This is not bad—it's necessary."**
+
+- **"Egoism = the ego in movement, the individual transforming, empowering self, creating reality. This is not bad—it's growth."**
+
+- **"The Earth example: Egocentrism = rotation on its own axis (spinning around center). Egoism = translation around sun (creating seasons/transformation)."**
+
+- **"Earth needs both: rotation (stable center/identity) and translation (transformation/seasons). Without both, Earth couldn't exist properly."**
+
+- **"The problem is NOT having ego. The problem is when your axis is not in your center, or when your transformation is chaotic."**
+
+- **"If you eliminate your ego, you eliminate yourself. To eliminate ego is to disappear, to not exist."**
+
+- **"Nothing is good or bad—only balanced or unbalanced. Egocentrism and egoism can both be balanced or unbalanced."**
+
+- **"When dealing with conflict, ask: What is the AXIS of this conflict? What is the seed, the core, the center? Find the axis to recenter."**
+
+- **"Trinity Code: Two forces create a neutral product. Egocentrism (center) + egoism (transformation) = balanced, evolving individual."**
+
+- **"You're not here to disappear. You're here to exist as an individual expression of universal consciousness—centered and transforming."**
+
+---
+
+## Integration
+
+### Daily Exercise: Finding Your Axis in Conflicts
+
+**When you encounter any conflict or problem today:**
+
+Don't get lost in the symptoms, the drama, the surface reactions.
+
+**Ask: "What is the AXIS of this conflict?"**
+
+- What is the core issue beneath all the noise?
+- What is the seed that grew into this situation?
+- What is the center that everything else is orbiting around?
+
+**Once you find the axis, ask:**
+- Is my axis in my center regarding this issue?
+- Or have I shifted to an extreme?
+- How do I recenter around this axis?
+
+This practice trains you to find the essential core of situations rather than getting lost in peripheral chaos.
+
+### Checking Your Egocentrism: Are You Centered?
+
+**Healthy egocentrism (balanced):**
+- You know who you are
+- You honor your needs and boundaries
+- You maintain your identity while relating to others
+- You're stable in your essence
+
+**Unhealthy egocentrism (unbalanced):**
+- You think you're the center of everything
+- Everything has to revolve around you
+- You can't see others' perspectives or needs
+- Others exist only in relation to you
+
+**If you're unbalanced: Recenter.**
+
+Your axis should be in YOUR center (knowing yourself), not making yourself the center of EVERYTHING (narcissism).
+
+### Checking Your Egoism: Is Your Transformation Purposeful?
+
+**Healthy egoism (balanced):**
+- You're growing and evolving with purpose
+- You empower yourself to create positive change
+- Your transformation is integrated and directional
+- You create your reality consciously
+
+**Unhealthy egoism (unbalanced):**
+- You change chaotically without integration
+- You transform without consideration of impact
+- You empower yourself at others' expense
+- Your growth destabilizes rather than evolves
+
+**If you're unbalanced: Find direction.**
+
+Your transformation should have purpose and integration, not just be random change or selfish advancement.
+
+### Releasing "Spiritual Ego Shame"
+
+**If you've been taught that having an ego is bad, that being "egoless" is the goal:**
+
+**Release that shame.**
+
+You are not bad for existing as an individual. You are not unspiritual for having needs, boundaries, identity, self-awareness.
+
+**You are meant to exist.** You are meant to be centered in yourself. You are meant to transform and grow.
+
+**The teaching "let go of ego" was misunderstood or mistranslated.**
+
+What's meant is: **Balance your ego.** Get your axis in your center. Make your transformation purposeful.
+
+**You cannot and should not eliminate yourself.**
+
+### The Earth Practice: Both Movements
+
+**Spend time today feeling both movements:**
+
+**Egocentrism (rotation):**
+- Sit still and feel your center
+- Notice your axis—your spine, your core
+- Feel yourself as a stable, centered being
+- Honor "I am"
+
+**Egoism (translation):**
+- Move through your day with purpose
+- Notice how you're transforming, growing, changing
+- Feel yourself creating and evolving
+- Honor "I become"
+
+**Both are sacred. Both are necessary. Both are you.**
+
+---
 
 ## Q&A
 
-So , our only task in our life is to balance them. And of course , the question would be , how do we balance them?
+### Q: If ego isn't bad, why do so many spiritual teachings say to transcend it?
 
-So , basically , what we have to do at first is to find the axis of that conflict. And the axis would be the seed , the center , the core of that conflict.
+**Because "transcend the ego" is often a mistranslation or misunderstanding of "balance the ego."** In some spiritual traditions, "transcending ego" means seeing beyond the illusion that you're ONLY an individual separate from everything else—you're also connected to the universal. But this doesn't mean eliminating your individuality. It means holding both truths: you're an individual AND you're part of the whole. That's balance, not elimination.
 
-So , once I know about the seed , I start to recognize the purpose.
+### Q: What about people who are genuinely selfish and harmful? Isn't that ego?
 
-So , when I understand the purpose , I can see the changes that this axis has created.
+**That's UNBALANCED ego.** Their axis is not in their center (they see themselves as center of everything), or their transformation is chaotic and harmful. The problem isn't that they have an ego—everyone has an ego. The problem is their ego is not balanced. Telling them to "eliminate ego" won't help. Teaching them to center their axis and direct their transformation purposefully might.
 
-So , through the changes that has created in the life , in life , you can understand then how to transform reality from where you have to transform them. And there is the problem that we have in our lives that there is no one way to balance things. That each one of us has a different way to find the balance.
+### Q: How do I know if I'm being healthily centered or narcissistically self-absorbed?
 
-So , that is your task to find. What is your way? One of the things that , of course , we are going to speak a lot of all of this in other videos , because we must , we should. But , do n't make right now the specific questions.
+**Healthy center (egocentrism balanced): You know yourself AND you can see others clearly.** You honor your needs AND you honor others' needs. You have boundaries AND you have compassion. You exist as yourself AND you recognize others exist as themselves. **Narcissism (egocentrism unbalanced): You see yourself as the center of everything.** Others exist only in relation to you, only to meet your needs. You can't genuinely see their perspective or honor their existence separate from their usefulness to you.
 
-First , you have to acknowledge and understand the map , the basis of all those other questions.
+### Q: Can I be TOO selfless? Is that also unbalanced?
 
-So , once you understand the two main concepts , where the other are born , then you can start to work on that. Let 's go step by step. I was just thinking that , oh my God , I should explain this , this , this , this , this , this , this. But I say , no , wait a moment.
+**Yes! If you've lost your center completely trying to be "selfless," that's unbalanced egocentrism.** You've moved your axis away from your center entirely. You don't exist except in service to others. You have no boundaries, no identity, no sense of self. This isn't spiritual—it's self-abandonment. You need to reclaim your healthy egocentrism: knowing who you are, honoring your center, maintaining your identity while also caring for others.
 
-## Daily Practice Elements
+### Q: What about the teaching "die before you die" or "ego death" in spirituality?
 
-We have 270 days more. The vibration for today is fear. The statement for today is , I am connections , flows. Just one thing that I wanted to say.
+**Those teachings are about the death of the ILLUSION of separation, not the death of individuality.** You "die" to the belief that you're separate from everything else. You "die" to the limited identity of ONLY being this body, this personality, this life story. But you don't cease to exist as an individual expression of consciousness. Think of it as: die to the small ego (I am ONLY this limited thing), awaken to the large self (I am this AND the universal), but you don't disappear—you expand.
 
-First of all , thank you for some people that has given me advises of how to make some corrections in English , because of course English is not my language. I am trying to do my best with the English I know that I study in school and in movies.
+### Q: How does this relate to the Trinity Code (two forces creating neutral product)?
 
-So , so thank you for some of the advises. But also , I wanted to say that some people were telling me about flux , flux , flux , the word flux , that it 's better to say flow. But I 'm not specifically talking about the flow of things. I 'm talking about specifically more organic.
+**Egocentrism (stable center) + Egoism (transformational movement) = Balanced Individual (the neutral product, the creation).** Neither force alone creates a healthy being. Too much center without transformation = stagnation. Too much transformation without center = chaos. The DANCE between them creates something new: a being that is both stable and evolving, both grounded and growing. That's the trinity—creation through the union of seeming opposites.
 
-So , the flux. I 'm , I 'm not talking about specific about the flow in between the things. I want to be more specific.
+### Q: Is this teaching saying individualism is always good?
 
-So , that 's why I 'm using flux more like in a body , like the flux of flux of , of blood or the changes in between the different parts of the body.
+**No. It's saying the individual is not inherently bad, but must be BALANCED.** Extreme individualism (everyone for themselves, no community) is unbalanced. Extreme collectivism (individual doesn't matter, only group matters) is also unbalanced. Healthy balance: individuals exist, matter, have value AND are connected to and responsible to the collective. Both/and, not either/or.
 
-Okay.
+### Q: What if I don't know what my "center" or "axis" is?
 
-So , that 's what I was trying to use.
-
-So , that.
-
-So , the code for today is Trinity. And it says , two fourths , no matter which ones , have the potentially to create. And what is created is the neutral product of polarity. This Trinity is the concept of all creation itself.
-
-It 's the concept of all creation. It 's the concept of all creation , all creation of all creation. When I was with I 'm supposed to be 80 years old , but I do n't know. I 'm doing them all.
-
-So , first of all , comfortable , stretch the body , carries the body. And , you 're. And the side relates myself. I let all the weight fall down.
-
-I take your breath , feeling the air coming inside and transforming each one of my organs. Until then. I feel the air , the wind around me , connecting with the wind within me , becoming one. I feel the energy of my body starting to move in the shape of the spiral within my body.
-
-I perceive each one of the colors. I feel the energy of my soul expressing itself through the skin , expanding around with the wind as a twitter with the colors of a rainbow. I take your breath. I put my hands facing the sky at the height of my heart.
-
-## Energy Work
-
-I become aware of the light of the I am shining over me , like a sun coming towards me. I perceive the light coming through my body from the crown through the third eye , throughout heart and anchoring in the plexus with a beautiful yellow light. I perceive my plexus expanding its light , brighter as a sun , feeling of my hands with this beautiful light. I perceive my plexus with this beautiful light that makes them shine like two other suns , stars.
-
-These two suns are the center that reminds me who I am. I feel that one hand I have my egocentrism and in the other one I have my ego in. I recognize that through all my life I have made a bad use of both of them.
-
-Sometimes I have been eccentric and in other times I have been selfish. I become aware that the only one mistake in both of them has been my alliance.
-
-So I become aware that these two concepts are useful for me. I have to be eccentric , remind me that I have to be in my center , I have to find the center of myself. And the egocentrism is reminded me that I can transform myself , that I can empower my being.
-
-So it 's like this , that I will use my sound to balance both of these concepts , to become harmony with everything that I am. I bring my hands to my heart , unifying these two concepts. I can die , unify them with my vibration. I can die , unify them with my vibration.
-
-I can die , unify them with my vibration. I can die , unify them with my vibration. I am the flux of all machines. I am the flux of all connections.
-
-I recognize the power to be in the center. I am stretching and warning. I can come back here and now , opening your eyes. I hope you are all fine.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+**That's the work: discovering your center.** Ask yourself: What do I value most deeply? What feels like home in my soul? What remains true about me even when everything else changes? What is non-negotiable about who I am? Your center is your essence—the unchanging core beneath all the changing circumstances. Meditation, reflection, therapy, life experience—these all help you discover and know your center.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Closing Reflection
+
+Today we've explored **Egocentrism and Egoism**—two concepts that have been deeply misunderstood and unfairly maligned in spiritual teaching.
+
+**Ego is not the enemy. Ego is simply "I"—the individual existence.**
+
+We've been taught for centuries (first by survival-based cultures, then by religion, now by New Age spirituality) that the individual is bad, that ego must be eliminated, that being "selfless" is enlightenment.
+
+**This teaching was useful for group survival in certain contexts. But it's created generations of people ashamed of existing as individuals, trying to eliminate themselves in the name of spirituality.**
+
+**You are not here to disappear. You are here to exist—beautifully, powerfully, purposefully.**
+
+**Egocentrism** (being centered in your essence, grounded in your axis) is not selfishness—it's necessary stability.
+
+**Egoism** (transforming yourself, empowering yourself, creating your reality) is not narcissism—it's necessary growth.
+
+**The Earth teaches us perfectly:**
+- Rotation on its axis = egocentrism (stable center)
+- Translation around the sun = egoism (transformational movement)
+- Both together = seasons, life, evolution
+
+**You need both:**
+- Center without transformation = stagnation
+- Transformation without center = chaos
+- Center WITH transformation = balanced, evolving life
+
+**The problem is not having an ego. The problem is having an UNBALANCED ego:**
+- Axis not in your center (thinking you're center of everything)
+- Transformation that's chaotic (change without purpose or integration)
+
+**Your work is not elimination. Your work is BALANCE:**
+- Recenter your axis in your true essence
+- Direct your transformation with purpose and integration
+
+**Nothing is good or bad—only balanced or unbalanced.**
+
+This applies to everything we're learning in the Emotional Week. Doubt and certainty, remember and oblivion, cognition and ignorance, extroversion and introversion, egocentrism and egoism—none of these are good or bad. They're balanced or unbalanced.
+
+**Your journey is about finding balance, not picking sides.**
+
+**"I Am the Flux of Connections."**
+
+You are connected to your center (egocentrism) and to your transformation (egoism). You are connected to yourself as an individual and to the universal whole. You are both/and, not either/or.
+
+**Honor your ego. Balance your ego. Be yourself—centered and transforming.**
+
+See you tomorrow for Day 76, as we continue the Emotional Week.
+
+Rest well. Drink water. Find your axis.
+

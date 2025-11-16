@@ -1,274 +1,215 @@
 ---
-title: "Day 88 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 88 - Life and Death"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 88
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 88
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - month hole
+constellation: "Libra - Physical Week"
+chakra: "Knees"
+date: "October 30, 2020"
+topics: ["life as constant movement", "death as transformation", "transcendence", "dying many times", "ancient preparation for death"]
+keywords: ["life", "death", "transcendence", "resurrection", "transformation", "movement", "persistent", "Turkey earthquake", "ancient cultures", "dying while living"]
 
 practice_elements:
-  chakra: "Crown"
+  chakra: "Knees"
+  vibration: "SSfunu"
+  statement: "I Am the Path of Evolution"
+  code: "Polarity (Law 4) - Fourth law: everything dual, pairs of opposites. Same thing with different grades. Extremes meet, touch each other. All truths are semi-truths, all paradoxes reconciled."
+  body_position: "Comfortable"
 
 ---
 
-# Day 88 - Consciousness Work
+# Day 88 - Life and Death
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+## Overview
 
-## Daily Practice Elements
+Today connects with knees chakra in Libra Physical Week, exploring life and death. Knees represent path, direction—movement forward or backward in history, ancestors.
 
-- **Chakra:** `Crown`
+We're in Egypt now. Yesterday, my Instagram account hacked from Turkey. Weird thing because Turkey is where I aligned pyramids few days ago. Now Turkey having earthquake at 6.9 magnitude—many people died.
 
-## Introduction
+This earthquake happened exactly where we were aligning pyramids—same place. Some people wrote me saying they felt earthquake when we did alignment. Now physical earthquake came. Coincidence? I don't think so.
 
-Hi everyone. Good morning , good afternoon. If you see me a little bit weird is because I forgot the light.
+Today I want talk about life and death because of earthquake. Many people ask: "Why do people have to die? Why earthquakes, catastrophes kill people?" These questions come from misunderstanding what death is.
 
-So how have you felt the connection today? Maybe some of you felt something. For us was very intense. I had like many people within.
+Life and death are not opposites fighting each other. They're complementary parts of same movement—same process of transformation. When you understand this, death becomes teacher, not enemy.
 
-And too many things going on and I even forgot English for a moment. But it was really really nice I guess. Yes? Yes!
+## Core Teaching
 
-I do n't know. We are all here.
+### Life: Persistent Movement
 
-So I could n't sleep very well yesterday. I think I 'm doing well. We are all very energetic where we are doing. But we sleep not much.
+Life comes from word meaning to be persistent, constant. Life is label we give to constant movement, constant transformation.
 
-But I slept a little yesterday because of what happened with that. My Instagram account that it was hacked yesterday.
+When we say something is alive, we mean it moves, changes, transforms constantly. Life is not static state—it's process of continuous movement.
 
-So from Istanbul , there was an earthquake in Turkey and today in Turkey.
+Life is everywhere. Even rock is alive because atoms inside it move constantly. Everything moves, vibrates. This is why third law says: nothing stops, everything moves, vibrates.
 
-So it was not me. No , no , no. I was mad but not so much. It was from Turkey.
+Life is label for persistence of movement. When movement continues, we say there's life.
 
-## Q&A
+### Death: Transformation, Not Stopping
 
-So we have been reading the news and well , during the alignment in the pyramid , it was also the energy of the mother , the earth. And saying we are asked to become the to become its cells. And also they talk about death. We were talking about the 12th.
+Death comes from word meaning to end, to stop. But this is misunderstanding.
 
-And they say there were 12 people that were transcendent today in the earthquake.
+Death is not stopping of movement. Movement never stops. Death is transformation—end of one form, beginning of another.
 
-Remember that Turkey represents the head of the snake , the planet. And well , it 's all the movement. And today , precisely , the topic to discuss is life and death. One of the things that we have to acknowledge about death is that today , we think about death as something that is a tragedy and something that is wrong or bad.
+When we say someone died, we mean their form transformed. Energy didn't stop—it changed structure. Body returns to Earth, consciousness continues elsewhere.
 
-But for nature , for the universe , death is not something bad. It 's just something natural that it goes through the process of life.
+Death is rethinking, reimagining, restructuring. It's end of one experience, beginning of next.
 
-So all these kind of things that we sometimes believe is a tragedy. And like these earthquakes , hurricanes and destruction and all those things , they are not a tragedy for the earth. They are movement as the same way in which we have been moving our joints days. The earth also do that.
+Ancient cultures understood this. They didn't fear death—they prepared for it. They taught children from birth: "Welcome to path toward death." Not scary, not tragic—natural.
 
-And this is the proof that the earth is alive.
+### Dying Many Times in Life
 
-So a way in which the earth is mean and showing us that it 's alive that is transforming itself. Well , it 's a way in which the earth shows us that she 's transforming. And that we have to do so. Because when we think just about the transformation of the earth as or the movement of the earth as something that is wrong , that is a tragedy that should n't happen.
+You don't have to wait for body to die to experience death. You die many times while living.
 
-We are denying an important fact that in order to transform yourself , you need to move. You need to change.
+Every transformation is death. When child becomes teenager, child dies—teenager is born. When teenager becomes adult, teenager dies. When you leave job, old identity dies. When you end relationship, that version of you dies.
 
-So of course that we will have to acknowledge to understand what is the meaning , the concept of life and death , according to the humans. But here we are working for the universe and the universal knowledge , the wisdom , the connection and the point of view. Of the cosmos.
+Life is series of deaths—constant transformations. You're dying and being reborn every moment.
 
-So besides trying to understand what life and death means for humans , we need to open our minds to what life and death means for the whole cosmos.
+This is why learning to die while living is most important teaching. When you embrace death as transformation (not enemy), you embrace life fully.
 
-Okay. To understand what life and death means , let 's go to the meaning of life and death. Of course , life comes from the Indo-European language , label. And label means sin that is permanent , something that is constant.
+### Transcendence vs. Resurrection
 
-And that has perseverance , you say? Yeah , so the difference.
+In Turkey earthquake, 12 people transcended. I don't say "died"—I say transcended.
 
-So it 's something persistent , yeah , constant , that is always going ahead , basically. That 's what it means. And in the other hand , death comes from from the European languages that would mean end or to stop. And to end a process to end up something.
+Transcendence means passing through—going from one state to another without losing consciousness. These 12 people passed through death consciously, aware.
 
-So basically life is the process of a continuation of persistence on do something , on doing something. And of course , the end to die , death is to stop that.
+Most people resurrect. Resurrection means you die unconsciously, then reincarnate later. You lose consciousness, forget, start again.
 
-So it 's the same in Spanish , basically.
+Transcendence is different. You pass through death aware, conscious. You don't forget. You continue without interruption.
 
-So the questions are different , but the meanings are mostly the same. In the concept of languages , this would be like life equals movement.
+Jesus wasn't only one to transcend. We call it resurrection because mistranslation, misunderstanding. Everyone reincarnates (resurrects). Few transcend.
 
-So a constant movement. And death would be stand still and to kind of review everything that you have done while you were moving. In this concept , we have to take away the perception of biology here. Not about being born and to die in a physical body , but to take the concept of what it means to move and to stop.
+These 12 in Turkey earthquake transcended because they were ready. They prepared. When earthquake came, they passed through consciously.
 
-So in just one life , we do that many times. We move forward and we stop to rethink and then we move forward and to stop and rethink.
+### Ancient Cultures Prepared Children for Death
 
-So constantly.
+In ancient cultures (Egypt, Tibet, Indigenous Americas), they taught children about death from beginning.
 
-Okay.
+They said: "You came here to die. Your whole life is path toward death. Prepare for it. Learn to die consciously so you can transcend."
 
-So this would means that throughout our lives , we died many times in different aspects.
+This wasn't scary—it was loving. When you know death is transformation, natural part of life, you live differently. You don't fear. You embrace each moment knowing it's temporary, precious.
 
-So we could start again to make a new expression of ourselves.
+They practiced dying while living. Meditation, sleep, deep transformation—all practice for final death. When time came, they were ready. They transcended.
 
-So , so this means that we have to learn if you , if we want to transform ourselves , what we have to do is to learn how to die while we are living.
+Modern culture does opposite. Hides death, fears it, pretends it won't happen. Then when it comes, people panic, resurrect unconsciously, forget everything.
 
-So basically this concept would mean that would mean that we have to die in life , would means to learn how to let all the things that I bring to life. All the things that I was bringing with me in my life , in my , in that it 's a , I wait for me , that I have that I 've been caring with me through years.
+Which is better? Prepare and transcend, or fear and forget?
 
-So I have to learn how to , how to give it away , how to let it go. And , and through that to restart my path to begin and to be reborn in a different way.
+### Point A to Point B: Line Is Experience
 
-So this is why the ancient cultures usually talk about death constantly. Like you have to learn how to die , you have to learn how to death yourself from everything that you have to live in so you can restart in a , in a new life.
+Life is journey from point A (birth) to point B (death). Line between them is experience—what you live.
 
-So in , in the past in some civilizations , we used to , to take ourselves to the process of death many times. And we , and we even used to change our names and environments.
+Death of point A is beginning of point B. End of one is start of next. This is continuous cycle.
 
-So we could be reborn to restart again to begin with a new life , to begin with a new , with a new imprint of our new reality.
+When you understand this, you see: there's no final death, only transformations. Each end is new beginning.
 
-So , so this was a process that we did many times in our lives.
+Your job: make line (experience) as full as possible. Feel, perceive, transform as much as you can. When you reach point B, you'll be ready for next point A.
 
-So we could acknowledge different perspectives of our self , like living different lives in one.
+This is path of evolution.
 
-So we could understand that that was something natural.
+## Practice: Knees Chakra Activation
 
-So this is why in many young , ancient cultures , they took that , the biological death , as something very normal , because they were practicing how to die.
+**Preparation:**
+- Comfortable position
+- Stretch body, massage, warm
+- Let weight fall, relax, focus breathing
 
-So the physical death was kind of a celebration.
+**Wave Movement:**
 
-So they give him the , they give to the person a new name for the next trip. And they would also celebrate in this rebirth.
+1-18. Complete body activation sequence
 
-So when we understand through the experience of many , many death throughout our lives and the , and the culture , the people is used to the death of the people that they love.
+**Knees Work:**
 
-So you acknowledge something important that death does n't exist. That death is just another part of life that we also can call being reborn. To be reborn is something very natural for the cultures that understood that life was a constant of processes of transformation.
+19. Pay attention to higher self above you
+20. Help descend through crown, third eye, throat, heart, plexus, sacral, root, knees
+21. Knees hold all ancestors—history, path you walked to be here
+22. With both hands, massage knees deeply (circles around kneecap, sides, back of knees)
+23. Feel all generations in your knees—all who walked before you
+24. Perceive knees as portal: forward (future, where you're going) and backward (past, where you came from)
+25. Thank ancestors who walked path so you could be here
+26. Ask: What death am I ready for? What transformation is calling me?
 
-So this means that death does n't really exist , but death is equals to another process of even birth.
+**Integration:**
 
-So remember that some people believe that when you die , you see like blank , you see nothing and there 's a void.
+27. Relax hands, allow perceive sensations at knees
+28. Vibrate: SSfunu
+29. State: "I am the path of evolution" (repeat)
+30. Feel yourself as point on line from birth to death—experience between two transformations
+31. Embrace death as teacher, transformation as natural
+32. Stretch, warm, massage throughout all portals of joints
+33. Return here now, open eyes
 
-So remember that the word not comes from Nasa in Latin , that means that means someone that is born.
+**Closing:** Drink lots of water, rest to assimilate. Honor those who transcended in Turkey earthquake.
 
-So basically nothing , the nothing behind death is to be reborn again. And this is something also very important , which is resurrection. Christianity has this concept of resurrection just attached to one person , which is Jesus Christ. But before Jesus Christ and a little bit like 300 after Jesus Christ , okay.
+## Key Insights
 
-Everyone believed in reincarnation. Everyone knew that all the people would resurrect because the moment of death would be like being born again.
+1. Life (persistent) means constant movement, continuous transformation—not static state
+2. Death (end) means transformation, not stopping—energy changes structure but doesn't stop
+3. Ancient cultures taught children: "Welcome to path toward death" (natural, not scary)
+4. You die many times while living—every transformation is death (child→teenager, old identity→new)
+5. Learning to die while living is most important teaching—embrace transformation
+6. Transcendence: passing through death consciously, aware (12 people in Turkey earthquake)
+7. Resurrection: dying unconsciously, reincarnating later, forgetting (most people)
+8. Jesus wasn't only one to transcend—mistranslation calls reincarnation "resurrection"
+9. Ancient cultures prepared for death through meditation, sleep practice, transformation awareness
+10. Modern culture hides death, fears it—result is unconscious resurrection, forgetting
+11. Point A (birth) to point B (death)—line between is experience (what you live)
+12. Death of point A is beginning of point B—each end is new beginning
+13. Your job: make line (experience) as full as possible before reaching point B
+14. Knees hold ancestors—history, path you walked to be here (portal forward/backward)
+15. There's no final death, only transformations—continuous cycle of evolution
 
-So this process of being born again is something that we all did. But sadly , religion and politics , they decided to say to people , no , this does n't happen.
+## Integration
 
-So they could all be controlled by the government because whoever knows that they can reborn and restart again wo n't follow the laws for sure.
+**Daily:** Notice small deaths—transformations you experience. Child dying, teenager being born. Old belief dying, new understanding emerging. Embrace these.
 
-So in ancient times , in ancient times , death was something natural and something that was from everyday. For example , in Atlanta and times when a child was born , they used to say , welcome to the path towards death. It was not welcome to life. It was the path towards death.
+**Weekly:** Knees chakra practice, massage deeply. Feel ancestors who walked before you. Ask: What transformation is calling me?
 
-And this was because since we were a child , we were prepared to face death in a different way , to understand that that was a part of life.
+**Monthly:** Practice dying consciously. In meditation, imagine letting go of body, identity, everything. Pass through aware. This prepares you.
 
-So we lived with death all around us , like something natural , because we knew that it was just a reborn , a process of reverting. The cultures that only believed that after that there are only two options , heaven or hell , or there 's nothing. Those are the ones scared of death. Those are the ones that does n't want to face the concept of death.
+**Ongoing:** Remember: ancient cultures prepared children for death from birth. You can start now. Death is teacher, transformation is natural. When you learn to die while living, you transcend.
 
-They are afraid of it. And of course , they think is a tragedy. Having this concept of death as a reverting is why I said before , 12 people has transcluded and not died. Because if people die , it means that they stopped.
+## Questions and Answers
 
-And in the universe , nothing stops. Everything is stopped. The energy never stops. It 's constant transformation.
+**Q: If death is transformation, why is it painful?**
+A: Physical pain is body's response. Emotional pain is attachment to form. When you understand death as transformation (not loss), pain transforms too. Still feel it, but don't suffer.
 
-So when you say people transcend it , you are saying that they has passed through another process of birth.
+**Q: How do I know if I'll transcend or resurrect?**
+A: Practice dying while living. Meditation, deep transformation, letting go of identity. If you're conscious in these, you'll be conscious in final death. That's transcendence.
 
-So you are not saying they stopped their process. They are in with it in another level. What is life then?
+**Q: Why did 12 people transcend in Turkey earthquake?**
+A: They were ready. Maybe they prepared (ancient teachings), maybe they aligned during pyramid work. When earthquake came, they passed through consciously instead of panicking.
 
-So life , it was a constant movement in both languages , English and Spanish.
+**Q: Is resurrection (reincarnation) bad?**
+A: Not bad—just unconscious. You forget, start again. Transcendence is conscious—you remember, continue. Both are natural. One requires preparation, one doesn't.
 
-So a constant movement is the energy transform itself constantly.
+**Q: How can I prepare for death?**
+A: Practice dying in small ways. Let go of identities, beliefs, attachments. Meditate on dissolution. Sleep consciously (sleep is practice death). When final death comes, you'll be ready.
 
-So everything is life.
+**Q: If I die many times while living, is physical death different?**
+A: Same process, bigger scale. Every transformation is death (small). Physical death is transformation (large). When you master small deaths, large death becomes natural.
 
-So everything that happened in the universe is constant transformation. It 's the energy transform itself and creating this great network of awareness that goes through each one of the dimensions.
+**Q: What about people who die suddenly without preparation?**
+A: Most resurrect (reincarnate unconsciously). But some surprise themselves—in moment of death, something awakens. You never know what soul prepared before birth.
 
-So we would say that the universe is a constant life with a lot of processes of transcendence , many of them.
+**Q: How did ancient cultures teach children about death without scaring them?**
+A: They made it natural. "You came here to die—whole life is path toward that." Not threat, just truth. When death is natural (not hidden), children don't fear. They prepare.
 
-So when we say this is my life and I had a past life and I will have another life in the future , what we should say is that all of that is my own life. It 's just one life divided in different aspects.
+## Closing Reflection
 
-So it 's just myself expressing in different attributes. But it 's just one life. I never had another life. I was expressed in another time , which is different.
+Today's teaching brings death out of shadow into light. Life is persistent movement. Death is transformation. They're not enemies—they're partners in continuous evolution.
 
-So from the point of view of the universe , in the concepts of the universe , life and death are just two dots and a line.
+You die many times before body dies. Every transformation—child becoming teenager, old job ending, relationship transforming—is death. When you recognize this, you learn most important skill: dying consciously while living.
 
-So point A and point V , just one line in the middle that will represent the experience from life to death. But this death will be the beginning of another line.
+Ancient cultures prepared children from birth: "Welcome to path toward death." Not scary, just true. Modern culture hides death, fears it, pretends. Result? When death comes, panic, unconscious resurrection, forgetting.
 
-So the point A is the inside going to the outside is the pulse in pulse is the action taking a reaction.
+Turkey earthquake took many, transcended 12. Transcendence is passing through death aware, conscious. Resurrection is dying unconsciously, reincarnating later, forgetting. Jesus wasn't only one to transcend—we all can. But it requires preparation.
 
-So it 's just two different concepts that one is being burned from the other one. And when this one starts to move and to go to that one , this one became becomes the end of the first process , but the beginning of the next one. This is why there is no death. It 's just because each process of ending is the beginning of the next one.
+Your knees hold all ancestors who walked path before you. They died so you could be born. You'll die so others can be born. This is line of evolution—point A to point B, experience between.
 
-So this starts to create the network like a geometry , creating different dots and lines all around creating the whole network of consciousness , the whole network of creation with different lives , we may say.
+Your job: make experience (line) as full as possible. Feel, perceive, transform. Practice dying in small ways so when big death comes, you're ready. Meditate on dissolution. Sleep consciously. Let go of identities, beliefs, attachments.
 
-So according to the energy of Libre , we have to realize that life and death are not different things , not opposite things. They are one and the key that connects both of them is transformation.
+When you learn to die while living, death becomes teacher instead of enemy. You embrace each moment knowing it's temporary, precious. You transform consciously instead of clinging to form.
 
-So with all this that I explained , I do n't want to say that you should not suffer because there is death because you may feel it as a tragedy. And there is no , I do n't want you to feel that I am saying in order to be aware and to be conscious of everything you should not feel. No , remember that we have a body that we are connected by with links of vibration and energy to others and that we are not separated that we are all linked as one body.
+You are path of evolution when you recognize: life is series of deaths, death is series of births, all is transformation. No final end, only continuous movement. Prepare now. Practice dying. When time comes, you'll transcend instead of forgetting.
 
-So when someone dies , there is a part of the energy that breaks.
-
-So this generates an electrical reaction that creates an emotion within me because something has changed.
-
-So my energy fills it , so my emotion fills it.
-
-So what should I do with it? This is energy that connects us.
-
-So I should not think that in order to be very aware and spiritual and so on , I should not feel anything or I should just understand that is point A point B. No , what I mean is that in a world like this , you have to feel it , you have to perceive it because it is energy.
-
-So you need to allow yourself to feel it , to perceive it , to have all the sensations but when you put awareness to that , when you become conscious to that energy , to that feeling , you take that energy and you make it something positive for the person that is living. And why? Because when you keep yourself attached by emotion to that other person , the other person also is attached by linked to you.
-
-So this is why a lot of people can not leave , can not can not go away.
-
-So it 's like taking that energy , allowing yourself , allowing the body to feel the lack of energy because that person went away. And then you take all that energy to push that other person to keep going into another level of consciousness.
-
-Okay , setting that person free from your link and setting yourself free also to create a new link.
-
-Remember that this is not about not feeling.
-
-Okay , it 's not about not feeling is about to be aware of why we feel and what we use , what we do with that energy. And today 's we begin with Scorpio.
-
-So we will speak about that this month.
-
-So we go to that.
-
-Okay , that 's it.
-
-## Daily Practice Elements
-
-So the information for the vibration for today is shoe statement for today is I am the path of evolution. The code for today is rhythm. The law of rhythm. The fourth universal law is related with time with the pulse of the cosmic hearts beating.
-
-Everything is synchronized in circles that repeats themselves in different unions. This way , everything has its own experience. Experience , excuse , rhythm. Time to fulfill a process that is inevitable.
-
-Like a clock , like the spinning of the earth , like life itself towards death , like history , lives its consequences.
-
-So just the last thing , because I do n't have my Instagram and I do n't know if I 'm going to have it back again.
-
-So please , everyone know that I will be posting everything in as always too in just soy dot red.
-
-So you can keep following everything. I 'm death in social media. Is a new , yeah , yeah , of course , it 's a new beginning.
-
-So you sit comfortable. We begin by stretching the body , warning. I relax the body. Letting all my weight fall down.
-
-I just focus in my brain. I bring my attention to my left foot. I bring my attention to the movement of my toes , left foot , and soft circles with the ankle. I bring my attention and movement to my left knee and hip.
-
-I bring my attention to my waist , bending my body towards left. I come back to the center. I begin by moving my left hand , its fingers , and the wrist and soft circles. I bring my attention to the movement of my elbow and my left shoulder.
-
-Very soft. I start to move my head and circles towards left. I 'm very soft. I start to move it towards right.
-
-I bring my attention to the movement of my right shoulder and towards the elbow. Very soft. I begin to move my right wrist and circles my hand and fingers. I start to bring my attention to the movement , bending my body towards the right.
-
-## Energy Work
-
-I bring my attention to the movement of my right hip and right knee. Until I start to move , I encode my right foot and toes. I relax the body , take your deep breath , and I bring my attention to the energy and light of the I am , both me. I feel the light of the I am falling down through my body , through my crown , through eye , through heart , plexus , sucking , root , and widen into pan through the legs until the knees.
-
-## Guided Meditation
-
-I visualize my two knees , shining like two sons. I use my fingers to massage the knees by the front , the sides , and from the back. Behind the knees , the side of it. I recognize that in them , I find my ancestors , my history , my life , and then.
-
-I take your deep breath and relax your hands , receiving the sensations that I have in my knees. I expand my vibration and sound. I expand my vibration and sound. I expand my vibration and sound.
-
-I expand my vibration and sound. I am the part of evolution. I am the part of evolution. I expand my vibration and sound.
-
-I expand my vibration and sound. I expand my vibration and sound. I expand my vibration and sound. Each one and some time , come back here and now , opening your eyes.
-
-As always , drink a lot of water , rest , and see you tomorrow at the same time. Bye! Bye!
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+That's the teaching. That's the path.

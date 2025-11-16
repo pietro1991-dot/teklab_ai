@@ -1,312 +1,239 @@
 ---
-title: "Day 58 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
-day_number: 58
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 58
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-
-practice_elements:
-  chakra: "Crown"
-
+title: "Day 58: The Pillars - Knowledge and Wisdom"
+teacher: "Matias de Stefano"
+series: "365 Days: The Path of I Am"
+day: 58
+cycle: "Virgo - The Body"
+focus: "Knees Chakra"
+theme: "Balancing the Two Paths of Growth"
+date: "2023-08-28"
+tags: [knowledge, wisdom, pillars, balance, conscious, unconscious, education, responsibility, paths]
 ---
 
-# Day 58 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+# Day 58: The Pillars - Knowledge and Wisdom
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+**Morning Intention:** "I balance accumulation with meaning, knowledge with wisdom."
 
-## Introduction
+**Key Affirmation:** "I am the greed of path."
 
-Hi everyone , how are you?
+**Soul Pattern Vibration:** R
 
-So I 'm in another place today because I was , there was a wedding and I think the De was inside my bedroom.
+**Physical Focus:** Knees, legs, structural support
 
-So I changed my place for two hours.
+**Meditation Practice:** Two-pillar visualization integrating conscious and unconscious paths
 
-So I was running to look for a place and one minute ago before I was supposed to go live , everything fell down , everything that I put here so it could be still down. The computer , everything fell down.
+## Overview
 
-So now I kind of put it in a way that maybe it 's not going to fall down now.
+Today we explore the two pillars that support our journey: knowledge and wisdom. Like our two legs, both are necessary to move forward, yet they serve distinctly different functions. Knowledge accumulates data and power; wisdom creates meaning and understanding. The conscious path directs; the unconscious path provides.
 
-So today we talk about the niece , our pillars.
+Our knees - the joints that allow flexibility in these pillars - represent our capacity to bend without breaking, to adapt while maintaining structure. This teaching challenges the modern education system's overemphasis on knowledge accumulation while neglecting wisdom cultivation. True growth requires both pillars working in harmony.
 
-So remember we are still in the physical aspect and still we have three more days inside the constellation of Virgo. Before we start I want to make clear three little things.
+The fundamental message: you are responsible for your own path. External systems can provide knowledge, but only you can generate wisdom from your lived experience.
+
+## Core Teaching
+
+### Knowledge vs. Wisdom: The Essential Distinction
+
+**Knowledge** is the accumulation of data, information, and techniques. It answers "what" and "how." Knowledge creates power - the ability to manipulate and control. The knowledgeable person has tools; they are "powerful."
+
+**Wisdom** is the creation of meaning from experience. It answers "why" and "when." Wisdom creates understanding - the ability to perceive context and timing. The wise person has perspective; they are "wise ones."
+
+Neither is superior; both are essential. Like our two legs, trying to walk with only one creates imbalance. Modern education obsesses over knowledge (memorization, testing, data) while starving wisdom (reflection, integration, meaning-making).
+
+### The Two-Leg Metaphor
+
+Your left leg (unconscious path) accumulates:
+- Experiences you didn't consciously choose
+- Patterns inherited from family and culture
+- Automatic responses and reflexes
+- The vast data of living
+
+Your right leg (conscious path) directs:
+- Intentions you deliberately set
+- Meanings you actively create
+- Decisions you make with awareness
+- The focused application of will
+
+To walk forward, both legs must move. If you only accumulate (left leg) without direction (right leg), you spin in circles. If you only direct (right leg) without material (left leg), you have nothing to work with. Movement requires alternation and balance.
+
+### The Education System Critique
+
+The current pyramidal education model:
+- Knowledge flows from top (teacher/authority) to bottom (student/recipient)
+- Students are empty vessels to be filled with data
+- Success measured by retention and repetition
+- Wisdom is ignored or even discouraged as "subjective"
+
+This creates people who know many things but understand little. They can recite facts but can't generate meaning. They have power without wisdom - which is precisely how systems of control prefer it.
+
+True education would balance:
+- **Knowledge transmission:** "Here's what others have learned"
+- **Wisdom cultivation:** "What does this mean for YOU? How does your experience confirm, challenge, or deepen this?"
+
+### Conscious vs. Unconscious Paths
+
+The **unconscious path** accumulates without your permission:
+- Childhood programming
+- Cultural conditioning  
+- Traumatic imprints
+- Genetic predispositions
+
+The **conscious path** directs with your intention:
+- Deliberate practice
+- Chosen perspectives
+- Intentional healing
+- Conscious creation
+
+Neither path is "better." The unconscious provides the raw material; the conscious provides the shaping force. A sculptor needs both clay (accumulated) and hands (directing).
+
+The error is believing you can eliminate the unconscious. You can't. You can only become conscious OF it, then consciously direct what it has unconsciously accumulated.
+
+### Responsibility for Your Path
+
+External systems can change laws, policies, resources. But only YOU can transform your internal relationship to these externals. Waiting for the world to change before you change is giving away your power.
+
+This isn't victim-blaming - external oppression is real. But even within oppression, you remain responsible for your internal response. Viktor Frankl in concentration camps: the final freedom is choosing your attitude toward circumstances.
+
+Your knees allow you to kneel when necessary, stand when possible, and always maintain the capacity to rise. Flexibility isn't weakness; it's strategic strength.
+
+### The Pillars Support Each Other
+
+When knowledge and wisdom work together:
+- Knowledge asks: "What information is available?"
+- Wisdom asks: "What does this information mean in context?"
+- Knowledge builds tools
+- Wisdom knows when and whether to use them
+- Knowledge accumulates power
+- Wisdom directs power toward meaning
+
+Without wisdom, knowledge becomes dangerous (nuclear weapons, social media algorithms). Without knowledge, wisdom becomes impotent (good intentions without effective methods).
+
+## Practice: The Two-Pillar Meditation
+
+**Duration:** 15-20 minutes
+
+**Preparation:**
+- Stand with feet hip-width apart, or sit with both feet flat on floor
+- Feel your knees - bend them slightly, never locked
+- Sense your two legs as two distinct pillars
+
+**The Meditation:**
+
+1. **Left Pillar - Unconscious Accumulation (5 minutes)**
+   - Bring awareness to your left leg from hip to foot
+   - This pillar represents everything you've accumulated without choice
+   - Visualize roots going deep - ancestral patterns, childhood experiences, cultural conditioning
+   - Don't judge; just witness: "This is what I've been given"
+   - Feel the weight and substance of all this accumulated material
+
+2. **Right Pillar - Conscious Direction (5 minutes)**
+   - Shift awareness to your right leg from hip to foot
+   - This pillar represents your capacity to direct and choose
+   - Visualize light streaming down - your intentions, decisions, conscious meanings
+   - Acknowledge: "This is what I do with what I've been given"
+   - Feel the focus and purpose of conscious direction
+
+3. **The Knees - Flexibility (3 minutes)**
+   - Bring attention to both knees simultaneously
+   - Bend them slightly, feel their capacity for flexibility
+   - These joints allow both pillars to work together
+   - Neither pillar is rigid; both can adapt
+   - Practice gentle knee bends: accumulate (bend), direct (straighten), repeat
+
+4. **Walking Forward (5 minutes)**
+   - If standing, take slow steps; if sitting, visualize walking
+   - Left leg lifts (unconscious provides material)
+   - Right leg directs (conscious chooses direction)
+   - Alternating, balancing, moving forward
+   - This is how knowledge and wisdom work together
+
+**Integration:**
+Place hands on knees. Speak: "I am the greed of path. My unconscious accumulates the material of life. My conscious directs it toward meaning. Both pillars support my journey."
+
+## Key Insights
+
+- Knowledge accumulates data and power; wisdom creates meaning and understanding
+- Both are necessary, like two legs - neither alone enables forward movement
+- Modern education over-emphasizes knowledge while starving wisdom cultivation
+- The unconscious path accumulates experiences without permission; the conscious path directs them with intention
+- Knees represent flexibility - the capacity to adapt while maintaining structure
+- Pyramidal education fills students with data rather than cultivating wisdom from experience
+- External systems can change circumstances, but only you can transform your internal relationship to them
+- Responsibility for your path doesn't deny external oppression; it reclaims internal power
+- Without wisdom, knowledge becomes dangerous; without knowledge, wisdom becomes impotent
+- True growth requires alternating between accumulation and direction, like walking
+- You cannot eliminate the unconscious, only become conscious of it and direct what it provides
+- Flexibility isn't weakness; it's strategic strength allowing you to kneel, stand, and rise
+
+## Integration
+
+### Daily Exercise
+
+**Morning:** Stand and feel your two legs. Ask: "What has my unconscious accumulated overnight (dreams, insights, feelings)? How will my conscious direct this today?"
+
+**Midday:** When you encounter new information, pause and engage both pillars:
+- Knowledge pillar: "What are the facts here? What data is present?"
+- Wisdom pillar: "What does this mean? How does this relate to my experience?"
+
+**Evening:** Review your day as a walk between two pillars:
+- What did you accumulate (experiences, information, interactions)?
+- How did you direct it (decisions made, meanings created, actions taken)?
+- Were both pillars balanced, or did you favor one?
+
+### Applying the Teaching
+
+**With Learning:**
+- When studying anything, don't just accumulate facts (knowledge pillar)
+- Actively create meaning from them (wisdom pillar)
+- Ask: "How does this information connect to my lived experience?"
+- Generate your own examples, metaphors, and applications
+- Knowledge + wisdom = integrated understanding
+
+**With Decision-Making:**
+- Gather information thoroughly (knowledge pillar)
+- Then step back and ask what it means in context (wisdom pillar)
+- Don't let data override your experiential wisdom
+- Don't let intuition override necessary information
+- The best decisions balance both
+
+**With Personal Growth:**
+- Acknowledge what you've unconsciously accumulated (left pillar):
+  - Family patterns, cultural programming, past traumas
+- Take conscious responsibility for directing it (right pillar):
+  - What will you keep? Transform? Release?
+- Practice flexibility at the knees:
+  - Bend when necessary (adapt to reality)
+  - Straighten when possible (maintain your structure)
+  - Always retain capacity to rise
 
 ## Q&A
 
-So the first thing is that I am reading everything but I am not being reading your comments and everything , but I am not being able to answer to all of them because it is impossible. And also I am taking questions and things that you may write to put them also as an issue to discuss in the writings and the talking. But they will be general. I am not speaking to a person to specifically.
+**Q: Can't wisdom come from books too, not just experience?**
+A: Books provide knowledge about wisdom. True wisdom arises when you test that knowledge against your lived experience and generate your own meaning. You can learn ABOUT wisdom (knowledge), but you must BECOME wise through integration (wisdom).
 
-So they will be general.
+**Q: What if my unconscious path accumulated mostly trauma and dysfunction?**
+A: The unconscious pillar provides the raw material; it doesn't determine the outcome. Trauma is simply very dense material - it requires more conscious work to direct, but it also provides profound potential for transformation. Your conscious pillar is responsible for what you create from what you were given.
 
-So they are useful for everyone.
+**Q: How do I know if I'm balanced between the two pillars?**
+A: Check your movement. If you're spinning in circles (lots of experience but no clear direction), you're over-relying on unconscious accumulation. If you're stuck in place (clear intentions but no material to work with), you're over-relying on conscious direction. Actual forward progress indicates balance.
 
-So another thing is that I have seen many people saying yes , but I do n't understand it or yes , I agree with this. But it is also this information or blah blah.
+**Q: Isn't the education system changing to be more wisdom-focused?**
+A: Some progressive models are trying, but the dominant system still prioritizes standardized testing (knowledge retention) over meaning-making (wisdom cultivation). Real change happens when students are taught HOW to generate meaning from information, not just how to memorize it.
 
-So yes , of course , I appreciate those kind of comments , but remember that we have 300 years ahead. The 300 , sorry , 300 days ahead.
+**Q: What does "greed of path" mean?**
+A: It's the insatiable appetite to explore every possibility, to walk every road, to know through experience rather than theory. Not greed for possessions, but greed for the journey itself. The universe's hunger to know itself through infinite paths.
 
-So a lot of things to be written and things to speak about.
+**Q: Can I strengthen one pillar if it's weak?**
+A: Yes. If your knowledge pillar is weak, actively seek information, study, learn techniques. If your wisdom pillar is weak, practice reflection, meditation, meaning-making from your experiences. But remember: the goal is balance, not making one pillar so strong it compensates for the other.
 
-So we are going to discuss the same issues that we discussed before in a different perspective from different constellations.
+**Q: How do the knees specifically relate to this teaching?**
+A: Knees are the joints that give both pillars flexibility. Locked knees (rigid thinking) make you brittle - unable to adapt. Hyper-flexible knees (no structure) make you collapse. Healthy knees bend when needed but maintain strength. This is the balance between accumulating and directing, between receiving and choosing.
 
-So do n't worry that we will try to take all the data as possible , but we have a lot of time ahead. And another thing I 've been written that some people did a comment about why I was saying words like shit , for example , and they are not bad words. They are in the dictionary. They had a history.
-
-They had a way of explaining things.
-
-So this is why maybe I do n't use so many words to explain something if with just one word you can say it.
-
-So usually the culture is the one that puts a lot of heavy to those words , because it 's what we believe , not what the word really means.
-
-So for example , I explained here in each of the data data to the people that the most bigger insult that in Atlantis you could make to someone was an empty jar , empty jar that you may say Group meant that that empty jar because the information was in water inside jars.
-
-So if you have no water in the jar , that means that you have nothing.
-
-So that was the biggest insult for that time. And for example , the insult that we have today as son of a bitch , for example , was not an insult in that time because the prostitution was teaching.
-
-So they were teaching how to handle the Kundalini the sex.
-
-## Energy Work
-
-So being a son of a horror or a prostitute was not a problem , was not an insult , was something normal. Bien , Anton says so this is why it 's all about perceptions about our own way of understanding the world and not the words by themselves. The other thing that I wanted to say is related to the root chara and is that I would begin like this. I used to , well , there 's many messages in Instagram and I do n't I do n't read them.
-
-I sometimes I check some of them , but I do n't usually see them.
-
-Okay. I have a friend that is reading every one of the messages that you sent.
-
-So , and I wo n't tell this because in one side , if someone answers is not me , I want to be sincere. If someone answers is my friend that is using my account to answer. And also , in the other hand , is because we have been receiving , she told me , we have been receiving messages that were more in the need of the root chara than other thing. And there 's no problem with that.
-
-The only thing is that two things , please do n't project on me. Please do n't project things on me that I am not answering , not even energetically. And also , because I do n't read those messages and most of them are very , very private.
-
-So , just wanted to let you know in case you write something that you want me to read specifically. It 's not me.
-
-Okay.
-
-So , just be careful.
-
-So , the reason why I wanted to tell you to say this is because we , is about the projection , because we have been receiving a lot of emails and messages from people saying that we have like a kind of relationship in another dimension. And that I do n't answer them. And so , they get mad and they get confused. And then they start to say that , then they start to say that I am kind of controlling them by the dreams and that I bring them to the sexual aspect , low setting their G.
-
-So , this is not like that. Anything that you have in your mind that you project into the outside is because you created within. Do n't project in me.
-
-So , I wanted to tell this publicly because there is a lot of people that have said that I am controlling people through mind when they sleep and know when you sleep , I also sleep.
-
-Sorry , one other thing.
-
-So , the other thing that I wanted to say is that we are three days ahead to leave Virgo behind.
-
-## Practice Structure
-
-So , no more at least. No more analyzing each one of our trauma and things from the past. But we are going to work with Libre.
-
-So , it 's the beauty expressed in the outside.
-
-So , I want to tell this before , three days before , just in case you want to prepare yourself to start day by day doing the process with all of us in the creation aspect , the creativity aspect.
-
-So , in this month , we are not going to make lists.
-
-We are going to express in drawings what we feel from the aspects we are going to work with.
-
-So , it does n't matter if you do n't know how to make a drawing. We are not going to make a piece of art. We are just pressing what we have within in art.
-
-So , if you can have the first day in three days , paper , pencils , colors , whatever you feel more comfortable with to start to express.
-
-So , that 's it.
-
-So , now we go to Nice. I would try to do my best to be very concrete , but you all know that I am Argentinian.
-
-So , today with Nice , we are going to work with the pillars of our reality , which are what we call conscious consciousness to conscious. And the other one is awareness , conscious and clear , that it 's easier if we call them knowledge and wisdom.
-
-So , have those pillars , knowledge and wisdom. Through all the process of life in the digestive system and everything that we have lived that we make call trough , all of that are feeding the two concepts that through the years , we will call the consciousness or sorry , to have knowledge of everything that happened , which is in the process of unconscious. And the other way to be wise , to become wise , which is the concept of being conscious.
-
-So , remember , the first steps are getting inside.
-
-So , we begin the path of life , begin the path of life , and we go through all the life in the digestive system until we reach the genitals. And through the genitals and the anus is the place where the thomas are being seen.
-
-So , all the thomas , in that point , I have to wonder if they are useful for me or why they have to happen to me.
-
-## Q&A
-
-So , from the point of thomas where I make myself the question , why did I have to leave all this?
-
-So , two paths are open , what are the two legs? One leg , one path will be the path of knowledge through the way of unconscious. And the other way will be the path of wisdom that went out. I just looked for another sign , but there 's no light , so you wo n't need properly.
-
-The important thing is that you can hear me.
-
-So , one of the paths takes me through the unconscious , which is the knowledge , the other will take me to the conscious , which is the wisdom.
-
-Today 's improvisation day.
-
-So , what is the path of unconscious? Have a concept of being unconscious that is not the real thing.
-
-So , to be unconscious is not something bad. It 's just a different way in which we perceive the world. We usually may say that if I am conscious , so everyone has to be conscious , to be unconscious is something bad.
-
-So , basically , to be unconscious means that I set my whole energy in the hands of the world around.
-
-So , everything that I do will be a reaction of everything that is around me , everything that creates me.
-
-So , basically , I am using the energy from around , and the energy from around is using me. We do n't have to judge the unconscious. The unconscious is just another way in which the consciousness interacts with the environment.
-
-So , basically , the unconscious is the aspect of the consciousness that most of its time , into generate energy in the world. And to generate energy constantly , the world will live in. And what does the conscious energy does to guide all the energy that is the other one created towards a purpose?
-
-So , basically , it 's like a machine that is constantly creating energy. And the conscious is the one that will say , for what is that energy useful? The unconscious path , what it does , is to go and to the concepts , trauma , things that happen , ideas , emotions , everything , energies. And it starts to organize that in different issues.
-
-And once it is all organized in different issues , it has the whole thing , but it does n't know exactly what is that for.
-
-So , this is the definition of knowledge. Knowledge is the ability to catch information data , but even if you do n't know specifically , what is that for?
-
-So , basically , the conscious path is the one that does n't need information , it does n't need many concepts and data , but it has the ability to tell the unconscious what is that information for.
-
-So , this is why , to the unconscious , we may call them the powers , the powers , and the conscious , we may call them the wise ones. The wise one does n't need to know information , the wise one only knows. The wise one , what it does , is to go to the void , so it could be open to every possibility and not to be stuck in just information that you have.
-
-So , basically , the wise one is unconditional , and the known , the one that has the knowledge , is conditioned.
-
-So , the question would be , in which path I find myself , because I am in the path of life , going through the digestive system , and sadly , in the genitals , I find myself with all this process of learning to understand myself what I am. And so , when I get questions , sadly , I have two paths to take.
-
-So , remember that by nature , we usually take the unconscious way. It 's something natural. We are not guilty for that , there is no bad thing for that.
-
-So , the reason we usually go through the unconscious way is because we all were pushed that path by the external. We all have been said , do n't look backwards , do n't worry about the past , just keep going ahead towards the future. Does n't matter what happened , just look forward and study a lot , get a lot of information as all as you can , because you have to learn many things. For sure , we all have gone through that path.
-
-This is the natural thing , it 's what we culturally , by society we do.
-
-So , in the other hand , for example , if we decide to go by the conscious path , will be very different. What we 'll have is that someone asks us , what do you want to become? Look backwards , look into all your history and find the meaning of everything that you have lived. Try to understand everything that you have done , have gone through.
-
-And when you give a meaning to that , decide and tell me what you want to become.
-
-So , that 's the path of wisdom.
-
-So , basically , the path of unconscious is the one that tells you , is this way. And the path of conscious is the one that do , which way do you choose? We all have to go to use the two paths , because the only way you can forward is with two legs. We can not jump and go ahead by jumping in just one leg , because we want to be wise.
-
-What we have to do is to use both , because in order to be wise , we have to also be able to hear , to listen , to learn from others , to open ourselves to receive information from the other people.
-
-So , you could , you are saying.
-
-So , this is how the two paths are useful. I can not jump in just one leg. And I find this necessary to be said , because sometimes it feels like if we are running , yeah , like we are in a marathon , to achieve conscious , to be conscious , running away from unconscious.
-
-So , we are not going to the conscious living the unconscious. We are using both legs in order to move forward.
-
-So , this is why we have to live away this absurd battle between the conscious world and conscious world. The unconscious accumulate data , and the conscious world helps to understand the meaning of that data.
-
-So , in order to find balance in our life , we need both pillars.
-
-So , these two pillars are created by each one of the circumstances that we have lived in our lives. For example , if we take the path of the unconscious , talking about a trauma , the unconscious way of knowledge will say , I had a trauma , and this trauma can not be healed , because it is in the past.
-
-So , it 's stuck in the system of the past.
-
-So , I can do anything. But then this starts to repeat. But the unconscious can not see the connection. It only sees the trauma , different things , all separated.
-
-So , what does the unconscious with knowledge , it starts to look for data in the outside for information to try to solve each one of these trauma by separate. In the conscious way with wisdom , I go to this trauma , and I recognize that each one of the trauma after that are connected , and they all has a meaning as one.
-
-So , when I understand the purpose of all of them as one , now I highlight to know how to solve the next one.
-
-So , this is why each trauma , each crisis , each change that we have lived in our lives can be seen through the aspect of the unconscious with knowledge and the conscious with wisdom.
-
-So , for example , when I have a conflict with them , the normal thing that we all do is to start the path of the unconscious , going to all kind of worship , all kind of conferences , to read many books , everything to try to understand how to solve this problem that I have within.
-
-So , follow me.
-
-So , how to recognize if I am still in the path of the consciousness , when even if I have done everything , all the accumulation of the data , and I have all information for me , I still ask the other one , the question , why , why , why.
-
-So , feature this , that this path was not bad , the path of going to look for information was not bad. This path was good because you learn a lot of things. The problem is when we only use one leg to go ahead. And the one day that nobody else in the outside will have an answer for me.
-
-So , in that moment , will be the time when I recognize that everything that I collected in my life , I have to look for it , to give a meaning to it , and to find myself , the meaning , and the answer. And that 's the beginning of the path of wisdom , to be conscious. Once I become wise and conscious , suddenly I recognize that I need more information for a new thing.
-
-So , I become unconscious looking for new answers , for new things. Until I put all that thing together to become conscious and wise in that new aspect , and so on , a new one , a new one. The path of unconscious and conscious are a path , are two paths of learning , of education and evolution. We can not eliminate one of the helix of the NA.
-
-We need in order to create life.
-
-So , we are not here to eliminate the unconscious. We are here to know how to use it properly.
-
-So , the task for today would be to look backwards to all the changes that I have lived in my life.
-
-Okay? All these changes that pushed us , and it was hard for us in that moment , like painful in that time. But now we can see backwards , and we can say , oh , that thing that happened was the best thing for me , for what I am now.
-
-So , we have to understand that change is an external force that pushes towards change by force. When transformation is something from within , that I decide myself.
-
-Okay , to express.
-
-So , remember the task , to think about all those moments of big changes that makes you change by force , and you suffer this change. But now , give a complete meaning of where are you standing right now to be who you are.
-
-So , let 's go to the information for today. The sound for today , the vibration we are going to use is Sue. The. .
-
-. Even for today is I am agreed of path. The information for today is the soul pattern , pattern R. It says , the strong R.
-
-Sam recalls the roar of battle. For it is the vibration of defense. Every family , nation , country , empire , or religion builds around itself a protection shield , different shading from others. And creating this thing.
-
-Positions and wars , conflicts , and intellectual fights or battles , determining the strength of an entity , different shading itself from others.
-
-So , go to the alignment for today. I focus my breathing. I become aware of the oxygen coming inside through my arms , towards my lungs , heart , blood , organs , and muscles. Take a deep breath , letting yourself fall in within your body , looking for a cell , and get clipped back until you see it very big in front of you , a mother cell.
-
-Take a deep breath , and dive within the cell until you feel that you are floating within the city pleasant. And with your hands in the nose , take the chromosomes and begin to disarm them until you feel the chance of NA curling between your fingers. These are the codes that makes you be who you are. I recognize that I am in the North Los and then with the body of my mother.
-
-## Energy Work
-
-Observer of all of you how that I am is coming in the shape of a spiral within the body of an espramatisoid. I feel how this espramatisoid touches the limit of the cell , change polarity , making the cell shine like a human. Take a deep breath , and allow this espramatisoid of the I am , come within your body. Take a deep breath , and feel this spiral coming through the crown , heading towards the third eye , a throat , heart , and plexus.
-
-From there , it spreads all its genetic material through the scrum , root , necks and feet. I perceive how my cell starts to divide in meiosis. The one where I find myself , the eye , and the other one in front of me , the am , I am. I have set my intention for the consciousness of the I am to expand the cells.
-
-I am the two into four , then in eight , six , and so on , expanding and creating my body. I perceive how the cells are creating my heart , intestines , brain , and each one of the organs , muscles and bones. I feel myself , feet , legs , hands and arms , my head , my whole , floating in the womb of my mother. I perceive how the body is creating my heart , my whole body , my whole body.
-
-I am aware that all the pressure that I am feeling is the pressure shaping my reach. I am about to change entirely.
-
-So it 's only about me , only me who is able to dissolve , if I will be born in this change , by conscience or unconscious. I become aware that each path and circumstances that I have lived that shaped me are now going to project ahead in the new path of my life , where I will be the one deciding each one of this. I am going to expand all the path , head towards me , expanding through this end , start to push to go outside , to begin your new path.
-
-So So So So So So I keep pronouncing the sound. I keep pronouncing the sound. I feel how my crown is outside , pushing , letting the eyes outside the mother , mouth and the entire head.
-
-So I keep pronouncing the sound. I feel the neck. Arms , shoulders , back , chest , coming out. My hands , belly , waist , genitals , and hip.
-
-Now also my legs , my knees. I feel only my feet in my mother , as the rest of my body is now enlightened by the outer world. Take a deep breath. Take a deep breath and become aware that every path that you have lived and went through are now connected to all the path that you are going to go through.
-
-And you will take this new life. I recognize I am agreed with that. I am agreed with that. I am agreed with that.
-
-So now I decide by myself to begin this new path with consciousness in the wisdom of all this knowledge that I have acquired in my path. Take a deep breath. And I take my hands to my heart. I become aware that these are the two pillars of my reality here.
-
-The knowledge and wisdom , the conscious and the unconscious. These two are the goal of all the path that I have walked and these two are the two pillars from where I will create my new path. For I am agreed with that. Take a deep breath.
-
-And I start to bring all this consciousness through my body by experiencing strength and joining. I am going to come back here now. I have been speaking too much just to remind you that the important thing is the alignment.
-
-## Guided Meditation
-
-So if you just want to make the alignment and not to hear the whole explanation , remember that maybe I will start with the explanations with the with the meditation. Around 9 to 915.
-
-So the explanation is something useful. If you want to hear it , maybe in some other moment. If you do n't have so much time , but I guess it 's important for you to have it. Thank you all for being there always.
-
-And I always drink a little and rest a lot. See you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+**Q: What's the soul pattern R vibration?**
+A: R is the vibration of recursive path-making - the spiral of experience that loops back on itself at higher levels. Each time you walk the same territory (unconscious accumulation), your conscious direction lifts you slightly higher. The path itself becomes the teaching.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+*Tomorrow: Day 59 - Decision and Election*

@@ -1,278 +1,390 @@
 ---
-title: "Day 135 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 135 - Links and the Root Chakra"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 135
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: "2025-11-16"
 document_type: "transcript"
 language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 135
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hold
-  - month holds
-
+keywords: ["Sagittarius", "Root Chakra", "Links", "Connection", "Network", "December 21", "Vibration", "Bethlehem Star", "Grid", "Unity", "Separation", "Language", "I Am"]
 practice_elements:
-  chakra: "Heart"
-
+  vibration: "Ve"
+  statement: "I am the link of vibration"
+  chakra: "Root"
+  code: "Links - Not chains that bind but threads that connect. Every being is a node in the cosmic network, connected through vibration. Links are not physical but vibrational - we are connected not because we touch but because we resonate at compatible frequencies. Language creates separation; vibration creates links."
 ---
 
-# Day 135 - Consciousness Work
+# Day 135 - Links and the Root Chakra
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** Day 135 Transcript - Sagittarius Month, Root Chakra, Emotional Week (Announcement of December 21, 2020 alignment)
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
+- **Chakra Focus:** Root
+- **Week Theme:** Emotional Week - Sagittarius Month
+- **Main Topic:** Links and Connection
+- **Vibration:** Ve
+- **Statement:** I am the link of vibration
+- **Code:** Links - Not chains that bind but threads that connect. Every being is a node in the cosmic network, connected through vibration. Links are not physical but vibrational - we are connected not because we touch but because we resonate at compatible frequencies. Language creates separation; vibration creates links.
 
-## Introduction
+---
 
-Good morning. Good afternoon. Good evening everyone. You say you must.
+## Overview
 
-I just begin Catalan language because I think maybe that is something that people can not complain. In this past days we have receiving a lot of complaints about the two language thing that I am speaking to languages and horrible and difficult to understand to follow. Why do n't you do different videos and so on.
+On this pivotal day, Matias announces the coming December 21, 2020 alignment - the great conjunction of Jupiter and Saturn creating the "Bethlehem Star" for the first time in 800 years, opening a portal for humanity's shift in consciousness. We explore how we are connected not through physical proximity or even shared language, but through vibrational resonance - invisible threads of frequency that link every being in the cosmic network. We discover that language often separates us while vibration always connects us, and that true communication happens not through words but through the resonance of I AM recognizing itself across all forms.
 
-So I just wanted to let you know because from the foundation they told me please tell something for the new people that I am doing everything as possible to speak in both languages because it 's ready for me to make exactly the same video in English in a separate video. And also the energy is different and of course that we do n't have the time to translate what I am saying because it 's all improvised and if anyone have to translate everything that I say we would n't be in the same rhythm.
+## The Announcement: December 21, 2020
 
-So it is very difficult and that 's why I decided to do it in both languages.
+**This day marks the official announcement of the upcoming planetary alignment:**
 
-So if you have any problem with listening both languages just go into the next one and just pass the language and that 's it. Or take notes or just look into yourself. I do n't know. I think that 's the only thing that I have to say.
+**On December 21, 2020, Jupiter and Saturn will align in a great conjunction.**
 
-I am doing everything as possible for this to reach as many people possible.
+This astronomical event is significant because:
 
-So this is why I 'm doing this into languages.
+1. **It creates what's called the "Bethlehem Star"** - the same alignment that occurred around the time of Christ's birth
+2. **It happens only once every 800 years approximately**
+3. **It marks the transition from Earth element (Capricorn) to Air element (Aquarius) in the great cycles**
+4. **It opens a massive portal for consciousness shift on the planet**
 
-So the reason why of course I speak English in this video is because of course I can not well English is the most spoken by many countries. Of course if it would be another language I would try to learn that language to speak to the most people as possible. But that 's the language that most of the people speak. And of course I can not do a video in all the languages because I ca n't.
+### The Invitation
 
-So yeah that 's it. And of course I can not do a just I ca n't do just in English because I speak Spanish and that 's my language. I want to keep talking my language.
+Matias invites everyone who feels called to **gather in meditation on December 21** to activate the planetary grid together.
 
-So that 's it. And also I appreciate the people that tells me why do n't you do this or that. But we have been like this a few months already and if there was an easier way of course I would have taken it.
+The specific timing and meditation will be shared on **Day 140** (December 21 itself).
 
-So thank you.
+This gathering is about **linking consciousnesses across the planet** through shared intention and vibration.
 
-So once said this let 's go to the topic for today.
+**Not everyone needs to be physically in the same place - we link through VIBRATION, not location.**
 
-Remember something else that I almost forgot.
+## What Are Links?
 
-Today is 16 December 16.
+The word **"link"** comes from different etymological roots, but they all point to the same meaning:
 
-So remember that the summer 21st we will be connecting to the to the alignment of Jupiter and Saturn which will be the 21st December the alignment that we call the Bethlehem Star.
+### Connection Without Binding
 
-So this alignment already started today but it wo n't be but by the most important moment will be the 21st the summer 21st.
+A link is **a connection between two or more things**.
 
-So the way we want to have an in a long time again.
+But importantly: **A link is not a chain that imprisons - it's a thread that relates.**
 
-So that 's why it 's important this day.
+**Links create network, not bondage.**
 
-Remember that the 21st will be the day in which we would say comes back the Christie energy to the planet and we put a foot inside the era of Aquarium. This day it would be very important.
+**Links allow flow between nodes while maintaining the integrity of each node.**
 
-So for us in this what we do we will take it kind of like a new year. There is n't way I 'm saying this and I will repeat this every day from now. It 's because the 21st the precise moment these two planets will be aligned together in the green zero of this new time. We 'll be at 2020 8 20 pm Egypt time.
+Think of the internet - millions of computers linked through invisible signals, each maintaining its own identity while being part of the whole network.
 
-So our alignment. It 's a special moment.
+**We are nodes in the cosmic network, linked through vibration.**
 
-So it 's like if we organize this to the next.
+### Vibrational Links
 
-So now take note and pay attention because this December 21st we are not going to be connected at 2020 we will start the transmission at 20 8 pm.
+The most important understanding: **Links are fundamentally vibrational.**
 
-So 8 pm will be we will be all connected here.
+We are not linked because we touch.
 
-So we have this 20 minutes to prepare ourselves for the alignment that we start at 2020. Egypt time. I guess that it is important to share these things because these synchronities that we are living is telling us that our telling us that we are doing what we are supposed to do because it 's all so perfectly aligned.
+We are not linked because we are near each other.
 
-So I want to share some some that 's for tomorrow for this year that I understood yesterday.
+We are not even linked because we know each other.
 
-So I do n't know if you remember but once we finish with all the alignments next July I will go to the north pole and then going through the Kundalini of the planet ending in the south pole.
+**We are linked because we RESONATE at compatible frequencies.**
 
-So this trip that is the Kundalini trip will start in the north pole in August the beginning of August and we 'll finish in January 2022 in south pole.
+**Your vibration creates links with other vibrations that can receive/transmit your frequency.**
 
-So what is incredible is that I was looking to the eclipses for 2021 and usually we have two eclipses , sun eclipses every year but in 2021 we have one in June and the other one will be in December and both of them the first one the one in June it 's it 's greatest shadow will be in the north pole and in December the greatest shadow will be in the south pole.
+### Root Chakra and Primal Links
 
-So it 's perfectly aligned. Perfectly aligned from the north to the south all the Kundalini path and the amazing thing is that in 2022 there is no solar eclipse which is really weird so we are going to be in the light no shadows to face that year so so everything is kind of aligned to everything so we 'll see no idea looking into how everything is so connected we 'll begin with a topic for today which is the links. First of all let 's think about the differences between matrix and links because links are not the same as matrix matrix is something that holds all the links so we have to understand that matrix is kind of like this room like a network like a spider web that is connecting everything all around and the links are the tiny parts that connect each one of the parts of the matrix.
+The teaching comes to **Root Chakra** because:
 
-So in our cultures today we have this concept for sure I have heard this many times that when we speak about links with others sometimes sometimes we perceive a negative aspect of what is linked. We believe that is about the links that we have with other people emotionally sometimes we are we think that we have links with karma so like if they are attached attachments with other people.
+**The root is where we connect to the fundamental network of existence - the Earth grid.**
 
-So one of the things that we see in this perception of the links this perception that we have that is a heavy thought about the links that we have with others it comes from the history it comes from our culture. This culture is the one that tells us that to link with someone that to be attached to something is basically to be in chain with someone from hands and from my feet. I am connected to someone as a slave.
+Your root chakra doesn't just connect you to your own survival and foundation - it connects you to the **planetary network of all beings**.
 
-So I mean the relationship of attachment or or because of a level of power.
+Through your root:
+- You link to Earth's electromagnetic field
+- You link to all other humans also rooted in Earth
+- You link to the consciousness grid of the planet
+- You link to the ancestral memory stored in the land
 
-So this cultural beliefs that we have within about the links that we have with others says think that in order to be free what we have to do is to cut the links with everyone around like to break these links , these chains and to set yourself free. What in concepts is impossible to break any link is literally possible to break them.
+**Your root is your connection point to the collective network.**
 
-So you can not break anything in the universe and you can not separate anything in the universe.
+## Language vs. Vibration
+
+One of the most profound teachings today: **Language creates separation while vibration creates links.**
+
+### The Problem with Language
+
+**Matias speaks in two languages in this teaching - Spanish and English.**
+
+Why? To demonstrate a point:
+
+**When he speaks Spanish, those who only understand English feel separated.**
+
+**When he speaks English, those who only understand Spanish feel separated.**
+
+**Language divides people into "those who understand" and "those who don't."**
+
+Language creates:
+- National boundaries (Spanish speakers, English speakers, Chinese speakers, etc.)
+- Cultural separation (different worldviews encoded in different languages)
+- Intellectual barriers (educated vs. uneducated in certain languages)
+- Exclusion (insiders who speak the code vs. outsiders who don't)
+
+### The Solution: Vibration
+
+**But when he uses VIBRATION - the tones, the energy, the feeling behind the words - everyone receives something, regardless of language.**
+
+Even if you don't understand the words:
+- You feel the energy
+- You sense the intention
+- You receive the vibration
+- You connect to the meaning beyond words
+
+**This is why music connects people who speak different languages.**
+
+**This is why a baby responds to the TONE of voice, not the words.**
+
+**This is why you can "feel" someone's energy even if they're speaking a language you don't know.**
+
+**Vibration creates links. Language creates separation.**
+
+### The Two Languages Teaching
+
+When Matias speaks in two languages, he's showing:
+
+**We need to move beyond language-dependence to vibration-connection.**
+
+**We need to stop relying only on words and start listening to frequency.**
+
+**We need to recognize that true communication happens in the resonance field, not in the vocabulary.**
+
+The irony: He uses language to teach us to go beyond language!
+
+## The Planetary Grid Network
+
+The December 21 alignment is significant because it **activates links in the planetary consciousness grid**.
+
+### What is the Planetary Grid?
+
+Imagine the Earth surrounded and interpenetrated by an invisible network - a web of electromagnetic and consciousness frequencies.
+
+This grid has:
+- **Nodes:** Sacred sites, vortexes, power places where energy concentrates
+- **Ley lines:** Energy pathways connecting nodes
+- **Collective consciousness:** The sum total of all aware beings on the planet
+- **Crystalline matrix:** The Earth's own consciousness structure
+
+**Every human being is also a node in this grid.**
+
+**Your consciousness is a point where universal awareness localizes.**
+
+### How We Activate Links
+
+When many people meditate together with shared intention:
+
+1. **Individual nodes (people) align to the same frequency**
+2. **Vibrational links form between nodes**
+3. **The network activates - energy flows more freely**
+4. **Collective consciousness shifts**
+5. **The grid "lights up" with increased coherence**
+
+**This is not metaphor - it's measurable through global consciousness research.**
+
+On December 21, with the planetary alignment AND collective meditation:
+- Astrological energies create an opening (cosmic links align)
+- Human intention creates coherence (consciousness links activate)
+- The combination creates a massive shift opportunity (grid transformation)
+
+**We don't create the network - it already exists. We ACTIVATE and STRENGTHEN the links through conscious resonance.**
+
+## Breaking Free from Separation
+
+Links remind us: **Separation is an illusion created by limited perception.**
+
+### The Illusion of Separation
+
+We believe we are separate because:
+- We have different bodies (but all bodies are expressions of one matter/energy)
+- We have different thoughts (but all thoughts are movements of one consciousness)
+- We speak different languages (but all languages point to one reality)
+- We live in different places (but all places are locations on one Earth)
+
+**Language, bodies, locations - these create apparent separation.**
+
+**But vibration reveals the underlying links.**
+
+### The Reality of Connection
+
+At the vibrational level:
+- We are all nodes in one network
+- We are all waves in one ocean
+- We are all expressions of one I AM
+
+**The links between us are not something we create - they're something we RECOGNIZE.**
+
+**You don't need to "create connection" with another being. You need to SEE the connection that already exists.**
+
+**Every being is already linked to you through the fundamental vibration of existence.**
+
+## Practical Application: Linking Consciously
+
+How do we live as conscious links in the network?
+
+### 1. Recognize Existing Links
+
+Start seeing the invisible connections:
+- When you eat food, you're linked to the farmer who grew it, the soil that nourished it, the sun that powered it
+- When you breathe air, you're linked to every plant producing oxygen, every other human sharing the atmosphere
+- When you have a thought, you're linked to the collective consciousness field where thoughts arise
+- When you feel an emotion, you're linked to all beings who have felt that frequency
+
+**Practice noticing: "What links exist in this moment that I haven't acknowledged?"**
+
+### 2. Communicate Through Vibration
+
+Beyond your words, pay attention to your FREQUENCY:
+- What vibration am I transmitting right now?
+- Am I speaking words of love with a vibration of judgment?
+- Am I silent with words but broadcasting connection through presence?
+
+**People receive your vibration more than your words.**
+
+**Link consciously by aligning your vibration with your intention.**
+
+### 3. Join Global Meditations
+
+Participate in collective practices like the December 21 event:
+- You strengthen the grid by adding your conscious node
+- You activate dormant links through shared resonance
+- You contribute to planetary consciousness shift
+
+**Your individual vibration matters to the collective network.**
+
+## Guided Practice: Becoming the Link
+
+1. Sit comfortably, feet on the ground
+2. Feel your **root chakra** at the base of spine connecting to Earth
+3. Visualize roots growing from your root down into the ground
+4. See these roots connecting to an vast underground network - the Earth grid
+5. Through these roots, you link to every other being also connected to Earth
+6. Expand awareness: feel the humans in your city, also rooted
+7. Expand more: feel humans across your continent, linked through Earth
+8. Expand further: feel all humans on the planet, all nodes in one network
+9. Now bring awareness to your **heart**
+10. Visualize your heart broadcasting a frequency - like a radio signal
+11. See this frequency creating invisible links to hearts resonating at compatible frequencies
+12. Notice: you're linked not just to people you know, but to all beings matching your vibration
+13. Speak internally: **"I am the link of vibration"**
+14. Feel yourself as both:
+    - Individual node (unique, distinct, sovereign)
+    - Part of network (connected, related, interdependent)
+15. Both are true simultaneously
+16. Now visualize December 21, 2020:
+    - See Jupiter and Saturn aligning in the sky
+    - See the Bethlehem Star shining
+    - See millions of humans meditating simultaneously
+    - See the planetary grid lighting up as links activate
+    - See yourself as one conscious node contributing to this activation
+17. Bring awareness back to your body
+18. Feel your root connecting to Earth
+19. Feel your heart broadcasting frequency
+20. Know yourself as eternal link in the cosmic network
+
+## Daily Practice
+
+**Vibration:** Ve
+
+**Statement:** I am the link of vibration
+
+**Code:** Links - connection through resonance, network not bondage
+
+**Meditation Focus:**
+- Recognize existing vibrational links beyond physical proximity
+- Communicate through frequency, not just words
+- Feel yourself as node in the planetary consciousness grid
+- Understand that separation is illusion created by language/form
+- Prepare for December 21 alignment and global meditation
+
+**Integration:**
+- Today, notice when language separates you from someone
+- Then tune into the vibration beneath the words - can you connect there?
+- When you meet someone, feel the vibrational link before speaking
+- Practice seeing yourself as node in vast network, not isolated individual
+- Pay attention to the vibration you're broadcasting - is it creating the links you want?
+- If you feel separated or alone, remember: you're already linked through existence itself
+
+---
+
+## Key Insights
+
+- **"December 21, 2020: Jupiter and Saturn align, creating the Bethlehem Star for first time in 800 years."**
+- **"This alignment opens a portal for planetary consciousness shift."**
+- **"Links are threads that connect, not chains that bind."**
+- **"We are nodes in the cosmic network, linked through vibration."**
+- **"Links are vibrational - we connect through resonance, not physical proximity."**
+- **"Root chakra connects you to the planetary grid and collective network."**
+- **"Language creates separation - it divides people into 'those who understand' and 'those who don't.'"**
+- **"Vibration creates links - everyone receives frequency regardless of language."**
+- **"True communication happens in the resonance field, not in vocabulary."**
+- **"The planetary grid already exists - we activate links through conscious resonance."**
+- **"When many meditate with shared intention, the grid 'lights up' with increased coherence."**
+- **"Separation is illusion created by limited perception - language, bodies, locations."**
+- **"At vibrational level, we are all waves in one ocean, expressions of one I AM."**
+- **"You don't create connection - you recognize connection that already exists."**
+- **"People receive your vibration more than your words - align frequency with intention."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Throughout the day, practice "vibrational listening." When someone speaks to you, hear the words but pay MORE attention to the frequency beneath the words - the tone, the energy, the feeling. Notice how you receive more information from vibration than from vocabulary. Then practice "vibrational speaking" - before you speak, set your vibration to match your true intention, then let the words carry that frequency.
+
+### Applying This Teaching
+
+Next time you feel separated or disconnected from someone, pause and ask: "Are we separated by language, appearance, or belief - or are we linked by the underlying vibration of existence?" Then shift your attention from the surface differences to the fundamental resonance. Feel the invisible link that already exists. This doesn't mean you ignore real differences, but you recognize the connection beneath them. You are already linked; separation is the illusion requiring effort to maintain.
+
+---
 
 ## Q&A
 
-So to understand how this concepts work let 's go into a historical idea or fact of how we live this links. In history one example about this links is how the different countries from the Americas started to ask for the independence.
+### Q: How can I participate in the December 21 global meditation if I'm in a different time zone?
 
-So they wanted to become independent from the metropolis.
+The beauty of vibrational links is that they transcend physical time zones. While there will be a specific clock time announced (Day 140), the more important factor is your INTENTION to connect with the global network. Your conscious choice to participate creates the link regardless of when exactly you meditate. That said, if many people meditate simultaneously, it creates stronger coherence - like multiple instruments playing the same note creates resonance. Check Day 140 for specific timing guidance.
 
-So the metropolis were in Europe and they were the empires that got colonies.
+### Q: If vibration creates links and language creates separation, should I stop using language?
 
-So the colonies started to to look for the independence and to set themselves free from the links with the metropolis in Europe.
+No - the teaching isn't to abandon language but to recognize its limitations and not be trapped by them. Language is useful for conveying specific information, concepts, and instructions (like this teaching itself!). The point is to NOT RELY ONLY on language for connection. Supplement language with vibrational awareness. When you speak, align your vibration with your words. When you listen, receive the frequency beneath the vocabulary. Use language as tool, not as the only means of communication.
 
-So for example , began United States , began then or high-tech , Mexico , or Argentina , Brazil and so on.
+### Q: How do I know if I'm actually linked to someone vibrationally vs. just imagining it?
 
-So that 's how they started to get independence from the metropolis in Europe.
+Vibrational links create resonance you can FEEL, not just think about. Signs of real vibrational link: you feel energized or deeply peaceful in their presence; you "know" things about them without being told; you think of them and they contact you; you feel their emotions even at distance; time disappears when you're together; you understand each other beyond words. Imagination feels mental and shallow; true vibrational link feels somatic and deep. Trust your body's wisdom more than your mind's concepts.
 
-So now picture this that when the Americas , the countries of the three Americas wanted to set themselves free from the metropolis in Europe , they just changed the idea of having a king into having a president. They changed the concept of having feudalism into having a parliament , senators and the Senate , the parliament , and so on.
+### Q: What if I feel overwhelmed by sensing all the links/connections? It feels like too much.
 
-So when the countries in the Americas got independent , they just copied the same system in a different way. They changed the way but the system is exactly the same.
+This is common when you first become aware of the network - suddenly you realize you're connected to EVERYTHING and it can feel overwhelming. Remember: being AWARE of links doesn't mean you're RESPONSIBLE for managing them all. The network exists whether you're conscious of it or not. Your job is simply to tend YOUR node (your own vibration) with integrity. When you broadcast clear, coherent frequency, you naturally strengthen healthy links and diminish unhealthy ones. You don't need to consciously manage every connection - just maintain your own vibrational clarity.
 
-So even today what we have is it 's republics , different from the monarchy of the Europe and that time. We changed that but we still are looking for this kind of freedom because what we really did , it was to paint the chain with colors. That 's the only difference that we have. That 's why we feel that we are still trapped below a system that is above us.
+### Q: Can I have vibrational links with people who have died?
 
-So we never really as a population never worked in what it is a link with them.
+Yes - because vibrational links transcend physical form. When someone dies, their body dissolves but their consciousness (which is vibration/frequency) continues in non-physical form. If you resonate with their frequency, you remain linked. This is why you can still "feel" a deceased loved one, receive guidance from ancestors, or connect with spiritual teachers who lived long ago. The link isn't maintained through physical proximity but through frequency resonance. Love is a particularly strong frequency that maintains links across the death threshold.
 
-So as you have seen through the history what we do when we set ourselves free , is that we just cut some chains but we do exactly the same because we had n't had the practice of how it is to be free. What is to feel free? What is to be myself? I never had this practice.
+### Q: How does the Root Chakra specifically create links vs. other chakras?
 
-So this is why I suddenly when I feel free because the chains were broken , I suddenly say okay , I have to go to someone different and attach me to that other one to put the chains in a new one.
+Each chakra creates different TYPES of links. Root creates **fundamental survival and tribal links** - connection to Earth, to ancestral lineage, to your immediate community, to collective human consciousness. Heart creates **emotional and compassionate links**. Throat creates **communication and expression links**. Third eye creates **intuitive and mental links**. Crown creates **spiritual and universal links**. Root is emphasized today because it's the FOUNDATION - before you can have higher links, you need to be rooted in the basic planetary network. Your root anchors you as a node in the Earth grid.
 
-So I can feel safe.
+### Q: What's the difference between healthy links and unhealthy attachments?
 
-So this represent a human being that had never worked in what a link really means. What freedom really means? I will never find the freedom by breaking something outside. That 's not freedom.
+**Healthy links:** Allow flow in both directions, maintain sovereignty of each node, enhance both beings, can be consciously adjusted, based on resonance and choice, feel energizing or peaceful.
 
-The only way you can find freedom is when you are free in what you think , what you feel , and what you do.
+**Unhealthy attachments:** One-directional drain, compromise sovereignty, diminish one or both beings, feel compulsive or obligatory, based on fear or neediness, feel exhausting or anxious.
 
-So this is why we as humans do n't really know what it is to be free because to be free implies a lot of responsibility on the being.
+The key: links connect while maintaining integrity of each node. Attachments bind and compromise integrity. You can be deeply linked to someone while maintaining complete sovereignty - this is actually the highest form of connection.
 
-So now we are started a new time where we begin a new time. With this Christie energy coming with this new era coming and new systems coming.
+### Q: On December 21, what happens if I'm vibrating at a "lower" frequency than others meditating?
 
-So what are we going to do in this new time? Are we going to rely this power into a Christ into the new era of Aquarium into a new system? The only way in which we are going to be coherent in the new time is if each one of you of us recognize that myself , I have a part of that Christie energy. If myself , decide to think like in Aquarium time , if I myself become the system that I want to be.
-
-A link basically is the projection of a reality.
-
-So remember , we have a positive and negative , the positive projects into the negative , the negative into the positive. And how are they connected by a wave of energy?
-
-So this wave of energy creates this link , but it 's not a chain , it 's a link of vibration. And this vibration can change into different frequencies. And those frequencies create different practicalization of this positive negative creating different possibilities. This links are not tiny , how to say , I know the ones that get us tied.
-
-This links are the ones that just describe what are our vibrations.
-
-So everything that we perceive in our reality has a link that I have with something outside is just the perception of my vibrational state.
-
-So this means that I am not linked or attached to anything. I am only connected to the things that violate in the same resonance , same vibration that I violate.
-
-So when someone says , I will cut or I want to cut a carpet link that I have. You can not do that. The only thing that you can do with the carpet link is to integrate it , to learn about it.
-
-So when I have a link with someone with some people , I should not cut the link of that people. What I have to do is to think what part of myself is within that people. Which part I lost for myself that I gave to the other one.
-
-So remember that in the universe , everything is vibration.
-
-So if everything is vibration , I am like a note in music.
-
-So this note in music , a midservivation that is connected with another note , that note will sound coming back to me as an echo , creating a song. But if I do n't change my octave of vibration , I will always play exactly in the same notes , the same song , sounding constantly the same. Picture that when you , what you are doing , what we are trying to do is to change our octave of vibration.
-
-So in order to be in another octave of vibration , of consciousness , you have to basically do the same like in music , change your note into another octave.
-
-So when people say , I have to cut the links with others in order to change my vibration and go into another octave of vibration , of consciousness. That 's not how it works because the other notes are not getting used to duck in this vibration. It 's you who is not being able to change that vibration.
-
-So the reason why humans we do n't move forward and we are still attached to those links that we have with people is because we have been built through those links.
-
-So in a part of us , we think that if we cut those links , we are nothing. We just disappear.
-
-So let 's go to understand something that I 'm not really good on explain this , but I was taking this classes of piano , so I will try to explain this.
-
-So let 's do it very simple. For sure , you have seen someone playing the piano.
-
-So when someone plays the piano , usually use two hands.
-
-So with this hand , you are in one octave and with this hand , you are in another octave.
-
-So with this hand , you are playing the melody and with this other hand , when this other hand , you are playing the notes to hold this melody.
-
-So hold the melody. To accompany the melody. Imagine that you are willing to get into this level of consciousness.
-
-So you are in another octave of vibration and you have this other one that is in the low vibration.
-
-So you want to live here in this vibration because this one is horrible and you want to cut all the links with this one here. I do n't want to.
-
-So what I do , what it is , I was living here in this in this low vibration.
-
-So for example , a family that affects with you the love of you because you are the weird of the family.
-
-So you want to just get rid of this.
-
-So you say , I want to cut all the links that I have with my family because I have the life disembarmant.
-
-Okay , so I will change my vibration into another octave of consciousness. And suddenly you are with the family of light.
-
-Now you can be with your friends that they think like you and so on because you are in the same octave of vibration. But what happened? I cut the links with this one.
-
-So I hide the hand and I just play with one hand.
-
-So this sounds basically like 10 , 10 , 10 , 10 , 10 , 10 , 10 , 10 , 10 , 10 , 10 , 10 , 10 , 10. You do n't have to play anything. It 's like horrible because it 's so boring with just one hand. You do n't have anything.
-
-Okay , so it 's like going to the primary school to play piano with just two fingers.
-
-Okay , so what happened? When I cut links with people or whatever , I am just taking one hand of the piano. That 's what happened.
-
-So look at this that you can go from this low vibration into this high vibration. You can do it. But without the low vibration , it does n't sound good. The vibration is always is sharing constantly moving in a way.
-
-So because this low vibration is the one that makes you what you are now.
-
-Okay , that 's the music.
-
-So all the music is the matrix. And the thing , the notes that do touch , the harmonics that you do in between each one of them is what we call the links sharing data and information to one another. This is important to understand that we should not cut any link from your our mind , from ours. If we cut them , we 're going to loose notes and we are not going to be able to listen to the music.
-
-The question of how can I do it , there is no one way. There 's no manual handbook to do it. There 's so many ways. But all of them are connected with just one word which is love and conditional love.
-
-Once you understand that all the connections that exist are connected by love and you become that love , you become also freedom and you become the one able to rebuild those links into a different awareness. All the links are creating the network of consciousness. What do I have to , what is missing in this network , the consciousness.
-
-So the way in which you bring consciousness to this network , to this links , is by asking the questions why , who , where , from where , from when , since when , what for , how , all these questions are the ones that bring consciousness awareness to the links. And once you clarify all the links , you said yourself free and you begin to create the network , note cutting links , but weaving the network.
-
-Now the next part is a task of yours. I can not answer those questions. You are the only one able to answer your own questions.
-
-So let 's go to information for today. I always say today I will speak a little bit not much because I do n't have anything to say and sadly still late. And this is the thing that I 'm having mercury in cancer. The vibration for today is real.
-
-## Daily Practice Elements
-
-The code for today is the color orange. As the wavelength of the light increases its resonance , we can contemplate the orange tones like in a sunset , relate it with manifestation , nutrition and gestation. My vision that gives life to the light to the lighting of the circle chara , roasting at the same time brown tones , like the earth and vegetation , like the skin and organs. The statement for today is I am the legacy of the one.
-
-So let 's go to the light. Take a deep breath , relax the body. I see a breeze , remember that you are on this rock , the holy rock surrounded by this Ford Province and the Ranger , the world , the name of nature. Humans and animals.
-
-I remember the fire within my heart , high given and legacy to be brought throughout all humanity and whole world. Without any judgment , I just take the decision to become one of the prophets around me and to begin their path towards the direction they are facing to. Nor south is the west. Looking to the horizon and bringing this legacy to the end of your heart.
-
-I walk through deserts , savanna and forest through rivers and seas. A sign walk ahead. I see how other humans start to accompany my path. Each time , even more humans , different ages , different villages , ethnic races , and genders.
-
-Recognize they are not following you. They are following the legacy that you hold within your heart. And then you write to a spot where you see it and look at how this hundreds of people sit around you to wait for a wedding half to say to share the legacy within. Take it in breath and feel a bit bread between your hands.
-
-You show it to everyone until you break it into. I start to share tiny pieces with the hundreds waiting for you. And remember that this is your legacy that the unity , the wine , tourism everyone. You tell them that the unity is the only body existing.
-
-The human nature is the meal that tourism everyone. The human nature is the only way to live. Our body is unity and that 's the legacy of the wine. From my heart , I was sound after 18 , this part of the one , in each one of the hundreds individuals taking the whole meal.
-
-I am the legacy of the wine. I am the legacy of the wine. I am the legacy of the wine. I am the legacy of the wine.
-
-I am the legacy of the wine. We are all connected to the unity and that 's our legacy. This is my body , this is my blood and this is you become flourished by it. You remember that you are the eternal life for I am wine.
-
-I am the legacy of the wine. I am the legacy of the wine. I am the legacy of the wine. Take the breath and bring your hands to your heart.
-
-You begin to carry your body or see them how it 's healing , become flourished as the legacy of the wine. I see. I see. I am the neck.
-
-Each one at some time come back here and now opening your eyes. Thank you everybody for being there as always and see you tomorrow at the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+The network doesn't work on hierarchy where "higher" vibrations exclude "lower" ones. Every conscious node contributes to collective coherence regardless of its current frequency. By CHOOSING to participate with intention, you raise your own frequency and strengthen the grid. The grid functions through DIVERSITY of frequencies organized in coherent pattern, not through uniformity of identical vibrations. Your unique frequency is needed - it's not about being "good enough" but about being PRESENT with intention.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+**Reflection:** As Jupiter and Saturn prepare their 800-year reunion in the sky, creating the Bethlehem Star that announced Christ consciousness into the world, we stand at the threshold of a massive planetary shift, and we learn a truth that both humbles and empowers: we are not isolated islands of consciousness struggling alone, but nodes in a vast cosmic network, already and always linked through invisible threads of vibration to every other being on the planet and beyond. We discover that the very thing we thought connected us - language with its words and concepts - actually creates the illusion of separation, dividing humanity into in-groups and out-groups, those who understand and those who don't. But beneath language, more fundamental than words, flows the universal frequency that connects all life - the vibration that requires no translation because it speaks directly from I AM to I AM, from heart to heart, from essence to essence. Our root chakra anchors us as conscious nodes in the Earth grid, linking us not just to our own survival but to the collective consciousness of humanity preparing for transformation. And we understand the invitation: on December 21, when the stars align and millions of human hearts align with them, we will activate dormant links in the planetary network, lighting up the grid with unprecedented coherence, not because we create something new but because we finally RECOGNIZE and EMBODY the connection that has always existed. We are the link of vibration - both the thread and the weaver, both the message and the messenger, both the individual note and the symphony. The network awaits our conscious participation, not to save the world but to remember what we have always been: one consciousness experiencing itself through infinite nodes, forever connected, eternally whole.
+

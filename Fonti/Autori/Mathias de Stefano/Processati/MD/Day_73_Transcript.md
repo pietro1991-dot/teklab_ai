@@ -1,314 +1,541 @@
 ---
-title: "Day 73 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 73 - Cognition and Ignorance"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 73
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date: "October 15, 2020"
+date_processed: 2025-11-15
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 73
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - crown chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - I CAN affirmation
-  - month hold
+  - cognition and ignorance
+  - Libra Emotional Week
+  - Throat chakra
+  - gnosis and knowledge
+  - gnostic understanding
+  - emotions first
+  - feelings as data
+  - connecting concepts
+  - deliberate denial
+  - modern civilization
+  - school system failure
+  - internet information overload
+  - family responsibility
+  - SSsher vibration
+  - I Am the Flux of Truth
+  - Mercury retrograde
+  - co-gnosis
+  - in-gnosis
+  - agnostic worldview
+  - unity code hologram
 
 practice_elements:
-  statement: "I am the flux of truth"
-  chakra: "Crown"
+  vibration: "SSsher"
+  statement: "I Am the Flux of Truth"
+  chakra: "Throat"
+  code: "Unity Code - Everything that exists is the hologram of a unique particle. A particle that vibrates in everything. Expressing infinite variations of itself. Everything that exists is me. And all variation is me expressing in different ways."
 
 ---
 
-# Day 73 - Consciousness Work
+# Day 73 - Cognition and Ignorance
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matías De Stefano  
+**Series:** 365 Days - The Path of I Am  
+**Date:** October 15, 2020
 
 ## Daily Practice Elements
 
-- **Statement:** `I am the flux of truth`
-- **Chakra:** `Crown`
+- **Chakra Focus:** Throat
+- **Week Theme:** Emotional Week of Libra (Day 3)
+- **Main Topic:** Cognition and Ignorance - The Process of Knowing and Denying
+- **Vibration:** `SSsher`
+- **Statement:** `I Am the Flux of Truth`
+- **Code:** Unity Code - Everything that exists is the hologram of a unique particle. A particle that vibrates in everything. Expressing infinite variations of itself. Everything that exists is me. And all variation is me expressing in different ways.
 
-## Introduction
+---
 
-Hi everyone , how are you? Good morning , good evening , good night , whatever.
+## Overview
 
-So , come another day , today connecting with the throat chara.
+We're on **Day 3 of the Emotional Week of Libra**, working with the **Throat chakra** and exploring **Cognition and Ignorance**.
 
-So , remember that we are in the emotional week in the month of Libre.
+Before we dive in, Matías acknowledges that Mercury is still retrograde and affecting communication. He apologizes in advance if things feel confusing or unclear—this planetary influence makes it challenging to express concepts precisely. This humility and transparency are important; even teachers experience cosmic cycles that affect their ability to transmit information clearly.
 
-So , just to let you know , from today , from yesterday , from today , we are in the effect of mercury reds or grade.
+**Cognition and Ignorance** might seem like clear opposites—knowing versus not knowing. We typically think:
+- Cognition = intelligence, understanding, wisdom
+- Ignorance = stupidity, not knowing, being uninformed
 
-So , for your , will be difficult for you to understand me , even difficult for myself to understand myself. Communication problems.
+But as always in these teachings, we're going deeper than surface definitions.
 
-So , if there is something you do n't get , if there is something you do n't understand , just wait for another 15 days and watch these videos again.
+Today we'll discover a revolutionary perspective: **The first information you receive is not through the mind—it's through EMOTIONS.** And we'll see that modern civilization, despite having more information than ever before in history, may actually be the **most ignorant civilization** precisely because we have so much information that we've learned to deliberately deny what doesn't fit our preferences.
 
-So , just for all the people that does n't know what is mercury reds or grade , we will have that for another 10 to 15 days. And this is something that happens around 3 times a year. And this means that mercury , the planet , the one that is closer to this , it has a very fast , fast , oh , orbits around the sun.
+This teaching will fundamentally change how you understand knowing, learning, and the relationship between heart and mind.
 
-So , that means that from the point of view of Earth , sometimes the planet seems like if it moves backwards , because it moves so fast , sometimes we see it going this way. And suddenly we see it going it in this way.
+---
 
-So , it 's just a point from our planet that we see that. But we call it retrograde because like going backwards.
+## Core Teaching
 
-Okay , so , so from the point of view of this planet , it seems like if the planet of communication , which is mercury , it 's not communicating very well because it 's not going forward , it 's going backwards , so it 's like talking backwards.
+### The Root: Gnosis
 
-So , nobody ca n't really understand what is happening and sometimes technology , communications fails.
+Both **cognition** and **ignorance** come from the same root word: **GNOSIS**.
 
-So , this is why this maybe will be kind of weird to try to explain things.
+**Gnosis** means knowledge or wisdom.
 
-So , I apologize in advance. This is natural , this is not something new , this is something that we have at least three per year , every year of our lives.
+In ancient times, **Gnostic people** were those who were constant students. They were people who would take information from all sides, from all sources, from all parts of knowledge, and would try to unify and understand it.
 
-So , this is something common , just to know a little bit.
+A Gnostic person is someone who tries to seek for knowledge and wisdom everywhere, not just in one specific field or one specific belief system.
 
-So , what we are going to talk about today is about the cognitive and the ignorance.
+This is important because both our words today share this root of seeking wisdom and knowledge.
 
-So , I will start as I started the topic today in the blog , which is that I felt like we 're that I received these two words for today , cognitive and ignorance , because I would relate them with the mind related with the process of the mental aspect of our work. But the explanation that I believe was that the first thing that we , the first way in which we receive information in our bodies is by feelings and emotions.
+### Cognition: CO-GNOSIS (Putting Knowledge Together)
 
-So , this is why we have to understand first how we receive all this data in order to acknowledge it.
+**Cognition comes from CO + GNOSIS:**
 
-So , let 's go into this.
+- **CO** = together, with (like co-worker, co-pilot, co-exist)
+- **GNOSIS** = knowledge, knowing, wisdom
 
-So , first of all , the concept of cognition and ignorance , ignorance comes both of them from the same word from ancient times , which is gross. Gross is the name of wisdom , is the name of knowledge.
+**So cognition literally means: putting together the knowing, putting together the wisdom.**
 
-So , this was the name in which people would refer to those who are trying to understand all the things.
+**Cognition is the ability to put different concepts, different knowledge, different information together.**
 
-So , for sure you have heard about the groups of gross , the gross people , they are students , constant students , they take information from anything , from religions , philosophies , science , traditions , whatever you can , different colors. They could , they would take information from many , it plays to understand it , to perceive it , to assimilate it , and always study more about any issue , about any concepts.
+It's not just about having information. It's about **connecting that information, relating different pieces of knowledge to each other, seeing how different concepts interact and create understanding.**
 
-So , that would be gross. For sure you should know the word , well , no , the knowledge , okay. The word knowledge also has similarity with the word , call no , okay , gross , call no , no , okay. This is the sound of this word.
+When you put different information together, you create a broader understanding, a deeper wisdom.
 
-So , it means co , it 's like together , to put all together , and no , no , gross , gross comes from the concept of wisdom or knowledge , okay.
+### Ignorance: IN-GNOSIS (Cannot Hold Knowledge Together)
 
-So , all the things that you could understand.
+**Ignorance comes from IN + GNOSIS:**
 
-So , knowing , okay , knowing would be , the connection of things that now I put together , okay.
+- **IN** = not, without, denial (like invisible, incomplete, incorrect)
+- **GNOSIS** = knowledge, knowing, wisdom
 
-So , I put together all the things that would be to know the concept of knowing or cognition , okay , which is to know something. The process , the word of cognitive , cognitive would be the ability to put all the different concepts , all the different knowledge is together , okay.
+**So ignorance means: to not have the gnosis, to be without the capacity to hold or receive or understand the knowledge together.**
 
-So , it 's the ability to know how to understand something. That 's cognitive , okay.
+**Ignorance means that you cannot hold the information together. You cannot receive or understand the information as connected.**
 
-So , in the other hand , what we have is ignorance.
+Ignorance is the opposite of cognition—not because you don't have information, but because **you cannot or will not connect the information you have.**
 
-So , ignorance comes from the word in , in , and no-series , which is the same concept like before , but this one can not hold information , can not receive and understand the whole information , putting together.
+### Agnostic: Without Metaphysics
 
-So , this is ignorance , okay. This is what it means. If the process of cognitive , of cognition , would be to take the different concepts and to put them together to give them a logic within me , would be so that there is that the opposite , the ignorance or the incognito , okay , the incognito would be something that I can not understand , that the parts are there and I can not understand them. Also , we have another word that comes from all this that you may have heard , which is agnostic , okay.
+There's another related word we should understand: **AGNOSTIC**.
 
-So , agnostic would be someone without gross.
+**Agnostic means: without gnosis, without wisdom.**
 
-So , gross means to know things , to other things , the conjunction of things , how they are connected.
+In spiritual terms, agnostic people don't believe in anything metaphysical. They only believe in what is physical, what can be proven physically, what can be touched and measured.
 
-So , this is why throughout the time , the gross has been trying to find meaning of the connection of all the things.
+**For agnostic people, there is no metaphysics—only physics.**
 
-So , this is why it 's more metaphysics , okay.
+This is an important distinction because it shows how the same root word (gnosis) creates different relationships with knowledge and reality.
 
-So , the gross is known by the metaphysics because it 's trying to explain what is beyond physics , that 's metaphysics means beyond physics.
+### The Revolutionary Truth: Emotions Come First
 
-So , every that connects physical aspects , which is more philosophical , but in the other hand , the agnostics are those that there is nothing , are those that say that there is nothing metaphysics , there is nothing metaphysics , that everything is here and now and everything is physical.
+Here's where the teaching gets profound and challenges everything we've been taught:
 
-So , there is no connection between the things.
+**The first information that you receive is NOT through your mind.**
 
-So , this is why they almost are those who are without gross , without the metaphysics concepts of reality. One of the things that we today think is that the physics is the only way in which you can ignore something , is that you believe that the common people believe that. . .
+**The first information that you receive is through EMOTIONS.**
 
-To hold an information , to receive an information , you have to read a book , to do some things specific , and all this knowledge will come to your mind by logic , okay.
+Let's understand what this means:
 
-So , this is why we , the logic of the mind says , everything has to be physical in order to be understandable. But in the other hand , what we have is that the connection of the things is not by physics , is by metaphysics. Metaphysics is , as I said , something that goes beyond physics , but it does n't mean that it 's something different from physics. It means that something that moves in a different way than physics.
+**Emotions are pulses—impulses, movements of energy** that come inside, that go outside. They're like electrical impulses moving through your being.
 
-So , this is why we should not say that cognitive process is only through the mind , because the main way in which the cognitive process works is through metaphysics. The way in which we interpret information , basically , is like this. Everything around , everything that we have around , has an impulse in us.
+**These pulses create FEELINGS.**
 
-So , we receive the information from the outside through the pulses that we call emotions. Emotions are the main information that we receive from the other world.
+**Feelings are more metaphysical than physical.** You cannot touch them. You cannot see them. They're internal experiences.
 
-So , these pulses of emotions are creating links of information of data that we receive from the outside , create what we call fillings , the sensations.
+**Then your brain uses the data of these feelings to act toward the outside, to respond to the world.**
 
-So , this sensitive aspect of the self creates the conjunction of data , pulses of information that creates a feeling. The feeling is something that we would call metaphysics , because the information is ordered within ourselves is something that is impossible to explain. It 's something that we do n't have the physics to understand how this works.
+This is the actual sequence:
+1. **Emotional pulse** (energy impulse)
+2. **Feeling** (metaphysical experience of that pulse)
+3. **Mental processing** (brain using feeling-data to understand and respond)
 
-So , this information is storage is compressed within ourselves. And after that , what happened is that the brain is using data. That 's that information in order to perceive the word outside.
+Most people think it goes: See something → Think about it → Feel about it.
 
-So , the emotion is not processed by the brain specifically , is storage and created by the fillings and the fillings give the information to the brain , secure , act towards the outside. This is why we call the process of acknowledging the process of knowing the cognitive process as something that is met a physical. Because something physical would be to say that our body is made up with atoms.
+But the truth is: Feel something (emotion/pulse) → Experience it (feeling) → Understand it (cognition using the feeling-data).
 
-So , we are all atoms , very well organized. And no physical explanation for poetry , for example.
+### The Process of Cognition: From Feeling to Knowing
 
-So , poetry making something artistic is something that is not explained in the conjunction of atoms.
+**Cognition works like this:**
 
-So , that 's what we call metaphysics , because we can not explain it by the laws of physics.
+You bring all this separated information from the outside world **inside yourself**.
 
-So , that 's what the Agnostic people would attach to the concept of soul.
+This information comes first as **feelings**—emotional pulses, energetic data.
 
-So , basically , I was trying to explain this because everything that we have lived in our everything that we have understood that we have acknowledged assimilated in our life as something learned in our life. And this is just because we have been , because we felt it emotionally and with fillings in the moment we were living that. Like , for example , as we have said once before , right in the bicycle , it was something emotional.
+Then you **put these feelings together, connect them, relate them to each other**.
 
-So , you learned that because it was emotional to play an instrument , to learn something in the school for sure. If there is something that you hold , like this is really important for you and you got it at the first time , is because maybe the teacher had was really good. Because it created an emotion on the tick.
+**This is wisdom: connecting feelings, understanding the relationships between different emotional/energetic data.**
 
-So , usually happens that , that the first information that we are able to integrate in ourselves is because of the moment. This is why also we have to understand that emotion , that the way we got information is by the emotion. Emotion is like this , more code , like doing , like this , by pulses , electrical pulses , that , that storage information. And then the mind reads that information.
+When you achieve this connection of different feelings and information, when you see how they relate—**that is cognition.**
 
-So , what we usually do in school is to learn , like , we do n't learn when we memorize things. Like , for example , when we say the French Revolution was in 1780 , 89. Yes.
+**Cognition is the process of bringing separated information within, connecting it through feeling, and creating wisdom.**
 
-So , when we say those data , it 's like we have a storage because it 's memorize when you repeated so many times. That 's from the mind , but it 's not from the soul.
+### The Process of Ignorance: Deliberate Denial
 
-So , when you acknowledge the information and you share the information and you are willing to show what you know , to share the information with others , there is the moment when you are really activating , when you are really activating the learning process.
+**Ignorance works like this:**
 
-So , it 's because you feel emotion when you say it , if you feel emotion when you express it. And it can be a negative energy or positive emotion , positive or negative emotion , that storage information.
+You receive information (through emotional pulses, through feelings).
 
-So , this is why the AM was trying to explain today that the process of cognition and ignorance goes through the emotional process. The process of cognition is something that words basically like this. Around you have a lot of information , data , knowledge that is all separated. And so , I bring all this information within and I put them all together within myself.
+But instead of connecting it, instead of allowing it to relate to other information you have—**you pick only one thing**.
 
-So , all this knowledge now by the feeling is connected.
+**You deliberately ignore the rest of the information.**
 
-So , they start to be understood by the links between of them.
+**This is ignorance: to receive information but to deny it deliberately, to refuse to connect it with other information you have.**
 
-So , when you connect them all , you call this knowledge as wisdom.
+### Two Types of Not-Knowing
 
-Okay?
+It's important to distinguish two different states:
 
-So , this is how you create wisdom inside.
+**1. Unknown (no data available)**
+- You genuinely don't have the information
+- You haven't encountered the knowledge
+- It's not accessible to you yet
+- This is simply **not knowing**
 
-So , when I see the different things in front of me , I can see them , they are there. And then I absorb them and make just one thing out of all of them. That 's the cognitive process.
+**2. Ignorant (data available but denied)**
+- You DO have the information
+- It IS accessible to you
+- But you choose to deny it, ignore it, refuse to see it
+- This is **ignorance**
 
-So , in the other hand , when I see all the things in front of me , and I just pick one , and keep just only one for me. And that I do n't care about the rest. That 's what we call the process of ignorance.
+The difference is crucial: **Ignorance is not the absence of knowledge—it's the refusal to acknowledge knowledge that's available.**
 
-So , the reason why we call ignorance to that is because precisely , is to take only one and stay out in ignorance. Stay out of the other knowledge.
+### Modern Civilization: The Most Ignorant in History
 
-So , ignorance basically means to ignore something that I know is there , but I do n't see it. I do n't want to see it.
+This leads to a shocking conclusion:
 
-So , for example , global warming. There is a lot of information that can show you that there is global warming. You can feel it. You can see the weather changing , of course.
+**Modern civilization is probably the most ignorant civilization in all of history.**
 
-So , whoever is denying the global warming basically is in the process of ignorance of a lot of data and information. That is there. There are two different ways of being ignorant. One of them is to , how to say it in English , to unknown , unknown would be , yes.
+Not because we don't have information—**we have MORE information than any civilization before us.**
 
-One is to be ignorant , and the other one would be to not know , basically , the opposite to no.
+But **we are more ignorant because we have learned to deny information that doesn't fit what we want to believe.**
 
-So , the person that does n't know is not ignorant. The person that does n't know does n't have the data in front. It just does n't know anything about the issue.
+**We have so much information available, yet we deliberately choose to ignore most of it and only pay attention to what confirms what we already think.**
 
-So , an ignorant is the person that has the possibility to have the information , but the nice information. That 's the ignorant. The other person is someone that is trying to learn and does n't have the information. We can not say that a person that does n't know all the information is an ignorant.
+This is the paradox of the information age: **More information has created more ignorance** because we've become expert at filtering out anything that challenges us.
 
-An ignorant is someone that even if he or she has the possibility of no of having the information , decides to deny it. That 's an ignorant.
+### The School System: 300 Years of Giving Answers
 
-So , to explain about our currentization. 300 years ago , civilization , humans , all humanity was people unaware. They had no option to know. They had no idea how to know things , because there was no possibility to acknowledge things.
+Part of the problem comes from how we've structured education:
 
-But now , we are civilization connected with thousands and billions of possibilities to know information.
+**For the last 300 years, the school system has been giving us answers instead of teaching us the process of cognition.**
 
-So , this is why we , this society , is the most ignorant society that has ever been in the human history. We are the civilization of ignorance. We are a civilization of ignorance , because even if we have the information out there , we decide to deny it. Why this problem has started?
+Schools teach: "Here is the answer. Memorize this. This is what you need to know."
 
-Because 300 years ago , school was created.
+They DON'T teach: "Here's how to connect different pieces of information. Here's how to think. Here's how to process and relate concepts to create your own understanding."
 
-So , school was designed to give information. But the information that this gives is in a book. And they say , here are all the answers. You have to swallow them.
+**We've been trained to receive answers, not to develop cognition.**
 
-All information that was in the world was crewed before.
+**We've been trained to accept information passively, not to actively connect and question and relate information.**
 
-So , you can have it here.
+For 300 years, generation after generation has been trained in this passive receiving of pre-digested "truth" instead of learning the active process of creating understanding through connection.
 
-So , swallow it.
+### The Internet Problem: Information Overload Without Discernment
 
-So , what happened? It has been 300 years at a civilization that has n't been prepared for the cognitive process. Because cognition means to grab information from the outside and create your own wisdom within. Let 's cognition.
+The internet has amplified this problem exponentially:
 
-But without the process of looking for information to create the answer and having just the answer , you lost the whole process of a civilization of 300 years without the possibility to make the cognition process.
+**We now have access to ALL the information we could ever want.**
 
-So , now , what we have is a civilization with internet. We have so much information , so much information that we can learn about anything. But suddenly , we have to learn.
+But we have **no training in discernment**. We have no education in **how to process and connect information**, how to determine what's useful, how to relate different sources.
 
-So , suddenly , we have to discern the information that we are reading.
+**Result: We're drowning in information but starving for wisdom.**
 
-So , suddenly , we do n't know what is the truth , because 300 years have been taught. That information is in this book. We have n't been working in trying to make the process by ourselves.
+We have access to knowledge everywhere, but we don't know how to **put it together** (cognition). Instead, we pick what we like and ignore the rest (ignorance).
 
-So , suddenly , we have so much information that we have to discern which is the truth.
+This creates a civilization where everyone has "facts" to support whatever they want to believe, and no one has the cognitive skills to connect different perspectives into broader understanding.
 
-So , our nature would say , I do n't know , so anything is the truth. I do n't know. I do n't care. And that 's it.
+### It's Not the System's Fault—It's Ours
 
-So , let 's be in the next episode.
+Here's an uncomfortable truth:
 
-So , let 's think about this. Do n't blame the system , because we would say the school did it wrong. The school made it wrong.
+**We cannot just blame "the system" or "the schools" or "the internet" or "the government."**
 
-So , the whole system is screwed up because of education. But hold on. Because we usually try to blame education as if it is the tool for the governments to call population and so on. Do n't blame anyone.
+**The system is made of individuals.**
 
-Listen to this. What happened is that education wanted to give the civilization a tool to know everything. But , but , when wrong. Because they were trying to do something as they thought it was the best.
+And those individuals were shaped by their families.
 
-But now thinking in a different way. If you 're parents , or you have had parents. For sure , someone in your life , in your childhood , or yourself have said to other ones. They would say to other ones , be careful.
+**If we're ignorant, it's because our families trained us to be ignorant—not maliciously, but because THEY were trained to be ignorant by THEIR families.**
 
-Do n't , do n't do this. Do n't go over the table because you 're going to fall. Have you heard this synthesis? You first have a synthesis constantly.
+This has been going on for generations.
 
-And usually comes from a man and that. From those persons that tells constantly , be careful. You go down , you can hurt , etc. Basically , I want just to say that I did n't read in people saying no , it 's the illuminate are the guilty one.
+**The responsibility is not "out there"—it's within each of us.**
 
-Oh , blame on the church or whatever religion , whatever. No , just stop there. And think about this. There is no system that is willing to control us.
+We have the power to break the cycle of ignorance by choosing cognition—by choosing to connect information instead of filtering it, by choosing to learn the process instead of just collecting answers.
 
-The system is made up with people. The people create the system. The individual is the individual. The individual is born in a family.
+### The Unity Code: Everything is One
 
-The individual is the one that created the individual.
+The **Unity Code** that accompanies today's teaching states:
 
-So all the systems , religion , capitalism , whatever you want to call it. All those systems. Has been born from the mind of an individual. And that mind of the individual was aided through the family.
+**"Everything that exists is the hologram of a unique particle. A particle that vibrates in everything. Expressing infinite variations of itself. Everything that exists is me. And all variation is me expressing in different ways."**
 
-And that knowledge. That the main problem we have are from the way in which we learn since we are kids , the information from the outside. How we know how we achieve the information from our family.
+What does this have to do with cognition and ignorance?
 
-So basically what the education was trying to do was to give all information that we had n't been able to receive in thousands of years and give all of that to us in just five years.
+**If everything is one**, if all information is ultimately connected (because everything comes from the same source), then:
 
-So all that information was received by us and this created the opposite reaction of the expected. The opposite reaction would be to deny information to deny everything we become ignored. We have a lot of things to talk about this , but the time is running to wrap the idea. And as a summary to remember that in order to activate the process of cognition , we have to allow ourselves to feel more , to feel to be more sensitive to the information that we receive , to perceive ourselves to.
+- **Cognition is recognizing this unity**—seeing how different pieces of information are connected because they all come from the same source
+- **Ignorance is denying this unity**—treating information as separate, competing, contradictory pieces that cannot be reconciled
 
-So remember that ignorance is to deny things that you know you have in front of you.
+The universe is a hologram. Every part contains information about the whole. **True cognition sees this. Ignorance fragments it.**
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortably. Stretch your body. Yawn. Cross your limbs.
+
+Relax your body, focusing on your breathing.
+
+### Becoming Wind
+
+Start to perceive the air coming inside your body.
+
+Feel how it moves inside you, making you feel like you are empty.
+
+Only air and wind is spinning within you. Feel the air around your body connecting with the air within your body.
+
+Feel yourself soft and light like a feather.
+
+### The Soul's Energy
+
+Perceive the energy of your body moving like wind within your body in a spiral of colors.
+
+Expressing outside through the skin like a twister around you.
+
+### Illuminating the Throat
+
+Put your hands facing the sky at the height of your heart.
+
+Perceive the light of the I Am, of the sun, coming towards you, going through the crown and anchoring in your throat with a beautiful turquoise color.
+
+Perceive the turquoise light coming down through your throat, down through your heart, and into your hands, filling them with this beautiful light.
+
+### Integration: Cognition in One Hand, Ignorance in the Other
+
+**In one hand, perceive the concept of COGNITION.**
+
+All the different parts of information, data, concepts, and knowledge that you have gathered through your feelings and experiences—they're all connecting, relating, creating understanding. This is cognition.
+
+**In your other hand, you have IGNORANCE.**
+
+The deliberate denial of information, the refusal to connect, the filtering out of anything that challenges you. The separation of knowledge into disconnected pieces.
+
+### Understanding Both
+
+Become aware that **cognition is what helps you grow, evolve, expand your understanding by connecting different information through your feelings.**
+
+Become aware that **ignorance is what keeps you small, stuck, limited by refusing to see connections and denying information that's available.**
+
+### The Choice
+
+Recognize that **both potentials exist within you in every moment.**
+
+In every situation where you encounter new information or challenging perspectives:
+- Will you connect it with what you already know? (cognition)
+- Or will you deny it because it's uncomfortable? (ignorance)
+
+**This choice is happening constantly, every day, in small moments and large ones.**
+
+### Unification
+
+Take both hands to your throat, bringing cognition and awareness of ignorance both as one within your throat—your center of truth and expression.
+
+Unify them with the vibration of your being:
+
+**SSsher... SSsher... SSsher... SSsher...**
+
+**"I Am the Flux of Truth."**
+
+All information flows through me. I receive it first through emotions and feelings. I have the power to connect it (cognition) or deny it (ignorance).
+
+**I choose cognition. I choose to connect. I choose to see the unity in all information.**
+
+### Closing
+
+Take a deep breath and start to spread this consciousness, stretching, caressing, and yawning.
+
+Come back here and now, opening your eyes.
+
+---
+
+## Key Insights
+
+- **"Cognition and ignorance both come from GNOSIS—knowledge or wisdom. Gnostic people are constant students seeking knowledge from all sources."**
+
+- **"Cognition means CO + GNOSIS: putting together the knowing. It's the ability to put different concepts and knowledge together."**
+
+- **"Ignorance means IN + GNOSIS: to not have the capacity to hold or receive or understand knowledge together. You cannot connect the information."**
+
+- **"Agnostic means without metaphysics, only physics—without belief in anything beyond the physical."**
+
+- **"The first information you receive is NOT through your mind—it's through EMOTIONS. Emotions are pulses that create feelings."**
+
+- **"Feelings are metaphysical. Your brain uses the data of feelings to act toward the outside."**
+
+- **"Cognition: You bring separated information inside as feelings, then put these feelings together to create wisdom."**
+
+- **"Ignorance: You receive information but pick only one thing and deliberately ignore the rest."**
+
+- **"There are two types: Unknown (no data available) and Ignorant (data available but denied). Ignorance is REFUSING knowledge that's available."**
+
+- **"Modern civilization is the most ignorant in history—not because we lack information, but because we deliberately deny information that doesn't fit our beliefs."**
+
+- **"For 300 years, school has given us answers instead of teaching us the process of cognition. We're trained to receive, not to think."**
+
+- **"The internet gives us all information but no training in discernment. We're drowning in information but starving for wisdom."**
+
+- **"We cannot blame 'the system.' The system is made of individuals shaped by families. The responsibility is within each of us."**
+
+- **"Everything is a hologram of one particle. Cognition recognizes this unity. Ignorance fragments it."**
+
+- **"In every moment, you choose: Will I connect this information (cognition) or deny it because it's uncomfortable (ignorance)?"**
+
+---
+
+## Integration
+
+### Daily Exercise: Catching Yourself in Ignorance
+
+This is uncomfortable but essential work:
+
+**Throughout your day, notice when you encounter information that contradicts something you believe or makes you uncomfortable.**
+
+Pay attention to your immediate reaction:
+- Do you dismiss it immediately?
+- Do you think "That's wrong" without examining why?
+- Do you avoid it, change the subject, or distract yourself?
+- Do you look for reasons to discredit the source?
+
+**These are moments of ignorance—not stupidity, but deliberate denial.**
+
+**Then practice cognition:**
+- What if this information AND my current belief are both pieces of a larger truth?
+- How might these seemingly contradictory pieces connect?
+- What would I understand if I held both pieces together instead of choosing one?
+
+You don't have to change your beliefs. You're just **practicing the cognitive process of connection instead of the ignorant process of denial.**
+
+### Emotions-First Awareness
+
+Challenge the mind-first assumption:
+
+**Notice that you FEEL things before you think about them.**
+
+When you meet someone: You feel comfort or discomfort before you think "I like/don't like this person."
+
+When you encounter an idea: You feel resonance or resistance before you think "This is true/false."
+
+When you face a situation: You feel opening or closing before you think "This is good/bad."
+
+**Your feelings are data.** They're the first information. Your mind's job is to **use this feeling-data**, not to override it or ignore it.
+
+Practice: **"What am I feeling right now? What is this feeling telling me before my mind creates a story about it?"**
+
+### The School of Cognition You Never Had
+
+Since school didn't teach you cognitive process, teach yourself:
+
+**Practice connecting different pieces of information:**
+
+Take two concepts that seem unrelated or contradictory:
+- Science and spirituality
+- Logic and intuition
+- Individual freedom and collective responsibility
+- Your pain and someone else's pain
+
+**Ask: "If both are true, how do they connect? What larger truth contains both?"**
+
+This is the Gnostic approach—gathering wisdom from all sources and connecting it, rather than choosing one source and denying all others.
+
+### Family Pattern Recognition (Without Blame)
+
+Matías said we're shaped by our families, who were shaped by theirs, in cycles of learned ignorance.
+
+**Gently observe (without judgment):**
+- What topics were "off limits" in your family?
+- What information sources were dismissed or forbidden?
+- What beliefs were you taught to accept without question?
+- What questions were you discouraged from asking?
+
+This isn't about blaming your family. It's about **recognizing the patterns of ignorance that were passed down unconsciously.**
+
+Once you see them, you can choose differently. You can break the cycle by choosing cognition.
+
+---
 
 ## Q&A
 
-So the question would be how many things have you denied and ignored throughout your life.
+### Q: Are you saying I should believe everything I encounter? That seems dangerous.
 
-So we have to know our ignorance. I have too many ideas to say in my bed. I want to shout out.
+**No. Cognition is not about believing everything—it's about CONNECTING everything.** You can hold two contradictory pieces of information without accepting either as absolute truth. You're looking for how they relate, what larger pattern they reveal together. Believing everything = ignorance (accepting without processing). Denying everything that challenges you = ignorance (refusing available information). Cognition = holding multiple perspectives and seeing how they connect to reveal deeper truth.
 
-So yes , we have 270 days more.
+### Q: How can emotions be the "first information" when emotions are often wrong or misleading?
 
-So we are going to talk about this more for sure. 930 already.
+**Emotions aren't "wrong"—they're data.** They're giving you information about energetic reality, about resonance and dissonance. The problem isn't that emotions are unreliable; it's that we've been taught to dismiss them as "irrational" instead of learning to READ them accurately. Your feeling of discomfort around someone might be picking up on something your mind doesn't consciously see yet. That's not "wrong"—it's DATA. The mind's job is to use that feeling-data wisely, not to dismiss it or be enslaved by it.
 
-## Daily Practice Elements
+### Q: If modern civilization is so ignorant, why have we advanced so much technologically?
 
-So the vibration of the day. The statement is I am the flux of truth. The code for today unity. It says everything that was a part now is now is as a unity.
+**Because we've developed incredible TECHNICAL cognition (connecting information within specific fields) while developing massive HOLISTIC ignorance (denying information across fields).** We can connect concepts within physics or medicine or engineering brilliantly. But we're ignorant about how technology connects to ecology, how economy connects to human wellbeing, how progress connects to meaning. We're cognitively brilliant in narrow fields and ignorant about the larger connections. That's why we're destroying our planet while sending rovers to Mars.
 
-All the degrees of the sphere , everything lived in each time and space is now as one in the center in the center. Unity is the universal concept that everything that exists is not really a part. But everything that exists is simply an hologram of a unique particle in intense vibration. For that , no matter where you are , you will always be in the center.
+### Q: Isn't some information just false and deserves to be ignored?
 
-So we begin stretching the body. Messaging the body. And you are. We feel comfortable with the comforts.
+**There's a difference between discernment and ignorance.** Discernment says: "This information is inaccurate based on evidence, but I understand WHY it exists, what need it meets, how it connects to the larger pattern of human meaning-making." Ignorance says: "This is false, I refuse to look at it or understand why anyone believes it." Even "false" information contains data—about human psychology, cultural needs, the search for meaning. True cognition asks: "What is this information (even if inaccurate) telling me about reality, human nature, or the search for truth?"
 
-I focus in my breathing. I see you take a deep breath , feel the air coming inside , spinning around. Like a twitter , feeling the void inside the air with your body light as a feather. I feel the air outside connecting with the air within me.
+### Q: How do I know if I'm in cognition or just confused by holding too much contradictory information?
 
-I feel the energy of my body start to speed the air going out through the skin. I 'm spinning around my body as a colorful twitter. I put my hands facing the sky at the height of my heart. I allow myself to perceive the light of the sun coming through my head.
+**Confusion is often a necessary stage in the cognitive process.** When you're connecting information that seemed contradictory, there's a period where nothing makes sense—your old framework is dissolving but the new understanding hasn't emerged yet. This discomfort is why most people retreat to ignorance (picking one thing and denying the rest feels more comfortable than confusion). But if you stay with the confusion, if you keep holding the pieces together without forcing resolution, understanding emerges. Cognition feels like: "Ah! I see how these connect now." That clarity comes AFTER confusion, not instead of it.
 
-## Energy Work
+### Q: What if my family is still stuck in ignorance? How do I not blame them?
 
-Take a deep breath and feel the light of the eye coming through the crown. Cross them through the third eye and anchor in the throat chara. I perceive within my throat a beautiful blue light that debate into two rays that goes to the palms of my hands. I can now up them , feeling them up with blue.
+**Understanding the cycle doesn't mean condoning it—it means seeing it clearly without adding the pain of blame to the pain of the pattern.** Your family was trained in ignorance by their family, who was trained by their family... This doesn't make it right, but it makes it comprehensible. Your work is to break the cycle in yourself—not to change them, fix them, or make them wrong. By choosing cognition in your own life, you create a new pattern. That's your power and your responsibility. Their journey is their own.
 
-In one of my hands , I find all my tip-breath process. And in the other one , I find all the things that I ignore. I become aware that the concepts of cognition and ignorance coexist within me. And both of them creates the idea of how my soul interprets the world.
+### Q: Isn't intuition (which comes before thought) different from emotions?
 
-I become aware that ignorance was trying to protect myself from all those things that scares me.
+**Intuition, emotion, and feeling are all part of the pre-cognitive information stream.** They're different flavors of the same phenomenon: energetic/metaphysical data that arrives before mental processing. Intuition might be clearer, more direct knowing. Emotion might be more reactive, more intense. Feeling might be more subtle, more ongoing. But they're all DATA arriving before thought. The mind's job is to use ALL this metaphysical data to create understanding—not to privilege thought as the "real" information and dismiss everything that comes before/beyond thought.
 
-So I acknowledge its purpose , life. And the cognitive process is the one that helps me to be more wise , to understand the idea of the world. I take my hands to my heart and unify these two concepts and acknowledging that both of them are born from wisdom , from the masses. And I unify them with my sound , remembering that I am the flux of all truth.
+### Q: How do I practice cognition when I'm overwhelmed by information?
 
-I am the flux of all truth. I am the flux of all truth. I am the flux of all truth. I take a deep breath and click.
-
-Start to carry this , bring in this consciousness by stretching , messaging and joining. And I come back and now slowly opening my eyes.
-
-So like this , we have integrated in ourselves this aspect of the I am.
-
-So here is always for being there , for putting like in these videos , so much more people can find them. And for being there , being important.
-
-So see you tomorrow as always at the same time. Maybe tomorrow we will cover her hair. I do n't know.
-
-Today I will cover like this with the hair like that.
-
-So I do n't know. Libre takes me really crazy. I do n't understand.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+**By being selective about INPUT but connective about PROCESSING.** You don't need to consume every piece of information available (that's impossible and exhausting). Choose your sources wisely. BUT—when you encounter information that challenges you or seems to contradict what you know, that's when you practice cognition. Don't add more information; instead, CONNECT the information you already have. Most overwhelm comes from accumulating without connecting. Slow down. Go deeper. Connect what you have. That's cognition.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Closing Reflection
+
+Today we've explored **Cognition and Ignorance**—two concepts that reveal the foundation of how we know, how we learn, and how we create understanding.
+
+**Cognition is not about being smart or educated.** It's about the practice of **connecting information instead of collecting it**, of putting together different pieces through the data of our feelings and emotions to create wisdom.
+
+**Ignorance is not about being stupid or uninformed.** It's about the habit (often unconscious) of **denying information that's available because it challenges us, makes us uncomfortable, or doesn't fit our current framework.**
+
+We live in the most informed and possibly the most ignorant civilization in history—not because information isn't available, but because we've mastered the art of filtering out anything that doesn't confirm what we already believe.
+
+**The revolutionary insight is this: The first information you receive is not through your mind—it's through emotions and feelings.**
+
+Your mind's job is not to be the source of knowing. Your mind's job is to **use the metaphysical data of feelings and emotions to create understanding**.
+
+When you understand this, you stop dismissing your feelings as "irrational" and start reading them as DATA. You stop over-privileging thought and start recognizing it as one part of a larger cognitive process.
+
+**The Unity Code teaches us that everything is one**—variations of a single particle expressing infinitely.
+
+If this is true, then **all information is ultimately connected**. Cognition is recognizing these connections. Ignorance is denying them.
+
+Your work is to **catch yourself in moments of ignorance**—when you're dismissing, denying, filtering, rejecting information because it's uncomfortable.
+
+And to choose **cognition instead**—holding seemingly contradictory information together, asking "How do these connect? What larger truth contains both?"
+
+This is uncomfortable. Confusion is part of the process. The mind wants certainty (as we learned in Day 71), so it pushes you toward ignorance (pick one thing, deny the rest, feel certain).
+
+But **your soul grows through cognition—through the willingness to hold complexity, to see connections, to expand beyond comfortable certainties into larger understanding.**
+
+**"I Am the Flux of Truth."**
+
+Truth flows through you constantly in the form of emotional pulses, feelings, energetic data. Your choice is whether to connect this flux (cognition) or filter it (ignorance).
+
+Choose connection. Choose to see unity. Choose to learn the cognitive process you were never taught.
+
+See you tomorrow for Day 74, as we continue the Emotional Week.
+
+Rest well. Drink water. Notice what information you're denying.
+

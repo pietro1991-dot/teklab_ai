@@ -1,360 +1,235 @@
 ---
-title: "Day 85 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 85 - Food and Fast"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 85
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 85
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - portals
-  - consciousness work
-  - crown chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - month holidays
+constellation: "Libra - Physical Week"
+chakra: "Solar Plexus"
+date: "October 27, 2020"
+topics: ["feeding as energy exchange", "subconscious survival", "unconscious culture", "conscious listening", "veganism as future culture", "fasting as cell regeneration"]
+keywords: ["feeding", "food", "fast", "fasting", "subconscious", "unconscious", "conscious", "survival", "culture", "veganism", "pranics", "cells", "energy", "emotion"]
 
 practice_elements:
-  chakra: "Crown"
+  chakra: "Solar Plexus"
+  vibration: "SSfaner"
+  statement: "I Am the Evolution of the Being"
+  code: "Mentality (Law 1) - First law of universe is mind's pulse divided into trinity: subconscious, conscience, conscious. We're all part of synaptic network of creator's dream. Through our mind we access this dream and become him."
+  body_position: "Comfortable (lying, sitting, or standing)"
 
 ---
 
-# Day 85 - Consciousness Work
+# Day 85 - Food and Fast
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+## Overview
 
-## Daily Practice Elements
+Last day alone before trip participants join. Today explores feeding and fasting through solar plexus—the chakra related to emotions, bonds with others, sweetness (pancreas creating insulin that brings glucose to cells).
 
-- **Chakra:** `Crown`
+Feeding is energy exchange evolved from atoms trying to balance themselves. The first process of looking for information: proton or electron seeking opposite charge to create energy. Negative electron, positive proton looking for other's energy to create balance.
 
-## Introduction
+Through thousands of years of evolution, this same process evolved into: photosynthesis (absorbing light, transforming light), then organisms eating plants, then animals eating those animals. This constant energy exchange is feeding—helping something grow, filling void.
 
-Hi everyone , good afternoon , good evening.
+We must look at feeding through three consciousness levels: subconscious (survival/meat), unconscious (culture/sharing), conscious (listening body). All crossed by emotion because emotion is energy. Food is energy, energy is emotion.
 
-So I remind you that this day today is the last day of the week that I am going to be alone because in the next days I will be with all the other people , the people that came for the trip with me here in Gia.
+Veganism is future culture—this will be natural. But remember, veganism is philosophy of life protecting animal rights, not just diet. Vegan people should become teachers, not fighters. We need education, not fascism. Fasting gives cells holidays to regenerate potential. It's not a race to become pranic—it's giving breaks to cell society.
 
-So I wo n't be alone.
+## Core Teaching
 
-Today is one of those other days that I am not really aligned with myself. I 'm a bit tired.
+### Feeding: From Atoms to Organisms
 
-So I think I 'm not going to be very sharp today. This is what happened when you are watching me every day and the evolution of my process being here every day with you.
+Everything created is conjunction of atoms trying to save energy. Atoms create molecules, chemical elements—organizing to hold, save energy (inorganic structure: crystals, minerals, rigid). Then we have other way atoms relate: exchange of energy. By exchange, it means loss of energy.
 
-So this is it. All this coaching , I guess I have this coaching since March.
+This structure transforms constantly into different things, looking for more energy because they're wasting energy while transforming. This movement makes concept of organisms. Inorganic structure (rigid) vs. organic (moves, transforms constantly).
 
-So I think I already had the COVID.
+Only about organic aspects: they lose energy while changing/transforming/adapting. So they have to go out, look for new energy to earn energy to create balance.
 
-So I did n't , because it 's normal that I had this coaching all the time.
+First process: proton or electron looking for opposite charge so they could create energy. Through evolution, this became photosynthesis (absorbing light), then eating plants, then animals eating other animals. This change of energy constantly is feeding—to help something grow. Food: to give opportunity to grow.
 
-So maybe I had it. I was healed. I do n't know. Who knows?
+When you receive energy, you transform your energy, cells divide, they grow, expand. To feed yourself is to allow yourself to grow, expand your structure/system. Biology constantly looks for energy outside to fill void, gaps you have from transformation, loss of energy during transformation process.
 
-Because it 's not normal for me to have constantly this.
+### Three Levels of Feeding Consciousness
 
-So I do n't know. I do n't have to with myself. A little bit more.
+**Subconscious (Survival):**
 
-So today the topic to discuss today is related to the plexus and because it 's also related with food. Yeah , with food.
+Process of feeding through three consciousness levels: subconscious, unconscious, conscious—all crossed by emotion (electrical pulses = energy). Food is energy, energy is emotion.
 
-So what we are also talking is during the physical aspect of the month of Libre , we will be talking about duality and polities.
+In subconscious (library where all humanity history stored through living, all experiences registered in cells), lot of information encoded since civilization beginning. What happened at beginning? Humans were tiny groups walking around, easy prey for predators. Not sedentary—nomads running around planet trying to look for food.
 
-So we will talk about food and fast. We can see information that we have spoken yesterday. We can understand that the reality , everything that is created by the conjunction of atoms that are trying to save energy.
+During winter (hardest part—no vegetables, no fruit), only way to survive: following animals, kill one, eat them. Nothing else to eat. Since very beginning, during thousands of years, humans survived by eating meat.
 
-So the atoms create the molecule.
+Meat for us was basis of survival. Not only meat—animals gave fur (cover winter, make clothes), bones (make tools). So many things, not only food. In our subconscious, we relate meat with survival, eating animals with feeling fine.
 
-So they create the chemical elements.
+Today we can go to supermarket to buy pumpkin. We can eat vegetables. But not all countries can do that—many have problems with bacteria in vegetables. They still need meat to feel safe, not die of disease. We should not think from point of view of modern spirituality saying "no, don't kill animals." We must understand humanity history to understand why humans still need to survive.
 
-So these chemical elements , they organize in such a way to save the energy as much as they can.
+Subconscious is about feeding through survival—what we have to do to survive on this planet.
 
-So they structure themselves to hold it , to save all the energy that they could.
+**Unconscious (Culture):**
 
-So this is like an inorganic structure that does the crystals , the minerals , everything that is very rigid. But then we have the other way in which the atoms are related , which is the exchange of this energy. And by exchange , it means loss and energy.
+Next step: civilization created culture when it could be settled (sedentary). Created security in civilization. During this process, more food available, people could exchange food, buy/sell. Easier. Everyone could have lots of things.
 
-So this means that this structure transforms itself constantly in different things , trying to look for more energy because they are wasting energy while they transform themselves.
+This created new way of eating—not survival, but to share. From very beginning at home, mom used to say "you have to finish everything in your dish" to make mom happy. This creates bond, link with food that's more emotional than survival.
 
-So this movement makes the concept of organisms.
+You start relating food with family, with friends, sharing with others, inviting people to eat at home to make them feel loved. You understand that by food, you're feeling part of something. You eat what others eat because you want to feel part of that society, that group.
 
-So we have the inorganic structure and the organic , which is that they move and transform themselves constantly.
+In past times (even today), kings and queens used to share dishes so they could see food wasn't poisoned—trust between each other. There would be peace just by sharing meal.
 
-So only about the organic aspects , they in order to change the transform and to adapt , they lose energy.
+Unconscious feeding is about feeling yourself part of group. Sharing, feeling love, trust when sharing food.
 
-So they have to go out and to look for new energy to earn energy.
+**Conscious (Listening to Body):**
 
-So it could be in balance. The first process of looking for that information is when a proton or an electron are looking for the opposite charge.
+Conscious way is when you realize you don't need to survive anymore, you don't live to eat. Also you're not willing to be part of anyone/anything—you don't need to be accepted in any group.
 
-So they could create energies. The negative of the electron , the positive of the proton , they are looking for the energy of the other one in order to create a balance with energy.
+You begin taking care of yourself, thinking about what's good for you besides what other things. What's good for you by culture or survival is when you think "I have to feed myself with energy I need." You start wondering what your body really needs.
 
-So they are searching for that energy outside.
+Maybe you feel really heavy, so you don't need meat anymore because meat is very heavy in energy. Maybe you want to feel more light, so you eat more vegetables. You start changing your relation with energy you're bringing in.
 
-So through thousands of years of evolution , this same process of the proton and neutron and the electron has been evolving to look for other ways of absorbing that energy , which would be by photosynthesis in the physical digital realms by absorbing the light , transforming the light. And then other organisms would eat the plants and the other animals would eat those other animals.
+In that moment of consciousness, you stop just taking energy in food because you need it. You start eating energy of what you need—way of sharing energy, exchanging energy, then really storing energy for yourself just in case.
 
-So this change of energy , constantly , is what we call thing. Basically , it 's to feeding. The process of feeding is the exchange of energy that has been involved in from the atoms trying to balance themselves. The concept of eating of feeding would be best.
+### No "Right Way" to Eat
 
-The best way to say it.
+Some people ask constantly: "What is real way of eating? What's best way?" I would say there is no way better than others. There's a way for each person because each body is different.
 
-So the concept of feeding is about to help something to grow.
+You cannot eat just because someone says "this is good thing to eat" because that's good for their bodies, but not your body. You have to listen to your own body to see what your body wants to eat every day.
 
-Okay? That 's the origin of the word would be that to help to grow.
+But you have to be aware and conscious about from where you're eating: from subconscious (I need it because I don't want to die), from unconscious (I always ate that, so that's how it's always been—cultural), or conscious (listening to body).
 
-So food , the origin of the word , would be that to give the opportunity to grow.
+When you're conscious about your process of feeding yourself, you start listening to body, feeling body. You realize what you need. Sometimes your body needs meat. You should not feel guilty if you feel need of meat—some people still are related with memory of cells that says "I need meat."
 
-So this would mean that when you receive energy , you transform your energy and the cells starts to divide.
+You must not stop eating something by guilt. You must become responsible of what you eat, but not feeling guilty because there's lot of people saying "you have to change your way of eating, don't eat this, this is killing animals, blah blah."
 
-So they grow , they expand.
+Cells don't understand morals, souls, spirituality. Cells understand energy. That's it. If they need meat, your body will need meat. What you have to become is responsible in way you eat. You can start to change, step by step, your way of eating. It's process.
 
-So to feed yourself would be to allow yourself to grow , to expand your structure , your system. Because of this , the biology , the organic system is constantly looking for energy in the outside that can fill up the void , the spaces , the gaps that I have because of the transformation , of the loss of energy during the process of transformation.
+You cannot say to others to change way of eating just by morals. You have to teach and show process so body can get used in new way of eating. It's long process. You've been thousands of years eating same things. You'll need not just one day to change diet.
 
-So that 's what feeding would mean to fill up a space that is void of energy. We have to look into the process of feeding through three different levels of consciousness , which are the subconscience , the unconscious and the conscious. And the three of them will be crossed by the concept of emotion. And where is that?
+To be responsible means to understand why. Why you're being addicted to eat something. Because your cells are first addicted of your body. They're addicted to energy. You have to think about why you become addicted to some things. You have to go to origin of first times.
 
-Because emotion means energy.
+### Veganism: Future Culture, Not Fascism
 
-Remember that we have spoken about this , that emotion basically is the electrical pulse created by the reaction of something that is happening outside.
+Another thing I want to say: veganism. Veganism is not way of eating—it's way of living, philosophy of life to protect rights of animals. Don't make mistake thinking it's just diet. It's philosophy of life.
 
-So basically the pulses of energy that we receive from our side , our brain understand that information , that electrical pulses as emotion. But it 's energy.
+I know veganism will be way of life for most countries in future. Veganism will be natural in future. Now it's kind of new thing, but really veganism will be way of living of future.
 
-So we relate everything with energy.
+In some day in future, people will study what's happening now with animals like Holocaust. It will be same. This will be law and lifestyle for future. No doubt about it.
 
-So if food is energy , we will relate food with emotions. Food is energy , energy is emotion. Emotion are electrical pulses , negative and positive.
+But thing is, remember: veganism is culture, philosophy of life. It will become culture for lot of people in future, entire civilizations in short future. We should not—vegan people should not—become like fascists of that culture.
 
-So what we receive as this energy , we can understand that all food that we have in our lives , they are related with something emotional. If I eat in a sandwich , I will remember , in my cells , I will remember the first time I ate one , the one that my mom did to me , all the situations and emotions that reminds me about sandwiches. And this is why I am willing to eat them because I felt good because of this.
+Why I say that without problem? Because fascism is when culture tries to put over other one, blaming other one, trying to make it disappear because they believe they're better. That's fascist.
 
-So this is why also we relate the pancreas , which is the gland that creates the insulin that is the hormone that goes through the blood looking for the glucose to bring it to the cells. We relate that gland with the plexus , which is the emotions , the the bounce that we have with others , the feelings , the sweetness of it. To understand the process of subconscious , the subconscious is like a library where all information of all humanity has been storage through the process of living.
+What vegan should do is educate, not impose culture. We have to educate people to understand that future will be vegan. We have to make people understand in way that they love vegan, not hate vegan. Our goal is to make all people understand and love culture of veganism for future, not try to get rid of them because you can't understand them, but fight.
 
-So all the history of humans have been storage in a registry that we all share and it 's within our bodies.
+This will be natural, and we need vegan teachers, not vegan fighters. It's long process for lot of people to understand. We have to educate subconscious.
 
-So all experiences of every minute has been registered in our cells.
+### Fasting: Cell Regeneration
 
-So this means that a lot of information that we have within is encoded since the very beginning of our civilization. And what happened in the beginning of civilization? Human. The very beginning , humans were tiny little groups working around the world in just family groups , maybe three , maybe ten , but nothing more.
+One of ways you can start transforming your own body is through fast. Fasting would be tool to help regenerate potential of your own cells.
 
-So they were very easy praise for the predators , other animals and other people that were hunting to survive.
+Imagine each cell in your body is person in society. Today our society is consumerist society—consume, consume, consume constantly all time. Our cells do exactly same. We constantly eat and eat and eat, receive all this information, do the cells constantly. Cells are eating constantly like we do in society.
 
-So we were not able to be sedentary. We had to be nomads.
+Only way we have to relax and stop consuming is give space, give moment for cells to take deep breath, allow potential of cell to go out. You're not allowing cell to express its own potential because they're trying to process information constantly.
 
-So we were running around , we have to go all over the planet , trying to look for food. And during the winter it was the hardest part because there was no vegetables to eat , there was no fruit.
+What we have to do is make some fasting—few hours, then day and so on. Give break to our cells so it could transform itself.
 
-So the only way that they found to survive was following the animals and signs kill one of them and eat them because there was nothing else to eat.
+Process of fasting: Please, if you eat lot, don't stop eating and start other day. Never do that. Lower your amount of food for week—less and less. Until you eat tiny little food like five times a day for whole week, then skip for week the breakfast, then another week the main meal, then dinner like that. Then go back again with meal, dinner, breakfast, again with food.
 
-So since the very beginning , during thousands , thousands of years , the humans have survived by eating meat.
+Just don't put yourself goal to be pranic person. Those who are pranics, perfect. For those who don't know: pranic persons are those that eat energy of environment, energy of light. Best light to absorb is sunrise and sunset.
 
-So meat for us was the basis survival. And not only because they were eating the meat , but the animals gave so much more. They gave the , how to say , the fur to cover winter , to make clothes. They gave bones to make tools.
+But don't put goal like becoming pranic. No, no, no. Good for them who accomplished that, but it's not goal. This is not race to be pranic. Give break, holidays for cells, then go back to work, then again holidays, then go back to work. Something you have to do sometimes, sometimes not.
 
-So they gave so many things , not only food , not only the meat.
+Remember: feeding yourself is way of exchanging energy, fasting is way of generating your own self.
 
-So the flesh.
+## Practice: Solar Plexus Activation
 
-So what happened was that in our subconscious , we relate meat with survival. We relate eating animals with filling fine.
+**Preparation:**
+- Comfortable position (lying, sitting, standing)
+- Stretch body, massage, relax
+- Focus on breathing
 
-So now of course , from our point of view today , we can go to supermarket to buy pumpkin now in this following , following , following , sorry.
+**Wave Movement:**
 
-So we can eat vegetables. But not all the countries can do that because most of the countries , they had all problems with some bacteria in the vegetable.
+1-18. Complete body activation sequence
 
-So they still need meat in order to feel safe , to not to die of some disease.
+**Solar Plexus Work:**
 
-So we should not think about this from the point of view of our spirituality , our modern spirituality that we may say , no , you do n't have to kill animals. We have to understand history of humanity in order to understand why humans still need to survive. This is something that is in our subconscious.
+19. Pay attention to energy of I Am above head
+20. I Am goes through crown, third eye, throat, heart, anchoring in pancreas/solar plexus
+21. With two hands, press with two fingers each hand (pointing and heart fingers) on stomach below sternum and above belly button
+22. Massage in circles all around stomach by belly
+23. Also down and below last ribs
+24. Do massage pressing belly, moving from belly up under ribs—like opening portal in stomach
+25. Let yellow light (plexus) go out
 
-So basically , the subconscious is telling us about the way we feed ourselves through survival because it 's what we have to do in order to survive in this planet. The other level of feeding yourself is unconscious. And by unconscious , we mean society.
+**Integration:**
 
-So the next step is to understand that civilization created the culture when it could be settled and they started to create the settlements , the sedimentaryism. They created all this security in the civilization.
+26. Relax hands, allow perceive energy of this light coming from plexus
+27. Spread light toward all directions
+28. Vibrate: SSfaner
+29. State: "I am evolution of the being" (repeat)
+30. Bring all consciousness through each joint (opened as portals) by stretching, warming, massaging
+31. Return here now, open eyes
 
-So during this whole process , there was much more food and people was able to exchange food , to buy , to sell food.
+**Closing:** Drink lots of water, rest to assimilate.
 
-So it was easier. Everyone could have a lot of things.
+## Key Insights
 
-So this created a new way of eating , which was not survival , but was to share.
+1. Feeding is energy exchange evolved from atoms seeking opposite charges to balance
+2. Through evolution: photosynthesis → eating plants → eating animals
+3. Organic systems lose energy transforming, so must seek outside energy
+4. Subconscious feeding = survival (meat helped humans survive thousands of years)
+5. Unconscious feeding = culture (sharing food creates bonds, feeling part of group)
+6. Conscious feeding = listening to body's actual needs beyond survival/culture
+7. Food is energy; energy is emotion (electrical pulses)
+8. There's no one "right way" to eat—each body different
+9. Cells are addicted to energy; being responsible means understanding why you crave
+10. Veganism is future culture and philosophy of life, not just diet
+11. Vegan people should be teachers educating, not fighters imposing
+12. Fasting gives cells holidays to regenerate potential they can't access while constantly processing
+13. Don't race to become pranic—give cells breaks, then return to work
+14. Becoming conscious of feeding means not eating by guilt (moral pressure) but by responsibility (understanding)
+15. You can't change diet overnight—it's long process educating subconscious
 
-So from the very beginning , at home , mom used to say you have to finish everything that is in your dish.
+## Integration
 
-So you have to eat it to make your mom happy , for example.
+**Daily:** Before eating, ask: "Am I eating from subconscious (survival fear), unconscious (culture/habit), or conscious (listening to body)?"
 
-So this creates a bound , a link with food that is much more emotional than to survive.
+**Weekly:** Solar plexus practice opening "portal in stomach." Feel yellow light spreading—this is emotional energy center where food and feelings meet.
 
-So you start to relate food with the family. You start to relate food with friends and you start to share with others with friends , inviting people to eat at home to make them feel loved. And you understand that by food , you are feeling part of something.
+**Monthly:** Try one fasting practice (skip one meal for week). Notice how cells respond when given break from constant processing.
 
-So you eat and you rip and you eat what others are eating because you want to feel part of that society of that group.
+**Ongoing:** If considering veganism, approach as education (learning philosophy of life), not moral judgment (guilting self or others). Future culture emerges through understanding, not force.
 
-So in past times and even today , but in the past times , the kings and queens used to share the dishes of the kings and queens.
+## Questions and Answers
 
-So they could see that the food was not poisoned , that they were trust between each other.
+**Q: If veganism is future, why can't we force it now?**
+A: Because force creates resistance. Fascism (imposing culture, blaming others) creates hate, not transformation. Education creates love for change. Long process of understanding needed.
 
-So they would be peace just by sharing the meal.
+**Q: Should I feel guilty eating meat?**
+A: No. Guilt doesn't change cells' needs. Become responsible (understand why you crave it, educate body gradually) but not guilty (moral pressure disconnected from cellular reality).
 
-So that is a good concept to understand the anxious way , which is sharing , feeling love , trust when you share the food.
+**Q: How do I know what my body actually needs?**
+A: By listening consciously, not reacting from subconscious survival or unconscious culture. Feel body after eating different foods. Notice energy levels, heaviness, lightness. Body tells truth when you listen.
 
-So basically in the unconscious , the feeding is about to feel yourself part of a group.
+**Q: What if I can't afford vegan diet?**
+A: Veganism as future culture will become accessible naturally. Don't impose on yourself what body/circumstances can't support now. Consciousness shifts first, then circumstances follow.
 
-So the third process would be the conscious way. And the conscious way is when you realize that you do n't need to survive anymore , that you do n't live to eat. And that also you are not willing to be part of anyone , of anything. Like I do n't need to be accepted in any group.
+**Q: How long should I fast?**
+A: Start tiny—skip one meal per week. Gradually extend. Never shock body by sudden long fasting. It's holidays for cells, not punishment. Return to work (eating) after rest.
 
-So you begin to take care of yourself , to think about what is good for you besides what other things , what is good for you by culture or by survival is when you just , I have to feed myself with the energy that I need.
+**Q: Why do emotions relate to food?**
+A: Emotion = electrical pulses = energy. Food = energy. Solar plexus (pancreas/insulin/glucose) is where emotional energy and physical energy meet. Food and feelings are same: energy.
 
-So you start to wonder what your body really needs.
+**Q: Can I become pranic?**
+A: Some achieve this, but it's not goal or race. Focus on giving cells breaks (fasting), not achieving extreme state (no eating). Process matters more than destination.
 
-So you feel really heavy , so you do n't need meat anymore because meat is very heavy and energy.
+**Q: What about people who need meat to survive?**
+A: Respect their reality. Not all countries have safe vegetables, resources for vegan diet. History matters—thousands of years of survival patterns in cells. Education changes this gradually, not judgment.
 
-So you do n't need to eat more meat because it 's very heavy , so maybe you want to feel more light.
+## Closing Reflection
 
-So you eat more vegetables , for example.
+Today's teaching reveals feeding as sacred energy exchange evolved from atoms seeking balance to humans seeking sustenance, connection, conscious choice. Your solar plexus—where pancreas administers glucose to cells like heart administers blood—is where food and emotion meet as one: energy.
 
-So you start to change your way of relation with the energy you are bringing in.
+The three levels of consciousness (subconscious survival, unconscious culture, conscious listening) show how complex feeding truly is. You're not just eating food; you're navigating thousands of years of cellular memory (meat = survival), cultural conditioning (sharing meals = love), and personal body wisdom (what do I actually need right now?).
 
-So in that moment of consciousness , you stop just taking energy in your food because you need it. You just start to eat the energy of what you need. It 's just a way of sharing the energy and exchanging energy , then really a storage energy for yourself just in case.
+Veganism emerges naturally as future culture when we educate, not impose. Fascism happens when one culture tries destroying another by claiming superiority. But teachers who love both animals and humans create space for transformation through understanding. This is long process. Cells take time to release old patterns.
 
-## Q&A
+Fasting gives your cellular society holidays—breaks from constant consumption letting potential emerge. Not race to become pranic, just rhythm: work (eating), rest (fasting), work, rest. Like heartbeat: receive, give, receive, give.
 
-Something that I want to say about this , about eating , the process of eating is that some people are asking constantly , so what is the real way of eating? What is the best way of eating? And I would say there is no way better than others. There is a way for each person because each body is different.
-
-You can not eat just because someone says , no , this is the good thing to eat because that 's the good thing for their bodies , but not your body. You have to listen to your own body to see what your body wants to eat every day. But do you have to be aware and conscious about what from where you are eating it? If you are eating from the subconscious , which is , I need it because I do n't want to die , or you are eating unconscious , which is , I always ate that.
-
-So that 's how it always has been.
-
-So this is unconscious , which is cultural.
-
-So when you are conscious about your process of feeding yourself , you start to listen to your body. You start to feel your body. And you realize you need , and sometimes your body needs meat. And you should not feel guilty if you feel the need of meat because some people still are related with the memory of the cells that tells I need meat.
-
-So you should not stop eating something by guilty. You must become responsible of what you eat , but not feeling guilty because there 's a lot of people saying you have to change your way of eating. You do n't have to eat this. This is killing animals , blah blah.
-
-And the cells , the cells does n't understand moral , souls or whatever. They do n't understand that. They do n't understand spirituality. Cells understand energy.
-
-That 's it.
-
-So if they need meat , your body will need meat.
-
-So what you have to become is responsible in the way you eat.
-
-So you can start to change , step by step , your way of eating. It 's a process. You can not say to others to change the way of eating , it 's another , just by morals. You have to teach and to show the process so the body can get used in you way of eating.
-
-So it 's a long process. You have been thousands of years eating the same things.
-
-So you will need not just one day to change your diet. To be responsible means to understand that you have to acknowledge why. Why you are being addicted to eat or whatever to something. Because your cells are the first addicted of your body.
-
-They are addicted to energy.
-
-So you have to think about what you become addicted to some things.
-
-So you have to go to the origin of the first times. Not only because of food , also the people that smoke , the people that drugs themselves. All these needs that does n't have any coherence and that are heart hurting your body.
-
-Sometimes cells are asking for energy that is not good for them.
-
-So you have to acknowledge why I am eating this.
-
-So to be responsible is to start to receive , to understand why I am doing this , why is doing me bad , how can I change and slowly change the way you absorb the energy.
-
-So another thing to understand here is that the last one that appears organism. And organism is not a way of eating , it is a way of living , it is a philosophy of life to protect the rights of the animals.
-
-So do n't make a mistake thinking that it is just a diet. It is a philosophy of life.
-
-So another concept that I wanted to say about organism is that I know that organism will be like the way of life for most of the countries in the future.
-
-So of course that organism is something that will be natural in the future.
-
-Now it is like kind of a mode , I do n't know how to say it. Like something new , but really organism will be the way of living of the future.
-
-So we have to understand that , we have to understand that in some day , in the future , people will study what is happening now with the animals like the holocaust. It will be the same.
-
-So this will be a law and lifestyle for the future.
-
-So no doubt about it. But the thing is that , remember , organism is a culture , it is a philosophy of life.
-
-So it will become a culture for a lot of people in the future , for entire civilizations in the future , and short future.
-
-So we should not as vegan people , vegan people should not become like the fastest of that culture. And why I say that without any problem to say it? Because fascism is when a culture tries to put over the other one , blaming the other one , and trying to make it disappear , because they believe that they are better.
-
-Okay , that 's a fascist. What vegan should do is educate , not impose a culture. We have to educate people to understand that the future will be vegan.
-
-So we have to make people understand that in a way that they love vegan , not hate vegan. Our goal is to make all the people to understand and love the culture of organism for the future. Not to try to get rid of them , because you can understand them. But they are fighting.
-
-You know , you know?
-
-So this will be natural , and we need vegan teachers , no vegan fighters.
-
-Okay? It 's a long process for a lot of people to understand. We have to educate the subconscious. One of the ways in which you can start to transform your own body is through fast.
-
-And fasting would be like this tool to help you regenerate the potential of your own cells.
-
-Okay?
-
-So imagine that each one of the cells in your body is a person 's society.
-
-Today our society is a consummate society.
-
-So it 's consumed , consumed , consumed constantly all the time. Well , our cells does exactly the same. We constantly eat and eat and eat. We receive all this information and we do the cells constantly.
-
-So the cells are eating and eating and eating and eating constantly like we do in our society.
-
-So the only way we have to relax and to stop consuming is to give a space , to give a moment for the cells to take a deep breath and to allow the potential of the cell to go out. Because you are not allowing the cell to express its own potential because they are trying to process information constantly.
-
-So what we have to do is to make some fasting.
-
-Okay? A few hours , then a day and so on.
-
-So we give a break to our cells.
-
-Okay?
-
-So it could transform itself. The process of fasting. Please , if you eat a lot , if you are usually eat an eater , do n't stop eating and start the other day.
-
-Okay? No , never do that. You just low your amount of food for a week , okay? Less and less and less.
-
-Until you just eat tiny little food like five times a day for a whole week and then you just skip for a week the breakfast and then another week the main meal , then the dinner and like that. And then you go back again , again with the meal , again with the dinner , with breakfast and again with food , okay? Just do n't point yourself like a goal to be a panic person. Those who are pranks perfect.
-
-For those who does n't know what is a panic person or those that eat the energy of the environment , the energy of the light. The best light to absorb is the one in the sunrise and the one in the sunset. But just do n't put the goal like becoming a panic. No , no , no.
-
-Good for them who has accomplished that , but it 's not a goal. This is not a race to be panic. No , this is give a break , holidays for the sales and then you go back to work and then again holidays and then go back to work. It 's something that you have to do sometimes , sometimes not , okay?
-
-And that 's it.
-
-So remember this feeding yourself as a way of exchanging energy and fasting as a way of generating your own self. I spoke too much and I should be sleeping. The vibration for today is sheer.
-
-Today we begin with the new group of 12 codes which are the universal laws. The code for today is mentality. The first law of the universe is also the only one for all the rejection of this one. Everything in the universe is the pulse of the mind which is divided into the trinity of the subconscious and conscience and conscious.
-
-## Daily Practice Elements
-
-We are all part of the thoughts of a synaptic network of the creator 's dream and for that through our mind we can access this dream and become him. The statement for today is I am the evolution of the beam. Did yourself comfortable if you want to lay down to be stand up , stood up.
-
-Sorry. I stretch the body , massage the body and your own. And I relax. Just focus in my breathing.
-
-I bring all my attention to my left foot starting to move my toes. And the ankle. And the hip. And the left side.
-
-I bring my attention to my waist turning and bending the body towards the left , feeling the pressure. Coming back to the center. I start to move my fingers , my left hand , on my wrist and softly in the soft circles. I start to move my hands up to the left shoulder.
-
-I begin to move my head from the neck in circles towards the left. And very softly I start to move it towards the right. I descend this movement towards the right shoulder and then to the right elbow. I descend the movement to the right hand , wrist and fingers.
-
-I start to bend my body towards the right , feeling the pressure in the waist. And I start to move the right hip and then the right knee. And I descend the tension to a circular movement in the right ankle towards the toes in my right foot. I pay attention to the energy of the I am above my head.
-
-## Energy Work
-
-The I am through the crown with your imagination helping it go down through the third eye , the throat , the heart and the angrily. And the pancreas , the solar plexus. With your two hands , press with two fingers of each hand and your stomach below your stern. And above the belly button.
-
-I start to make a massage in circles all around the stomach by the belly and also down and below the last hips. And besides doing this massage , pressing my belly , I feel like if I am opening , pressing and moving from the belly until under the ribs. Like opening a portal in your stomach , letting the yellow light , the plexus go out. I relax my hands and allow myself to perceive the energy of this light coming from my plexus.
-
-I start to spread the light towards all directions. I start to spread the light towards my plexus. I am the evolution of the being. I am the evolution of the being.
-
-I take the breath and bring all this consciousness through each one of the joints we have been opening as portals by stretching , warning and messaging. And it 's one at some time. I start to spread the light towards my plexus. I recommend you to drink a lot of water and rest a lot and see you tomorrow at the same time.
-
-Bye!
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+You are evolution of the being when you listen to your body's truth instead of guilt, fear, or external pressure. Feed yourself consciously. Fast occasionally. Let cells breathe. This is how transformation happens: not by force, but by education. Not overnight, but through patience. Not through judgment, but through love.

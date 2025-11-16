@@ -1,340 +1,567 @@
 ---
-title: "Day 142 - Energy Alignment"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 142 - South America and the Third Eye Chakra"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 142
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: "2025-11-16"
 document_type: "transcript"
 language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 142
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - third eye
-  - I AM presence
-  - I CAN affirmation
-
+keywords: ["Sagittarius", "Third Eye Chakra", "South America", "Vision", "Christmas Eve", "Physical Week", "Earth Chakras", "Andes Mountains", "Tierra del Fuego", "Kundalini Fire", "Spiritual Crown", "Antarctica Connection"]
 practice_elements:
-  chakra: "Crown"
-
+  vibration: "Far"
+  statement: "I am the Celestial Consciousness"
+  chakra: "Third Eye"
+  code: "Color Magenta - in the fast spectrum after ultraviolet light, magenta tones crown the coldest of the spirit. A cold capable of burning in human perception of colors. Its vibration connects us with the visible spheres of divinity. The connection with the highest subtlety."
 ---
 
-# Day 142 - Energy Alignment
+# Day 142 - South America and the Third Eye Chakra
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** Day 142 Transcript - Sagittarius Month, Third Eye Chakra, Physical Week (Christmas Eve 2020)
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+- **Chakra Focus:** Third Eye
+- **Chakra Focus:** Third Eye
+- **Week Theme:** Physical Week - Sagittarius Month  
+- **Main Topic:** South America as Earth's Third Eye - Vision and Kundalini Fire
+- **Vibration:** Far
+- **Statement:** I am the Celestial Consciousness
+- **Code:** Color Magenta - in the fast spectrum after ultraviolet light, the magenta tones crown the coldest of the spirit. A cold capable of burning in the human perception of colors. Its vibration connects us with the visible spheres of the divinity. When the intensity prevents us from observing them, from serving them, but feel them. The connection with the highest subtlety.
 
-## Introduction
+---
 
-Hi everyone. Good morning and good afternoon. Good night.
+## Overview
 
-So just before we start something to tell you that tomorrow I know that well tomorrow is Christmas I guess because some people say that the 25th is Christmas so but tomorrow night start Christmas.
+On Christmas Eve 2020, we continue our journey through Earth's chakras, connecting today with South America as the planet's Third Eye - the place of vision, spiritual fire, and seeing into multiple dimensions and realities. We learn how Earth's body is organized differently from human bodies (with overlapping layers), discover why South America connects Antarctica's spiritual crown to the physical body through Kundalini fire rising from Tierra del Fuego, and understand the Atlantic calendar's view that we're in the middle of the year, not the end. This teaching prepares us for the coming Capricorn month of structure and hard work.
 
-So I know that is a moment to be with the family , to be with your own and so maybe we are not going to be as many as we are every day but just wanted to let you know that I would do the alignment anyway as always. I would be there as here as every day.
+## Christmas Eve Context
 
-So no one would be offended if a lot of people does n't come up. If we are only three so do n't worry.
+### Tomorrow is Christmas - A Special Alignment
 
-So you are going to do the alignment in another moment. Also I would try to be very , I would try to speak a little bit. I would try. I would try.
+Tomorrow is Christmas Day, so many people will be celebrating with family. Matias will still do the alignment as always at 20:00 Egyptian time, even if fewer people attend.
 
-I would do my best to speak a little bit. I do n't know how would you feel but since yesterday we are feeling very tired. Like the body is really tired. We can feel like if we want to sleep all day.
+**"I would try to speak a little bit, I would try."** (He knows he talks a lot!)
 
-And today also not feeling tired today but we are like if we were sailing on a boat in the ocean and we are feeling like diary right now.
+### Feeling the Energy Shift
 
-So we are also I guess today we are receiving another solar flare.
+**Physical sensations reported:**
+- Very tired since yesterday (body really tired, want to sleep all day)
+- Feeling like sailing on a boat in the ocean, feeling "diary" (dizzy)
+- Probably receiving another solar flare
+- Processing information from this day
 
-So we are maybe a little bit processing all this information from this day.
+**"It's normal to feel like this because we are trying to adjust. We are like configuring the new energy."**
 
-So I guess it will be like this for this three days.
+This is the reset of our connection - the connection that we all have between each other. It's happening in all three bodies (physical, emotional, mental) - different for each person.
 
-So it 's normal to feel like this because we are trying to adjust. We are like configuring the new energy so it 's normal to feel like we are in the body. We are in the body like maybe the motions. The thinking , the thoughts maybe I do n't know.
+### Important: Following the Atlantic Calendar
 
-For any person would be different but this in the three bodies. This is like the reset of our connection , the connection that we all have between us.
+**Clarification on which calendar they're using:**
 
-So I remind you that today we are still in the physical week of Sagittarius. And I remind you also that we are not doing this , this tree of consciousness. We are not doing this by the central astrology neither the tropical astrology. We are following the month of the Atlanta calendar that was related to the names of the month.
+**"We are NOT doing this by sidereal astrology neither tropical astrology. We are following the month of the Atlantic calendar that was related to the names of the month."**
 
-So we are still in the month of Sagittarius.
+We're still in the month of Sagittarius according to Atlantic calendar (even though tropical astrology would say otherwise).
 
-So it 's not about specifically astrology , it 's about the name of the month. As we are in the month of Sagittarius and the physical week , this is why we are starting our journey through the earth.
+**It's not about specifically astrology - it's about the name of the month.**
 
-So remember that one of the attributes of Sagittarius in the physical aspect is the traveling the journeys through life through the earth. Looking for destined.
+## Physical Week of Sagittarius: Traveling Through Earth
 
-So traveling is one of the keys of this is why in this week we are traveling through the earth day by day.
+### Sagittarius Physical Aspect = Traveling and Journeys
 
-The reason why we are traveling through earth is not just to know earth is because we need to know the trackers of the planet. We need to know how to relate with this to understand this parts of the planet because we are this planet.
+**The theme:** One of the attributes of Sagittarius in the physical aspect is **traveling, the journeys through life, through the earth, looking for destiny.**
 
-So we are earth. And in order to live fully present in earth , we have to acknowledge to think about the earth as a body.
+That's why this week we're traveling through the earth day by day, continent by continent.
 
-So this is how we are going through our bodies , through our charts , aligning by the charts of the planet.
+### Why We're Traveling Through Earth's Body
 
-So the goal of this week is to recognize that we are the body of earth.
+**The goal is NOT just to know Earth - it's because:**
 
-The reason why we are going to speak about this about each one of the continents and the regions of the planet is because we have to remember that we are not leaving on a planet. That we are the planet.
+**"We need to know the chakras of the planet. We need to know how to relate with these parts of the planet because WE ARE this planet."**
 
-So it does n't matter if you know or you 've never been in some places. We are even though part of this world.
+**"So we are Earth. And in order to live fully present in Earth, we have to acknowledge to think about the Earth as a body."**
 
-So every continent , every region of this planet is like a part of our own body.
+This week's goal: **Recognize that we ARE the body of Earth.**
 
-So when we understand that we see the earth in that way , we are able to live fully in this reality.
+### Earth's Body is Different from Human Bodies
 
-So today we are in the third eye and third eye is South America.
+**Important clarification:**
 
-## Energy Work
+**"The Earth is NOT organized exactly as a human. We are totally different. So the way in which we are is all separate, but the Earth is all like this [overlapping]. So the way in which we are is all separate, but the Earth is all like this [overlapping]."**
 
-So remember that this here , the crown of the planet is Antarctica. This is Antarctica , okay?
+**"That's why it's not exactly as a human. It's all kind of mixed."**
 
-So you have Antarctica here. And we were laughing because I just want to say that this finger here is the Antarctic Peninsula , but it looks like a chicken.
+Some places on Earth represent TWO, THREE, or even FOUR regions of the body because it's like different layers - one layer over another.
 
-So imagine , use your imagination and you will see Antarctica and here. And so if here is the Antarctic Peninsula , so we have here South America , Patagonia from here and then the rest of the continent , okay? All this region. First of all , I was just saying that we have the Antarctic Plateau , yes?
+## The Tectonic Plates: Earth's Bones and Joints
 
-The tonic plate here of Antarctica. And then we have the South American Plateau , yes? Here. In the middle we have a tiny plateau under the sea that separates both continents.
+### Understanding Plate Tectonics as Body Structure
 
-And that is called the plateau of Scotia.
+**Just like humans have bones and joints, Earth has bones and joints - and we call them tectonic plates.**
 
-So this plateau generates a lot of energy. And now let 's think about this. Because when I am going to explain this , for sure a lot of people will say , but how is possible if this organism here or there? And just for you to know , the Earth is not organized exactly as a human , okay?
+**How it works:**
+- Tectonic plates = joints and bones of the planet
+- These plates move against each other
+- Some push one against another from one side to another
+- Some go below or above the other one
+- These movements push the crust and create mountains
 
-We are totally different.
+**So:** As high as the mountains, you can see tectonic joints below. The highest mountains mean another tectonic plate below, creating pressure.
 
-So the way in which we are is all separate , but the Earth is all like this.
+### When Plates Break: Volcanoes
 
-So that 's why it 's not exactly as a human , okay? It 's all like kind of mixed.
+When two plates create so much pressure that they break each other, they **open places for the inner fire of the planet (magma) to come out**.
 
-So you have to take this in count to understand what I am going to say. The same way in which we have bones and joints. Yes , the Earth also have bones and joints. And we call them tectonic plateaus.
+That's what creates volcanoes.
 
-If we know now that these are the joints , yes , if the tectonic plateaus are the joints of the planet and the bones of the planet.
+**So we can find:** Chains of mountains OR chains of volcanoes where these bones and joints are together.
 
-So now we can understand that some of these plateaus they mixed one to another , okay? And they push one another from one side to another , or some of them goes below or above the other one , okay?
+### Earthquakes = Earth Stretching
 
-So these movements of these joints of these tectonic plates , they push the cross of the planet and they create the mountains.
+**The beautiful analogy:**
 
-So as high as highest the mountains , you can see that there is this tectonic joints , okay?
+**"When you do this [stretch fingers], you feel the cracker sound. How do you feel? You feel more relaxed."**
 
-So you have this big mountains and that means that below of it you usually have another tectonic plate below , okay? Also what happened is that these two can just create so much pressure that breaks the tectonic plateaus. They break each other. Opening places for the inner fire of the planet in the magma , coming out.
+**"These movements - cracker, cracker - are the earthquakes for the planet. It's just the planet doing like cracker, cracker. It's the planet relaxing, basically."**
 
-So that 's what creates volcanoes.
+**Matias has a habit of cracking his fingers. He imagines:**
 
-So we can find chains of mountains or chains of volcanoes in the spots where these bones and joints of the planet are together.
+**"The liquid we have here [in joints] is like cities. When I do this, it's like all these cities moving and having the earthquake like 'oh my gosh.' So the Earth is doing exactly the same with its fingers and the cities are worried saying 'oh my god, what is happening?' But the Earth is just doing crack and relaxing itself. It's all about perception."**
 
-So now you can understand what happened in the joints of the planet by just doing this. You stretch when you do this and you listen to the cracker like this , how do you feel? You feel more relaxed. Well , these movements , cracker , cracker are the air squares for the planet , but it 's just the planet doing like , cracker , cracker , yes?
+**Practical teaching:** "The next time you feel an earthquake, just relax because the Earth is stretching."
 
-So it 's the planet relaxing , basically.
+## The Spine of the World
 
-So this is just to understand also that as above , so below as huge also the tiny , that for example , I have this thing of doing cracker with my fingers. I know a lot of people hate that.
+### All Continents Connected by the Spine
 
-Sorry , it 's my thing.
+Besides all the continents and bones/tectonic plates being connected, **HOW are they connected?**
 
-So I can not , I can not help , I can not help it.
+**Through the SPINE.**
 
-So imagine that the liquid that we have here being like cities , okay?
+The spine gives flexibility, movement, and stability to all the rest of the bones.
 
-So when I do this , it 's like all this cities moving and having the earth 's quake like , oh my josh.
+**The human spine is made of 33 vertebrae** (though they unite as we grow, so we have less as adults, but at birth: 33).
 
-So now imagine that the earth is doing exactly the same with its fingers and the cities are worried and they say , oh my god , what is happening? This happening , why it happens to us and basically the earth is just doing crack and relaxing herself is all about perception.
+**The planet also has a spine** - and it goes through the spine of the world, going through every one of the bones/plates/press of the planet.
 
-So I know that this is difficult , but the next time you feel an earthquake just relax because the earth is stretching.
+**It moves the flexibility of each continent, and you can find it across every chain of BIGGEST MOUNTAINS in the world.**
 
-Now think about this , besides all the continents , all the bones that chronic plates that we have , they all are connected somehow because the plates are here of the shoulder , the arms , the hip , everything is connected. And how is connected because of the spine.
+### The Complete Path of Earth's Spine
 
-So the spine gives flexibility movement and stability to all the rest of the bones.
+**The spine of Earth begins in:**
 
-So this spine is made up with 33 vertebrae that they just move and gives flexibility. As we grow up , we have not 33 , we have less because some of them get united , but in the moment when we are born , we have this 33.
+1. **Transantarctic Mountains** (Antarctica)
+2. Goes to **Antarctic Peninsula**
+3. Goes down into ocean via **Scotia Plate**
+4. Rises up in **Sandwich Islands**
+5. Goes to South America at **Tierra del Fuego** (Argentina)
+6. Goes up through **Andes Mountains** (entire chain)
+7. Arrives Colombia/Venezuela, **opens into two** surrounding Caribbean plateau:
+   - One goes through Central America
+   - Other goes through Antilles islands until Cuba
+8. Get together again in **Mexico City** (in volcanoes)
+9. Goes up through **Mexico, United States (West), Canada** 
+10. Goes to **Alaska**
+11. Crosses **Aleutian Islands**
+12. Gets to **Kamchatka in Russia**
+13. Divides again:
+    - One goes to **Kronotsky Mountains**
+    - Goes down through **Japan**
+    - Other goes up then both connect at **Baikal in Russia**
+14. Opens again to create **Tibet and Altai Mountains**
+15. From south creates **Himalayas**
+16. Himalayas and Altai together at **Karakoram**
+17. Creates **Zagros Mountains in Iran**
+18. Arrives **Turkey and Anatolia** - divides in THREE:
+    - One up: **Ural Mountains in Russia**
+    - One down: Mountains dividing **Western/Eastern Africa** until volcanoes in **Kenya**
+    - One center: **Caucasus Mountains, Alps, Mediterranean**, crosses to **Azores**
+19. Azores goes up to **Iceland**
+20. Iceland goes down to **crossing of the planet at North Pole**
 
-So this spine is also in the planet and it 's something that goes through the spine of the world going through every one of the bones of the plates of the press of the planet.
+**This entire chain = the spine of the world.**
 
-So it moves the flexibility of each continent and you can find it across every chain of biggest mountains in the world.
+## Two Perspectives: North Pole vs South Pole
 
-So I just said to look for a map where I explain this in English , so you can you can check it so you find it.
+### Humans Look to North (Magnetic North)
 
-So the spine of earth begins in the mountains that we call the transantarctic chain , the transantarctic mountains. From those mountains , they go to the Antarctic Peninsula and it goes down into the ocean by the Scotia plate rising up in the sandwich islands. From the sandwich islands it goes back to South America in the aradelfuego. And from the aradelfuego it starts to go up by the Andes , the Andes mountains.
+We as humans take the **North Pole** as the place on top because we orient ourselves by the magnetic aspect of the world which goes to the north.
 
-So it goes all through the Andes mountains and then when it arrives to Colombia and Venezuela , it opens into one goes to , it opens into surrounding the plateau , the the tectonic plateau of the Caribbean , the Caribbean , plateau.
+**But from the point of view of the universe:**
 
-So one goes through the Central America and the other one goes to Antennas , I do n't know how to say in English , the Articles Articles , okay , whatever.
+**"It's the SOUTH from where everything comes."**
 
-So all the islands and until Cuba. From there they get together again in Mexico , in Mexico City , okay , in the volcanoes of that region.
+### Astrology: South Node and North Node
+
+In astrology charts we have:
+- **South Node** = where I come from, what I have within already integrated inside of me
+- **North Node** = where I'm heading to, what I'm going to do, what I have to learn in the future
+
+**From the universal point of view:**
+
+**South Node = Unity** (we come from spiritual realms, from origin of universe - that's integrated within us)
+
+**North Node = Manifesting unity through duality** (we're here to create, to manifest, to be creators - we need to work with polarity, divide, create)
+
+### Earth's Perspective
+
+**From Earth's point of view:**
+
+**"The spirit comes from Antarctica because it's the south."**
+
+From there comes the energy of the spirit, and **it's going to the north because it's trying to find creation, trying to live the reality.**
+
+**"That's why we are heading to the north - to manifest, to create."**
+
+**Antarctica (south pole) = the place that reminds us our origins, the axis of our essence.**
+
+## Kundalini from Two Directions
+
+### Human Kundalini: Root to Crown (Matter Seeking Spirit)
+
+**For humans looking for alignment, looking for connection with spirit:**
+
+**"We need Kundalini from the root chakra going up."**
+
+We'd have to start by Africa going to Antarctica to create connection with the divine, with the spirit.
+
+**From the point of view of our matter looking for alignment, we have to go UP activating Kundalini from root chakra.**
+
+### Spirit's Kundalini: Crown to Root (Spirit Manifesting in Matter)
+
+**But from the point of view of the spirit:**
+
+**"The Kundalini is the OPPOSITE."**
+
+**"The spirit is willing to live in this reality, to manifest here."**
+
+**"So that's why from the spiritual world in Antarctica, it goes to the fire of the Third Eye and starts to create this fire towards the opposite - to the matter."**
+
+**The pattern:**
+- Matter reaching spiritual → goes UP from root to crown
+- Spirit reaching matter → goes DOWN from crown to earth
+
+### Earth Has TWO Crowns
+
+**"Remember the Earth is not like a human. The Earth has TWO CROWNS."**
+
+1. **One crown in the south (Antarctica)** = representing the spiritual crown
+2. **One crown in the north (North Pole)** = representing the physical aspect of the crown
+
+## South America: Where Spirit Becomes Fire
+
+### The Scotia Plateau and South American Plateau
+
+If you look at a map:
+- **Scotia Plateau** (between Antarctica and South America) = shape of a **penis**
+- **South American Plateau** = shape of a **vagina**
+
+**Both together:** The spirit activating the Kundalini from that region of the planet.
+
+**Why the connection between sexuality and spirituality for the planet is exact?**
+
+**"Because this planet is about creation, manifestation."**
+
+**"So that's why the spirituality is related with the root chakra - to create, to manifest."**
+
+### The Ecstasy of Saints
+
+**"You may have heard the perception, the sentence that says 'the ecstasy of saints.'"**
+
+The prophets, the saints, and all the people in the past who were connecting with the spirit - **they felt like if they were having an orgasm, but not a sexual orgasm - a SPIRITUAL orgasm here [third eye].**
+
+**"And that feeling, that sensation is the one that opens the Third Eye and tells you: 'Now I get it. Now I can see.'"**
+
+### Tierra del Fuego: Land of Fire
+
+**The point where this Kundalini of the spiritual realm activates on the planet is Tierra del Fuego.**
+
+**Tierra del Fuego in Spanish means "Land of Fire."**
+
+**"That's where it starts to fire. This is why in South America we connect with the Third Eye - the place where 'now I can see, I can see the fire, I can see.'"**
+
+## South America as Third Eye: Vision and Seeing
+
+### NOT About Countries - About the Continent
+
+**Important clarification:**
+
+**"I am NOT speaking about the states of South America. I am speaking about the tectonic plate of South America. I am speaking about the mountains, the lakes, the nature, the fields, rivers, forests. NOT about Argentina, Chile, Bolivia. We will talk about countries in another moment."**
+
+**The South American GROUND** is what represents the vision in two other dimensions, in two other realities, the one that takes clarity.
+
+**Not the countries.**
+
+### Some Original People Connected to the Land
+
+Sometimes some original people from South America were able to **assimilate the information from the Earth** - so they could tell and explain how that land is talking about the vision of the universe, how to connect from Earth to the vision of the whole cosmos.
+
+**But some of them could, many couldn't.**
+
+### South America is YOUR Vision When You Connect to Earth
+
+**"What I am saying about South America doesn't speak about South American people. It speaks about South America the CONTINENT."**
+
+**"It doesn't matter where you are in the world. It doesn't matter if you have been born in Australia, Asia, Europe, North America - it doesn't matter."**
+
+**"South America is YOUR vision when you connect with the Earth."**
+
+**"When you connect with the planet, your Third Eye IS South America."**
+
+**"So it's not about South American people. It's about a continent that represents a chakra in your body which is Earth."**
+
+## Earth Has No Borders
+
+**"The Earth doesn't have borders. It doesn't have frontiers. It doesn't have nationalities."**
+
+**"The Earth is basically the whole world."**
+
+**"Each one of the parts of the Earth is an organ inside a body."**
+
+**The goal:** **"To remember that we are part of Earth."**
+
+**When we say "I am Earth" and recognize "I am Earth," suddenly:**
+- Antarctica becomes my crown chakra
+- South America becomes my Third Eye
+
+**It doesn't matter where you are.**
+
+### Earth is Organized in Layers
+
+**"Sometimes when we go deeper into these explanations, you will see: 'But how, how if South America was here, why this I [third eye] is some other place of the planet?'"**
+
+**"Because the Earth is not like a human. The parts of the Earth are all one over the other."**
+
+**"So we are all connected. But we will go into that."**
+
+## South America Represents Vision of the Future
+
+**This is the information of the FUTURE - of where are we heading to.**
+
+**But this information is from the I AM.**
+
+**Because it is a continent close to the spiritual to Antarctica.**
+
+**"So it's about what is coming from my inner self, from the power that I have inside us - the spiritual being."**
+
+**Not about:**
+- Politics
+- Innovation in the future with technology or whatever
+- External future
+
+**"It's about a very much deeper sight."**
+
+## How to Access South American Vision
+
+### 1. Speak with Original People
+
+One way we can bring this information back:
+
+**"By speaking with the original people from South America, who have all this knowledge, but they have it from the PAST."**
+
+So we can have information from them to our knowledge.
+
+**But then we have to transform it into another level, into the new time.**
+
+**"Because we should NOT come back to do exactly the same as before, because that story has passed."**
+
+**"So it's not about coming back to live like them. It's about to take the ESSENCE of that in order to build something NEW in the future."**
+
+### 2. Sacred Plants
+
+**"Of course, many of the holy sacred plants are also helping a lot of people to awake."**
+
+**"So most of them come from South America."**
+
+## Why Matias is in Egypt: Connecting Two Rivers
+
+**Africa = reflection of South America**
+
+**Africa is the first mother of humanity** (the one from the past).
+
+**South America is the one from the future.**
+
+**The River Nile** = bringing all information for a new humanity.
+
+**All this information Matias is receiving in Egypt:**
+
+**"I will try to bring into the new river, the new river of the mother, the new Nile, which is in the Paraná River."**
+
+### Why Matias Was Born in Argentina
+
+**"I myself was born in Argentina because of my own decision."**
+
+**"Because I don't have ANY link in history with South America."**
+
+**"The first time I was born in South America in my existence, I had NO links, NO attachments with that land."**
+
+**"So that's why I decided to be born to do that there - because I don't have any expectations of the past of that land."**
+
+**"I don't have any attachment, anything to solve with that land."**
+
+**"So that's why I'm - I guess I will be able to build towards the FUTURE and not because of the past in that land."**
+
+## The Meditation Alignment: Becoming South America's Vision
+
+### The Journey from Antarctica to South America
+
+The alignment takes us:
+
+1. **Start at Antarctica** - seated on the ice in the white, witnessing the celestial light
+2. **Feel the fresh air, the cold** - recognize we're in the throne of the crown
+3. **Witness the fire rising in the horizon** - across the sea, in front: a land burning in fire
+4. **Jump towards the fire of that land** - see a tiny light shining (a lighthouse in the Tierra)
+5. **Fire lights the whole land** - rising between frozen mountains and fjords of Chile
+6. **Winds of Argentinian Patagonia** - pushing fire up towards north
+7. **The endless rise** - Aconcagua shining wide, salt of the Uni, pearl shining in Lake Titicaca
+8. **Snow of Huascarán** - great plains of Argentina and Uruguay
+9. **Amazon rainforest** - shadow of life
+10. **Volcanoes northward** - bridge in Equator, Holy Trinity of transportation in Venezuela
+11. **Lightning through three holy flames** - rising shores of Giants and Suriname
+12. **Contemplate South America** - surrounded by light upon light, crashing oceans and skies
+
+**The recognition:**
+
+**"I am the celestial consciousness. I am the celestial consciousness."**
+
+**"For now I am a celestial spirit being aware of what it comes to."**
+
+**"I see. I am South America. I am the Earth and South America is my greatest vision."**
+
+## Integration
+
+### Daily Exercise
+
+**Practice connecting to South America as your third eye:**
+
+1. **Morning Visualization:** Close your eyes, touch your third eye (between eyebrows), and visualize the entire South American continent glowing with magenta light. Say: "I am the vision of Earth. I am South America. I can see."
+
+2. **Fire Rising Practice:** Throughout the day, when you need clarity or vision, imagine fire rising from Tierra del Fuego (bottom of South America) up through the Andes, up through your spine, igniting your third eye with vision
+
+3. **Flexibility Check:** Earth's spine is about flexibility and movement. Ask yourself: "Where am I rigid in my thinking? Where do I need more flexibility?" Practice seeing from multiple perspectives (like Earth rotating 360 degrees).
+
+4. **Evening Reflection:** Write down one NEW vision you had today - something you saw differently, a new perspective, a deeper sight into a situation
+
+### Applying This Teaching
+
+**Connecting to Earth's Third Eye:**
+- Spend time learning about South American geography (mountains, rivers, forests) - this builds your vision
+- Honor original wisdom from South America, but don't try to replicate past - take essence for future
+- Work with sacred plants mindfully if called (many come from South America for vision awakening)
+- Remember: South America is YOUR third eye when you say "I am Earth"
+
+**Understanding Kundalini flow both ways:**
+- When you're in matter seeking spirit: activate Kundalini UP from root to crown
+- When you're in spirit wanting to manifest: activate Kundalini DOWN from crown to earth
+- Both movements are valid, necessary, and happening simultaneously
+- Don't fear the spiritual "orgasm" of third eye opening - it's natural ecstasy of seeing truth
+
+**Working with Earth as layered body:**
+- Release the idea that Earth is organized exactly like human body
+- Understand chakras overlap, layer, connect in complex ways
+- This teaches you: reality is more complex than simple linear models
+- Apply to your own body: you're also more complex than simple chakra charts suggest
 
 ## Q&A
 
-So it goes up together again through Mexico United States in the West and then Canada and it goes to Alaska , it crawl the allusions islands and it gets again into into come Chalk in Russia and from come Chalk , it divides into again going down through Japan and up. It goes to , I guess , the Kronowski mountains.
+### Q: If South America is the third eye, why are South American countries often struggling politically and economically?
 
-So they go that way and they connect again in the in the Bicarlic in Russia and from there they open a little bit again to create the tibet and the alt mountains. And from the south they create the Himalayas , okay , so the Himalayas and the alta get together again in the Cárcordum and from the Cárcordum they start to create the mountains of savourous in Iran.
+**A:** Remember - Matias specifically said he's NOT talking about South American countries or people. He's talking about the LAND, the tectonic plate, the geography. The continent itself (mountains, rivers, forests) holds the frequency of vision and connection to spiritual fire. The human civilizations built on top have their own karma, their own processes. The land's purpose and the people's current state are different things. The land is OFFERING vision - whether people access it depends on many factors. Just like your third eye might be blocked even though you have one.
 
-So from Iran it arrives to Turkey , okay , and Turkey and Atomic is the place where this chain divides in three , this training team. One up is the Ural Mountains in Russia , the other one down which is the mountains that divides Africa , the western Africa and eastern Africa until the mountains , the volcanoes in Kenya in the south and the other one goes towards the center crossing the Cárcordum islands , the Cárcordum Mountains , the always mountains. And the alta Mediterranean crossing towards the Users and the Users goes up again to Iceland and from Iceland it goes down into the crossed of the planet in the north pole.
+### Q: How do we access the vision of South America if we don't live there?
 
-So all that is basically the chain that we call the spine of the world.
+**A:** You don't have to physically be there. When you say "I AM Earth," South America becomes YOUR third eye. Access it through:
+- Meditation connecting to the Andes, Amazon, Tierra del Fuego
+- Study of geography, nature, original wisdom from that continent
+- Working with sacred plants from South America (if appropriate for you)
+- Visualization of the Kundalini fire rising from Antarctic through South America to your third eye
+- Connecting energetically: "South America is my vision" and feeling that truth
 
-So in this planet we as humans take the north pole as the place where we are all looking for as the place that is on the top because we all roll ourselves by the magnetic aspect of the world which goes to the north.
+### Q: Why does Earth have two crowns instead of one like humans?
 
-So but from the point of view of the universe is the south from where everything comes. And here 's when we have to understand in astrology , if you know astrology or if you are studying at the astrology you will have listened that besides the sun , the moon , the rising sun. We have also the north note and the south note.
+**A:** Because Earth is designed for both spiritual connection AND physical manifestation simultaneously:
+- **Antarctica (south crown)** = spiritual crown, where spirit comes from, essence, neutrality
+- **North Pole (north crown)** = physical crown, where we manifest and create
 
-Okay in our charts.
+This reflects that Earth's purpose is to be the meeting place of spirit and matter. We have ONE crown because we're learning to bridge spirit/matter. Earth HAS MASTERED this bridge, so it has both. It's teaching us the complete circuit.
 
-So the south note , the south note is the one that tells me from where I come from and what do I have within already integrated inside of me. And the north one is telling me where I am heading to where am I going what I am going to do. What I have to learn in the future.
+### Q: What's the significance of Tierra del Fuego being called "Land of Fire"?
 
-So let 's speak about this from the universal point of view. And if you have the universe , our south note is unity because we come from the spiritual levels we come from the spiritual realms. We are coming from the origin of the universe.
+**A:** Tierra del Fuego is where Antarctica's spiritual Kundalini fire first touches South American land. It's the ignition point where:
+- Spirit (from Antarctica) meets matter (South America)
+- Cold spiritual fire becomes physical manifestation fire
+- The vision begins to activate
+- The third eye starts to open
 
-So what we have integrated within ourselves is the unity is something that we have. That we have inside because we come from there.
+The name "Land of Fire" isn't random - it's the actual energetic function of that place. It's where spiritual seeing ignites into physical seeing.
 
-So where am I going to? I am here to manifest the unity by duality to create to be myself a creator.
+### Q: How does the Scotia Plateau (penis shape) and South American Plateau (vagina shape) relate to creation?
 
-So I need to work with the polarity , I need to divide to create to manifest et cetera. From the point of view of the earth , not the human point of view , the earth point of view , the spirit comes from Antarctica because it 's the south.
+**A:** This isn't crude symbolism - it's showing how spirit and matter unite to CREATE:
+- Spirit (masculine/penetrating/Scotia) comes from Antarctica
+- Matter (feminine/receiving/South America) receives spirit
+- Their union creates VISION (the offspring of this union)
+- For Earth, sexuality and spirituality aren't separate - they're the same creative force
 
-So from there comes the energy of the spirit and it 's going to the north because it 's trying to find the creation is trying to leave the reality.
+This teaches: your sexuality and spirituality are connected. The same creative force that makes physical life makes spiritual vision. Don't separate them.
 
-So that 's why we are heading to the north to manifest , to create. But we have to remember that the south , the south pole Antarctica , is the place that reminds us our origins , the axis of our essence.
+### Q: Why did Matias specifically choose to be born in Argentina with no past-life connections there?
 
-## Energy Work
+**A:** Because to build the FUTURE, you can't be attached to the PAST. If he had karmic links to South America:
+- He'd be resolving old patterns instead of creating new ones
+- He'd have expectations based on previous experiences
+- He'd be pulled to recreate what was instead of building what will be
 
-So now picture this , that the people that is looking for the ligament to look for the connection with the spirit. We need to Kundalini from the root chara going up.
+By having NO past connection, he comes fresh, clean, free to channel new vision for the future. This is brilliant strategy for anchoring new timelines.
 
-So we would have to start by the by Africa going to Antarctica to create this this connection with the divine with the spirit.
+### Q: What's the relationship between Egypt (where Matias is) and South America?
 
-So from from the point of view of our matter. Looking for alignment we have to go up activating the Kundalini from the root chara.
+**A:** Beautiful mirror:
+- **Africa/Nile** = first mother of humanity, ancient wisdom, ROOT of civilization
+- **South America/Paraná** = future mother of humanity, new wisdom, VISION for civilization
+- **Nile** brought information for old humanity
+- **Paraná** will bring information for new humanity
 
-So from the point of view of the spirit , the Kundalini is the opposite. The spirit is willing to leave in this reality to manifest here.
+Matias is in Egypt receiving Nile wisdom to bring to Paraná (new Nile). He's connecting ancient mother to future mother. Root chakra to third eye. Past to future.
 
-So that 's why from the spiritual world in Antarctica it goes to the fire of the third eye. Yes , and starts to create this fire towards the opposite to the matter.
+### Q: How does Earth relaxing (earthquakes) teach us anything?
 
-So now we can see this that when someone is from the air from the matter trying to reach the spiritual , it goes up to the crown from the root chara. But if the spiritual is trying to go into the matter , it will go from the crown to the earth. And remember the earth is not like a human. The earth has two crowns.
+**A:** It teaches perspective and trust:
+- What seems like disaster (earthquake) is often just natural adjustment (stretching)
+- The cities panic, but Earth is just releasing tension
+- Our human perspective: crisis. Earth's perspective: relief.
+- **Application:** When your life "quakes," maybe you're just releasing old tension, adjusting to new energy, stretching into new form
 
-One crown in the south in the Antarctic representing the spiritual crown and the other one in the north , the crown representing the physical aspect of the crown.
+Next time something shakes your world: "Maybe I'm just stretching. Maybe this is my bones/beliefs adjusting." Don't panic. Relax into it.
 
-So now if you see a map and you picture this courtyard plateau , you will see the shape of a penis. And the South American plateau will have the shape of a china.
+### Q: Why is flexibility more important than stability in this teaching?
 
-So both together in the here is like the spirit , the spirit activating the Kundalini from that region of the planet. This is why I said think about the planet in a different way because the things are not exactly where we as humans would organize it because the tendency of the earth is to be rounded.
+**A:** The spine of the world is about MOVEMENT, not being stuck. Look at the teaching:
+- Earth's axis = movement, driving forward, transformation
+- Earth's spine = flexibility connecting all bones
+- Earth rotates 360° = seeing all perspectives, not fixed view
+- Tectonic plates = always moving, creating, destroying, recreating
 
-So the connection between the sexuality and the spirituality for the planet is exact. It 's all the same together because this planet is about creation manifestation.
+Stability comes FROM flexibility, not from rigidity. Earth is stable BECAUSE it moves, adjusts, transforms. If it were rigid, it would break. Same for you. Your stability comes from being flexible enough to adjust to new energy, new vision, new truth.
 
-So that 's why the spirituality is related with the root chara to create to manifest. This is why you may have heard the perception , the sentence that says the ecstasy of saint , I do n't know who , because the prophets , the saints and all the people in the past that we 're connecting with the spirit , they felt. They feel like if they were having an orgasm , but not a sexual orgasm , a spiritual orgasm here. And that feeling , that sensation is the one that opens the third eye and tells you , now I get it , now I can see.
+## Final Reflection
 
-And now it 's incredible that the point where this Kundalini of the spiritual realm is activated in the planet is a place that we today call Tierra del Nuevo , that means that in Spanish means the land of fire. That 's where it starts to fire. This is why in South America we connect with the third eye , the place where now I can see , I can see the fire , I can see. Right now I am not speaking about the states of South America and speaking about the tectonic plate of South America.
+Tomorrow is Christmas - the celebration of a birth, a light coming into the world. How fitting that today we learn about South America, the land of fire where spiritual vision ignites into physical manifestation. The Kundalini of spirit flowing down from Antarctica into Tierra del Fuego, rising up the Andes like flames climbing a ladder to heaven.
 
-I am speaking about the mountains , the lakes , the nature , the fields , rivers , forest , and speaking about that. Not about Argentina , Chile , Bolivia , no. We will talk about that in another moment.
+We often think of vision as something in our heads, something mental. But today's teaching shows us: vision is FIRE. It's the ecstasy of saints, the spiritual orgasm of seeing truth, the burning clarity that comes when spirit and matter unite. South America isn't passive vision - it's active seeing, creative sight, transformative perception.
 
-So the South American ground is the one that represents the vision in two other dimensions , in two other realities , the one that takes clarity. Not the countries.
+And here's the profound gift: when you say "I am Earth," this becomes YOUR third eye. You don't have to be born in South America. You don't have to live there. You don't have to recreate indigenous practices. You simply have to REMEMBER: that land is part of your body, and when you connect to it energetically, you connect to the vision it offers.
 
-Sometimes some original people from South America were able to assimilate the information from the earth , so they can tell and explain how that land is talking about the vision of the universe , how to connect from the earth to the vision of the whole cosmos. But some of them , they could. What I am saying about South America does n't speak about South American people. It speaks about South America , the continent.
+The Earth is not organized like a human body - it's layered, overlapping, complex. This teaches us to release our need for simple, linear understanding. Reality is more mysterious than our models. Your own body is more mysterious than chakra charts suggest. And that mystery is beautiful, not confusing.
 
-It does n't matter where you are in the world. It does n't matter if you have been born in Australia , Asia , Europe , North America , it does n't matter. It does n't matter where you are.
+So tonight, on Christmas Eve, as humans celebrate the birth of one light-bearer 2,000 years ago, remember: YOU are the light coming into the world now. Your third eye is opening. The fire from Antarctica is rising through South American Kundalini into your vision centers. You are beginning to SEE.
 
-South America is your vision when you connect with the earth. When you connect with the planet , your third eye is South America.
+The spine of the world connects all continents - all parts of yourself. When Earth stretches (earthquake), it's just releasing tension. When you stretch (life quake), you're just releasing old rigidity, becoming more flexible, opening to new vision.
 
-So it 's not about South American people. It 's about a continent that represents a chara in your body which is earth. It 's important to , for us to see to understand that the earth does n't have borders. It does n't have frontiers.
+Tomorrow we'll explore the throat chakra, but tonight, sit with this fire. Feel the magenta light of South America glowing in your third eye. Feel the spiritual Kundalini moving through Earth's body - which is YOUR body.
 
-It does n't have nationalities. The earth is basically the whole world.
+You are Earth. South America is your vision. And the Land of Fire is burning bright within you, showing you what comes next.
 
-So each one of the parts of the earth is an organ inside a body. The goal that we are trying to achieve here is to remember that we are part of earth.
-
-So when we say , I am earth and I recognize I am earth. Suddenly Antarctica becomes my crown chara and South America becomes my third eye. It does n't matter where you are. And remember that the planet is all connected.
-
-Sometimes we think that when we go deeper into these explanations , you will see that , but how , how if South America was here , why this eye is some other place of the planet? Because the earth is not like a human. The parts of the earth are all one over the other.
-
-So we are all connected. But we will go into that.
-
-So this is why South America represents the vision. Where are we going to? And not as I repeat , not the countries. The earth , there , land is the one that brings you that information.
-
-But this is the information of the future of where are we heading to. But this information is from the I am. Because it is a continent close to the spiritual to Antarctica.
-
-So it 's about what is coming from my inner self , from the power that I have inside us , the spiritual being. It 's not about politics. It 's not about innovation in the future with technology or whatever. No , it 's not about that.
-
-It 's about a very much deeper sight.
-
-So one way in which we can start to bring this information back is by speaking with the original people from South America , that they have all this knowledge , but they have it from the past.
-
-So we can have information from them to our knowledge. But then we have to transform it into another level , into another , into the new time. Because we should not come back to do exactly the same as before because that story has passed.
-
-So it 's not about coming back to live like them. It 's about to take the essence of that in order to build something new in the future. And of course , many of the holy sacred plants are also helping a lot of people to awake.
-
-So most of them come from South America. And another thing that the people and the lands of South America represent is flexibility. This is why South America represents a lot the queries time because of the flexibility.
-
-The reason why I 'm here in Egypt is because in a reflection , Africa is the first mother of humanity , the one from the past. And South America is the one from the future.
-
-So the river Nile is bringing all information for a new humanity. And all this information that I 'm receiving and doing here with you is the one that I will try to bring into the new river , the new river of the mother , the new Nile , which is in the Para river. And me myself , I was born in Argentina because of my own decision. Because I do n't have any link in history with South America.
-
-The first time I was born in South America in my existence , I had no links , no attachments with that land.
-
-So that 's why I decided to be born to do that there. Because I do n't have any expectations of the past of that land. I do n't have any attachment anything to solve with that land.
-
-So that 's why I 'm , I guess I will be able to build towards the future and not because of the past in that land.
-
-So that 's why I 'm doing this.
-
-So let 's begin with alignment. There are many things to speak about of South America , but we will talk about that eventually. Do n't worry. The vibration for today is far.
-
-## Daily Practice Elements
-
-The statement for today is I am the Celestial Consciousness. The code for today is the color of magenta. In a fast spectrum after the ultraviolet light , the magenta tones crown the coldest of the spirit. A cold capable of burning in the human perception of colors.
-
-It 's vibration connects us with the visible spheres of the divinity. When the intensity prevents us from observing them , from serving them , but feel them. The connection with the highest subtlety. Let 's go.
-
-I am the Celestial Consciousness. I am the Celestial Consciousness. I am the Celestial Consciousness. I am the Celestial Consciousness.
-
-Take a deep breath , concentrate on your breathing. Breathing , see you , see you to comfort level with your body. I remember that with me , I am breaking the consciousness , the realm of all the animal and talking to them within me so I can help them to rise also their consciousness. I remember that I am standing in this incredible wide space in a white horizon.
-
-## Guided Meditation
-
-I remember that I am standing in this incredible wide space in a white horizon. I am standing in this incredible wide space in a white horizon. I am standing in this incredible wide space in a white horizon. I perceive the fresh air , the side breathe.
-
-## Energy Work
-
-I feel the cold around me. I recognize that I am in the throne of the crown. I am surrounded by the white and the light blue of this kind being the king of this celestial realm on earth. I am standing in this kind of space in a white horizon.
-
-## Guided Meditation
-
-I am standing in this incredible wide space in a white horizon. I am standing in this incredible wide space in a white horizon. I am missing a little myself in this cold waters. I begin to breathe stronger and faster as I feel the heat of this fire that arise in the mountains.
-
-I feel a silent hesitate. How I can perceive the fire rising in the horizon across the sea. In front of me I see a land burning in fire. I absorb with my breathing the power of this spirit and I jump towards the fire of that land.
-
-I see a tiny light shining. Surrounded by this fire. It is a lighthouse in the Shire. In front of me I see how the fire starts to light the whole land.
-
-I see a rising in between the frozen mountains and the fjord of Chile. The winds of the Argentinian Patagonia. Low pushing this fire up towards the north. I see the endless rice now.
-
-I see shining wide the Akonkawa. The salt of the uni. The pearl shining in Tito Aka. I am the snow of West Iran.
-
-I contemplate the great plains of Argentina and Uruguay. I see a shadow of the Tito Aka. The rain forest. I see a shadow of the sea.
-
-I see a shadow of the sea. I see a horizon towards the north. The volcanoes , the bridge in the Operator. Opening the Holy Trinity in the Great Colombia.
-
-I see a shadow of the Tito Aka. The lightning , the three holy flames of transportation in Venezuela. Racing the shores of the Giants and Surname. I contemplate South America surrounded by light and light.
-
-I see a light and light clashes in this. I am dying with some. I am the celestial consciousness. I am the celestial consciousness.
-
-I am the celestial consciousness. For now I am a celestial spirit being aware of what it come become. I see I am South America. I am the Earth and South America is my greatest vision.
-
-I am the light. I am the celestial spirit being aware of what it comes to. I am the celestial spirit being aware of what it comes to. I am the celestial spirit being aware of what it comes to.
-
-Slowly I begin to take this consciousness from my third eye to all my body. Racing and stretching. Each one at some time come back here and now open in your eyes. Welcome to the vision of South America.
-
-Thank you everybody for being there and as always see you tomorrow at the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+I am the celestial consciousness. I can see. I can see. I can see.

@@ -1,311 +1,195 @@
 ---
-title: "Day 82 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 82 - Real and Illusion"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 82
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 82
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - crown chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - month hole
+constellation: "Libra - Physical Week"
+chakra: "Third Eye"
+date: "October 24, 2020"
+topics: ["reality as illusion", "mind creates perception", "consensus reality", "drunk universe metaphor", "Trinity concept"]
+keywords: ["real", "illusion", "res", "thing", "republic", "mind", "consciousness", "intelligence", "consensus", "drunk universe", "Trinity", "atoms", "perception"]
 
 practice_elements:
-  chakra: "Crown"
+  chakra: "Third Eye"
+  vibration: "SSka"
+  statement: "I Am Conscious Evolution"
+  code: "Decad (10) - Center's enlightenment expands, surrounding all created. Number 10 is God, light surrounding everything unified, creating sphere. Enlightened being brings together all attributes and perspectives."
+  body_position: "Legs uncrossed, comfortable"
 
 ---
 
-# Day 82 - Consciousness Work
+# Day 82 - Real and Illusion
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+## Overview
 
-## Daily Practice Elements
+Matías warns: "This got the least comments ever. Most people didn't get it. I had to read it twice myself." This teaching is profoundly reality-shattering.
 
-- **Chakra:** `Crown`
+Core premise: Reality is not real. It's an illusion. Everything you think is "real" is atoms organized differently, interpreted by your brain as ideas. The only thing that exists is mind. Everything else—including you, physical world, every object—is mind playing, creating illusions through atom arrangements.
 
-## Introduction
+Consciousness is not the same as mind. Mind = everything, great concept of all. Consciousness = tiny ability to be aware of that mind's logic. Rocks have mind. Trees have mind. Everything has mind. But only certain beings (whales, dogs, cats, humans, monkeys, octopus) have consciousness—ability to recognize themselves as separate. Only some (humans, some whales/dolphins) have intelligence—abstract thinking ability.
 
-Good morning , good afternoon , good evening. I hope that today you all are in the same transmission. The important thing is that you all can hear me well and let 's begin. I have been watching the blog today and I 've seen that this is the one that got less comments ever in this three months.
+Today explores: why "reality" doesn't exist, how consensus creates "things" illusion, the drunk universe trying to open a door, what "you create your reality" really means. This will hurt your brain. That's good. It means it's working.
 
-I guess that most of the people did n't get it as much as I expected but do n't worry about that because I had to really twice because I did n't get it anyway. Let 's see what can we do. Let 's try to understand what they mean so we could go deeper into the concept. First of all , let 's try to think about this.
+## Core Teaching
 
-We usually say that we use the word real to refer to something that is true. This is real or if I think that this is not real and the other reality is real and this is just a perception of the other reality. But anyway , I will say that is real. Makes ourselves to call the word real when we are referring to something that we think is true.
+### The Word "Real" Comes from "Thing"
 
-As we have spoken before , there is no absolute truth.
+We use "real" to mean "true." But why use "real" when there's no absolute truth?
 
-So why do we still use the word real?
+Real comes from Latin res = thing. Res is origin of republic (res publica = things of the people). We call res (thing) all we can touch, count, feel through five senses. A "thing" is something we measure through senses.
 
-So the word real comes from the Latin word res. Res means thing. And res is the origin also of one of the most important words that we have today which is republic. Republic comes from the Latin word res publica.
+But senses are only energetic pulses helping receive information. Brain processes information. To understand what's outside, you create an idea. The idea helps recognize external objects—not the other way around.
 
-That means the things of the population of the people.
+So: what you think is "real" (res, thing) is basically an idea of it—but not real.
 
-So things of the people is republic. Res publica.
+### Reality Is Illusion
 
-So we call res to all the things that we can touch , that we can count , that we can feel and perceive through the five senses.
+Everything we have around—things we touch, feel through senses—only exist because: (1) Pulses (energetic signals) created an idea, (2) The idea allows "reality" to exist, (3) But reality doesn't exist by itself.
 
-So the thing is that we call a thing something that we can only interpret it by the five senses that we can measure.
+"I think, therefore I am." Reality is not real. It's an illusion, a mirage.
 
-So when you make a measurement through the five senses , this means that every object that you can count , that you can perceive in the outer world is something that only your senses can perceive.
+You protest: "But I'm touching this! I know it's real!" Response: "Maybe you think it's real, but it's not—just perception of vibrations creating energy making atoms join."
 
-So this means that your senses , as we have spoken in previous videos , senses are only energetic pulses that helps you to receive information. But the brain is the one processing the information.
+Everything that exists = atoms organized differently. That's it. Nothing else. Nothing exists besides atoms. Everything besides atoms is a sensitive, sensorial illusion.
 
-So in order to understand what it 's outside , you create an idea.
+To exist, to acknowledge "what I am," you need mind to make it appear, to make it be.
 
-So it 's the idea that helps you to recognize an object in the outside. It 's not the way around.
+### Mind vs. Consciousness vs. Intelligence
 
-So basically what you think , if object is real , is res , is basically an idea of it , but not real. This means that everything that we have around or things that we can touch , that we can feel through the senses , are only existing because they were the pulses that create an idea.
+Mind is everything. Great concept of all that exists. Mind allows atoms to be and organize differently. Everything has mind: rocks, trees, animals, weather, mountains, fire.
 
-So it 's only an idea that allows the reality to exist , but they does n't exist by itself. I think that I am.
+Consciousness (being conscious) is just ability to be aware of mind's logic. Consciousness is something tiny inside mind. Certain beings have consciousness: whales, dogs, cats, humans, monkeys, octopus. Why? Because they can interpret themselves as separate being, acknowledge themselves as self.
 
-So basically what this means , that reality is not real. It 's an illusion. And as an illusion , it 's just a mirage.
+Intelligence is possessed by: humans, some whales, dolphins. Intelligence = ability to think abstractly, create complex systems, communicate symbolically.
 
-So suddenly you may say , well , but I know that this is real , that I 'm touched this. And so then we can say , well , maybe that this is real , but it 's not real , because this is just the perception of vibrations that create an energy that made the joints of atoms.
+### Illusion = Mind Playing
 
-So basically everything that exists are just atoms organized in different ways.
+Illusion comes from Latin luz (light, to play). Luz is origin of: lúdico (playful), ludopathy (gambling addiction), illusion (mind's game).
 
-So through these sticks , the only thing that exists is atoms that are organized differently. That 's it. Nothing else. Nothing exists.
+Illusion = mind playing. Simple. Mind plays a game creating perceptions, creating "things" that seem real but are only organized atoms interpreted through ideas.
 
-Anything else. Everything that exists besides the atoms is just a sensitive , senatorial illusion.
+### How Consensus Creates Reality
 
-So this is why in order to exist , to acknowledge what I am , I mind in order to make it appear , to make it be.
+If reality doesn't exist and everything is illusion (mind playing), how can we build a new world? If everyone perceives reality through their own perceptions, thinking differently?
 
-So pay attention to this. I did n't say it 's consciousness. I say it 's mind. Mind is the only one.
+Answer: Reality is consensus of a group of people. Three people agree something is real. They all perceive it the same, so "that something is what they perceive, so that is real."
 
-What is the difference between mind and consciousness? That mind is everything. It 's the great concept of everything. And consciousness , being conscious , is just the ability to be aware of the logic of that mind.
+"This is water." We all know this is water. But this is not water. This is hydrogen and oxygen interacting. And they're not even "hydrogen" and "oxygen"—they're quanta, something different.
 
-So consciousness is something tiny inside the mind. Rocks has mind. Trees has mind. Animals has mind.
+But this is "water" for us because we decided it's water.
 
-Everything has mind. Weather has mind. The mountains , the fire. Everything has mind.
+### The Drunk Universe Metaphor
 
-Because mind is the one allowing the atoms to be and organized in different ways.
+Why need three persons to think something true? Because three points in space create point of reference recognizing three-dimensional aspect. Three points give you high, depth, weight—three points of view acknowledging object in three-dimensional world.
 
-So for example , in the other hand , the whales , the dogs , the cats , humans , homicide , like monkeys , also , octopus , all these different creatures , they have consciousness. And why they have consciousness? Because they can interpret themselves as a separate being. They can acknowledge themselves as a self.
+Three-dimensional world creates objects. When you have three points of view (width, depth, height), you create goal, which is objective. Objective becomes object because you can watch, point at it from these three bases.
 
-Okay.
+When you have object in front, you acknowledge reality. This is why universe needs Trinity to acknowledge existence: body, soul, spirit. Vibration, energy, matter. Trinity concept acknowledges reality.
 
-So that makes them conscious. And then we have the intelligence. And intelligence there we have the homes where we are part of. And the some whales and dolphins.
+Universe is a drunk guy. Best way to understand how this works. Universe is biggest drunk person you could know. When you're drunk, you see object multiplied, all around—different perceptions. This is multi-dimensional beings.
 
-This is for us to understand that when we are talking about mind , it 's not just talking about humans.
+Multi-dimensional is like being drunk. You see all dimensions of one thing in different perceptions from different points of view simultaneously. Really crazy. Can't focus on one thing.
 
-Okay. We are talking about a bigger aspect of what mind means. This means that the mind is the one creating all the realities that exist. In Latin , you may say Luz.
+Universe image: drunk person with many points of view. Drunk guy has gone through whole night drinking, big hangover. Everything looks weird. But drunk guy needs to open door. Has key, must put key in lock. But watches everything moving around. Impossible to open door.
 
-And Luz gives the the the the origin of Music.
+What does universe do? Creates as many eyes as possible to focus on one tiny spot in lock. All eyes watch this spot so it could open door. Thousands and billions of eyes watching different perspectives of key. All can tell drunk guy with hangover how to open door to go home to origin.
 
-Okay. Music and Lodopati for example. And of course , illusion.
+This explains how we all are different eyes of this big drunk guy (universe) trying to open door to go home. We're all trying to tell him: no, like this, no, turn key that way, no, do it like this. So he could open door and we could all go home again.
 
-Okay.
+## Practice: Third Eye Activation
 
-So illusion comes from the word play , game.
+**Preparation:**
+- Comfortable position (lying, sitting, standing)
+- Legs straight, uncrossed
+- Stretch body, relax, focus on breathing
 
-So what is an illusion? It is the mind playing. Simply as that. When we say that how the mind can create basically the reality , how the mind can mold the shapes of the atoms to become different.
+**Wave Movement:**
 
-Well , basically is that nobody exactly knows because that 's logic. And how is that? Because basically the physics , even the scientists that today that has that had studied and worked through all their lives in trying to understand the laws of physics.
+1-18. Complete body activation (left foot → head → right foot)
 
-Now , you can say that physics is basically fundamental settled in the quantum mechanics. And quantum mechanics does n't have any logic. It works very different.
+**Third Eye Focus:**
 
-So in the microcosmos , there is no law of physics. And yet the physics is sustained by the quantum mechanics.
+19. Perceive I Am presence above head as light
+20. Light descends through crown to third eye (middle of brain)
+21. Take both hands, fingertips (heart finger and pointing finger)
+22. Bring hands to sides of head by sides of eyes
+23. Massage in circles all around space between ears and eyes (both sides)
+24. Move fingers over eyebrows toward third eye (joint of forehead and nose)
+25. Massage like "opening third eye physically" from top of nose, pressing all over eyebrows
 
-So the physical and real world that we perceive and exist does n't work in the microcosmos.
+**Vibration Integration:**
 
-So this means that the illusion is the one creating the reality.
+26. Relax hands by sides
+27. Allow yourself perceive sensations at sides of head and forehead
+28. Express vibration SSka through breath/mouth
+29. State: "I am conscious evolution" (repeat)
+30. Raise, stretch own way
+31. Bring consciousness through all joints where I Am can anchor
+32. Softly return here now, open eyes
 
-So here comes the complication of how can we build a new world? How can we build a reality if reality does n't exist? And if everyone in reality is looking into it through perception , so they all think in different ways. The reality is a consensus of a group of people.
+**Closing:** Remember to drink water. Every like helps spread information without ads.
 
-So this means that you have three people that agree that something is real , so that something is what they perceive , so that is real.
+## Key Insights
 
-So this is water. We all know this is water , but this is not water. This is just hydrogen and oxygen interacting each other. And they are not even oxygen and hydrogen.
+1. Real (res) means "thing"—what senses can measure, but senses are just energetic pulses
+2. Everything is atoms organized differently; everything besides atoms is sensorial illusion
+3. Mind is everything; consciousness is tiny ability to be aware of mind's logic
+4. Rocks, trees, weather all have mind; only some beings have consciousness
+5. Consciousness = recognizing self as separate; intelligence = abstract thinking ability
+6. Illusion comes from "play"—mind playing game creating perceptions
+7. Reality doesn't exist by itself; it's ideas allowing appearance of existence
+8. Consensus creates reality—group agreeing on perception makes it "real"
+9. Trinity needed to acknowledge existence (three points create dimensional reference)
+10. Universe is drunk guy trying to open door; we're all different eyes helping him see
+11. Multi-dimensional perception is like being drunk—seeing all perspectives simultaneously
+12. We're not separate observers; we're universe's eyes trying to help it go home
+13. Physical world is sustained by quantum mechanics, which has no logic
+14. Illusion (quantum field) creates reality (physical world)
+15. "You create your reality" means your perception (idea) makes "things" appear real
 
-They are in quantum. This is something different. But this is just water for us all this water because we just decided that it 's water.
+## Integration
 
-So why do we need like three persons in order to think that something is true? Because if you just point three points in a space and blank , so these three points will give you the point of reference so you can recognize the three-dimensional aspect of something.
+**Daily:** Notice moments when you treat perceptions as absolute "things." Remember: you're creating ideas about atom arrangements, not touching objective reality.
 
-Okay , so this would mean that the high depth and weight.
+**Weekly:** Practice third eye massage, opening perception. Recognize how your brain constructs "reality" from energetic pulses.
 
-So this is the three point of view that helps you acknowledge an object in the third three-dimensional world. This three-dimensional world is basically the one creating the objects.
+**Monthly:** Observe one area where your group has consensus reality. What would happen if you questioned that shared perception?
 
-Okay , because when you have these three points of view , what you create by wide depth and height , what you create is a goal , which is an objective. And the objective becomes an object because you can watch it , you can point at it because of these three bases.
+**Ongoing:** When overwhelmed by "real" world problems, remember: you're one eye of drunk universe trying to help it open door home. Your perspective is essential but not complete without others.
 
-Okay , so when you have an object in front of you , you can acknowledge that this is a reality.
+## Questions and Answers
 
-Okay , so this is why the universe needs a Trinity in order to acknowledge existence. This is why we need a body , a soul and a spirit. This is why we have vibration , energy and matter. We need the Trinity concept in order to acknowledge a reality.
+**Q: If everything is illusion, why does it matter what I do?**
+A: Illusion doesn't mean meaningless. It means mind is primary. Your experiences are how mind recognizes what it created. The experiences are real to consciousness even if atoms aren't "things."
 
-So that 's why we call an object , an objective. Also we have the object , we also call it the thing.
+**Q: What's difference between mind, consciousness, and intelligence?**
+A: Mind = everything (all atoms organizing). Consciousness = aware of being separate self. Intelligence = abstract thinking, complex communication. Rocks have mind; dogs have consciousness; humans have intelligence.
 
-Okay , thing. In Spanish , we may say , Cosa. And Cosa , which means thing , comes from the word cause that you may say in English. And cause is the cause of something.
+**Q: Why need three people for consensus?**
+A: Three points create three-dimensional reference (height, width, depth). Three perspectives acknowledge object in 3D world. Trinity creates reality.
 
-Okay , so this means that everything that exists , we call it , this is not a thing. This is a cause of something.
+**Q: Is drunk universe metaphor serious?**
+A: Yes. Multi-dimensional perception (seeing all angles simultaneously while unfocused) perfectly parallels drunkenness. Universe is trying to focus infinite perspectives on one spot to "open door home."
 
-Okay , so for example , this is the cause of a dinosaur and a desert because it has plastic and crystal sand.
+**Q: If reality is consensus, can we change it?**
+A: Yes, but requires changing group agreement. When consensus shifts (three or more perspectives align differently), "reality" transforms.
 
-Okay , so in the cryptastic thousands of years , millions of years ago , because of the death of all dinosaurs and all the trees and so on , the , the , the , so it 's made of this.
+**Q: Why does quantum mechanics have no logic?**
+A: Microcosmos level doesn't follow macrocosmos physics laws. Quantum field (illogical, potential) creates physical world (logical, manifest). Illusion sustains reality.
 
-So it has the fossil fuel. Yeah , so it has the information of a dinosaur and also the desert.
+**Q: Are we really eyes of drunk universe?**
+A: Metaphorically yes. Each consciousness is unique perspective of one mind observing itself, trying to coordinate infinite viewpoints to perceive clearly and "get home."
 
-So this is a cause and effect petroleum , petroleum , it 's so easy.
+**Q: What does "getting home" mean?**
+A: Returning to unified perception, recognizing all perspectives as one mind. Opening door from fragmented observations to integrated understanding.
 
-So , so this is the , we can call it the cause of something. And in English , thing comes , comes from the word , fame , fame , fame , is the , is a thing , thing comes from the word meeting.
+## Closing Reflection
 
-Okay , and assembly when you gather a lot of people to decide the cause and the effect of things.
+Today's teaching is challenging because it dissolves our foundation. We want reality to be solid, dependable, "real." But ancient wisdom and modern physics agree: atoms organized differently, interpreted through ideas, held together by group consensus.
 
-So a thing basically is a meeting of people deciding what things are. That 's it.
+You are not separate observer of objective reality. You are one of infinite eyes drunk universe uses to try seeing clearly enough to open door home. Your perspective matters because universe needs all viewpoints to coordinate, to focus, to finally turn the key.
 
-So as you see reality is basically a consensus of things. And as I wrote today in the blog , consensus come from with citadel. That 's the meaning of the word with the senses of your body.
+When you say "this is water," you participate in consensus creating "thing" from hydrogen and oxygen. When you feel third eye opening, you experience mind becoming aware of its own logic. Reality is illusion. Illusion is mind playing. And you are mind playing at being you, creating consensus with other players, all trying to help drunk universe navigate home.
 
-So this is why a consensus of people is just the conjunction of ideas that creates a law of something , but something that is not real. That is just something that most of the people feel.
+This is conscious evolution.
 
-So they consider it real.
-
-So what is basically a reality , a mirage is an illusion.
-
-So let 's try to understand this , how it works. Why we need a consensus in reality?
-
-So the reason why we need a consensus is because the universe is a drawn guy. And this is the best way we can understand and acknowledge how this works. It 's true that the universe is the biggest drunk person you could ever know. And maybe all of the people that are here for sure you have been drunk some day of course.
-
-And you may picture the idea that when you are trying to see something in front , you may see all these different perceptions and the object is like multiplied by many all around.
-
-Okay.
-
-So in this perception of the drunk person , you can understand multi-dimensional beings.
-
-So just try to picture that I 'm multi-dimensional being. When you say I am multi-dimensional , it 's like being drunk. Basically that 's the example.
-
-So it 's like being drunk because you can see all the dimensions of one thing in different perception from different point of view at the same time.
-
-So it 's really crazy. You can not just focus on one thing.
-
-So it 's really big.
-
-So the image of the universe is this drunk person with a lot of point of view.
-
-So maybe this kills the magic of what is multi-dimensional beings. But for sure this is the best example.
-
-So picture that the drunk guy , the universe , has gone through the whole night being drunk. And suddenly he has to come back home with a big hangover.
-
-So this big hangover will make watch everything really weird. But the drunk guy needs to open the door.
-
-So he has the key and he has to put the key in the locker.
-
-So he could open the door of the house. But he watches everything. He 's looking into different things and everything is moving around.
-
-So it 's really impossible for him to open the door.
-
-So what does the universe do?
-
-So what it does is to try to create as many eyes as possible to focus in one tiny spot in the locker.
-
-So all the eyes can watch this spot so it could open the door.
-
-So this is how thousands and billions of eyes are watching different perspectives of the key.
-
-So them all can tell the drunk guy with the hangover how to open the door to the outside , to the home.
-
-So this explains how we all , each one of us , are different eyes of this big drunk guy that we call the universe that is trying to open the door to go home to the origin.
-
-So we are all trying to tell to him , no , like this , no , turn the key in that way , no , do it like this.
-
-So he could open the door and we could go all again home. Basically all the things that we are doing is what basically what consensus means is that from a different point of view , we could all say , oh , that 's the key. That 's the key. That 's the key.
-
-It 's to open the door.
-
-So when we all have to have consensus with is that that key is the one opening a door. Because the universe is not watching the key , not watching the door. It does n't really know where it is. It 's just looking many things.
-
-So this is why we are here trying to find the key. And this is why reality is an illusion.
-
-## Q&A
-
-So the question now to close the idea would be how can we all this eyes to be in consensus , you have consensus in pointing the key and knowing how to open the door. That would be the question. For sure you have this experience of you , someone trying to do a very specific job and you have all the friends , all people around saying different ways in which you have to do it. No , this is the best way.
-
-No , no , no , do it that way or no , do this.
-
-So for sure you have a lot of people that have been doing that.
-
-So what I want to say is that the way you will acknowledge the key is not by say others that their point of view is wrong. It 's not saying the others , no , no , no , do it like I am doing it because what I see is the thing.
-
-So the other is wrong. That is something that we all experience in our life with friends.
-
-So the goal is not to say that the others perceptions are incorrect. The goal is to open the vision more wide.
-
-So between all of us can create an image of 360 degrees of the key.
-
-So the way in which you can do that is by encouraging each one of those persons to set themselves in the action of their idea , to put their idea in action. That would be to go away from the ideology , to bring the ideology into biology , by practice. The way in which you can put that into action is by doing it because the only way in which something can become real is if my feelings , my perceptions , my five senses can perceive it. If my five senses ca n't perceive it , so it wo n't become a reality.
-
-And this is what really means you are the creator of your own reality.
-
-So now picture all the things that we have to explain and we have no time to explain the thousands of things that we need to explain. Just to remember ourselves , what is the sense you are the creator of your own reality.
-
-So there is a long process in the middle. And we will talk about this more and more.
-
-So basically the mind plays a game of illusions. The mind plays a game of illusions , mind-festing goals that we call things. That would be.
-
-## Daily Practice Elements
-
-So let 's go to the information for today. The inspiration of the day is Shah , Shah , Shah. The statement for today is I am conscious evolution. Go to day is the decade , which is a group of ten.
-
-The center 's enlightenment expands its being surrounding everything that was created. Number ten is God. The light that surrounds everything that unified creating the sphere. This universal concept helps us understand that what we call enlightenment , enlightened , enlightened being.
-
-It 's nothing more than the one that managed to bring together all its attributes and perspectives , turning into all of them. Searching for a comfortable position.
-
-Remember that this whole week we can be laying down , we can be with a standing up. We are also with your legs straight , not crossed. Inside and to stretch my body , I start to relax , let it all the way to fall down , focusing only in my breathing. Take a deep breath.
-
-And bring all your attention to the left feet , foot. And so I 'm aware that the other day I begin to move my fingers , the feet , the foot and the ankle in circles. Very soft. I start to move , going up , bending , moving the left knee.
-
-I go up , moving the left hip. I feel , I turn the body towards the left , feeling the pressure in the waist , and coming back to the center. I move the fingers of the left hand , the wrist and circles , and move the elbow. I go up to the shoulder.
-
-And I start to move the head in circles towards the left. Very softly I change the sense towards the right , starting to move the right shoulder. I descend to the elbow , moving in circles. And I pass this movement towards the wrist and the fingers of the right hand.
-
-I begin now to relax the arm.
-
-## Energy Work
-
-So I turn a little bit towards the right with my body , bending the waist , and coming back to the center. I move the right hip. I bring this movement towards the knee , descending the movement towards the right foot and call in circles the foot and fingers. I perceive above my head the presence of the arm , and I perceive it as a light descending to my body through the crown chara towards the third eye in the middle of the brain.
-
-I take my both hands and with just the tips of my fingers , the fingers of the heart and the one used to point , to point out , and you bring hands towards the sides of your head by the sides of your eyes. I start to massage in circles all around the space between the ears and the eyes in both and softly I go with my fingers over my eyebrows towards the third eye in the joint of the forehead and the nose and massage.
-
-So I start to massage like opening the third eye , physically , from the top of my nose , pressing all over the eyebrows. Take your deep breath and relax your hands by the sides. I allow myself to perceive the sensations that I have at the sides of the head and in my forehead. Take your deep breath and begin to express the vibration because you feel the energy of my ears or the breath or the two of mine because of your mouth imbsit , by breathing Shining Shining Shining Shining Shining Shining Shining And I recognize I am the conscious evolution.
-
-I am the conscious evolution. I am the conscious evolution. Shining Shining And evolution is reality here and now. For I am the creator of my reality.
-
-Take a deep breath. And as I begin to raise , to stretch to your own , As I bring this consciousness towards and through all the joints that we have put.
-
-So the I am can go through my body and anchor inside of it. And softly I come back here and now open in my eyes.
-
-So remember to drink this thing that we all believe is water. And sleep very well.
-
-So see you tomorrow as always to for the third chara. And also I remind you that and thank you because all the likes of in this video , because I remind you that we are not having ass.
-
-So it 's so you can have information without interruptions.
-
-So every like helps us to spread and to arrive to more people. Bye to tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

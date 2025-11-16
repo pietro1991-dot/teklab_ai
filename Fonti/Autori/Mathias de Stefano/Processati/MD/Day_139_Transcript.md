@@ -1,280 +1,480 @@
 ---
-title: "Day 139 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 139 - Intention and the Throat Chakra"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 139
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: "2025-11-16"
 document_type: "transcript"
 language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 139
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - portals
-  - consciousness work
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hold
-  - month hole
-
+keywords: ["Sagittarius", "Throat Chakra", "Intention", "Tomorrow", "December 21", "I Am", "Responsibility", "Focus", "Will", "Christos", "Network", "Manifestation"]
 practice_elements:
+  vibration: "Vo"
+  statement: "I am the intention of the cosmos"
   chakra: "Throat"
-
+  code: "Intention - from Latin 'intendere' meaning 'to stretch toward, to aim.' Not mere wishing or hoping, but conscious directing of will and attention toward what you choose to create. Intention focuses the diffuse energy of consciousness into specific manifestation. Tomorrow depends on the intention you hold today. The throat chakra speaks your intention into existence."
 ---
 
-# Day 139 - Consciousness Work
+# Day 139 - Intention and the Throat Chakra
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** Day 139 Transcript - Sagittarius Month, Throat Chakra, Emotional Week (Preparation for December 21, 2020)
 
 ## Daily Practice Elements
 
-- **Chakra:** `Throat`
-
-## Introduction
-
-Hi everyone , how are you? Good morning , good afternoon , good evening , whatever you are.
-
-So tomorrow is a very special day.
-
-So tomorrow is December 21 , 2020. And basically it 's one of the most important days , I guess , from the next 200 years. Not only because of why it 's going to happen tomorrow , but it 's also because it 's the first day of a period of time of an opening of something new. And not only about December , but also everything that we have been doing.
-
-Through since July this year , have been preparing us for tomorrow.
-
-So a very important thing about tomorrow is not that tomorrow is so important that it does n't matter what is happening after that. As you see , this day is very important for all the things that we are doing , but it 's not the last spot. It 's not the main day , okay? This means that life keeps going.
-
-So exactly as December 21 , 2012 , like in August 1987 with the harmonic convergence , every data , every date that is so important for all of us is just a switch of perspective and consciousness. It 's not a moment where everything changes and we have to put expectations in that data for something to change and do something very different. No , it 's a very important data in the middle of a whole process , okay?
-
-So as in those days , life will continue. We will have to do our things. We life will be normal. We will do normal things.
-
-We will do the linemen since every day , okay?
-
-So it 's not that something will change tomorrow , but we have the opportunity to put intention on it.
-
-So another important thing is that it does n't matter if tomorrow you can not be at the specific times with all of us live streaming. The important thing is that you have to put your intention on this.
-
-So it does n't matter if you are working , if you are traveling , whatever you are doing , it does n't matter. The important thing is that whatever you are doing and whatever you find yourself just put intention to be connected to all of us. Also tomorrow , maybe it will be people doing ceremonies , people mediating , people praying. It does n't matter the shape you give to your intention.
-
-The only intention that we all have to have in mind is that we all are I am. That 's the only thing. Yes? That 's the main intention.
-
-We all are I am.
-
-So after that , you flow and you do as you please.
-
-Remember that the main key of this path is the I am.
-
-So through this I am , the main key , the main tool that the I am has is that referring to yourself.
-
-So if you have to refer to yourself , you have to trust yourself in what you feel to do , what you expect to do. Do n't wait for me to tell you what to do , how to do it and what time we do it , just feel yourself pay attention to what you sound and that 's it. Tomorrow is a very important practice day to something important , which is to refer to yourself , how to reference.
-
-So this is , so this would be that our goal in this path is to find. To find the consciousness of the I am , okay.
-
-So if we refer to the we are , we are working with the consciousness , okay.
-
-So it 's also fine , it 's great because the I am that we are through the unconscious is a very powerful energy that moves and transform everything.
-
-So it 's really important , okay. It 's not something bad , it 's something really good that we all work together pushing this energy. But the goal is beyond that is the I am through consciousness.
-
-So this why tomorrow is like a practice that it does n't matter if I say or I do n't say why we are supposed to do tomorrow , just flow. Yes , just pay attention to yourself what are you feeling to do besides what I say to do , okay. Just pay attention to your body to your soul to your spirit , what are you able to give to share to be connected to tomorrow , okay.
-
-So tomorrow at around 13 around 1 pm , Egypt time begins the solstice , okay.
-
-So the solstice of winter in the northern hemisphere and the summer in the southern hemisphere.
-
-So tomorrow , 1 pm the solstice is an important moment of the year because solstice come from the Latin word , solstice and solstice and start it means stay , okay.
-
-So solstice is the moment when the sun stays on the same place , that 's what it means.
-
-So this is related tomorrow with winter and the north and summer in the south because as the earth is moving. Yes , the sun moves also the perception of the movement of the sun is like if it is going south , okay.
-
-So in this movement to the south , we have the perception that the sun is getting away from us. And so when it reaches the farthest spot , it stays there rising up in the same place for three days.
-
-So that 's why they say the sun stopped , solstice , okay.
-
-So the sun stops and then in the fourth day starts to come back again to our regions.
-
-So from the point of view of north or south , this means that that the shortest day of the year has started so it begun the winter , but as it gets closer again it comes back. It is saying that the spring is coming ahead , okay. And it 's the opposite in the south hemisphere.
-
-So the other thing that along the day will be happening mostly in the evening will be this two planets , Jupiter and Saturn crossing each other like an eclipse of both of them.
-
-So the brighter , the line will bright much more , okay , tomorrow of this two planets like one star.
-
-So is the joint of these two planets.
-
-Okay , so something important about this conjunction. This conjunction of Jupiter and Saturn Saturn represents the law , the purpose , the goals , the axis where we are heading to and Saturn means the karma means all the history , all the structures of time that we have in this matter on earth.
-
-So this conjunction represents that a new law , something new , a new purpose comes into earth changing the rules of the game. Yep , that 's the the meaning of this conjunction. You may be have heard that this joint of these two planets usually happens every 20 years or something like that. But this one is special because they are exactly getting together because this normally is like crossing the two planets like this , but this is like creating one only planet , okay , from our point of view.
-
-So this only happens every 800 years or sometimes as perfect as this one every 2000 years.
-
-So this means that this one , this conjunction of these two planets will be will be exactly the same as the ones that 800 years ago creating these revolutions that brought the renascence , okay.
-
-So the change of all history through the information that they brought from the Middle East and the and the in Europe created the renascence , okay.
-
-So that 's very important because of that that conjunction and 2000 years ago , of course , with Christianity.
-
-So this means that what happened tomorrow towards the 10 the 10 years ahead , they will shape it will shape what is going to be the new renascence of this time.
-
-So that 's why it 's so important and this conjunction.
-
-So also this conjunction is given in the degree zero of Aquarium.
-
-So this is very important because this battlehead star is open in the door for the new time. As 2000 years ago , it opened the door to the Pieces era tomorrow. This conjunction will open the door for the Aquarium era.
-
-So it 's kind of like the signature of we are already inside this new process , okay.
-
-So important to know that an era is around 2,500 years in a cycle of 26,000 years , okay. And they do n't begin exactly in one moment , they mixed each other , okay.
-
-So it 's not specifically one day that this era begins and the other one ends.
-
-## Energy Work
-
-So we have been receiving messages also during this past months. We would have to write all of them down so I can explain them , but kind of what as a summary when we have been receiving , it was all related to the color blue. This is because one of the messages was about the blue moon in the next year in August about the blue veil of the version about the artorians , which we used to call the blue ones. Which are the who are the fathers and mothers of the 12 families of Atlantis that they went into the 12 notes of the planet to take care of the doors of the portals of the Dodikahedrin around the world.
-
-So everything that we are receiving about the color blue is started to get connected , okay. To get all connected.
-
-So what we did , what we have been working with since this February 2020 with my friends here in Egypt was about the prototype. The prototype was a technology in Atlantis in times that was a cube of blue color. This technology was something related to the vibration with a lot of energy that was able to change. There was able to change everything into its original state.
-
-So this cube was kind of a technology to connect with the different realities.
-
-So it was an interdimensional structure , okay.
-
-So we have been working with that in order to balance everything that we are doing from the portal of time to space in this trip that we are doing ourselves in the AM.
-
-So during this work we were 12 representing three water , three air and three fire , six , seven in six masculine and one masculine in the center and one feminine around creating the torus , okay.
-
-So we were 14 during that and that connection was about to create and manifest the prototype , which is this door in between different dimensions. This box and interdimensional box from the past , a technology from Atlantis in times.
-
-So the information we received today was incredible about this prophecy of the Anand people in the Australian community. Australian desert that they say that this day tomorrow , December 21st , 2020 is like a day where a lot of people must connect with this box , magical box to activate and rise the vibration of the world. And inside this box , they had these crystals that were used to open the energy of the whole planet and to help the consciousness to help with consciousness for this transformation to be in balance and not to be chaotic , okay.
-
-So one of the things that we realized today when we were talking about this was that someone from Mexico from the Epoca de Bytes , the volcano.
-
-So I have these crystals around me right now all the time and I just forgot about them. And I have here and they are 14 that we are supposed to see in the world where we are going.
-
-So something so what we are going to do tomorrow , all together is to activate these crystals.
-
-So I can show you some of those that I have here. They are all like this. This blue obsidian.
-
-So here you have them.
-
-So I have here the 14 around the computer.
-
-## Practice Structure
-
-So all this information that we are going to work with tomorrow has an specific goal. And which is to be able to download into the network of this planet. The , the , the , the Critic grid. Tomorrow what we are going to download is the Critic network.
-
-This is not related to the crystal network , okay. The Critic grid comes from the word , Christmas in Greek that means the one that is sent , okay.
-
-So something important. There is no one that was sent here. Everyone at some time , we were sent to this reality by ourselves.
-
-So maybe some of us can remember that we were sent. But that does n't make us the one that is sent or that was sent. That just made me the one that remembers that was sent. But we all have been sent.
-
-So even if you do n't remember , you have to intent.
-
-So when we say we have to activate the Critic network , it 's not to activate a Critic network for one Christ. Precisely that a network is made of many Christ. And who are the Christ? The ones that acknowledge that they were sent and take the responsibility to take action through consciousness.
-
-As we are doing here in this network , there are thousands of people doing exactly the same in different kind of networks. And we are all working in different works during the same. To download this awareness of being ourselves , the responsible of our own consciousness. 12,000 years ago , when Pieces began.
-
-The energy of the Christ was related to Pieces , which is to be in the service. But in the service for a dream , in a service for the utopia. It 's an utopia to come back to the paradise. That 's the Pieces ' way of filling Christ.
-
-So now the idea of the Christ is connected to the queries energy.
-
-So the queries energy is saying , we have to start to think about ourselves , our beings , to work with responsibility and stop thinking about stories in the future. And start to act in coherence with ourselves now. It 's not more like in the Pieces ' time , expecting for a Savior who comes and brings us to the paradise. In this new time , it 's about to recognize myself that our responsibility of my own salvation , bringing that paradise and building it here now.
-
-So as I wrote today in the blog , since tomorrow is very important to take our own path. I started to follow our own path , acknowledging that there are no different paths , because all of them are only one. It does n't matter which one you take , it will be always in the path , because I am the path.
-
-## Q&A
-
-So this is why it 's important to understand that the Christie task is not about me who is here speaking. My task is just to be here , explaining. But the Christie task is for all of us. Everything that we are doing here now is not about to live and humanity , is about to seed and humanity.
-
-The only way in which you can sow a seed is by working the earth. The only way in which you can enjoy the fruits is having patience on the growth , is enjoying the process.
-
-So this is why from tomorrow , when we are going to begin with our task with a Christie consciousness , we have to awake our responsibility to take action , not to expect with our life. With hope , we have to make faith into wisdom and hope into responsibility.
-
-So this is something that I said also before. That in order to take responsibility , you have to know what you have to do. That if I tomorrow disappear and I 'm not here anymore , doing this , you have to know what you have to do by yourself. What is your power inside?
-
-What is your part on this? If the internet fell down , what do we do? Feel it. Allow yourself to do what you are supposed to do.
-
-If I just disappear and I do n't follow doing this , nothing stops. You have to keep going. Me myself. I am doing this and I am here in front of you because I took the responsibility of being here.
-
-I decide to be here. If tomorrow I just say , I wo n't do this , I wo n't take the responsibility.
-
-So someone else will take my place. This is why I remind you about your inner power and your own responsibility. Because maybe I disappear one day and a new one will come. And the same will be for you.
-
-So if we are aware of our position , where we belong , our inner power , and we are responsible with our own creation , so we keep going because life is eternal.
-
-So it 's about to keep going. If I am not responsible of myself , someone else will keep going. Because we are all one. This is eternal.
-
-So it does n't matter who is there. We are always occupying the place where we belong. And that place belongs to us as we believe that it belongs to us. And one of the main things that makes you understand that you are in the place where you belong is when you transcend the place where you belong.
-
-To transcend the place where we belong is when you recognize that that place is not only for you , because you are everyone.
-
-So your place belongs to everyone in the world. And that 's why you can transcend your place because you know that it does n't matter if you give that place away.
-
-Someone that is part of you will take place. And I am seeing this now because from tomorrow , I accept my responsibility in this. As I said , I am seeing this because tomorrow I take my part of the responsibility in all this. And as I do it , I put my intention that all those who are part of me too , take that same responsibility.
-
-And this responsibility is something that I can not say because you can only feel it. And that 's why I can not tell the responsibility or otherwise it will become a law , a mandate , something to do. This is why I can always say I take my responsibility and you shall do the same by feeling acknowledging which is your own responsibility in all this.
-
-So this is why tomorrow is when all the paths that we have taken get together and remind us that famous sentence , I am the path.
-
-Remember , life is a journey.
-
-So do n't put your mind in the destiny , just flow and enjoy the sighting. The vibration for today is here. The moment for today is I am the legacy to my futures. My future once.
-
-And the code for today is the color blue. Higher every time the vibration extends to the deep sea of the space blue originates like the one that embraces the universal. For in-contraposition to infrared is an aspect of high vibration visible to our eyes. For this we related to the superior centers in the high vibration that connects the cosmos , something that relates it with the , with the throat chara that communicates the universal spheres.
-
-To be breath. By concentrate. Migrate them and the position of my body. You You Take a deep breath and remember that you are the water floating in the sky through the clouds falling down to the ground as the rain.
-
-Here is where my journey begins again. The journey of life. The spirit of the funeral. I feel how this water occurring starts to get colder , frozen.
-
-It comes in snowflakes as they softly hold down , sliding , sliding by the wind. Into the hills , the higher mountains of African , Europe , Asia , for helium. The Americas , South and the North Pole. I recognize that I am the water of all the rains that fold down in every mountain.
-
-I recognize how this water melt in just dreams , rivers , lakes and lagoon , base and seas. All around the world. I become aware of the water that I am , just being drunk by every animal in every geography. Like every plant and dream in every climate.
-
-I walk around the forest and sit under the roads. Being within each one of these individual 's as this beings , this heart I can perceive. How myself is divided into many thousands of paths.
-
-So I know that here begins all my journeys.
-
-Now I allow the images of the entire humanity , Come to me , everyone in the past migrating through the world , to mountains and seas , to a hot places of the desert and the coldest regions of Siberia. Sailing in those , I am searching paths , roads , connecting villages , step by step , in every path. And I feel how this migrating humans expand from Europe , Asia towards America , for Kenya , for creating our story , our history , step by step. The families migrating from village to village , seated to city , ca n't shoot the config , to continents , to continents , creating the globalization of our age , step by step.
-
-And I perceive how the lights start to shine all around the globe. Connecting the lanes , surpassing the borders of countries and nations , creating the internet. Just standard , world , blind , web. That I am.
-
-And I recognize a knowledge that every thought , idea , action and emotion is being recorded in this great web , around the globe. Everything that I am , everything that we are , turn back to be one again. And by uploading my consciousness to this network of memory , I can live this legacy to the future ones , to be one. And I recognize how this is , to be one.
-
-And I recognize how this is , to be one. And I recognize how this is , to be one. And I recognize how this is , to be one. I am the legacy of the future ones.
-
-I am the legacy of the future ones. All the steps of history converge in me. And next step is for those who expect and wait for me in the future. And this is how we are tiny , step from the consciousness towards the consciousness.
-
-And this is my legacy to the future ones. I am the legacy of the consciousness. And this is how we are. And this is how we are.
-
-And this is how we are. And this is how we are. Take a deep breath. Take your hands to your chest.
-
-And slowly I begin to raise the body , bring in this consciousness everywhere. And slowly I come back here and now , open in my eyes , each one at its own time. Thank you , everybody , for being there here and now. See you tomorrow in a new time.
-
-See you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Throat
+- **Week Theme:** Emotional Week - Sagittarius Month
+- **Main Topic:** Intention and Tomorrow
+- **Vibration:** Vo
+- **Statement:** I am the intention of the cosmos
+- **Code:** Intention - from Latin 'intendere' meaning 'to stretch toward, to aim.' Not mere wishing or hoping, but conscious directing of will and attention toward what you choose to create. Intention focuses the diffuse energy of consciousness into specific manifestation. Tomorrow depends on the intention you hold today. The throat chakra speaks your intention into existence.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+On the eve of the great December 21, 2020 alignment, we explore intention as the bridge between today and tomorrow, between potential and manifestation, between consciousness and creation. We discover that tomorrow doesn't simply happen TO us - it is created BY us through the intention we hold today. This teaching prepares us for the massive planetary shift occurring tomorrow by helping us understand our role: not as passive recipients of cosmic energies but as active co-creators who focus universal consciousness into specific manifestation through clear intention. The throat chakra carries this teaching because intention must be SPOKEN, DECLARED, EXPRESSED to become real - silent wishes remain in the realm of potential, but spoken intentions move into manifestation.
+
+## The Word Tomorrow
+
+**TOMORROW** - that strange time that never arrives because when it comes, it's called "today."
+
+### The Paradox
+
+**Tomorrow doesn't actually exist as a time you can experience.**
+
+When tomorrow arrives, you don't experience it AS tomorrow - you experience it as today.
+
+**Tomorrow is always just ahead, never quite here.**
+
+**Yet tomorrow is where we place all our hopes, fears, plans, and dreams:**
+- "Tomorrow I'll start exercising"
+- "Tomorrow things will be better"
+- "Tomorrow I'll tell them I love them"
+- "Tomorrow I'll begin my purpose"
+
+**Tomorrow is the eternal refuge of procrastination and projection.**
+
+### The Etymology
+
+**TOMORROW** comes from "to" + "morrow"
+
+**MORROW** is from Old English "morgen" meaning "morning"
+
+**TOMORROW literally means "to the morning" - to the next beginning**
+
+**Every tomorrow is a new morning, a fresh start, another beginning.**
+
+### The Spiritual Teaching
+
+**Tomorrow represents POTENTIAL - what has not yet manifested but could.**
+
+**Tomorrow is the field of all possibilities not yet chosen.**
+
+**Tomorrow is where intention becomes creation.**
+
+**And here's the key:** ***Tomorrow is created by the INTENTION you hold today.***
+
+## What Is Intention?
+
+### The Etymology
+
+**INTENTION** comes from Latin **"INTENDERE":**
+
+- **IN** = toward, into
+- **TENDERE** = to stretch, to strain, to aim
+
+**Intention literally means "to stretch toward" or "to aim at."**
+
+**It's not passive wishing - it's active directing.**
+
+### Intention vs. Hope vs. Wish
+
+**Important distinctions:**
+
+**WISH:**
+- Passive
+- "I wish things were different"
+- Energy stays internal
+- No responsibility taken
+
+**HOPE:**
+- Slightly more active
+- "I hope it works out"
+- Energy is expressed but not focused
+- Outcome depends on external factors
+
+**INTENTION:**
+- Fully active
+- "I intend to create this"
+- Energy is focused and directed
+- Responsibility is claimed
+
+**INTENTION is conscious choice + focused will + directed energy.**
+
+**It's the difference between:**
+- "I wish I had a better life" (wish)
+- "I hope my life improves" (hope)
+- "I intend to create positive change in my life" (intention)
+
+**Only intention has power to create tomorrow.**
+
+## Intention as Cosmic Force
+
+**This teaching says: "I am the intention of the cosmos"**
+
+**What does this mean?**
+
+### The Universe as Intention
+
+Remember earlier teachings:
+- The universe began as void (formless potential)
+- The void projected its potential outward (intention to manifest)
+- All forms emerged from this original intention
+
+**The Big Bang was the universe's INTENTION to experience itself in form.**
+
+**Every galaxy, star, planet, being - all are manifestations of original cosmic intention.**
+
+### You as Cosmic Intention
+
+**You are not separate from this cosmic force.**
+
+**The same intention that projected universe into existence is the intention operating THROUGH you.**
+
+**When you set an intention, you're not a tiny human begging the universe for favors.**
+
+**You ARE the universe focusing its creative power through this specific point of consciousness called "you."**
+
+**Your intentions are cosmic intentions localized.**
+
+**This means:**
+- Your intentions have universal creative power (because you ARE the universe)
+- Your intentions matter to the whole (because you're a node in the cosmic network)
+- Your intentions co-create reality (because reality is being generated by collective consciousness)
+
+**You are not powerless - you are the intention of the cosmos itself.**
+
+## The Throat Chakra: Speaking Creation
+
+**The teaching comes to THROAT CHAKRA because:**
+
+**Intention must be SPOKEN to move from potential to manifestation.**
+
+### Silent Intention vs. Spoken Intention
+
+**Silent intention** (held in mind/heart):
+- Exists in realm of potential
+- Has power but no grounding
+- Can remain vague and shifting
+- Doesn't fully commit the self
+
+**Spoken intention** (expressed through throat):
+- Moves from potential into manifestation
+- Grounds the energy in physical vibration
+- Becomes concrete and specific
+- Commits the self fully
+
+**When you SPEAK your intention:**
+- It vibrates into physical reality (sound waves)
+- Your body hears and aligns with it
+- The universe receives clear signal
+- You take responsibility for it
+
+**This is why vows, declarations, affirmations, prayers are SPOKEN.**
+
+**Speech is the bridge from consciousness to creation.**
+
+### The Creative Power of the Word
+
+**In many traditions:** "In the beginning was the Word..."
+
+**The Word = Intention spoken into manifestation**
+
+**God/Source didn't just think creation - it SPOKE creation: "Let there be light"**
+
+**Similarly, your intentions become creative when you SPEAK them:**
+
+- "I intend to embody love more fully"
+- "I intend to contribute to planetary awakening"
+- "I intend to heal this pattern"
+- "I intend to manifest authentic livelihood"
+
+**Speaking makes it real.**
+
+**The throat chakra is your creative word, your personal "Let there be..."**
+
+## Preparing for Tomorrow: December 21, 2020
+
+**This teaching (Day 139) comes on December 20, 2020.**
+
+**Tomorrow is the great conjunction, the Bethlehem Star, the portal opening.**
+
+### Why Intention Matters NOW
+
+**The cosmic energies align tomorrow, but what humanity DOES with those energies depends on COLLECTIVE INTENTION.**
+
+**Think of it like this:**
+
+The alignment is like a massive door opening.
+
+But whether humanity walks through that door toward awakening or stays in old patterns depends on WHERE WE FOCUS OUR INTENTION.
+
+**The energies are neutral - they amplify whatever we're focusing on:**
+- If we focus on fear, division, suffering - that gets amplified
+- If we focus on love, unity, awakening - that gets amplified
+
+**This is why GLOBAL MEDITATION matters tomorrow:**
+
+When millions of people align their intention simultaneously:
+- We create coherent signal (like lasers aligning light waves)
+- We focus the cosmic energies toward specific outcome
+- We co-create the tomorrow we intend
+
+**We're not begging the universe to save us.**
+
+**We ARE the universe, consciously choosing what to create with the energies available.**
+
+### What to Intend
+
+**Tomorrow (Day 140), specific meditation and intention will be given.**
+
+**But today, prepare your personal intention:**
+
+**Ask yourself:**
+- What do I intend to create in the new cycle beginning tomorrow?
+- What do I intend to embody more fully?
+- What do I intend to contribute to collective awakening?
+- What do I intend to release from the old paradigm?
+- What do I intend to birth into the new?
+
+**Get clear. Get specific. Get aligned.**
+
+**Tomorrow, you'll speak this intention into the cosmic opening.**
+
+## The Responsibility of Intention
+
+**With great power comes great responsibility.**
+
+**If you ARE the intention of the cosmos, you're RESPONSIBLE for what you create.**
+
+### You Can't Blame Tomorrow
+
+**Many people treat tomorrow as something that happens TO them:**
+
+- "What will tomorrow bring?" (as if it's outside your control)
+- "I hope tomorrow is better" (passive waiting)
+- "Tomorrow will tell" (abdication of responsibility)
+
+**But this teaching says: YOU CREATE TOMORROW with the intention you hold today.**
+
+**If tomorrow is difficult, ask:** "What was I intending (consciously or unconsciously)?"
+
+**If tomorrow is beautiful, acknowledge:** "I participated in creating this."
+
+### Conscious vs. Unconscious Intention
+
+**You're ALWAYS intending - the question is whether you're doing it consciously.**
+
+**Unconscious intentions:**
+- Fears you hold (intending what you fear)
+- Beliefs you carry (intending confirmation of beliefs)
+- Patterns you repeat (intending familiar even if painful)
+
+**Conscious intentions:**
+- Deliberately chosen focus
+- Aligned with your values and truth
+- Clearly spoken and claimed
+- Reviewed and adjusted regularly
+
+**The shift from unconscious to conscious intention is the shift from victim to creator.**
+
+## Living from Intention
+
+**How do we embody this teaching daily?**
+
+### 1. Morning Intention Setting
+
+**Each morning (tomorrow) begins with intention:**
+
+- What do I intend for this day?
+- Who do I intend to be today?
+- What do I intend to create?
+- How do I intend to respond to challenges?
+
+**SPEAK it aloud (throat chakra activation).**
+
+**Make it specific, positive, aligned with your deepest truth.**
+
+### 2. Aligning Actions with Intention
+
+**Intention without action is fantasy.**
+
+**Throughout the day, check:** "Are my actions aligned with my stated intention?"
+
+**If you intend peace but engage in conflict, there's misalignment.**
+
+**If you intend abundance but act from scarcity, there's misalignment.**
+
+**Course-correct: bring actions into alignment with intention.**
+
+### 3. Evening Reflection
+
+**Each evening, reflect:**
+
+- Did I live my intention today?
+- Where was I aligned? Where did I forget?
+- What do I need to adjust for tomorrow?
+
+**This closes the loop - tomorrow becomes today, you review, you refine intention for next tomorrow.**
+
+### 4. Releasing Attachment to Outcome
+
+**Paradox: Hold clear intention but don't cling to specific outcome.**
+
+**You intend the direction but allow the universe to handle the details.**
+
+**Like archer:** You aim carefully (intention) then release the arrow (trust).
+
+**Obsessing over exactly how/when intention manifests actually blocks the flow.**
+
+**Set intention clearly, then allow space for it to manifest in ways you might not have imagined.**
+
+## Guided Practice: Claiming Your Intention
+
+**This practice prepares you for tomorrow's global meditation:**
+
+1. Sit or stand, spine straight
+2. Bring attention to your **throat chakra** (front and back of throat)
+3. Place fingers gently on throat
+4. Breathe deeply, feeling throat expand and contract
+5. Visualize a bright blue light at your throat - your creative word
+6. Reflect on tomorrow (December 21 or whatever "tomorrow" means for you)
+7. Ask yourself: **"What do I intend to create?"**
+8. Let an answer arise - don't force it, let it come from deep within
+9. Once you have your intention, refine it:
+   - Make it positive (what you want, not what you don't want)
+   - Make it specific (concrete, clear)
+   - Make it aligned (true to your deepest values)
+10. Now, **SPEAK your intention aloud:**
+    - "I intend to..."
+    - "I am the intention to..."
+11. Feel how speaking it makes it more real
+12. Speak it again, louder, claiming it fully
+13. Notice sensations in throat - this is creative power activating
+14. Now expand awareness:
+    - You are not alone in this intention
+    - Millions are intending awakening simultaneously
+    - Your intention joins the collective intention
+15. Visualize tomorrow:
+    - See the planetary alignment in the sky
+    - See millions of people meditating
+    - See the grid lighting up as intentions align
+    - See the new cycle beginning
+16. Speak: **"I am the intention of the cosmos"**
+17. Feel yourself not as small human wishing but as cosmic creative force focused through this form
+18. Breathe into throat, sealing the intention
+19. Trust that it is already manifesting
+20. Return to the present, knowing: Tomorrow is being created by the intention you hold today
+
+## Daily Practice
+
+**Vibration:** Vo
+
+**Statement:** I am the intention of the cosmos
+
+**Code:** Intention focuses consciousness into manifestation through directed will
+
+**Meditation Focus:**
+- Set clear conscious intention for tomorrow and beyond
+- Speak your intentions aloud to activate throat chakra
+- Take responsibility for creating your tomorrow through today's intention
+- Recognize you ARE cosmic intention localized, not separate from creative power
+- Prepare for December 21 global meditation with aligned intention
+
+**Integration:**
+- Tonight: Write down your primary intention for the new cycle beginning tomorrow
+- Make it specific, positive, aligned with your deepest truth
+- Tomorrow morning: Speak this intention aloud three times
+- Throughout tomorrow: Check if actions align with stated intention
+- Tomorrow evening: Reflect on how intention manifested through the day
+- Practice daily: Morning intention setting, evening reflection
+- Before bed: Visualize tomorrow being created by the intention you hold right now
+
+---
+
+## Key Insights
+
+- **"Tomorrow doesn't exist as a time you can experience - when it arrives, it's called today."**
+- **"Tomorrow represents potential - what has not yet manifested but could."**
+- **"Tomorrow is created by the INTENTION you hold today."**
+- **"Intention means 'to stretch toward' - it's not passive wishing but active directing."**
+- **"Wish is passive, hope is slightly active, intention is fully active with responsibility claimed."**
+- **"Intention = conscious choice + focused will + directed energy."**
+- **"The Big Bang was universe's INTENTION to experience itself in form."**
+- **"You ARE the universe focusing creative power through this point of consciousness called 'you.'"**
+- **"Your intentions are cosmic intentions localized - you are not separate from this force."**
+- **"Silent intention exists in potential; spoken intention moves into manifestation."**
+- **"When you SPEAK intention, it vibrates into physical reality and commits you fully."**
+- **"Speech is the bridge from consciousness to creation - throat chakra speaks creation into existence."**
+- **"December 21 cosmic energies are neutral - they amplify whatever we focus intention on."**
+- **"Global meditation creates coherent signal when millions align intention simultaneously."**
+- **"YOU CREATE TOMORROW with intention you hold today - this is responsibility, not blame."**
+- **"Unconscious intention = fears/beliefs/patterns. Conscious intention = deliberately chosen focus."**
+- **"The shift from unconscious to conscious intention is shift from victim to creator."**
+- **"Intention without action is fantasy - align actions with stated intention."**
+- **"Hold clear intention but don't cling to outcome - aim then release, like archer."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Start a 21-day "Intention Journal" beginning today. Each morning, write your primary intention for that day in one clear sentence. Each evening, reflect on how that intention manifested (or didn't) and what you learned. Notice patterns: Do you set vague intentions? Do you forget your intention by noon? Do you set intentions your actions contradict? This practice builds the muscle of conscious intention-setting and trains you to see the direct link between intention and manifestation.
+
+### Applying This Teaching
+
+Tomorrow morning, before checking phone/email/news, sit quietly and ask: "What do I intend for this day?" Let an answer arise from your deepest truth, not from your to-do list. Speak it aloud three times, feeling your throat chakra activate. Write it where you'll see it throughout the day. Then live AS IF this intention is already true. Notice how differently your day unfolds when you BEGIN with clear conscious intention versus when you just react to whatever comes.
+
+---
+
+## Q&A
+
+### Q: How is intention different from goal-setting or manifestation techniques?
+
+**Intention is the conscious focus that underlies goals and manifestation.** A goal is specific outcome ("I want to weigh 150 pounds"). Manifestation technique is method ("I'll visualize and affirm"). Intention is the deeper WHY and the energetic direction ("I intend to embody vibrant health"). Goals and techniques can serve intention, but intention is primary. You can achieve goals while violating your deepest intention (lose weight through unhealthy means) or fail to achieve goals while honoring intention (maintain health even if weight doesn't change). Intention aligns you with truth; goals are navigational markers.
+
+### Q: What if I set clear intention but things don't manifest the way I intended?
+
+**Several possibilities:** 1) The manifestation is occurring but not in the form you expected - stay open; 2) Your conscious intention conflicts with unconscious intentions (fears/beliefs) - deeper work needed; 3) Your intention isn't actually aligned with your highest good or collective good - universe redirects; 4) Timing isn't right yet - patience required; 5) You're attached to specific outcome rather than direction - release grip. Check: Am I attached to exact form of manifestation or to the essence/feeling of what I intend? Intention sets direction; universe handles routing.
+
+### Q: Can my individual intention really matter when there are billions of people with different intentions?
+
+**Yes, for two reasons:** 1) Quantum physics shows consciousness affects reality at fundamental level - your focused intention literally changes probability fields; 2) Collective consciousness is sum of individual consciousnesses - your clear intention contributes to the whole like one candle contributes to total light in a room. When you align your intention with others' (like global meditation), the effect amplifies exponentially (coherence creates power). You're not separate drop trying to change ocean - you're the ocean at this specific point, and your movement affects the whole.
+
+### Q: How do I know if an intention is coming from ego vs. true self?
+
+**Feel into it:** **Ego-based intentions** feel tight, grasping, comparative ("I want this to be better than them"), fear-driven ("I need this to feel safe/worthy"), or compensatory ("This will finally make me enough"). **True-self intentions** feel expansive, generous, aligned with service ("This will allow me to contribute more"), growth-oriented ("This helps me embody my values"), or joyful ("This expresses my authentic nature"). Also check: Does this intention honor the wellbeing of others or require their diminishment? True self never intends at others' expense; ego often does.
+
+### Q: What if I don't know what to intend because I'm confused about what I want?
+
+**Start simpler:** Instead of intending specific outcomes you're unclear about, intend the process of clarity itself: "I intend to discover what's true for me" or "I intend to hear my inner guidance clearly" or "I intend to release confusion and welcome clarity." You can also intend qualities rather than outcomes: "I intend to embody peace/love/courage today" even if you don't know what that will look like in practice. Intention doesn't require having everything figured out - it's actually the tool FOR figuring things out. Confusion is fine; unconsciousness is what we're addressing.
+
+### Q: How does speaking intention aloud help if I live alone and no one hears it?
+
+**You don't speak intention for others to hear - you speak it for multiple reasons:** 1) YOUR body hears it - your cells, your subconscious, your energy field all receive the spoken word more fully than silent thought; 2) Speaking makes it REAL - thought is ethereal, sound is physical vibration; 3) Speaking commits you - there's a power in hearing yourself claim something out loud; 4) The universe/"field"/quantum foam "hears" it as vibration - intention as sound wave moves into manifest reality; 5) Speaking activates throat chakra - the creative power of the word. Even alone, speak your intentions. The power isn't in being heard; it's in speaking.
+
+### Q: Can I set intentions for other people (like intending they heal or change)?
+
+**Tricky territory.** You cannot violate others' free will or sovereignty with your intention - that's manipulation, even if well-meaning. What you CAN do: Intend that they have what they need for their highest good (without deciding what that is); intend to be a beneficial presence in their life; intend your own healing around the relationship. But you cannot intend they make specific choices or become what you think they should be. This violates spiritual law. Focus your intention on YOURSELF - your responses, your energy, your contribution - and trust each being has their own relationship with their own intentions and path.
+
+### Q: What's the difference between this teaching and "Law of Attraction" or "manifesting"?
+
+**This teaching has different emphasis:** Law of Attraction often focuses on getting what you want through aligning vibration (sometimes with materialistic emphasis). This teaching focuses on recognizing you ARE cosmic creative force, which comes with RESPONSIBILITY not just power. The emphasis is on alignment with deepest truth and collective good, not on manifesting desires. Also, this teaching places intention in context of spiritual awakening (like tomorrow's alignment) rather than primarily material gain. Both address consciousness creating reality, but this teaching emphasizes the sacred nature of intention and the responsibility to use it wisely for evolution of whole, not just personal comfort.
+
+---
+
+**Reflection:** Here we stand on December 20, 2020, on the threshold of the great conjunction that will bring Jupiter and Saturn into alignment for the first time in 800 years, creating the Bethlehem Star and opening a portal that humanity has been moving toward for ages, and we learn the truth that makes us tremble with both power and responsibility: tomorrow doesn't simply happen TO us like fate or accident, but is actively created BY us through the intention we hold today, right now, in this eternal present that is always just about to birth the next moment into being. We discover that we are not tiny powerless humans hoping the cosmos will be kind to us, but that we ARE the cosmos itself, the same intention that exploded the Big Bang into existence, the same creative force that spoke light into darkness, now localized in these human forms, wielding the power to focus universal consciousness into specific manifestation through the simple act of speaking our intention into the opening at our throats where thought becomes vibration, where potential becomes actual, where tomorrow is born from today's consciously chosen word. And we understand finally why throat chakra carries this teaching: because silent wishes remain in the ethereal realm of maybe and someday, but spoken intentions vibrate into physical reality, committing our whole being to what we claim, activating the creative power that ancient scriptures knew when they said "In the beginning was the Word" - not the thought, not the idea, but the WORD, the spoken intention that brings worlds into existence. Tomorrow, when millions gather in meditation and the stars align and the portal opens, we will not be begging the universe to save us or hoping some external force makes everything better; we will be the universe consciously choosing what to create with the massive energies available, aligning our individual intentions into coherent collective signal that focuses the neutral cosmic forces toward awakening rather than fear, toward unity rather than division, toward the tomorrow we intend rather than the tomorrow we unconsciously perpetuate. This is the shift from victim to creator, from passive hoping to active intending, from unconscious pattern-repeating to conscious world-building. We are the intention of the cosmos - not metaphor, not aspiration, but literal truth - and every word we speak, every focus we hold, every tomorrow we imagine is the universe stretching toward itself through us, aiming at its own evolution, creating the next moment of its infinite unfolding. Tomorrow depends on the intention we hold today, and today, we choose awakening.
+

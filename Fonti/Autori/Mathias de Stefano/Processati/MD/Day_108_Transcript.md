@@ -1,212 +1,439 @@
 ---
-title: "Day 108 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 108 - Attachment"
+author: Matias de Stefano
+series: "365 Days The Path Of I Am"
 day_number: 108
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 108
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - chakras
-  - energetic alignment
-  - consciousness work
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month holding
+  - attachment
+  - 12th dimension
+  - interdimensional box
+  - rubric cube
+  - letting go
+  - clinging
+  - emotional bonds
+  - third eye
+  - scorpio
+  - emotional week
+  - dimensional perspective
+  - impermanence
+  - suffering
+  - transformation
+  - liberation
 
 practice_elements:
-  chakra: "Heart"
+  vibration: "Unknown"
+  statement: "Unknown"
+  chakra: "Third Eye"
+  code: "Seeing attachment from 12th dimensional perspective"
 
 ---
 
-# Day 108 - Consciousness Work
+# Day 108 - Attachment
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
-
-## Daily Practice Elements
-
-- **Chakra:** `Heart`
-
-## Introduction
-
-So , we 're morning , we 're afternoon , good evening.
-
-So , I know that everything that I am writing , they have a lot of data and information , so do n't be an rush to get it all to understand all of it. Because we are not on a race , we are not here , running to get anywhere.
-
-So , another thing , which I guess is important to say , is that remember that everything that I 'm writing are most of them analogies.
-
-So , do n't take everything as literal , all the information that I wrote there is just like a pedagogy way of writing , so you could get the point , not the literal meaning.
-
-So , that would be important also to understand. And I say this because it 's important , is important to , for you also to discern and to find your answers.
-
-So , also remember that the reason why writing and also the channelings , they speak in codes and they speak with parable , they speak with , they speak with right with analogies and prose and poetry , is because there is no one answer , there is no one truth , the only truth. There are so many different ways of truth that we use this ways of explaining things , so you can take it and apply it anywhere in any concept.
-
-So , this is why , basically analogies and poetry is the one that calls the numbers , the only possible truth of numbers , one zero , they call it , God , they call it everything vacuum , they call it I and am. It 's an analogy , so you can use it from the perspective you prefer. Otherwise people who is emotional , one accept that reality is just about codes of numbers. And I myself have no idea of how to rest and how to make divisions , how to make numbers , some and multiplication and so on.
-
-So , I want the good one to try to explain it , three numbers.
-
-## Energy Work
-
-So , today related to the Chakra of Means , we will talk about the topic of attachment.
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-So , the topic of attachment is very used in spirituality and consciousness path nowadays , but it 's important also to understand that usually we use it in a very wide way and not really what we are supposed to understand about it. As all the things that we have been spoken here , we usually try to , we usually polarized this concept into attachment and the touchment. The statement for today is I am the transportation of paths , remember that we are in Means. The goal for today is the 12th dimension.
-
-The interdimensional box is like a test rat made by a complex rubric cube , rubric cube , where all parallel time and space interact with each other and can be modified , not only the future of a parallel world can be modified , but an imaginary universe at the same time can modify the past of our reality. There are no limits and everything is movable. Let 's go to the alignment. Let 's begin with alignment.
-
-We begin by moving slowly the shoulders. I focus only in my breathing. I take a deep breath and I relax the shoulders. I begin to imagine the light around the body.
-
-To imagine the light around me is the light within me. I pay attention to all the people that I know surrounding me. I pay attention that all these people around me are connected to me by the same light and the same body. It is a tissue and network.
-
-The good ones and bad ones according to me , they are all connected. And such ones as the others , I am attached to all of them. All of them connected in this great ocean that is the point. I take a deep breath and I dive within the waters.
-
-I see the light and clarity stable as I go deeper into the shadows of darkness , of my subconscious. I remember that I am attached to all those people. I am tied to them.
-
-So take a look of who of those people. I am bringing with me into the shadows. I am brought up of those good and bad people. I am bringing with me pulling to the death and the pressure of my subconscious.
-
-I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness.
-
-I recognize why am I attached to these people. I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness.
-
-I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness.
-
-I am bringing with me the light and clarity stable as I go deeper into the darkness. What was the best to be attached or to be detached? I recognize that I am an individual that exists due to the attachment. I am also recognized that by trying to be detached from all of it , I am just denying an abandonment.
-
-I live in behind everything that I am. This is why I set my intention. I have the desire to live free living fully here and now. I am bringing with me the light and clarity stable as I go deeper into the darkness.
-
-I am bringing with me the light and clarity stable as I go deeper into the darkness. I am the transmutation of paths just so you can see the transmutation of paths. I am free of all the paths here and now. I live in this forms for I am the transmutation of all the forms.
-
-I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness. I am bringing with me the light and clarity stable as I go deeper into the darkness. Once upon a time there was a tree that had created many fruits and seeds but it never left them away.
-
-I grew up alone in a very wide desert. There was a moment when it saw it 's dead coming closely. It has no other way to let all the seeds fall down.
-
-So in that moment from the seeds many trees start to grow up. And they were surrounding this other tree helping him sharing with him until the very last day of its life. It was not moment when the tree recognized that is by living away the forms that you can plant leave this existence. Take a deep breath.
-
-I am bringing the fruit to the heart. And we can back here and now slowly each one of its own time. The touchment is to think that if I live , if I let everything go away everything that makes me feel safe.
-
-So I will lose everything. The touchment would be to think that if I let everything go away everything that pulls me in this world , I will set myself free. In the world of spirituality we usually speak about attachment and we usually say about attachment that what we have to aim detachment from things. But what we do n't really understand is that to get the touch , is basically to not be responsible.
-
-So basically to be detached sometimes it 's not to be responsible of what you have created.
-
-## Q&A
-
-So the question that I would do to this network that we are , is are we here working in our attachment or our detachment.
-
-Remember that we have two different types of attachment , attachment and detachment. The first one , attachment , we call it to be in the service of survival. And detachment , we will call it service of transcendence.
-
-So service to survival is basically to be in service to life. Our body is constantly trying to make us survive.
-
-So it is attached to life constantly and does everything to survive for life.
-
-So it is that to want to protect life.
-
-Now it 's not that. It is okay.
-
-So detachment , attachment , the service to survival would be basically to , to put all your energy to try to hold the things equally.
-
-So make you feel secure and safe in your comfort zone. And detachment is the service to transcendence which is it does n't matter. It does n't matter. Life because life is eternal.
-
-So you do n't have to attach to anything.
-
-So remember , attachment is the one that helps you to survive. It 's the one that tells you if you stay here , you will be safe.
-
-So in the other hand , we have detachment which would be to transcend. To say , well , I can live all this because the word of shapes does n't matter. Which has can live because we are eternal and we can live all of this.
-
-So detachment would be this tree that wants to hold everything , all information for it , the seeds because that 's the only way it has to survive.
-
-## Energy Work
-
-So by detachment , this tree can live this seeds. And by that , it can create new seeds and the other trees growing around with the roots can hold it so it does n't fall down. But in this example , my question would be , in all this process , did detachment , the ground , did detachment , left to the fifth dimension? Of course not.
-
-What it did was to find its freedom through transcendence.
-
-So transcendence is to set yourself free , not to live away. It 's to set yourself free and transcend here.
-
-So what we have to do when we talk about detachment is not to let things away and to go around in another dimension. What detachment means is to be aware of that link , to be aware of the bound. Because when we are attached , is because we have no idea why we are holding the other one. And by fear , by comfort.
-
-We are afraid of things to change. And that 's why we get attached to them. This is why I change the shapes today , the forms. And I want to point some things here.
-
-## Q&A
-
-When I change the ways , I noticed that there were many reactions in the negative and positive ways. You started to fight each other. You started to do opinions of what was happening. People that asked for respect and silence , but they are right in two.
-
-## Guided Meditation
-
-People that say focus in the meditation during the meditation. People that judge those who say focus. People that comment things that it 's not related with with is happening. People that need to call attention , positive and negative in different ways.
-
-And as you see , I am not with any one of you. I am just doing an observation that happens to all of us , to you to me , everyone.
-
-So all emotions and all the things that happen , that changed , that happened like that with all these reactions , are just because the time it changed. And that is what shows us how attached we are to the shapes.
-
-So with this , I am not saying that I do n't like that you write too much in the blog in the comments here. I am not saying that I do n't like everything that you put. I really appreciate for all the people that say thank you or the people that say silence please respect. I really appreciate that because it 's really good.
-
-So I 'm not pointing on that. I have no problems with you writing. I do n't really care. It does n't bother me really.
-
-So do n't worry , it 's not that the chat is sticking me from the point. It 's not for me sometimes to stay like what I 'm saying.
-
-So it 's not about the chat. The chat is kind of something that helps me to use it as a feedback as statistics. Even if they do n't use for anything. They 're not useful for anything.
-
-But somehow.
-
-Sometimes what we do. I nature because we do n't want for things to change. We want the things to be very specific. Is that instead of being in our center doing what we are supposed to do.
-
-We are saying to the others what we expect for them to be.
-
-The reason why I 'm saying this mostly for mostly about all the people that is saying that is helping me trying to put order and saying to help with silence and all that is because I am I am trying to take care of those people because I noticed that they are the most aligned and the ones that are more willing to do everything.
-
-## Q&A
-
-The reason point in this is because the question would be from where do we want to help the others. It 's just to understand that you also can close the chat. What I just want to say is to try to think about from which point we say things. It does n't matter if you comment , it does n't matter if you talk , it does n't matter if you use it because it 's useful for me with your writing here.
-
-The reason is just to remind you how attached we are to our expectations. To what it is to post to be.
-
-So this is why. I will try to do some of these things sometimes. Just to help us to see what are the things that we should practice.
-
-So one big attachment that we have to let it go is to the attachment to expectations. Because everything that we usually do is expecting a result , expecting something that we would love for it to be. And then what it is. And one of the practice for the attachment is not to just.
-
-Let it go. Is to use what it has changed. For something new. Like for example.
-
-For example , the silence.
-
-Today in the moment when we begin. Maybe it was uncomfortable. But we could have been using that for something new like. Learn to be.
-
-In silence.
-
-So attachment is to be stuck. Stuck in an expectation above all. It might be something silly at the beginning. But it will become useful.
-
-Bigger moments like in politics. In economy. In families and relationships. The only thing we are attached to are expectations.
-
-And the only thing from which we can. Touch is from expectations. It 's not to be bad guy tomorrow. Have sweet dreams.
-
-See you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Third Eye
+- **Week Theme:** Emotion (Scorpio)
+- **Main Topic:** Attachment and Dimensional Perspective
+- **Vibration:** Unknown
+- **Statement:** Unknown
+- **Code:** Understanding attachment through the interdimensional rubric cube
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Day 108 brings us to attachment—one of the fundamental causes of suffering in human experience. Every spiritual tradition addresses attachment: Buddhism calls it tanha (craving/clinging), Hinduism speaks of maya (illusion we grasp), Christianity warns against worldly attachments.
+
+But today's teaching approaches attachment from an unusual angle: **through the lens of the 12th dimension and something Matias calls the "interdimensional box" or "rubric cube."**
+
+We work with the third eye chakra—the center of vision, perception, and dimensional awareness. The third eye sees beyond the obvious, beyond the surface level, into deeper patterns and higher dimensions of reality.
+
+Attachment, Matias explains, is what happens when you can only see reality from the 3rd dimension (physical, linear, time-bound). From that perspective, everything is separate, temporary, and losable. Of course you cling—you're afraid of loss.
+
+But when you access 12th dimensional vision (through the third eye), you see that nothing is ever truly lost, nothing is truly separate, nothing is only temporary. Everything exists simultaneously in all dimensions. Attachment becomes unnecessary when you can see the wholeness.
+
+This teaching uses analogies and poetic language because the 12th dimension cannot be fully explained in 3D language. Allow it to work on you intuitively rather than trying to grasp it purely intellectually.
+
+---
+
+## Core Teaching
+
+### What is Attachment?
+
+At its simplest: **Attachment is clinging to something because you believe losing it would diminish you.**
+
+You attach to:
+- People (lovers, children, friends, family)
+- Things (possessions, money, home, comfort)
+- Ideas (beliefs, identities, being "right")
+- Experiences (past memories, future hopes, current circumstances)
+- States (youth, health, happiness, success)
+
+The attachment says: "I need this to be okay. Without this, I am less. If I lose this, I lose part of myself."
+
+This creates suffering because **everything in the 3rd dimension is impermanent**. Everything changes, everything eventually dissolves, everything transforms. If your sense of wholeness depends on things remaining as they are, you will suffer.
+
+### The 3rd Dimensional Perspective
+
+In the 3rd dimension—physical reality, linear time, separate objects—attachment makes perfect sense.
+
+From this perspective:
+- You are here, separate from everything else
+- Things exist or don't exist
+- People are alive or dead
+- Experiences happen and then are gone
+- Time moves forward; the past is lost; the future is uncertain
+- Loss is real and final
+
+If this is your only reality, of course you cling. Of course you try to hold onto what you love. Of course you fear change and loss. You're trying to preserve something that feels fragile and temporary in a world where everything ends.
+
+Attachment is a 3rd dimensional survival strategy.
+
+### The 12th Dimensional Perspective
+
+The 12th dimension (in the cosmology Matias teaches) is a level of consciousness where you can perceive all possibilities, all timelines, all versions of reality simultaneously.
+
+From the 12th dimension:
+- Nothing is truly separate (all is interconnected)
+- Nothing is truly lost (all exists simultaneously across dimensions)
+- Nothing is only temporary (all moments exist eternally in their dimensional space)
+- Time is not linear (past, present, future are simultaneous)
+- Every version of everything exists somewhere
+
+From this perspective, attachment becomes unnecessary—not because you don't love or care, but because **you can see that what you love never actually disappears; it simply shifts dimensional location.**
+
+### The Interdimensional Box (Rubric Cube)
+
+To help us understand this, Matias introduces a visual metaphor: the interdimensional box, which he also calls a "rubric cube" (like a Rubik's Cube).
+
+Imagine a cube with many faces, many sections, many possible configurations. Each face of the cube represents a different dimension of reality. Each section represents a different timeline, a different possibility, a different version of existence.
+
+When you twist the cube (like a Rubik's Cube), the pieces move. A piece that was on one face is now on another face. From the perspective of the original face, that piece has "disappeared." But it hasn't disappeared—it's just on a different face of the cube.
+
+**This is what happens with attachment and loss in our lives:**
+
+- A person you love dies → They haven't ceased to exist; they've moved to a different face of the cube (different dimension)
+- A relationship ends → That version of the relationship still exists on its face of the cube (that timeline); you've just moved to a different face
+- Your youth is gone → It still exists on its face of the cube (that moment in time/space); you're now on a different face
+- You lose a possession → That object exists somewhere in the cube; it's moved to a different section
+
+From the 3rd dimensional perspective (standing on one face of the cube, looking only at that face), these feel like permanent losses. The piece is GONE from this face.
+
+From the 12th dimensional perspective (seeing the whole cube at once, all faces simultaneously), nothing is lost. The piece is simply on a different face. All faces exist simultaneously.
+
+### Seeing with the Third Eye
+
+The third eye chakra is your portal to dimensional vision—the ability to see beyond the 3rd dimension into higher dimensional reality.
+
+When the third eye is closed:
+- You only see the 3rd dimension
+- You perceive separation, loss, impermanence
+- Attachment feels necessary for survival
+- You suffer when things change
+
+When the third eye is open:
+- You see multiple dimensions simultaneously
+- You perceive connection, eternal existence, transformation rather than loss
+- Attachment becomes unnecessary (though love remains)
+- You can allow change without suffering
+
+**Opening the third eye doesn't mean you stop loving or caring.** It means you love and care without clinging, without fear of loss, without needing things to stay exactly as they are.
+
+### Attachment vs. Love
+
+This is crucial to understand:
+
+**Attachment is fear-based.** It says: "I need this to stay exactly as it is or I will suffer."
+
+**Love is freedom-based.** It says: "I cherish this, and I allow it to be exactly what it is, including its transformation."
+
+Attachment contracts, holds tight, fears loss.
+
+Love expands, allows movement, trusts transformation.
+
+You can deeply love someone without being attached to them. This means:
+- You love them for who they are, not for what they give you
+- You allow them to change, grow, even leave
+- You trust that your connection exists beyond the 3rd dimension
+- You don't need to possess or control them to feel secure
+
+This is the difference between attachment (3rd dimensional clinging) and love (12th dimensional trust).
+
+### Why We Attach
+
+Attachment develops because:
+
+**1. 3rd dimensional perspective** - We only see physical reality, so loss feels final and terrifying
+
+**2. Identity confusion** - We confuse what we have/love with who we are, so losing it feels like losing ourselves
+
+**3. Fear of emptiness** - We're afraid if we let go, there will be nothing left; we'll be alone, empty, lost
+
+**4. Lack of trust** - We don't trust that the universe will provide, that we're held, that we're safe beyond what we can physically grasp
+
+**5. Forgetting wholeness** - We've forgotten that we are already complete, already whole, already connected to everything
+
+### The Practice: Seeing with 12th Dimensional Vision
+
+The work is not to force yourself to "not be attached" through will or discipline. That just creates spiritual bypassing and repression.
+
+The work is to **open your third eye to 12th dimensional vision so you can SEE that attachment is unnecessary.**
+
+When you see with higher dimensional awareness:
+- You recognize that the person you love exists across all dimensions, not just this physical one
+- You understand that your connection exists beyond time and space
+- You know that what you're calling "loss" is actually "transformation" or "dimensional shift"
+- You trust that everything you need is always available in the infinite cube of possibilities
+
+This seeing naturally releases attachment—not through force, but through understanding.
+
+### Applying the Teaching to Specific Attachments
+
+**Attachment to people:**
+- See them as existing across all dimensions
+- Your connection is deeper than physical presence
+- Even in death or separation, they exist on another face of the cube
+- Love them without needing to possess or control them
+
+**Attachment to things:**
+- Recognize that objects are temporary expressions of energy
+- Appreciate them while they're on your face of the cube
+- Release them when they move to another section
+- Trust that you always have what you need
+
+**Attachment to experiences/past:**
+- The experience still exists in its moment (its face of the cube)
+- You can access the wisdom and love from it without needing to repeat it
+- The past hasn't disappeared; you've moved to a different present
+- Honor it and move forward
+
+**Attachment to ideas/identity:**
+- Ideas are tools, not ultimate truth
+- Who you are is much larger than any concept
+- Allow your identity to evolve as you move through the cube
+- Trust your essence remains even as the forms change
+
+### The Rubric Cube Meditation
+
+Matias suggests visualizing the interdimensional box/rubric cube as a meditation tool:
+
+See yourself in the center of a multidimensional cube. Each face represents a different dimension, timeline, possibility. As the cube turns, you move from one face to another. What was "here" is now "there," but nothing is lost—it's all part of the same cube.
+
+Everything you've ever loved still exists somewhere in this cube. Everyone you've lost is on another face. Every experience you've had is preserved in its dimensional location. You haven't lost anything; you've simply moved through the cube.
+
+This vision, accessed through the third eye, transforms attachment into appreciation, clinging into allowing, fear into trust.
+
+---
+
+## Practice
+
+### 12th Dimensional Vision Meditation (Third Eye)
+
+This practice helps you access higher dimensional perception to see beyond attachment.
+
+**Preparation:**
+- Sit comfortably
+- Close eyes
+- Place hand on third eye (between eyebrows)
+- Breathe deeply
+- Set intention: "I open to 12th dimensional vision"
+
+**The Practice:**
+
+1. **Identify your attachment** (5 minutes)
+   - What are you most attached to right now?
+   - Who or what do you fear losing?
+   - What do you cling to for security?
+   - Don't judge it—just identify it clearly
+   - Feel the contraction of attachment in your body
+   - Notice where it tightens (heart, gut, throat?)
+
+2. **See from 3rd dimension** (5 minutes)
+   - From physical reality perspective, why does this attachment make sense?
+   - What would losing this mean to you?
+   - How does loss look from 3D perspective? (Final, permanent, diminishing)
+   - Let yourself feel the fear of loss fully
+   - This is valid—from this perspective, the fear is real
+
+3. **Visualize the interdimensional cube** (8 minutes)
+   - Imagine a large, multidimensional cube
+   - Each face represents a different dimension, timeline, possibility
+   - See the thing you're attached to existing on one face of the cube
+   - See yourself on that same face
+   - Now see the cube beginning to turn, like a Rubik's Cube
+   - Different faces come into view; others move out of view
+   - But ALL faces still exist—nothing disappears
+
+4. **See from 12th dimension** (10 minutes)
+   - Now zoom out until you can see the WHOLE cube at once
+   - All faces simultaneously
+   - From this perspective, what you're attached to exists on multiple faces
+     - The person exists across all dimensions
+     - The experience exists eternally in its moment
+     - The object exists in the energy field
+   - Nothing is ever truly lost
+   - Things just move to different faces of the cube
+   - But the cube itself is whole, complete, eternal
+   - You are the cube, not just one face of it
+
+5. **Feel the shift** (7 minutes)
+   - Notice how attachment feels from 3D perspective: tight, fearful, clinging
+   - Notice how it feels from 12D perspective: spacious, trusting, allowing
+   - You can still love deeply from 12D
+   - But you don't need to cling
+   - You trust that what you love exists beyond physical form
+   - Breathe into this spaciousness
+   - Let the contraction release naturally
+
+6. **Integration** (5 minutes)
+   - Return to normal awareness
+   - But bring the 12D vision with you
+   - When attachment arises in daily life, remember:
+     - This is 3D fear
+     - Nothing is truly lost
+     - Everything exists in the multidimensional cube
+     - I can love without clinging
+   - Commit to practicing this vision
+
+7. **Closing** (3 minutes)
+   - Hand on third eye
+   - Thank your higher dimensional sight
+   - Open eyes gently
+
+---
+
+## Key Insights
+
+- **"Attachment is clinging to something because you believe losing it would diminish you."**
+
+- **"From the 3rd dimension, everything is separate, temporary, and losable—attachment makes sense from this limited perspective."**
+
+- **"The 12th dimension allows you to see all possibilities, all timelines, all versions of reality simultaneously."**
+
+- **"The interdimensional box (rubric cube) shows that nothing is ever lost—it just shifts to a different face of the cube."**
+
+- **"What we call 'loss' is actually 'dimensional shift'—the thing hasn't disappeared; it's moved to a different section of reality."**
+
+- **"The third eye is your portal to dimensional vision, allowing you to see beyond physical separation."**
+
+- **"Attachment is fear-based clinging. Love is freedom-based allowing. You can love deeply without attachment."**
+
+- **"When you see with 12th dimensional vision, attachment becomes unnecessary—not because you stop caring, but because you see nothing is truly lost."**
+
+- **"We attach because we only see 3D reality, confuse possessions with identity, fear emptiness, lack trust, and forget our wholeness."**
+
+- **"The person you love exists across all dimensions; your connection transcends physical presence."**
+
+- **"Opening the third eye doesn't mean you stop loving—it means you love without fear of loss."**
+
+- **"All moments, all experiences, all beings exist eternally in their dimensional space; the past hasn't disappeared, you've moved to a different present."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Attachment Awareness:**
+
+Throughout the day, notice moments of attachment:
+- When do you feel fear of losing something?
+- When do you cling tightly to a person, idea, or thing?
+- When does change feel threatening?
+
+In those moments:
+1. Acknowledge: "This is 3D fear—it's valid from this perspective"
+2. Shift: "What if this person/thing exists beyond this physical form?"
+3. Visualize: See the interdimensional cube; see that nothing is truly lost
+4. Allow: Release the clinging without forcing; let it soften naturally
+
+### Weekly Focus
+
+This is day 8 of Scorpio week (extended into the weekend). You've gone deep into emotional territory—resentment, sadness, melancholy, hypocrisy, and now attachment.
+
+All of these emotions and patterns are related to 3rd dimensional perception—the limited view that creates suffering. The third eye teachings (resentment on Day 102, attachment today) are showing you: **when you see with higher dimensional awareness, these patterns transform naturally.**
+
+You don't need to fight attachment. You need to see beyond it.
+
+### Living the Teaching
+
+Practice 12th dimensional vision in daily life:
+
+- When you fear losing someone, remember: they exist across all dimensions; your connection is eternal
+- When you mourn the past, remember: that moment still exists in its place in the cube; the wisdom and love are still accessible
+- When you resist change, remember: nothing is being destroyed; it's just moving to a different face of the cube
+- When you cling to identity, remember: you are the whole cube, not just one section of it
+
+This doesn't mean you don't feel grief or loss—feel everything fully. But you can hold the higher dimensional perspective simultaneously: the form changes, the essence remains.
+
+---
+
+## Q&A
+
+**Q: How is this different from spiritual bypassing? Doesn't saying "nothing is lost" dismiss real grief?**
+
+A: 12th dimensional vision doesn't negate 3rd dimensional experience—it includes it. When someone dies, the grief is real. The physical loss is real. Honor that fully. AND simultaneously know that the person exists in other dimensions, that your connection transcends physical form. Hold both truths: the grief is valid AND nothing is ultimately lost. This is integration, not bypass.
+
+**Q: If attachment is natural in the 3rd dimension, why work to release it?**
+
+A: Attachment causes suffering. You cling out of fear, then suffer when inevitable change happens. You don't release attachment to be "spiritual"—you release it to reduce your suffering and live with more peace, trust, and freedom. Also, you're not only 3rd dimensional—you have access to higher dimensional awareness through your third eye. Why not use it?
+
+**Q: Can I access the 12th dimension, or is this just a metaphor?**
+
+A: Both. For most people, the 12th dimension is accessed intuitively, in meditation, in altered states, in moments of profound knowing. It's not a physical place you go; it's a level of consciousness you access. The interdimensional cube is a visual metaphor to help your mind grasp something that transcends linear thinking. Use it as a tool, not a literal description.
+
+**Q: What about healthy attachment, like bonding with a child or partner?**
+
+A: There's a difference between bonding (connection, love, commitment) and attachment (fear-based clinging). You can be deeply bonded to your child while not being attached—meaning you love them, care for them, AND you allow them to be their own person, to grow, to change, even to eventually leave. Attachment says, "I need you to be a certain way for me to be okay." Bonding says, "I love you and I trust your path."
+
+**Q: How do I practice this when I'm in acute grief or loss?**
+
+A: In acute grief, you don't practice anything—you feel. You honor the pain. You let yourself break. Later, when there's space, you can gently access 12th dimensional vision to find some peace and perspective. Don't force it. Grief has its own timing. This teaching is for integration, not for the raw early stages of loss.
+
+**Q: If everything exists in all dimensions, does that mean my deceased loved one still exists and I can connect with them?**
+
+A: According to this teaching, yes. They exist in other dimensions/faces of the cube. You may not be able to connect physically (because you're on different faces), but the connection exists beyond the physical. Many people experience this through dreams, meditation, synchronicities, or direct knowing. Your bond transcends physical presence.
+
+**Q: What if I can't visualize the cube or access higher dimensional sight?**
+
+A: Not everyone is visual. You might access it through feeling (sensing multidimensionality), through knowing (direct intuition), or through concept (understanding without needing to see). The third eye isn't only visual—it's perception. However it works for you is correct.
+
+**Q: Does releasing attachment mean I won't be sad when things end?**
+
+A: No. You'll still feel sadness—it's a natural response to change and endings. But the sadness won't be compounded by attachment's fear and clinging. You'll feel the sadness, honor it, and allow it to move through without the added suffering of "this shouldn't be happening" or "I can't survive this." Less attachment doesn't mean less feeling—it means less suffering.
+
+**Q: How does this teaching relate to Day 102's resentment teaching (also third eye)?**
+
+A: Both are about seeing beyond 3D perception. Resentment happens when you unconsciously re-feel old emotions (seeing only linear time). 12D vision shows you that you can access the wisdom of past experiences without being trapped in re-feeling them. Attachment happens when you cling to forms (seeing only physical separation). 12D vision shows you that connections exist beyond form. The third eye, in both cases, liberates you from limited perception.
+
+---
+
+## Closing Reflection
+
+Day 108 takes you into the mystery of attachment through the lens of higher dimensional consciousness.
+
+Attachment is not a moral failing—it's a natural response to living in the 3rd dimension, where everything appears separate, temporary, and losable. Of course you cling. Of course you fear loss. From that limited perspective, loss is terrifying and final.
+
+But your third eye gives you access to a higher dimensional vision—what Matias calls the 12th dimension—where you can see the wholeness of reality, the eternal nature of existence, the multidimensional cube where all possibilities, all timelines, all versions of everything exist simultaneously.
+
+From this perspective, nothing is ever truly lost. Things don't disappear; they shift to different faces of the interdimensional cube. The person you love who dies hasn't ceased to exist—they've moved to a different dimension. The past you long for hasn't vanished—it exists eternally in its moment. Your connection to what you love transcends physical form.
+
+This doesn't mean you don't feel grief or sadness when forms change. Feel everything fully. But you can hold the higher dimensional knowing simultaneously: **the form changes, the essence remains. Nothing is lost; it transforms.**
+
+This is the difference between attachment (fear-based clinging that causes suffering) and love (freedom-based allowing that honors transformation).
+
+You can love deeply, completely, fully—without attachment. You can cherish what's here without needing it to stay exactly as it is forever. You can honor the past without being trapped in it. You can trust that everything you love exists in the multidimensional cube, accessible beyond physical form.
+
+The third eye is your portal to this vision. Open it. See with 12th dimensional sight. And let the unnecessary suffering of attachment naturally release.
+
+*Day 108: Seeing beyond attachment through higher dimensional vision.*

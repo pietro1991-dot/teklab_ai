@@ -1,360 +1,444 @@
 ---
-title: "Day 107 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 107 - The Atlantean Greeting and Coherence"
+author: Matias de Stefano
+series: "365 Days The Path Of I Am"
 day_number: 107
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 107
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month holding
-  - month hole
+  - atlantean language
+  - sana greeting
+  - coherence
+  - infinity
+  - school metaphor
+  - supervisor consciousness
+  - crown chakra
+  - scorpio
+  - emotional week
+  - seeing wholeness
+  - individual and collective
+  - ancient wisdom
+  - sound vibration
+  - integration
+  - completion
 
 practice_elements:
-  chakra: "Heart"
+  vibration: "Sana"
+  statement: "I see you in coherence with infinity"
+  chakra: "Crown"
+  code: "Holding coherence while witnessing individual paths"
 
 ---
 
-# Day 107 - Consciousness Work
+# Day 107 - The Atlantean Greeting and Coherence
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
-
-## Introduction
-
-Okay.
-
-So now I. . . More , yeah.
-
-Hi , everyone. How are you? Good morning. Good afternoon.
-
-Good evening.
-
-So I begin today by saying hi in Atlanta language , because. . . .
-
-. . We. .
-
-. . . .
-
-We. . . .
-
-. . We have received the message in that language.
-
-So. . . .
-
-. .
-
-So this is why. . . .
-
-. . I guess we needed to begin like that.
-
-So just for you to say hi in the Atlanta. . . .
-
-. . And that language from this region , say Sana , . .
-
-. Which is the contraction of another word , which is Sana and head and Na. That means. .
-
-. . . .
-
-Made their use lips through you and protect you and express. . . .
-
-. . And expressing you and so on.
-
-So the contraction is Sana and it 's kind of like saying hi. Hello. It is S-A-N-A-H-S-N-A.
-
-So I hope you have your listening to me. . . .
-
-. . That we have a good connection. .
-
-.
-
-So first of all , the person that taught to us yesterday was not taught. It was a master. It was another one.
-
-So it 's like a school and taught is like the director of the school. And this one was a master at the teacher in the school.
-
-Okay?
-
-So the image , so you could understand the image of this person. It is like if for example , I am a teacher.
-
-Okay? And I am in a classroom. Do you in a class? Give in a class in school as a teacher.
-
-And there comes the master , okay? The professor. The master of the school that supervised the teacher and the class.
-
-## Q&A
-
-So he entered the classroom to ask , how are you doing? What are you doing? What have you learned until now?
-
-So it was kind of like this. It was kind of like supervising. What have we done and what we are doing? The dialect that he spoke , the language that he spoke.
-
-It was an Atlantic dialect used in the north of the Nile in the Atlantic times.
-
-So one of the things that he said as he began at the very beginning , he said , he said , a lot like a mess then. A lot like a mess then. The first law of the unit is the mentality , the mind. And you can do whatever you want with it.
-
-You can imagine where you want your free.
-
-So feel free to do whatever you want with your mind , with your imagination. But you have to acknowledge that you can be trapped in the infer of your own mind.
-
-So coherence is the way in which you find the path within eternity.
-
-So you do n't get lost and you can work perfectly.
-
-So that was his advice and his advice was very precise to all of us. In this very moment.
-
-So to try to explain what he said , what he tried to say is that we must remember that the first law of the universe is mentality.
-
-So mentality is talking about the mind , that the universe is only mind. And that the mind is so wide that there 's no limitations on the mind. Nobody can take you , what you think , nobody can take you , what you have inside.
-
-So this is the only freedom that you have , your own thoughts , your own imagination is your only freedom.
-
-So that 's why you can do whatever you want to do with your freedom. To whatever. It 's free , but it 's so much , so much that we can be free in that eternity that we can get lost in that eternity. This is why the universe limit itself in patterns.
-
-The patterns help the infinity to find a way apart.
-
-Okay , so what he said is coherence is the way in which you can put order in those patterns. The patterns by that can help you to move forward in the infinite of you. That would be the advice he gave. And then another thing.
-
-And here 's when we have to be very serious and to be a lot of attention.
-
-So let 's have this image. Let 's have this image of schools that I used before.
-
-So you picture this , you are there , like the students. The students , you have the teacher here , given a class. And then you have the supervisors that come sometimes to see how you 're doing , teach something they leave. And then you have the directors that they do n't usually come.
-
-They only come for big events or important moments.
-
-So he said , we are like part of one school. And this is the school with all the students that are listening to you.
-
-So everyone listening and feeling and resounding with you , they are part of our school.
-
-So we are like kind of the supervisors and directors and masters of this school that you have here. But there are many schools around the world. We have schools in India with the gurus. We have other schools of charity in Europe.
-
-We have other schools in North America within Diff , Americans , the schools of the Andes.
-
-So many schools. And each school has its own masters , it 's own teachers. And they are teaching in a different their own knowledge.
-
-So he said that soon , next year and also , in between next year and 2022 , all the schools are getting premier for kind of an exam or a job that everyone must do together.
-
-So each one is prepared itself in its own areas to do their part. And this is a team work on education.
-
-So each one of the schools are like universities.
-
-So each one has its own area of expertise.
-
-So some of them are engineers. The other school or universities for architecture , the other ones are doctors. The other ones are philosophers. Each school has its own expertise.
-
-But we all somehow , in a moment , we have to work all together. But to work together is not that everyone has to be in the same place. To work together is to acknowledge that each one of the other schools are doing what they are supposed to do. And each one of these schools work like a wheel , like in this , in a clock.
-
-And what he said was , we have to work hard because in this mission that we all share , there is no school that should n't be a lamp. Everyone must do its work.
-
-So there is no possibility to fail because if one fail , the whole clock stops.
-
-So he said , you 've not been months to finish your studies. After the studies comes practice. And after the brass , the exam.
-
-So what we are doing here are basically two things. The main one and the most important one is that we are working for ourselves for who we are.
-
-So it does n't matter what it 's going to happen in nine months. It does n't matter what it 's going to happen in 2022. It does n't matter where it 's going to happen any moment.
-
-Okay , that 's not matter. Because what we are doing here is working in ourselves. Nothing else matters. But the second one is that they say , okay , if you are working in yourself , so you will realize that you are part of a bigger thing.
-
-So when you become coherent , whatever you do , starts to affect the rest.
-
-So this is why we know that we can work with you. In the whole thing , in the whole environment , not only in the self.
-
-So we start to be in service.
-
-So one thing to say about this , what we are doing here , okay , is to work with ourselves. But now one , no one , sorry , no one , that is listening to this. No one that is doing everything this , everything that we are doing here , every alignment , everything. No one is obligated to be on service because service is not by obligation.
-
-Nobody can tell you what to do to do on service. Nobody , because service only comes from the heart. We are here to work in ourselves. And if within you , you awake , the coherence and the potential of saying , I want to be in service for the rest.
-
-So we will do the job when the time comes. But no one here , no one here watching this must feel obligated to be pushed to do something if they do n't feel it. If you do n't feel it , okay , that is the main thing to know.
-
-So you do n't feel the pressure of doing something that you do n't feel , okay? Nobody can tell you to be in service. That 's only something that comes from your heart , from your own self , when the time comes.
-
-So this is something that I am saying , that I am saying to you , not them. They are saying , we have come here with our responsibility.
-
-So yes , of course , we have a responsibility , but responsibility is not equal to obligation to do something.
-
-Okay , so you are not obligated to do anything. This is service through responsibility.
-
-So by saying this , let 's go to speak about anger.
-
-So just to let you know , all this that we in and the nine months coming ahead. This is all time to prepare to study.
-
-Okay , what we are doing now is to study.
-
-So this is what we are doing now. But then we have next year August September of October of November , December and January , 2022. This six months will be for practice. I have no idea what is the practice.
-
-So do n't worry about it now. Just let 's go into study.
-
-So this topic that we are going to discuss today is deep , but easy , I guess.
-
-So let 's go to the point.
-
-So anger , anger , we relate this emotion as if it is against law. It 's like the lower violent energy from the low of our body that press and pushes to the war to fight to range.
-
-Okay.
-
-So by culture , of course , we have said that anger is something wrong and something negative that we have to get rid of. But as always , and with every concept , when we are going to do today , is to talk about the positive aspect of anger.
-
-So first of all , let 's try to understand what anger means. Anger comes from the word , anger in the European languages , that it means to be repressed , trapped , compressed in one spot.
-
-## Energy Work
-
-So in Latin , we have another root for this word , which is Ira , that comes from Ace , Ace means a very fast movement. That 's what it means.
-
-Something very violent and very quick , fast.
-
-So these two concepts are very important to understand the rage , the anger of which we are going to speak.
-
-We are going to speak about.
-
-So this energy , the energy of the vital energy that is created in our body , is all created in our genitals. And from the genitals , it comes up going to the head. But all this energy that comes from below is based on the need , is based on the desires.
-
-So all the energy that is created there is created by the impulse , is impulsive energy , that is to get stuff that is willing to do to take action. And this energy is so impulsive that most of the people that are talking about spirituality perceive or have perceived this energy as something that is wrong , as something that it does n't allow you connect with the spirit , because it 's all related to the ego , all related to the desire , the needs , and we have to get rid of that or control that.
-
-So this is why for thousands of years , the virtual people and the mind people , what they did was to try to control this energy , to control all these impulses , because they said this is not good , because this is from the ego , it 's not spiritual.
-
-So we have to control it. What they did was to put all that impulse in a cage , because this impulse is so errant , you , you erratic , you have no idea what is going to happen.
-
-So that 's why we call it error , okay? And because it 's this is erratic , so an error , what we do is to control it , because this is the problem of all our conflicts , the origin of all our problems. That 's why they call it the guilty one , and the guilty one is in the Latin language , they call it son , which is sin in English , okay?
-
-So the sinners , okay , have this energy of the impulse.
-
-So what the people did in that time was to create by morality , by morality , by my religion , they created a division of the body , call it this the pure , above from the heart , and from theplex to the impure.
-
-So what we have to do is to get rid of all the impure that we have in our body , all the desires , all the needs , and we call that the main sins of our society , so we go into the spirit.
-
-So the problem that we have here is that all the pressure of energy that goes up to connect with the spirit is created in the genitals.
-
-So what happened with this energy is that these people , by culture , by religion , by laws , they got trapped this energy here , so it does n't go up , and they do everything as possible to make it disappear , to put , to turn off the fire.
-
-So the energy of the genitals can not move , but against all expectations , this fire never , never ends. It is continually creating itself.
-
-So this means that the energy of the genitals starts to be more and more and more , so as much I try to set off the fire , the fire will try to go up.
-
-So we are not allowing this fire to move softly up , and we feel this fire going like explosions , like , oh , oh , exploding everywhere without purpose.
-
-So the same energy that we create in our body , and that is pushing , imposing us to go towards the spirit is the same energy that we interpret , rage and anger. The explosion of all this vital , vital energy that is trying to create , that 's what creates chaos , destruction , thing and the same energy that is destined to create is the same energy that ends up destroying. What we have here now is that the reason why this energy creates this is by importance. What is importance to be important , basically comes from the word important , which to have the will to can to be able to have the power.
-
-So this is importance means not to have power , which is the negative in not to have power.
-
-So if I press this energy and I am not allowing it to move to set all its energy for what it was created , what it was created for , which is to transform to create to manifest.
-
-So I take away the power of my own energy , and if I take away the power I feel important , I can not do anything. And so all this energy that was created to manifest , try to find a way out , and that 's why we call anger and rage.
-
-So the last movement without any control.
-
-So what we have to learn today is that we are not here to get rid of anger and rage. We are not here to set ourselves free from those emotions.
-
-So the way in which you empower yourself is by being fully aware of your own body , of your own emotion and your own mind.
-
-So the first step would be to love your body to take care of the body. What you do of your own needs , your highest , your , to take care of your body , what you eat , to take care of the tree of life , which is your family tree , all the conflicts that have received from your family or all the diseases , the conflict that you have in your body , to learn to love your body and respect your body. Second one would be the soul , the emotion.
-
-So to recognize what are my emotions , which are them , what are my own emotions , what are the emotions that I inherited from the other ones , what are the , what are the emotions that I am expressing inside of me , what are the emotions that control my life.
-
-## Guided Meditation
-
-So the mind would be thoughts , the leaves , what are my beliefs , what are my thoughts , what are the good ones , the bad ones , what is my truth , what are my lines , what do I say , what they expressed to others , what I do shut up , what are my trauma. When I go through my body , my soul and my spirit is when I start to understand where I have the lack of power and it 's important to understand to know that you can not say , how can I get my power back or how to , how do I get my power back , and power again , it 's not like a blue or red peel , there 's no placebo for empowerment , there 's no therapy , there 's no meditation , there 's no one that can help you to get your power back. The only way you will get your power back is by acknowledging all the different parts where you had a lack of power.
-
-So you have to make a lot of insight work , you have to understand each part of yourself and this is why we are trying to do here , everyday taking a different information to understand , to watch and to take a side inside of us. We have to make this kind of self analysis of all that we have to understand where we have a lack of. The only way you can get the power back is not by taking it from somewhere outside , is by acknowledging where do you have , where do you have that lack inside. And why do you have that lack of power?
-
-So empowerment is not something that you just activate one day to another , is something you have to practice is constant , it takes a lot of time. This is why this implies a lot of autonomesis , a lot of self observation.
-
-## Q&A
-
-So this is not that in two years one year half when we do this task altogether , that 's it , we did it. No , when we did was a job that we had to do altogether , that 's why we are preparing ourselves. But after that , at the next day , we 'll keep going. We are just getting united to make a job together , but at the other day life keeps going.
-
-And the work inside keeps moving by your own , your own life.
-
-So this is why I invite you to think about what are all the emotions and the energies that you are keeping trapped inside of you. Because of shame , culture , religion , beliefs , because all of that is the energy that you need the now it 's anger or rage.
-
-So to understand that there is no one way of showing rage or anger. It 's not only the people that say , ah , it 's also the people that just look like this to someone like , that 's a right edge. There are people that express their anger hurting the other ones and there are people that they do n't express their anger and they only hurt themselves.
-
-So this is why when you think about anger , the anger you have is because you are feeling implant , important. That you feel that you are not being able to do something , that you do n't have the power to do something to be in action.
-
-So the question would be , who told you that you can not do it? Who told you that you do n't have the power to do something? Or when was the moment that you started to believe that you do n't have the power to do something?
-
-So first go to that moment and that person. And in that moment you say , well , I will do it and you do it.
-
-So as this being said yesterday , I ca n't think and believe anything that I can do , I can do whatever , but only thinking or believing it , it is like imagination. And it 's eternal and I can get lost there. This is why the only way to accomplish that is by doing it. My action.
-
-When I start to act , I take my power back.
-
-So I do n't need rage and anger anymore. The vibration for today is Vo. The goal for today is the 11th dimension. The information records manifested dimension , where all times become information that codificates spaces.
-
-This means the parallel dimension is best. If in the 8th dimension , all the possibilities of every mission can be contemplated in the 11th dimension , they become real and coexist.
-
-So let 's go to the alignment. To begin moving our shoulders and circles to this charge tension. And I take deep breathing , letting all the weight fall down. I just focus in my breathing.
-
-I become aware of the light around shining outside and within my being. And taking a moment to perceive all the people that I know around me. The good ones , the bad ones , according to my point of view. The closest ones in the far , the twins.
-
-All around. Without any distinction , I perceive how my inner light surround each one of those people. And how this brightest light reflect in each one of them. I recognize that all this people is part of my own body of my own eye with the shape of an ocean.
-
-And each one of those people are just a wave in the surface of the water. I take a deep breath and dive with the light. Going through the conscience of the unconscious , receiving the light , and thing , and both. And see you get deeper into the shadows , the darkness of the subconscious.
-
-As I get deeper , I perceive the pressure of this ocean on me. It 's pressure. It 's holding my potential , my power , keeping the energy in the shape of an angel. What are the amateurs that you recognize within the subconscious?
-
-What are the amateurs in your life? I recognize them , and I said the intention. I desire to motivate my rage , my honor , and get back my power. I desire to empower.
-
-And I rebound my desire. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I am too impatient of goals. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I am the sun. I am the light.
-
-I am the light. I am the power. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower. I desire to empower. I desire to empower.
-
-I desire to empower. I desire to empower.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Crown
+- **Week Theme:** Emotion (Scorpio)
+- **Main Topic:** Coherence in Infinity through Atlantean Wisdom
+- **Vibration:** Sana
+- **Statement:** "I see you in coherence with infinity"
+- **Code:** Supervisor consciousness holding wholeness
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Day 107 brings an unexpected gift: an Atlantean greeting and teaching about coherence. This is one of the most profound and unusual days in the entire year—Matias channels ancient Atlantean language and concepts that have been dormant for thousands of years.
+
+We work with the crown chakra today—the center of universal consciousness, connection to Source, and the ability to see wholeness beyond individual parts.
+
+The teaching centers on a single Atlantean word: **Sana**. This word, which Matias explains comes from his memory of Atlantean times, is both a greeting and a complete philosophy of consciousness. It means something like:
+
+**"I see you as you are in your coherence with infinity, even as you walk your individual path through time."**
+
+This is supervisor consciousness—the ability to hold awareness of both the individual journey and the infinite wholeness simultaneously, without judgment, without trying to fix or change, simply witnessing with love and understanding.
+
+To help us understand this concept, Matias uses the metaphor of a school supervisor—someone who watches children in a playground, seeing all their struggles and learning processes, but doesn't interfere unless truly necessary. The supervisor sees the bigger picture: these children are learning, growing, becoming. The individual conflicts are part of the process.
+
+---
+
+## Core Teaching
+
+### The Atlantean Word: Sana
+
+Matias begins by explaining that in his memories of Atlantis, there was a greeting that carried a much deeper meaning than our modern "hello" or "hi."
+
+**Sana** (pronounced "SAH-nah") was used when greeting someone, but it didn't just mean "hello." It was a statement of consciousness, an acknowledgment of the other person's wholeness.
+
+The closest translation:
+
+**"I see you in your coherence with infinity."**
+
+Or more fully:
+
+**"I recognize you as a complete being, coherent with the infinite whole, even as you experience your individual path through time and space."**
+
+This greeting was a reminder—both to yourself and to the other person—that despite whatever individual struggles, confusions, or challenges are happening, you are fundamentally coherent with infinity. You are whole. You are part of the infinite. You are on your path.
+
+### Coherence
+
+The key concept here is **coherence**.
+
+In physics, coherence means waves that are in sync, aligned, harmonious—like light in a laser where all photons move in the same direction with the same frequency.
+
+In consciousness, coherence means:
+- Alignment between your parts (mind, body, heart, spirit)
+- Alignment between your individual self and the infinite whole
+- Internal consistency and integrity
+- Harmonious relationship with what is
+
+**You are in coherence with infinity** means:
+
+Even when you don't understand it, even when you're struggling, even when you feel lost or broken, you are fundamentally aligned with the infinite intelligence that creates and sustains all things. Your individual path, with all its apparent chaos, is coherent with the whole.
+
+This is a radical perspective. It means there are no mistakes, no wrong turns, no failures. Everything is coherent with infinity—including your struggles, your confusions, your "dark night of the soul" moments.
+
+### The School Metaphor
+
+To help us understand this supervisor consciousness—this ability to see coherence even in apparent chaos—Matias offers a beautiful metaphor:
+
+Imagine you're a supervisor in a school playground. You're watching children play during recess.
+
+From your adult perspective, you can see:
+- Two children fighting over a toy → They're learning about boundaries, sharing, conflict resolution
+- A child crying alone → They're learning about emotions, solitude, self-regulation
+- Children forming groups and excluding others → They're learning about belonging, hierarchy, social dynamics
+- A child trying and failing at climbing equipment → They're learning about perseverance, limits, capability
+
+As the supervisor, you don't rush in to fix every conflict or prevent every fall (unless there's real danger). You understand that **the struggles are the learning**. The children need to work through these experiences to grow.
+
+You hold awareness of the bigger picture: These are not problems to be solved. These are lessons being learned. These children are on their paths. They are coherent with their growth process.
+
+From the children's perspective, these experiences are enormous—traumatic, overwhelming, all-consuming. The child fighting over the toy can't see the learning; they only feel the injustice, the anger, the want.
+
+But you, as supervisor, can see both:
+- The individual child's experience (real, valid, intense)
+- The coherence of that experience with their growth path (part of learning, part of becoming)
+
+**This is the consciousness of Sana: seeing both the individual struggle and the coherence with infinity simultaneously.**
+
+### Supervisor Consciousness
+
+This is crown chakra awareness—the ability to hold the perspective of the whole while honoring the individual.
+
+Most people live only in the individual perspective:
+- "This is happening to me"
+- "This is wrong"
+- "I'm broken"
+- "I need to fix this"
+- "Why is this happening?"
+
+The supervisor consciousness adds the wholeness perspective:
+- "This is happening for my growth"
+- "This is coherent with my path"
+- "I am whole, even in this struggle"
+- "This is part of the learning"
+- "This is exactly what needs to happen"
+
+**But here's the key: You don't use the wholeness perspective to bypass the individual perspective.**
+
+The supervisor doesn't tell the crying child, "Stop crying, this is just a learning experience, you're fine." That would be cruel, dismissive, harmful.
+
+The supervisor holds both: validates the child's real pain AND knows it's coherent with their growth.
+
+Same with yourself. You don't tell yourself, "My pain doesn't matter because it's all coherent with infinity." That's bypassing.
+
+You say: "My pain is real, valid, important AND it's coherent with my infinite path. Both are true."
+
+### Sana as Practice
+
+When you greet someone with "Sana," you're practicing this consciousness:
+
+- I see your struggle (individual perspective)
+- I see your wholeness (infinite perspective)
+- Both are true simultaneously
+- I hold this awareness for you
+- I don't need to fix you
+- I don't judge your path
+- I recognize you as coherent with infinity
+
+This is incredibly healing. To be seen this way—not as broken and needing fixing, but as whole and on your path, even in your struggles—is profoundly validating.
+
+And when you see yourself this way—**Sana to myself**—you give yourself the same gift:
+
+"I see myself in my coherence with infinity, even as I struggle through my individual path."
+
+### Why This Teaching Appears in Scorpio Week
+
+This might seem like a strange teaching for Scorpio's emotional week. We've been diving into difficult emotions—resentment, sadness, melancholy, hypocrisy. Why suddenly an Atlantean greeting about coherence?
+
+Because **this is the integration**.
+
+After examining all these challenging emotions, after diving into the shadow, after facing hypocrisy and attachment and pain, you need the supervisor consciousness to make sense of it all.
+
+You need to be able to say:
+
+**"All of these struggles, all of these emotions, all of these shadow aspects—they are coherent with my infinite path. They are not mistakes. They are not failures. They are the curriculum of my growth."**
+
+Sana is the crown chakra's gift after the Scorpio week's deep emotional work: the ability to see it all as coherent with infinity.
+
+### The Atlantean Connection
+
+Matias explains that this greeting comes from his memory of Atlantean times—a civilization that existed thousands of years ago (according to his recall and channeled information).
+
+In Atlantis, language was vibrational. Words carried not just meaning but energetic transmission. **Sana** was a sound that activated the awareness of coherence—both in the speaker and the receiver.
+
+When you say "Sana" to someone, you're not just conveying information. You're transmitting a frequency that helps them remember their coherence with infinity.
+
+This is why we're asked to use it as today's vibration practice. Speaking it, intoning it, feeling it—this activates the crown chakra and attunes us to supervisor consciousness.
+
+### Application to Daily Life
+
+How do you use this teaching practically?
+
+**When witnessing others:**
+- See their struggles as part of their path
+- Don't rush to fix or change them
+- Hold awareness: "They are coherent with infinity, even in this"
+- Offer support when asked, but don't take responsibility for their journey
+- Trust their process
+
+**When witnessing yourself:**
+- See your struggles as part of your path
+- Don't judge yourself as broken or wrong
+- Hold awareness: "I am coherent with infinity, even in this"
+- Seek support when needed, but trust your process
+- Honor both the pain and the wholeness
+
+**In relationships:**
+- Greet others with the consciousness of Sana (even if you don't say the word)
+- "I see you in your wholeness, not as a project to fix"
+- This creates space for authentic connection
+- People feel safe when they're not being judged or fixed
+
+### The Crown Chakra
+
+The crown chakra is the portal to universal consciousness—the ability to see beyond individual perspective into infinite wholeness.
+
+When the crown is open:
+- You can hold multiple perspectives simultaneously
+- You see both individual and collective
+- You recognize coherence in apparent chaos
+- You trust the larger process
+- You don't need to control or fix everything
+
+When the crown is closed:
+- You're trapped in individual perspective only
+- Everything feels random, chaotic, wrong
+- You feel separate from the whole
+- You need to control and fix
+- You can't see the bigger picture
+
+Sana is a key that opens the crown—it's a vibrational reminder of your coherence with infinity.
+
+---
+
+## Practice
+
+### Sana Activation (Crown Chakra)
+
+This practice activates supervisor consciousness through the Atlantean vibration of Sana.
+
+**Preparation:**
+- Sit comfortably
+- Place hand on crown of head or slightly above
+- Breathe deeply
+- Set intention: "I open to coherence with infinity"
+
+**The Practice:**
+
+1. **Attune to the vibration** (5 minutes)
+   - Begin to tone the word "Sana" (SAH-nah)
+   - Let it be slow, resonant, vibrational
+   - Feel where it vibrates in your body (crown, throat, heart)
+   - Continue toning: "Sana... Sana... Sana..."
+   - Let the sound activate your crown chakra
+   - Don't worry about doing it "right"—the intention matters
+
+2. **Apply Sana to yourself** (7 minutes)
+   - Think of a current struggle in your life
+   - Feel the individual perspective: the pain, confusion, difficulty
+   - Don't bypass this—feel it fully
+   - Then say to yourself: "Sana—I see myself in coherence with infinity"
+   - Hold both: the struggle is real AND it's coherent with your path
+   - Breathe into this dual awareness
+   - Repeat: "Sana" as you hold both perspectives
+
+3. **Apply Sana to another** (7 minutes)
+   - Think of someone you love who's struggling
+   - Feel your desire to help, fix, save them
+   - Notice the contraction in trying to control their path
+   - Then say: "Sana—I see you in coherence with infinity"
+   - Release the need to fix
+   - Trust their process
+   - Hold both: their pain is real AND they're coherent with their path
+   - Repeat: "Sana" as you hold both perspectives
+
+4. **Supervisor perspective** (7 minutes)
+   - Imagine yourself as the school supervisor
+   - See yourself and all humans as children in a playground
+   - Everyone is struggling, learning, growing
+   - From this perspective, nothing is wrong
+   - All experiences are coherent with growth
+   - You don't need to intervene in every struggle
+   - You hold loving awareness of the whole
+   - Rest in this supervisor consciousness
+
+5. **Integrate the teaching** (6 minutes)
+   - Return to normal awareness
+   - But bring the supervisor consciousness with you
+   - You can now toggle between perspectives:
+     - Individual (my pain, my struggle, my experience)
+     - Supervisor (I am coherent with infinity)
+   - Practice moving between them
+   - Both are true
+   - Both are valid
+   - Both are needed
+
+6. **Closing** (3 minutes)
+   - Say "Sana" one final time
+   - To yourself
+   - To all beings
+   - Feel the recognition of coherence
+   - Open eyes when ready
+
+---
+
+## Key Insights
+
+- **"Sana is an Atlantean greeting meaning: I see you in your coherence with infinity."**
+
+- **"Coherence means alignment between your parts and alignment between your individual self and the infinite whole."**
+
+- **"Supervisor consciousness sees both the individual struggle and the coherence with the larger path simultaneously."**
+
+- **"Like a school supervisor watching children learn through their struggles, we can witness ourselves and others with loving awareness rather than fixing."**
+
+- **"You are coherent with infinity even when you don't understand it, even when you're struggling, even when you feel lost."**
+
+- **"The supervisor doesn't bypass the child's pain—they validate it AND know it's part of the learning."**
+
+- **"Sana is both a greeting and a vibrational activation of crown chakra awareness."**
+
+- **"After Scorpio week's deep emotional work, Sana offers the integration: all struggles are coherent with your infinite path."**
+
+- **"When you greet someone with Sana consciousness, you see them as whole, not as a project to fix."**
+
+- **"The crown chakra allows you to hold multiple perspectives: individual and infinite, struggle and wholeness."**
+
+- **"Don't use infinite perspective to bypass individual experience—hold both as true simultaneously."**
+
+- **"Atlantean language was vibrational—words transmitted frequency, not just meaning."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Sana Greetings:**
+
+This week, practice greeting people (silently or aloud) with the consciousness of Sana:
+
+- When you see someone struggling, silently say: "Sana—I see you in coherence with infinity"
+- When you notice yourself struggling, say: "Sana—I see myself in coherence with infinity"
+- Feel the shift from "something's wrong that needs fixing" to "this is coherent with the path"
+
+You can also use the word "Sana" as an actual greeting with friends who understand, or simply hold the consciousness without saying the word.
+
+### Weekly Focus
+
+This is day 7 of Scorpio week—the completion of the emotional deep dive. You've explored resentment, sadness, melancholy, hypocrisy, and more. You've faced shadow aspects you usually avoid.
+
+Now comes the integration: **all of it is coherent with your infinite path.**
+
+The struggles weren't mistakes. The shadow work wasn't proof of brokenness. The difficult emotions weren't failures. They were the curriculum. They were the playground. They were exactly what needed to happen.
+
+Sana is the supervisor's loving acknowledgment of this truth.
+
+### Living the Teaching
+
+Practice supervisor consciousness throughout your day:
+
+- When you witness someone's struggle, resist the urge to fix. Hold Sana consciousness.
+- When you witness your own struggle, resist the urge to judge yourself as wrong. Hold Sana consciousness.
+- Notice the difference between caring (which honors both pain and wholeness) and fixing (which only sees brokenness).
+
+The supervisor doesn't abandon the children—they're present, loving, aware. But they trust the process. They know the struggles are the learning.
+
+You can be present for yourself and others without taking on the burden of fixing every problem. This is the gift of Sana.
+
+---
+
+## Q&A
+
+**Q: How is Sana consciousness different from spiritual bypassing?**
+
+A: Bypassing uses the infinite perspective to avoid feeling the individual perspective. It says, "Your pain doesn't matter because it's all an illusion/lesson/divine plan." Sana holds BOTH: your pain is real, valid, important AND it's coherent with your infinite path. You feel the pain fully AND you trust the process. Both truths simultaneously, not one instead of the other.
+
+**Q: Can I use Sana even if I don't believe in Atlantis?**
+
+A: Yes. Whether Atlantis existed historically or is a symbolic memory doesn't matter for the practice. The teaching and the vibration are valuable regardless of their origin story. Use what serves your consciousness; release what doesn't.
+
+**Q: What if someone's struggle is genuinely harmful or dangerous? Don't I need to intervene?**
+
+A: The supervisor intervenes when there's real danger—that's part of the role. Sana consciousness doesn't mean passive acceptance of harm. It means: see the coherence with their path AND act when necessary. You can hold wholeness perspective while still setting boundaries, offering help, or taking action. The difference is you act from clarity, not from panic or judgment.
+
+**Q: How do I know when to hold supervisor consciousness vs. when to dive into my individual experience?**
+
+A: Both are always available. You toggle between them based on what's needed. When you're in the middle of strong emotion, dive in—feel it fully from individual perspective. When you need perspective or integration, shift to supervisor consciousness. They're not exclusive; they're complementary. The crown chakra allows you to move fluidly between them.
+
+**Q: What if I can't access supervisor consciousness? What if I'm stuck in individual suffering?**
+
+A: This is normal and human. Supervisor consciousness is a practice, not a permanent state. When you're deep in suffering, you might not be able to access it—that's okay. Feel what you feel. Later, when there's space, you can practice the shift. Over time, it becomes easier to toggle between perspectives even in the middle of struggle.
+
+**Q: Can I say Sana to someone who's hurting me or who I'm in conflict with?**
+
+A: Yes, but silently, as an internal practice. It helps you see that they, too, are coherent with their path, even in their harmful behavior. This doesn't excuse the harm or mean you don't set boundaries. It means you recognize their wholeness while still protecting yourself. You can hold Sana consciousness AND leave a toxic relationship. They're not contradictory.
+
+**Q: Is Sana the same as "namaste" or other sacred greetings?**
+
+A: Similar energy, different nuance. "Namaste" means "the divine in me bows to the divine in you." "Sana" means "I see you in your coherence with infinity." Both recognize sacred wholeness in the other. Use whichever resonates more for you—they're pointing at the same truth from different cultural/linguistic perspectives.
+
+**Q: How can horrible things be "coherent with infinity"? What about abuse, war, tragedy?**
+
+A: This is the hardest question. Sana consciousness doesn't mean horrible things are "good" or "meant to happen." It means: even in the darkest experiences, you are not separate from the infinite. Your path, however painful, is not a cosmic mistake. This is about finding meaning and wholeness, not justifying suffering. It's a perspective for integration, not an excuse for harm.
+
+---
+
+## Closing Reflection
+
+Day 107 brings you an ancient gift: the Atlantean greeting **Sana**—I see you in your coherence with infinity.
+
+After six days of deep emotional work in Scorpio, diving into shadow, examining resentment and hypocrisy and melancholy and all the parts you usually hide—you need this supervisor consciousness to integrate it all.
+
+You are not broken. You were never broken. You are coherent with infinity, even in your struggles, even in your shadow, even in your deepest pain.
+
+The struggles are not mistakes—they are the curriculum. The emotions are not failures—they are the lessons. The shadow is not proof of unworthiness—it's part of becoming whole.
+
+Think of the school supervisor watching children learn through their conflicts and falls. The supervisor doesn't judge the children as wrong or broken. The supervisor sees: this is growth happening. This is the path.
+
+You can offer yourself this same consciousness. You can offer it to others.
+
+When you greet someone—whether silently in your heart or aloud with the actual word—with the awareness of Sana, you're saying:
+
+**"I see you as whole. I see your struggle as real. I see your path as coherent with infinity. I trust your process. I don't need to fix you. I hold loving awareness of both your individual journey and your infinite nature."**
+
+This is crown chakra consciousness—the ability to see wholeness without denying the parts, to see infinity without bypassing the individual experience.
+
+Both are true. Both matter. Both are sacred.
+
+The pain is real. The coherence is real. Hold both.
+
+Sana.
+
+*Day 107: Seeing coherence with infinity through all struggles.*

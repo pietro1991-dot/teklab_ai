@@ -1,436 +1,153 @@
 ---
-title: "Day 95 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
-day_number: 95
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 95
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hold
-  - month hole
-
+title: "Day 95 - Anguish: The Meeting Point of All Emotions"
+author: Matias de Stefano
 practice_elements:
-  chakra: "Crown"
-
+  vibration: "BEN"
+  statement: "I am the expansion of the being"
+  chakra: "Root Chakra"
+  law: "Law of Evolution"
+date: "Day 95"
+week: "Mental Week"
+month: "Scorpio"
+keywords:
+  - anguish
+  - existential questions
+  - offerings
+  - Orion war
+  - cabal
+  - illuminati
+  - meaning
+  - nonsense
+  - emotions
+  - responsibility
+  - productivity
+  - awareness
+  - darkness dimensions
+  - Hebrew tradition
+  - conspiracy theories
+  - education
+  - symbiosis
+  - crisis
+  - awakening
+  - sadness
 ---
 
-# Day 95 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+# Day 95 - Anguish: The Meeting Point of All Emotions
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+**Vibration**: BEN  
+**Statement**: "I am the expansion of the being"  
+**Chakra**: Root Chakra  
+**Law**: Law of Evolution - The natural and biological law of evolution implies constant adaptation to the environment that in turn modifies itself. Even though we attribute it to the natural world, it's transverse to all dimensions. For duty in systems cosmic change, all living and ethereal beings are forced to adapt to modify the realities.
 
-## Introduction
+## Overview
 
-Hi everyone. Good morning , afternoon. Good evening. We have two weddings around.
+Anguish is not born from a single cause or specific reality—it is the emotion that emerges when all other emotions gather together in one point, so tightly compressed that none of them can move. It is the existential crisis that asks: "What for? Why live? Why all of this?" Anguish comes from not understanding the answer to the meaning of everything, the ultimate "why?" that transcends any specific situation. When we are so accustomed to feeling emotions constantly moving through us, the sudden stillness when all emotions stop—like in a shock—is what we interpret as anguish. This stabilization of all emotion into one unmoving point feels like emptiness, like meaninglessness.
 
-I had to move to another place as always.
+Yet anguish is actually a powerful tool. If we can move beyond the emotion of anguish itself, we realize it is an opportunity to start again, to create something new. After we use anguish as a tool to reach the creator within, we recognize ourselves as the creator, and in that moment, we become love. From love, we begin to expand into new creation. We live in a society designed for productivity, where anyone feeling sadness, depression, or anguish is seen as not useful. Our unconscious has been trained to perceive these emotions as bad, something to avoid. But when we respect the time of an emotion and see beyond the emotion itself, we reach the reason why we feel it—and that is where true productivity begins.
 
-## Q&A
+Understanding anguish also requires clarifying historical distortions. The Orion war involved conflicts between dimensions, but it is separate from the darkness we work with on Earth. Aliens have their own problems and wars—they are not gods. The cabal originally referred to the Kabbalah, the study of divine information in Hebrew tradition, but Christians persecuted Jews and twisted the word to mean people trying to control power. Similarly, the Illuminati were 18th-century scientists who created education, science, democracy, and free press—the foundation of modern civilization. A few individuals later used these organizations for control, but we should not blame entire traditions or groups for the actions of a few. This kind of blanket condemnation is the same prejudice we reject in other contexts.
 
-So for those people who are asking how is that , that energy we do n't have , the lockdown , because of COVID , I should say that here in Egypt has not been locked down for many months.
+## Core Teaching
 
-So there 's not a lockdown here. But I do n't know if that is because Africa is doing it really well or because we all have COVID , so nobody noticed. We do n't really know.
+### The Nature of Anguish
 
-So I guess Egypt is doing better than Europe and America 's.
+Anguish is the emotion that appears when you can't understand the answer to "what for?"—the purpose behind existence itself. It's not related to something specific in reality but to everything: the meaning of all of it. Anguish is like all other emotions putting themselves together so tightly that none of them can move, none of them know where to go. There's no meaning in the movement. This emotion is not born from a war or from winning or watching conflict—it comes from not understanding the meaning of why there is war, why this, why that, why everything. The existential questions—Why are we living this reality? Why are we here?—these are related to anguish.
 
-So we are doing it so wrong that nobody cares.
+### Anguish as a Tool for Awakening
 
-So today I must say that I have been a little bit weird. I think you were doing the worship today in English.
+Anguish is born from nonsense, and we have spoken before about how nonsense—the ugly, the meaningless—is a state through which we understand that our mind, our self, is the only one capable of giving meaning to things. The biggest nonsense, which is anguish, is what helps us find the biggest meaning of everything, which is love. The universe was created from love, and the created finds the origin of the universe through anguish. We may say it's unfair and horrible that we can only feel unity through anguish, but in our life experience, we all found the truth, the power of the divine, the process of awakening, through a crisis, through anguish. When all emotions stop in shock, everything stabilizes, and if we accomplish to go beyond the emotion itself, we realize that moment is an opportunity to start again, to create something new. After using anguish as a tool to reach the creator, we realize we are the creator, and in that moment we become love and start to expand new creation.
 
-So sorry that I have to leave. I will try to finish it in another moment. But basically , I have a stressed suddenly. Not like stress of being nervous , but just stress inside.
+### Society's Relationship with Emotions
 
-And this is because , of course , I am not teaching you things.
+We live in a society designed to be productive. Everyone says we have to work—in the fields, in factories, in education, in society—we have to be useful for everyone. In all societies, if you are not working, you are not useful. Whoever is feeling sad, depressive, or with anguish is not useful for society. The unconscious of society has designed a system where we perceive that feeling those emotions is not useful, so it's bad, so we have to avoid them. Otherwise, we're not productive. In our society, we all say "don't cry," "I don't want to feel like this." We have an addiction to happiness—for others and for ourselves. It's like an addiction to sugar. The reason we don't allow ourselves to live the process of an emotion is because we feel unproductive. But if we respect the time of that emotion and see beyond the emotion itself, we can reach the reason why we're feeling it. That's how we become more productive—when we transform the unproductive anguish into productive description, we find the light.
 
-So you do the process. I am doing the process with you every day. There are many things that I have no idea that I am going to touch to speak to ride.
+### Clarifying Orion, Cabal, and Illuminati
 
-So for me , it is also a process.
+Many people ask about the Orion war and wonder how it relates to the teaching that there is no good and bad, no demons. These are not directly related. Even if aliens seem to know everything and be so connected and enlightened, they are also aliens—they have their problems, their lives, their stuff. They have wars between their own dimensions. Dogs look at us as great beings, like gods, amazed at what we do, yet we humans have all our conflicts and problems. Similarly, there is darkness in every dimension, of course. But only we in our reality have shaped darkness into demons with animal forms. This is our darkness. Other planets and dimensions have their own way of darkness and their own conflicts according to their reality. They have to solve theirs; we have to solve ours.
 
-So today was a hard work inside for me. And suddenly I had the the the the workshop in the campus. And I suddenly got this stress where I lost the connection. I lost the.
+Regarding the cabal: its origin is Kabbalah, a study of the Torah, the information behind the information of God according to Hebrew tradition. It's about philosophy and explaining how the universe is created. Hebrew people were persecuted in Europe by Christians for a long time because they had no country. They created cabalistic education that was difficult to understand so they wouldn't be killed. Christians started to create the concept of "cabal" to talk about people trying to take power and related them with Jews. This created the idea of conspiracy with the word cabal. Now we use "cabal" for people trying to control the world, but we should not put everyone together in the same package. There are some crazy people trying to control the world, yes, but it doesn't mean all cabalistic people or those who study Kabbalah are trying to rule the world.
 
-I lost it.
+The Illuminati were born in the 18th century—scientists trying to help us think by ourselves. They created education, science, democracy, republics, free press. Everything we have today is because of the Illuminati. "Illuminati" in Italian means "the lighted ones"—the illustrated, the enlightened. The time of illustration between the 17th and 18th centuries created the foundation of our civilization. Three or four people later said, "If we're trying to educate the whole population, that takes a long time, so it's better to control them." Those few started this idea of conspiracy. But at first, the Illuminati created everything we value. We shouldn't say all of them are part of an evil organization. How would you feel if people said all New Age people are frauds trying to steal from you? It's not all of us, and it's the same principle.
 
-So emotionally and mentally I felt like I was forgotten.
+### The Real Point: Education Over Fighting
 
-So that 's why I needed to cut the the connection today in the worship. And to to pay attention to my body that that told me to rest and sleep.
+We should not go against institutions and organizations. Our main goal is to educate people, not to fight them, because when you fight, you give strength to the organizations. Behind the organizations, there are only three or four people who are mistaken or misguided. We have to find balance and educate much more than fight. When we look around and perceive that everyone is fighting everyone, the good ones fighting the bad ones, but all of them are mistaken, and it's constantly like this—it seems meaningless. There's no sense. People start to lose the meaning of everything. That's where anguish appears. The only solution is to understand that behind all this, we find anguish because we see the futility of endless conflict. The answer is to stop blaming institutions and start taking responsibility for educating ourselves and others.
 
-So I did it. No doubt.
+### Becoming Aware of Emotions
 
-So that 's. That 's because of working with the self daily.
+It's not about controlling emotions. If we feel sadness, if we feel anguish, we have to feel it. We have to ask ourselves why we feel it and try to understand the feeling—not how to get rid of it. One of the greatest mistakes we usually make is believing we are here to control emotions. We are not here to control them; we are here to understand them. Trying to control emotions is like trying to control another culture because you don't understand their language—that's not good. We have to put awareness on why we are feeling what we feel. This practice is not about living without anguish or finding a new time without anguish to live happily ever after. What Matias is explaining is not emotions-free living; it's giving you tools to understand how to create your own realities. What you do with that is your thing. If you use this to become happy, good for you. If you use this to clean anguish from your life, good for you. If you take this to create a new world, good for you. It's all about how you use it—be free.
 
-So I did n't say worship. I said workshop workshop. It was a conference I was doing in the conference in in the campus. Our thing.
+## Practice
 
-So of course you will you will see myself changing a bit like. With all this work , the inner work. That 's normal that sometimes you would see me like low energies.
+The meditation today takes you to the core of your being to ask your subconscious and the darkness within to reveal the source of your anguish, so you may transform it.
 
-Sometimes very happy. It 's changed constantly.
+**Preparation**: Sit comfortably. Move your shoulders in circles to relax the weight of the body. Let all the weight fall down, focus only on your breathing. Feel the light around you touching your skin and getting inside your bones, organs, and muscles. Feel the brightness of all your being, shining outside and inside.
 
-So of course. According to my personality. I 'm Leo.
+**Descent of the I Am**: Recognize yourself as the I Am, the higher self that descends to your body. Take a deep breath and perceive how you descend inside through the crown, going through third eye, throat, heart, solar plexus, sacrum, root, knees, and ankles.
 
-So I have no problem to be here. Speaking to thousands of people. And be myself. I do n't care.
+**Setting the Intention**: Manifest your intention to go to your anguish. Think of the concept of love—not romantic love, but the existential meaning, the eternal energy that allows all other emotions to exist.
 
-I like this. But I have my other health which is. I have my other health which is.
+**Journey to the Core**: Descend from your feet toward the ground, going deeper through the crust of the world, roots, and stones, rocks. Continue going out from the crust, heading toward the nucleus through the magma, feeling its heat and pressure.
 
-So I have my other health which is.
+**Meeting the Questions**: As you turn faster toward the core of iron at the heart of Earth, recognize in the core of the world all the questions that create your life: Who? Why? What for? Where? When? All these questions you ask yourself. Don't expect any answer—just recognize them as the tools from confusion to find information. Feel the pressure of all the questions of your existence.
 
-So sometimes I need. For me to be quiet alone. Nobody to ask me things. Nobody to be around.
+**Vibration**: Calibrate the questions with your vibration. Repeat the sound **BEN** from deep within.
 
-And just to be myself inside the cave. And being alone. I do n't have to. But I need to clarify things because of this pedagogy that I have inside.
+**Statement**: Repeat: "I am the expansion of the being. I am the expansion of the being. I am the expansion of the being."
 
-And I 'm saying clarify. I just to clarify this. There were some people concerned about. If I am in this state like.
+**Return**: Slowly bring your awareness back through the layers of Earth, rising through the magma, the crust, and back into your body. Take a deep breath and stretch your body. Open your eyes when ready.
 
-Like getting sick and with this cough and all this. Because of what I am channeling or or any. Anything that I am. Or saving from the energy going to the pyramids or whatever.
+## Key Insights
 
-And no it 's it 's not that. I be in feeling like this since March.
+- Anguish is the emotion that appears when all other emotions gather so tightly together that none can move, creating a sense of meaninglessness and emptiness.
+- It is not born from a specific cause but from existential questions: What for? Why live? Why all of this?
+- Anguish is actually a powerful tool—if we move beyond the emotion itself, we find it is an opportunity to start again and create something new.
+- After using anguish to reach the creator within, we recognize we are the creator, and in that moment we become love and expand into new creation.
+- We live in a society that values productivity, so emotions like sadness and anguish are seen as not useful, leading us to avoid them rather than understand them.
+- When we respect the time of an emotion and see beyond it, we reach the reason why we feel it—that's where true productivity and transformation begin.
+- We are not here to control emotions but to understand them; trying to control emotions is like trying to control another culture because you don't understand their language.
+- The Orion war and other dimensional conflicts are separate from the darkness we work with on Earth; aliens have their own problems and realities.
+- The cabal originates from Kabbalah, the Hebrew study of divine information, twisted by persecution into a conspiracy term; we should not condemn entire traditions for the actions of a few.
+- The Illuminati created the foundation of modern civilization—education, science, democracy, free press—though a few later used these structures for control.
+- Our main goal should be to educate people, not fight institutions, because fighting gives strength to what you oppose.
+- Anguish appears when we realize the futility of endless conflict between "good" and "bad"; the solution is responsibility and education, not more fighting.
+- Everything in the universe is connected by symbiosis; we must share with others to manifest our potential.
+- The practice is not about living happily ever after without anguish but about gaining tools to create your own reality—how you use these tools is your freedom.
 
-Okay.
+## Integration
 
-So it 's an inner process. I do n't blame any being anyone that I am channeling. It 's making me bad. Going to the pyramids.
+### Daily Exercise
 
-It 's not making me bad. If I feel wrong. If I feel sick. If I feel bad.
+Tonight before sleep, take five minutes to sit with any anguish, sadness, or heavy emotion you've been avoiding. Don't try to fix it or make it go away. Instead, ask it: "Why are you here? What are you trying to teach me?" Write down whatever arises. Remember, anguish is all your emotions compressed into one unmoving point—if you can see beyond the emotion, you'll find the opportunity to create something entirely new.
 
-It 's basically because. I allow it.
+### Applying the Wisdom
 
-So it 's my responsibility and my. Your responsibility. If I did n't take care of myself.
+Throughout your day, when you encounter sadness or confusion or the feeling that something is meaningless, resist the urge to immediately distract yourself or "be productive." Give yourself permission to feel the emotion for a few minutes. Ask: "What is the existential question behind this feeling?" Often anguish hides questions like "Am I living my purpose?" or "Does any of this matter?" These questions, when faced honestly, lead you to recognize you are the one who gives meaning—you are the creator. This is the transformation from anguish to awakening.
 
-So.
+## Questions & Answers
 
-So all this things the coaching all this things that I am feeling is basically my own. I 'm coherence trying to find its balance.
+**Q: What exactly is anguish, and why does it feel so heavy?**  
+A: Anguish is the emotion that appears when all other emotions gather together so tightly in one point that none of them can move. We are so used to emotions moving constantly through us that when they all stop—like in a shock—we interpret that stillness as anguish. It feels heavy because it's actually all your emotions compressed, stabilized, with no movement. We relate that moment of complete stillness to meaninglessness, to emptiness.
 
-So it 's just purging that.
+**Q: How can anguish be a tool if it feels so terrible?**  
+A: If you can move beyond the emotion of anguish itself—if you don't get stuck in the feeling but look at what it's showing you—you realize it's an opportunity to start again, to create something new. After you use anguish as a tool to get to the creator within, you realize you are the creator. In that moment, you become love, and from love you start to expand new creation. We all found the truth, the power of the divine, the process of awakening, through a crisis, through anguish.
 
-So I do n't blame any being. I do n't blame the pyramids. I do n't blame that. If it if it is affected myself is because it 's only myself.
+**Q: Why does society make us feel bad about emotions like sadness and anguish?**  
+A: We live in a society designed to be productive. If you're not working, you're not useful. Whoever is feeling sad, depressive, or with anguish is not useful for society, so the unconscious of society has designed a system where we perceive those emotions as bad, something to avoid. We have an addiction to happiness—for others and ourselves—like an addiction to sugar. But when we respect the time of an emotion and see beyond it, we can reach the reason why we're feeling it, and that's where we become truly productive.
 
-The one that should take care of that.
+**Q: Are we supposed to control our emotions or just let them happen?**  
+A: We are not here to control emotions but to understand them. Trying to control emotions is like trying to control another culture because you don't understand their language—that's not good. If we feel sadness or anguish, we have to feel it. We have to ask ourselves why we feel it and try to understand the feeling—not how to get rid of it. Put awareness on why you are feeling what you feel. That's the practice.
 
-So do n't worry about that.
+**Q: How does the Orion war relate to darkness and demons on Earth?**  
+A: They are not directly related. Even aliens have their problems, their lives, their conflicts. They have wars between their own dimensions. There is darkness in every dimension, but only we in our reality have shaped darkness into demons with animal forms. This is our darkness. Other planets and dimensions have their own way of darkness and their own conflicts according to their reality. They solve theirs; we solve ours.
 
-So another thing is about the offerings. People were asking about the best offer. I can make to someone to something whatever.
+**Q: What is the truth about the cabal and Illuminati?**  
+A: The cabal originates from Kabbalah, the Hebrew study of the Torah and divine information—philosophy explaining how the universe is created. Christians persecuted Jews and twisted the word to mean people trying to control power. Now "cabal" is used for people trying to control the world, but we shouldn't put all cabalistic people in the same bag. The Illuminati were 18th-century scientists who created education, science, democracy, free press—the foundation of our civilization. A few people later used these structures for control, but we shouldn't condemn entire traditions for the actions of a few. It's like saying all New Age people are frauds.
 
-So I 'm not the one to say what is the best offer. Because offerings is about what you have to give. And what you want to receive. It 's not about.
+**Q: So should we fight against these conspiracies or not?**  
+A: No. We should not go against institutions and organizations. Our main goal is to educate people, not fight, because when you fight, you give strength to the organizations. Behind the organizations, there are only three or four people who are mistaken. We have to find balance and educate much more than fight. When everyone is fighting everyone—good ones fighting bad ones, all of them mistaken—that's when anguish appears, because we see it's meaningless. The solution is responsibility and education, not more conflict.
 
-A specific list of things that you have to give in order to. No , no , no , it 's not like that. It 's just. From your heart.
-
-What are you willing to give?
-
-Sometimes it 's just as mild. It 's just. Looking to them to just recognize that they are there. Just hot.
-
-Energy. You. You will know how to do it.
-
-So but it has to be from your heart. Really given it from you.
-
-So if you have a list and you say , oh , yeah , I did. I did everything. I put the two scoops of honey. I am looking for the violet flower.
-
-No , it 's not it 's not working like that.
-
-Okay. It 's not like that. Another question that. That some people did to me.
-
-It was about. Orion 's war that I was talking about Orion and the war between the galaxies on.
-
-So they were asking so what what what happened why. If there is no good and bad and there there 's no demons. Why you explain about the war in Orion and the the the dark ones trying to get inside the system. And it does n't have any.
-
-There. They 're not related. Basically. It 's not exactly the same.
-
-It 's not exactly the same. That the system of darkness that I was trying to explain. It 's not related with the Orion 's war is another thing. It 's kind of related but not not directly.
-
-Okay. We have to understand that even if for us the aliens seems like they know everything and they are.
-
-So connected and so.
-
-So great and so delighted. They are also aliens. They have their problems. They have their lives.
-
-They have their their stuff.
-
-So they have also wars.
-
-Okay. In between their own dimensions and so on.
-
-So what we have to understand that. We look into aliens the same way. Like dark look into us.
-
-So for dogs we are all like great beings like gods like. Wow. They do all these crazy things that we have. No idea how they do it.
-
-So we love them because they are like wow. And humans we have all this conflicts and all this. Problems.
-
-So yeah.
-
-So basically this about the dark ones. There is darkness in every dimension. Of course. There is darkness everywhere.
-
-But only us in our reality have shaped the darkness in. Demons with animal shapes and so on.
-
-So so this is our darkness. Another planets and other dimensions. They have their own way of the darkness. And they all have their own conflicts according to their own reality.
-
-Okay.
-
-So they have their conflicts. We have to solve ours. They have to solve theirs. Etc.
-
-And that 's it.
-
-Another thing to understand about this. That some people were telling me is about the cabal. A lot of people is explaining about the cabal. We can about cabal.
-
-And I always like to explain the origin of these things.
-
-So cabal. Its origin is cabal. And cabal is a tiny of the Torah. Is the study of the information behind the information behind the message of God according to the Hebrew tradition.
-
-So it 's about philosophy and how to explain. It 's about philosophy and to explain how the universe is created , the concept of everything , etc. We have to remember that the Hebrew people were persecuted in Europe by the Christians for a long time because they had no country.
-
-So they spread all around the world without a country.
-
-So they had to survive. And they were so persecuted that they needed to make close schools.
-
-So they were not killed.
-
-So they created this cabalistic education. That was really , really difficult to understand.
-
-So nobody would understand what they were.
-
-So the Christians started to create the concept of al from the cabal to talk about people trying to take the power. And they relate these people with a Jewish.
-
-So they started to create the idea of compete with the synonym of cabal.
-
-Okay , this happened a few centuries ago.
-
-So these two concepts are born from the same thing. But they are different in the use that they give to the world.
-
-So in one hand , the cabalistic people are the people that study. That study , that study all information from God , from the Word of God , from the Torah , from the teachings of the Hebrew , the Jewish Judaism.
-
-Okay , that 's one thing. And the other thing is what the Christians believed about them. That where people try to get control over the religion and so on.
-
-So now we use the word cabal for the people that are trying to control the world.
-
-Okay , but I would like to save this. We should not put all of them together in the same thing. Because if there are three or four all crazy guys that are trying to control the world and for some reason , a few of them are Jewish.
-
-Okay , so it does n't mean that all the cabalistic people and the people that speak about cables and all these things , we are trying to go to the world or whatever.
-
-Okay , it 's not always about conspiracy theories.
-
-Okay , we are in the time with so much conspiracy that we missed the point of history. And we just put everyone in the same package. You know , and it 's not like that.
-
-So there are some crazy guys trying to control the world.
-
-Okay , yes. But it does n't mean that they all follow the cabalistic tradition.
-
-Okay.
-
-So if someone says that I am from the cabal , believe whatever you want to believe , I do n't care. I really do n't care.
-
-So I love cabalistic. I never studied it , but I love it. I love when some people try to explain me about cables because it 's a really good knowledge.
-
-So I 'm not going to just go against all cabalistic because three or four of them are trying to control the world somehow. I do n't know.
-
-So it 's relaxed a little bit. And another thing that I was reading here is about illuminate. Illuminate is actually the same. We should not say the illuminate are trying to control the world.
-
-That 's another conspiracy theory that it does n't work. The illuminate born in the 18th century. And they were all scientists trying to help us to think by ourselves. They created education , they created science , they created our mother science , they created their republics.
-
-They tried to democracy again. Basically , the free press , everything that the illuminate did was created by them. Basically , all we have today is because of the illuminate. Because the illuminate in Italian means the lighted ones.
-
-So they thought we are illustrated , the illuminated , the lighted means the illuminate. They knew the illustration , that 's how they call it.
-
-So the process , the time of illustration between the 17th and the 18th century created this draw of our civilization.
-
-So that three or four all crazy guys were trying to control everything and the society. Because they said , oh , if we are trying to educate the whole population , that would take a long time , so it 's better to control them.
-
-So they would do whatever we want.
-
-So those are three or four guys that they started this idea. But at the first time , it was not that. At the first time , they created everything that we have.
-
-So we should not say all of them , this is the organization that are , no , no , no. It 's like saying , like , how would you feel if people say all the new age people are abroad and they are trying to just steal you , whatever.
-
-So it 's not all of us , so it 's basically the same. It 's basically the same.
-
-So speaking about the illuminate and all this people , we have to understand that when they said , no or those secular ones , they were not talking about , they were not talking about the conspiracy that they wanted to control everyone and everything. Otherwise , they would n't put it in one dollar bill. It 's like I want to hide everything. But I put it here so everyone can see it.
-
-No , all well in Latin means the new world order.
-
-Okay , and this is not something that before was something to hide. Before it was something to be proud of , they would say , yes , the maison , here we are , the maison , trying to bring you a new , imagine , this is exactly the same as we are trying to say now , it 's like we are here to work for the new world , for a new new team. And I say , we 're for a new humanity.
-
-## Daily Practice Elements
-
-Okay , so we are here for an even humanity. And imagine that we put that statement in Latin. It would be exactly the same. And basically , when they said about , when they said about noble or the secularism , they were talking about creating a new order of like , lysine in schools , education , for education for everyone , they were saying we are going to make republics , no more kingdoms and so on.
-
-Okay , so it 's a lot of things that we have been defending these 200 years. We have been defending this , how to say , we have been defending this concepts that were from the Illumatic and the maison.
-
-So what happened after that is that some of the Freemasons and some of the , of the Illumatic , they understood , they saw that we as citizens , we were irresponsible of our own life.
-
-So what they just did was to organise something , some of them , not all of them , some of them to organize something from below so they could control and there you have a conspiracy. There you have a conspiracy , okay? Of these three , four crazy guys that try to organize everything from under the system. And yes , that 's true.
-
-There are people doing that , of course. But what I want the point that I am trying to discuss here is that when we say Freemasons , when we say Illumatic , when we say , we are just putting all of them in the same bag and it 's not like that. It 's not like that. There are things that , it 's , for me it 's like saying that , like we can say , I do n't know , all Germans are Nazis.
-
-Why? Why all Germans are Nazis?
-
-So why? Everything that Germany has done before Hitler was back to.
-
-So Gutenberg , the mentor of the , of the imprint , he does n't work it now because 500 years after that , there was a crazy guy. You know , so some of these things that we are living today and we call them conspiracies. They are just putting all the history in the same bag. When it is all about three or four guys , that are using the history in order to do their own things.
-
-Okay , but it 's not like that. If we do n't like for other people to think that we are all the same , the same bad things of the new age.
-
-So we should n't do exactly the same with others.
-
-So the point of all this that I am willing to say is that we should not go against institutions and organizations. He should educate people. Our main goal is to educate people , not to go against people because when you fight , you give strength to the organizations. What you have to do is to understand that behind the organizations , there are only four or three old crazy guys that are just mistaken or whatever.
-
-So we have to find the balance and teach educate much more than teaching.
-
-So there is a moment behind all of this after these things that we find the English. We find the English because suddenly we see around and we just perceive that , oh , so this has been always like this everyone fighting everyone trying to change and the good ones fighting the bad ones , but all of them are mistaken. And so it 's gon na be constantly like this.
-
-So it 's like meaningless. There 's no sense.
-
-So people start to lose the meaning of everything.
-
-So there 's where you find the English.
-
-So English is the option that you feel when you ca n't understand the answer to what for? What for? Why to leave? Why to do all of this?
-
-And which is not something that starts or begins from a cause or a purpose. It 's not related with something specific reality. It 's about everything. It 's about what is the meaning of everything.
-
-Why is this like this? The English is like that emotion that all the other emotions and put them together.
-
-So none of them can move. None of them know exactly where to go , where to move. And so there 's no meaning , the movement.
-
-So English is not born from a war , from winning , watching a war. And which comes from not understanding the meaning of any. Why there is a war , why this , why that , why everything.
-
-## Q&A
-
-So basically the English is something that we all are going to experience during the process of acknowledging ourselves. Why are we living this reality? Why are we here? The existential questions are those related to the English.
-
-So English basically born from the nonsense and we have spoken about this , that the nonsense , the ugly , is a state through where we can understand that our mind ourselves is the only one capable to give the meaning to the thing. The biggest nonsense which is the Irish is one that helps us to find the biggest meaning of everything which is love. The universe basically was created from love and the created finds the origin of universe through English. We may say that , oh , it 's so unfair.
-
-It 's so horrible that we can only feel the unity by English , but we will recognize that in the experience in our lives , we all found the truth , the power of the divine , the process of awakening through a crisis , through English.
-
-So , picture that , when we call English basically , is the conjunction of all the other emotions , we are so used to feel the emotions and to feel everything all constantly around so many movement in our life , that suddenly when English grabs them all and put them very tight in one point , stabilized , so no other emotion is moving around only here. There 's no movement , so you can not feel anything and we as humans interpret that stability as English.
-
-So we are so used to feel , to perceive and feel emotions that when all the emotions stop like in a shock , like everything stops , we relate that moment with hand-wish.
-
-So this is why English is basically a tool when we feel English. If we accomplish to go beyond the emotion of English , we will realize that that 's an opportunity to start again , to create something new.
-
-So after I use the English as a tool to get to the creator , I realize myself that I am the creator.
-
-So it 's in that moment when I become love. And by love , I start to expand. The new creation.
-
-So here I want to say something about this emotions. We live in a society that was designed to be productive. Basically , we live in a society that everyone says that we have to work , that we have to work the fields , that we have to work in a factory , that we have to work in education , that we have to work in society , that we have to be useful for everyone. And in society , not today , but all the societies , if you are not working , you 're not useful.
-
-So whoever is feeling sad , depressive with English , is not useful for society.
-
-So basically , the unconscious of the society has designed a system so we perceive that to feel those emotions is not useful.
-
-So it 's bad , so I have to avoid them. Otherwise , I 'm not productive. Basically , in our society , we all say , do n't cry. I do n't want to feel like this.
-
-We have an addiction for the happiness of others and myself. Basically , it 's like an addiction , like sugar.
-
-The reason why we do n't allow ourselves to leave the process of an emotion is because we feel unproductive.
-
-So if we respect the time of that emotion and we see beyond the emotion itself , we can reach the reason why I 'm feeling that emotion. And there is how you can picture that you become more productive when you do that. When we are accomplished to create the situation of that produced language into the product 's description , we find the light. And the question would be , how can I do that?
-
-So I would say each one knows how that you just have to pay attention.
-
-So basically what we have to understand is how to become aware of our emotions.
-
-So it 's not about to control emotions. If we feel sadness , if we feel anguish , we have to feel it. And we have to ask ourselves why I feel it and try to end the feeling. Because I have to become aware of why I feel it , why I feel it.
-
-Not to how to get rid of it. One of the greatest mistakes that we usually do is to believe that we are here to try to control emotions. And we are not here to try to control them. We are here to understand them.
-
-Why? To try to control emotions. It 's like trying to control another culture because you do n't understand their language. That 's not good.
-
-## Daily Practice Elements
-
-So basically you have to put awareness on why are you feeling what you feel? The vibration for today , been , been. The statement for today is I am the expansion of the being. The code for today is evolution.
-
-The natural and biological law of evolution implies constant adaptation to the environment that it turning modifies itself. Even though we attribute to the natural world , it 's transverse to all dimensions for duty in systems cosmic change , all living and ethereal beings are forced to adapt to modify the realities.
-
-So let 's go to the element.
-
-So the last thing because I was watching some comments just to clarify this , what I am explaining here is not in emotions. It 's not to live away the language. It 's not to find a new time without an wish to live happily ever after. No , if I have been misunderstood with this , thinking that what I am doing is to help you to live happily , sorry , it 's not , it 's my mistake.
-
-What I am just trying to do is to give you tools to understand how to create your own realities.
-
-So what you do with that is your thing. If you use all this to become happy , so good for you. If you do all this and take all this to clean your language from your life , good for you. If you take all this to create a new world , good for you.
-
-So it 's all how you use it. It 's not about my intention on how you will use it.
-
-Okay? That would be.
-
-So be free.
-
-So relax , see it comfortable. I move my shoulders and circles to relax the weight of the body. And our relax letting all the weight of the body fall down. I focus only in my breathing.
-
-I feel the light around me , touching the skin , and getting inside my bones , organs , muscles , and muscles. I feel the brightest of all my being , shining outside and inside. I recognize myself. I am.
-
-## Energy Work
-
-I am the higher self that descends to my body. I am the higher self that descends to my body. Take a deep breath and perceive how you get inside the crown. Going through their eye , throat , heart , flees , scrum , root , knees , and ankles.
-
-I manifest my intention to go to my wish. I think the concert of love. I manifest my intention to go to my wish.
-
-So then concert of love. I recognize the earth as the anguish. I have to transcend to go through. And I go for it.
-
-I perceive myself going through my feet to the soil , the ground , the roots , stones , and rocks. Going through all the class of the world. I perceive the heat , the embrace of the fire , through the magma , feeling the pressure. Going faster and faster towards the core , the iron of the planet.
-
-I feel the pressure on me of the whole planet. I feel so much that I feel nothing. What is your biggest anguish in your life? Be aware of that anguish and bring it to you.
-
-Be aware of it. And recognize it for it is your tool. To find the love , the purpose. I perceive.
-
-I perceive. I perceive. I am the expansion of the being. I am the expansion of the being.
-
-I am the expansion of the being. And this , in this expansion , where I find the meaning. I perceive. From the light we come.
-
-From the light we are. And we hold your zeros. And we hold your zeros. Our light.
-
-This in your hands. Our light. This in your feet. For the light.
-
-This your responsibility. Of what you do. With your hands. And where you go.
-
-With your feet. Your zeros. This is your responsibility. It 's just a moment.
-
-When you stand still. To think. What you do. And where you go.
-
-We are not here. To take away your zeros. We are here. To hug you.
-
-Well done. Be free. We are here. Take your breath.
-
-And take all this awareness. Through your body. Like raising. Stretching.
-
-And joining. Coming back here.
-
-Now. Open your eyes. Drive. Learn.
-
-That was designed. Alright Albacete. All right. Yours.
-
-Pick 1 character in the edge and finish with the base and put it back into the zone. It is a perfect starting position. There. It 's time.
-
-There. There. There. Thank you for your advice for being there.
-
-So , as always , it 's a moral at the same time and pay attention to your dreams. Goodbye , it 's moral.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+**Q: What is the real purpose of this teaching—to make us happy?**  
+A: No. This teaching is not about living without anguish or finding a new time to live happily ever after. It's about giving you tools to understand how to create your own realities. What you do with that is your thing. If you use this to become happy, good. If you use this to clean anguish from your life, good. If you take this to create a new world, good. It's all about how you use it. Be free. The teaching gives you freedom through understanding, not a prescription for happiness.

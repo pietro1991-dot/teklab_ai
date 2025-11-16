@@ -1,316 +1,243 @@
 ---
-title: "Day 89 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 89 - Center and Periphery"
+author: "Matías De Stefano"
+series: "365 Days - The Path of I Am"
 day_number: 89
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 89
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - portals
-  - consciousness work
-  - crown chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - constellation work
+constellation: "Libra - Physical Week"
+chakra: "Ankles"
+date: "October 31, 2020"
+topics: ["center as axis", "periphery as movement", "observation only exists", "egocentrism misunderstood", "God doesn't exist"]
+keywords: ["center", "periphery", "kenyon", "target", "axis", "movement", "egocentrism", "hamster wheel", "observer", "observed", "observation", "God doesn't exist", "mind creates"]
 
 practice_elements:
-  chakra: "Crown"
+  chakra: "Ankles"
+  vibration: "SSfú"
+  statement: "I Am Evolution in Constant Adjustment"
+  code: "Rhythm (Law 5) - Fifth law: everything flows in and out, rises and falls. Pendulum swing manifests in everything. Measure of swing to right is measure of swing to left. Rhythm compensates."
+  body_position: "Comfortable"
 
 ---
 
-# Day 89 - Consciousness Work
+# Day 89 - Center and Periphery
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+## Overview
 
-## Daily Practice Elements
+Today connects with ankles chakra in Libra Physical Week, exploring center and periphery. Ankles represent adjustment, destiny—portals where you adjust direction, destiny of where you're going.
 
-- **Chakra:** `Crown`
+It's October 31—Halloween. Scary night. We're in Egypt channeling pyramids, bringing dark and light masters together. Egypt energy is intense—ancient, powerful. Perfect night to talk about center and periphery.
 
-## Introduction
+Yesterday we talked about life and death. Today we talk about center (fixed point, axis) and periphery (movement around that center). These concepts show how observation creates reality.
 
-Hi everyone , good morning , good afternoon , good evening , and close. For all of you who are in the North and Hemisphere , happy , happy , something , and for all of you who are in the South and Hemisphere , happy bell time. The only way I have to begin with this tonight is just by showing you this Halloween. Hello , my good morning.
+This teaching might scare you more than Halloween. Why? Because I'm going to tell you something radical: God doesn't exist. Only mind exists. Observer and observed are projections. Only observation exists.
 
-Hello , I am the Jimmy. Friends are getting a light man. Oh , ladies and friends , we do n't know. We 're following.
+Ready? Let's go.
 
-Hi mom. Hi mom. She 's got me. It 's okay , it 's okay.
+## Core Teaching
 
-Okay.
+### Center: The Axis That Activates Potential
 
-So as you have seen , after the pyramid today , they had channeled the whole Egypt.
+Center comes from Greek kenyon—meaning target, axis, fixed point. Center is point around which everything else rotates.
 
-So , today we have to begin very intense the morning , but at least we end up with laughter.
+When you're at center, you're at axis. You're not moving around—you're fixed point that allows movement to happen.
 
-So today in the pyramid was , I do n't know how to explain how it was because of course you have to leave it. It 's not a thing to explain because it 's really weird as everything I do. But so today we have three masters and one of them was working from the darkness , the deepest part of the planet , given us some tools to connect with the light.
+Center is place where you activate your potential. When you're centered, you access all tools, all possibilities. You're in position to observe all periphery around you.
 
-So the light 's theme.
+This is why being center is important. Not because you're superior, but because you're in position to activate, to access, to observe.
 
-## Energy Work
+### Periphery: The Movement Around Center
 
-So we connect with both of them creating like a balance in the middle to expand and connect with the harmony of the center of the self , expanding that to the portal of the planet.
+Periphery comes from Greek peri (around) + ferein (to take, to carry). Periphery is movement around center, things carried around fixed point.
 
-So it was intense and beautiful from my side. It was all dark because it was , we turned off the lights in the pyramid.
+Periphery is not worse than center—it's complementary. Without periphery, center has nothing to observe. Without center, periphery has no axis to rotate around.
 
-## Q&A
+Center is self. Periphery is others, environment, perception. You (center) observe others (periphery). Others (center) observe you (periphery). Constantly changing.
 
-So it was intense , it was good. But it 's impossible to explain what happened. I would ask to all of them how they lived it , but it would be a long time here.
+This is rhythm—fifth law. Everything flows in and out. You're center, then periphery, then center again. Pendulum swings.
 
-So just for summary , how was it? It was amazing. It was the defining amazing. Scary.
+### Egocentrism Misunderstood
 
-Scary. It was the most scary. It was the most scary. Who was the most scary?
+When we hear "egocentric," we think: selfish person who thinks only about themselves, believes they're superior.
 
-Yeah , I was the only one who missed. Just two. What happened? I think I missed it.
+But egocentrism is not that. Egocentrism is simply being at center—at axis, at point where you activate potential.
 
-I have to put it in the screen. Yeah. Yeah , some people scream. She.
+Being center is not about believing you're better. It's about being in position to observe, access tools, activate possibilities.
 
-So at the beginning it was really like living a little bit of Halloween. It was a bit scary. Even the inspector was a bit scary. But all of that was just to show us about our fears and so on.
+Confusion happened because people at center sometimes forget periphery. They activate potential but don't share, don't observe others. They become rigid, stuck.
 
-So. But then we did the , all the rest was to balance and to have the proper connection. And for me , at least it was really like a renewal. But yeah , it 's impossible to explain what happened.
+But true center is not rigid. True center is aware of periphery. You activate your potential to serve whole, not just yourself.
 
-You have to live it some day. Not always the same , of course.
+### The Hamster Wheel: Point and Circle Are Same
 
-So it 's not always the same.
+Imagine hamster wheel. Hamster runs on wheel—wheel spins around axis.
 
-So you never know what is going to happen , what you 're going to experience. There was no recording for video , of course. And there are some recordings , voice recording audio. But I do n't know if you can hear it well or not.
+From hamster's perspective (periphery), it's running forward, moving. From axis perspective (center), hamster is staying in same place, wheel spinning.
 
-No. Do n't try this for me. Here they are saying that try not to , try not to listen to it alone at home. At least the first part.
+Who's right? Both. Point and circle are same thing viewed from different perspectives.
 
-So today is , we have just one day left for the month of Libre.
+When you're on periphery (running), you feel movement, progress. When you're at center (axis), you see: it's all one spot, different angles.
 
-So today is the ankles.
+This is fractal perception. Universe is one spot observing itself through infinite perspectives. You're one angle. Others are other angles. All looking at same center from different periphery points.
 
-So you may say , good. We end and no , we start with Scorpion.
+### Observer, Observed, Observation: Only Observation Exists
 
-So , so let 's see.
+Here's where teaching gets radical.
 
-So Libre , remember , it has to be with the front-ass that we need to balance ourselves. And according to the ankles is related to the purpose to going ahead.
+We think there are three things: observer (me), observed (you/world), observation (act of perceiving).
 
-Okay , to move forward.
+But this is illusion. There are not three things. There's only one: observation.
 
-So , according to this of the purpose , what we are relating , the topic for today is about our position , our position in the purpose , which would be the center or the periphery.
+Observer and observed are concepts mind creates to make sense of observation. But they're not real. They're projections.
 
-So , first of all , to understand what they mean , what those two concepts mean.
+What exists? Only observation. Only perception happening. "Observer" is just label for one angle of observation. "Observed" is just label for another angle.
 
-So , center comes from the Greek word Kenyon. That means , I do n't know these words in English. How is it? Hard , though.
+When you observe me, and I observe you—who is observer, who is observed? Both. Neither. Only observation exists between us.
 
-Hard , dard , dard , dard. Hard? And Alison? Target.
+This is why universe is one spot observing itself. There's no separate observer. Only observation from infinite angles.
 
-Target? No.
+### God Doesn't Exist—Only Mind
 
-Something that sticks.
+Now the scary part.
 
-Okay , something that sticks. Yeah , sure. Sting?
+God doesn't exist. What exists? Mind.
 
-Okay.
+First law: mentality. Everything is mind. Mind creates reality. There is no God outside mind creating things. There is only mind observing, projecting, creating.
 
-So , would be all the things that are pointed to a specific dot.
+When you pray to God, you're praying to mind. When you feel God, you're feeling mind. When you say God created universe, you're saying mind created universe.
 
-Okay , to a point. And very , if very very , would be from the Greek to Felt , which means around and ferrous , that means to take.
+God is projection mind creates to make sense of observation. But God is not real. Mind is real.
 
-So , to take around , which would be the circle and the center is the dot in the middle.
+This is not atheism. This is understanding: what you call God is mind observing itself, creating reality through observation.
 
-Okay. Dot and circle center and periphery , they refer to the two positions that we have in our lives.
+Universe is not creation of external God. Universe is mind experiencing itself through infinite perspectives—infinite observations.
 
-So , we are , of course , in the center ourselves. Like , this is my spot. I am occupying a specific spot. But then around me , I have a lot of people , all these persons.
+You are not separate from God. You are not creation of God. You are angle of mind observing itself. You are observation happening.
 
-So , each one of the persons that I have around in my life , in order to communicate with them , I have to become like them.
+This is why "I Am" is only name for God. Because God is not thing—God is observation. I Am observing. That's all.
 
-So , this means that I will rely my energy into become those persons.
+### Universe Is One Spot Observing Itself
 
-So , I could move in different ways , in different movements , in different moments.
+Put it all together:
 
-So , in our lives , we occupy a space for ourselves. But we are moving around constantly , depending on the people that we have around. One of the things that we do , that happens to us , is that throughout our lives , we start to change , like constantly. We go outside from our center , and we start to become so much the others that we start to forget who we really are.
+Universe is one spot (center) observing itself through infinite perspectives (periphery).
 
-And we start to our lives , according to how others perceive us in the outside. And we forget the place that we belong in the center.
+Each perspective thinks it's separate observer. But there's no separation. Only observation from different angles.
 
-So , in this movement that I leave my center , in order to be understood and accepted by others , I start to rely the power of my personality into others.
+You (center) observe world (periphery). World (center) observes you (periphery). But really, it's one observation—one mind experiencing itself from different angles.
 
-So , my personality stopped being a tool for myself , and it becomes a tool for others.
+This is why when you're centered, you access whole. Because you are whole, just looking from one angle.
 
-So , others can use me at their own will , because I am just a tool for their own personality.
+This is why being center is not selfish. Because center is not separate from periphery. They're same thing—different perspectives.
 
-So , basically , what happened is that when we are in the center , when we stop being in the center , we start to leave our lives in the outside. We leave the life through the life of others.
+Halloween teaches: scary things are just perspectives. What looks like monster from one angle looks like teacher from another. Only observation exists. Change angle, change reality.
 
-So , we stop living our own life , so we could leave the lives of others. And this is something that we repeat in our whole life , like , even doing circles around our own self , but never touching our own self.
+## Practice: Ankles Chakra Activation
 
-So , in our cultures , when we start to leave our lives through the periphery of our reality , we start also to acknowledge that the vocabulary and the personality that we start to create for ourselves , is something that is being moving constantly , is changing constantly.
+**Preparation:**
+- Comfortable position
+- Stretch body, massage, warm
+- Let weight fall, relax, focus breathing
 
-So , I can not relate with myself , and I am trying to adapt to all the things that are around me.
+**Wave Movement:**
 
-So , for example , all the people that pass by through my life , all the time , so the past of days , long years , also the path of , so we say , the sun rises , the sun sets , the constellations passing by.
+1-18. Complete body activation sequence
 
-So , we have to adapt to an environment that is constantly changing , and we have this demand of our assistance to try to adapt to all the things that are happening around us , but we can not be ourselves. Basically , what we start to do is to leave the lives of others and other things , of other people , other things , and we try to run after all those things that are constantly changing , transforming themselves , and we can not reach to that. That would be.
+**Ankles Work:**
 
-So , we have another conflict from this perception of how the things are moving around , which is culture and religion. Culture and religion are constantly saying from a long time ago that what we have to do is to think in the other one , to be there for the other one , to help the other ones and not to be the center of everything.
+19. Pay attention to higher self above you
+20. Help descend through crown, third eye, throat, heart, plexus, sacral, root, knees, ankles
+21. Ankles are portals of destiny—where you adjust direction constantly
+22. With both hands, massage ankles deeply (circles around ankle bones, Achilles tendon, tops of feet)
+23. Feel ankles as pivot points—center adjusting to periphery constantly
+24. Perceive: when you stand, ankles hold you centered. When you walk, ankles adjust direction.
+25. Ask: Am I centered in my observation? Or lost in periphery (others' perspectives)?
+26. Practice: Be center (observe periphery without losing yourself). Be periphery (move around center without rigidity).
 
-So , we have been taught by culture and religion to be aside the other ones , to be one , to be with the rest , and never in the center , because to be in the center is to be selfish. One of the things that we used to say , in our current days , is that we have to transcend egocentrism , because egocentrism is bad , and we have to be one with the others , we have to work all together as one , and we have to be in equal like the rest.
+**Integration:**
 
-So , they would say that egocentrism , which is to put the I am in the center , the self in the center , is something wrong , it 's like a bad word , that you should n't say it , you should n't do it.
+27. Relax hands, allow perceive sensations at ankles
+28. Vibrate: SSfú
+29. State: "I am evolution in constant adjustment" (repeat)
+30. Feel yourself as center observing periphery. Then as periphery being observed by center. Then as observation only—no separation.
+31. Remember: God doesn't exist. Mind exists. You are mind observing itself.
+32. Stretch, warm, massage throughout all portals of joints
+33. Return here now, open eyes
 
-So , one of the things that we have to understand about being in the center is that by being in the center , you start to relate yourself with your own power , to be your own self , to relate with your own power , with your own existence , which is the only thing that exists , but the center is not the only thing , but you are also the periphery , you are the center and the periphery.
+**Closing:** Drink lots of water, rest to assimilate. Feel Egypt energy tonight—dark and light masters meeting at center, observed from periphery, all one observation.
 
-So , this means that the others are not , are not just projecting on you , but they are a projection of yourself , that you have projected that in order to communicate with yourself in the outside.
+## Key Insights
 
-So , when you try to leave the aspects around you , you are forgetting that those aspects are tools for the center , because all the aspects around are just expressions , tools , perceptions of your own reality.
+1. Center (kenyon) means target, axis—fixed point that activates potential
+2. Periphery (peri+ferein) means around+carry—movement around center
+3. Being center is not selfish—it's being in position to activate potential, observe periphery
+4. Egocentrism misunderstood: not selfish, just being at axis (confusion when center forgets periphery)
+5. True center is aware of periphery—activates potential to serve whole
+6. Hamster wheel: point and circle same thing from different perspectives (fractal perception)
+7. Observer, observed, observation—only observation exists (other two are mind projections)
+8. When you observe me and I observe you, who is observer? Both, neither—only observation exists
+9. Universe is one spot observing itself through infinite perspectives
+10. God doesn't exist—only mind exists (first law: mentality, mind creates reality)
+11. God is projection mind creates to make sense of observation—not external thing
+12. You are not separate from God—you are angle of mind observing itself
+13. "I Am" is only name for God because God is observation (I Am observing)
+14. You (center) observe world (periphery), world observes you—one observation, different angles
+15. Ankles adjust direction constantly—center adjusting to periphery, destiny pivoting
 
-So , when you are trying to leave their reality in order to be in service with the others , you stop being yourself and you 're not being useful for them , neither for you.
+## Integration
 
-So , the conflict is that if we are not in the center of ourselves , we can not activate our own tool , so we are not useful for the rest , as the rest are not useful for me , because they are not in the center trying to help me. To be center is to activate the potential of your own tool , because when you are in the center , you recognize the place where you belong , you recognize the power that you have , you awake your potential , and you are useful for the rest. But if you are not in the center , you will never be useful for the rest , you will never be useful for yourself.
+**Daily:** Notice when you're center (observing) and when you're periphery (being observed). Practice both. Remember: no separation, only observation.
 
-So , that 's what really means to be in the center , it 's not about selfish , it 's about to acknowledge your power , because when you are running around , you are not awakening your power , you are just following the power of others.
+**Weekly:** Ankles chakra practice, massage deeply. Feel pivot points adjusting. Ask: Am I centered or lost in periphery?
 
-So , as an example , we may say that , for example , I have the potential to be a musician , and all the people around me are different kind of artists , like architects , like people that know how to paint , actors , whatever.
+**Monthly:** Identify one area where you confuse egocentrism (being center) with selfishness. How can you activate potential from center while serving periphery?
 
-So , all these people are talking to me all the time about those aspects of art , and what you do is to try to talk just like that , just of the same topics , because you want to be part of them , to be part of their groups , to be accepted.
+**Ongoing:** Remember: God doesn't exist, mind exists. When you pray, meditate, feel divine—you're experiencing mind observing itself. You are that observation.
 
-So , you do all the things that others would love me to do. But if I go within to myself , and I activate my potential of music , so maybe my music will help the one that paints to be inspired , the other one to make music inside their constructions , for a play , the music for a play , whatever.
+## Questions and Answers
 
-So , when I occupy my space , when I activate my own potential , what I am doing is helping the others by not following the others , basically. We have to be sure that to be in the center , it means to be in the axis.
+**Q: If God doesn't exist, what am I praying to?**
+A: Mind. When you pray, you're accessing mind observing itself. What you call God is mind. First law: mentality—everything is mind creating reality through observation.
 
-So , this is to be in the axis in the center , which is a fixed point , and all around is moving.
+**Q: How is being center not selfish?**
+A: Center is axis that activates potential. When you're centered, you access tools to serve whole. Selfish is when center forgets periphery (rigid, stuck). True center serves.
 
-So , when I try to move along with all the movements , all the energy around me , so I lose my axis. But the perception of everything around me is moving , and it 's just a perception from my point of view in this matter , in the reality , but in the universe , it 's not like that. It 's not that perception. It 's not moving.
+**Q: If only observation exists, am I real?**
+A: You are real as observation. "You" as separate observer is projection mind creates. What's real is observation happening. You are that—angle of mind experiencing itself.
 
-Basically , it 's all just there. It 's me , the only one that moves. If we take this idea that the axis is the center , and everything is moving around , it 's like when we think that we are here on Earth , and the stars and the sun , everything is moving around , around us.
+**Q: Why do we create concept of observer and observed if only observation exists?**
+A: Mind needs structure to make sense of experience. Observer/observed are tools mind uses. Useful, but not ultimate reality. Ultimate reality: observation only.
 
-So , we perceive that everything is moving.
+**Q: What about people who need to believe in external God?**
+A: Let them. Their experience of God is their observation. When they're ready, they'll understand: God is mind. Until then, projection serves them.
 
-So , if we do n't move behind it , after them , so we are going to lose our energy. Everything is moving , so I have to do something.
+**Q: How does hamster wheel teaching apply to life?**
+A: When you feel stuck (running but not progressing), remember: from center perspective, you're exactly where you need to be. Change perspective, change experience.
 
-So , you go away from your own center , because you want to give the speed. But in the perception of the universe , it 's totally the opposite. And how it 's. .
+**Q: If universe is one spot, why does it feel separate?**
+A: Fractal perception. One spot observing itself from infinite angles. Each angle feels separate, but it's illusion. Halloween teaching: monster from one angle, teacher from another.
 
-. Because the axis is the only one that is moving , and the rest is fixed. How come? Because the Earth is the one that moves.
+**Q: How do I practice being center without becoming rigid?**
+A: Be aware of periphery. Center activates potential, but periphery shows you where to direct it. Rhythm—swing between center and periphery. Don't get stuck at either.
 
-The Earth is spinning , so I am spinning with the Earth , and the sky and the sun are there.
+## Closing Reflection
 
-So , the perception of the sun rising is not the sun moving , it 's the Earth moving.
+Today's teaching on Halloween brings scariest truth: God doesn't exist. Only mind exists. Observer and observed are projections. Only observation exists.
 
-So , everything that is around is just a perception of my movement.
+Center (kenyon=axis) is where you activate potential. Periphery (peri+ferein=around) is movement around that center. You're both—center observing periphery, periphery being observed by center. Rhythm swings you between.
 
-So , this means that I should not go after the constellations or the sun to reach the truth. The truth is there , because I move. It 's my own movement that creates the perception of the outside.
+Egocentrism is not selfish—it's being at center, accessing tools. Confusion happens when center forgets periphery (rigid, stuck). True center serves whole by activating potential.
 
-So , it 's not that I have to live in service with the others , is that I am the others. It 's simple. It 's basically like that.
+Hamster wheel shows: point and circle are same thing from different perspectives. When you run (periphery), you feel movement. From axis (center), it's one spot, infinite angles. Both true.
 
-So , one of the next things that we have to understand about how this works is that neither the perimeter , the periphery , and the center exists. They do n't exist. They are just a perception also. And why is this?
+Observer, observed, observation—mind creates first two to make sense of third. But only observation is real. When you observe me and I observe you, there's no separation. Only observation between us.
 
-Because when you see a point in the universe , and you go inside of it , you will see it become a circle. And when it goes away , you will see it another point in front of you.
+Universe is one spot observing itself through infinite perspectives. You are one angle. Others are other angles. All looking at same center from different periphery points.
 
-So , when you go , you see again a circle. And it 's constantly like this , like a fractal. But the one that went behind did n't disappear. It just expanded and went back again to the same spot.
+God doesn't exist. Mind exists. First law: mentality—everything is mind. God is projection mind creates to understand observation. When you pray to God, you're praying to mind. When you feel God, you're feeling mind observing itself. You are that observation.
 
-So , what we perceive as movement in the universe , the circle and the point is not real. It 's just the concept of observation.
+"I Am" is only name for God because God is not thing—God is observation happening. I Am observing. That's all.
 
-So , there 's no point and circle. Point and circle are just perceptions for us to understand and to move , to create. But for the universe , the essence of the universe , there 's no one , no other.
+Your ankles adjust direction constantly—center pivoting to periphery, destiny changing angles. When you're centered, you access whole (because you are whole from one angle). When you move to periphery, you experience whole from different angle.
 
-So , all this pattern creates the concept of what we call a torus. A storyid shape just made up with the perception of the observation.
+You are evolution in constant adjustment when you recognize: no separation between center and periphery, observer and observed, you and God. Only observation exists. Only mind experiencing itself. Only I Am.
 
-So , the conflict that we have is related to this past that we say you may heard this sentence that all the observed is conditioned by the observer.
-
-Okay , so the observer is the one that changes the reality which is observed. But basically , what happened is that the one that is observing is made up with things that are observed.
-
-So , this means that the things that are observed are not real precisely because in order to be observed , you need another point of view which is also observed , which is the paradox here.
-
-So , basically , who really observes? In this concept , the real concept between the observer and the observed is the observation. Observation is the only thing that exists. The rest is just a perception.
-
-Observation is a concept.
-
-So , in order to understand who observes , we have to eliminate the word who. Because who implies that there is someone before in order to observe. And that someone should have been created.
-
-So , the observation is talking about mind and mind is something that is a concept of the consciousness. But it 's not someone that is thinking. It 's the mind itself projecting the observer and the observed , which would be the observed in the center , the observer in the center and the observed in the circle. But when you movement , you will see that both of them are the same.
-
-They 're exactly the same thing.
-
-So , this concept teaches you that there is nothing but a fixed point in the universe that the observation is moving.
-
-So , basically , nothing is really moving. Everything is just one spot that is projecting a concept of observation.
-
-So , the best image to explain how this void works is like a hamster in a wheel. Because the circle and the point is the same thing. At the moment , you see the circle. And when it disappears , it immediately becomes the dot.
-
-So , as you see the circle going that way , you begin to see the point , the circle , the center in the middle.
-
-So , it 's not a point and a circle. It 's the same thing. But you are receiving it as two different things.
-
-So , this hamster is just going like , constantly in the same tiny circle , black and white , which is the void.
-
-So , basically , everything that exists is just one point , a spot in the universe that is constantly observing itself , projecting itself in different observations of itself.
-
-So , it 's always the same being observing itself in thousands and millions of perceptions. But it 's a spot , it 's a dot that never moved , that it 's fixed. And that 's it. And that 's all the things that exist.
-
-All the rest are just observations. And through that observation , it creates the observer and the observed. And maybe you will ask yourself , and so what is this useful for?
-
-So , the way this is going to be useful is by acknowledging that God does n't exist , but neither we exist. Because the only thing that exists is the mind. And each one of us is part of that mind.
-
-So , if the whole cosmos is just one tiny spot observing itself , this means that each one of us is the same spot observing a different perspective and possibility of itself.
-
-So , this is helpful when you need to say , okay , in order to go to the center , to go to that divine , I have to become myself , I have to go to the center and recognize that everything that I have around is just the possibilities of my own creation to allow myself to observe myself. When you realize about this , when you acknowledge that there is nothing outside , that the only thing that exists is just oneself. And so , you recognize that nothing in the outside really can affect you. And that you are not in the service to others , because no other serve.
-
-So , when you , it 's kind of like you do n't , you does n't care about anything , but it 's not about I do n't care. It 's basically you do n't care because you are not in depth with anyone , because basically everything that you do , you will do it by yourself , for yourself.
-
-So , when you work for others , when you do and serve others , you are doing it for the only being existing , which is your center.
-
-So , it 's not about doing this for others , it 's recognizing that others are just yourself. And that 's how you are not attached to the others , because others are just yourself.
-
-## Daily Practice Elements
-
-So , that 's it. Let 's do today 's information. The vibration for today is shoe. The statement for today is I am devolution in constant adjustment.
-
-The code for today is cost and effect. The fifth law of the universe explains these consequences. Everything that we do in our life is an action that moves the energy around us. That modifies our surroundings and that transportation comes back to us like an echo.
-
-The pulses and rhythms of cosmos make every action , propitiate a consequence that inevitably will affect soon sooner or later. And for that , every step and decision must be properly considered. I just hope you can sleep after what I said today. Or maybe if you just ca n't just forget what I said , maybe listen in a few years.
-
-Sit comfortable. We begin to curious the body. Stretch the body. I let all the weight of my body fall down focusing only on my breathing.
-
-Bring my attention to my left foot and start to move your toes and soft circles with your ankle. I start to bring this movement to my left knee and hip. Bend my body slowly to my left. I feel the pressure in my waist.
-
-And come back to the center.
-
-Now I bring my attention to the movement of my left hand. Moving my fingers and very soft. I make circles with my wrist.
-
-Softly I start to bring the movement to my elbow and my left shoulder. Very softly I begin to move my head and soft circles towards left. I stop and begin to move it very softly towards the right. I bring the movement to my right shoulder and elbow.
-
-I start to move my right hand.
-
-Soft circles with the wrist and the fingers. I bend my body towards the right , feeling the pressure in the waist. And I come back to the center. I start to move my right hip and knee.
-
-And I bring the movement to my ankle and soft circles and my right foot with its toes. I relax the body. Take the breath and become aware of the light of the I am above my head. And I call it to get inside my body to go all through it.
-
-## Energy Work
-
-I perceive it getting in through my crown. Their eye , throat , heart , heart , legs , acrimine , throat , knees , and ankles , extending its light through my feet. And with my hands , I start to give a soft massage to my ankles. I massage behind by the sides and in front towards the feet.
-
-I become aware that this is the portal of my destiny. And my destiny is the center. Take your deep breath. And I begin to debate this light towards the center through my sound.
-
-And I start to show I show Take a deep breath. I am devolution in constant adjustment. I am devolution in constant tension. I am devolution in constant adaptation.
-
-Take a deep breath. By the movement of my body , I begin to bring this consciousness through each one of the portals of my own body , which relies in the joints , by messaging , stretching and warning. And each one at its own time , come back here and now open your eyes. Thank you , everybody for being there.
-
-So thank you and see you tomorrow to close the month of Libre. Thank you.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+That's the teaching. That's Halloween truth. Scarier than any monster, more liberating than any prayer.

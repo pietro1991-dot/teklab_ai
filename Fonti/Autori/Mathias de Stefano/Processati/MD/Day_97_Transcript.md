@@ -1,355 +1,194 @@
 ---
-title: "Day 97 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
-day_number: 97
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 97
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-
+title: "Day 97 - Venom: When Love Becomes Poison"
+author: Matias de Stefano
 practice_elements:
-  chakra: "Crown"
-
+  vibration: "NEW"
+  statement: "I am the expansion of the universe"
+  chakra: "Root Chakra"
+  law: "Law of the First Dimension"
+date: "Day 97"
+week: "Mental Week (Week of 12 Dimensions)"
+month: "Scorpio"
+keywords:
+  - venom
+  - love
+  - poison
+  - weakness
+  - scorpion
+  - snake
+  - spider
+  - tool
+  - rust
+  - protection
+  - unconscious
+  - potential
+  - toxic
+  - root chakra
+  - Kun dalini
+  - emotions
+  - feelings
+  - five senses
+  - sugar
+  - darkness
 ---
 
-# Day 97 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+# Day 97 - Venom: When Love Becomes Poison
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+**Vibration**: NEW  
+**Statement**: "I am the expansion of the universe"  
+**Chakra**: Root Chakra  
+**Law**: Law of the First Dimension - The first dimension is projected from the mental concept of unity. This is the dimension of the vortex or dot, where all forces converge, where is the void itself, neutrality. The first dimension goes through all, for all originates from it, and doesn't have a fixed point but inhabits in all things. Where our quantum reality moves and focuses all forces. That's one.
 
-## Introduction
+## Overview
 
-Hi everyone , morning , good afternoon , good evening.
+Venom and love are the same word at their origin. The word "venom" comes from the Indo-European language "vhen," which means love. This seems impossible until you understand the process: love is the main energy that creates all other energies, all other emotions, allowing them to manifest. Love comes down from the spiritual world, dividing itself into many different energies and emotions that need to manifest in the roots of the planet—in our root chakra. From there, we unite all the different emotions the spirit used to manifest in this reality, what we call reproduction. This is why all this love and all these energies, when they find themselves in the root chakra, create the Kundalini energy—the energy that starts to flow upward, reconnecting us with unconditional love.
 
-## Energy Work
+But here's the transformation: when you live plainly in consciousness, you use all the potential you have inside and apply it in your life—that's living in love. When you live through the unconscious, instead of giving your potential to activate the world outside, you try to accumulate things from the outside inward because you feel you must survive and protect yourself. When you protect yourself and close yourself off, your inner tools get no use. And when a tool is not used, it gets rusty. When a tool gets rusty, it becomes toxic. The same tool you were supposed to use with love turns out to be venom. This happens in two ways: ignorance (not knowing how to use the tool) and protection (using the tool to protect yourself from the world instead of for the world).
 
-So remember that we are in the month of Scorpio in the mental week , mind week , and today , according to the root chara.
+Spiders, snakes, and scorpions have venom not because they are the "bad guys" of nature—they have venom because they are weak. They are so weak that they had no other way to protect themselves than to take the potential they have within and create a venom to protect themselves from their weakness. Venom is born from the concept of love that makes you feel weak. The same love that creates your life, when it shows your weakness, creates your own venom. This is why in ancient cultures, when a person stopped love and started to feel controlled by others or to control others, when you live from the root chakra with sexuality without allowing the energy to flow to consciousness, the love of creation becomes venom.
 
-So one of the things that I want to share before we start is that as you may see all this month , we have , I have been channeling just a little bit. And so just a little bit of it and not not much , but they were a lot of beings from different parts , from different realities and , and they all not to talk much , but to share a little bit of their energy with us.
+## Core Teaching
 
-So what I want to just share about this is that , some of the messages and the information or the codes that they are working with , where they , they are not specifically doing it with everyone that is now watching and connected. They are just doing a connection of codes , so some codes affect a few people , some other codes affect too many people , some others just myself. And basically what they are trying to do is to try to do is to align the energy with the information they are trying to share.
+### The Etymology of Venom: From Love to Poison
 
-So it 's not specifically for you , but maybe it 's for some of you , okay , I was it. I know the thing that I want to just say is that maybe that all the beings that come and stick through me , they are in the same energy that I am , otherwise they would n't be able to speak , of course , everyone who is channeling is basically aligned with your own energy.
+The word "venom" comes from the Indo-European language "vhen," which means love. To understand how love became venom, we must remember what love is. Love comes from meaning passion, the drive to do something. This passion is the origin of all other actions, all other energies to manifest. Love is the main energy that creates all the others. In ancient languages, love means eternity—the eternal energy that helps the other emotions to exist, that allows all other emotions to exist. All the other energies manifest from love.
 
-So you will have to trust here , but , basically all the beings that are coming , they are not doing something opposite or different to what I do.
+From the spiritual world, love divides itself into so many different energies and emotions that they need to manifest themselves in the roots of a planet. That is our root chakra. From there, we unite all the different emotions, all the different things that the spirit used to manifest and create in this reality—what we call reproduction. This is why all this love and all these energies, when they find themselves in the root chakra, create the Kundalini energy, which is the energy that starts to flow upward, to move up, so we reconnect again with unconditional love. But first, we have to go through all this process.
 
-So you do n't have to be worried or afraid of them to harm me or do something weird , because basically they would be according to what I am sharing.
+### Love Divided: Coming Down and Going Up
 
-So if they stick through me , it 's like you listen to me.
+The energy of love creates all the rest of the energies, the other emotions, to be able to be downloaded in the root chakra, in the genitals. From the genitals, the same love is searching itself unconditionally, going up through the being. Here we have this concept: love coming down to our body and going up through our bodies. Coming down, it divides itself to experience itself. Going up, it unifies itself. This love, when it comes down to the root chakra, starts to divide in different layers that we call different emotions.
 
-So even if they speak or I speak , it would be basically the same , okay , so it 's not like something against.
+The emotions are the tools that help you do your stuff in life—they're useful. These emotions, in order to be something real and useful in life, have to be felt by the five senses. That's why we call them "feelings" because you can feel through the different five senses the reactions from the outside in the inside. When we live plainly in consciousness, we live through love because we act and we use all the potential that we have inside—we apply it in our lives. That's living in love.
 
-Another thing that I want to explain is the sentence that I suggested , through the network , the wavy talking , that is , you are trapped in me until you become me.
+### The Unconscious Path: How Love Becomes Venom
 
-So I want to explain what this means , because yesterday I was like a little bit there.
+In the opposite side, we have a life lived by the unconscious. To live through the unconscious brings us to an idea of life which is: instead of giving the potential that you have within to activate the potential outside, it would be to try to accumulate things from the outside toward inside because you know you are going to be safe, you need to survive. So you start to protect yourself. When you protect yourself from whatever problems are outside, whatever problems you are facing, you will have no idea how to use your inner tools. So you close yourself to protect yourself and not to use those tools.
 
-So I would n't be able to , I had n't be able to explain specifically.
+When I live through love in consciousness, I know how to use my potential, to activate my potential, and to use the tools of my potential. But as in every work, if you don't use your tools, if you live through the unconscious trying to protect yourself from the outside, your tools will get rust. They will start to be rusty, and suddenly you won't be able to use them anymore. When a tool is not used and gets rust, the tool starts to be toxic. By being toxic, it begins to be a venom. So the same tool that I was using with love turns out to be venom.
 
-So basically the sentence that she used , you are trapped in me is basically because we think or not we some people think that we are trapped in the matrix in the network. And we have to escape from it , but basically we are. No , so the thing is that some people would say we have to escape from it , but the reality of why they think we have to escape from it is because you are thinking is different things. Separate from each other.
+### Two Ways Venom Is Created
 
-So we may think that the matrix is something that is outside of me controlling me or that is defining me separating me from something that is above or God or whatever. But what really , what is really real , really the problem is the concept of separation of thinking that is something outside controlling me. That 's a problem.
+This happens because of two different things, two different ways:
 
-So from the point of view of the universe everything is one.
+**First: Ignorance** - Not having any idea how to use that tool, so it gets rusty. I don't know how to use it, and I don't want to use it, so it becomes toxic, it becomes venom because I'm not using it, I don't know how to use it.
 
-So when we think that there is something from the outside controlling me is because basically I am not thinking and leaving and acknowledging that everything is one.
+**Second: Protection** - You have this tool to activate your potential, but if you start to think that you have to protect yourself from the outer world, you will use the same tool to protect yourself. Basically, you stop using it for the world and start using it to protect yourself from the world. That's how it becomes also venom.
 
-So I am in the duality , the concept of duality.
+### The Example of Spiders, Snakes, and Scorpions
 
-So the universe is only one thing into different perspectives , okay , but it 's just one thing.
+We have the example of spiders, snakes, and scorpions that have venom and protect themselves with the venom. But they don't have venom because they were the "bad guys" of nature, because they are bad people or whatever. It basically happens because they are weak. They are so weak that they had no other way to protect themselves than taking the potential they have within and creating a venom so they could protect themselves from their weakness.
 
-So so basically.
+Here we can understand how venom is being created. It's not because I have the potential to create venom. No, it's because of the weakness. Because you feel weak, because you are not able to protect yourself, that's the reason why you create a venom. Basically, venom is born from the concept of love that makes me feel weak. So the same love that creates your life, when it shows your weakness, creates your own venom.
 
-So basically when the network , yeah , when the weaver said , you have to become me in order to escape me. It explains that you can not escape something that you are.
+### In Ancient Cultures: Love Becomes Venom
 
-So basically the matrix is just one expression of the unity that you are.
+This is why in the past, in the ancient cultures, they understood that love was all the creation. When a person stopped the love and they started to feel controlled by others, they started to control others. When you start to live from the root chakra with sexuality and you don't allow the energy to flow to the consciousness to be someone that manifests instead of just living by their passions—that's how the love of the creation becomes venom. That's how when the word of love becomes venom, which is "vhen" to venom.
 
-So in order to become the unity you have to become the network and that 's the way in which you become the creator.
+### Venom in Our Daily Life
 
-So this concept of matrix that is manipulating us separating us from truth. Basically it does n't have an logic in a universe that is only one thing that is unity.
+What's the use of all this in our daily life? Well, basically, we all are living with venom within ourselves. We all have some kind of venom. And this venom was created because of hunger, rage, control, manipulation, and so many emotions. All of them are born from a conflict with love—because maybe I had a lack of love, or I don't know how to express love, something related with love of my life, with living with love that maybe was just closed and I couldn't feel it anymore. So suddenly, when I was feeling, that love becomes my poison, my venom.
 
-So the people that used to say they are doing this , those are controlling us or this is separating us from something. They are still living in duality.
+All these conflicts are born from our weakness. When we feel weak, something that we lost, something that we don't feel properly, what we start to do is to take one of the emotions from inside and create it as a tool to protect me due to this weakness. So I create my own venom from that. Just as an example: a person that hasn't received a lot of love during its life will, for sure, have the tendency to eat a lot of sugar. Because in our body, sugar is the sweetness, so we interpret this sweetness with love. Just as an example, that would be like that. Sugar is a poison, is a venom for our body, but the venom is not specifically the sugar—it's my weakness of love, it's my weakness that is the real poison.
 
-So that 's how you understand how duality works.
+### Scorpio People and Seeing Weakness
 
-So let 's go to today 's topic. The topic for today is the name. I know that in English you can say poison , but I 'm not speaking about specifically poison because the poison would be something that you made.
+This is one of the main reasons why most people don't want to know anything about scorpion people. Whoever has a lot of Scorpio in their energy is used to seeing all the weakness of their own personality, used to going to the dark side of their soul and to see their own weakness and to see the weakness in others. They have no problem to say, "Oh yeah, this is my weakness, this is my problem, but this is yours and yours and yours." For the rest of the signs, it's like, "No, I don't want to know anything. No, no, no, this is like death, no."
 
-Something created like chemical reaction. I 'm talking about Venom which is the natural one , the natural biological poison that 's Venom.
+Most of the people don't want to face their darkness and have these problems once and again because for most people, it's like, "I want the light, I just want to work and do my things and on and on." But nobody's like watching their darkness like Scorpio does—like, "You need to watch within the deeper darkness to heal." So they're just repeating the same thing once again. You have to go and look for your own venoms.
 
-So I do n't know if you have read the blog today , but if you did n't , so I will do some spoiler because I will try to explain the origin of the word Venom.
+Sometimes, in order to become a beautiful flower, you have to crawl on shit. That's the laughter of a Scorpio one, watching how everyone is trying to find their own balance, scrolling and crawling in the ground.
 
-So we could understand what is the origin and how it became Venom.
+### The Snake Master's Message: We Are All Reptiles
 
-So the word thing about the word Venom is that we now believe that Venom is those chemical reactions that kills us , that are things that harms us. That are toxic , but the origin of the word Venom comes from the inderapian language , when that means love.
+Yesterday, the Snake Master channeled a message. He said that we humans are from the animal kingdom, and we have evolved in this world through the animal way, which is by survival—through eating, sleeping, feeling safe, reproduction. These main basic emotions are the ones trying to help us stay alive. That's the animal way. All this information is ruled by the reptilian brain, which is the inner brain we have, the oldest one, the deepest part of our brain. We call it the reptilian brain.
 
-So this seems a little bit crazy and I will try to , I will try to explain how love became Venom.
+We live basically like animals, even if we now can think. What he said is: humans are the ones ruling your life through the reptilian brain, so you are the reptilians. If you want to take control of the world, be responsible and stop living through that reptilian brain. Stop blaming others because those others are taking care of the world until you are responsible enough to do it by yourself. The message of this being is about responsibility, to take action, to take part in it.
 
-So let 's remember what is love specifically , so understand how it become Venom. Love remember comes from the meaning it means like passion like this , trying to do something.
+He said: "Don't blame us of your own weakness. We are just to show them into your face, and we will rule the world until you get the courage to do it by yourself. To be free requires responsibility, true responsibility, and we will smile with you, for we all are God's wish and need—we find each other. We embrace you on this. You want to, otherwise, see you in your dreams."
 
-So this passion would be basically the origin of all the other actions , all the other energies to to manifest.
+### Venom as Overdose of Love
 
-So basically love is the main energy that creates all the others. In the engine language is for Latin languages love means eternity.
+The Snake Master also said: "You are the venom, the poison of the world." Venom comes from the word love, so its origin means love. Basically, venom is love that has been given in mistaken doses—you're not giving the love in the proper doses, so it's a toxic dose. It's toxic when you have more than you're supposed to or less than you're supposed to—it's a really bad administration of your love that becomes venom. The same way in which a good thing in different doses can become venom in biology, something toxic, love also can be toxic. An overdose of love is also toxic. That's why he said you are the venom of this world. Until you are not coherent, responsible, you will be that venom, because you are love.
 
-So basically is the eternal energy that helps the other emotions to exist , that allow all the other emotions to exist.
+This is why when we hear this phrase, "I am all love, it's all love with me," maybe you are being toxic. You have to be aware of that.
 
-So all the other energies to manifest.
+## Practice
 
-So this is how from the spiritual world the love is dividing itself in so many different energies and emotions that they need to manifest themselves in the roots of a planet. And that is our root chara and from there we unite all the different emotions , all the different things that the spirit used to manifest to create in this reality that we call reproduction so as spirit can be born. This is why all this love and all these energies and emotions when they find themselves in the root chara they created the Kundalini energy which is this energy that starts to flow to move up.
+The meditation today takes you to the core of the Earth to discover your venom—the tools that have become poison—so you can transform venom back into love.
 
-So we reconnect again with the unconditional love but first we have to go through all this process.
+**Preparation**: Sit comfortable. Begin to move your shoulders in circles to relax tension. Let all the weight fall down, and by taking a deep breath, focus only on your breathing. Perceive all the light around you getting into your body through the skin, filling up all your inner self. Feel the light shining out and inside yourself, for you are the light.
 
-So basically the energy of love creates all the rest of the energies the other emotions to be able to be downloaded in the root chara in the genitals and from the genitals the same love is searching itself unconditionally. Going up in the being.
+**Descent of the I Am**: You are I Am, the higher self. Your own higher self shines above your head and gets inside your body, bringing awareness. Take a deep breath and go within your body through the crown, third eye, throat, heart, solar plexus, sacrum, root, knees, ankles.
 
-So here we have this concept of love coming down to our body and going up through our bodies so coming down it divides itself to experience itself and going up it unified itself.
+**Setting the Intention**: I desire to transform my venom into love. I desire to make all of my crisis a conscious transformation.
 
-So this love when it comes down to the root chara it starts to divide in different layers that we call different emotions. The emotions will be the tools that helps you to do your stuff in life so they 're useful.
+**Journey to the Core**: Take a deep breath and jump toward the core of the planet through the crust, through roots, soil, and rocks. Feel the heat of the magma, going faster toward the pressure of the iron core of the Earth.
 
-So these emotions in order to be something real and useful in life they have to be felt by the five senses and that 's why we call feelings because you can feel through the different five senses. The reactions from the outside in the inside.
+**Finding the Venom**: In the core, under the pressure of the world, in the core of your soul and being, you find your weakness, your venom. Take a look and ask yourself: What is my biggest venom in life? Set the intention, the desire, that your subconscious show you your venom so you can be aware of it and transform it into love by bringing it to the heart.
 
-So when we live plainly in consciousness we live through love because we act and we use all the potential that we have inside we apply it in our lives.
+**Vibration**: From the core, vibrate the sound **NEW** repeatedly.
 
-So that 's to live in love.
+**Statement**: Repeat: "I am the expansion of the universe. I am the expansion of the universe. I am the expansion of the universe."
 
-So in the opposite side we have a life lived by the unconscious and to live through the unconscious will bring us to an idea of life which is. Instead of giving the potential that you have within to activate the potential outside it would be to try to accumulate things from the outside towards inside because you know if you are going to be. You are going to be safe you need to survive so so you start to protect yourself so when you do n't when you protect yourself. And whatever the problems are out that whatever the problems you have are facing you.
+**The Snake Master's Presence**: Feel the Snake Master energy speaking:
 
-So you will have no idea how to use your inner tools so you will close yourself to protect yourself and not to use those tools.
+*"You are the venom. And you will be. You are all venom. I want to start with you, ask you to eat your darkness from within. Blame the darkness from outside. Now is the time. Just stop. Make us guilty from your own violence. Now you see that all this time you have been your own reptiles. I am sorry to let you know this, but you are. This makes sense. We, there we are, reptiles, and we are only your brothers and sisters. We are here yet to remind you that in the shadows there are fears, the only ones that can show you how to change your skin. Until that moment, you are not—we will recognize. There you are, you will not become the eye of it. Don't blame us of your own weakness. We are just to show them into your face, and we will rule the world until you get the courage to do it by yourself. To be free requires responsibility, true responsibility, and we will smile with you, for we all are God's wish and need—we find each other. We embrace you on this. You want to, otherwise, see you in your dreams."*
 
-So when I live through love in consciousness I know how to use my potential to activate my potential and to use the tools of my potential. But as in every work if you do n't use your tools if you live through the unconscious trying to protect yourself from the outside. Your tools we get rust.
+**Return**: Take a deep breath. Bring all this consciousness through your body, shaking and stretching your body. Bring awareness to each part. Open your eyes when ready.
 
-Okay so they will start to be rusty and suddenly you wo n't be able to use them anymore.
+## Key Insights
 
-So when a tool. When a tool is not used and get rust. The tool. Start to be toxic and by being toxic it begins to be a venom.
+- Venom and love are the same word at their origin—"vhen" in Indo-European languages means love.
+- Love is the eternal energy that creates all other emotions, allowing them to manifest in reality.
+- Love comes down from spirit, dividing into many emotions that manifest in the root chakra, where Kundalini energy begins to flow upward.
+- Living in consciousness means using your potential to activate the world—that's living in love.
+- Living in unconsciousness means trying to accumulate things from outside inward to protect yourself—that's when love becomes venom.
+- When you don't use your inner tools because you're protecting yourself, the tools get rusty, and rusty tools become toxic, become venom.
+- Venom is created two ways: ignorance (not knowing how to use the tool) and protection (using the tool to protect yourself from the world instead of for the world).
+- Spiders, snakes, and scorpions have venom not because they're evil but because they are weak—venom is born from weakness.
+- The same love that creates your life, when it shows your weakness, creates your own venom.
+- We all have venom within ourselves, created from hunger, rage, control, manipulation—all born from a conflict with love.
+- A person who hasn't received love may seek sugar (sweetness) as a substitute—the venom is not the sugar but the weakness of love.
+- Scorpio people are comfortable seeing weakness in themselves and others, which is why many people avoid them—but this is necessary for healing.
+- The reptilian brain rules our survival instincts—we are the reptiles running our lives through unconscious patterns.
+- Venom is love given in wrong doses—too much or too little—a bad administration of love that becomes toxic.
+- To be free requires responsibility; we must stop blaming darkness outside and eat our own darkness from within.
 
-So the same tool that I was using with love turns out to be a venom. And this is this happens because two different things.
+## Integration
 
-So this two different ways would be one is the ignorance. Not having any idea of how to use that tool so it gets rusty.
+### Daily Exercise
 
-So I do n't know how to use it and I do n't want to use it.
+Tonight before sleep, ask your subconscious: "What are my venoms in life? What tools have I stopped using out of fear or protection?" When you discover your venoms, you discover your weaknesses. When you discover your weaknesses, you understand what tools you lost in your life. Write down whatever arises. The image for today is the scorpion that stings its own neck so it can feel the poison, the venom of its own soul. That's the work—finding where it hurts, where the venom lives.
 
-So it becomes toxic it becomes venom because I 'm not used in it. I do n't know how to use it. And the second one would be to protect yourself and how it comes because. You have this tool to activate your potential.
+### Applying the Wisdom
 
-But if you start to think that you have to protect yourself from the outer world.
+Throughout your day, notice when you are using your emotions and energies to protect yourself from the world (creating venom) versus using them to activate potential in the world (expressing love). When you feel defensive, controlling, or like you're accumulating rather than giving, pause and ask: "What weakness am I protecting? What tool have I let rust?" The answer reveals your venom. Once you see the venom clearly, you can begin to transform it back into love by using the tool for its original purpose—not protection, but creation.
 
-So you will use the same tool to protect yourself.
+## Questions & Answers
 
-Okay. Basically it 's basic.
+**Q: How can venom and love be the same thing?**  
+A: Venom comes from the Indo-European word "vhen," which means love. Love is the main energy that creates all other emotions. When love comes down from spirit, it divides into many emotions that manifest in the root chakra. If you live in consciousness, you use these energies to activate the world—that's love. But if you live unconsciously, protecting yourself from the outside, you stop using your inner tools. When a tool is not used, it gets rusty, and rusty tools become toxic. The same tool you were supposed to use with love becomes venom. That's how love becomes poison.
 
-So you stop using it. For the world you start to use it to protect yourself from the world. And that 's how it becomes also venom.
+**Q: What are the two ways venom is created?**  
+A: First, ignorance—not knowing how to use the tool, so it gets rusty and toxic because you're not using it. Second, protection—you have the tool to activate your potential, but you start thinking you need to protect yourself from the outer world, so you use the same tool to protect yourself instead of for the world. That's how it also becomes venom.
 
-So we have the example of spiders , snakes and scorpions that they have the venom and they protect themselves with the venom. But they do n't have venom because they were like the bad guys of nature and they are bad people whatever. It basically happens because they are weak. They are so weak that they had no other way to protect themselves than taking the potential that they have within and create a venom.
+**Q: Why do spiders, snakes, and scorpions have venom?**  
+A: Not because they are evil or "bad guys" of nature, but because they are weak. They are so weak that they had no other way to protect themselves than to take the potential they have within and create a venom to protect themselves from their weakness. Venom is born from weakness, not from evil.
 
-So they could protect themselves from their weakness.
+**Q: How do I know what my venoms are?**  
+A: Your venoms are the tools inside you that have become toxic because you're not using them properly—either from ignorance or from using them for protection instead of creation. They often manifest as hunger, rage, control, manipulation, and other emotions born from a conflict with love. Look for what you're protecting, what you feel weak about, what you lost. For example, if you didn't receive love, you might seek sugar (sweetness) as a substitute—the venom isn't the sugar but the weakness of love behind it.
 
-So here we can understand how a venom is being created. It 's not because I have the potential to create venom. No , it 's because of the weakness. Because you feel weak , the Jew are not able to protect yourself.
+**Q: What did the Snake Master mean by "we are all reptiles"?**  
+A: Humans evolved through the animal way, driven by survival—eating, sleeping, feeling safe, reproducing. This information is ruled by the reptilian brain, the oldest, deepest part of our brain. We live like animals even though we can think. The Snake Master said humans are the ones ruling life through the reptilian brain, so we are the reptilians. If we want to take control of the world, we must be responsible and stop living through unconscious, reptilian patterns. Stop blaming others—they're taking care of the world until we're responsible enough to do it ourselves.
 
-And that 's the reason why you create a venom.
+**Q: Why is Scorpio energy so intense about weakness and venom?**  
+A: Whoever has a lot of Scorpio in their energy is used to seeing all the weakness of their own personality, going to the dark side of their soul, and seeing weakness in themselves and others. They have no problem saying, "This is my weakness, and this is yours." For most other signs, this is uncomfortable—they want light, not darkness. But Scorpio knows that you need to watch within the deeper darkness to heal. Otherwise, you just repeat the same problems over and over. Sometimes, to become a beautiful flower, you have to crawl on shit.
 
-So basically , venom is born from the concept of love that makes me feel weak.
+**Q: What does it mean that venom is "love in wrong doses"?**  
+A: Venom is love that has been given in mistaken doses—too much or too little, not the proper amount. It's a bad administration of your love that becomes toxic. The same way a good thing in wrong doses can become poison in biology, love can also be toxic. An overdose of love is toxic. This is why when someone says, "I am all love, it's all love with me," they might be toxic. You have to be aware of that and give love in proper doses, coherently, responsibly.
 
-So the same love that create your life. When it shows your weakness , it creates your own venom.
-
-So this is why in the past in the ancient cultures they understood that love was all the creation. And when a person stopped the love and they started to feel control by others. They started to control others. When they.
-
-. . When when when when you start to leave from the root chara with sexuality and you do n't allow the energy to flow to the consciousness to be someone that manifests instead of just living by their passions.
-
-So that 's how the love of the creation becomes venom. And that 's how when the word of love becomes venom which is venom.
-
-So what 's the use of all this in our daily life? Well , basically , we all are living with venom within ourselves. We all have some kind of venom. And this venom was created because of hunger , rage , control , manipulation.
-
-And so so many emotions. And all of them are born from a conflict with love. Because maybe I had a lack of love or I do n't know how to express love.
-
-Something related with love of my life , with living with love that maybe was just. . . Closed and I could n't feel it anymore.
-
-So suddenly , when I was feeling that love becomes my poison , my venom.
-
-So all this conflicts are born from our weakness. When we feel weak , something that we lost , something that we do n't feel properly , when we start to do is to take one of the emotions from inside and create it as a tool to protect me , due to this weakness.
-
-So I created my own venom from that.
-
-So just as an example , a person that has n't received a lot of love during its life , for sure we 'll have this tendency to eat a lot of sugar. Because in our body , sugar is the sweetness.
-
-So we interpret this sweetness with love.
-
-So just as an example , that would be like that.
-
-So sugar is a poison , is a venom for our body. But the venom is not specifically the sugar. It 's my weakness of love , it 's my weakness , that is the real poison.
-
-## Q&A
-
-So today our task for today is to figure what are the venues of our life. Those who we think they are trying to protect us from our weakness , but what they are really doing is to kill us , is to kill us.
-
-So the task would be to ask to our subconscious. When we go to sleep , what are my venues in life? When I discover my venues , I discover my weakness. When I discover my weakness , I will understand what are the tools that I lost in my life.
-
-And when I recognize those tools , I can start to work on them to find them , to create them.
-
-So the image for today , basically is the scorpion that 's sting. Sting in the neck.
-
-So it can feel the poison , the venom of its own soul.
-
-So that 's when we have to work remember scorpion. Is that guy that says , oh , here 's the point , here 's where it hurts. This is the point where you have the venue. This is the reason why it 's so difficult for a lot of people to relate with scorpion people.
-
-Because whoever has a lot of scorpion in its energy , it 's used to see all the weakness of its own personality. It used to go to the dark side of its soul and to see its own weakness and to see the weakness in others. It does n't have any problem to say , oh , yeah , this is my weakness , this is my problem. But this is yours and yours and yours.
-
-And for the rest of the science , it 's like , no , I do n't want to know anything. No , no , no , no , no , this is like death , no. But this is why most of the people kind of do n't want to know anything about this venue things and so on. And scorpion people that 's talking about that constantly.
-
-So this is why this is one of the main reasons why most of the people of the world , they do n't want to face their , they have this problems once and again because for most of the people is like , I want to. I , I , I do n't want the darkness , I just want the light and to work and do my things and so on and down and on. But nobody 's like watching their darkness like scorpion does is like you need to watch within the deeper start to heal.
-
-So they 're just repeating the same thing once again.
-
-So you have to go and look for your own venues and I already said how. And this is the laughter of an scorpion one. Watching how everyone is like trying to find their own. Scrolling and crawling in the ground.
-
-Sometimes in order to become a beautiful flower. You have to crawl on shit.
-
-## Daily Practice Elements
-
-So let 's go to information for today. The vibration for today is new statement. I am the expansion of the universe.
-
-Today we start with the week of 12 dimensions. The goal for today is the first dimension projected from the mental concept of unity. This is the dimension of the vortex or dot. Where all forces converge.
-
-Where where is the void itself neutrality. The first dimension goes through all for all originates from it and does n't have a fixed point. But in habits in all things. Where our quantity reality moves and hoaxes all forces.
-
-That 's one. See it comfortable.
-
-So just if someone was worried about about my coaching. I went to. I went to make some blood test yesterday. And I 'm not fine.
-
-I 'm really fine.
-
-So I have no problem. Nothing. Everything is perfect.
-
-So.
-
-So according to the test. All the tests that I did. Everything is perfect.
-
-So. It 's this is psychosomatic.
-
-So basically. For sure. It 's something that happened exactly a year ago that started to make the queen a conflict here.
-
-So something that that I have to work with myself , which is my own venue.
-
-So. I will do my best. See comfortable and we start to move our shoulders. We move in circles to this charge.
-
-Energy. Intention. And when I relax. And let all the weight fall down.
-
-I just focus in my breathing. I 'm going to do my best. Take it to breath. And perceive the light surrounding you.
-
-And how it goes through your skin. See your muscles. Thumbs and organs. I perceive the inner light shining equal as the one outside.
-
-Recognizing that I am all light. I become aware that I am. I am the higher self. Going down through all my body.
-
-## Energy Work
-
-I become aware that I am. I am the higher self. Going down through all my body. Through the crown.
-
-They are eye. Throughout. Heart. Plexus.
-
-Sacrifice. Good. Iz. Enclosed.
-
-The light. Confirm within. From the light. I manifest my intention.
-
-By desire. To transform my venom into love. And bring your desire. To the core of the planet.
-
-Going out from your feet. Through the crust of the world. Rocks. Roots.
-
-Feeling the pressure and the heat of the magma. The push me towards the core. The iron core of the earth. Under the pressure of the world.
-
-In the core of your soul and being. For your find. Your weakness. Your venom.
-
-## Q&A
-
-Take a look. And ask yourself. What is. My biggest venom in life.
-
-I set the intention. The desire. That my subconscious. Show me.
-
-My venom.
-
-So I can be aware of it. And transform it into love. By brain. The heart.
-
-I am. The universe expansion. I am. The universe expansion.
-
-I am. The universe expansion. I am. The universe.
-
-The universe. I am. I am. I am.
-
-You are. And you. Over. We are all shit.
-
-I want to stop you. As you can eat. Your darkness. From within.
-
-Blame the darkness from outside.
-
-Now is the time. Just stop. Make us guilty from your own presence.
-
-Now you see. That all this time. You have been your own reptiles. I am sorry.
-
-To let you know this. But you are. This makes sense. I am sorry.
-
-To let you know this. But you are. This makes sense. To let you know this.
-
-But you are. This makes sense. You are. There we are , reptiles.
-
-And we are only. Your brothers and sisters. We are. Yet to remind you.
-
-That. Jim. That. In the.
-
-We. There are tears. Are the only ones that can show you. How.
-
-How to change your skin. Are you. Are you. Are you.
-
-You. You. You. You.
-
-You. You. You. Until that moment.
-
-You are not. He will recognize. There you are. You will not become.
-
-The. Of it. Do n't blame us. Of your own weakness.
-
-We are just to show them into your face. And we will rule there well until you get no heart to do it by yourself. To be free requires responsibility , mere responsibility , and we will smile with you for we all are gods , wish , and need , we find each other. We embrace you on this.
-
-You want to , otherwise. See you in your dreams. My silence. I will help you see your faith.
-
-I will help you see your faith. I will help you see your faith. I will help you see your faith. Thank you.
-
-Thank you. Take a deep breath. Bring all this consciousness through your body like crazy and stretching your body. You will be happy to help me to make a translation of the message.
-
-That will be nice if you put it all together in the message below in the comments. Thank you. I guess this will filter a lot of people. We are here to work for the new reality.
-
-So we are working for the integration of everyone that is willing to change to transform the world. I will try to make a summary once I read what he said because I remember. I think we could discuss the message that he gave. Thank you for being there for trusting and the tomorrow.
-
-See you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
-
----
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+**Q: How do I transform my venom back into love?**  
+A: First, discover what your venoms are by asking your subconscious to show you what tools you've stopped using or are using for protection instead of creation. When you discover your venoms, you discover your weaknesses. When you discover your weaknesses, you understand what tools you lost. Once you see the venom clearly, you can start using the tool for its original purpose—not to protect yourself from the world, but to activate potential in the world. That transforms venom back into love. It requires responsibility, courage, and eating your own darkness from within instead of blaming darkness outside.

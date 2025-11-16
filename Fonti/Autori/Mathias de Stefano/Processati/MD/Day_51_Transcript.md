@@ -1,302 +1,212 @@
 ---
-title: "Day 51 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
-day_number: 51
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
-
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 51
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-
-practice_elements:
-  chakra: "Crown"
-
+title: "Day 51: Birth - The First Pulse of Life"
+teacher: "Matias de Stefano"
+series: "365 Days: The Path of I Am"
+day: 51
+cycle: "Virgo - The Body"
+focus: "Crown Chakra - Physical Week"
+theme: "Understanding Your Birth as Life's First Impulse"
+date: "2023-08-21"
+tags: [birth, rebirth, cycles, eternal-life, death, vibration, Virgo, transformation, spirit-soul-body]
 ---
 
-# Day 51 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+# Day 51: Birth - The First Pulse of Life
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+**Morning Intention:** "I recognize the eternal wave of death and birth pulsing through me."
 
-## Introduction
+**Key Affirmation:** "I am the greed of ideas."
 
-Hi everyone. I hope you can hear me , you can see me. As you may see today , I am exhausted. I 'm like this because we have been this three , four days with this group of 25 people.
+**Soul Pattern Vibration:** FA
 
-Even if we have been working beautifully and we have been enjoying , we have enjoyed everything that we have done and everything , I should say that I am really tired because I was used to be alone in this past month. That 's why just three days , God makes us exhausted. What we have been doing here was also explaining , working with them and going to the pyramids and working with the energy. But also I have been trying to keep doing it not only with them but also with you.
+**Physical Focus:** Crown chakra, cellular consciousness
 
-Doing the transmissions and writing the blog. I was doing all at the same time. That got me exhausted. If you see this face today , yes , today I am tired.
+**Meditation Practice:** Rebirth visualization through the mother cell
 
-This is the day that I can say I am really tired. Besides the work , I have been running all the time because I came to the room only to write or to sleep. Then I work and then going around everywhere. I have a complete mess in my room right now.
+## Overview
 
-It 's an opposite of Tobago , my room right now. I am nervous about that. But anyway , I will organize tomorrow. One other thing is that without the eyes , without the glasses , I am not able to see anything today.
+Today begins the **physical week** of Virgo - the body as temple. We start with the crown chakra and the most fundamental physical question: **how was your birth?** This moment determined the pulse, the rhythm, the initial energy with which you jumped into life.
 
-You will see my reflection.
+Birth isn't just a past event - it's the ongoing pattern of how you enter new experiences. The way you were born reveals the way you live. Understanding your birth helps you recognize whether you're following that original impulse or have drifted from it.
 
-## Energy Work
+The radical teaching: **death and birth are the same door.** What we call "death" in one dimension is "birth" in another. The universe operates as a constant wave - life/death/life/death - with no true endings, only transformations. Nobody really dies; nobody is really born. Everything constantly transforms itself.
 
-Today we start with the physical body , the physical aspect of which is this week. I connected to the crown chara.
+## Core Teaching
 
-Today is an issue that I wrote down. I did it very late. I do n't know if you were able to read it. But it 's about bathing , the birth.
+### The Eternal Wave: No Beginning, No End
 
-Today with the crown chara in the physical body , we have to discuss about the physical , complementary aspect of death that we have been talking about. One of the things we have been working with all this week was about patterns of the waves , the vibration , the frequency , and how it is moving like positive , negative , positive , negative. Wave pushing the creation of the whole universe. According to this vibration , one of the aspects of the physical wave is that we also die and born.
+The universe functions as a constant vibration - a wave that never stops. What we perceive as "death" and "birth" are just phases of one continuous movement. The Greeks called this eternal order "cosmos," created by the great explosion they named "chaos" (the Big Bang).
 
-So the whole wave of vibration would be the eternal life.
+**The wave never ends** - it breaks on the shore constantly, again and again. When you die in this reality, you're simultaneously being born in another. When you die in that reality, you're born in yet another. The process is continuous across all dimensions.
 
-So basically what this means is that the universe is constant. There is no end and beginning in the universe. It 's like a constant wave. There is a whole life.
+**Action vs. Rest** doesn't correspond to life vs. death. Harmony determines when you rest; disharmony keeps you in action. Many who die in disharmony become what we call "ghosts" - they remain in action, unable to rest, because they didn't complete their cycle.
 
-The universe is constantly expressing by bathing. These vibrations are the ones that we in concept divide in death and life. But it 's all one. There is no death and life as a beginning and an end.
+### Spirit, Soul, and Body: Three Frequencies of One Being
 
-That does n't exist. It 's just a perception that we have.
+- **Spirit = Vibration**: The ocean of infinite potential, already enlightened, seeing all possibilities
+- **Soul = Energy**: The currents within the ocean, creating patterns that shape matter
+- **Body = Matter**: The tools that help the soul perceive and experience
 
-So basically what this means is that nobody really dies. Nobody really is born. But everything is constantly transforming itself. One of the ideas that we usually have is that when we die , we go back somewhere where we retire or where we go to vacations like holidays.
+**Same being, different frequencies** - like water expressing as liquid, gas, and solid. The spirit doesn't seek enlightenment (it already IS light); it seeks to **experience** that light through limitation.
 
-And then we come back. But that 's not like that. The thing is that we have a constant wave. And the waves are constant.
+**The soul as movement:** When you die, your consciousness doesn't gather in "the soul" as a container - it **expands** through the soul. The soul isn't something you hold; it's an expansion of energy. Your consciousness spreads across many forms simultaneously.
 
-The waves do n't end. And they start again somewhere else. What really happens is that the waves break in the shore constantly , once and again , once and again. Never ending.
+### Reincarnation Across All Dimensions
 
-So this is exactly how the universe works. When you die , you just , the process of dying in this reality is the process of being born in another reality. The process of dying in that other reality is the process of born in a new reality.
+Reincarnation isn't unique to the third dimension - it happens across ALL dimensions as a process of adaptation. A fifth-dimensional master "dies" when they realize they don't know everything, becoming a third-dimensional student to experience what they missed.
 
-So basically we have decided we have organized the universe in such a way that we would say we would say when we die , we go to rest. And then we take action when we start a new life. But it 's not like that. When we find the resting process during the process of harmony.
+**You are born from spiritual death:** A part of you living in higher dimensions had to "die" for you to be born here. Birth in the third dimension is death in another realm.
 
-And that goes through life and death. It 's constantly.
+**Memory isn't exclusively yours:** Because the soul expands and absorbs information from everything around it, you can remember lives that weren't "yours" in the linear sense. If you died near Julius Caesar, your soul captured his information - you might remember "being" Caesar even if you weren't.
 
-So the waves of harmony gives us rest. The waves of the ceremony gives us work action.
+The universe is ONE - so it doesn't matter who you were. If you believe you were someone, in a sense you were, because there's no true separation.
 
-So why the ceremony process is the action process? Because when we take action , it 's because we are looking for a new point of harmony where to rest.
+### Birth as the Determining Pulse
 
-So the process of harmony is the one that helps me to know that I ended a process , I accomplished a cycle.
+**The moment of birth** determines the energy with which you jump into life. How you were born reveals how you approach all transitions:
 
-So I can be in harmony resting.
+- **Natural birth with struggle:** Life requires effort; you push through challenges
+- **Cesarean section (easy exit):** Life flows easily; things come without forcing
+- **Complications/trauma:** Transitions feel difficult; changes create resistance
+- **Abandoned/unknown birth:** Relationship with origin unclear; seek belonging
 
-So there 's lots of people that when they die , they are in harmony , this ceremony.
+**The pattern repeats:** Every rebirth in your life (career change, relationship shift, spiritual awakening) mirrors your original birth energy. Understanding this gives you power to reprogram your approach to new beginnings.
 
-So what happens to them is that they keep in action after death.
+### The First Seven Years: Context Creates You
 
-So this is why we can not relate death and life as the process of action and rest. Action and rest are related with which balance and harmony do I have during the process of life and death.
+Everything you experienced in your first seven years encoded in your parasympathetic nervous system (subconscious). The first words heard, touches felt, colors seen, smells experienced - all shaped your inner structure.
 
-So for example , all the people that we use to call ghost are people that they died in this harmony.
+You're similar to the people you lived with as a child not just through genetics but through environmental programming. The pulses of vibration from your surroundings literally formed your neural pathways and cellular patterns.
 
-So they are keeping the action being born in a new reality.
+**The task:** Make these unconscious patterns conscious. Not to heal them (healing is only for wounds), but to **understand their purpose**. Your childhood traumas aren't just wounds to close - they're the impulse that drives your current life.
 
-So this helps us to understand that the process in the universe is not divided in death and then a process of nothing. And then we decide to be born again. The process is a constant.
+## Practice: Rebirth Through the Mother Cell
 
-So it does n't matter to which dimension you go. The door , we can call it the door between each one of them. We can call it death and being born at the same time.
+**Duration:** 20-25 minutes
 
-So this is why we also can understand that it happens through all the dimensions.
+**Preparation:**
+- Sit or lie comfortably
+- Focus on your breathing
+- Allow body to become aware of its billions of cells
 
-So someone from the fifth dimension can also die and goes to the sixth dimension , being born in the sixth dimension. And somebody from the sixth dimension can die in the sixth dimension and be born in the fifth dimension.
+**The Meditation:**
 
-So the process would be different. There would be many differences in how it happens , but the concept itself would be mostly the same to be born and die at the same time.
+### 1. Finding the Mother Cell (5 minutes)
+- Dive within your body with imagination
+- See billions of spheres (cells) creating every part of you
+- Find the most beautiful cell - it calls your attention
+- Approach until it's as big as your body
+- Recognize: **This is the mother cell**
 
-So when we are born in this reality as humans , we may call this as a spiritual death.
+### 2. Entering the Cell (5 minutes)
+- Dive inside, floating in the sea of plasma
+- Touch the chromosomes with your hands
+- Feel the DNA strands curling around your fingers
+- These codes designed your life - every word written inside
 
-So this means that a part of us that was living in the fifth dimension or the fourth dimension had to die in order for us to be born in the third dimension.
+### 3. Conception - The I Am Arrives (7 minutes)
+- Recognize you're inside an ovary cell in your mother's uterus
+- Look outside - perceive light coming toward you
+- The "I Am" arrives as a spiral spermatozoid
+- As it touches the cell, magnetism changes - cell lights up like a sun
+- The spiral enters through your crown, moving down: third eye, throat, heart, plexus
+- From plexus, genetic material spreads to: sacrum, root, knees, feet
+- **Feel the cell divide:** From your perspective (I) and in front of you (Am) = I AM
 
-So for example , the process are different because someone that dies in the fifth dimension , for example , where everything is clear. They do n't die by a heart attack.
-
-Someone in the fifth dimension would die because the master that knows everything suddenly realized that he does n't know everything. And that there were some missing links that he could n't get.
-
-So suddenly that 's the death of the master.
-
-So the master has to become the student to understand that thing that he missed. That 's why the master is alive in the third dimension in order to experience and to assimilate that knowledge to become a master again in the fifth dimension.
-
-So this would explain that the reincarnation process is a constant process is not just for the third dimension.
-
-So the concept of reincarnation would be like the concept of adapting to new dimensions.
-
-So sometimes we used to believe that a human just dies and its soul goes to some place on holidays to rest because of life. And then that soul she decides to come back again as a human. But no , it 's not like that.
-
-Sorry.
-
-So basically , this is not related with the concept of a human culture. This is related more with an electrical pulses electricity.
-
-So basically what this means is that when we die , when we express into other dimensions , we expand through electricity like an expansion of electricity conduction. Basically what this means is that when we die , the energy that makes us exist , it just expands in the environment and they just go by electricity and resonance to the trees to animals of the plants.
-
-So basically it means that when you die , there are aspects of you that they just are born at the same time in things that you have around you.
-
-So they start to record information for the spirit , but in different shapes. As we can feel that that happens in our environment , it also happens through dimensions.
-
-So this is why we could say that a part of us goes to what we could call the heaven , which is the fifth mention , for example. But just picture this that this continues of energy is just a wave. And this is why that wave is called to be born to die , to be born to die.
-
-So the consciousness when you die does n't go and holds to the soul , the consciousness expands in the soul.
-
-So basically the soul does n't catch all the consciousness. It just tries to expand.
-
-Remember that soul is movement of energy. It 's not something that you can hold. It 's an expansion of energy.
-
-So when you die , your consciousness is not whole in one soul. It expands in many.
-
-So we have to acknowledge with this that the spirit is something that eternally is being born in different shapes.
-
-So in order to accept that rebirth thing , we have to accept the process of death.
-
-So we used to relate , we have been speaking about death because we used to relate death with the end of life. But from the perspective of the universe , death is the freedom of the soul because it allows the soul to be reborn in a new shape.
-
-Sometimes also when we start to remember many lives from other times , it 's not exactly that those memories are ours. The energy that we bring , that we hold in our soul is not specifically ours because the soul has been expressing itself and expanding itself so many times that it took information from all over.
-
-So that 's why we can also remember things that were not straight in our own experience. But they were around. For example , my soul can remember to be a tree or for example , can remember to be a Julius Caesar. And maybe I was n't , of course , I was n't Julius Caesar , but maybe I was , I died , closed by him.
-
-So I just felt my soul capture the information of him.
-
-So I can also have the information of who he was , even if I was n't specifically him.
-
-So this is why so many people remember to be important people in the past because when you died in the past , you always had idols.
-
-So you always said , I would love to be like that person.
-
-So the information of your soul is mixed with that concept of that person.
-
-So your soul interprets that he or she is also that person. And also it does n't matter because the universe is just one.
-
-So we are all one.
-
-So it does n't matter who you were. And if you believe that you was , that you were this or that , because even if you were , you were. Because the universe is only one in different shapes.
-
-So the reason why we have all these memories and all these concepts is because the spirit needed to leave the experience. And this is something that I used to explain many times. Let 's remember that spirit , soul and body are three different aspects of the self , of the same being. Different aspects , but the same being.
-
-So remember this , as I always said , spirit is vibration , soul is energy , and body is matter. The three of them are the same thing in different frequencies. But it 's the same thing. As we would say , all of this is water , but it express in liquid , gas , and a solid.
-
-So the spirit expands in vibration and sees that everything is possible. But the spirit in order to leave to experience that potentially that he is seeing needs to put an intention of energy to move forward.
-
-So that 's the soul.
-
-So the energy of the soul will create the patterns that shape the matter and the different bodies.
-
-So the bodies will be the tools that helps the soul to perceive , to sense the different experiences.
-
-So basically , the spirit will be able to understand its own ideas through the energy of the soul by the experiences of the body. If the spirit is like this ocean of vibration , inside this ocean , we will have many currents of waves , of energy that we will call many souls. And each one of the souls will have these patterns of life death , life death , life death.
-
-So to picture this image , remember , the spirit is the ocean. The soul are the currents inside the ocean. And each one of the waves in the ocean will be life and death , life and death of different bodies. But everything is a continuous.
-
-It just transforms itself. This is why in order for something to be born , something else must die.
-
-So picture this that in order for a life to exist in this wave , it needs to come from a death down and it goes to a death down again.
-
-So life and death is not like that.
-
-So to be born is what makes us remember that we are the expression of the spirit trying to experience the knowledge and the wisdom that it has within.
-
-So to be born is the beginning of a path of experience that the spirit has designed. The spirit does n't look for enlightenment because the spirit is already enlightened. What is the spirit to try to do then to try to experience that light? This is why it uses its own light in order to create.
-
-So this is why we have to remember that a spirit , an eternal spirit , decided to die in order to become us now to experience in the limitations.
-
-So this is why the moment of being born is the specific moment that determines the energy with which we jump into life , the pulse of our life. This is why today 's question of the Virgo system for the Crown chara would be how was your birth?
+### 4. Expansion - Creating the Body (5 minutes)
+- Two cells divide into four, eight, sixteen...
+- Organs begin forming: heart, brain, lungs, stomach, liver, pancreas
+- Muscles and bones structure your form
+- Perceive your feet, legs, hands, arms, head
+- You expand through sound: "FA, FA, FA, FA..."
+- The expansion creates your entire physical body
+
+### 5. Birth - Seeking Light (3-5 minutes)
+- Start moving toward light outside your mother
+- Crown emerges first - feel the light
+- Head comes out: eyes, ears, nose - **witnessing new reality**
+- Recognize: "I am the greed of ideas"
+- Place hands on heart
+- Speak: "All thoughts of the I Am are becoming my context. I am that greed of thoughts."
+
+**Integration:**
+Massage body, stretch, yawn. Realize the context of reality is creating you. Connect with I Am to become creator of new reality. Open eyes when ready.
+
+## Key Insights
+
+- Death and birth are the same door - dying in one dimension is being born in another
+- The universe is an eternal wave with no true beginnings or endings
+- Spirit (vibration), soul (energy), and body (matter) are one being at different frequencies
+- Consciousness expands when you die, not contracts - it spreads across many forms
+- Reincarnation happens across all dimensions, not just the third
+- How you were born determines how you approach all life transitions
+- The first seven years encode your subconscious patterns and nervous system responses
+- Memories can be from lives you lived near but weren't directly - soul absorbed information
+- Spirit doesn't seek enlightenment (already is light) - it seeks to experience limitation
+- Understanding birth patterns gives power to reprogram how you enter new beginnings
+- Ghosts are beings who died in disharmony - still in action, unable to rest
+- Birth is the specific pulse that determines the energy you jumped into life with
+
+## Integration
+
+### Daily Exercise
+
+**Morning:** Upon waking, acknowledge: "I have been born again from the realm of sleep. This transition mirrors my original birth pattern. How am I entering this new day?"
+
+**During Transitions:** When starting anything new (project, conversation, journey), pause and ask: "Am I entering this the way I was born? Is that pattern serving me, or should I choose differently?"
+
+**Evening:** Before sleep, review: "How did I 'birth' new ideas, actions, and experiences today? Did I push, flow, struggle, or create with ease?"
+
+### Applying the Teaching
+
+**With Your Birth Story:**
+- Interview family members or research records about your birth
+- Write down every detail: natural/surgical, easy/difficult, welcomed/unwanted, complications
+- Identify the pattern: "I was born by _____, which means I tend to approach life by _____"
+- Recognize where this pattern serves you and where it limits you
+- Practice: Choose one upcoming transition and consciously birth it differently
+
+**With Life Transitions:**
+- When facing career change, relationship shift, or spiritual awakening, ask: "How am I birthing this?"
+- Notice if you're forcing (difficult birth pattern) or flowing (easy birth pattern)
+- If transition feels stuck, examine if you're unconsciously repeating your birth trauma
+- Reprogram: Visualize the mother cell meditation for this specific transition
+- Set new intention: "I am being reborn into ____ with ease and consciousness"
+
+**With Understanding Death:**
+- When fearing death (yours or others'), remember: it's simultaneously birth elsewhere
+- Practice: Observe daily "deaths" - ending conversations, finishing meals, leaving places
+- Notice: Nothing truly ends; energy transforms and continues
+- Question: "Where is this energy being born as it 'dies' here?"
+- Integrate: Death is direction change in the eternal wave, not cessation
 
 ## Q&A
 
-So this is why the task for today is to acknowledge , to be aware of everything that you have lived during the process of being born.
+**Q: How can I find out about my birth if no one remembers or is alive to tell me?**
+A: Meditate with the mother cell visualization. Your cellular memory holds the information. Also, observe your life patterns - how you handle transitions reveals how you were born. Finally, your body knows - ask it.
 
-So if you do n't remember it , you have to ask. And if you do n't have anyone to ask , you have to mediate about it. We all maybe have been spoken with our parents about our birth. One of you may be where adopted , nobody spoke about this issue.
+**Q: If death is just birth elsewhere, why do we grieve?**
+A: You grieve the loss of a particular form, a specific expression. That's valid. The wave's crash is real even though the ocean continues. Grief honors the finite while understanding the eternal.
 
-I do n't know , it 's one is different. And if you do n't know anything , acknowledge that. Like no one ever told me how I was born.
+**Q: What if my birth was traumatic? Am I doomed to repeat that trauma?**
+A: No. Understanding the pattern gives you power to change it. Your birth created an initial pulse, not a permanent prison. Through consciousness (this meditation), you can reprogram how you enter new experiences.
 
-So the questions would be , I was in a natural birth , I was born in a surgery , I was born in which context , I was abandoned , I was nobody told me how it was. I just do n't remember anything. But sometimes you may say , the first thing that you may say is like , I do n't remember. But no , you do remember.
+**Q: Can I remember past lives if they weren't actually "mine"?**
+A: The soul expands and absorbs information from surroundings. "Yours" vs. "not yours" is an illusion - you're part of the universal consciousness. If you remember something, it's because that information is part of your soul's expansion. Whether you "were" that person is irrelevant.
 
-The problem is that nobody told you to talk about this. And the brain just said , nobody cares.
+**Q: What's the practical purpose of understanding I'm an eternal wave?**
+A: It removes fear of death and attachment to form. When you know you're continuous movement, you engage fully with this arc (life) without desperately clinging to it. You create, love, and act with presence rather than panic.
 
-So to remember and to understand the moment of birth helps me to understand the first pulse that pushed me in my life. The people that had a difficult birth for sure , they will have many , they will struggle in the process of changes during your life. To understand the way in which we were born helps us to understand the way we live our lives today.
+**Q: How do ghosts relate to this teaching?**
+A: Ghosts died in disharmony, so they remain in action instead of resting. They're stuck between dimensions, unable to complete the wave's natural rhythm. This shows the importance of living and dying in harmony - completing cycles rather than leaving them open.
 
-So for example , just a tiny thing , I was born by a surgery and doctor just took me out of my mom. I did n't push , did n't do anything , I was just there. And suddenly I just was looking around without crying like everyone 's here.
+**Q: What does "I am the greed of ideas" mean?**
+A: The insatiable appetite of the I Am to express itself through infinite forms and experiences. Your birth is one expression of this endless creativity. Spirit's "greed" to know itself through limitation.
 
-So that gave me the way , the concept of my life being so easy. I live very easy and everything that I do just is easy. It comes very easy because I was born easy. I did n't make any effort to achieve my goals.
-
-I just said , there go. I do n't even cry. And I 'm always trying to see if everyone is doing what they have to do.
-
-So when you picture your life , ask yourself how I was born , how was the process of being born that I can relate with my daily life? And for sure , some of you would say , I do n't understand , I do n't know what to do , I do n't just shut up your mind. And do n't say , no , I do n't know before you just even think about it. This is a task of time.
-
-So to understand the first pulse of our life helps us to understand how we are living our lives.
-
-So this can help us to understand next.
-
-So basically , this helps us by understand that in the next change that I will have in my life , the next rebirth thing that I will have during the process of my life , for sure , will be exactly the same with the same energy of my birth.
-
-So acknowledging this , what I can do is to program my new birth thing. When I recognize from where the things are coming from , I take power from the things that happen. And this is how I can recognize that I am the only one to decide how I want to live my new life.
-
-So that 's the task to write down everything that you know or you remember from your birth thing.
-
-So let 's go to the alignment.
-
-## Daily Practice Elements
-
-Today 's vibration is sa. The statement for today is , I am agreed of ideas. The code for today is the sole pattern , fa. And it says , slowly but surely , energy expands in an in an incessant flow.
-
-The universe is an ocean that evaporated , turning into gaseous state , forming clouds that travel through the air , condensing into rain , unique raindrops that fall over mountains and plains , and into snow , each one unique and irrepeatable , identifying into ice until it melts , and flows on streams and rivers , back into the ocean. The fa is the sound of that journey , the breath of our cyclic history in constant transformation. Sit comfortable , start to focus in your physical body and massage your body. Let 's start to carry the body , messaging the body , giving thanks to it for allowing me to be here and now.
-
-Stretch the body and John. I relaxed the body , I let the weight fall down. I focused my breathing , take a deep breath , and with your imagination , go with the oxygen three or nose towards the lungs , heart , blood , organs and muscles. Take a deep breath and be aware of the heat within your body.
-
-I see , realize that this body is made with thousands and billions of cells , observe the cells. I observe the big greed of beings that create my body. I become aware of just one of those cells , the one that calls my attention , the most beautiful cell that I can see within my body , surrounded by thousands of other cells. Take a deep breath and feel the cell closer to you and with your hands , cares the cell , the sphere.
-
-I observe within the cell and recognize inside of it all the chemical elements that holes and create the information of who I am. They designed my life. This is a mother cell where I can find all the information of who I am here and now. Take a deep breath and dive inside the cell , feel it bigger around you as you go inside of it , feeling the cell all around you.
-
-Take a deep breath and feel how you float inside the sea of plasma. Feel yourself surrounded by the chromosomes made of all these strips of NA , build with all the chemicals that are the books of my life. As I go deeper and deeper , I feel the strips of the NA , the helix , all in between my fingers and around my body.
-
-Now I perceive the codes that created my life. I become aware that these are the books , the designs that my spirit has programmed for me to leave , for me to experience. I recognize that inside is cell. Every word of my life is written.
-
-I feel now. I recognize that this is a mother cell and now it 's my mother.
-
-So I recognize that I am inside an exo and oval. I become aware of this ovary cell. Take a deep breath. Take a deep breath and look outside the cell and perceive the light of the eye and coming towards you.
-
-## Energy Work
-
-I am sending to your body an spiral shape in the form of an espermatozoid cell. Take a deep breath and I allow me to feel the moment when this is spermatozoid starts to go inside the cell through the crown. At the moment when I feel the spermatozoid getting inside the crown , I feel how the light of the eye starts to shine all around the cell. Expanding its light , changing the magnetism , the pulse , the lighting , the cell.
-
-Take a deep breath and allow this spermatozoid to come through the crown , bring in the eye and the seed of life through the third eye , the throat , heart , plexus and from there it 's light , radiate to the scrum , root , knees and feet. Take a deep breath and feel how the light of the eye starts to divide the cell into one here in me , called the eye. And the other one in front of me named the am , eye , am , meiosis , mitotic. Take a deep breath and I start to expand the life , the creation.
-
-Take a deep breath and become aware of the expansion of the self , of the I am in the cell.
-
-So they multiply , form , eight , sixteen and so on constantly towards every direction of time and space. I start to expand as I create my body , the greed of ideas that the spirit has manifest in my body. With the sound I start to create this greed , expanding and creating each one of my organs.
-
-Now from this new reality , my new self , from the I am.
-
-So , so , so , so , so. I keep pronouncing the sound once and again. The supernance , the sound , feel how the I am starts to expand , creating the heart , lungs , intestines , stomach , liver , panchitis , times , period , brain , nerves , bones. I feel the whole body being created by the I am.
-
-I observe my arms and hands , feet and legs , my head , floating in the womb of my mother. And is in this moment where I decide to be born fully aware. Being born begins , giving birth begins. I start to feel my crown starting to go outside the body of my mother , my focus and the intensity of my breath.
-
-I feel the light outside radiating the light of my crown. I am the greed of ideas. Take a deep breath and bring my hands to my heart.
-
-So , I take a deep breath. I become fully aware that the greed of ideas that my I am has designed for me are being recreated for me to be born again into a new now. I am now and here. I am ready to be born into a new idea of myself.
-
-Take a deep breath. With this light in my crown , I start to move my body , stretch the body very soft , carraising. And join. And each one at its own time come back here and now opening your eyes.
-
-So , like this begins the process of being reborn. Ten days of process. Each day we will go a little bit more outside. As always , drink a lot of water and rest a lot as I am going to do like a baby.
-
-See you tomorrow at the same time for the third eye. Bye.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+**Q: If spirit is already enlightened, why does it create limitation and suffering?**
+A: To **experience** what it knows in concept. You can know intellectually what chocolate tastes like, but experience is different. Spirit knows light; body experiences light through contrast with dark. Suffering happens when we resist the experience, not from the experience itself.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+*Tomorrow: Day 52 - Context and the Spider's Web*
