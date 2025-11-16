@@ -1,284 +1,335 @@
 ---
-title: "Day 148 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 148 - Middle East and Central America: The Knees"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 148
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 148
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - portals
-  - consciousness work
-  - root chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - I CAN affirmation
+  - knees
+  - Middle East
+  - Central America
+  - Caribbean plate
+  - Tethys Sea
+  - Garden of Eden
+  - ancestors
+  - flexibility
+  - father and mother
+  - Central America mouth
+  - wisdom from skies
+  - love to earth
+  - Pachamama
+  - Anatolia
+  - Mayan civilization
+  - sedentary culture
 
 practice_elements:
-  vibration: "FLU"
-  chakra: "Third Eye"
+  vibration: "THu"
+  statement: "I Am the Celestial Path"
+  chakra: "Knees"
+  code: "The flexibility in our path. The history of our own life. All the ancestors and everyone that made it possible for us to be here—mom and dad, grandparents and so on. We hold that information in that region of our body."
 
 ---
 
-# Day 148 - Consciousness Work
+# Day 148 - Middle East and Central America: The Knees
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Vibration:** `FLU`
-- **Chakra:** `Third Eye`
-
-## Introduction
-
-Hello. Good morning , afternoon , evening.
-
-So I hope you are all good. And here we are , another day connecting with the niece of the world.
-
-So this week I have been explaining about how to perceive the earth and remember that there is no one place in earth that only means one region of the body.
-
-Remember that the distribution of the body of earth is very different because it is very , and of course we are distributed in a different way in our body , but some places on earth represents two , three and even four regions of the body of earth.
-
-So is different.
-
-So this is just for all of you to understand that sometimes I will be speaking of different things in the same region. And this is because with us humans are constructed like this , like this , but for earth is like different layers.
-
-So there is one layer over the other one , so that 's why some places will represent the same , but it 's because I was I am speaking of the inner part of the outer part of the so on.
-
-So let 's go today to the niece and let 's try to think about where we can find the niece. Just imagine this.
-
-So in order to understand it , we would do this with our niece.
-
-So I will position in this way so I will be seated like the earth.
-
-So like this in this position , I have the heart which is Europe and the two lungs , which are the Amazon and the Congo.
-
-So if I have the heart here and the lung a little bit lower.
-
-So I will have Africa and Europe and here I will have Middle East , Middle East. And in the other side , being like this , because my chin here will be central America.
-
-So in this position of earth , the niece will show us that this two joints are Middle East and central America.
-
-Remember that in this path of acknowledging everything , we have to understand that the niece represent the flexibility , the history , the flexibility that we have in our path.
-
-So they represent the history of our own life.
-
-So also they represent the ancestors and everyone that made it possible for us to be here , which is mom and dad , the grandparents and so on.
-
-So all this history of our ancestors is related to the niece. And we whole that information in that region of our body.
-
-So for the world , this information of mom and dad are related to Middle East and central America. Middle East , being the mom and central America , being the dad.
-
-So let 's go to try to understand how they are formed , how they work with it.
-
-So we can also understand why mom and why dad.
-
-So first of all , to understand the tectonic plates of central America and from Middle East , they are not the main ones , they are not main tectonic plates. They are smaller plates , even made up with others , with different others , smaller ones. And they work with it because of the pressure , because of the pressure of all the other continents around. The two small tectonic plates , the one in central America , is created by fire , by volcanoes.
-
-And all these volcanoes start to create this tectonic plateau in the center. And the other one in Middle East is created by different islands that are put all together by the pressure of Africa and Laudazia , which is a continent , and all the continent of Asia and Europe. They press to one to each other.
-
-So all these islands were in the sea of testis. And testis does n't exist anymore.
-
-So they work with it there in the sea of testis. And so one is created by fire , the other one is created by the pressure of land.
-
-So talking about central America , the plateau of central America is not called the central American plateau or played. It 's called the Caribbean plate.
-
-So the Caribbean plate starts in south of Mexico and makes rise up the mountains of Chips. And from Chips it goes to the Caribbean sea to the south coast of Cuba. In front of Cuba , of course , it is n't called ports the Jamaica. Then it goes to Santo Domingo Island through In and the American Republic.
-
-And it goes to Puerto Rico and from there all the islands of the Until. Until Area all touching the northern coast of Venezuela. And it gets inside the Wahda in Colombia and goes to the western mountains of the Andes in Colombia. Coming up again , through the coast of Panama , Costa Rica , Mara wa , Salvador , Honduras and Guatemala.
-
-So all this territory , the Caribbean plate , is what we also call the mouth , the mouth of the planet.
-
-So imagine that every country in central America or every volcano with central America and every island in the Until represents every teeth. Every tooth.
-
-So all the teeth of the planet.
-
-So imagine for example that one of this the main teeth. This one is Cuba and the other one aside is Santo Domingo.
-
-So this two represents this the the main teeth. The Caribbean plate is moving against the movement of the other two Americas South America and North America. They are moving towards the Pacific Ocean getting away from Africa. And the Caribbean plate , it goes straight to the to Africa.
-
-So it got into the middle of the two big continents and open a path racing up the Until. Central America represents the wise father. The father that came from the skies and brought information to the heavens. And why is that?
-
-Because Central America , as we have spoken before , represents with part of North America , did great father , Mexico.
-
-So the wise man that brings information from the skies towards the earth. And how it does this sharing the wisdom information.
-
-So that 's the mouth. The Caribbean is the mouth of this wise energy and is brought by the ideas of South America , the third eye of South America and the voice to create to manifest of North America.
-
-So in between South America and the head and North America in the third , we have the mouth , the mouth which is Central America.
-
-So geographically , imagine this that in between the mind of the spirit in South America and the throat , the potential of the voice in North America , Central America , the Caribbean plate , is looking for Africa.
-
-So the information of the heavens that the father from the sky , that information is coming to seek for the mother. In order to bring this information to be manifested to be to become life here.
-
-So somehow what we can say is that the mother , the father , is willing to come to the earth to manifest itself because it 's in love with the mother.
-
-So he wants to come here to have a life to have kids with this mother , with earth.
-
-So now you will see that all the American native people is related with the love to earth. And this is not because they represent the mother , it 's because they represent the father that is willing to be with the mother. That is in love with the mother.
-
-So that 's why all the wise people from the Americas that came into Central America download information of the father and they started to spread it into North America and South America , connected the whole population in this love to mother earth to the Pachamama , to connect with giving the to give in everything to the earth to be connected constantly with the earth.
-
-So it 's totally opposite maybe we could think that they were related with the mother , but no , there are the wisdom of the father and that is why they connect with the body of the mother. They are in love with the mother earth.
-
-So now let 's go to the other knee and how it begins.
-
-Now how this part of the world has been created. Well remember this , in the other side of the world Africa was going up towards the northeast and the Laurel Laurecia it was coming southwest.
-
-So both of them started to press to each other and in the middle there was the ocean of Tetris.
-
-So remember that the ocean of Tetris disappeared already , but remember about this the india creating creating the the Himalayas when it pressed the Tetris ocean.
-
-So now it 's happening that.
-
-So Africa is all pushing up and Laurecia is pushing down.
-
-So all the islands that were in the middle between these two continents around the region of the Tetris ocean they got all together creating different layers of mountains that created the middle east plate. The region of to the imitate the region of Middle East where we are going to try to understand it 's all the the regions that incorporate this plate okay which are Anatolia Anatolia is the peninsula that we call today Turkey.
-
-So Anatolia and all the again islands also the peninsula of Filipinos in Greece. All this region of the again sea , creed island , cypress and by the north we go to the Caucasus mountains that separate Russia from Georgia Armenia and a saverhand. Also the whole region of Iran part of Pakistan and the whole Arabic peninsula incorporating the countries of Oman Yemen , Arabia , Tamil Rats , Qatar , Bahrain , Kuwait , Iraq , Jordan , Jordan. The Snail peninsula in Egypt is real Palestine , Lebanon and Syria are all the countries and the territories that represent Middle East and this is I repeat this is a territory that is not part of Asia , not part of Europe , not part of Africa.
-
-This territories that I said are all territories from Middle East , from this plate. This territory is very important from the very beginning for us because it represents the place of the creation of the humans as we know them today because humans were of course created in Africa but they started to migrate to Asia and Europe through Middle East and in Middle East is where they started to discover the how to sow , how to be created their own food , how to become sedentaries.
-
-So that 's why they call it the garden of Eden because everyone was able to create themselves. It 's where we have been created as humans as we know today.
-
-So that 's why in that region is the beginning of agriculture is the beginning of the civilizations of the first main cultures of the world , the main religions of the world , etc.
-
-So that 's why it 's so important. Also it is a very important place because for us because this is in the middle of all the path to other regions like North , South , East and West , connecting Europe , Asia and Africa.
-
-So this is why all the migrations were connected in that territory. And this is why it was so important this territory to create all the cultures because the interaction of all different perspectives used to go into Middle East. In this territory also way before the humans had arrived to America , the humans were created there as we are now.
-
-So this is the land of the creation. This is why this land is the one connected to the origins of our civilization , of our creation of all that we are. And this is why this land is connected to the mother because we have come from the mud , from the ground and we have been created from the very beginning in that land.
-
-So that 's why that is the mother land for humans and that 's why in this knee is related with the mother.
-
-So that 's why Middle East is related to the history of our mother , the mother earth , the creator , the womb of our species of who we are. If in America , Central America is the energy of the father coming down to seek for the energy of the mother because he 's in love with the mother.
-
-So in Central in Middle East who would be the opposite. From the energy of the mother we are going to start to look for the energy of the father in the skies. The stars , the heavens , the gods , trying to go to the other dimensions above looking for the stars.
-
-So because the mother is in love with the father reaching the enlightenment in order to fulfill its path to fall in love with him.
-
-So the mother is in love with the sky , with the father 's sky.
-
-So this land , the Middle East , is the place where the womb of the mother opens to receive the seed of the father 's sky.
-
-## Energy Work
-
-So that 's why this land is the one that promoted the creation of the humans is a portal in between heaven and earth.
-
-So when the mother opens the father 's sky sends his sons , his sons and daughters , from the skies here on earth. And because the earth was in love with the sky , they open for them to receive them.
-
-So this is when from the sky comes this Nephilim , this giants , this other beings from the sky that will have kids with the women and men from earth.
-
-So they create this new humanity and so on.
-
-So the people from the earth used to call those people from the sky. The ones from the sky that are no , that those who are sons of the sky here on earth , they call it like this. We humans call them like this. And in the Sumerian , the Sumerian language and language Numeric , in the Sumerian language , they call this these things Anu , Anu means heaven , sky , Anu , Ninth means kids , the sons and daughters , and T means earth.
-
-So the sons of the sky here on earth is Anu nazi.
-
-So that 's why we know them as an nazi. But this is not the name they would use for themselves. This is the name that we gave to them , because we saw them coming from the Father 's Sky. This is why in this territory , they started to create the idea of this Eden Garden , which is now below the Precious Gulf , below the water.
-
-But it 's surrounded by the deserts and that was like kind of the place of protection that they used to create the humans as we know them.
-
-So I know that maybe you have heard about the Anu nazi coming here to use us as slaves or whatever , but it 's not that. It 's not the main goal that they had. They came here for different things and some of them used us as slaves , but many of them do n't. They helped.
-
-Many of them helped humans to be what they are.
-
-So as always , there is good people but people everywhere.
-
-So it 's not that the Anu nazi came here to control us , but there were some of them that they did.
-
-Now we have mom and that. Maybe we hate mom and dad. Maybe we do n't like them , but they are mom and dad. And they live within us and they are our history.
-
-So even if we hate Anu nazi , if we hate reptilians , if we hate the people from the least , if we do n't want their religions or their governments or whatever they are doing , and if we hate them because of whatever , and we hate also , I do n't know , the wars of the Mayan culture , the After culture , fighting all the conflicts in Central America , the reptilians in Central America , all the control , etc. Maybe we are fighting our dad and mom. But here 's where when we have to do a great family constellation by saying whoever does n't honor mom and dad , whoever does n't honor its own roots , wo n't be able to give good fruits.
-
-So to honor , it does n't mean to to honor the history , it does n't mean that you have to accept or to agree with what happened. You do n't have to agree with when you honor your dad , your mom , you do n't have to agree with them , with their beliefs , with their religion , with their with their way of thinking , they had their own way.
-
-So it 's not about accepting their beliefs or being or just being with the same belief , that 's not honoring to honor our ancestor , to honor our history , is about to acknowledge that I would n't be what I am right now , what I love of me and what I love from the world right now , if it would n't be because of them , because of their path , what they did was what created me , what made me who I am. That 's honoring. Honoring is not about accepting or agree , that 's the word , is not about agree that. I agree with what happened.
-
-No , it 's about honoring and how do you honor by accepting that that was the history , that accepting that , okay , they gave me something good. They helped me to grow to transform myself to understand new things.
-
-Sometimes the greatest enemies that we have in our history or in our life are the greatest masters because they are the ones that show us who we are. And that 's why by thinking them is how I transcend that history. If I do n't honor my roots , I wo n't be able to give seats to the future.
-
-So just to wrap this idea , not all the Jews people are pianist , pianist , not all the Hebrew people are Jewish , not all the Israeli people are Hebrew. And what I mean with this is that we should not say , oh , all these people is the one that is in this or that because we usually do this , it 's something that we naturally we use to do. And it 's not about that. It 's not about saying all this group or this because we do the same with the reptilians , with the Anak , with all these kinds of things , or conceptually.
-
-We are all free individuals. And we can choose what we want to be.
-
-So there is bad choices and good choices. It does n't matter , but it 's not all of them doing one thing.
-
-So for example , I am not Jewish , I am not Muslim , I am not Christian , but I think them , I think them because without their own path , without the path of their history , I would n't be here speaking about all this.
-
-So it 's because then that I am being able to do what I do now. And this is to start to honoring , start to honor our dad and mom from the past. Not only honoring our physical and biological map in that , but also the historical map in that.
-
-So remember , we have them in Central America and Middle East.
-
-## Daily Practice Elements
-
-Okay , so information for today. The vibration is flu. The statement for today is I am the celestial path. The code for today is the records.
-
-The water of the ocean is the memory of the universe. Every drop of water is the cosmos in the cosmos. It has the experience of every entity living in it. And therefore , by becoming it , we get the potential of all the being that once had it within.
-
-The records are a web of information equivalent to the neurons of an inner brain or the drops of water of an ocean. They are the memory of the cosmos , like a public library , where all being have access , if we know how to read its books. Let 's go to the lineman. The word of the universe is the world of the universe.
-
-## Guided Meditation
-
-See , it 's comfortable and start to breathe always by the nose , concentrated in your breathing. I remember that my body is the summary of all the animal kingdom.
-
-So in my path of consciousness , I bring them all guiding them towards enlightenment. In the spirit of the fallen look , it takes an in-brake and I remember that I find myself surrounded by all these animals in the Africa and Banana. I observe in the horizon to the north. The celestial color of these cards breathe deep and go higher as you can see the entire Africa from above.
-
-For a evening surrounded by this light blue color in the atmosphere. From this time. I bring my hands to my knees. Recognizing that I am going to begin this path through this eyes.
-
-Trying to be flexible , walking through it. In order to honor and recognize the mom and dad from earth. I see beyond that landtico ocean in one side of Africa and in the other side crossing the red sea. My historical mom in Middle East and my historical dad in Central America.
-
-I give my first step with my right foot. I observe this path of islands in front of me. As I get closer to the Caribbean sea. I see the island of Trinidad and in front of Venezuela.
-
-I see the line of islands going up with these small countries reaching Puerto Rico. The great center of the name of Cuba. I feel them all within me. I feel from Cuba in front of me.
-
-The Up time links line Mexico. Guided me. The mountains of Chapman and from there through the volcanoes in each country in Central America. I observe all these islands connecting in the highest point of Sierra Nevada with its snow in Santa Marca , Colombia.
-
-## Energy Work
-
-From the folly 's , folly 's and highest point of the Caribbean. I go up bringing the energy of the father and mother searching through the skies to reach how to come back to Middle East and below me I can see the great portal of orange. The door of the sun. I enter the portal of almost to the Garden of Eden surrounded by the desert of Arabia.
-
-And I run following the secret rivers up through Iraq. Raging the mountains of Anatolia , intercity and the great Armenia. And I see the portal of the skies opening through the Sinai Peninsula. Rise and up through the Jordan River through the land of Enlightenment.
-
-Rise后! May countdown pass. And I rain ' nice , my mother and my father in this land. I am the son of the daughter of the heaven and earth.
-
-And I rain ' nice , my mother and earth. I am what I am , thanks to my father 's time. I am a mother of earth. And it 's history.
-
-It 's my skin. And my path is celestial. I am the celestial path. I am the celestial path.
-
-I am the celestial path. I am the celestial path. I am the celestial path. I am the celestial path.
-
-I am the celestial path. I am the celestial path. I am the celestial path. I am the celestial path.
-
-And it 's one , it 's on time. Come back here and now. Thank you everybody for being there. And as always , see you tomorrow , at the same time , for the feet.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Knees
+- **Week Theme:** BODY 'CELESTIAL' - SAGITTARIUS - I See
+- **Main Topic:** Middle East and Central America as the Knees
+- **Vibration:** `THu`
+- **Statement:** `I Am the Celestial Path`
+- **Code:** The flexibility in our path. The history of our own life. All the ancestors and everyone that made it possible for us to be here—mom and dad, grandparents and so on. We hold that information in that region of our body.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+On December 29th, we explore the knees of the planet Earth—two regions that represent flexibility, history, and ancestry: the Middle East and Central America. Matias reminds us that there is no one place on Earth that only means one region of the body. The distribution is very different because we are constructed in layers.
+
+Some places on Earth represent two, three, or even four regions of the body. This is because the Earth has different layers—one layer over another. So sometimes the same region represents different things depending on whether we're speaking of the inner part or the outer part.
+
+The knees represent flexibility in our path, the history of our own life, and the ancestors—everyone that made it possible for us to be here: mom and dad, grandparents, and so on. We hold that information in the knee region of our body.
+
+---
+
+## Core Teaching
+
+### Finding the Knees on Earth's Body
+
+In order to understand where the knees are, imagine positioning yourself as the Earth. Sit as if you are the Earth's body.
+
+In this position:
+- The heart is Europe
+- The two lungs are the Amazon and the Congo (a little bit lower than the heart)
+- Africa and Europe form the upper body
+- The chin is Central America
+
+In this position of Earth, the knees show us that these two joints are the Middle East and Central America.
+
+### The Knees Represent Flexibility and History
+
+The knees represent the flexibility, the history, the flexibility that we have in our path. They represent the history of our own life.
+
+The knees also represent the ancestors and everyone that made it possible for us to be here—mom and dad, the grandparents, and so on. All this history of our ancestors is related to the knees. We hold that information in that region of our body.
+
+For the world, this information of mom and dad is related to the Middle East and Central America:
+- **Middle East = Mother**
+- **Central America = Father**
+
+### Formation of the Two Knees
+
+To understand the tectonic plates of Central America and the Middle East, we have to know that they are not the main tectonic plates. They are smaller plates, even made up with different smaller ones. They work because of the pressure of all the other continents around.
+
+**The two small tectonic plates:**
+1. **Central America** is created by fire, by volcanoes. All these volcanoes start to create this tectonic plateau in the center.
+2. **Middle East** is created by different islands that are put all together by the pressure of Africa and Laurasia (an ancient continent), and all the continents of Asia and Europe. They press toward each other.
+
+All these islands were in the sea of Tethys. Tethys doesn't exist anymore. So one knee is created by fire, the other is created by the pressure of land.
+
+### The Caribbean Plate (Central America)
+
+Talking about Central America, the plateau of Central America is not called the Central American plateau or plate. It's called the **Caribbean Plate**.
+
+The Caribbean Plate starts in the south of Mexico and makes the mountains of Chiapas rise up. From Chiapas, it goes to the Caribbean Sea to the south coast of Cuba.
+
+In front of Cuba, of course, we find Puerto Rico and Jamaica. Then it goes to the island of Hispaniola (Haiti and the Dominican Republic). It goes to Puerto Rico and from there all the islands of the Antilles, touching the northern coast of Venezuela.
+
+It gets inside Colombia and goes to the western mountains of the Andes in Colombia. Coming up again through the coast of Panama, Costa Rica, Nicaragua, El Salvador, Honduras, and Guatemala.
+
+All this territory—the Caribbean Plate—is what we also call the **mouth of the planet.**
+
+### The Mouth of the Planet
+
+Imagine that every country in Central America, every volcano in Central America, and every island in the Antilles represents every tooth.
+
+All the teeth of the planet. Imagine, for example, that one of the main teeth—this one is Cuba, and the other one aside is Hispaniola (Santo Domingo). These two represent the main teeth.
+
+The Caribbean Plate is moving against the movement of the other two Americas. South America and North America are moving toward the Pacific Ocean, getting away from Africa. But the Caribbean Plate goes straight toward Africa.
+
+It got into the middle of the two big continents and opened a path, raising up the Antilles.
+
+### Central America: The Wise Father
+
+Central America represents the **wise father**—the father that came from the skies and brought information from the heavens.
+
+Why is that? Because Central America, as we have spoken before, represents (with part of North America) the great father, Mexico. The wise man that brings information from the skies toward the earth.
+
+And how does it do this? By sharing the wisdom, sharing information. That's the mouth. The Caribbean is the mouth of this wise energy and is brought by:
+- The ideas of South America (the third eye)
+- The voice to create and manifest of North America (the throat)
+
+So in between the mind/spirit of South America and the throat/voice of North America, we have the mouth—Central America.
+
+### Seeking the Mother
+
+Geographically, imagine this: in between the mind of the spirit in South America and the throat (the potential of the voice) in North America, Central America (the Caribbean Plate) is looking for Africa.
+
+The information of the heavens that the father from the sky carries—that information is coming to seek the mother. In order to bring this information to be manifested, to become life here.
+
+Somehow, what we can say is that the father is willing to come to the earth to manifest itself because it's in love with the mother. He wants to come here to have life, to have kids with this mother, with Earth.
+
+### The Love to Mother Earth
+
+Now you will see that all the American native people are related with the love to Earth. This is not because they represent the mother—it's because **they represent the father that is in love with the mother.**
+
+That's why all the wise people from the Americas that came into Central America downloaded information of the father, and they started to spread it into North America and South America. They connected the whole population in this love to Mother Earth, to the Pachamama, to connect with giving everything to the earth, to be connected constantly with the earth.
+
+It's totally opposite of what we could think. We might think they were related with the mother, but no—they are the wisdom of the father. And that is why they connect with the body of the mother. They are in love with Mother Earth.
+
+### The Middle East Plate (The Mother)
+
+Now let's go to the other knee and how it begins. Remember this: on the other side of the world, Africa was going up toward the northeast, and Laurasia was coming southwest.
+
+Both of them started to press toward each other, and in the middle there was the ocean of Tethys. Remember that the ocean of Tethys disappeared already. (Remember about India creating the Himalayas when it pressed the Tethys ocean.)
+
+Now it's happening again. Africa is pushing up, and Laurasia is pushing down. All the islands that were in the middle between these two continents around the region of the Tethys ocean got all together, creating different layers of mountains that created the Middle East Plate.
+
+### The Geography of the Middle East
+
+The region of the Middle East—the territories that incorporate this plate—include:
+
+- **Anatolia** (the peninsula we call today Turkey)
+- All the **Aegean islands**
+- The **peninsula of the Peloponnese** in Greece
+- All the region of the Aegean Sea
+- **Crete Island**
+- **Cyprus**
+- By the north, the **Caucasus Mountains** that separate Russia from Georgia, Armenia, and Azerbaijan
+- The whole region of **Iran**
+- Part of **Pakistan**
+- The whole **Arabian Peninsula**, incorporating the countries of:
+  - Oman
+  - Yemen
+  - Saudi Arabia
+  - United Arab Emirates
+  - Qatar
+  - Bahrain
+  - Kuwait
+  - Iraq
+  - Jordan
+- The **Sinai Peninsula** in Egypt
+- **Israel**
+- **Palestine**
+- **Lebanon**
+- **Syria**
+
+All these countries and territories represent the Middle East. This is a territory that is not part of Asia, not part of Europe, not part of Africa. These territories are all from the Middle East Plate.
+
+### The Garden of Eden
+
+This territory is very important from the very beginning for us because it represents the place of the creation of humans as we know them today.
+
+Humans were, of course, created in Africa, but they started to migrate to Asia and Europe through the Middle East. And in the Middle East is where they started to discover how to sow, how to create their own food, how to become sedentary.
+
+That's why they call it the **Garden of Eden**—because everyone was able to create for themselves. They learned agriculture, sedentary living, and the foundations of civilization.
+
+### Mom and Dad Working Together
+
+The two knees—the Middle East (mother) and Central America (father)—work together to give us flexibility in our path.
+
+The mother (Middle East) is the pressure of land, the convergence, the place where everything comes together. She is the garden where life is nurtured and grown.
+
+The father (Central America) is the fire, the volcanoes, the passion and wisdom from the skies. He seeks the mother to manifest his celestial knowledge on Earth.
+
+Together, they represent our ancestry, our history, our ability to move forward with flexibility. Without honoring both mother and father, both knees, we cannot walk the celestial path.
+
+---
+
+## Practice
+
+### Preparation
+
+1. Sit comfortably with your body relaxed.
+2. Remember that you are in this great sphere of celestial color—light blue and white light.
+3. Find yourself seated on your heart chakra.
+
+### Main Practice Steps
+
+1. I remember that my body is an extension of the animal kingdom. Through my thoughts, I help all of them to light too.
+
+2. I recognize that I am in this world, walking the celestial path.
+
+3. I look toward my knees—the joints that give me flexibility to walk.
+
+4. I see the Middle East—the mother knee—formed by the pressure of continents, the islands of Tethys coming together.
+
+5. I see Anatolia, the Caucasus, Iran, the Arabian Peninsula, the Sinai, Israel, Palestine, Lebanon, Syria.
+
+6. I recognize the Garden of Eden—the place where humans learned to sow, to create, to become sedentary.
+
+7. I feel the mother energy—nurturing, bringing things together, creating the foundation for civilization.
+
+8. I look toward Central America—the father knee—formed by fire, by volcanoes.
+
+9. I see the Caribbean Plate—the mouth of the planet—speaking the wisdom from the skies.
+
+10. I see Cuba, Hispaniola, Puerto Rico, the Antilles, the teeth of the Earth.
+
+11. I see Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama, Colombia.
+
+12. I recognize the father energy—seeking the mother, bringing celestial wisdom to Earth, in love with the Pachamama.
+
+13. I feel both knees working together—one formed by pressure, one formed by fire.
+
+14. I recognize my own ancestors—my mother and father, my grandparents, all who made it possible for me to be here.
+
+15. I honor the history held in my knees—the flexibility to walk my path.
+
+16. Repeat: **I am the celestial path. I am the celestial path.**
+
+17. I walk with the wisdom of the father and the nurturing of the mother.
+
+18. **I am the celestial path.**
+
+19. Take a deep breath.
+
+### Closing
+
+1. Thank the Middle East and Central America for being the knees.
+
+2. Recognize your own ancestors and the path they walked to bring you here.
+
+3. Bring this consciousness into your own knees.
+
+4. Feel your own flexibility, your ability to walk forward.
+
+5. Come back here and now.
+
+6. Take a deep breath and open your eyes.
+
+---
+
+## Key Insights
+
+- **"The knees represent the flexibility in our path and the history of our own life."**
+- **"The knees represent the ancestors—everyone that made it possible for us to be here: mom and dad, grandparents, and so on."**
+- **"For the world, the Middle East is the mother and Central America is the father."**
+- **"One knee (Central America) is created by fire; the other (Middle East) is created by the pressure of land."**
+- **"The Caribbean Plate is called the mouth of the planet."**
+- **"Every volcano in Central America and every island in the Antilles represents a tooth."**
+- **"Central America represents the wise father—the father that came from the skies and brought information from the heavens."**
+- **"The Caribbean Plate is moving toward Africa, seeking the mother."**
+- **"All American native people are related with love to Earth because they represent the father who is in love with the mother."**
+- **"The Middle East is where humans learned to sow, to create their own food, to become sedentary."**
+- **"That's why they call it the Garden of Eden—because everyone was able to create for themselves."**
+- **"The islands in the Tethys Sea came together under pressure to create the Middle East Plate."**
+- **"Without honoring both mother and father, both knees, we cannot walk the celestial path."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Reflect on your ancestors today. Who are the mother and father energies in your life? Who are the people—both literally and metaphorically—who made it possible for you to be here? Honor them. Thank them. Recognize that your ability to walk forward comes from the foundation they provided.
+
+### Applying This Teaching
+
+Notice the flexibility in your knees—literally and metaphorically. Are you rigid in your path, or can you bend and adapt? The knees give us the ability to walk, to climb, to kneel, to change direction. Reflect on whether you honor both the mother energy (nurturing, bringing together) and the father energy (bringing wisdom from above) in your life.
+
+---
+
+## Q&A
+
+### Q: Why are there two knees instead of one region for this chakra?
+
+The knees work in pairs—you need both to walk. Similarly, you need both mother and father, both Middle East and Central America, to walk the celestial path. One is formed by pressure (mother), the other by fire (father). Together, they give us the flexibility and history we need to move forward.
+
+### Q: How can the Caribbean be "the mouth of the planet"?
+
+The Caribbean Plate, with all its islands and volcanoes, looks like teeth. Each island—Cuba, Hispaniola, Puerto Rico, the Antilles—is like a tooth in the mouth. This mouth speaks the wisdom brought from the heavens (South America's third eye and North America's throat) and seeks to connect with the mother (Africa).
+
+### Q: Why is the Middle East called the Garden of Eden?
+
+In the Middle East, humans transitioned from nomadic hunting and gathering to sedentary agriculture. They learned to sow, to create their own food, to settle down. This is where civilization as we know it began. It was a "garden" because humans could create abundance for themselves—they didn't need to wander to survive.
+
+### Q: What does it mean that Central America is "in love with the mother"?
+
+The Caribbean Plate is moving toward Africa (the mother continent) while North and South America move away toward the Pacific. This shows that Central America is seeking the mother. The native peoples of the Americas express this love through their devotion to Pachamama (Mother Earth). They are the father energy seeking to unite with and honor the mother.
+
+### Q: How were the Middle East and Central America formed differently?
+
+Central America was formed by fire—volcanoes creating land through eruption and heat. The Middle East was formed by pressure—the continents of Africa and Laurasia squeezing the islands of the Tethys Sea together until they became mountains and plateaus. Fire vs. pressure. Father vs. mother.
+
+### Q: What does "I Am the Celestial Path" mean?
+
+You are not just walking a path—you ARE the path. Your life, your ancestors, your history, your flexibility—all of this creates the celestial path. You embody the journey. You are the connection between heaven and earth, between the wisdom of the father and the nurturing of the mother.
+
+### Q: How do I honor my ancestors through my knees?
+
+Your knees hold the memory of everyone who walked before you. Every step you take is possible because of them. By recognizing your ancestry—both genetic and spiritual—you honor the foundation they provided. By maintaining flexibility (both physical and mental), you honor their sacrifices and their wisdom.
+
+### Q: Why is it important that some places represent multiple body parts?
+
+Earth is layered, just like we are. We have skin, muscle, bone, organs—all in the same location but serving different functions. Similarly, Earth has different energetic and geological layers. One place can represent different things depending on which layer we're examining. This teaches us to see complexity and multiple truths existing simultaneously.
+
+---

@@ -1,340 +1,410 @@
 ---
-title: "Day 160 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 160 - Stability and the Toroid"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 160
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 160
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - root chakra
-  - I AM presence
-  - I CAN affirmation
-  - constellation work
-  - month holds
+  - stability
+  - toroid
+  - movement
+  - axis
+  - evolution
+  - Earth rotation
+  - magnetism
+  - north pole south pole
+  - geographic axis
+  - precession equinoxes
+  - resonance
+  - relationships
+  - chakras
+  - spine
+  - ascension
 
 practice_elements:
-  chakra: "Root"
+  vibration: "LLh"
+  statement: "I Am the Stairs of Ascension"
+  chakra: "Toroid"
+  code: "Resonance. It comes from the vibration, from the law of vibration. Originating in the universe sounds, everything vibrates, expands, creating waves that rumble in the cosmos. And when returned on themselves, they vibrate like echoes, creating resonance. This means ringing again. Resonance is then the ability of knowing which ones are the echoes of my own being that came back to me through time and space. What resonates with me is an echo of my being. What doesn't resonate is a vibration that originated in me, which does not imply that it is bad, but it's another ringing of truth."
 
 ---
 
-# Day 160 - Consciousness Work
+# Day 160 - Stability and the Toroid
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Root`
-
-## Introduction
-
-Hi everyone. Good morning. Good afternoon. Good evening.
-
-Okay. Did you read the post for today? I hope you read the blog today because today we finish our mental week. I 'm week.
-
-Capricorn and as a good capricorn today we have an exam. I must say that I am not the one to do exams because I had to leave the university to have an idea how to make exams.
-
-## Q&A
-
-So , this is a true story that I did n't understood the exams. I went for two years to the university in Argentina to study pedagogy. There was one day that my partners from the classes were really worried because something and I asked why. I was like , well , the film test.
-
-What final test? You had to do the final test to go to the other year. And they said , have you done one before? I do n't know.
-
-Maybe.
-
-So , I had no idea.
-
-So , I just two years after I knew that I have n't done any exam in the university. I had no idea.
-
-So , there was a teacher that told me this is not for you , for sure.
-
-So , yeah , so I let. I was a really good student , but I had no idea how the exams worked.
-
-So , I was better because in school you know the day of the exam and they tell you you have to study this and this and universities is different. You have no idea. You can decide the day. I do n't know.
-
-So , so messy that that had no idea when.
-
-So , I was studying in studying studying , but I had no idea why.
-
-So , that was my story.
-
-So , there was that the only or the only two exams that I remember in the university. I got so confused that I was taught and I could n't do anything and I just blocked myself in such a way that I was like autistic for a few hours. And they had to take me out from the from the room , from the classroom , because I was like this and they had to take me out.
-
-So , so do n't worry. I 'm not going to make any exam. I 'm not going to make some people. And in school I had no idea how to do the exams.
-
-So , most of the teachers they were like , okay , I know you know.
-
-So , I will let you go. But yeah , so there were some exams that I did n't do , because they knew that I knew , but I have no idea how to answer an exam.
-
-Okay , and here I am in classes.
-
-So , that 's the irony of life. But what I will do is to give you some task , because that I love , that I love to do.
-
-So , today we close with the tourists. And there 's just remember something else because there was speaking in English. And there was this teacher in Argentina that I had , Elisa Simpson. It was like the cartoon.
-
-And she spoke to me in English once , and I had no idea what she said. And I asked for a friend , what he said , what he said. And he was like , well , she said that your English is so horrible that she 's expected not to. She 's expected that you never have to do anything in English.
-
-And here I am. Translate to myself and I usually speak in all of this in English.
-
-So , so this is just to show you that you should never take the first perception of your own.
-
-So , you know what 's going to happen. And maybe you will change your whole life during something that you never expected to do. The topic for today is stability. First of all , stability.
-
-The origin of the word stability comes from the Latin , the ability to be stable , which is the ability to , to be in one place.
-
-So , from a ideology , stability is that. The ability to be whole , fix in one spot , one place.
-
-So , when we discuss about the stability , we all can , in the word , take us to the conception of being in one place , understanding that you are safe in the same spot. And mainly that you had accomplished to get everything that you needed. Usually , when we say , for example , whenever I have my home , whenever I have my family , when I have a job , give me a good money , all these things usually we say the stability.
-
-So , that 's why we used to say stable , work , stable family , stable home , stable partners.
-
-So , we relate stability with the concept of being secure , finding yourself in one place , in a safe place. Usually , we have the concept of survival.
-
-So , we look for things that we need in order to survive.
-
-So , we are in need of things.
-
-So , we are looking , we are in need of food , in need of a place to sleep , in need of reproduction , we live through needs that are coming from the outside.
-
-So , when we talk about stability , we usually relate stability with the idea of having everything that I need.
-
-So , we relate stability with all the external aspects.
-
-So , I put all many concepts of stability related to something in the outside.
-
-So , that will mean that if that thing from the outside goes away , I will become unstable.
-
-So , we have to go to the real stability , because this entity that we have created by culture is just a projection , but it 's not true. Let 's go to understand it. Let 's go to the board.
-
-So , basically , this stability wo n't work for the universe , because it does n't have stability. Really , it can fall down.
-
-So , it really does n't have stability. This is why , in order to create stability , where we need to create points of to hold ourselves.
-
-So , in order to find a little bit of stability , I will need this to other.
-
-So , I can have this kind of stability. In the universe , there is no up and down.
-
-So , this can also fall down.
-
-So , I will need something from the other side. If we have this more perfect , we will understand that system , we have the ability to survive in any crisis. Because it does n't matter what happened to one of those crisis , each one of them can become its own axis.
-
-So , it does n't matter if it moves , if it falls down , a new one will become the axis. The axis , the axis , and so on.
-
-So , if we multiply this system for many times , many times , to one side and another and turn it like this.
-
-So , once and again , so what we are going to create is sphere.
-
-So , many times , this symbol , multiplying like this , and many times multiplying like this.
-
-So , when we have a sphere , like a planet , in the core , we have the main force. In our planet , we have the core of the world , which is iron mainly.
-
-So , this iron has a polarity , a magnetism.
-
-So , it creates magnetism , positive , negative , because the two polities are trying to reach each other to get together.
-
-So , they force the whole structure to spin towards the direction of this connection.
-
-So , that 's why it starts to spin like any other body. This is why , where we will have a north pole , which is positive , and a south pole , which is negative. We will call this the north , the positive , and the south , and the negative. Why?
-
-Because of the magnetism. The magnetism , the positive , is going that way.
-
-So , that 's why we call it the north. It 's not because I 've heard some people saying that the reason why they made the maps face north is because of the politics and the people willing to show the control of the world that are in the north of the world. No , that 's not like it works. It 's not like that.
-
-The reason why the maps are organized like this is because all the magnets , the compass that gets you through the world , all of them , because of the iron and the magnetism , they all go to the positive.
-
-So , that 's why they call it the earth.
-
-Okay? It 's only the reason. And they organize the maps according to that. If the positive part of the planet would go to the south , then the south would be the north.
-
-Easy.
-
-So , that 's it.
-
-So , the only reason why the north is in this part of the planet is because just , because the magnetic field of the planet goes up to this north and region of the world by positive. That 's only the reason.
-
-So , the reason also why north and south is because the planet moving in the direction is moving constantly with the fixed axis in the north.
-
-So , that 's why also those are the north and the south , which is the same reason is not a different reason. The earth is spinning because of the pressure of the core of the iron core , which is magnetic. The word of hamper , the planet is moving in its axis.
-
-So , this way.
-
-So , the earth is not moving like constantly fixed in this axis. The earth is moving in this , like in a circle. In 23 degrees , you can find here , generally degrees , you can find these axis.
-
-So , the world is doing like this. It 's not like this.
-
-So , for us to see it better , if you are watching my videos first of all , I want to share this so I can keep going. The earth is not flat , the earth is not whole. That 's it. We can keep going.
-
-We have here what we call geographic axis. Geographic axis.
-
-So , I do n't know if you see the difference , but here we have a physical axis in the north pole , in south pole , physical axis. From where it rotates , but the real axis of the planet is 23 degrees. The earth spins like this , not like this. You see the difference like this.
-
-And the earth is moving like this in a constant cycle of 20 degrees , spinning on its own axis.
-
-So , we can see the north pole here , the physical north pole here , but it 's really located like this , and it spins this way. In 23 degrees.
-
-So , remember , as we have spoken before. In another video , the rotation , the earth is rotating this way.
-
-So , the rotation of the planet is 24 hours , and the procession of the equinoxess is 25,000 years.
-
-Okay? And the procession of the equinoxess is because of the gravity of the sun.
-
-So , I do n't know if you have noticed , but the earth is moving all the time. Not only spinning like this , and like this , but also spinning around the sun really fast like this. We would say now that the earth , through billions of years , has found a movement , a constant movement , a way to move constantly. Everything that we normalized , like the weather , the air , the hours , the months , the day , the night , everything that happens on earth that we kind of normalize is because the earth is moving really fast.
-
-So , what from our point of view , we consider stability for the earth is constant movement. If there is no movement , if the earth suddenly decides to stop , so that would mean death. Everything would die. We would be like an asteroid , nothing else.
-
-I did plant.
-
-So , the earth has found something that we call stable movement. I would try to be fast with this , and understand this. Let 's picture this.
-
-So , the earth , we have the earth here. And we have it that in the east direction , it spins on its own axis through 24 hours. And then , in the direction to the west , it spins in 23 degrees , in a circle , in the degrees through 25,000 years to make a whole turn. Towards the east , the earth takes 24 hours to make a whole spin.
-
-To the west , earth takes 25,000 years to make a whole spin of 23 degrees. And then we have here the sun.
-
-So , this means that the earth will take 365 days , which is 365 turns in four hours to make the whole turn around the sun.
-
-So , if we make a cross , we will find here summer , autumn , winter and spring. The seasons , the specific days of season.
-
-Remember this symbol?
-
-So , this symbol basically is speaking about this.
-
-So , this is why we call the crucifixion of time. Of course , that this will be opposite in each one of the sides of the world.
-
-So , spring , autumn , summer , winter , autumn , spring , winter , summer. At the same time , we will divide this as a clock.
-
-So , at the same time , we will divide this in 12 different regions.
-
-So , these are the months. When the earth is spinning , it can see different constellations. All of them , when it is spinning. But when it is going through this elliptic , the earth is getting inside the houses of the constellations.
-
-And some of the questions that I 've heard is , if the earth is moving so much , why we see the same sky. There is n't why we see the same sky , because we are spinning around the sun.
-
-So , this sky is the same. And also , the sun is moving , but it is moving at the same speed. As the other suns are moving around.
-
-So , basically we see kind of the same things. We can take thousands of years until we see a movement in the sky of some sun , because it takes thousands of years for us to perceive that , because it is really slow.
-
-So , another thing , the earth , remember , is moving in the circle of 20 degrees through 25,000 years.
-
-So , sometimes , Paris is the northern stars like now , but not always is like this. It changes , because when the planet is pointing to another direction , the northern star is another one.
-
-So , the whole sky changes , everything is different. And this is the reason why the earth is moving through what we call the alignment of the cathedral sky.
-
-So , the earth is aligning to the movement of all the stars. But this does n't mean that the earth is not going through this same houses.
-
-So , is this here , why we call tropical , which is the houses that are always here.
-
-So , the earth is always affected by this. The cathedral movement will be the one that shows us the sky according to the movement of the earth in this 25,000 years , going around like this. And the movement around the sun is the one that shows me the tropical astrology , which are the houses where the earth will move anyway. It does n't matter how it changes.
-
-It 's always the same. But what I want to play with all this. The point that I want to get with all this nation is that through thousands and millions of years , all this movement is because of the study of their axis. It means that in order for stability to exist in the universe , everything has to move.
-
-What would happen if the earth stops spinning? What would happen if the earth stops spinning? What would happen if the earth stops spinning? If there would n't be a procession of the equinox , we would never have any idea where is the north.
-
-So , we would never have any idea where to go. What is the purpose? If we would n't have , if we would n't go around the sun , we would n't be able to have different options of ourselves. The earth from this spinning is absorbing different information from different stars constellations.
-
-Now , imagine that this one here is called I. Imagine that this here. If this is me , I can call this mom that sister , brother , grand , grand , boyfriend , girlfriend , friend.
-
-Son , son , daughter.
-
-So , when we are spinning when our own axis , we are observing each one of them. And we are seeing the projections of ourselves in the relationship with them.
-
-So , now I have two options. I will rely all my responsibility and my stability in their relationship with the others. Or am I going to recognize that the reason why I can relate with the others is because I am spinning on my own axis.
-
-So , now imagine that you are the earth. And as you spin , you see the constellations , which are all the people that you know. Family friends , partners , everyone. But you also around the light around the sun.
-
-So , you are moving through them , relating with some of them , then another one.
-
-## Energy Work
-
-Some friends , some partners , some families. You move. And also sometimes , I spin , like looking to the skies , and going down to look into my roots.
-
-So , what I am doing is doing the procession of the epiloxist , doing my own process on my own self. This means that we are constant movement. That the only way you can find real stability is through the movement , through evolution.
-
-So , I have to move through the people. If I stand only with one of them , and I attach to that person , is like the earth , that I have to attach to constellation and moving anymore. And you will die. The only reason why the earth finds stability and finds its axis is because of the movement.
-
-If there is no movement , the earth can not find the axis. The same way , as if I stand still. And I float like the earth , like no axis at all. I wo n't have any idea how to find my axis unless I move.
-
-And I can identify it with the middle point through where all the movement are going on.
-
-So , it is the movement. And that allows me to find stability. It is not the stationary process. , stability is not the ability of accomplishing to get all what you need to stay safe in one place.
-
-The ability is the ability to be.
-
-So , let 's go to the alignment. The vibration for today is the. . .
-
-The cement for today is ion-deternal ascension. The code for today is resonance. It comes from the vibration , from the law of vibration. Originating in the universe sounds.
-
-Everything violates , expands , creating waves that rumble in the cosmos. And when returned on themselves , wherever like echoes , creating resonance , this means ringing again. Resonance is then the ability of knowing which ones are the echoes of my own being that came back to the cops to me through time and space. What resonate with me is an echo of my being.
-
-What does resonate is a vibration that originated in me , which does not imply that it is alive. But it 's another ringing through truth.
-
-Sorry.
-
-So , let 's go now to the alignment to close the week of the mind.
-
-So , both , but as always , you have to. . . We have to go through many different informations to get to a very easy point , which is like the universe itself.
-
-And just another thing that I want to close with this mental week , according to something that I wrote. I read around , which was that , that make it into language is making too long.
-
-So , from my capricorn point of view , I will say to these people that maybe if you do n't have the time to spend the time learning this , maybe it 's because this is not what you are supposed to learn in this time. If you do n't have the time to do so , so feel free.
-
-So , let 's go to the alignment. Sit comfortable. Close your eyes and focus in your breathing. Close your eyes.
-
-Close your eyes. Close your eyes. Close your eyes. Close your eyes.
-
-Take a deep breath and pay attention to the environment you are sitting in. And with the imagination , start to assign a library around you. Very huge. With thousands of calories and books all connected to a main hall.
-
-I become aware that this library is my own Asahi Records. From which I am , it 's only librarian. And each book is a pattern , a code , an information that is connected within my subconscious. I run out of space.
-
-I run out of space. And this is the place where I can come every time I need an answer. And with the practice , each time I will be able to access to a deeper information.
-
-Remember that all this information within me are codes , patterns , tools that I have to bring from my subconscious to my consciousness through the answers.
-
-So every time that I come here , I can take this information to bring it to the light of the consciousness to make it a tool for me. Having access to this library helps me to understand each one of the hidden data that makes who I am and by taking it to the consciousness. I become aware of who I really am. From the main hall , I observe all the libraries of the galleries and books around me.
-
-I observe everything from the main hall. I recognize that this is the point to where I find my access , my stability , my connecting the mind through my subconscious and conscious. I recognize that all these books that I know and the ones that I do n't know , the stairs that takes me to the office of light observing me from the top. All of it is part of me and I should not touch it for all of it.
-
-It makes my stability. For everything is me. Take a deep breath. And I see that my own room is where I call all this books and that is only me through the consciousness that I will be able to read all of it.
-
-To read all of them. In this library of my subconscious , it is a cell in my body. Each step in the stairs to my subconscious works to unconscious. It is a there to write in my spine , touch chara , aligning up.
-
-And above , the office of my consciousness , the light is anchored in my brain. In the female and her focuses , slums. I am the library. I am my own acoustic records , which I am the only librarian.
-
-And my charts , my spine , are the ones that holds my stability towards the consciousness. As I recognize this , I take a deep breath and expand through the stairs of the charts from the spine up to the consciousness and down. Below , to the subconscious , creating with my sound , the torus around the library. In the female and her focuses , slums.
-
-In the female and her focuses , slums. In the female and her focuses , slums. I am the stairs of the ascension. I am the stair of ascension.
-
-I am the stair of ascension. I use the stairs that I am. I am the stair of ascension. I am the stair of ascension.
-
-I am the stair of ascension. I am the stair of ascension. I am the stair of ascension. I am the stair of ascension.
-
-I am the stair of ascension. I am the stair of ascension. I am the stair of ascension.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Toroid (full energy field)
+- **Week Theme:** MIND 'STAIR' - CAPRICORN - I Use (Week Closing)
+- **Main Topic:** True Stability Through Movement
+- **Vibration:** `LLh`
+- **Statement:** `I Am the Stairs of Ascension`
+- **Code:** Resonance. It comes from the vibration, from the law of vibration. Originating in the universe sounds, everything vibrates, expands, creating waves that rumble in the cosmos. And when returned on themselves, they vibrate like echoes, creating resonance. This means ringing again. Resonance is then the ability of knowing which ones are the echoes of my own being that came back to me through time and space. What resonates with me is an echo of my being. What doesn't resonate is a vibration that originated in me, which does not imply that it is bad, but it's another ringing of truth.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+# Day 160 - Stability and the Toroid
+
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
+
+## Daily Practice Elements
+
+- **Chakra Focus:** Toroid (full energy field)
+- **Week Theme:** MIND 'STAIR' - CAPRICORN - I Use (Week Closing)
+- **Main Topic:** True Stability Through Movement
+- **Vibration:** `LLh`
+- **Statement:** `I Am the Stairs of Ascension`
+- **Code:** Resonance. It comes from the vibration, from the law of vibration. Originating in the universe sounds, everything vibrates, expands, creating waves that rumble in the cosmos. And when returned on themselves, they vibrate like echoes, creating resonance. This means ringing again. Resonance is then the ability of knowing which ones are the echoes of my own being that came back to me through time and space. What resonates with me is an echo of my being. What doesn't resonate is a vibration that originated in me, which does not imply that it is bad, but it's another ringing of truth.
+
+---
+
+## Overview
+
+On January 10th, Matias closes the mental week of Capricorn with a profound teaching on **stability.** We usually think stability means being fixed in one place, having everything we need, staying safe and secure. **But this is a cultural illusion.**
+
+**True stability is not about being still. True stability is about constant movement.**
+
+Using the example of the Earth, Matias shows that our planet only finds stability **because it moves**—rotating on its axis, orbiting the Sun, processing through the equinoxes. **If the Earth stopped moving, it would die.** The same is true for us.
+
+**Stability is the ability to move through all levels without losing your axis.** It's not about staying in one place. It's about evolving through constant transformation while remaining centered.
+
+---
+
+## Core Teaching
+
+### The Cultural Illusion of Stability
+
+**Stability** comes from Latin: the ability to be stable, to be in one place.
+
+Culturally, we think stability means:
+- Having a home
+- Having a family
+- Having a stable job
+- Having good money
+- Having everything we need
+
+**We relate stability to security, to survival.**
+
+We think: **"When I have everything I need, I am stable."**
+
+**But this is an external idea of stability.** And it's an illusion.
+
+**If that thing from the outside goes away, I become unstable.**
+
+This is not true stability.
+
+### The Earth's "Instability": Constant Movement
+
+Let's look at the Earth.
+
+**The Earth has no stability** in the way we think of it. It's not sitting still. It's not fixed in one place.
+
+**The Earth is constantly moving:**
+1. **Rotating on its axis** (24 hours)
+2. **Orbiting the Sun** (365 days)
+3. **Precessing through the equinoxes** (25,000 years)
+
+**If the Earth stopped moving, it would die.** It would become an asteroid—lifeless, static.
+
+**The Earth finds stability THROUGH movement.**
+
+### The Earth's Axis and Magnetism
+
+The Earth has a **core made of iron.** This iron creates **magnetism**—positive and negative poles.
+
+**The two poles try to reach each other.** This creates a magnetic field that forces the whole structure to spin.
+
+**This spinning creates the axis.**
+
+**Positive pole = North. Negative pole = South.**
+
+Why is North called "North"? **Because of the magnetism.** The compass (made of iron) is pulled toward the positive pole. That's why we call it "North"—it's where the magnet points.
+
+**It's not about politics or control.** It's about physics.
+
+If the positive pole were at the bottom of the planet, we'd call that "North." **It's just the direction of the magnetic pull.**
+
+### The Earth's True Axis: 23 Degrees
+
+The Earth doesn't spin perfectly upright. **It tilts at 23 degrees.**
+
+**This tilt creates the seasons:** summer, autumn, winter, spring.
+
+The Earth is not spinning like this (upright). **It's spinning like this (tilted).**
+
+And the Earth is also **processing** (moving in a slow circle) through this 23-degree tilt over **25,000 years.**
+
+**This is called the precession of the equinoxes.**
+
+**All of this movement—rotating, orbiting, precessing—creates stability.**
+
+### The Crucifixion of Time
+
+If you draw the Earth's orbit around the Sun and mark the four seasons, you get a **cross:**
+- Summer (top)
+- Winter (bottom)
+- Spring (left)
+- Autumn (right)
+
+**This is the crucifixion of time.**
+
+The cross represents the structure of time created by the Earth's movement.
+
+**The Earth's stability comes from being "crucified" in time**—locked into this pattern of movement.
+
+### The Earth Moves Through Constellations
+
+As the Earth orbits the Sun, it **moves through the houses of the constellations.**
+
+**This creates the 12 months**—the zodiac.
+
+Some people ask: **"If the Earth is moving so much, why do we see the same sky?"**
+
+Because **the Sun is also moving**, at the same speed as the other stars around it.
+
+**We see the same sky because we're all moving together.**
+
+But over thousands of years, the sky DOES change. **The North Star changes** because the Earth's tilt shifts through precession.
+
+**The whole sky transforms over 25,000 years.**
+
+### Tropical vs. Sidereal Astrology
+
+**Tropical astrology** = the houses the Earth always moves through, based on the Earth's orbit around the Sun. (Always the same.)
+
+**Sidereal astrology** = the sky according to the precession of the equinoxes. (Changes over 25,000 years.)
+
+**Both are valid.** They're just measuring different movements.
+
+### The Point: Stability Requires Movement
+
+**The Earth only finds stability because it moves.**
+
+**If it stopped spinning, stopped orbiting, stopped precessing, it would lose its axis. It would die.**
+
+**The same is true for you.**
+
+### You Are Like the Earth
+
+Imagine **you are the Earth.**
+
+As you **spin on your own axis**, you see the **constellations**—which represent **all the people you know** (family, friends, partners).
+
+You **rotate**, observing each one, seeing your reflection in your relationships with them.
+
+You also **orbit the light** (the Sun)—moving through these people, relating with some, then others. Sometimes friends, sometimes partners, sometimes family.
+
+And you **precess** (do your inner process)—sometimes looking up to the sky (expansion), sometimes looking down to your roots (grounding).
+
+**You are in constant movement.**
+
+### If You Stop Moving, You Lose Your Axis
+
+**What happens if you attach to ONE person and stop moving?**
+
+If the Earth attached to one constellation and stopped rotating, **it would lose its axis.**
+
+**The same happens to you.**
+
+**If you stop moving through relationships, through experiences, through evolution, you lose your axis.**
+
+**Stability is not about staying with one person forever. It's about moving through all relationships while holding your center.**
+
+### You Find Stability Through Evolution
+
+**It is movement that allows you to find your axis.**
+
+**If you stand still, you have no axis.** You float. You drift.
+
+**But if you move—and observe the middle point through which all the movement happens—you find your axis.**
+
+**Your axis is not a fixed point. It's the center of your movement.**
+
+### True Stability Is the Ability to Move
+
+**Stability is not the ability to have all you need and stay in one place.**
+
+**Stability is the ability to BE.**
+
+To be in constant movement. To evolve. To transform.
+
+**To move through all levels and remain centered.**
+
+**This is the stair of ascension.**
+
+### Resonance: Knowing What Echoes Back
+
+The code for today is **Resonance.**
+
+**Resonance comes from the law of vibration.**
+
+Everything vibrates. Everything expands, creating waves. **When those waves return to themselves, they create echoes.**
+
+**Resonance = ringing again.**
+
+**Resonance is the ability to know which echoes are from your own being, coming back to you through time and space.**
+
+**What resonates with you is an echo of your being.**
+
+**What doesn't resonate is a different vibration**—not bad, just a different ringing of truth.
+
+**This is how you find stability:** by recognizing what resonates (your axis) and what doesn't (external noise).
+
+### The Library in Your Body
+
+Matias reminds us that **the library in your subconscious is a cell in your body.**
+
+**Each step in the stairs (from subconscious to unconscious to conscious) is a chakra, a vertebra in your spine.**
+
+**The office of consciousness at the top is anchored in your brain**—the pineal gland and frontal lobes.
+
+**You ARE the library. You ARE the Akashic Records.**
+
+**Your chakras and spine hold your stability, moving energy from subconscious to conscious.**
+
+### The Torus: Your Energetic Field
+
+When you align your spine and move energy up and down through the chakras, you create a **torus**—the energetic field around you.
+
+**The torus is your stability field.**
+
+**It's created by movement—energy flowing up and down, in and out.**
+
+**This is the toroid chakra.**
+
+---
+
+## Practice
+
+### Preparation
+
+1. Sit comfortably with your spine straight.
+2. Close your eyes and focus on your breathing.
+
+### Main Practice Steps
+
+1. Imagine a huge library around you—your Akashic Records, your subconscious.
+
+2. Recognize: **this library is within me. Each book is a pattern, information, data.**
+
+3. Walk through the galleries. **This is your inner world—the infinity of your mind.**
+
+4. From the main hall, observe all the books, all the galleries.
+
+5. Recognize: **this is the point where I find my access, my stability, my connection.**
+
+6. **My subconscious and conscious are connected through this main hall.**
+
+7. All these books—the ones you know and the ones you don't—are part of you.
+
+8. The stairs leading to the office of light are also part of you.
+
+9. **Everything is me. I should not reject any of it. It all makes my stability.**
+
+10. Take a deep breath. Recognize: **my own mind is where all this information lives.**
+
+11. **Only through consciousness can I read all of it.**
+
+12. **This library in my subconscious is a cell in my body.**
+
+13. **Each step in the stairs (unconscious to conscious) is a chakra, a vertebra in my spine.**
+
+14. **The office of consciousness is anchored in my brain—my pineal gland, my frontal lobes.**
+
+15. **I am the library. I am my own Akashic Records.**
+
+16. **My chakras and spine hold my stability toward consciousness.**
+
+17. Expand through the stairs of the chakras, from the spine up to consciousness and down to subconscious.
+
+18. **Create the torus around the library with your sound:** *Hum the vibration "LLh."*
+
+19. Repeat: **"I Am the Stairs of Ascension."**
+
+20. **"I Am the Stairs of Ascension."**
+
+21. **"I Am the Stairs of Ascension."**
+
+22. **"I use the stairs that I am."**
+
+23. Take a deep breath. Feel the torus, the energetic field, around you.
+
+### Closing
+
+1. Slowly stretch your body.
+2. Open your eyes.
+3. Return to the present moment, holding your axis.
+
+---
+
+## Key Insights
+
+- **"Cultural stability is an illusion—having all you need and staying in one place. True stability is constant movement."**
+- **"The Earth finds stability through movement: rotating, orbiting, precessing. If it stopped, it would die."**
+- **"The Earth's magnetism creates the axis. Positive pole = North. Negative pole = South."**
+- **"The Earth tilts at 23 degrees, creating the seasons. This tilt creates the crucifixion of time."**
+- **"You are like the Earth. You rotate through relationships, orbit the light, and precess through your inner process."**
+- **"If you attach to one person and stop moving, you lose your axis—just like the Earth would."**
+- **"Stability is not about staying still. It's about moving through all levels while remaining centered."**
+- **"Resonance is recognizing what echoes back to you. What resonates is your truth. What doesn't is another truth."**
+- **"The library in your subconscious is a cell in your body. The stairs are your chakras. The office is your brain."**
+- **"You ARE the Akashic Records. Your spine holds your stability toward consciousness."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Task for Today:** Reflect on where you've been seeking external stability (a relationship, a job, a possession). Ask: "Am I trying to stay still, or am I allowing movement?" Then, identify one area where you can embrace evolution instead of clinging to security. Practice moving while holding your axis.
+
+### Applying This Teaching
+
+When you feel unstable, remember: **the Earth finds stability through movement, not stillness.** You are meant to evolve, to move through relationships, through experiences, through transformation. **Don't attach to one point and stop moving.** Flow. Rotate. Orbit. Precess. Hold your axis, but never stop moving. This is true stability.
+
+---
+
+## Q&A
+
+### Q: What is true stability?
+
+True stability is not about being fixed in one place or having everything you need. It's about constant movement—evolving, transforming, moving through all levels while remaining centered on your axis. Stability is the ability to BE, not the ability to stay still.
+
+### Q: Why does the Earth move so much?
+
+The Earth's core is made of iron, which creates magnetism (positive and negative poles). The poles try to reach each other, forcing the whole structure to spin. This spinning creates the axis. The Earth rotates (24 hours), orbits the Sun (365 days), and precesses through the equinoxes (25,000 years). All this movement creates stability.
+
+### Q: Why is North called "North"?
+
+Because of magnetism. The Earth's positive pole creates a magnetic pull. Compasses (made of iron) are pulled toward this pole. We call it "North" simply because that's the direction the magnet points. It's physics, not politics.
+
+### Q: What is the precession of the equinoxes?
+
+The Earth tilts at 23 degrees and slowly rotates through this tilt over 25,000 years. This is called precession. It changes which star is the "North Star" and shifts the sky over millennia. This movement, combined with rotation and orbit, creates the Earth's stability.
+
+### Q: How am I like the Earth?
+
+You rotate (observing your relationships), orbit (moving through experiences toward the light), and precess (doing your inner work, looking up and down). You are in constant movement. If you stop moving and attach to one thing or person, you lose your axis—just like the Earth would.
+
+### Q: What happens if I stop moving?
+
+If you stop evolving, stop moving through experiences and relationships, you lose your axis. You become like a planet that stops spinning—you drift, you die. Movement is what allows you to find and hold your center. Stability is not stillness; it's centered movement.
+
+### Q: What is resonance?
+
+Resonance is the ability to recognize which vibrations are echoes of your own being coming back to you. What resonates with you is your truth, your axis. What doesn't resonate is a different vibration—not bad, just not yours. Resonance helps you find your stability.
+
+### Q: How are the chakras related to the library?
+
+The library (subconscious) is a cell in your body. The stairs (from subconscious to unconscious to conscious) are your chakras, your vertebrae in your spine. The office (consciousness) is anchored in your brain. You ARE the library. Your spine holds your stability toward consciousness. Energy moves up and down the chakras, creating the torus—your energetic field.
+
+---

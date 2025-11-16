@@ -1,293 +1,384 @@
 ---
-title: "Day 159 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 159 - Systems and the Ankles"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 159
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 159
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - I AM presence
-  - I CAN affirmation
-  - month holes
+  - systems
+  - ankles
+  - order
+  - cosmos
+  - consciousness levels
+  - conscious unconscious subconscious
+  - Illuminati
+  - enlightenment
+  - renaissance
+  - matrix
+  - network
+  - free will
+  - fear
+  - vision
+
+practice_elements:
+  vibration: "LLü"
+  statement: "I Am the Stair to Heaven"
+  chakra: "Ankles"
+  code: "Vision. From the correspondence law and becoming aware of an objective comes the vision which has two points of view. The external and internal. The external implies the contemplation, the second process of the universal breathing that gives us perspective and analysis and understanding, search for clarity. While the internal one brings us to observe ourselves, comprehend our inner world and contemplate the infinity of the mind that constitutes me and shows my infinite possibilities."
 
 ---
 
-# Day 159 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
-
-## Introduction
-
-Hi everyone. Good morning. Good afternoon. Good evening.
-
-Just before I want to start , I just want to say this that I do n't know exactly how to make everyone to know about this , because even if I say it , then maybe they do n't see this video or this moment.
-
-## Q&A
-
-So I appreciate all the people that helped me to the people that ask why am I doing this into languages. And just case or mind for the new people that I am not doing videos in YouTube like other people that take your time or put an addition like editing the video or so on. I just go live and then just say in broadcast and that 's it. I go to sleep because I am not a Youtube.
-
-I know how to do this stuff and I do n't care really.
-
-So this is the only way I found to share with a lot of people exactly that I am sharing in Spanish or in English because I am improving all the time. I am improving everything that I explained.
-
-So it 's impossible for me to make two videos because I would n't be exactly the same and I would forget what I said before because I am improving.
-
-So that 's why I try to make Spanish English.
-
-So if I know it 's annoying for some people , but we will have to learn to pay attention to our own language and to take a deep breath. And also about the subtitles of the Google that appears here that I can put it , I do n't trust it because they wo n't translate exactly what I say and it 's also the frequency. How I projected.
-
-So I do n't want that to get lost and we ca n't have anyone translating everything that I say every day and put the captions down. It 's impossible.
-
-So it 's been six months already.
-
-So we are halfway get used to it and someday maybe we will do some podcast with only one language of all these videos so maybe you can wait two years and you will in one language. And as I say in another , if it bothers too much , I would do everything in and the people from the east of Spain will understand that 's it.
-
-So I am a little bit like and balanced now because today I decided to begin doing exercise again and after I came back from the gym , I ate half of the child that people gave me as a gift.
-
-So I am a little bit sto much , I have a little bit of sto much hate right now.
-
-So if I suddenly write away from here , it 's not because of you.
-
-So do n't worry , I will come back. I found them.
-
-So let 's go to the topic for today which is systems.
-
-Okay.
-
-So let 's understand the or system.
-
-So we can understand why we did the system in a way and what it really is system.
-
-So first of all , in week this word comes from the week , sin is tema. That means with stable and way.
-
-So sin means with is table , stabilize something that is present and ma is way , the way in which level.
-
-So a system is the way in which the things get together so they can find stability in an order. System is the way in which we can find order. How do you say order in week? Cosmos.
-
-Cosmos.
-
-So what is the system of the cosmos? The system of the cosmos is the seven laws.
-
-Now that we have the idea of the system talking about the cosmos , let 's understand that from our point of view we have a negative aspect , a negative perception of the system. Because we usually call the system something that is wrong in the unconscious culture , cultures of the world , we used to say that this is the problem of the system that we have to take down the system and the system is controlling us and the problem is the system. We always say this.
-
-So that 's why we put this connotation to the system as if it is something wrong. But the system is not bad. The system is only useful to order things.
-
-So now try to think about this example. When you were used , how did you use to organize your room? What was the system you used to order in your room? And then when you were teenager and then when you were young and then when you were adult and now when you are old , how is the way in which you organize?
-
-Maybe for some people this system would last for years and for some others only some months. But for sure you have been going through some changes in your order in life.
-
-So you have put some different order and you use some different system in your life.
-
-So if we get out from the physical world , arrange in the room , we can go also to the system of beliefs. Through your life , you have also changed the system of beliefs. Through your life , you organize different priorities for sure in your life. When you were younger , now you change the order of your priorities and your emotions and so on.
-
-Your ideas. For sure you have changed the system.
-
-So now the question would be the first system that I used was bad or it was just the system that I needed in that moment. For example , we can say today yes , that system was horrible for me.
-
-So that 's why I need to find another one. And , or maybe I can say yes , in that moment was the best thing that I got and it was useful for me until I found that until I found a new one. But for example , I can say for me it did n't work anymore , but I know people that that system that I used to use is useful now for them.
-
-So so the systems are not bad. The systems are useful for at the term level of consciousness.
-
-So let 's think about these three different types of level of consciousness. We will call this one the conscious , this one the unconscious and this one the subconscious.
-
-So a person that lives from the subconscious , which this means it has no relationship with anything that happens with awareness.
-
-So it 's a person that is guided only by the basics needs. Like the most ancient beliefs and most deepest pressure of the biology.
-
-So that person will use a system totally different from this other two.
-
-So what happened if this one here , the conscious one , says no , no , no , this system is wrong. This system is bad.
-
-So you have to use this system , which is the conscious system.
-
-So you have to use this.
-
-So what happened with the conscious that gives a system to the subconscious , that this person here will suffer because it can not vibrating the same system as the other one.
-
-So it starts to suffer mainly. And that 's why not always a conscious system helps people. Because sometimes a conscious system makes people suffer. If they are in the subconscious or the unconscious , the people that is conscious , usually wants for the people that is unconscious to use their systems.
-
-That 's not how it works.
-
-So I will explain this game with something that will for sure we all know , which was the aluminium during the 17th and the 18th century. Let 's try to understand how the aluminium began.
-
-So understand this in the 18th century , we have to go back to the 15th century and what happened there. What happened was that the Europe started to spread , started to grow so much.
-
-So many people that started to that started to understand that there were a bigger world than Europe.
-
-So suddenly they started to bring this information from Greece and Rome , Greece and Rome.
-
-So they bring this information from the Europe , all the cultures of Europe , were known as sons and daughters from the Greek culture.
-
-So the Greek culture was called the , I do n't know how you call it in English , the birth of the civilization.
-
-So it was the nascent , the activity of the , of the civilization.
-
-So that 's why they said in the 15th century , okay , we will bring all this philosophies back , the culture back.
-
-So this is the reverting that we will say renaissance , renaissance means reverting.
-
-Okay , so that 's the renaissance to reverting again in that so during the 15th and the 16th centuries they started to create this movement of going back again to the light of humans , not God , but humanity , the abilities that humans have to create.
-
-Okay , so because of this , and movement in the 17th and the 17th century and the 18th century started to spread around that was the cousin. The cousin was the movement that brought the light human kind again and it started in the north of Italy. That 's why enlighten or eliminated is eluminity in Italian language.
-
-So the eliminate is a group of people , scientists , people , free thinkers , all these kind of people that what they did was to take all this , all this engine information and go against the church and against all the all part of the paradigm that was against the growth of humanity.
-
-Okay , we can say that the eliminate were the conscious people of the 17th and the 18th century. What they did , the conscious , and the conscious idea was to go against the only one book. The fun book in Greek is called Billion.
-
-So the Bible , okay , Billion , the one book Billion , the Bible.
-
-So created a new book where all the scientists would put all the knowledge together in a book of one eye , only one eye would deny that sees everything. The eye that sees everything in Greek is key close , key close , you know , the hiphop , the being with one eye.
-
-So that 's why they created the encyclopedia. The encyclopedia is the book against the Bible , is the book of knowledge.
-
-So what the conscious people said was this knowledge should be for everyone. This must be for all of them , for all the humans.
-
-So they went back to Greece and took the information of how the Greek people used to teach the population in public schools that they called school. School was the place where the military used to go to understand the world.
-
-Okay , so they took this call and they created the college.
-
-So for a long time , this conscious education was only for a few , a certain few. But then they accomplished to create the republic. And that 's how in the 19th century the republic created an education that was public because republicans from the Latin word republica that means the things of the population.
-
-So brought the education to the public system.
-
-So this thing is exactly the same thing. These conscious people did with schools in the unconscious people.
-
-So they obligated the conscious people to study the encyclopedia.
-
-So the conscious ones obligated the unconscious ones to study to learn. But even though the unconscious people was still unconscious.
-
-Now they were unconscious people with knowledge.
-
-So because these people kept being unconscious , these conscious people said , okay , so you know what? These people will be always unconscious.
-
-So what we can do is just to write whatever we want and make them believe whatever we want. And that 's it. Because whatever is written , they would believe it. And this is how the public schools were created.
-
-So this is what we also call system. This is the system of order.
-
-So now looking to this , why we usually speak bad about the systems? It 's because basically there was always some conscious people that took benefit from the unconscious people.
-
-So let 's wonder why a person to be unconscious and not conscious.
-
-The reason is because of dairy , it , word that is called fear.
-
-Remember , the reason why we feel fear is because our bodies were made to survive. Our mind bodies were made to leave , not to die.
-
-So fear is a tool of survival. When a person wants to be to be alive , use the fear as a way to identify , to identify , to identify a possible death. We are humans. What are humans?
-
-We are mammals. And as mammals , we have survived in groups , in herds , in tribes.
-
-So we know we all know that in groups , we survive.
-
-So that 's why when we have fear , we tend to go , we tend to go to surviving groups. And the mentality of group is what moves you through others , and not by yourself. And that 's what we call unconscious.
-
-So the body understands that the way to solve the fear , the death , is in groups.
-
-So that 's why I rather think of the group instead of thinking by myself.
-
-So this is why a conscious one says , okay , now I know how things work.
-
-So now I can also know how to use the things.
-
-So if I am a free finger and I reached the consciousness , what am I? I am a free person. And if I am a free person , that means that I have free will. And if I have free will , I am able to choose.
-
-And if I am able to have to do elections in my life , I will be able to create loss.
-
-So my conscious being will create the first law , the law of correspondence.
-
-So the law of correspondence will create the law of vibration. This other law will create the law of rhythm. The law of rhythm will create the law of cost and effect. The law of cost and effect will create the law of polarity.
-
-As polarity will create the law of generation. All of them connected to the only one law which is the mentality.
-
-So what do I do with this? I begin to replicate it.
-
-So I project the mind into different levels. And again , I start to replicate and I continue. I continue to apply once and again , once and again. What is what we call here?
-
-How do we call this? We call this like the seed of life , the flower of life , the tree of life. It 's also called the matrix. It 's also called a network.
-
-Or also we call this a system.
-
-So what is a system is a conjunction of different loss. When this system becomes a jail , a truck , is when instead of remembering that each one of these gods that generates everything is my own mind projecting constantly , I believe that there are different people.
-
-Now the thing would be that if I become conscious , I can decide if I am willing to show these to other people to take their power back or control the others because if the rest is mine , but their minds are not strong enough.
-
-So just by thinking , I can control them.
-
-So the system is not wrong. The problem is that we are not aware of the system and we are not aware that we can move through the system changing our point of view of it. And we understand the system when starts to understand this , that there is no one to blame because if you blame someone for whatever is happening , it 's you , yourself , blaming yourself.
-
-So if you blame the rich , if you blame the powerful , if you blame your ex , if you blame whoever of things that happen to you , it 's literally you kicking your own butt.
-
-So instead of blaming someone , we have to become conscious. And now the question will come here with a great responsibility. Are we going to be the new illuminatory of the new time or are we different? We have come here to put order to a network to a system.
-
-So we not come here to the right system. We have come here to restintinize a system.
-
-So for example , if you look for what I did in 2014 with Roma more in the Vatican , I went to the Vatican and I did this. I went to the source of something that represents me too because it 's a reflection.
-
-So the poop.
-
-So for me it 's a reflection.
-
-So what I did , it was not to change anything outside. It was basically to heal something in my own perception of that system.
-
-So I can create something transcendental and not repeat the same thing.
-
-Now comes the question. Am I from my consciousness using all of you?
+# Day 159 - Systems and the Ankles
+
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-So let 's go to the alignment. My 33 years old tells me that I have to wear glasses. The vibration for today is you. The statement for today is I am the stairs to heaven.
-
-The code for day is vision. From the correspondence law and becoming aware of an objective comes the vision which has two points of view. The external and internal. The external implies the contemplation.
-
-The second process of the universal breathing that gives us perspective and analysis and understanding , search for clarity. Well , the internal one brings us to observe ourselves. Comprehend our inner world and contemplate the infinity of the mind that constitutes me and those my infinite possibilities.
-
-## Q&A
-
-Another thing just to remind you all the people that maybe is new that if I do n't answer some of the questions that you are doing is for sure because I have explained them in some other videos.
-
-So I invite you to see the 158 other videos that I did and you will find them around. Let 's go. Come for trouble. Focus only in our breathing.
-
-And with my imagination I start to this time through it. Delivery , full of books , galleries and holes. These books are patterns and data within my subconscious and they are apart with my own Akashi records from which I am the only librarian. I become aware that through the resonance I can find the book where it 's reaching the pattern that I am looking for today and the question that I do to find it is what is the system that I have created and that turn out to be like a jail for me today.
-
-I go all around the galleries of this library flying , running , walking , looking for this book until I find it and I take it between my house. Recognize it. I take this book without any judgment and I head to the main floor where in front of me I will find the stairs of my own. Towards the office of the conscious , there are lines.
-
-Through the stairs until I reach the line of the office. I am inside of it. I open the book. Pay attention to that system that keep me trapped.
-
-Pay attention to that system that keeps me trapped. Pay attention to that system that keeps me trapped. Pay attention to that system that keeps me trapped. Pay attention to that system that keeps me trapped.
-
-Pay attention to that system that keeps me trapped. Take it breath and with my sound , I bring this information to my feet. And aside this , I put all my attention to bringing all the consciousness and clarity to this system for it not to use me anymore , but for me to use it instead. Take it deep breath and recognize this is my system and I use it.
-
-And it is the same system the one that set me free. I am disturbed to heaven. I am disturbed to heaven. I am disturbed to heaven.
-
-Take it deep breath and slowly you can back here and now by surfacing , stretching your body and your own. And aside open my eyes , I take a moment for the task for today which is to write down this system and everything I felt about it. Thank you everybody for being there and as always see you tomorrow. I 'll see you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Ankles
+- **Week Theme:** MIND 'STAIR' - CAPRICORN - I Use
+- **Main Topic:** Understanding Systems
+- **Vibration:** `LLü`
+- **Statement:** `I Am the Stair to Heaven`
+- **Code:** Vision. From the correspondence law and becoming aware of an objective comes the vision which has two points of view. The external and internal. The external implies the contemplation, the second process of the universal breathing that gives us perspective and analysis and understanding, search for clarity. While the internal one brings us to observe ourselves, comprehend our inner world and contemplate the infinity of the mind that constitutes me and shows my infinite possibilities.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+# Day 159 - Systems and the Ankles
+
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
+
+## Daily Practice Elements
+
+- **Chakra Focus:** Ankles
+- **Week Theme:** MIND 'STAIR' - CAPRICORN - I Use
+- **Main Topic:** Understanding Systems
+- **Vibration:** `LLü`
+- **Statement:** `I Am the Stair to Heaven`
+- **Code:** Vision. From the correspondence law and becoming aware of an objective comes the vision which has two points of view. The external and internal. The external implies the contemplation, the second process of the universal breathing that gives us perspective and analysis and understanding, search for clarity. While the internal one brings us to observe ourselves, comprehend our inner world and contemplate the infinity of the mind that constitutes me and shows my infinite possibilities.
+
+---
+
+## Overview
+
+On January 9th, Matias explores what a **system** truly is—not as something oppressive, but as **the way things organize to find stability and order.** The word "system" comes from Greek: **"syn"** (with, together) + **"istemi"** (stable, way). **A system is the way things get together to find stability in an order.**
+
+The teaching reveals that **we have a negative perception of systems only because we've been unconscious of them.** When conscious people use systems to control unconscious people, systems become prisons. **But the system itself is not bad—it's just a tool for organization.**
+
+Matias uses the example of the **Illuminati** (the enlightened ones of the 17th-18th centuries) to show how conscious people created systems to spread knowledge—but also how those same systems were used to control. **The question for us today is: Will we become the new Illuminati and use systems to empower, or will we repeat the same patterns?**
+
+---
+
+## Core Teaching
+
+### What Is a System?
+
+The word **"system"** comes from Greek: **"syn istemi."**
+
+- **"Syn"** = with, together, stable
+- **"Istemi"** = way, path, method
+
+**A system is the way in which things get together so they can find stability in an order.**
+
+**System = the way to find order.**
+
+And what is order in Greek? **Cosmos.**
+
+**The system of the cosmos is the seven laws.**
+
+### We Have a Negative Perception of Systems
+
+In modern unconscious culture, **we use "system" as a negative word.**
+
+"The problem is the system."  
+"We have to take down the system."  
+"The system is controlling us."
+
+**We always blame the system.**
+
+But **the system is not bad.** The system is only a tool to organize things.
+
+### Systems Help Us Find Order
+
+Think about your room. **How did you organize it when you were a child? As a teenager? As a young adult? Now?**
+
+You used different **systems** to create order in your room. Maybe some systems lasted years; maybe some lasted only months.
+
+**You've been changing systems your whole life.**
+
+Now, think about your **belief systems.** Your priorities. Your emotions. Your ideas.
+
+**You've changed those systems, too.**
+
+So here's the question: **Was the first system you used bad?**
+
+Maybe you think, "Yes, that system was horrible." Or maybe you think, "That system was the best thing I had at the time, until I found a new one."
+
+**Systems are not good or bad. Systems are useful for a certain level of consciousness.**
+
+### Three Levels of Consciousness
+
+Let's understand this through three levels:
+
+1. **Subconscious:** Lives with no awareness. Guided only by basic needs, ancient beliefs, biology. Survival mode.
+
+2. **Unconscious:** Has some awareness but is still guided by the environment and external pressures.
+
+3. **Conscious:** Fully aware. Guided by inner knowing and free will.
+
+**Each level uses a different system.**
+
+Now, imagine the **conscious person** says to the **subconscious person**: "No, no, your system is bad. You have to use MY system—the conscious system."
+
+**What happens?**
+
+The subconscious person **suffers** because they cannot vibrate at the same level. The system doesn't match their consciousness.
+
+**A conscious system doesn't always help people.** Sometimes it makes them suffer if they're not ready for it.
+
+### The Illuminati: The Enlightened Ones
+
+Let's go back in history to understand this better.
+
+In the 15th-16th centuries, Europe experienced the **Renaissance** (rebirth). They brought back the philosophies of Greece and Rome, focusing on **human potential, not just God.**
+
+In the 17th-18th centuries, this movement grew into the **Enlightenment** (or **Illumination**).
+
+**"Illuminati"** means **"the enlightened ones"** in Italian. They were scientists, free thinkers, philosophers who brought light to humanity.
+
+**They were the conscious people of their time.**
+
+They created the **Encyclopedia**—a book of all knowledge, meant to counter the Bible (which was the only book allowed by the Church).
+
+**Encyclopedia** comes from Greek: **"kyklos"** (the eye that sees everything). Like the Cyclops—one eye.
+
+The Illuminati wanted **education for everyone,** not just the elite. So they took the Greek concept of **"schola"** (public school for soldiers) and created **colleges.**
+
+Later, in the 19th century, they created **republics** (from Latin "res publica"—things of the people) and **public schools.**
+
+**This is how conscious people brought education to unconscious people.**
+
+### Conscious People Controlling Unconscious People
+
+But here's the problem:
+
+Even though the Illuminati brought education to the unconscious people, **the unconscious people were still unconscious.**
+
+Now they were **unconscious people with knowledge**—but still unconscious.
+
+The conscious people realized: **"These people will always be unconscious. So we can write whatever we want, and they'll believe it."**
+
+**This is how public schools became systems of control.**
+
+The conscious ones used the system to **decide what the unconscious ones should learn.**
+
+### Why Do People Stay Unconscious? Fear.
+
+**Why does a person remain unconscious instead of becoming conscious?**
+
+**Fear.**
+
+Our bodies are designed to survive, not to die. **Fear is a tool of survival.**
+
+When we feel fear, we identify possible death. As mammals, we survive in groups—in herds, in tribes.
+
+**The body knows: in groups, we survive.**
+
+So when we have fear, we **join groups.** We move with others, not by ourselves.
+
+**This is what makes us unconscious:** the mentality of the group, not the individual.
+
+**The body says: "The way to solve fear and avoid death is in groups."**
+
+So instead of thinking for myself, **I think with the group.** I stay unconscious.
+
+### The Conscious Person Uses the Laws
+
+A conscious person understands the seven laws of the universe:
+
+1. **Mentality** (the only law)
+2. **Correspondence** (the mind projects)
+3. **Vibration**
+4. **Rhythm**
+5. **Cause and Effect**
+6. **Polarity**
+7. **Generation**
+
+**A conscious person generates these laws** and begins to replicate them.
+
+They project the mind into different levels, creating a **network, a matrix, a system.**
+
+This is also called:
+- The Seed of Life
+- The Flower of Life
+- The Tree of Life
+- The Matrix
+
+**A system is a conjunction of different laws.**
+
+### When Does a System Become a Jail?
+
+A system becomes a jail when **we forget that each node in the network is our own mind projecting.**
+
+Instead, we believe **there are different people, different forces controlling us.**
+
+**When we're conscious, we know: I am the system. I am the network. I am projecting it.**
+
+**When we're unconscious, we think: The system is controlling me.**
+
+### The Question: Will We Be Different?
+
+Now comes the great question:
+
+**If we become conscious, will we show others how to take their power back? Or will we use the system to control them?**
+
+**Will we be the new Illuminati—but different?**
+
+Or will we repeat the same pattern?
+
+**Are we here to destroy systems? No.**
+
+**We're here to re-systematize**—to create new systems based on consciousness, not control.
+
+### Blaming the System Is Blaming Yourself
+
+Here's the key insight:
+
+**If you blame someone for what's happening—the rich, the powerful, your ex—you are literally blaming yourself.**
+
+**Because if each node in the system is a reflection of your own mind, then blaming others is kicking your own butt.**
+
+**Instead of blaming, we must become conscious.**
+
+### Vision: External and Internal
+
+The code for today is **Vision.**
+
+Vision has two aspects:
+
+**1. External Vision (contemplation):** The second process of universal breathing. Gives us perspective, analysis, understanding, clarity.
+
+**2. Internal Vision (observation):** Observing ourselves. Comprehending our inner world. Contemplating the infinity of the mind that constitutes us and shows our infinite possibilities.
+
+**We need both.** External vision to see the system. Internal vision to see ourselves within it.
+
+---
+
+## Practice
+
+### Preparation
+
+1. Sit comfortably and close your eyes.
+2. Focus on your breathing.
+
+### Main Practice Steps
+
+1. Imagine a huge library around you—your Akashic Records, your subconscious.
+
+2. Each book is a pattern, data, information within you.
+
+3. Ask: **"What is the system I have created that has turned into a jail for me?"**
+
+4. Walk through the galleries, flying, running, searching. Let yourself be called to a specific book.
+
+5. When you find it, take it in your hands without judgment.
+
+6. Go to the main hall. In front of you, see the stairs of your unconscious leading to the office of your conscious (filled with light).
+
+7. Climb the stairs to reach the light of the office.
+
+8. As you climb, repeat: **"I Am the Stair to Heaven."**
+
+9. **"I Am the Stair to Heaven."**
+
+10. **"I Am the Stair to Heaven."**
+
+11. Inside the office, you are surrounded by light and clarity.
+
+12. Open the book. See the system that keeps you trapped.
+
+13. Take a deep breath. Bring this information to your ankles. Sound the vibration: **"LLü."**
+
+14. Bring all consciousness and clarity to this system so it doesn't use you anymore—so you use it instead.
+
+15. Recognize: **This is my system. I use it. And it is the same system that sets me free.**
+
+16. Take a deep breath. Stretch your body.
+
+### Closing
+
+1. Open your eyes slowly.
+2. Return to the present moment.
+3. Write down the system you discovered and everything you felt about it.
+
+---
+
+## Key Insights
+
+- **"A system is the way things get together to find stability and order."**
+- **"The system of the cosmos is the seven laws."**
+- **"Systems are not bad. They are tools for organization at a certain level of consciousness."**
+- **"A conscious system doesn't always help unconscious people—sometimes it makes them suffer."**
+- **"The Illuminati were the enlightened ones who brought knowledge to the people—but also used it to control."**
+- **"Fear keeps people unconscious. The body seeks groups for survival, which creates group mentality."**
+- **"A system becomes a jail when we forget that we are the ones creating it."**
+- **"Blaming the system is blaming yourself. Each node in the network is a reflection of your mind."**
+- **"We are not here to destroy systems. We're here to re-systematize—to create conscious systems."**
+- **"Vision has two aspects: external (seeing the world) and internal (seeing yourself)."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Task for Today:** Identify one system in your life that feels like a prison (a routine, a belief system, a relationship dynamic). Ask: "Did I create this system? How am I maintaining it?" Then ask: "How can I use this system consciously instead of being trapped by it?" Write down your insights.
+
+### Applying This Teaching
+
+When you feel controlled by "the system" (society, culture, work, family), remember: **you are not separate from the system. You are part of the network.** Blaming the system is blaming yourself. Instead, become conscious. See how you've been participating in the system unconsciously. Then, choose: will you continue unconsciously, or will you use the system consciously? This is freedom.
+
+---
+
+## Q&A
+
+### Q: What is a system?
+
+A system is the way things organize to find stability and order. It comes from "syn istemi" (with + stable way). The cosmos itself is a system—the seven laws organizing creation. Systems are not inherently bad; they're tools for organization.
+
+### Q: Why do we have a negative view of systems?
+
+Because we've experienced systems being used to control us when we're unconscious. When conscious people create systems to control unconscious people, those systems feel oppressive. But the system itself isn't bad—it's how it's used.
+
+### Q: Who were the Illuminati?
+
+The Illuminati were the "enlightened ones" of the 17th-18th centuries—scientists, philosophers, free thinkers who brought knowledge and light to humanity. They created the Encyclopedia to counter the Bible and established public education. They were the conscious people of their time.
+
+### Q: How did conscious people use systems to control unconscious people?
+
+The Illuminati brought education to unconscious people, but the unconscious remained unconscious—just with more knowledge. The conscious ones realized they could write whatever they wanted in the systems (schools, books, laws) and the unconscious would believe it. This is how public schools became systems of control.
+
+### Q: Why do people stay unconscious?
+
+Fear. Our bodies are designed to survive. When we feel fear, we seek groups because we know groups help us survive. But in groups, we adopt the mentality of the group instead of thinking for ourselves. This is unconsciousness—moving with the herd, not by individual awareness.
+
+### Q: When does a system become a jail?
+
+When we forget that we are the ones creating the system. When we believe the system is an external force controlling us, rather than recognizing that each part of the system is a projection of our own mind. Unconsciousness makes systems into jails.
+
+### Q: How do I break free from a system that controls me?
+
+Become conscious. Recognize that you are part of the system, not separate from it. See how you've been participating unconsciously. Then, choose to use the system consciously. You're not destroying the system—you're re-systematizing it from a place of awareness.
+
+### Q: Will we be different from the Illuminati?
+
+That's the question for today. Will we use our consciousness to empower others, or will we repeat the pattern of control? Will we create systems that free people, or systems that trap them? The choice is ours. We are here to re-systematize, not to dominate.
+
+---

@@ -1,310 +1,365 @@
 ---
-title: "Day 151 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 151 - Mentalism and the Crown Chakra"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 151
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 151
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
+  - mentalism
   - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - constellation work
+  - Capricorn
+  - patterns
+  - structures
+  - beliefs
+  - matrix
+  - I Use
+  - Saturn
+  - hard work
+  - protection
+  - perception
+  - mind
+  - stair to divine
+  - Buddha flame
+  - Hermetic laws
 
 practice_elements:
+  vibration: "LLa"
+  statement: "I Am the Stair to the Divine"
   chakra: "Crown"
+  code: "The Buddha flame. There are different consciousness levels in the universe within which the Buddha is one of the highest. This is because it's the plane of enlightenment that intensity is Buddha. Here, there are no objectives and the conscience is complete acknowledging light in all things. It's not based on the doctrine of enlightenment, but in the grace of remembering that we are already light. In this plane, enlightened beings guide in darkness by simply being themselves."
 
 ---
 
-# Day 151 - Consciousness Work
+# Day 151 - Mentalism and the Crown Chakra
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
-
-## Introduction
-
-Good morning , good afternoon and good evening and of course good year. As you may see , I had n't moved since yesterday night until now , so that 's why I 'm dressed exactly the same because I actually did n't do anything.
-
-So this is it. Well , thank you everybody for all the messages that I 've been receiving. And I read all that I could well basically ready to begin with this new cycle and thank you for your messages and that 's it.
-
-Today we begin with the Capricorn with Capricorn , the Capricorn more months.
-
-So Capricorn is a month of work.
-
-So remember that this month is ruled by Saturn and this is because what we explained yesterday that in the end of the year , the Roman culture used to celebrate the Saturnalia and Saturnalia is like the the celebration of Saturn. Saturn is the god of agriculture is the one related to the earth , the one that is telling it says the land.
-
-So it 's about the work about the harvest.
-
-## Q&A
-
-So they were asking for Saturn for a new for a new good harvest for the next year. And of course , Saturn is related related with the constellation that affects this month in the Santin , January , which is Capricorn. The month of Capricorn , the constellation of Capricorn is related to the hard work of earth to be patient on due to things with a lot of time.
-
-So we are going to be.
-
-So the concept is to work the land. This is why this month , the concept of the iron related to the Capricorn energy will be the I use I use. The energy of Capricorn is related to the hard work of earth. And so it 's very low.
-
-The process of the earth is very low. For example , related to the the work of the land , when you go to plow plow the lands. From the moment you plow the land until the moment you harvest the fruit , it. There are many stages and you have so many things to do in the middle.
-
-Okay. Like you plow the the soil , you put the seed , you take care of the seed , you water the seed. Then you have to take care of the insects and so on.
-
-So until you harvest something , it can take moss.
-
-Okay , many things. We 'll take long along process. And of course in this energy of work is something that for sure we all know about the energy of of Capricorn , which is that working so hard the land the fields in for so long. When the result is not what you were expecting , it gets the frustration and you do n't know what to do and so on you need so for Capricorn energy is the hard worker.
-
-Is the one that says the word never ends. We have to look for perfection all the time.
-
-So we have always some conflict with what we we have done. The team could be better. The word could be better. The results could be better.
-
-We always think as Capricorn people. The Capricorn people used to think always that is not enough. That nothing is really enough that we have to do it better than we have to do it in a different way.
-
-So so that 's why it 's so hard for the Capricorn people to enjoy a result. Because the process is very low and kind of you always think that it can be better.
-
-So the difference between the earth signs basically to understand how the Capricorn is. When we have the other ones , we go and and torus. Virgo is the one that is organized and everything that it does is on service to the others.
-
-So it 's organized and everything for the rest of the people. And torus is the one that only does a really hard work if it 's going to have a benefit. Like , okay , I will do the job. I would do it perfectly.
-
-But if the results will be that I can live. That I can live properly , that I can live happily that I can have everything that I need. And if there is no , if there is no rewards on that.
-
-So torus will just sit on the ground and rather sleep or eat instead of doing wasting energy if there is no comfort on the result. But Capricorn is the one that we 'll say there is never a comfort result. We , it does n't matter why we do. You take the list of Virgo , 1 , 2 , 3 , 4 , 5.
-
-And it just tries it in a very long way , like months or years. And even if Capricorn does this , the result for them will be always wrong. Like , we can do it better. I 'm not comfortable with the results.
-
-So that the month of Capricorn is the one that through this 30 days this month. The ownership Capricorn will tell us maybe the results that you were expecting for this year are not. What they really are.
-
-So maybe we were expecting this year to be different , but no , the process is very slow. And maybe nothing really changes and maybe the tools that we were using were not the best ones.
-
-So we have to rethink about everything that we have done about our tools , the tools that we have. We have to change the ways in which we were doing the things. That would be.
-
-So this month of Capricorn is related mainly with structures and patterns to build them and to destroy them.
-
-So also important thing. Capricorn is related to the structures and patterns , but not how to destroy them exactly mainly how to build them because Capricorn is about building. It 's about building the structures , okay. In the collective consciousness today , we have this idea that we have to change the patterns , we have to erase the patterns and we have to , again , read of the structures , all these kind of things.
-
-## Practice Structure
-
-But that 's not what we are going to work in Capricorn. Capricorn , we are going to work with how to build the structures , how to give the importance to the structures , how to understand why we need structures and patterns , okay. That 's the goal of Capricorn this month. The one that will destroy everything will be our neighbor Aquarium.
-
-The next month Aquarium will say , I do n't give a shit about all this structure.
-
-So let 's destroy everything that you have created before.
-
-So to create new things , okay.
-
-So that would be a playlist next month. But before we do that , we have to understand. What is the importance of Capricorn , okay. What is the importance of the structures of the patterns?
-
-So , take a deep breath. All of you who are the signs of water , air and fire , because now we are going to dive into patterns and structures.
-
-So first of all , pattern , what it means pattern. We have spoken about this , but pattern comes from the indie European languages from pattern that means the protector. The one that holds that protect.
-
-So that 's why the origin of father is pattern , okay. The name father , which was the one that protected the family , the father families is the one that to care of the group of the tribe. As you may see , pattern is not a name related to that , okay , at the beginning. It 's related to the one that protects.
-
-But then after that , in the families , in the past , they used the concept of pattern to refer to the man that was taking care of the family , okay.
-
-So that would be the reason why father become the way in which you call that.
-
-So when we speak about pattern , we speak about things that protect us.
-
-So things that makes us feel safe.
-
-So all this , the fences that we start to create , this pattern that we create , we start to put one over the other to create like a diary , to create like , like a house , like a place where we can take care of our weakness protecting ourselves from the outside. And all this began in a time where we had no order in our lives. We had not governments , we have no society.
-
-So it began in a moment where we needed this shields to protect ourselves. Because the animals could kill us and eat us the people that were hunting there can hunt us to.
-
-So it was so complicated , so difficult that all we could think about was to protect ourselves.
-
-So this means that everything that we start to put one another , one over the other , all these things around to protect ourselves is the ones that we call patterns. The thing is that we had so many different kind of patterns. The patterns that we have , they are structured in physical , emotional and mental.
-
-Okay , so for example , one pattern that we all have and that is that is physical is to dress up to have clothes. Why? Because we felt that we were vulnerable in the ancient times.
-
-So we need to protect ourselves because the body was so weak that we need to protect the genitals , the chest , the belly , everything because of the weather because of the animals or whenever.
-
-So we started to create these codes of leather , we started to create these tissues around us to cover us.
-
-So this created idea that I would be protected if I dress up. And that 's what created the culture that by dressing up with the pendant on the collar , depending on the waist you dress , the texture , whatever , it depends on one thing or another.
-
-Okay , it 's like we are like protecting ourselves from the weakness that we have inside.
-
-So in the emotional level , when we go to the emotional level , all the emotional patterns are created because of the tribes. Why? I try it 's a Latin word that comes from three blue , three blue is like a group of three.
-
-So sometimes the cities were divided in three or the families were divided in three main subjects.
-
-So individuals.
-
-So this tribe is related to mom that and the kids living together.
-
-So in order for the tribe to survive , they need to create these emotional links , bounds.
-
-So you could be all together because if they split us family , they would get killed or they would have less opportunities to survive in the nature.
-
-So they created this this links between each one of them.
-
-So we could survive.
-
-So for example , in the ancient times , you would have some some fear to the sunset because there was a real threat outside which is , I do n't know , a big tiger for example.
-
-So the tigers can kill you because they see in the night and we can not see in the night.
-
-So so this family , this tribe set this pattern that when the sun is in the horizon , we go all to the cave and nobody gets out.
-
-So thousands of years later , we have the same problem that , I do n't know , our family says , it 's not you 're not going to go out and you say , but why I have this conflict with with with my dad or my mom arguing with them because they do n't let me go outside during the night with my friends and they said no because because that could something could happen to you , you know , so that 's a pattern that 's a very old pattern since the time that we lived in the case and that still goes on , okay , so that 's an emotional pattern that we have with the links that we created to survival. Then we have the patterns of the mind and the patterns of the mind , for example , we have many patterns of the light of the of the of the mind here , like for example , we have for sure most of us , most of you here working in the consciousness , some of you made yourself call. Light workers or light warriors , but why that it 's a pattern that is a pattern because the pattern comes from. Very old existence , very old reality , which is that humans live through light that in ancient times humans wake up at the sunrise , when there 's the sunrise , the light comes so you ca n't work again harvesting or so on.
-
-So you follow the light , the path of light through the sky , so you say I am following the light , okay , and the other ones were hunting , so they were to hunt , so they were light warriors. And this is an idea that we have been receiving since the very beginning of humans being light workers and light warriors because we were following the light of the sun. But this does n't work in other planets , this does n't work for the people that are living in the depth of the ocean for the animals that only go out during the night. This is just a belief , I believe that we have.
-
-Everything that we do , that we express is a belief. Everything that we do is a pattern because in the physical , in the emotional and in the mental , every pattern of belief that we have has been created since the very moment of the creation , thousands and billions of years ago , just trying to survive and what is a pattern something that protects me , so patterns were made to protect yourself , so you can still be alive.
-
-So from this point of view , our pattern is something wrong , no , from the point of view of capricorn , the patterns are no bad , the patterns are the clue , the reason why we exist. If the earth would n't have created all these patterns , we would n't have survived , we would n't have been here. It 's because of all these patterns , through millions of years , that the capricorn energy has been creating for us through thousands of years , they are impatient , putting one pattern and trying to make it perfect , so we can be , you know , like , yes. The essence is protected by all these patterns.
-
-So patterns are no bad , it 's okay. All these patterns are connected , all these patterns are connected in a network. This network is the one that we call matrix , the matrix is a network of patterns that helps us to connect with everyone outside.
-
-So if we did n't be because of this network of patterns , the matrix that we are creating , we would n't be able to speak one another , for example , you are there , and I am here because we are full with patterns. Otherwise , you are not going to be able to understand me and I would n't be here. When someone does n't have patterns , those kind of people that you can not talk anything , or that we say it 's crazy or it 's lost or whatever , it 's like , you do n't understand language , you do n't understand anything , you can understand everything. All these patterns in the matrix are the ones that helps you to connect on a network with everyone.
-
-So they are useful. We have been through a process in which patterns and matrix has been treated like very in a negative way. I do n't know where it started. I do n't know what was the point where people started to take this as a bad thing.
-
-But the problem of patterns and matrix is because we do n't know how to use them is not the patterns and matrix. It 's because we do n't know how to use them. That 's the main problem that we have. The gathering of all these patterns of all these tools is what we call a structure.
-
-A structure comes from the Latin word , the meaning to put many things together.
-
-So a structure is to put all these little tools that we call patterns all together in a way in which you can feel stable. Yeah , stabilize. Yeah , stability. To find stability in your life and whatever.
-
-So patterns create structures of thinking.
-
-So this means that we are basically a structure of beliefs that everything that we have in our minds , in our reality , the way in which we live is constantly a network in a matrix. A matrix that is structure with many patterns of beliefs. I hope you are following where I 'm going. Let 's go now into something that I spoke a long time ago , which is the perception of things.
-
-Everything that you perceive , everything , everything senses , the touch , the side , the smell , everything is not real. It 's just a perception of your brain , interpreting data from the outside. But it 's not really what you are feeling or receiving. Is what your brain is believing or thinking.
-
-Technology in this , we will recognize that everything that is in the outside is just a perception of the inside.
-
-So what this means that everything that I am using to protect myself from the existence is just an idea of my mind and perception.
-
-So this is that the network of patterns is not much more than other things than a network of beliefs. If all this is a network of beliefs , the only possible thing that really exists is the one that believes. And who is the only one able to believe , to be a believer , is the mind , mind is the only one.
-
-So basically everything that exists in the universe , every structure and pattern and network is the product of an limited mind , a turn on mind that is cited. That is cited to limit itself. Why an eternal limited mind would find limits? Basically the reason why it looks for limits is because an limited mind can not find.
-
-It can only imagine but can not create because it does n't have patterns to create.
-
-So a limited mind and by limited we are speaking about patterns is able to manifest the thoughts.
-
-So basically the existence this is possible because of the structures and patterns of Capricorn.
-
-The reason why we are willing to break with all these patterns is because there is a moment when living inside a house that everyone has been saying , you have to be here protected , do n't go outside because the house is the only one able to protect you. And there is something inside that says no but I want to open the door and go outside and to play to see things to watch other , to travel to have new experiences and need to do that. We usually have this conflict when we say we have to get rid of the patterns. When we have this house where we start inside and we want to go outside the image.
-
-The energy to go image that we can see when we say I have to get rid of the patterns is like if one day you just figure out that oh my god. I now know that there is a world outside my house.
-
-So in order to see that world I will take away the windows. I will break the windows throw it away , I will kick the door , I will break the door , set fire to the door and the windows. And then also I go to the bed and I throw the way , I throw the bed on the balcony and put fire on it. I go to the kitchen there is the grand and I take the grand and take it through the window and I also burn with the fire.
-
-So that would be the image of taking your patterns away. You know. No that that room where we are going this. The only thing that you have to do in order to get rid of your patterns is just to make it copy of the key of the house.
-
-And just open the door , go outside , go in a trip and then you come back and everyone would be there and you can sleep in your bed. No , kind of like that. What Capricorn would say is do n't break the door of the house , do n't break the windows , do n't burn the grand. Because they have a meaning , they have a purpose there.
-
-So if you want to go somewhere different , to do something different because you are so tired of being in this house.
-
-So you can go out , you can have some such a serious friend and make a trip around the world. And then you can come back and you will have everything here. And you know when you go , I do n't know if you have n't seen you , but when you go outside in a trip , you can see your life , your hometown , your family from a very different perspective.
-
-## Energy Work
-
-So you can see your home , your house from a different point of view. And that 's why if you burn the house , if you just take it all into ashes , you wo n't have your roots. You wo n't have your tools.
-
-Okay?
-
-So this is why throughout all this month , why we are going to do is to go through all these structures and patterns that we have created. And then we maybe want to burn and to break and to get rid of it , but that we have to understand how , why it worked and why we have created. Because we created everything through our minds. And that is the first law and the unique law of the universe , mentality , which is everything that exists in this reality in every reality is just a perception of the mind.
-
-That 's mentality.
-
-Okay? The last thing that I want to say about mentality is that maybe we can make the mistake of thinking that the beliefs that through the mind we can create everything , that through the mind we can do whatever we want. And that we can just by thinking or putting the intention on it , you can create anything you want. But it 's not like that.
-
-And that 's what we are going to learn also through the Capricorn energy.
-
-## Practice Structure
-
-So it 's not about just thinking , you know , we have to go deeper into the structure of the creation. Because from the point of view of faces , maybe it 's about to just think and imagine all will happen and everything is possible. But from the point of view of our mind today , it 's all about , okay , we are here in this reality. We have a lot of structures and you can not create something from the beginning if you are the product of so many patterns and you have no idea what patterns are they.
-
-So you have to look for all the patterns to be in peace with all the patterns to acknowledge the structure to see the tools you have so many work to do so many work to do that that 's working.
-
-Okay?
-
-## Daily Practice Elements
-
-So let 's go to the information for today. The vibration for today is , yeah. Yeah. The statement for today.
-
-I am the stairs towards the Divine. The code for today is the buddha flame. There are different consciousness levels in the universe within which the buddha is one of the highest. This is because it 's the plane of enlightenment that intensity is buddha.
-
-Here , there are no objectives and the conscience is complete acknowledging light in all things. It 's not based on the doctrine of enlightenment , but in the grace of room of remembering that we are already light. In this plane , laid enlightenment that guide in darkness by simply being themselves.
-
-So just to have you , for you to have in mind for all the air and water signs that in order to download heaven on earth. To bring this information from the dreams , the imagination to the ground , you need the structures. Otherwise , they wo n't be manifested in this reality.
-
-So this is why we have to work with Capricorn before , pieces and so on. Because the way in which then we will face the dreams of pieces will be easier to manifest it here to download it in this matter.
-
-Okay.
-
-Today we begin with a new vibration. It 's comfortable , close your eyes. We focus in the breathing. We focus in the breathing.
-
-We focus in the breathing. We focus in the breathing. We focus in the breathing. We focus in the breathing.
-
-We focus in the breathing. We focus in the breathing. Take a deep breath. There where you are imagined.
-
-## Practice Structure
-
-The doors surrounded by a deep library. Everyone in this book is a pattern of the structure. This is the whole of the holes for your finder books. We recognize the structure of your beliefs.
-
-We walk around this library and hear attention. If there are books , I 'm a floor , open the books. If there are holes in the past , are organized or chaotic , pay attention because this library contains all the information of your own records in the subconscious , and the conscious. Walk towards the looks of your beliefs and emit some of them.
-
-Find a book that calls your attention. Watch the shape of the book , the color of the book , the title and the content. Recognize what is your biggest pattern of belief? The answer is in this book.
-
-Take this book with your hand and go through the hole , the main hole until you find a very big stare. And about there is an office with a lot of light. Pay attention to this stare. Is that a clean stare?
-
-Is it easy to go up? Is difficult? Is it empty or fell out with things? Recognize how this stare finds you?
-
-I recognize that I find myself in the floor of the subconscious surrounded by all the books , all the patterns since the very first human. Until me , all the data that made myself possible. There is the unconscious , the path that I have to take to the office of the conscience. And I will take this book with me , so I can bring clarity to this pattern of belief that I have to change in me.
-
-I start to go up the corner of the unconscious. I take the unconscious and go up the corner of the unconscious. And then my path , I rebound through the ascension to the consciousness. And then my heart , my heart , my heart.
-
-And then my heart. I say I arrive to the office of the conscious. I open the book in front of me , allowing the information to come to me , no judging , just preceding emotions , colors , images , words. And I recognize that this pattern is part of my path towards my divinity.
-
-## Energy Work
-
-I am the stare to the divine. I am stare to the divine. I am the stare to the divine. With my both hands , I hold the book and I take it open to my crown chara.
-
-I send the attention to open the records of this belief to send me free from that belief and use it in my own benefit. I use , I use , I use. I can back slowly here and now by bringing this consciousness all around my body , stretching the body , being aware of all the bones.
-
-So I remind you that from today and the next days we will have our Asahi records opened to be aware. Of this patterns that we have to work with , not to break the patterns or structures. But to be aware of them , to become conscious of how to use them.
-
-## Q&A
-
-So today the task would be to write down all those beliefs , the ones that make us be who we are , what are those beliefs.
-
-So we will be working with today with the beliefs and everyday we will work with something different. Thank you everybody for being there and see you tomorrow at the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Crown Chakra
+- **Week Theme:** MIND 'STAIR' - CAPRICORN - I Use
+- **Main Topic:** Mentalism - The First Hermetic Law
+- **Vibration:** `LLa`
+- **Statement:** `I Am the Stair to the Divine`
+- **Code:** The Buddha flame. There are different consciousness levels in the universe within which the Buddha is one of the highest. This is because it's the plane of enlightenment that intensity is Buddha. Here, there are no objectives and the conscience is complete acknowledging light in all things. It's not based on the doctrine of enlightenment, but in the grace of remembering that we are already light. In this plane, enlightened beings guide in darkness by simply being themselves.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Happy New Year! On January 1st, 2021, we begin the month of Capricorn—a month of hard work, structures, and patterns. Matias humorously apologizes to all the water, air, and fire signs because Capricorn is ruled by Saturn, the god of agriculture and hard work. This is not a light, dreamy month—this is about building, understanding structures, and learning how to use the tools we've created.
+
+The Roman culture celebrated Saturnalia at the end of the year, asking Saturn for a good harvest. Capricorn energy is about working the land, being patient, doing things with time and care. The mantra for this month is "I Use"—learning how to use our patterns, structures, and beliefs as tools rather than prisons.
+
+Today we begin exploring the Seven Hermetic Laws, starting with Mentalism—the understanding that everything in existence is a perception of the mind. We're diving deep into patterns and structures this month, not to destroy them, but to understand why we need them and how to use them consciously.
+
+---
+
+## Core Teaching
+
+### Welcome to Capricorn: The Month of Work
+
+Today we begin with Capricorn, the Capricorn month. Capricorn is a month of work. This month is ruled by Saturn, related to the earth, the land. Saturn is the god of agriculture, the one that sows the land.
+
+It's about the work, about the harvest. The energy of Capricorn is related to the hard work of earth, being patient, doing things with a lot of time.
+
+The concept is to work the land. This is why the mantra related to Capricorn energy is **"I Use."**
+
+### The Slow Process of Capricorn
+
+The energy of Capricorn is related to the hard work of earth, and it's very slow. The process of the earth is very slow.
+
+For example, related to the work of the land: when you go to plow the lands, from the moment you plow the land until the moment you harvest the fruit, there are many stages. You have so many things to do in the middle.
+
+You plow the soil, you put the seed, you take care of the seed, you water the seed. Then you have to take care of the insects and so on. Until you harvest something, it can take months. Many things. It's a long process.
+
+Of course, in this energy of work, we all know about Capricorn: working so hard the land, the fields, for so long—when the result is not what you were expecting, frustration comes. You don't know what to do. Capricorn energy is the hard worker, the one that says the work never ends. We have to look for perfection all the time.
+
+### Capricorn and Perfection
+
+We always have some conflict with what we have done. It could be better. The work could be better. The results could be better.
+
+Capricorn people used to think always that it's not enough. That nothing is really enough. That we have to do it better, that we have to do it in a different way.
+
+That's why it's so hard for Capricorn people to enjoy a result. Because the process is very slow, and you always think that it can be better.
+
+### Understanding Patterns: What Is a Pattern?
+
+First of all, pattern—what does it mean? We've spoken about this, but pattern comes from the Indo-European languages from "pater," that means the protector, the one that holds, that protects.
+
+That's why the origin of "father" is "pater." The name "father," which was the one that protected the family, the father of families, is the one that took care of the group, of the tribe.
+
+As you may see, "pater" is not a name related to man at the beginning. It's related to the one that protects. But then, in the families in the past, they used the concept of "pater" to refer to the man that was taking care of the family.
+
+**When we speak about pattern, we speak about things that protect us. Things that make us feel safe.**
+
+### Why We Created Patterns
+
+All the fences that we start to create, these patterns that we create, we start to put one over the other to create like a diary, to create like a house, like a place where we can take care of our weakness, protecting ourselves from the outside.
+
+All this began in a time where we had no order in our lives. We had no governments, we had no society. It began in a moment where we needed these shields to protect ourselves.
+
+Because the animals could kill us and eat us. The people that were hunting there could hunt us too. It was so complicated, so difficult, that all we could think about was to protect ourselves.
+
+**This means that everything we start to put one over another, all these things around to protect ourselves, are the ones that we call patterns.**
+
+### The Three Levels of Patterns
+
+The patterns that we have are structured in physical, emotional, and mental:
+
+**Physical Patterns:**
+One pattern that we all have that is physical is to dress up, to have clothes. Why? Because we felt that we were vulnerable in ancient times.
+
+We need to protect ourselves because the body was so weak. We need to protect the genitals, the chest, the belly, everything—because of the weather, because of the animals, or whatever. So we started to create these coats of leather, we started to create these tissues around us to cover us.
+
+This created the idea that I would be protected if I dress up. That's what created the culture—depending on the collar, the waist you dress, the texture, whatever. It's like we are protecting ourselves from the weakness we have inside.
+
+**Emotional Patterns:**
+When we go to the emotional level, all the emotional patterns are created because of the tribes. "Tribe" is a Latin word that comes from "tribus," which is like a group of three.
+
+This tribe is related to mom, dad, and the kids living together. In order for the tribe to survive, they need to create these emotional links, bonds, so they could be all together. Because if the family split, they would get killed or would have less opportunities to survive in nature.
+
+For example, in ancient times, you would have some fear of the sunset because there was a real threat outside—a big tiger, for example. The tigers can kill you because they see in the night and we cannot see in the night.
+
+So this family, this tribe, set this pattern: when the sun is in the horizon, we go all to the cave and nobody gets out.
+
+Thousands of years later, we have the same problem. Our family says, "You're not going to go out," and you say, "But why? I have this conflict with my dad or my mom arguing with them because they don't let me go outside during the night with my friends."
+
+**That's a pattern—a very old pattern since the time we lived in the caves, and it still goes on.**
+
+**Mental Patterns:**
+The patterns of the mind—for example, many of us working in consciousness call ourselves "light workers" or "light warriors." But why? It's a pattern.
+
+The pattern comes from very old existence, very old reality: humans lived through light. In ancient times, humans wake up at the sunrise. When the sunrise comes, the light comes, so you can work again—harvesting or so on. You follow the light, the path of light through the sky.
+
+So you say, "I am following the light." And the other ones were hunting, so they were "light warriors."
+
+This is an idea we've been receiving since the very beginning of humans—being light workers and light warriors because we were following the light of the sun.
+
+But this doesn't work on other planets. This doesn't work for people living in the depth of the ocean, for the animals that only go out during the night.
+
+**This is just a belief. Everything that we do, that we express, is a belief. Everything that we do is a pattern.**
+
+### The Matrix: A Network of Patterns
+
+All these patterns are connected. All these patterns are connected in a network. This network is the one that we call the **matrix.**
+
+The matrix is a network of patterns that helps us to connect with everyone outside. If it weren't because of this network of patterns, the matrix that we are creating, we wouldn't be able to speak to one another.
+
+For example, you are there and I am here because we are full with patterns. Otherwise, you are not going to be able to understand me and I wouldn't be here.
+
+When someone doesn't have patterns—those kind of people that you cannot talk to, or that we say are crazy or lost or whatever—it's like you don't understand language, you don't understand anything.
+
+**All these patterns in the matrix are the ones that help you to connect in a network with everyone. So they are useful.**
+
+### Patterns Are Not Bad
+
+We have been through a process in which patterns and matrix have been treated in a very negative way. I don't know where it started. I don't know what was the point where people started to take this as a bad thing.
+
+But the problem of patterns and matrix is because we don't know how to use them. It's not the patterns and matrix. **It's because we don't know how to use them. That's the main problem that we have.**
+
+### Structures: Gathering Patterns
+
+The gathering of all these patterns, of all these tools, is what we call a structure. A structure comes from the Latin word meaning "to put many things together."
+
+So a structure is to put all these little tools that we call patterns all together in a way in which you can feel stable. Stability.
+
+**Patterns create structures of thinking.** This means that we are basically a structure of beliefs. Everything that we have in our minds, in our reality, the way in which we live, is constantly a network, a matrix—a matrix that is structured with many patterns of beliefs.
+
+### Everything Is Perception
+
+Let's go now into something I spoke about a long time ago: the perception of things.
+
+Everything that you perceive—everything—every sense, the touch, the sight, the smell, everything—is not real. It's just a perception of your brain interpreting data from the outside. But it's not really what you are feeling or receiving.
+
+It's what your brain is believing or thinking.
+
+Recognizing this, we will acknowledge that everything that is outside is just a perception of the inside.
+
+**What this means is that everything that I am using to protect myself from existence is just an idea of my mind, a perception.**
+
+### The First Hermetic Law: Mentalism
+
+If all this is a network of beliefs, the only possible thing that really exists is the one that believes. And who is the only one able to believe, to be a believer? **The mind. Mind is the only one.**
+
+Basically, everything that exists in the universe, every structure and pattern and network, is the product of an unlimited mind, an eternal mind, that is excited to limit itself.
+
+Why would an eternal, unlimited mind find limits? Basically, the reason why it looks for limits is because an unlimited mind cannot find. It can only imagine but cannot create, because it doesn't have patterns to create.
+
+**An limited mind—and by limited we are speaking about patterns—is able to manifest the thoughts.**
+
+Basically, the existence is possible because of the structures and patterns of Capricorn.
+
+**That is the first law and the unique law of the universe: mentality. Everything that exists in this reality, in every reality, is just a perception of the mind. That's mentality.**
+
+### Don't Burn the House
+
+The reason why we are willing to break with all these patterns is because there's a moment when living inside a house where everyone has been saying, "You have to be here protected, don't go outside because the house is the only one able to protect you"—there's something inside that says, "No, but I want to open the door and go outside and play, to see things, to watch others, to travel, to have new experiences."
+
+We usually have this conflict when we say we have to get rid of the patterns.
+
+The image when we say "I have to get rid of the patterns" is like if one day you just figure out, "Oh my god, I now know that there is a world outside my house!" So in order to see that world, you break the windows, throw them away, kick the door, break the door, set fire to the door and the windows. You go to the bed and throw the bed on the balcony and put fire on it. You go to the kitchen, take the oven, and throw it through the window and burn it with fire.
+
+**That would be the image of taking your patterns away.**
+
+The only thing that you have to do in order to get rid of your patterns is just to make a copy of the key of the house. And just open the door, go outside, go on a trip, and then you come back and everyone would be there and you can sleep in your bed.
+
+**What Capricorn would say is: don't break the door of the house, don't break the windows, don't burn the oven. Because they have a meaning, they have a purpose there.**
+
+If you want to go somewhere different, to do something different because you are so tired of being in this house, you can go out, have some adventures, make a trip around the world. And then you can come back and you will have everything here.
+
+When you go outside on a trip, you can see your life, your hometown, your family from a very different perspective. You can see your home, your house from a different point of view.
+
+**That's why if you burn the house, if you just take it all into ashes, you won't have your roots. You won't have your tools.**
+
+### Learning How to Use Patterns
+
+Throughout all this month, what we are going to do is go through all these structures and patterns that we have created—that maybe we want to burn and break and get rid of—but we have to understand how they work and why we have created them.
+
+Because we created everything through our minds. And that is the first law and the unique law of the universe: mentality.
+
+---
+
+## Practice
+
+### Preparation
+
+1. Sit comfortably.
+2. Close your eyes.
+3. Focus on the breathing.
+
+### Main Practice Steps
+
+1. There where you are, imagine yourself surrounded by a deep library.
+
+2. Every book in this library is a pattern, a structure. This is the hall of the halls for your inner books.
+
+3. Recognize the structure of your beliefs.
+
+4. Walk around this library and pay attention. Are there books on the floor? Open books? Are the shelves organized or chaotic?
+
+5. Pay attention because this library contains all the information of your own records—in the subconscious and the conscious.
+
+6. Walk toward the books of your beliefs and examine some of them.
+
+7. Find a book that calls your attention. Watch the shape of the book, the color of the book, the title, and the content.
+
+8. Recognize: What is your biggest pattern of belief? The answer is in this book.
+
+9. Take this book with your hand and go through the hall, the main hall, until you find a very big stair.
+
+10. Above, there is an office with a lot of light.
+
+11. Pay attention to this stair. Is it a clean stair? Is it easy to go up? Is it difficult? Is it empty or filled with things?
+
+12. Recognize how this stair feels to you.
+
+13. I recognize that I find myself on the floor of the subconscious, surrounded by all the books, all the patterns since the very first human until me. All the data that made myself possible.
+
+14. There is the unconscious—the path that I have to take to the office of the conscience.
+
+15. I will take this book with me so I can bring clarity to this pattern of belief that I have.
+
+16. I start to go up through the stairs of the unconscious.
+
+17. In my path, I remember through the ascension to the consciousness.
+
+18. I arrive at the office of the conscious.
+
+19. I open the book in front of me, allowing the information to come to me—no judging, just perceiving emotions, colors, images, words.
+
+20. I recognize that this pattern is part of my path toward my divinity.
+
+21. Repeat: **I am the stair to the divine. I am the stair to the divine. I am the stair to the divine.**
+
+22. With my both hands, I hold the book and take it open to my crown chakra.
+
+23. I send the intention to open the records of this belief, to set me free from that belief, and use it in my own benefit.
+
+24. **I use. I use. I use.**
+
+25. Take a deep breath.
+
+### Closing
+
+1. Come back slowly here and now by bringing this consciousness all around your body.
+
+2. Stretch the body, being aware of all the bones.
+
+3. Remind yourself that from today and the next days, you will have your Akashic records opened to be aware of the patterns you have to work with.
+
+4. Not to break the patterns or structures, but to be aware of them, to become conscious of how to use them.
+
+---
+
+## Key Insights
+
+- **"Capricorn is a month of work—hard work, structures, and patterns."**
+- **"The mantra for Capricorn is 'I Use'—learning how to use our patterns as tools."**
+- **"Pattern comes from 'pater,' meaning protector. Patterns are things that protect us and make us feel safe."**
+- **"Patterns were created to protect ourselves when we had no order, no governments, no society."**
+- **"All patterns are connected in a network. This network is called the matrix."**
+- **"The matrix is a network of patterns that helps us connect with everyone outside."**
+- **"Patterns are not bad. The problem is that we don't know how to use them."**
+- **"A structure is putting all these patterns together in a way in which you can feel stable."**
+- **"Everything you perceive is not real. It's just a perception of your brain interpreting data from the outside."**
+- **"Everything in the universe is the product of an unlimited mind that is excited to limit itself."**
+- **"The first Hermetic Law is mentality: everything that exists is a perception of the mind."**
+- **"Don't burn the house. Don't break the patterns. Just make a copy of the key and go explore."**
+- **"When you travel, you can see your life from a different perspective—and then come back home."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Task for Today:** Write down all those beliefs—the ones that make you who you are. What are those beliefs? This is your starting point for the Capricorn month. You're not breaking these beliefs; you're becoming aware of them so you can use them consciously.
+
+### Applying This Teaching
+
+Throughout this month, instead of trying to destroy your patterns and structures, ask: "How can I use this? What purpose does this serve? Why did I create this protection?" Remember, you're not escaping the house—you're learning to open the door and explore, knowing you can always come back to your foundation.
+
+---
+
+## Q&A
+
+### Q: Why is Capricorn considered a "hard" month?
+
+Capricorn is ruled by Saturn, the god of agriculture and hard work. It's about working the land—a slow, patient process with many stages. Capricorn energy is perfectionistic and never satisfied, always thinking things could be better. This makes it challenging but also deeply transformative if we learn to work with it.
+
+### Q: What is a pattern, and why do we have them?
+
+A pattern comes from "pater," meaning protector. Patterns are things we created to protect ourselves—to make us feel safe. They exist on physical (clothing), emotional (family bonds), and mental (beliefs like "light worker") levels. They were created when we had no order, no society, and needed shields to survive.
+
+### Q: Is the matrix bad? Should we escape it?
+
+No. The matrix is simply a network of patterns that helps us connect with everyone outside. Without this network, we couldn't communicate or understand each other. The problem is not the matrix itself—it's that we don't know how to use it consciously. Capricorn month teaches us how to use it.
+
+### Q: What is the Hermetic Law of Mentalism?
+
+Mentalism is the first and only true law: everything that exists in this reality is a perception of the mind. All structures, patterns, and networks are products of an unlimited mind that chose to limit itself through patterns in order to manifest and create. Without limitations (patterns), the mind can only imagine but cannot create.
+
+### Q: Why do you say "don't burn the house"?
+
+Many spiritual teachings say "get rid of your patterns" or "escape the matrix." Matias says this is like burning your house down to see what's outside. Instead, just make a copy of the key, open the door, go explore, and then come back. Your roots, your tools, your foundation—they have purpose. Don't destroy them; learn to use them.
+
+### Q: How can I work with patterns instead of against them?
+
+First, become aware of them. Write them down. See them clearly. Then ask: "Why did I create this? What does this protect? How can I use this consciously?" Patterns are tools. The goal is not to break them but to understand them and use them in your own benefit.
+
+### Q: What does "I Am the Stair to the Divine" mean?
+
+You are the connection between the subconscious (the library of all patterns) and the conscious (the office of light). You are the stair that brings awareness from the depths to the light. Every pattern you make conscious becomes a step on your stairway to divinity.
+
+### Q: Why do we need to go through Capricorn before Pisces (dreams)?
+
+In order to download heaven on earth, to bring information from dreams and imagination to the ground, you need structures. Otherwise, dreams won't be manifested in this reality. Capricorn builds the foundation so Pisces can dream into form.
+
+---

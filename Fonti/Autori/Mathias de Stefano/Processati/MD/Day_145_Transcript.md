@@ -1,238 +1,307 @@
 ---
-title: "Day 145 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 145 - Asia and the Solar Plexus"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 145
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 145
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hold
-  - month holds
-  - month hole
+  - Asia
+  - solar plexus
+  - I Am
+  - Indo-European
+  - Great Stan
+  - Tibet
+  - shamanism
+  - homosapiens sapiens
+  - cultural identity
+  - Himalayas
+  - subconscious
+  - Tethys Sea
+  - Mongolia
+  - Siberia
+  - India
+  - ethereal being
+  - self-awareness
+  - civilization
 
 practice_elements:
-  chakra: "Heart"
+  vibration: "THï"
+  statement: "I Am the Ethereal Being"
+  chakra: "Plexus"
+  code: "The subconscious. There were all options combined, lines the list, the first of the great consciousness. The one that is deprived of all purposes, patterns, objectives, logic, directions, space, or time. We could say that the subconscious is the ocean where we all swim, from where we've never left, something that contains us all, unites, records, and moves us all. And what happens in it happens to us all, to all of us."
 
 ---
 
-# Day 145 - Consciousness Work
+# Day 145 - Asia and the Solar Plexus
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
+- **Chakra Focus:** Solar Plexus
+- **Week Theme:** BODY 'CELESTIAL' - SAGITTARIUS - I See
+- **Main Topic:** Asia and the Solar Plexus
+- **Vibration:** `THï`
+- **Statement:** `I Am the Ethereal Being`
+- **Code:** The subconscious. There were all options combined, lines the list, the first of the great consciousness. The one that is deprived of all purposes, patterns, objectives, logic, directions, space, or time. We could say that the subconscious is the ocean where we all swim, from where we've never left, something that contains us all, unites, records, and moves us all. And what happens in it happens to us all, to all of us.
 
-## Introduction
+---
 
-Hi everyone. How are you? I hope you are listening to me. I hope you , most of all , I hope you are hearing me.
+## Overview
 
-Good morning , good afternoon , good evening. First of all , I will tell you that I am in a very different situation for a person , which is very from the third dimension.
+On December 26th, we journey to the continent of Asia, the solar plexus of the planet Earth. Today's alignment explores how Asia shaped humanity's cultural identity and gave birth to the concept of "I Am" as a civilization. Matias shares this teaching from a cinema after watching the movie "Soul," which he highly recommends as it beautifully connects to today's themes.
 
-The reason why the environment is different is because I love to go to the cinema. It 's been many months without going to cinema and just discover that there is a cinema close by. But we did n't made the right timing.
+Asia is where humanity first declared, "I am human. I am a thinking being." This is where homosapiens became homosapiens sapiens—the human that truly thinks, the one capable of creating cultures and civilizations. The continent holds the geographical and spiritual center of self-awareness in Tibet, where information from the deepest oceans meets the highest peaks of the sky.
 
-So the movie has just ended , so we would n't be able to arrive to the hotel.
+Today's vibration is "THï," combining the celestial (TH) with the being (ï). The statement "I Am the Ethereal Being" reminds us that we exist in the subconscious ocean that connects all of humanity. The code speaks of the subconscious as the ocean where we all swim, never having left, containing and uniting us all.
 
-So that 's why I 'm here in the cinema. And we came to see the movie Soul , which is very beautiful.
+---
 
-So I really recommend this movie because really it 's incredible.
+## Core Teaching
 
-So today , the topic is Asia , the continent Asia.
+### The Geography of Asia
 
-So to be to go to the point , the Asia continent is related to the solar plexus of the planet.
+The continent of Asia is related to the solar plexus of the planet. It is one of the biggest continents, but we must understand its true geographical boundaries.
 
-So we are going to talk about the main territory of Asia. Like Middle East. Middle East was also called Asia Minor or Asia Minor. But it 's not part of the continent because that territory once was a group of islands that got all united when the pressure of African Asia got together.
+The Middle East, also called Asia Minor, is not actually part of the Asian continent. That territory was once a group of islands that united when the pressure of Africa and Asia came together, creating the mountains and regions of the Middle East.
 
-So that 's how they connected and created the mountains and this regions of Middle East.
+Asia has two other territories within it that seem to be Asia but are not. The first is the north of Siberia, which is connected to North America—a different plateau. The second is India. Geologically, India is connected to Australia, not Asia.
 
-So the continent of Asia is one of the biggest one , but also has two other territories within Asia that they seem to be Asia , but they are not. And those are one in the north , which is the north of Siberia , which is connected to North America. It 's a different plateau connected to North America. And the other one is India.
+### The Formation of the Himalayas
 
-India , we all think that is connected to Asia , that is part of Asia , but geological it 's connected to Australia.
+When Australia started to move toward the north, India also started to move faster north and pushed inside the continent of Asia. This pressure that India created started to raise the land, creating the Himalayas and, of course, Tibet.
 
-So when Australia started to move towards the north , India started to also move faster to the north and got inside the continent of Asia.
+The limit of Asia with Europe can be seen in the Ural Mountains. They start in Novaya Zemlya, an island in the Arctic, and go down through the Ural Mountains toward the Caspian Sea.
 
-So this pressure that India created started to make to rise up the land creating the Himalayas. And of course , the , of course , the Tibet.
+In the south, the continent of Asia arrives at all the islands of Indonesia, but not Papua Island, because Papua is connected to Oceania.
 
-So also the limit of Asia with Europe , sometimes we do n't see it , we can not appreciate it , but we can see the limit in the euro mountains. And they start in Nova Zambia , which is an island in the Arctic. And from there it goes down in the euro mountains towards until the Asian Sea.
+### Asia: The Molder of Humanity
 
-So in the south , the continent of Asia arrives until all the islands of Indonesia , but not the Papua island , because Papua is connected to Oceania.
+The continent of Asia is basically the one that molded humanity. From 300,000 years ago to a million years ago, the changes of Asia were shaping the way we survived in the world.
 
-So I invite you to see some map if you can.
+The explosion of the Toba volcano in Sumatra Island changed the whole weather and environment in Siberia. What happened to humans in that continent basically shaped the idea of who we are as homosapiens.
 
-So you can get , you can get to know the solar plexus of the , of the body.
+This is why this continent was the one that said to humans: "You are this. You are humans." In Asia was the first continent where we could say, "I am. I am human."
 
-So you , you can relate with that part of the body that we all are.
+### From Homosapiens to Homosapiens Sapiens
 
-So that would be the whole Asia.
+Homosapiens means "the human that thinks." Due to the process we lived through in Asia, we became homosapiens sapiens—the human that really is thinking. This means the humanity that started to be the one able to create cultures, the one able to create civilizations.
 
-So when you see the maps , you can. You can perceive it and you can just get to know a little bit better your plexus. The continent of Asia is basically the one that molded the humanity , because from 300,000 years ago , till a million years ago , the changes of Asia were basically shaping the way in which we survived in the world , like the explosion of the Told volcano in Sumatra Island , changed the whole weather , changed the environment in , in Siberia.
+### The Indo-European People
 
-So so what happened to humans in that continent basically shaped the idea of who we are of as homosapiens.
+We all have a common ancestor regarding our philosophy, our way of talking, our traditions, and cultures. We all come from the people we call the Indo-Europeans.
 
-So this is why this continent was , was the one that said to the humans , hey , you are this , you are humans.
+These people were living around the Caspian Sea in the lands of the Great Stan, mainly in the Kazakhstan regions and southern Russia. They spread toward India and also to Europe, to the plains of Hungary.
 
-So in Asia was the first continent in which we could say , I am , I am human.
+All this territory was the region of the Indo-European people because they connected from India to Europe. These people were the basement, the seed of all our traditions and thoughts of Asia and Europe.
 
-So remember that homosapiens means the human that thinks , okay.
+All the ways of thinking, the philosophy, and the traditions that we share in the biggest part of humanity come from those people—the Indo-European people.
 
-So human that things and due to the process that we lived in Asia , we become to be homosapiens sapiens. Homosapiens sapiens would be the human that really is thinking , okay , a lot.
+### The Great Stan
 
-So this means the humanity that started to be , to be the one able to create cultures , the one able to create civilizations and so on. Also important to know that we all have the common ancestor regarding our philosophy , our way of talking , our traditions , cultures. We all come from the people that we use that we call the Indo-European. And those people were living around the Asian Sea in the lands of the Great Sun , mainly in the Kazakhstan regions and the southern Russia.
+The great territory of Stan, where the Indo-European people used to live, is very important because "Stan" means "the land of."
 
-And they spread towards the India and also to Europe to the plains of Hungary.
+We call the Great Stan all the territories of countries that end in "stan": Pakistan, Afghanistan, Turkmenistan, Tajikistan, Kazakhstan, Uzbekistan. All these countries are the Great Stan.
 
-So all this territory was the region of the people called the Indo-Europeans because they connected from India to Europe. These people basically were the basement , the seed of all our traditions , of all the thoughts of Asia and Europe.
+This territory, plus the Manas territories (China, Mongolia, Siberia), are the ones that molded the way of thinking of the whole world.
 
-So all the ways of thinking , the philosophy , the traditions that we have sharing in the biggest part of humanity comes from those people from the Indo-European people.
+### The Spread of Culture from Asia
 
-Okay.
+The people from the Great Stan, the Indo-European people, started to expand toward the West. These people populated the regions of Europe, the Mediterranean Sea, and the Middle East.
 
-So this is why the great territory of Sun , where the Indo-European people used to live , is very , very important because Sun means the land of , okay.
+From the Middle East, they started to conquer North Africa. From half of Africa to the West and North, all the traditions came from the Middle East, which came from the Great Stan.
 
-So we call the Great Sun , all the territories of the countries that end in Sun , like Pakistan , Afghanistan , Turkmenistan , Tajikistan , Kazakhstan , Uzbekistan , all these countries.
+On the other hand, we have populations from the Indo region—India, the rivers of India, Tibet, the Taklamakan Desert. From there, they started to go to the East, populating the south of Asia and then going up toward Mongolia, China, and Siberia. They also went south through Indonesia, populating Australia and the Pacific Ocean.
 
-So all these countries are the Great Sun. And this territory , plus the Minus territories , which is the China Mongolia , Siberia , all these territories , are the ones that molded the way of thinking of the whole world. And now we are going to see why. The first thing is because the people from the Great Sun , so the Indo-European people , they started to expand towards the West.
+### The Migration to the Americas
 
-So all these people were populated in the regions of Europe , Mediterranean Sea , and of course the Middle East.
+The people from the north of Asia started to migrate toward Alaska and North America, spreading all through North America. From the south, they started to go to the Pacific Ocean, reaching Chile, and from there they populated South America. They came together in Central America.
 
-So from Middle East then they started to conquered the North and Africa.
+As you see, all the cultures from the Americas were basically born in the center of Asia. Even though humans were born in Africa, from Africa they went to the Middle East, and from there to Asia. From Asia, they started to expand toward all the world.
 
-So from the half of Africa to the West North , all the traditions came from the Middle East that came from the Great Sun. And in the other hand , we have this other populations from the Indo region , which is the India , the rivers from India , and Tibet , Tehlamak and desert , all this territory. And from there they started to go to the East , all of them went to the East.
+### The Cultural "I Am" Born in Asia
 
-So they populated the south of Asia , all these countries from the south of Asia. And then they went up towards Mongolia , China , Siberia , and towards the south through Indonesia , populating Australia and the Pacific and the Pacific Ocean.
+The idea of the cultural being, the civilization saying "This is me, I am"—all these bases of every culture around the world were born in the center of Asia.
 
-So they spread towards the East , the opposite of the Sun people.
+The center of all this power of acknowledging yourself is the center of Asia, which is Tibet. It's not because of the Tibetan culture—it's because of the geography.
+
+### Tibet: Where Ocean Meets Sky
+
+The reason why Tibet is so important is because of geography. Thousands and millions of years ago, Tibet was the region of a great sea called the Tethys.
+
+Tethys was a big sea between Oceania and Asia. When India went to this region, it started to bring that ocean, that sea, toward the sky. All the information from the oceans went up toward the highest spot of the planet.
+
+The inner part of the planet was connected to the highest point in the sky. This means the highest peaks of the world are the youngest mountains of the world, and they have the information from the deepest part of the oceans.
+
+This territory, Tibet, is the one that holds the information of the skies, the earth, and the seas. All this information got stuck in the center of Asia.
+
+### Finding the Self in Tibet
+
+All the people that used to go to Tibet found the information of the whole planet. They understood how to become their own planet, how to become their own self.
+
+This is why in this territory of Asia the "I Am" was built, and the cultures related to the "I Am" were born. That's why Eastern cultures are the ones that help us understand all the different concepts of the "I Am."
+
+### Shamanism Born in Asia
+
+Some may ask, "Why all of Asia? In America, shamanism has all this information too."
+
+Well, shamanism wasn't born in America. Shamanism was born in Mongolia, in the Gobi Desert and the territories of Siberia, in Lake Baikal.
+
+In all that territory, women were the first ones to become shamans, connecting to the earth. Then they taught men how to use it. Shamanism started in northern Asia.
+
+### All Cultures Connected Through the "I Am"
+
+All cultures are connected as cultural beings in philosophy related to the "I Am." This is because all cultures were born in the center of Asia where the "I Am" was created.
+
+When we speak about the "I Am" and picture the whole world, we have to think that this center of the "I Am" is connected to the plexus, the center of the self, which is in Asia—specifically Tibet.
+
+### The Current State of the Solar Plexus
+
+One of the things to reflect on today is the relationship we have with the "I Am," reflected by the actions of countries in those territories. They are not working exactly with the "I Am." They are just fighting against each other, trying to control one another.
+
+For example, the plexus (Tibet) is under the power of China, which is the stomach. The "I Am" is basically under the pressure of the processor of the world.
+
+This is why we have conflicts in our self as humanity related to the "I Am."
+
+### The Fractal of the Self
+
+This takes us to the fractal of this: How do you relate yourself with the "I Am"?
+
+Are you free to express who you are, or are you just living through the perceptions of others? Do you just do whatever other ones are trying to tell you to do, or are you really free to be who you really are?
+
+Just think about that, and you will acknowledge how humanity—all of us together—are living this reality.
+
+---
+
+## Practice
+
+### Preparation
+
+1. Sit comfortably with a comfortable body.
+2. Remember that you are in this big great sphere of celestial color—light blue and white light.
+3. Find yourself seated on your heart chakra.
+
+### Main Practice Steps
+
+1. I remember that my body is an extension of the animal kingdom. Through my thoughts, I help all of them to light too.
+
+2. I remember that I am in this world, in this stage of the "I Am."
+
+3. I look into the horizon at the celestial light blue sky and the mountains of the world.
+
+4. I can see the Caspian Sea starting to be shining by the sun rising in the east.
+
+5. I take to the ground and see Siberia—the great plains of the Great Stan and the cold forests of Siberia.
+
+6. I see the mountains of the Urals, the chain that protects and holds the Caspian Sea—the center of my condenser.
+
+7. I see a mirrored horizon of the highest mountains of the Karakoram in the region of Pamir, going down to the mountains of Pakistan.
+
+8. I expand through the eternal and thousands of colors of India.
+
+9. I feel the great forests and rainforests of Indonesia, Myanmar, Thailand, Vietnam, Cambodia, and Laos.
+
+10. I watch how the mountains arise, putting in the lightest and the green fields and mountains, the highest peaks of white celestial in the sky.
+
+11. As I go to the east, I feel the great China and its wisdom, touching the seeds of the sun.
+
+12. I observe the dragons of Japan, Korea, Taiwan, and the Philippines.
+
+13. I hold to the center of the continent—to Tibet, the deepest lake of the world: Lake Baikal, the rainbow bridge where every shaman has come to earth.
+
+14. There I find again the center, the core of the greatest country that holds the one that connects us all—the roof of the planet: Tibet.
+
+15. There, in the center of all things, in the void, I find enlightenment.
+
+16. Repeat: **I am the ethereal being. I am the ethereal being.**
+
+17. I live within each one living thing of one earth, for all of them are one for me.
+
+18. **I am the ethereal being.**
+
+19. Take a deep breath.
+
+### Closing
+
+1. Recognize the entire continent of Asia in its forces.
+
+2. Begin to bring this consciousness all around your body.
+
+3. Come back here and now.
+
+4. Take a deep breath and open your eyes.
+
+---
+
+## Key Insights
+
+- **"Asia is the solar plexus of the planet."**
+- **"Asia was the first continent where we could say, 'I am. I am human.'"**
+- **"Homosapiens sapiens means the human that really is thinking—the one able to create cultures and civilizations."**
+- **"All our traditions and ways of thinking come from the Indo-European people of the Great Stan."**
+- **"The Great Stan includes all countries ending in 'stan': Pakistan, Afghanistan, Turkmenistan, Tajikistan, Kazakhstan, Uzbekistan."**
+- **"Tibet holds the information of the skies, the earth, and the seas."**
+- **"The highest peaks of the world are the youngest mountains, and they have information from the deepest part of the oceans."**
+- **"In Tibet, people understood how to become their own planet, how to become their own self."**
+- **"This is why in Asia the 'I Am' was built, and cultures related to the 'I Am' were born."**
+- **"Shamanism wasn't born in America. It was born in Mongolia, in the Gobi Desert and Siberia."**
+- **"All cultures were born in the center of Asia where the 'I Am' was created."**
+- **"Tibet is under the power of China—the 'I Am' is under the pressure of the processor of the world."**
+- **"How do you relate to the 'I Am'? Are you free to express who you are, or are you living through the perceptions of others?"**
+- **"The subconscious is the ocean where we all swim, from where we've never left."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Reflect on your relationship with your "I Am." Are you free to express who you really are, or are you just doing what others expect of you? Notice throughout the day when you act from your authentic self versus when you act from the perceptions and expectations of others.
+
+### Applying This Teaching
+
+Recognize that Asia's current struggles—Tibet under pressure from China—reflect humanity's collective struggle with the "I Am." Your personal struggle to express your authentic self mirrors the planetary struggle. By freeing your own "I Am" from external pressures and expectations, you contribute to freeing humanity's collective "I Am."
+
+---
 
 ## Q&A
 
-So you will see that the people from the North of Asia , they start to migrate towards Alaska and North America. They spread all through North America. And from the south they start to go to the Pacific Ocean , they go to Chile , and from there they start to populate South America , and they get together in Central America.
+### Q: Why is Asia considered the solar plexus of the planet?
 
-So as you see , all the cultures from the Americas , they basically were born in the center of Asia. Even if humans were born in Africa , from Africa they started to go up towards Middle East and from there they went to Asia.
+Asia is the solar plexus because it is the center where humanity's sense of self—the "I Am"—was born. Just as the solar plexus is the center of personal identity and power in the body, Asia is where cultural identity and self-awareness emerged for humanity.
 
-So from Asia they started to expand towards all the world.
+### Q: What is the difference between homosapiens and homosapiens sapiens?
 
-So that 's why the idea of the cultural being the civilization saying , this is me , I am. All these bases of every culture around the world was born in the center of Asia. The center of all this power of acknowledging yourself is the center of Asia , which is Tibet. And it 's not because of the Tibetan culture , it 's because of the geography , okay , is the geography of Tibet that gives that power.
+Homosapiens means "the human that thinks." Homosapiens sapiens means "the human that really is thinking"—the humanity that became able to create cultures and civilizations. This evolution happened through the experiences humans had in Asia.
 
-So the reason why the Tibet is so important is because of the geography. Thousands and millions of years ago , Tibet was the region of a great sea that we call the Tetris. Tetris was a big sea in between Oceania and Asia. And when the India went to this region , it started to bring that ocean that sea towards the sky.
+### Q: Who are the Indo-European people and why are they important?
 
-So all the inner lands , the information from the oceans went up towards the highest spot of the planet.
+The Indo-European people lived around the Caspian Sea in the Great Stan region. They are the common ancestors of most human philosophy, language, traditions, and cultures. They spread from India to Europe, creating the foundation for the ways of thinking shared across most of humanity.
 
-So the inner part of the planet was connected to the highest point in the sky.
+### Q: Why is Tibet so spiritually significant?
 
-So this means that the highest peaks of the world , they are the youngest mountains of the world. And they have the information from the deepest part of the oceans.
+Tibet's significance comes from its geography. It was once the Tethys Sea, and when India pushed into Asia, it raised the ocean to the highest peaks. Tibet holds information from the deepest oceans and the highest sky—the earth, sea, and sky all meeting. This is why people who went there understood how to become their own planet, their own self.
 
-So this territory , the Tibet , is the one that holds the information of the skies , the earth and the seas.
+### Q: Where did shamanism originate?
 
-So it 's , it got stuck in the center , all this information got stuck in the center of Asia. And so why all the people that used to go there , they found the information of the whole planet.
+Shamanism was born in northern Asia—specifically Mongolia, the Gobi Desert, and the territories of Siberia around Lake Baikal. Women were the first shamans, connecting to the earth, and then they taught men. From there, shamanism spread to the Americas and other parts of the world.
 
-So they understood how to become their own planet , how to become their own self.
+### Q: What does it mean that Tibet is "under pressure from China"?
 
-So this is why in this territory of Asia is where the AM was built. And the cultures related to the AM were born. And that 's why the Eastern cultures are the ones that helps us to understand all the different concepts of the AM.
+On a planetary level, Tibet represents the solar plexus (the "I Am"), and China represents the stomach (the processor). Tibet being under Chinese control symbolizes how the "I Am"—our authentic self—is under pressure from the processor, the system that wants to control and digest. This reflects humanity's struggle to express authentic identity against external control.
 
-So of course some of you may say why all the Asia , because in America , the Humanism has all this information too. Well , because Humanism was n't born in America , Humanism was born in Mongolia. Humanism was born in the goby desert and the territories of Siberia , in the Final Lake.
+### Q: How does Asia's story relate to my personal "I Am"?
 
-So in all that territory , the women were the first ones on becoming Chapman 's , connecting to the earth. And then they taught to men how to use it.
+Asia's geographical and cultural history mirrors your personal journey of self-discovery. Just as all cultures found their "I Am" in the center of Asia, you must find your authentic self at your own center. The current pressure on Tibet reflects how your own "I Am" may be under pressure from external expectations and control.
 
-So Humanism started in North and Asia.
+### Q: What is the subconscious code about?
 
-So as you see , all the cultures are connected in the center of our connected as a cultural beings in philosophy related to the AM. And this is basically because all the cultures were born in the center of Asia where the AM was created.
-
-So when we are speaking about the AM and picture in the whole world , we have to think that this center of the AM is connected to the Blacks , the center of the self , which is in Asia.
-
-So the center , which is the Tibet. One of the things that I wrote today in the blog is the relationship that we have today with AM is reflected by the actions of the countries in those territories. They are not working exactly with AM. They are just fighting against each other , trying to control one another.
-
-So for example , the Plexus , which is Tibet , is under the power of China , which is the stomach.
-
-So we are the AM is basically under the pressure of the processor of the world.
-
-So that 's why we have this conflicts in our self as humanity related to the AM.
-
-So this takes us to the fractal of this.
-
-So how do you relate yourself with the AM? Are you free to express who you are or are you just living through the perceptions of others? You just want you just to whatever the other ones are trying to tell you to do or you or you really are a threat of being who you really are. Just try to think about that and you will acknowledge how humanity all us together are living this reality.
-
-Just to think about this relationship. There are so many things to talk about this , but remember I wrote a little bit more , I guess , in the blog of today. In the post of today in the blog , remember the blog is just soy. Red.
-
-Okay , AM in Spanish and red , which is not the color. It means I am in the phone.
-
-So I can not read anything from the phone.
-
-## Daily Practice Elements
-
-So I 'm going to use to it. The vibration for today is here. The statement for today is AM , the ethereal being. The code for today is the subconscious.
-
-It says there were all options combined. Lines the list the first of the great consciousness. The one that is deprived of all purposes patterns , objectives , logic , directions , space of or time. We could say that the subconscious is the ocean where we all swim from where we 've never left something that contains us all unites.
-
-Records and moves us all. And what happens in it happens to us all to all of us.
-
-So as you see the subconscious , the information of today is kind of like saying , we have all Asia within because we all come from there.
-
-So we sit comfortable to sit for a moment and align with the continent of Asia. We sit comfortable with comfortable bodies. I remember that I am in this big great sphere of celestial color , light blue and white light. I find myself seated on my heart and do it.
-
-I remember that my body is extension of the animal kingdom. And through my thoughts , I help all them to light too. I remember that I am in this world. I remember that I am in this world.
-
-I remember that I am in this world. I remember that I am in this world. The stage of the iron. And this is how I look into the horizon , the celestial light blue sky.
-
-For the mountains of the world. And the cast can see , it starts to be shining by the sun rising in the east. I take you to the ground. I see a cyaproge , the great plains of the great stun.
-
-And the forest. The cold forest of Siberia. And in the mountains of the outside. The change that protects and hold.
-
-The tackle of my condenser. I see a mirrored horizon of the highest mountains of the Karakoran. In the region of Tamil. Going down to the mountains of Pakistan.
-
-And I expand through the eternal and thousands of colors of India. I feel the great forest and rainforest of Indonesia. Myanmar , Thailand , Vietnam , Cambodia , Laos. And the mountains of the mountains.
-
-I go to the mountains. Watch. How they arise. Put in the lightest.
-
-And the green fields and mountains.
-
-So the highest peaks of white , celestial , in the sky. As I go to the east. I feel the great China. It 's wisdom touching the seeds of the sun.
-
-Observing the dragons of Japan. Korea , Taiwan , and Philippines. And I hold to the center of the continent. To the bridge there.
-
-The bridge , the deepest lake of the world. The bridge. The rainbow bridge. And where every chairman has come to earth.
-
-And there I find again the center. The core of the greatest country that holds the one that connects us all. The roof of the planet. See that.
-
-And there in the center of all things. To the void. I find enlightenment. I find enlightenment.
-
-Bye. I am the hero being here. I am the hero being here. I live within each one living thing of one earth.
-
-For all of them are one for me. I am the hero. Take a deep breath. And they recognize the entire continent of Asia in their forces.
-
-And I begin to bring this consciousness all around my body. Come in back here and now. Thank you everybody for being there. Thank you for being I am.
-
-See you tomorrow. As always. At the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+The subconscious is described as "the ocean where we all swim, from where we've never left." It contains, unites, records, and moves us all. What happens in the subconscious happens to all of us. It is the shared ocean of humanity's collective consciousness, connecting us all beyond individual awareness.
 
 ---
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

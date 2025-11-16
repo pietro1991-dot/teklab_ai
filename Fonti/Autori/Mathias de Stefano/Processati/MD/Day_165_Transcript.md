@@ -38,7 +38,7 @@ practice_elements:
 
 # Day 165 - Family: The Evolutionary Bond
 
-**Author:** Mathias de Stefano  
+**Author:** Matias de Stefano  
 **Series:** 365 Days The Path Of I Am  
 **Source:** 365 Days The Path Of I Am  
 

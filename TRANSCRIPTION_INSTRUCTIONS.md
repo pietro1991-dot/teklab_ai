@@ -53,7 +53,7 @@ Analyze the transcript to locate these typical sections:
 - Chakra focus (from GUIDE COURSE)
 - Week theme (mental/emotional/physical, from GUIDE COURSE)
 - Zodiac sign or cycle name (from GUIDE COURSE)
-- Main topic or theme
+- Main topic or theme (from GUIDE COURSE)
 - Daily vibration sound (from GUIDE COURSE)
 - Daily statement (from GUIDE COURSE)
 - Daily code description (from GUIDE COURSE)
@@ -235,6 +235,7 @@ Before finalizing, verify:
 - [ ] No invented content - only reorganized original
 - [ ] Markdown formatting correct (headers, bold, lists)
 - [ ] Code block properly formatted if present
+- [ ] **Optimal file length: 300-500 lines** (excluding edge cases for particularly complex or simple days)
 
 ---
 
@@ -259,11 +260,18 @@ Before finalizing, verify:
 
 ## Output Format
 
-- Save as: `Day_[XXX]_Transcript.md` (use original day number)
-- Encoding: UTF-8
-- Line endings: LF (Unix style)
-- Ensure YAML frontmatter is valid
-- Check that all markdown renders correctly
+- **Output Directory:** `d:\GitHub_puba\spitituality_ai_GPT\Fonti\Autori\Mathias de Stefano\Processati\MD\`
+- **Filename Pattern:** `Day_[XXX]_Transcript.md` (use original day number with leading zeros if needed, e.g., Day_001, Day_015, Day_144)
+- **File Handling:**
+  - **First, check if the file already exists** in the MD directory
+  - **If file exists (even if empty):** Overwrite it with the processed content
+  - **If file does not exist:** Create a new file with the proper filename
+- **Encoding:** UTF-8
+- **Line endings:** LF (Unix style)
+- **Validation:**
+  - Ensure YAML frontmatter is valid
+  - Check that all markdown renders correctly
+  - Verify file was saved to correct location
 
 ---
 

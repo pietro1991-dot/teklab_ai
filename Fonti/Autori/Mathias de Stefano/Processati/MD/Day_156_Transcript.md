@@ -1,257 +1,317 @@
 ---
-title: "Day 156 - Consciousness Work"
-author: Matias de Stefano
+title: "Day 156 - Polarity and the Sacral Chakra"
+author: "Matias de Stefano"
 series: "365 Days The Path Of I Am"
 day_number: 156
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 156
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - I AM presence
-  - I CAN affirmation
-  - month hology
-  - month holds
+  - polarity
+  - sacral chakra
+  - Hermetic laws
+  - axis
+  - duality
+  - balance
+  - masculine feminine
+  - positive negative
+  - Kundalini
+  - evolution
+  - tetrahedron
+  - resonance
+  - lower astral
+  - vibration matching
 
 practice_elements:
   vibration: "LLy"
+  statement: "I Am the Stairs of Evolution"
+  chakra: "Sacral"
+  code: "The lower astral. The deepest part of the subconscious ocean is the dead level of gravity of the gravitational web of stars. The web of the world is the center of the world where the most pressure is generated. And that shapes the idea of an energetic trap that we tend to call hell. Actually it is the denser pool of the energetic level where we see ourselves trapped only if our vibration is equivalent to it."
 
 ---
 
-# Day 156 - Consciousness Work
+# Day 156 - Polarity and the Sacral Chakra
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Vibration:** `NOT`
+- **Chakra Focus:** Sacral Chakra
+- **Week Theme:** MIND 'STAIR' - CAPRICORN - I Use
+- **Main Topic:** Polarity - The Sixth Hermetic Law
+- **Vibration:** `LLy`
+- **Statement:** `I Am the Stairs of Evolution`
+- **Code:** The lower astral. The deepest part of the subconscious ocean is the dead level of gravity of the gravitational web of stars. The web of the world is the center of the world where the most pressure is generated. And that shapes the idea of an energetic trap that we tend to call hell. Actually it is the denser pool of the energetic level where we see ourselves trapped only if our vibration is equivalent to it.
 
-## Introduction
+---
 
-Hi everyone , good morning , good evening , good afternoon , first. How are you? We 're good.
+## Overview
 
-So let 's begin with today 's topic which is polarity.
+On January 6th, we explore the Law of Polarity—the sixth Hermetic principle. Matias teaches that **polarity is the axis that allows the continuity of life.** Without polarity, there is no movement. Without movement, there is no transformation. Without transformation, there is no evolution.
 
-Today I think that is really much easier. Very easy.
+Polarity is not the same as duality. **Polarity is finding your axis.** Duality is losing your axis and depending on external forces. When you understand polarity, you understand that life moves between two poles—positive and negative, masculine and feminine, expansion and contraction—and **you are the axis between them.**
 
-So everyone who has seen the previous videos , you will know what it came from this image.
+This teaching becomes deeply personal when Matias explains relationships: when two people vibrate at different levels, one must lower their vibration to match the other, or the connection breaks. **True love is resonance—vibrating at the same frequency.** When there's no resonance, there's dependency, and that's duality, not polarity.
 
-So if you do n't , just looking to the other videos to see this explanation. What? Because I will try not to explain everything again.
+---
+
+## Core Teaching
+
+### Everything Exists Because of Polarity
+
+The sixth Hermetic law is the Law of Polarity.
+
+**Everything that exists does so because of polarity.** Without polarity, there would be no movement. Without movement, there would be no life.
+
+Polarity is what allows the universe to keep going. It's the force that creates continuity, transformation, evolution.
+
+### What Is Polarity?
+
+Polarity comes from the word **"polo,"** which means **axis.**
+
+**Polarity means the quality of being in the axis.** It's the harmonious balance of a movement that creates consequence.
+
+The axis is the center point between two opposing forces. **Without the axis, the two forces cannot connect. Without connection, there's no flow.**
+
+### Polarity vs. Duality
+
+This is critical to understand: **polarity is not the same as duality.**
+
+**Polarity = finding your axis.** You are centered. You are balanced. The two forces (positive and negative) flow through you, and you remain stable.
+
+**Duality = losing your axis.** You are split. You swing from one extreme to the other, like a pendulum without a center. You depend on external forces to define you.
+
+**In polarity, you are whole.** In duality, you are broken.
+
+### The Tetrahedron: The Geometry of Polarity
+
+Matias uses the symbol of two interlocking triangles to explain polarity.
+
+One triangle points up (positive). One triangle points down (negative). Together, they form a **tetrahedron**—a 3D shape that represents the axis of polarity.
+
+This is the same as the Star of David, the Merkaba, the geometry of creation.
+
+**One force goes up. The other goes down.** One expands. The other contracts. And in the center, there is the axis—the point of balance.
+
+This is you. **You are the axis.**
+
+### Masculine and Feminine: Not Gender, But Energy
+
+Polarity is often explained through masculine and feminine energy.
+
+**Masculine energy = positive, outward, giving.** It projects energy outward.
+
+**Feminine energy = negative, inward, receiving.** It pulls energy inward.
+
+This has nothing to do with gender. **Every human has both energies.** Every human is both masculine and feminine.
+
+The key is balance. If you only give (masculine), you burn out. If you only receive (feminine), you stagnate.
+
+**You need both.** You are the axis between them.
+
+### The Kundalini: Polarity in the Body
+
+In the human body, polarity is the **Kundalini.**
+
+The Kundalini is the energy that moves between two poles: one at the base of the spine (root, negative) and one at the crown of the head (positive).
+
+**One current goes down. One current goes up.** They spiral around the spine, creating a vortex.
+
+This vortex is what creates the **chakras**—the energy centers in the body.
+
+**Without polarity, there would be no chakras.** Without chakras, there would be no energy flow. Without energy flow, there would be no life.
+
+**The Kundalini is polarity.** It's the axis of your being.
+
+### Polarity in Relationships: Resonance vs. Dependency
+
+Matias gives a powerful teaching about relationships:
+
+Imagine two people. **Person A vibrates high** (they are on a spiritual path, working on themselves, expanding). **Person B vibrates low** (they are stuck in fear, survival, limitation).
+
+Person A wants to connect with Person B. So, Person A **lowers their vibration** to match Person B. Now they can connect. But Person A has sacrificed their high vibration.
+
+This is not healthy. **This is duality, not polarity.**
+
+Now, imagine Person C comes along. Person C vibrates at the same high level as Person A used to. There's **resonance**—they match. The connection is effortless. The love is strong.
+
+Person A realizes: "I was vibrating high, and I lowered myself to match Person B. But I don't know how to handle low vibrations anymore. This feels broken."
+
+**What's broken?** The flow. The axis.
+
+**When you lose your axis to match someone else, you enter duality.** You become dependent on the other person to define your vibration.
+
+**In polarity, you hold your axis.** You vibrate at your natural frequency, and you attract those who resonate with you.
+
+### Duality: The Broken Axis
+
+Duality is when you **divide yourself in two.**
+
+With one person, you act one way. With another person, you act another way.
+
+**You have no axis.** You swing back and forth, depending on who you're with.
+
+This is what most of culture teaches us: be different with different people. Adapt. Adjust. Change yourself to fit in.
+
+**But this is not polarity. This is duality.**
+
+A person in polarity **is always the same**, no matter who they're with. They hold their axis. They are authentic, consistent, whole.
+
+### The Lower Astral: The Trap of Low Vibration
+
+The teaching for today is connected to the **Lower Astral**—the densest part of the subconscious.
+
+The Lower Astral is the energetic level where the most pressure is generated. It's the gravitational web of the astral plane, the heaviest, slowest vibration.
+
+**We call this "hell."** But it's not a place of punishment. It's simply the densest pool of energy.
+
+**You are only trapped there if your vibration matches it.** If you vibrate low (fear, anger, survival), you sink into the Lower Astral. If you vibrate high, you rise above it.
+
+**This is polarity.** High and low are not good and bad. They are simply different vibrations. You are trapped only when you lose your axis and can't move between them.
+
+### Why Does Polarity Have a Bad Reputation?
+
+Matias asks: **Why do people think polarity is bad?**
+
+Because they confuse polarity with duality.
+
+**Polarity is what allows the Earth to move.** Without the Earth's rotation, there's no transformation, no evolution, no life.
+
+**Polarity is movement.** Duality is being stuck in the movement, swinging back and forth without a center.
+
+**Polarity is the axis.** Duality is the loss of the axis.
+
+### Finding Your Axis Again
+
+How do you find your axis when you've lost it in duality?
+
+**Tune yourself.** Synchronize yourself to something that makes you feel good, that makes you feel aligned.
+
+This could be therapy, meditation, nature, creativity, love, faith—anything that helps you reconnect to your center.
+
+But here's the key: **you have to change your behavior.** If you go to therapy and then do the same things you did before, nothing changes.
+
+**It's like going to the doctor for a diet, and then buying ice cream with Nutella on the way home.**
+
+You have to **synchronize yourself to a higher vibration** and then **stay in that vibration.**
+
+**Hold your axis.**
+
+---
+
+## Practice
+
+### Preparation
+
+1. Sit comfortably with your spine straight.
+2. Place your hand on your sacral chakra (below your navel).
+3. Close your eyes and take a deep breath.
+
+### Main Practice Steps
+
+1. Feel the warmth in your sacral chakra. This is the center of your polarity.
+
+2. Imagine a current of energy at the base of your spine (root) and another at the crown of your head.
+
+3. Visualize these two currents spiraling around your spine, creating a vortex.
+
+4. This is your Kundalini. This is your polarity.
+
+5. Now, ask yourself: "Where have I lost my axis? Where have I entered duality?"
+
+6. Visualize yourself with a specific person or situation. Notice: are you changing yourself to match them? Are you lowering your vibration?
+
+7. See yourself holding your axis. See yourself vibrating at your natural frequency.
+
+8. Imagine the person or situation adjusting to match you—or leaving. Either way, you remain centered.
+
+9. Repeat: **"I Am the Stairs of Evolution."**
+
+10. **"I Am the Stairs of Evolution."**
+
+11. **"I Am the Stairs of Evolution."**
+
+12. Feel yourself as the axis. You move through different vibrations, but you remain centered.
+
+13. You are not split. You are not swinging. **You are whole.**
+
+14. Take a deep breath. Bring your awareness back to your sacral chakra.
+
+15. Feel the polarity within you—the masculine and feminine, the positive and negative, the up and down.
+
+16. You are the axis that holds them together.
+
+### Closing
+
+1. Open your eyes slowly.
+2. Remove your hand from your sacral chakra.
+3. Return to the present moment, holding your axis.
+
+---
+
+## Key Insights
+
+- **"Everything exists because of polarity. Without polarity, there's no movement, no life."**
+- **"Polarity is the axis. Duality is the loss of the axis."**
+- **"Polarity = finding your center. Duality = being split in two."**
+- **"The Kundalini is polarity in the body—two currents spiraling around the spine."**
+- **"Masculine and feminine are not about gender. They are about energy: giving and receiving."**
+- **"In relationships, resonance is when two people vibrate at the same frequency. Duality is when one lowers their vibration to match the other."**
+- **"When you lose your axis to match someone else, you enter duality and dependency."**
+- **"A person in polarity is always the same, no matter who they're with."**
+- **"The Lower Astral is the densest vibration. You're only trapped there if your vibration matches it."**
+- **"To find your axis, tune yourself to something that makes you feel aligned—and stay there."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Task for Today:** Observe where you lose your axis. With whom do you change yourself? In what situations do you act differently than your true self? Notice the duality. Then, practice holding your axis: be the same person in all situations. Vibrate at your natural frequency, and see what happens.
+
+### Applying This Teaching
+
+When you feel yourself changing to match someone else's energy, pause and ask: "Am I lowering my vibration? Am I losing my axis?" Remember, true connection is resonance, not adaptation. Hold your center. Be authentic. Let those who resonate with you come closer, and let those who don't find their own path. You are the axis. Stay whole.
+
+---
 
 ## Q&A
 
-So remember , from one idea of the mind , emerges the next. A question and an answer. In this mind , in the origin of this idea , emerges two things. Question one answer.
+### Q: What is the difference between polarity and duality?
 
-And the interaction between this question and an answer is what we call correspondence.
+Polarity is having an axis—a center point between two opposing forces. You are balanced, whole, and the forces flow through you without pulling you off center. Duality is losing that axis—being split between two extremes, swinging back and forth, depending on external forces. Polarity is integration. Duality is fragmentation.
 
-So here we have the mind. The mind from the internal makes a question.
+### Q: Why is polarity necessary for life?
 
-So this question goes outside to look for an answer.
+Without polarity, there's no movement. The Earth rotates because of polarity (positive and negative poles). Your heart beats because of polarity (expansion and contraction). Your breath flows because of polarity (inhale and exhale). Movement creates transformation. Transformation creates evolution. Without polarity, everything would be static—and static means death.
 
-So remember , this mind makes a question. The question has an answer , but this answer has creates a new doubt.
+### Q: What is the Kundalini, and how does it relate to polarity?
 
-So a new question. And this question has another answer. And so on starts to repeat constantly and they communicate constantly in question answer question answer. That 's where we call correspondence.
+The Kundalini is the energy in your body that moves between two poles: the root (negative, base of spine) and the crown (positive, top of head). Two currents spiral around your spine in opposite directions, creating a vortex. This vortex forms the chakras. The Kundalini IS polarity—it's the axis of your energetic body.
 
-So this here is what creates this wave of question answer , question answer , question answer. And we can see that as a vibration.
+### Q: How do relationships show polarity vs. duality?
 
-Okay , let 's take a look at this.
+In polarity, two people hold their own axes and vibrate at their natural frequencies. If they resonate (match frequencies), they connect effortlessly. In duality, one person lowers or raises their vibration to match the other, losing their axis. This creates dependency, not true connection. Resonance is healthy polarity. Dependency is duality.
 
-So here we have the vibration.
+### Q: What does it mean to "hold your axis"?
 
-So this waves , this curves here in the wave are the ones that we call frequency. And this frequency is what we will call rhythm. We have here that this cause , the cause of this positive generates an effect in this negative. And the cause of this negative generates an effect in this positive.
+It means being the same person in all situations—authentic, consistent, whole. You don't change yourself to match others. You vibrate at your natural frequency. Those who resonate with you will stay; those who don't will leave. Either way, you remain centered. This is integrity. This is polarity.
 
-And so on it repeats in cause and effect , cause and effect , cause and effect. See , why? Due to what do we have correspondence , rhythm , vibration and cause and effect , is because of polarity. Polarity.
+### Q: What is the Lower Astral?
 
-So nothing that you have here would exist without the concept of polarity.
+The Lower Astral is the densest, heaviest vibration in the subconscious—the gravitational center of the astral plane. We call it "hell," but it's not punishment; it's simply low vibration (fear, anger, survival). You're only trapped there if your vibration matches it. If you vibrate high, you rise above it. It's not a place; it's a frequency.
 
-So what it polarity? Polarity comes from the word polo that use axis. This is what polarity means. Polarity means the quality of being in the axis.
+### Q: How do I find my axis again if I've lost it?
 
-Polarity will be this harmonious axis of a movement that we call consequence , remember from yesterday.
+Tune yourself to something that makes you feel aligned—meditation, nature, creativity, therapy, love. Then, **change your behavior.** Don't just do the inner work and then go back to the same patterns. Synchronize to a higher vibration and stay there. Hold your center. This is how you reclaim your axis.
 
-So the consequence , what is the consequence? Is an attribute of being harmonious in your own axis? And what is an axis? Is a polarity.
+### Q: Why do people think polarity is bad?
 
-So the only way in which you can be in your own axis. And to be coherent is only that 's polarity. Polarity is the one that allows the continuity of things.
-
-So why polarity has such a bad press?
-
-So this polarity is the things to this polarity that the earth moves. If the earth does n't move , there is no transformation. With no transformation , there is no evolution , there is no life. This implies that everything exists because of polarity.
-
-A human have also polarity.
-
-So that 's the secret of polarity in humans we call it Kundalini. We look into this like a snake. That 's why we call it Kundalini. But what it really is is a wave of polarity.
-
-So one of the currents go down and the other one goes and then it wants to go up.
-
-So one of these forces goes down and the other one goes up , pushing the energy up.
-
-So that creates like a vortex in the center that we call chara. There would be no chara without polarity. See , no chara. No human.
-
-No alma. And if there is no chara , there is no soul , there is no human.
-
-So we have a positive over our heads and a negative below our head. And that 's what creates the movement of the energy.
-
-So then you can call it whatever you like because in every culture , every region , you have a different way to call this. Let 's go to an organic polarity born from this system.
-
-So everyone knows this symbol.
-
-Okay. Triangle up , triangle down. Positive.
-
-Okay. This is called tetra-heatron. Like this.
-
-Now you add it. See?
-
-So this is the tetra-heatron.
-
-Okay.
-
-Now you can see the 3D shape of this.
-
-Okay. Kind of there.
-
-So we have this other one down there.
-
-So this means that one will go up. The other one , the up will turn to one side. And the other one down will turn in the opposite.
-
-Okay. Here we have like a little person that would be like the biturvious man.
-
-Okay. That 's the inch.
-
-Now let 's go to something a little bit more organic. For a lot of people , the masculine and the positive and the feminine in the negative. Why? Because the positive goes out , take the energy out , and the feminine takes the energy in , goes inside.
-
-Easy to understand it. This is a circulation. This is , which takes five minutes. And this is gestation in months.
-
-So now we get it. Basically. Let 's do something there. We have here something there familiar.
-
-So what is this? Overs and U-truths. You 'll know it.
-
-So positive , negative , masculine , feminine.
-
-Okay.
-
-So geology used the poles to be able to neutralize form itself. Biology uses this polarity to be able to follow and keep going through this waste. And a self that is working with its own energy , what it does. It uses its own energy for the activation of the Kundalini.
-
-So through the concepts of nothing void and the everything. Through biology , through geology , through spirituality , through everything. Everything is polarity. Because without polarity , there is no continuous movement.
-
-And if there is no continuous movement , there is no life. What happened when this little person has its churros and is trying to connect. But suddenly appears this other tiny , pit person around. And this person starts to get in love with this person.
-
-So this person also gets in love activates this churros.
-
-So suddenly , the vibration that once was like this , starts to be like this.
-
-So this one starts to get connected with the other one in the same vibration.
-
-So this one is n't in a spiritual path.
-
-So it 's looking for a higher vibration.
-
-So this person does n't have this same high vibration. But this person has this one. The lower one. For person to be connected with this other person.
-
-And be loved. This person must low down its energy. Its vibration.
-
-So it could match.
-
-So it slows down the vibration. Perfect.
-
-Now we 're going to do something really worst. And this third person comes and has a better vibration with this one. Here. Because this person here is trying to do so much work in order to get to this one.
-
-And this one. By the same level here.
-
-So the love is stronger because there 's something that we call resonance.
-
-So what happens is that the vibration is not in the same level.
-
-So what happened here.
-
-Now I have broken my medical feel like I 'm not being able to handle. I was in such a high vibration here. This person was in such a high vibration here. That does n't know how to handle the low vibrations.
-
-Which means this person has no idea how to handle the motions.
-
-So for this person was really typical because it does n't have a storyid. Very well shaped.
-
-So this person only say. Bye. What is broken here? The flux is broken.
-
-The flux is broken.
-
-So it can not be polarity with a broken feel. There is no right petty. There is a called sentence of energy from others. And this is the system that we call duality.
-
-So this is polarity and this is duality. When a person becomes duality , when a person can not find its own axis and depends on other people. Quality means that I divide myself into , I can not find my axis.
-
-So I divide myself into two. And with this third I have like this and with this person I am like that. This is where we call polarity. Which basically is every human that has culture.
-
-That is not being able to be in its own axis is bipolar. We are all basically bipolar by culture. Because in culture everyone was taught to be different with one person and to act different with another person. That is people polarity.
-
-Of course polarity which is a pathology of course which is another thing. That is the last step of a really bad polarity. But mainly we all are. A person that is in the axis , it does n't matter where or with whom the person is is always the same.
-
-So duality would be the concept of not having an axis.
-
-So I am like a pendulum going from one side to another.
-
-So this example that I gave with this people in love is what happened in every level of our world. And that 's why we say this world is in duality.
-
-The reason why this world 's in duality is because we are not finding our axis. Because polities in negative is precisely to find your axis. Quality would be this moment in which I break my axis into.
-
-So I move horizontally looking for the energy of others around and not within myself.
-
-So this is why the law of polarity is the one that tells us that we are all beings. Creating constantly movement. Of course we could be for days speaking about the love polarity because it 's the one that has so many things to talk about. But I guess this is the basis of it.
-
-Just to close this idea how can I find again this axis and to use the polarity. Well basically to read tune yourself again and how do you how can you be able to tune yourself. Well that 's your thing. This is your way.
-
-Everyone each one of you has your own way.
-
-So maybe for some is therapy for some is like changing. Recognizing different way of doing the things by will by love by faith. I do n't know. The only clue to that is that to tune yourself into a different or higher vibration to be in your axis.
-
-Basically you have to synchronized yourself to something that makes you feel good. That makes you feel fine. I can do whatever I can go to any therapy to work with anything if you want. But if once I finish the therapy I go out and I do exactly the same as before.
-
-So emotionally this is like going to doctor to make it diet and once you leave the. Once you go out from from the doctor office you go and buy a nice cream with Novella. I do n't know something like that.
-
-## Daily Practice Elements
-
-So let 's go to the information for today. The vibration for today is LLy. The statement for today is I Am the Stairs of Evolution. The code for today is the lower astral.
-
-The deepest part of the subconscious ocean is the dead level of gravity of or of the web of gravitational web of stars. The web of the world is the center of the world where the most pressure is generated. And that shapes the idea of an energetic trap that we tend to call hell. Actually it is the denser pool of the energetic level where we see ourselves trapped only if our vibration is equivalent to it.
-
-Let 's go to the alignment relax. I focus in my breathing. As I let all the weight of my body fall down. I become aware of the place find myself and use my imagination to create a library around me.
-
-For with books and galleries. I become aware that this library is within my subconscious and all this information and data is all the time. It 's all the patterns , experiences , beliefs that I had accumulated through history. All of them are recorded here.
-
-For this are my own Akashi records. And I am it 's only a unique librarian. I recognize that I am here in these registers. For with one intention to find a data useful for my process here and now.
-
-This data is related to that priority that I am unable to use and became a duality. My intention is to find this information of that duality that holds me trapped outside my axis. I feel myself cold by this information.
-
-So I let myself be pushed through the galleries , through the books , searching for it and decide find it. As I find the reason , the pattern of my duality , I take it without any judgment and watch it in my hands. I go now to the main hall for the interest of my unconscious , heading to the office of my conscience. Where I am heading to green clarity consciousness to this pattern I hope.
-
-It is to go a cycle through the stairs of my evolution , watching every life in his experience , science , and science that I would say recognize that every step that I give is a positive and a negative positive and negative life , life , death. Once I am in the office , I am surrounded with light and clarity , so I decided to open the book to see what is the pattern of the light that I am so , to transform again in clarity. In clarity , now I am in the office , I am surrounded with light and clarity , so I decided to open the book. Take a deep breath and I take this book to my second chapter.
-
-I am in the office , and my vibration. I am in the office , and my vibration is in the office. I recognize , I said my intention , to explore this pattern of the light in the tool , and I am in the office. I am clarity.
-
-I am in the office , and I am in the office. I am in the office , and I am in the office. I am in the office.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+Because they confuse it with duality. They think polarity means being split, swinging between extremes, conflict. But that's duality. Polarity is the axis that STOPS the swinging. Polarity is balance, integration, wholeness. It's the force that allows life to continue. Without it, we'd have no movement, no evolution.
 
 ---
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

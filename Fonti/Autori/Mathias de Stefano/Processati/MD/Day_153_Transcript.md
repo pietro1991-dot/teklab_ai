@@ -1,250 +1,343 @@
 ---
-title: "Day 153 - Guided Meditation"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 153 - Vibration and the Throat"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 153
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 153
+  - vibration
+  - throat chakra
+  - Hermetic laws
+  - frequency
+  - wavelength
+  - energy
   - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - breathing exercises
-  - month holding
+  - perspective
+  - low vibration
+  - high vibration
+  - angelic plane
+  - service
+  - time perception
+  - patterns
 
 practice_elements:
+  vibration: "LLe"
+  statement: "I Am the Stair of the Universal Library"
   chakra: "Throat"
+  code: "The Angelic plane. To understand it, the word comes from the Greek 'Angellos,' which means 'messenger.' This plane is the level in which consciousness and power of the word have to do with transmission and transformation. The angelic is the communicator of the frequency of existence beyond consciousness and of the experience of the ego. Those who understand their words have power and that every message is a change for the universe."
 
 ---
 
-# Day 153 - Guided Meditation
+# Day 153 - Vibration and the Throat
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Throat`
+- **Chakra Focus:** Throat Chakra
+- **Week Theme:** MIND 'STAIR' - CAPRICORN - I Use
+- **Main Topic:** Vibration - The Third Hermetic Law
+- **Vibration:** `LLe`
+- **Statement:** `I Am the Stair of the Universal Library`
+- **Code:** The Angelic plane. To understand it, the word comes from the Greek "Angellos," which means "messenger." This plane is the level in which consciousness and power of the word have to do with transmission and transformation. The angelic is the communicator of the frequency of existence beyond consciousness and of the experience of the ego. Those who understand their words have power and that every message is a change for the universe.
 
-## Introduction
+---
 
-I have everybody. How are you?
+## Overview
 
-## Guided Meditation
+On January 3rd, we explore the Law of Vibration—the third Hermetic principle. Matias invites us to understand how everything in the universe is energy in motion, vibrating at different frequencies. What appears solid is actually waves of energy moving at specific rates.
 
-So today I have been holding painting in the earth , just something that I love to do. It 's my meditation.
+The Law of Vibration explains why some things feel "heavy" and others feel "light"—it's about the frequency and wavelength of the energy. Lower vibrations have longer wavelengths and feel denser. Higher vibrations have shorter wavelengths and feel lighter, more subtle.
 
-So , , I have too many. I have a lot of things to do still. But anyway. I was , I just show you this because I was so focused on painting that , , that suddenly I just , , watched , , watching front of me and I saw , , 2019 and it was like , , the alignment.
+This teaching becomes practical when we realize that **consciousness itself is vibration**. Where we place our awareness determines what frequency we vibrate at. If we focus on fear, limitation, and survival, we vibrate low. If we focus on love, expansion, and service, we vibrate high. The key is not to judge low or high as "good" or "bad," but to understand that different perspectives require different vibrations.
 
-So , almost forget.
+---
 
-So I had to run to , to prepare everything.
+## Core Teaching
 
-So let 's go straight to the topic for today , which is the law of the nation.
+### Everything Is Vibration
 
-So I explained today with the correspondence. , the laws are just only one thing that appears in the same time. And then to understand it , we just separated , separate the , the , the only one thing in different concepts , stay by step.
+Everything in the universe is energy in movement. Nothing is still. Nothing is static.
 
-So we could understand it better. Talking about this idea that all of the laws are basically the same thing , perceived in different , in different , , different point views.
+**Everything vibrates.** From the smallest particle to the largest galaxy, everything is in constant motion, oscillating at different frequencies.
 
-So we would say that the law of vibration basically describes the way in which the factors that are being created interact between each other.
+This is the third Hermetic law: **the Law of Vibration.**
 
-So as we said yesterday , we have , we have first the correspondence. And this is that everything that is inside projects into the outside. And so when it starts to divide in different , , , fractalization of itself , it creates also the app , the app and down above so below. And so on , one side , the other side , everything starts to be like a tip to correspond to the other.
+### What Is Frequency?
 
-So the interaction of these two factors that are corresponding is vibration. It 's the way in which they interact.
+Frequency is the measure of how fast something vibrates. It's how many cycles or waves happen in a certain amount of time.
 
-So , , to understand this , let 's go to the idea of the mind. The mind is like a pulse of ideas like it works in our brain , many neurons interact in each other constantly.
+**High frequency** means many waves in a short time. The waves are close together, short wavelength.
 
-So this is like a like one thought pulling to the other , , the other thought creating an network of the leaves , a network of thinking , , which is this interaction between the neurons. And , as we have this , , once we have this network , we start to create a structure. And this turn is moving because the thoughts were moving. It 's constantly moving.
+**Low frequency** means fewer waves in the same time. The waves are far apart, long wavelength.
 
-The , the ideas are constantly moving from one spot or inside of inside of us.
+### Wavelength and Perception
 
-So , , this , , this movement that is created when it structures itself in reality , the , the structure still moves constantly.
+When you have a **long wavelength**, you have a low frequency. When you have a **short wavelength**, you have a high frequency.
 
-So when it polarized into shapes by correspondence , the movement of this one inside will push the other move according to the correlation.
+Why does this matter?
 
-Okay.
+Because **wavelength determines how we perceive things.** Long wavelengths feel denser, heavier, slower. Short wavelengths feel lighter, faster, more subtle.
 
-So this movement is the key that connects everything that exists in the unit. Everything is moving. Talking about also another , another law , which is polarity that we are going to talk about is , , when the inside becomes the negative and the outside becomes the positive.
+For example:
+- A rock vibrates at a low frequency with a long wavelength. It feels solid, heavy, dense.
+- Light vibrates at a high frequency with a short wavelength. It feels subtle, fast, almost invisible.
 
-So it creates magnetism and the magnetism starts to , , to attract all the parts to one another. And this creates this kind of engine that moves the particles completely creating energy , constant energy. And these particles are not touching themselves.
+But both are energy. Both are vibration. The difference is the frequency.
 
-So they end by the movement that they own , that their own are are holding.
+### Consciousness and Vibration
 
-So they 're by branding so fast in this kind of vacuum.
+The same principle applies to consciousness.
 
-So this , , from this , , from the inside , when it creates this magnetism , , the particles project into the reality , , they will be interacting each other through this , this constant movement. This , , this movement of the particles that starts to be expressed in the universe , , beats like a heart.
+**Your consciousness vibrates.** Where you place your awareness determines the frequency you vibrate at.
 
-So it 's like a constant heartbeat , like the , the , the , the , the body of the universe. And this is exactly like in us , our heart.
+If you focus on fear, survival, anger, limitation—you vibrate at a lower frequency. Not "bad," just slower, denser, more contracted.
 
-So this , this , , Asian is called in Latin , , beef , but beef , beef , which is the end of by braid.
+If you focus on love, joy, expansion, service—you vibrate at a higher frequency. Not "better," just faster, lighter, more expanded.
 
-Sorry , the action of being agitated. That 's , , that 's vibration. My vibration is the action of , of being agitated.
+**The key is: neither is wrong. They are just different frequencies.**
 
-So what I said is that in the moment that the mind , the inner mind projected self into an action towards the , the outer reality , this movement that it generates creates the action of being agitated , which is vibration.
+### The Example of Time Perception
 
-So from this principle , we can understand that all the things are vibrating constantly.
+Matias gives a beautiful example to understand this:
 
-Now we should n't make a big confusing vibration with sound. In a very simple explanation , or example , this is vibration. And this is sound.
+Imagine you live for 900 years. When you are 20 years old, those 20 years feel very short compared to your whole life. You have so much time ahead. Everything feels slow and vast.
 
-So basically this hand can be vibrating without the need of doing a sound. Hmm.
+Now imagine you only live for 20 years total. When you are 20, that's your whole life. It feels enormous. Every year is a huge portion of your existence.
 
-So the reason why a sound is created is because of the , , because of the movement of this atoms pushing the atoms of the air.
+**Same 20 years. Different perspective. Different vibration.**
 
-Okay.
+The person who lives 900 years has a "higher" perspective—sees a longer wavelength, more cycles. The person who lives 20 years has a "lower" perspective—sees a shorter wavelength, fewer cycles.
 
-So , , if you have no air around , there 's no sound. Why? Because the sound is created by the expansion of the friction that all the atoms are doing to protect themselves.
+**Neither is wrong.** They are just experiencing life at different frequencies.
 
-So they create like this energy that pushes the atoms of oxygen and inner hydrogen in the air , creating like a wave of energy that makes the sound.
+### Low Vibration Is Not Bad
 
-So the sound is born by vibration , but it 's not the vibration.
+This is essential to understand: **low vibration is not bad.**
 
-So first of all , the idea of this one , vibrating makes this one other by great also.
+In our culture, we've made "low vibration" into something negative. We say, "Oh, that person has low vibration, they're so negative."
 
-So they are in the same vibration. In fact , because from the inside , this one projects this one other by vibration.
+But think about it: **a tree has low vibration.** Trees vibrate slowly. They are connected to the earth, grounded, stable, strong. They don't move fast. They grow slowly over decades, centuries.
 
-So this one creates in a pulse and then this other reality is responding to this one like an echo. And that 's what we call correspondence. Correspondence is the response of this one , the response of this one to the first impulse.
+**Are trees bad?** Of course not.
 
-So the relationship between this two is vibration because it 's the movement of this one that makes the other one exist and respond as an echo. The love vibration says that everything that universe is moving , simply moving.
+**A mountain has low vibration.** It's solid, dense, unmoving for millennia. It holds the earth together.
 
-So whatever it 's moves , it moves , creates by movement , the other one that will violate exactly the same. But we have different kind of vibrations. And according to the vibration that you are , you will respond to one or another. And that 's what we call resonance.
+**Is a mountain bad?** No.
 
-The resonance is basically a response , an answer , to the original sound that was created , the original pulse of movement of movement.
+Low vibration is not negative. It's just a different frequency. It's denser, slower, more material. And **we need that.** We need the grounding. We need the stability. We need the physical.
 
-So basically every resonance is an answer of the main origin.
+### High Vibration Is Not Always Better
 
-So the resonance that we are talking about will be related to the state of vibration from the origin. And of course , they will relate to the level of frequency because frequency is the way in which the sound exists. Let 's make a drawing of it.
+On the other hand, **high vibration is not always better.**
 
-So that 's the origin of all things.
+Yes, high vibration feels light, free, joyful, expanded. But if you are ONLY in high vibration, you can't stay grounded. You can't build. You can't manifest in the material world.
 
-So this is how from the beginning the wave starts to expand in the universe. And all of this is vibration. Everything is vibration. What is frequency?
+**You need both.** You need to be able to move between frequencies.
 
-This is frequency. What is frequency? Frequency is how long it takes for a wave to repeat again.
+Sometimes you need to vibrate low—to ground, to build, to focus on the material, to survive.
 
-So for example here , we have that this takes a long time and this takes a short time to repeat. What is the frequency? As wider is the frequency , the lower vibration. A shorter is the frequency , the higher is the vibration.
+Sometimes you need to vibrate high—to expand, to heal, to connect with the divine, to create.
 
-So here there is nothing wrong. There is no good or bad. Here there is only vibration and frequencies.
+### The Angelic Plane: Messengers of Frequency
 
-So it 's perfect. That 's fine.
+The teaching for today is connected to the Angelic plane. The word "angel" comes from the Greek **"Angellos,"** which means **messenger.**
 
-The reason why we are constantly saying we want or we need to violate higher in a higher but frequency is basically because we have been a long time vibrating in a lower frequency.
+Angels are messengers of frequency. They communicate the vibration of existence beyond the ego's perception.
 
-So imagine that this here is lower vibration. It 's like 9th centuries from the 900 to 1800.
+**Angels don't have a fixed form.** They are frequencies. They are vibrations. They can appear as light, as sound, as a feeling, as a thought.
 
-Sorry , it 's your 1800. That 's the pure time like 9th centuries. And here , it is short period , it 's only 20 years from the 200 to 2020. 2000 to 2020.
+**Why?** Because they vibrate at such a high frequency that they don't have a dense form. They are pure energy, pure message.
 
-So short gear , the time. In terms of evolution of changing , how many more things in these 20 years are on the world than in these 9th centuries? Basically this happened because most of the things in this period of time were very slow. We were vibrating low , it was low.
+When you connect with the Angelic plane, you are connecting with the **power of transmission**—the ability to communicate beyond words, to transmit frequency directly.
 
-And here everything is faster because now we are vibrating higher. How can we use the high vibration to get out from systems that we were for a long time living in? And low vibration. But we can also say that this 20 years could happen even much more worse thing than in these 9th centuries.
+This is the throat chakra. This is vibration. **Your words carry frequency.** Every message you speak changes the universe because it sends out a wave.
 
-For example , it 's much more intense. Also we could say that in this period of time , all the bad things happened very fast.
+### How Vibration Works in Daily Life
 
-So we solved it very fast. And here , the bad things are for a long time. We have to live them for a long time.
+Here's how to understand vibration in your daily life:
 
-So by the principle of vibration , we can not say that high vibration is good and low-ibration is that. It does part like this. For example , if you violate very high , you can suffer a lot if you are not used to that frequency because things happen very fast.
+**When you wake up feeling heavy, slow, tired**—that's low vibration. You're in a long wavelength. It's not bad. Your body might need rest. Your energy might need grounding.
+
+**When you wake up feeling light, energized, inspired**—that's high vibration. You're in a short wavelength. Your energy is expanded.
+
+**When you interact with someone and feel drained**—you are matching their frequency. If they vibrate low (fear, anger, survival), and you try to stay high, there's a clash. Or you drop to meet them.
+
+**When you interact with someone and feel uplifted**—you are both vibrating at a similar high frequency. There's resonance. You amplify each other.
+
+### Changing Your Vibration
+
+You can change your vibration consciously.
+
+**How?**
+
+1. **Through breath.** Fast breath raises vibration. Slow breath lowers vibration.
+
+2. **Through focus.** Where you place your attention determines your frequency. Focus on fear = low. Focus on love = high.
+
+3. **Through sound.** Chanting, singing, humming—these change your vibration instantly because sound IS vibration.
+
+4. **Through movement.** Dance raises vibration. Stillness lowers vibration.
+
+5. **Through environment.** Nature can raise or lower vibration depending on what you need. Forest = grounding (low). Mountaintop = expansion (high).
+
+### The Universal Library
+
+The throat chakra is connected to the Universal Library—the Akashic Records.
+
+Why?
+
+Because **the library is made of vibration.** Every thought, every word, every action creates a frequency that is recorded in the field.
+
+When you access the Akashic Records, you are tuning into a specific frequency. You are matching the vibration of the information you seek.
+
+**The library is not a place. It's a frequency.**
+
+And the throat chakra—your voice, your words—is the key to accessing it. Because **you speak the frequency you want to access.**
+
+### The Stair of the Universal Library
+
+The statement for today is: **"I Am the Stair of the Universal Library."**
+
+What does this mean?
+
+It means **you are the bridge between the frequencies.** You are the steps that move from low vibration (matter, earth, survival) to high vibration (spirit, cosmos, expansion).
+
+**You are the stair.** You move up and down. You don't stay in one frequency. You flow.
+
+And as you move through the frequencies, you access different levels of the Universal Library. Different information. Different wisdom.
+
+**The lower the frequency, the more physical the information.** How to build. How to survive. How to create in matter.
+
+**The higher the frequency, the more spiritual the information.** How to heal. How to expand. How to connect with the divine.
+
+**You need both.** You are the stair that connects them.
+
+---
+
+## Practice
+
+### Preparation
+
+1. Sit comfortably with your spine straight.
+2. Close your eyes and take a deep breath.
+
+### Main Practice Steps
+
+1. Bring your awareness to your throat chakra—the center of your neck.
+
+2. Imagine a blue light glowing in your throat.
+
+3. Take a deep breath in, and as you exhale, make a sound: **"LLe."**
+
+4. Feel the vibration in your throat. Feel the sound waves moving through your body.
+
+5. Repeat: **"LLe"** three times. Feel the frequency changing.
+
+6. Now, imagine you are standing in front of a huge staircase. This staircase has infinite steps going both up and down.
+
+7. The steps going down represent lower vibrations—grounding, earth, matter, survival.
+
+8. The steps going up represent higher vibrations—expansion, spirit, light, cosmic consciousness.
+
+9. You are standing in the middle. You are the bridge.
+
+10. Take a step down. Feel yourself grounding. Feel the earth beneath you. Feel your body becoming heavier, denser. This is low vibration. It's safe. It's strong.
+
+11. Now, take a step up. Feel yourself lightening. Feel your energy expanding. Feel yourself becoming more subtle, more open. This is high vibration. It's free. It's vast.
+
+12. Move up and down the stairs. Notice how your energy shifts with each step.
+
+13. Realize: **you are not stuck in one frequency. You are the movement itself.**
+
+14. Now, stand in the center again. Repeat: **"I Am the Stair of the Universal Library."**
+
+15. **"I Am the Stair of the Universal Library."**
+
+16. **"I Am the Stair of the Universal Library."**
+
+17. Feel yourself as the bridge between all frequencies. You can access any level of the library. You can move to any vibration you need.
+
+18. Take a deep breath. Bring your awareness back to your throat.
+
+19. Make the sound **"LLe"** one more time.
+
+20. Feel the vibration settling into your body.
+
+### Closing
+
+1. Open your eyes slowly.
+2. Wiggle your fingers and toes.
+3. Return to the present moment.
+
+---
+
+## Key Insights
+
+- **"Everything in the universe is energy in movement. Everything vibrates."**
+- **"High frequency has short wavelength. Low frequency has long wavelength."**
+- **"Consciousness vibrates. Where you place your awareness determines your frequency."**
+- **"Low vibration is not bad. A tree, a mountain—they have low vibration, and they are essential."**
+- **"High vibration is not always better. You need both to live fully."**
+- **"Your words carry frequency. Every message changes the universe."**
+- **"Angels are messengers of frequency. They are vibrations, not forms."**
+- **"The Universal Library is not a place. It's a frequency."**
+- **"You are the stair—the bridge between frequencies. You move up and down."**
+- **"The lower the frequency, the more physical the information. The higher the frequency, the more spiritual."**
+- **"You can change your vibration through breath, focus, sound, movement, and environment."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Task for Today:** Throughout the day, notice your vibration. When do you feel heavy (low vibration)? When do you feel light (high vibration)? Practice consciously shifting your frequency—use breath, sound, or movement to raise or lower your vibration as needed. Remember: neither is better. Learn to flow between them.
+
+### Applying This Teaching
+
+When you feel stuck in low vibration (fear, heaviness, survival mode), don't judge it. Acknowledge it: "I'm vibrating low right now. I'm grounded. This is okay." Then, if you want to shift, use your voice—hum, chant, speak a mantra. Sound changes vibration instantly. You are the stair. You can move.
+
+---
 
 ## Q&A
 
-So this is why our task is not about rise up the vibration to be in high vibration. No , it 's about understanding why we need to make our vibration higher. And to do that , we need to understand the low vibration. The only reason why we are being asked in the need to rise up our vibration is because we have been so many times living in the low vibration , which is the past.
+### Q: What exactly is vibration in the Hermetic sense?
 
-And this high vibration will be helpful only for the moment to get out of this. But then what we have to do is to find a middle point. For us , humans , there is no stability in the high vibration because it transforms everything so fast that it can basically destroy us because we do n't have the time to adapt. But the low vibration also does n't help us because we are start and we not be enabled to evolve.
+Vibration is the movement of energy. Everything that exists—matter, thoughts, emotions, light, sound—is energy oscillating at different speeds. These oscillations create waves, and the frequency (speed) of the wave determines what we experience. Slow waves = dense, heavy, material. Fast waves = light, subtle, spiritual.
 
-So I described today in the blog what I mean with being aware of the consciousness and not stay in the same vibration. Imagine that we are willing to arrive to this place which is our destiny. Hmm? I am lost here because there is so many , there is so many mountains around , so many vibrations that I can not find this place is impossible.
+### Q: Why is low vibration not bad?
 
-Being here , being here , I can not go straight here because they are mountains. But also I had no idea if these are the mountains that I have to cross. Maybe there is a hidden path here that is better to arrive to this place than going like this. I do n't have the map of how it is.
+Because density and grounding are essential for life. Trees, mountains, and our physical bodies all vibrate at low frequencies, and they provide stability, strength, and foundation. Without low vibration, we couldn't exist in physical form or build anything in the material world. Low vibration is simply a different state, not an inferior one.
 
-There is this option that we can have because if we do n't see all the path , the option would be to go to the highest point and to see all the map everything from above and from there can now know the better ways and to see this spot where I am heading to.
+### Q: How does consciousness relate to vibration?
 
-So that 's why you go up. But then , in order to arrive here you would have to go down the hill again , remembering the path that you designing your mind. This is concept shows us that we have to rise our vibration to find the consciousness and what 's the consciousness you go down acknowledging all the path so you can reach the place.
+Consciousness IS vibration. Where you place your attention determines what frequency you vibrate at. If you focus on fear, scarcity, and survival, your consciousness vibrates slowly (low frequency). If you focus on love, abundance, and expansion, your consciousness vibrates quickly (high frequency). You are always choosing your frequency through your focus.
 
-So what is the method? There are thousands of methods but the main one is to take distance to go and look from another point of view from another perspective , go farther and look beyond mediate in that in distance.
+### Q: What is the Angelic plane?
 
-So you can go to all the theories you want to help with this but the consciousness you will only achieve by your own will of going and see the things from another point of view from another perspective.
+The Angelic plane is the level of consciousness that vibrates at such a high frequency that it doesn't hold a fixed form. "Angel" means "messenger" in Greek. Angels are frequencies that transmit information beyond words—through light, sound, feeling, or sudden knowing. They are communicators of vibration itself, showing us that every message changes the universe.
 
-So what do I have to do? I have to change my perspective otherwise I will stay all the time here.
+### Q: How can I change my vibration?
 
-So you are here and maybe you are here is the wish will be why you are here and this is the other part of the law of vibration. You are here because you are by the way below that 's why you are receiving everything from the valley.
+You can shift your frequency through: (1) **Breath**—fast breath raises, slow breath lowers; (2) **Focus**—direct your attention to what frequency you want; (3) **Sound**—chant, hum, sing to instantly change vibration; (4) **Movement**—dance to raise, stillness to lower; (5) **Environment**—nature offers both grounding (forest) and expansion (mountaintop).
 
-So what you have to watch is why I end up here? Am I by the way , in low? In order to understand this you have to see around. You have to pay attention to the environment all the life that you are in all the things that you have tried to you are heavy.
+### Q: What does "I Am the Stair of the Universal Library" mean?
 
-There are conflicts or giving tools. What do you think about the environment that you are in? Because that 's what we 're sounds with you. The things that you see that you have tried that you are with are the things that are in your own vibration.
+It means you are the bridge between all frequencies. You're not stuck at one level—you move up and down, accessing different vibrations and different information. The lower stairs hold physical knowledge (survival, building, matter). The higher stairs hold spiritual knowledge (healing, expansion, cosmos). You are the movement between them.
 
-And just to understand this in the universe there is no bad and good.
+### Q: Why is vibration connected to the throat chakra?
 
-So the universe only organized vibrations like a melody tries to organize.
+Because sound IS vibration in its most direct form. Your voice creates waves that change the energy around you. Every word you speak sends out a frequency. The throat chakra is the center of transmission—where inner frequency becomes outer expression. Your words have power because they carry vibration.
 
-So basically the universe is putting everything that violates low with the things that violate low. Just by passing the song. For example , do n't go to your thoughts. Go to what is surrounding you.
+### Q: Can I access the Akashic Records through vibration?
 
-Because in your thoughts maybe you would say no but I am a really good person and I do n't know this is happening to me and all this bad people around me. You can be a good person by violate very wrong. Because remember to violate bad. It 's not , or violate low , it 's not to be bad person.
-
-So low of vibration. I can not be in touch with anything that is not in the vibration as I do.
-
-So everything that I leave that I leave is related to my vibration.
-
-So to the environment and to acknowledge this vibration is not solved by living the environment. It 's only solved by understanding why I have created this environment for myself. And I will give you an advice and advice that I would love to give you is pay attention to what they because it becomes your own reality by this law of vibration. To the universe , it does n't matter if you are a good or bad person.
-
-For the universe , what really matters is that you are coherent. There is no such thing as bad person or good person. There are people that is resounding and people that is decent. We have spoken about this.
-
-And I say about this careful what you say because I see in the comments and so on. A lot of people that put before the question put the question before the intention of finding the answer. I will explain what it means now. Questions like for example , and how do I do this is instead of saying , I will look on to how to do it.
-
-For example , when we say , I do n't get it or I do n't understand it. Instead of saying , I 'm going to do everything to understand it or I am in the process of understanding.
-
-So do n't take this as something wrong. Take this as an advice because we all have been taught this by culture. We all have been taught from the questioning instead of the will of looking. To be aware , to have consciousness is not to know all the answers and to know everything.
-
-To be conscious is to have the will to move forward to look for the answers. This is why the law vibration tells us be very careful to watch you do what you say. Because whatever you express outside of what you are will come back to you up until when you are. And do n't take this as the law of attraction.
-
-This we will take it as the law of coherence. It 's not about to have results in your life. It 's about to be yourself the result.
-
-So you have to put the intention of to see yourself in a beautiful way to understand yourself in a better way to have another perspective to say , I am willing to do something different. And instead of saying , I do n't understand , say , I am learning. And remember that in the blog for sure , I wrote much more about this and I invite you to read it.
-
-So the test for today is about to write about what are my biggest echoes in my intention.
-
-## Daily Practice Elements
-
-So that would be to write down the according to what you express the world , what are you receiving from the world? The vibration for today is yeah. The statement for today is I am the stairs of the universal library. The code for today is the angelic claim.
-
-And within those send it to the service , are the guides and messages , Angels in the Greek name is the Greek name for messengers. To me , the entities that light with clarity the path , guide hopeless in darkness. An angel is a being capable of helping us to return to the right path through guide lines , messengers , and lessons. Let 's go to the alignments.
-
-Season C amoragnos Take a deep breath , relax and body , focus in only in your breathing. And I recognize that within me , in the time the biggest library of the entire universe. I started to feel surrounded by this library , all this records , in the shape of books through our thousands of calories , being both the records of my subconscious. I said the invention that I have come to this library to find the book where I can read about the vibration that became a pattern in my life and that gave me stock in this reality.
-
-Just by thinking , I let my mind to push me through the galleries of this library to find this book where there is the truth that has been hidden. The vibration that pulls me trapped in my life. A sigh of find this book , I have taken between my hands and go to bring clarity to it in the office of consciousness through the areas of the subconscious. I have served myself going up through the stairs , reaching the office , I will open the book without any judgment.
-
-We will perceive but it 's inside bringing it to the consciousness. I started to write great to bring the consciousness to this information. This resonance is connected to the vibration of every book in this great library. If I use it properly , I will be able to open all the front of it.
-
-## Guided Meditation
-
-Take a deep breath and breathe this book to your throat chara and write for the nice I am the universal library. I am the stair to the universal library. In the echoes of my vibration , I can find all the registry of the universe. I can use this vibration for my own benefit.
-
-Thank you. Take a deep breath. Bring all these consciousness through your body , carries some stretching and yarn. Thank you everybody for being there.
-
-See you tomorrow as always this time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+Yes. The Akashic Records (Universal Library) are not a physical place—they are a field of vibration. Every thought, word, and action creates a frequency that is recorded. To access this library, you match the frequency of the information you seek. You tune in, like tuning a radio. Your voice and intention set the frequency.
 
 ---
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

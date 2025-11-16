@@ -1,366 +1,427 @@
----
-title: "Day 164 - Chakra Activation"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
-day_number: 164
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
-document_type: "transcript"
-language: "en"
+# Day 164 - Relations
 
-keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 164
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - chakras
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-
-practice_elements:
-  chakra: "Heart"
+## Metadata
+- **Date:** January 14, 2021
+- **Chakra:** Heart
+- **Topic:** Relations (Relationships)
+- **Month:** Capricorn (Dec 22 - Jan 20)
+- **Theme:** MIND 'STAIR' (Emotional Week)
+- **Mantra:** "I Use"
+- **Vibration Code:** Bi
+- **Statement:** "I Am the Heart's Home"
+- **Cosmic Key:** Creativity
 
 ---
 
-# Day 164 - Chakra Activation
+## Summary
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
-
-## Daily Practice Elements
-
-- **Chakra:** `Heart`
-
-## Introduction
-
-Hi everyone. Good morning. Good afternoon. Good evening.
-
-## Energy Work
-
-So welcome another day here in the day of the Arch Chakra in the emotional week of Capricorn.
-
-So we keep working with the very Capricornian concepts that keep us working within ourselves all the time.
-
-So let 's begin with today 's topic which is relationships. Just a little concept about this which is we are not talking about relationships regarding the relationships that you have when you get in love with your partner or something like this. I am speaking about relationships of every emotional relationship that you can have with your family , with the friends , with work.
-
-So all these kind of things.
-
-So it 's not only about the ones you love as a couple.
-
-So just for you to have in mind that our cultures today has this pre-concept of what is a relationship. Because since the moment we are start to grow , we have this cultural beliefs that we have to find someone in our lives that we have to make a project together that we have to have kids to get married , to die together to do everything with the partner in life. And we are so pushed by this that the moment that we see the word relationship with about this. And this is a social condition of a relationship.
-
-So it 's not what I am really saying , but anyway , the reason why we do this thinking is related to what I am going to explain today.
-
-So let 's begin with the explanation of what a relationship means.
-
-So relation comes from the word re la teo.
-
-Remember that re means again , let means to extend to expand and teo is the action.
-
-So the action of expanding of again , that 's a relation.
-
-So it means to bring something from one point to another again , once and again.
-
-So if you think about our perception today of what is a relationship , we usually say I am in a relationship and that means that you are closed to someone , that you are with someone and that 's it. You are not being able to diagnose because you are locked in a relationship. And the terminology of the word is exactly the opposite. The terminology of relationship is to expand , to bring something that is inside to the outside , to do it again , to expand myself in a different level.
-
-So it 's very different from what we believe.
-
-So I always do understand why relation means to expand. We have as always to go to dairy far in the past.
-
-So let 's go to the caves in the very beginning.
-
-Remember , we were like tiny roots of people living in caves , families.
-
-So these families , for example , some of them had meat. And there was another family far away that has fruits. And there was another family far away that had seeds. And there was another one that had goals for example.
-
-So each one of them has something different , but they were in the lack of something , the things that the other ones had.
-
-So what they needed to do is to every time of the year , maybe one or two or three or four times of the year , they had to leave their caves and their tiny places to go away , to expand their path , to reach these other people. Exchange things. I give you seeds , the other one , give me some fruits. I change things and then back home.
-
-And I repeat the same system once and again.
-
-So that is , relation , the action of expanding myself outside and communicating with others.
-
-So the relationships of different families living in the caves were to connect exchange and be able to survive.
-
-So relationship comes from the concept of expand ourselves and communicate with others.
-
-So remember that the concept of relation is not to be attached to one another. It 's about to move forward and to communicate in the different people.
-
-Okay , so let 's go into this idea.
-
-So here comes one day , here comes one day , that one of the families of the four families has an idea. And his idea was what if instead of just exchanging from one family to another , why do n't we put both families together and we can put those families together.
-
-Okay , and like this we ensure that our family has the meat. And the other what family has the fruits.
-
-So we always can have fruits and meat.
-
-So they say how can we put this together , how can we have a better relationship with one another.
-
-So they said with the same blood.
-
-So we put the blood of this family and this family together creating one son or a daughter.
-
-So when we create this kid , we put together the two families is the symbolism of the unity. That 's how they used to see it in the ancient times.
-
-So the physical way in which you unite two things is one kid.
-
-So what they did , okay , so the daughter of the of the person with the fruits and the son of the budget , we 're forced to be in that relationship.
-
-Okay , forced to live in a relationship so they can have a kid to integrate both families. And that 's where we call matrimonio. A matrimonio comes from the Latin word matrimonio , which means one mother , one mother.
-
-So the matrimonio means that you have only one mother , having one kid.
-
-So that only kid is the one that puts everyone together.
-
-So the matrimonio , this is how how matrimonio marriage begins , okay , that 's the way in which it begins. It was not because of love. The relationships , the first relationships was trying to make it 's just family to put together to survive. That 's all.
-
-Then comes love and so on , but then says , I have the carmiserio and the verdillero in a matrimonio relationship.
-
-So the friends , let 's say , let 's do the same. They are born and create a great family. And they start to be more big in these families , creating a poor person.
-
-So then then when the people with the fruits and the people with the meat got together , and the seeds , they say , we have to do the same thing.
-
-So they got together in another relationship and they started to create bigger families.
-
-Okay.
-
-So now imagine this , that we have this this two big families now. And this two big families suddenly they say , hey , what happened if we do exactly the same , if we put together.
-
-So one daughter , one son , and we make another relationship between the two big families for one only kid to unite us all. And we live all together.
-
-So they create a great family with a lot of people and but only one that connects them all.
-
-So that 's how we created the concept of the king or the queen.
-
-So now the king or the queen is the one that will divide the groups of the family in what we call the tribes.
-
-Okay. The tribes.
-
-So the king is the one that will represent the unity of all these different people.
-
-So what this family is this tribes , this tribes , what they do is to give some of the resources to the king to keep him going with the representation to bring them all together.
-
-So that 's what we call a tribute. From there comes the tribe , a tribute is the same word. It comes from there.
-
-So the people from the tribes gives it a tribute to the king or the queen to have to have to have him or her as a symbol of unity of all the tribes.
-
-Okay. That 's how the system started.
-
-So important thing to say about this. From the point of view of today , we can say , all this is horrible , but because we have gone through all this story. But we have to understand the origin of this idea because the king , the queen , was the only concept that helped be one to be together to survive as one.
-
-Okay.
-
-So for that time was the main system that was able to hold us all in a relationship.
-
-Okay.
-
-So now this king is willing to look for another king to convince the other one to put together a relationship in a natural body. And so the kingdom starts to grow and you can see this in every movie. In the movies , you can see this how the queens start to make these arrangements of natural to have a kid so they can make a bigger empire bigger kingdom by blood.
-
-So this means that the concept of relationships is mainly about to work for the safety of a group , for the survival of that family.
-
-So the law of natural money was specifically something for survival.
-
-Okay. And yeah for survival , basically.
-
-Okay. And economics and survival.
-
-So imagine this until the women , women where started to work like really in a short period of time and now , but for the last 2003-1000 years , women were just to reproduce , consider only for mothers.
-
-So because of why , so because of this , they thought women were just to have kids.
-
-So whoever had a kid , a daughter , the first thing that these people would try to do is to marry her with someone with much more resources.
-
-So in between the 11 years old and 15 years old in the period of reproduction , in the period of reproduction , they would try to match her with someone else.
-
-So older with money or resources , so they could have a kid and the family there was poor could have more resources to survive.
-
-Okay.
-
-So that was like this for a long time.
-
-So for a long time , this happened in many cultures and even today we have this happening in many cultures and it also still happens in our Western civilization. I do n't know if you know the concept of this , but from the feudalism system , from the feudalism system , in the Americas , still today we celebrate this thing of the 16 or the 15 for most of the in South America , Mexico in South America. And this 16 is to , it was in the feudalism time , it was to prepare the little woman to be shown to all this men , to let them know that you can now say how much you will pay to have her uterus. That would be like this.
-
-So in the feudalism time , the women in between 11 to 16 years old was put where put into the public in front of all this men , so they could decide and to fight against them like who is paying more for having her.
-
-So now today we have this tradition still of celebrating the 15 or the 16. But this is a horrible story. But I do n't know how many of you have heard this concept since you were a child that even mom or grandmother used to say you have to find a good man in your life to take care of you , then loves you that gives you the food , then it 's really a hard work in person. You know , this kind of things for sure you have heard about all these concepts and this is because from a long time this was something natural and remember in the past the people used to live around 30 years old.
-
-So in between the 30s and the 40s they used to die. There was no poor life.
-
-So that 's why they said that the life of a woman started in the moment when a girl becomes a woman.
-
-So that 's between 11 and 15 years old.
-
-So in that moment , in that moment they have kids because you only have 20 years more to live.
-
-So that is that much is perfectly with the 15 years that your sons or daughters could live alone.
-
-So this tradition , it was the thing that created this pederastic , pederastic , pederastic culture of older people looking for younger people in order to survive.
-
-So this is a tradition that kept going because of survival.
-
-Now it 's horrible. We should n't work with this anymore. But in order to heal it you have to understand this story. Because many of those people has this information within their bodies.
-
-So this is how the system starts to transform. Which is when we have this perception of how a relationship is to own someone because the people in this past 2003,000 years used to bind people like all men having young women or young men , for their own , like a procession.
-
-So people selling their own kids to grown ups.
-
-So they can survive.
-
-So this is how relationships stop being an exchange of expansion and ended up being being owner of a person. Because someone bought the relationship now.
-
-So I hope you can see now how the process of relation in between people expanded went now into the concept of owning someone being the owner of a person.
-
-So this is why today in our cultures we have this concepts of the relationship as owning someone. Like if you compare someone , you want to compare the compass of a person. You are romantic with a person and all this concepts comes from the imperialism of owning people as slavery.
-
-So today to have a relationship is basically to be a slave. Because of this story. Little now to kill a little bit the romanticism. I love to be a romantic I love to.
-
-But anyway we have to break it because we have to know where it comes from.
-
-So let 's understand why we say romantic. Romantic comes from the word related to Rome. And why is that? Because in the middle , in the middle ages , everyone , every writer , every philosopher , every person that was writing about the beauty of the Roman Empire and all the cultures that it created around Europe , where coal , where coal , the romantic.
-
-So that 's why in this period of time we call them the romantic. Romantic is the period of time when all the people that came from Rome and the Rome started to describe the beauty of the cultures coming from Rome. The languages , the Roman languages like Spanish , Spanish , Italian , Portuguese , this language comes from Rome.
-
-So all the people that used this languages were called the romantic. That 's why we call it like this. The ones related to Rome.
-
-So all these people started to describe the beauty of the world , the fields , the people , the language , the cultures.
-
-So they started to be called the romantic ones. Because they seem to be in love with everything that was growing in Europe , everything that was from Rome.
-
-So they describe everything with such a beauty , with such a an expression of being in love of those things were explained that we call that the romantic. They were romantic. This is why today we still call it like this. From where these people came from , from Rome.
-
-And where 's Rome? Rome is n't a place in Italy called Radio. Radio , it 's the region of the Latin people. The Latin that 's Radio , Latin , that 's the origin of the word.
-
-Radio means an extended plain , like a ground that is plain and extended.
-
-So that 's Radio.
-
-So this region , this region , was the origin of the Latin people , with its capital in Rome.
-
-So these people started to expand in an empire. And this empire was expanding through Europe. And expand is La.
-
-So the Latin people expanded once and again once and again what we call relation , LATIN , LATIN , is that region , Radio.
-
-So the relationships was how Rome expanded once and again once again.
-
-Okay?
-
-So when we have now , is that Rome from Radio , from the region of Radio , started to expand to conquered different countries , villages , regions around Europe and the world. And conquered to conquest a person to conquered something. It 's like , it 's all the terms , they are all the the the conquests of love , for example , all the concepts that we inherited from them.
-
-So we received this idea of being romantic , to conquest someone by the romanticism and to be in a relationship. All the words that we used now for love come from the concepts of the imperialism that used to make people slay. And this is why even today , we still create our relationships through the ideas of slavery. Take a deep breath.
-
-Once we said all this , because this is just the context , now we have to see what do we do with all this. What we have to do now is to resigning what is a relationship and need a necessity.
-
-So let 's understand this. To understand the concept of necessary , necessary comes from the Radio word , ne and sessario , that means no cease.
-
-So no stop.
-
-Something that is eternal is constant never ends. And what is something that never ends in the universe? Expansion. Expansion.
-
-So remember expansion is relation.
-
-So the needs , the necessity of a relation is constant and every relationship is based on an necessity and need.
-
-Okay , I hope you get this line.
-
-So now think about your own relationships. Relations is about expansion. Think about every relationship through emotions that you have with anyone. The worst relationships and the best relationships you ever had.
-
-With family , with friends , with partners , with couples. It does n't matter if it was the worst or the best one. All of them push you to expand yourself because all of them help you to see something different from your own self. That 's why we call it the expansion of consciousness.
-
-And this expansion , looking for relations everywhere , is because we are in the necessity of this. Necessity is that never stops is constant. And what is that? We are always looking for a relationship , a new relationship.
-
-Something new to relate to people , environments , nature , the cosmos , everything we are looking to relate with something constantly because in our inner , self we are looking to expand to something new to see something different. To feel free as many things we can see.
-
-So to go from one relation to another , relation relation with anything helps us to expand. It 's a need that we have to feel free expanding ourselves from the heart. It 's born from a personal necessity and need of my own self.
-
-So it 's not about to get rid of the need to be in a relationship. It 's about to understand why or what I am in the need of learn in this relationship.
-
-## Q&A
-
-So the question is what for? And this is the most capricornian question you can do in a relationship. What for? This is the gift of capricorn.
-
-So we have to ask ourselves , am I looking for a relationship in order to fulfill some points within me or I am looking a relationship to expand myself? Because if the only thing that I discover that I am doing is to feel the gaps within me. The only thing that I am doing is to go into a romantic relationship of conquest.
-
-So remember , we are not here to possess anyone or anything. We are here to expand ourselves through the others.
-
-So now it does n't matter which kind of relationships you have , the question that you have to ask yourself is that well the thing that you have to see by yourself is that the relationship that you have is the one you need.
-
-So the question you have to do is , am I in the need of this? Why I am in this need?
-
-So sometimes we are still in this kind of heavy relationships because we can not understand what are we needing in this relationship. Until I do n't recognize what I am needing in the necessity of this relationship.
-
-So I will repeat it once and again and it will never end.
-
-So just for you to know that usually when someone is trying to connect with themselves and start to find the connection before they can connect with the higher self , the main thing that happened is the divorce separation. And that 's for sure.
-
-Something that happens to all of us because is the first thing , is the first thing that shows you that you are in the process of awakening.
-
-So being alone.
-
-So get ready.
-
-So just for you to understand this. When you start the path of enlightenment or the conscious path , it 's not that you have to be alone and no relationships at all.
-
-Okay? This means that the whole way of relationships ends because there is no conditions and a new way of relationships begin in a different way.
-
-So it 's not that you have to be alone. Is that you just change the way you relate with people.
-
-So there are hope. There is hope. But all of this hope depends on you. The vibration for today is B.
-
-## Daily Practice Elements
-
-The statement for today is I am the heart 's home. The code for today is creativity. In the moment the consciousness positions itself into matter , their appearance of a creative mind in evolution is key to contemplate the most intrinsic potential of divinity. The art in all its areas is the foundation of all creation itself.
-
-The universe is a being of enormous creativity and it 's key , lays in the ability to find in ways solutions , forms and different methods for every circumstance. Let 's go to the alignment.
-
-So we sit comfortable. And Otherwise. Take a deep breath and focus in your own breathing.
-
-## Guided Meditation
-
-Softly , a target to carry the body , to stretch the body as I breathe until I can feel it relaxed. I become aware of the environment where I find myself in right now. Pay attention to the things that are wrongly. And we have my imagination.
-
-I start to design a night , making everything getting darker , until I see this deep sky full of stars. Take a deep breath and in front of me , I can see a fire. I can feel the heat of this fire in my hands in a chest and face , besides seeing how it explains with different tones of orange. You move like a snake.
-
-I become aware that I am a family self seated in a circle with many people around the fire. And I remember that all of them are here to remind me the way in which I relate with a world. Take a deep breath. I can see now the faces of these people being enlightened by the fire in the center.
-
-## Q&A
-
-So I can recognize in their faces that they are my relationships , friends , family , couples , without any judgment , I see around all these people with whom I have had the best of their relationships and the worst of their relationships. I can recognize in their faces that they do n't represent themselves the conflict , that they are just enlightened by the expansion of the light of the fire that I am , that the concept of this relationship that I have is just the expansion of myself on them. Pushed by my own necessities , my own needs , take a deep breath. I am here to ask myself from where I am relating with people.
-
-What is my need in these relationships? I must remind myself that each relationship is an other thing but at all to help me in my own expansion. Am I free in these relationships? What are my needs that I am still slave in them?
-
-Take a deep breath and start to activate these answers within you by the vibration. I am here to ask myself from where I am from. I am here to ask myself from where I am from. I am here to ask myself from where I am from.
-
-I am recognized that other relationships that I have comes from my own expansion from my own heart , my own heartbeat and all of them in which I project part of my expansion they are part of my home. I am the heart 's home. I am the heart 's home. I am the heart 's home.
-
-I recognize my relationships are not used to me because of my needs. I use my needs because I am willing to relate. I use I use I use. I take my hands to my heart , feeling all this fire expanding from me.
-
-Take a deep breath and begin to bring all this fire through your body , my Christi stretching and Jungle , ahu shook up radios , gently quad , and punch. Hhh! And each one , it 's time , come back here and now.
-
-Remember that today 's tax task is to write down all these relationships so you can be aware how you use these relationships. Thank you everybody for being here , as always , and as always , see you tomorrow , the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+Day 164 revolutionizes the concept of **Relationships** by returning to its etymological root: **"to expand again and again."** Contrary to modern belief that a relationship means being "locked" or "closed" with someone, the true meaning is to **extend, expand, and bring something from inside to outside repeatedly**. The teaching traces relationships back to cave families exchanging resources (meat, fruits, seeds, goats)—leaving their caves to reach others, exchange, and return home, **repeating this once and again**. This is the origin: **relationship = expanding ourselves and communicating with others**, not attachment. The evolution continues: families united through children (**matrimonio** = one mother, one child uniting two families), tribes formed, kings/queens created as symbols of unity, kingdoms expanded through marriages. However, this entire system was built on **survival and resource exchange**—not love. The teaching reveals that modern "romance" comes from the Roman Empire's expansion and conquest, and our relationship vocabulary (conquest, romantic, possess, slave) is inherited from **imperialism**. Today's relationships are still based on **slavery concepts**: owning someone, being owned. The true meaning of relationship is revealed: **necessity = never stops = constant expansion**. We're always looking for relationships because we're in the necessity of expanding to see something different, to feel free. The Capricorn question: **"What for?"** Not to fill gaps within, but to **expand ourselves**. When you start the path of enlightenment, old conditional relationships end—not to be alone forever, but to **change the way you relate** with people. Freedom in relationships.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Key Concepts
+
+### Etymology and True Definition
+- **Relation:** "re" (again) + "la" (to extend/expand) + "teo" (action)
+- **The action of expanding again, once and again**
+- Bringing something from one point to another, again and again
+- **Modern misconception:** "I am in a relationship" = closed to someone, locked, not able to diagnose
+- **True meaning:** To expand, to bring something inside to the outside, to do it again, to expand myself in a different level
+
+### Origin in the Caves (Ancient Exchange)
+**Scenario:** Different cave families had different resources
+- One family had **meat**
+- Another family far away had **fruits**
+- Another family had **seeds**
+- Another had **goats**
+
+Each family had something different but **lacked** what others had.
+
+**Solution:** Leave caves, expand their path, reach other people, **exchange** things
+- "I give you seeds, you give me fruits"
+- Exchange and return home
+- **Repeat the same system once and again**
+
+**This is relation:** The action of expanding myself outside and communicating with others.
+
+**Relationship = expand ourselves and communicate with others** (not attachment)
+
+### Evolution: From Exchange to Unity (Matrimonio)
+
+**Next Step:** One family has an idea
+- "Instead of just exchanging, why don't we put both families together?"
+- "How can we ensure our family always has meat and the other always has fruits?"
+- "How can we have a better relationship?"
+
+**Solution:** **With the same blood**
+- Put the blood of this family and that family together, creating one son or daughter
+- The child = **symbolism of unity**, putting two families together
+- The physical way to unite two things = one kid
+
+**Forced Relationship:**
+- Daughter of the fruit family + son of the meat family = forced to live in relationship
+- They have a kid to **integrate both families**
+- This is where we call **matrimonio**
+
+### Matrimonio (Marriage) Origin
+- **Matrimonio:** Latin "matrimonio" = **one mother, one mother**
+- Means: you have only one mother, having one kid
+- That only kid is the one that **puts everyone together**
+- Marriage began as **family integration for survival**, not because of love
+
+**Then love came later**, but the origin was survival strategy.
+
+### Expansion: Tribes and Kingdoms
+
+**Bigger Families:**
+- Fruit family + meat family create bigger family
+- Seeds family says: "Let's do the same"
+- They unite, creating **larger groups**
+
+**Two Big Families Unite:**
+- Same strategy: one daughter + one son = one kid to unite both big families
+- **Live all together**
+- Only one person connects them all
+
+**This creates:** The concept of the **King or Queen**
+- The king/queen = **one that will divide the groups into tribes**
+- The king/queen represents the **unity of all these different people**
+
+### Tribute and Tribes
+- **Tribe:** The groups of the family
+- **Tribute:** From the same word as "tribe"
+- People from tribes give a **tribute** to the king/queen to keep them as the representation bringing them all together
+- King/queen = **symbol of unity of all the tribes**
+
+**Historical Context:**
+From today's point of view, we can say "this is horrible," but we must understand the origin. For that time, the king/queen was the **only concept that helped everyone be together to survive as one**. The king/queen was the main system able to **hold us all in a relationship**.
+
+### Kingdom Expansion (Blood Marriages)
+- King willing to look for another king
+- Convince the other to put together a relationship in a **natural body** (blood)
+- Kingdom starts to grow
+- See this in movies: queens make arrangements of **natural marriages** to have a kid so they can make a **bigger empire, bigger kingdom by blood**
+
+### Relations and Survival (Core Understanding)
+**Key Principle:** From caves to kingdoms, relationships were about **survival and resource exchange**.
+
+The **first relationships were trying to make families put together to survive**—that's all.
+
+### Modern Concept: Relationships as Ownership
+
+**The Shift:**
+- Perception of relationship = **expand and communicate** (original)
+- Transformed into: **owning someone** (modern)
+
+**Why?**
+- Past 2,000-3,000 years: people used to **bind people**—men having young women or young men for their own possession
+- People **selling their own kids to grown-ups** to survive
+- Relationships stopped being expansion and became **being the owner of a person**
+- Someone **bought the relationship**
+
+### Women and Reproduction (Historical Reality)
+
+**Until Recent Times:**
+- Women started to work relatively recently
+- For the last 2,000-3,000 years, women were just to reproduce—considered only for mothers
+- Why? Thought women were just to have kids
+- Whoever had a daughter: first thing to do = **marry her with someone with more resources**
+- Between **11-15 years old** (period of reproduction): try to match her with someone older with money/resources
+- Family was poor, could have more resources to survive through her marriage
+
+**This happened in many cultures, even today in some cultures—and still happens in Western civilization.**
+
+### The 15/16 Celebration (Dark Origin)
+- **Feudalism system:** Still celebrated today in South America, Mexico
+- **The 16 (or 15) celebration:** Prepares the little woman to be **shown to all these men**
+- Let them know: "You can now say how much you will pay to have her uterus"
+- In feudalism time: women between 11-16 years old put in public in front of men
+- Men decide and **fight over who is paying more** for having her
+
+**Tradition continues today:** Celebrating the 15 or 16—but this is a **horrible story**
+
+**Cultural Conditioning:**
+- "You have to find a good man in your life to take care of you, that loves you, that gives you food, that's a hard-working person"
+- This was **natural in the past**
+
+**Why This Made Sense Then:**
+- People used to live around **30 years old** (30s-40s they died)
+- No long life
+- Life of a woman started when girl becomes woman (11-15 years old)
+- In that moment, have kids because **only 20 more years to live**
+- This matches perfectly: 15 years for sons/daughters to live alone
+
+**This tradition created:**
+- **Pederastic culture** of older people looking for younger people to survive
+- Tradition kept going because of survival
+- Now it's horrible, we shouldn't work with this anymore
+- **But to heal it, you have to understand this story**
+- Many people have this information **within their bodies**
+
+### Relationships Become Slavery
+- System transformed
+- Perception: **owning someone** because people bought relationships
+- Men having young women/men, people selling kids to adults to survive
+- Relationships = **being the owner of a person**
+- Comparison = possessing a person
+- "You are romantic with a person"—these concepts come from **imperialism of owning people as slavery**
+
+**Today:** To have a relationship is basically to **be a slave** because of this history.
+
+### Romantic (Etymology and Imperialism)
+
+**Why "Romantic"?**
+- Romantic = related to **Rome**
+- Middle Ages: every writer, philosopher, person writing about the beauty of the **Roman Empire** and cultures it created around Europe = called **the romantic**
+- Romantic period: people describing beauty of cultures coming from Rome
+- Languages: **Roman languages** (Spanish, Italian, Portuguese) come from Rome
+- People using these languages = called **the romantic**
+- "Ones related to Rome"
+
+**What Romantics Did:**
+- Described the beauty of the world, fields, people, language, cultures
+- Started to be called **the romantic ones**
+- Seemed to be **in love** with everything growing in Europe, everything from Rome
+- Described everything with such beauty, expression of being in love
+- We call that **the romantic**
+
+**Where Romantics Came From:** **Rome**
+
+**Where's Rome?** Place in Italy called **Latio** (region of the Latin people)
+
+- **Latio:** "Radio" = extended plain, ground that is plain and extended
+- This region = origin of **Latin people**, capital in **Rome**
+- Latin people started to **expand in an empire** through Europe
+- **Expand = "la"** (same as "relation")
+
+**Connection:**
+- Latin people from Latio region
+- Started to expand once and again, once and again
+- This is called **relation**
+- **LATIO, LATIN = that region (Latio)**
+- Relationships = how **Rome expanded once and again**
+
+### Conquest and Love Vocabulary
+- Rome from Latio started to expand, **conquered** different countries, villages, regions
+- **Conquered/conquest** = all the terms for imperialism
+- "Conquests of love" = inherited concepts
+- **"Romantic" = conquest someone by romanticism**
+- **"Be in a relationship"** = all words for love come from **imperialism that made people slaves**
+
+**This is why:** Even today, we create relationships through the ideas of **slavery**.
+
+### Necessary and Necessity (True Relationship)
+
+**Necessary:** Latin "ne" (no) + "cessario" (cease/stop)
+- **No cease, no stop**
+- Something eternal, constant, never ends
+
+**What never ends in the universe?** **Expansion.**
+
+Remember: **Expansion = relation.**
+
+**Key Equation:**
+- **Necessity of a relation = constant**
+- **Every relationship is based on a necessity and need**
+
+### Relationships Push Expansion
+**Think about your own relationships:**
+- Worst relationships and best relationships you ever had
+- With family, friends, partners, couples
+- **Doesn't matter if worst or best**
+
+**All of them pushed you to expand yourself** because all of them helped you see something different from your own self.
+
+**This is called:** Expansion of consciousness.
+
+**This expansion, looking for relations everywhere = because we are in the necessity of this.**
+
+### Constant Search for Relationship
+**Necessity = never stops, is constant.**
+
+**What is that?**
+- We are always looking for a **relationship, a new relationship**
+- Something new to relate: people, environments, nature, the cosmos
+- We are looking to relate with something **constantly**
+
+**Why?**
+In our inner self, we are looking to **expand to something new, to see something different, to feel free**—as many things we can see.
+
+**To go from one relation to another with anything helps us to expand.**
+
+**This is a need we have to feel free, expanding ourselves from the heart.**
+
+Born from a **personal necessity and need of my own self.**
+
+### The Capricorn Question: "What For?"
+
+**Not about:** Getting rid of the need to be in a relationship.
+
+**About:** Understanding **why or what I am in the need of learning** in this relationship.
+
+**The question:** **"What for?"** (Most Capricornian question in a relationship—this is the gift of Capricorn)
+
+**Ask yourself:**
+- Am I looking for a relationship to **fill some points within me**?
+- Or am I looking for a relationship to **expand myself**?
+
+**If filling gaps:** Only thing you're doing is going into a **romantic relationship of conquest** (possession, slavery).
+
+**Remember:** We are not here to **possess anyone or anything**. We are here to **expand ourselves through the others**.
+
+### The Relationship You Need
+**Realization:** It doesn't matter which kind of relationships you have—**the relationship you have is the one you need**.
+
+**Questions:**
+- Am I in the need of this?
+- Why am I in this need?
+
+**Sometimes:** We are still in heavy relationships because we cannot understand **what we are needing in this relationship**.
+
+**Principle:** Until I don't recognize what I am needing in the necessity of this relationship, I will repeat it once and again, and **it will never end**.
+
+### Enlightenment and Relationships (Divorce/Separation)
+
+**Common Pattern:**
+When someone tries to connect with themselves and starts to find the connection before they can connect with the higher self, the main thing that happens is **divorce/separation**.
+
+**This happens to all of us** because it's the **first thing** that shows you you're in the process of awakening.
+
+**Being alone.**
+
+**Get ready.**
+
+### Relationships Don't End—They Transform
+
+**Clarification:**
+When you start the path of enlightenment or the conscious path, it's **not** that you have to be alone and no relationships at all.
+
+**What happens:**
+- The whole way of relationships **ends** because there are no conditions
+- A **new way of relationships begins** in a different way
+
+**It's not that you have to be alone.**
+
+**It's that you just change the way you relate with people.**
+
+**There is hope.** But all of this hope depends on **you**.
+
+---
+
+## Teaching Points
+
+1. **Relation = expand again and again** - Not lock/close, but extend and communicate repeatedly
+2. **Cave origin** - Families expanding paths to exchange resources (meat, fruits, seeds), returning, repeating
+3. **Matrimonio = one mother** - One child uniting two families through blood
+4. **Marriage origin = survival** - Not love initially, but resource security strategy
+5. **Tribes and kings** - One child/king as symbol of unity for all tribes; tribute system
+6. **Kingdom expansion** - Blood marriages to create bigger empires
+7. **Relationships = ownership shift** - From expansion/communication to possessing someone
+8. **Women as reproduction** - 2,000-3,000 years of selling daughters for family survival
+9. **15/16 celebration dark origin** - Feudalism: displaying young women for men to bid on
+10. **Pederastic tradition** - Older people seeking younger for survival (life expectancy 30-40 years)
+11. **Romantic = Rome** - All love vocabulary from Roman imperialism and conquest
+12. **Slavery language** - Conquest, possess, romantic, relationship = imperialism terms
+13. **Necessity = expansion** - Never stops, constant, eternal—relationships based on necessity
+14. **All relationships expand you** - Worst and best both help you see something different from yourself
+15. **"What for?" question** - Capricorn gift: understanding why/what you need to learn in this relationship
+16. **Filling gaps vs. expanding** - Are you seeking to fill yourself or expand yourself?
+17. **The relationship you need** - Whatever relationship you're in is the one you need (until you understand the necessity)
+18. **Enlightenment = relationship transformation** - Old conditional ways end; new ways begin (not permanent aloneness)
+
+---
+
+## Questions for Reflection
+
+1. **What are all my relationships** (family, friends, couples, work)—list them without judgment
+2. **Am I in the need of these relationships?** - Why am I in this need?
+3. **What am I needing in the necessity of this relationship?** - Until you recognize this, it will repeat forever
+4. **Am I looking for relationships to fill gaps within me, or to expand myself?** - Be honest
+5. **Do I relate to people, or do I possess them?** - Check slavery conditioning
+6. **Am I free in these relationships?** - Or am I a slave to my needs?
+
+---
+
+## Alignment Practice
+
+**Setup:**
+- Sit comfortably, close eyes
+- Deep breath, focus on breathing
+- Softly, stretch the body as you breathe until relaxed
+- Become aware of environment
+
+**Visualization:**
+1. **Night descends** - With imagination, design a night, everything getting darker until you see deep sky full of stars
+2. **Sacred fire** - Deep breath; in front of you, see a fire
+3. **Feel the heat** - Heat of fire on hands, chest, face; see flames with different tones of orange, moving like a snake
+4. **Circle of relationships** - Become aware: not alone, seated in a circle with many people around the fire
+5. **Remember** - All of them are here to remind you the way you relate with the world
+6. **See the faces** - Deep breath; see faces of people enlightened by the fire in the center
+7. **Recognize relationships** - They are your relationships: friends, family, couples
+8. **Without judgment** - See around all these people with whom you've had the **best** and the **worst** relationships
+9. **Not the conflict** - Recognize in their faces: they don't represent themselves or the conflict
+10. **Expansion of light** - They are just enlightened by the **expansion of the light of the fire that you are**
+11. **Your own necessities** - The concept of these relationships is just the **expansion of myself on them**, pushed by my own necessities, my own needs
+12. **Ask yourself** - Deep breath: "From where am I relating with people? What is my need in these relationships?"
+13. **Remind yourself** - Each relationship is nothing but a tool to help me in my own expansion
+14. **Am I free?** - Am I free in these relationships? What are my needs that I am still slave in them?
+15. **Activate answers** - Deep breath, start to activate these answers within you by the vibration
+
+**Affirmation:**
+- "I recognize that all relationships I have come from my own expansion, from my own heart, my own heartbeat"
+- "All of them in which I project part of my expansion—they are part of my home"
+- **"I Am the Heart's Home"** (repeat three times)
+- "I recognize my relationships are not used to me because of my needs"
+- "I use my needs because I am willing to relate"
+- "I use, I use, I use"
+
+**Closing:**
+- Take hands to heart, feeling all this fire expanding from you
+- Deep breath, begin to bring all this fire through your body
+- Stretching, moving gently
+- Each one in your own time, come back here and now
+
+**Task:**
+Write down all these relationships so you can be aware **how you use these relationships**.
+
+---
+
+## Cosmic Heart Message
+
+**Code: Creativity**
+
+In the moment consciousness positions itself into matter, the appearance of a **creative mind in evolution** is key to contemplate the most intrinsic potential of divinity.
+
+**Art in all its areas is the foundation of all creation itself.**
+
+The universe is a being of enormous **creativity**, and its key lays in the ability to find infinite ways, solutions, forms, and different methods for every circumstance.
+
+---
+
+## Practical Application
+
+**Daily Practice:**
+1. **List all relationships** - Family, friends, partners, work colleagues—all emotional links
+2. **Identify the need** - For each relationship, ask: "What am I needing in this relationship?"
+3. **Expansion or filling?** - Check: Am I expanding myself or trying to fill a gap?
+4. **Practice "What for?"** - When entering or continuing a relationship, ask the Capricorn question: "What for?"
+5. **Notice slavery language** - Catch yourself using possession words: "my partner," "my person," "I have them"
+6. **Reframe as expansion** - Instead of "I need this person," say "This relationship helps me expand by showing me X"
+7. **Write the necessity** - When stuck in a heavy relationship, write: "What necessity keeps me here?"
+
+**Integration:**
+- Use the fire circle meditation when relationship conflicts arise
+- Practice "I Am the Heart's Home" when making relationship decisions
+- Remember: worst and best relationships both expand you—they're all tools
+- When enlightenment path begins and separation happens, remember: not permanent aloneness, just transformation
+
+**Capricorn Emotional Week:**
+Relationships reveal how we **use** emotional links with others. True use = expansion of ourselves. False use = filling gaps, possessing, slavery. The question is always: **"What for?"**
+
+**Revolutionary Practice:**
+Every relationship is showing you what you need to learn to expand. When you recognize the necessity and learn the lesson, the relationship either transforms or ends naturally—because the necessity is fulfilled. Don't hold on to fill gaps. Expand to be free.
+
+**There is hope. Hope depends on you.**
+
+---
+
