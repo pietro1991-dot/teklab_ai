@@ -1,304 +1,491 @@
 ---
-title: "Day 256 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 256 - Struggle: The Flexibility to Bend Without Breaking"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 256
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-17
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 256
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - I CAN affirmation
+  - Struggle
+  - wisdom
+  - sacral chakra
+  - creative
+  - fight
+  - flexibility
+  - reproduction
+  - defense
+  - territory
+  - bending
 
 practice_elements:
-  chakra: "Crown"
+  vibration: "Ry"
+  statement: "I Am Creative Wisdom"
+  chakra: "Sacral"
+  code: "Earth - the next planet is the Earth. The same size as Venus, but it has oceans of water and mobile contexts, where each bios here develops. Its name indicates its main characteristic from a human point of view. Life comes from the mix of water and clay, the fertile mud, where all things grow from the Latin humus, origin of the word human. It comes from fertile land. Our world is the only one capable of hosting life in our system and is the seed of the potential of the galaxy"
 
 ---
 
-# Day 256 - Consciousness Work
+# Day 256 - Struggle: The Flexibility to Bend Without Breaking
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
+- **Chakra Focus:** Sacral
+- **Week Theme:** Aries Emotional Week - Day 6
+- **Main Topic:** Struggle - Understanding the Natural Drive to Fight for Survival
+- **Vibration:** `Ry`
+- **Statement:** `I Am Creative Wisdom`
+- **Code:** Earth - the next planet is the Earth. The same size as Venus, but it has oceans of water and mobile contexts, where each bios here develops. Its name indicates its main characteristic from a human point of view. Life comes from the mix of water and clay, the fertile mud, where all things grow from the Latin humus, origin of the word human. It comes from fertile land. Our world is the only one capable of hosting life in our system and is the seed of the potential of the galaxy.
 
-## Introduction
+---
 
-Morning , good afternoon , good evening. I 'm like this because I was laying down in the floor outside releasing the mind. Another intent of areas.
+## Overview
 
-Today 's today of the Stockholm chara in the emotional week of areas and our topic for today is struggle. We can also say fight but it 's not the right meaning.
+Today we explore **struggle**—one of the most natural and misunderstood forces in existence.
 
-So let 's say struggle. Just I want to let you know before everything that I had how this path is going to end but for me I guess that the part of the I am is making me say so many things and to work so many things that I guess that at the end of this year I do n't know if I 'm going to be a very in-axis person or a very horrible person. I do n't really know.
+In spiritual communities, there's often a belief that we should be peaceful, calm, never fight, never get mad, always maintain spiritual peace and love.
 
-So just to let you know.
+**But this is not reality. This is not even spiritual.**
 
-So what I 've been thinking and going through this week is become aware of something that we usually do when we are in this kind of spiritual path and trying to reach a consciousness which is this idea that we have to behave very peacefully that we do n't have to say anything to fight or to keep the calm constantly all the time that we should not get mad or other or not to do something that is outside the spiritual peace and love and all this kind of things and try to to be in the center but as I 've been watching and understanding this days no this is not really a definition of being really in the spiritual path and something that make could help us to understand this is topic for today.
+Struggle is **natural**. It's **essential**. It's how all life survives, evolves, and thrives.
 
-So but when we start to go in these topics and we understand that we are here humans with people we exist because of these fights because of these struggles that we have through our history throughout the created our countries , our nations , our cultures everything was created because of these struggles and this is not only human nature is nature itself. In the world of insects in the world of plants in the world of minerals and mammals and reptiles all of us in nature are constantly struggling we are fighting to survive. The only thing that we humans have done with this is to put a culture and ethics and morals on this that 's the only difference that we have done. The thing is that the struggle in nature is related with two specific things which is one reduction and the other one defense.
+Understanding struggle means understanding life itself.
 
-So all beings in nature willing to survive are trying to fight every day for these two concepts to reproduce is to transcend the beings are in need of transcendence and to protect themselves is because we want to stay alive as long as possible.
+---
 
-So these two things made us strive every day made us fight with environment in order to survive.
+## Matias' Personal Note: The Spiritual Paradox
 
-So eventually the living beings when they start to do is that in order to thrive in order to have food space to do the reproduction space to feel secure they start to look for territory so they expand and fight for the territory. And this mechanism that we have is natural is something that we start to do in order to ensure our survival.
+"I've been thinking about how this path is going to end. I don't know if by the end of this year I'm going to be a very zen-axis person or a very horrible person. I really don't know."
 
-So this does that every one of the living beings starts to find their own way to make this struggle to go through this struggle.
+This honesty reflects the **Aries energy** of this week—direct, fierce, real.
 
-So when it 's humans we start to put culture this pursuit of reproduction , of territory and of defense.
+If Matias were "loving and patient" this week while teaching about Aries emotional energy (anger, fight, struggle), **it wouldn't be authentic teaching**.
 
-So once the culture starts to organize the territories they start to expand to look for more so they expand they go beyond and they start to acquire territories by fight and that 's what we call the hostile. The hostile will way of fighting.
+The teaching **embodies** the energy it's exploring.
 
-So when I 'm saying hostile this concept for the ancient ones are presented the foreigners which was host , host , the name host , host represented all the people that were from outside and foreign years and when they usually in the past when the people from the foreign lands they used to come it was to comply or to do something wrong.
+---
 
-So from that point of view they were coming to occupy the territories so that 's why they were called the hostile. The hostile are the ones that are that are trying to do something bad from the outside in the inside. But through the centuries we also call the host like someone that we are expecting from the outside to inside like host for example exactly the same word a host coming a host spite a hostile a host vitae so this this words come from this idea of the outside.
+## Struggle is Universal in Nature
 
-So basically this concept was referring to the idea of this people , this timely tribes they 're trying to protect the reproduction and defend the territory.
+### All Beings Struggle to Survive
 
-So understand how they connected these two topics is because the reproduction , sex and the defense , the fight were kind of the same. Why the same? Because I do n't need to help you much with the imagination to picture that during the process of sex and during the process of fighting two people are kind of doing weird things with the body like Ben one another and doing weird stuff.
+Struggle exists in:
+- Insects
+- Plants
+- Minerals
+- Mammals
+- Reptiles
+- Humans
 
-So when two people fight and when two people have sex kind of do movements and and I would like to clarify here that I 'm speaking about very ancient people and what I mean very ancient people I mean at time where love was not exactly we refer to today. It was not like sweet and kind and lovely , basically love was kind of a rape because it basically was we have to reproduce. I know that right now after I produce and let 's do it even if the other person did n't want to do it was something that was must should be done.
+**Every living being struggles to survive.**
 
-So that 's why for the old people there was no that love that we know today with the sex.
+The only difference with humans is that we've added **culture, ethics, and morals** to this natural process.
 
-So it was all about heating and grabbing the hair and beating the other ones and you know it was kind of weird and rough. I guess that some people do that still.
+### The Two Drives Behind Struggle
 
-So it was kind of like that. This is why sex and fight has the same etymology.
+All struggle in nature relates to two fundamental needs:
 
-So from the word , Léoq comes Luke 's station.
+1. **Reproduction** (transcendence)
+2. **Defense** (survival)
 
-So it 's the word Luke 's that means to move to when something bends something.
+Every being wants to:
+- **Transcend** through reproduction
+- **Stay alive** as long as possible through defense
 
-So Léoq means to bend to bend like this something something that is bending.
+These two drives make us **strive**, make us **fight** with the environment to survive.
 
-So when you bend something again something and so on.
+---
 
-So so this is why bending also gives that idea of bend something like this.
+## Territory and Expansion
 
-So that 's why Léoq was the original of Luke 's looksation that is when two bones separate from each other and they do n't connect.
+### The Need for Space
 
-So they bend.
+In order to thrive, living beings need:
+- Food
+- Space for reproduction
+- Space for security
 
-So that would be.
+This leads to the search for **territory**.
 
-So from the word Léoq we have the word Luke 's Sure. That means Luke 's Sure or as English you would say lost meaning that something bends to each other. Like something is bending one another. Another word that comes from Léoq is Láq Sus which is that is easily bending.
+Beings expand and **fight for territory**—this is natural, not wrong.
 
-So it 's flexible.
+### The Mechanism of Struggle
 
-So it 's Láq Sus something that is flexible. Léoq that means bend and gives the original of the word Luke 's Sure and Láq Sus flexible and the two of them gives the word in Spanish and in many Latin languages that represents to bend one another and that 's the description of how it was the fights in the moment. Like people were fighting and bending one another with the bodies.
+This mechanism ensures survival. Each living being finds their own way to:
+- Fight for space
+- Protect their territory
+- Ensure reproduction
 
-So they to to fight one another. The word Lucha Lúz that comes from this Léoq word which is to bend is related to the flexibility one must have in order to bend itself. And in English the word this word does n't exist but you have struggle. The word struggle.
+When humans entered this process, we added **culture** to the pursuit of reproduction, territory, and defense.
 
-The word struggle comes from the word strú that comes from the word stéo.
+---
 
-So the word stéo means something that is fixed the standing still okay that that 's stéo. And struggle means that it 's so fixed the break.
+## Etymology of Struggle and Fight
 
-So the two technologies Léoq which is to bend and stéo that is to fix that to have something fixed are related because one is describing that the problem is to bend and the other one is describing that the problem is that it ca n't bend okay so basically in Spanish and English the people solve different aspects of the same thing you know what I mean so difficult to be bending and the other one was saying as to bend so kind of like that etymology.
+### The Hostile: Foreign and Threatening
 
-So why the translation of Lucha in Spanish is not fight why I 'm not speaking about fight here because fight has the same etymology for the word bear in Spanish.
+When cultures organize territories, they expand beyond borders and acquire new territories through fight.
 
-So I will explain this.
+This led to the concept of **hostile**.
 
-So the word fight is a bit weird how it became fight but it was plan the all English plan that comes from the word here in Latin languages which is fails so so the word describes that people when they were having this struggle one another they were grabbing the hair so fight means to grab the hair of the other person that 's what it really means so it 's this aggression okay so as you see struggle is not related with fight because fight is describing when another one is being aggressive with someone else. When struggle is describing not as treat fight as try to as treat fight with other one. Struggle is referred to those situations in which you have to learn to bend yourself to be flexible to the conflicts of it.
+**Hostile** comes from **host** (Latin), meaning:
+- **Foreigners**
+- **People from outside**
 
-So from here I wanted to explain to you which is aggression and regression. The word aggression comes from the word ad genus and regression comes from the word regrets.
+In ancient times, when foreigners came, it was often to:
+- Conquer
+- Take territory
+- Do harm
 
-So agrees means to move forward to what is what what we have to work to move forward to the path we want and regrets comes from the word coming back to do again what we have walked so agrees aggression for English and Spanish both represents today something that is aggressive but in the beginning was related to before and this word was related to the person that without having any any situation that tells them to react they just move forward. They just moved to the path in the path of path.
+So "hostile" meant: **those trying to do something bad from the outside to the inside**.
 
-So that 's why through centuries the word agrees started to become aggression as something to fight because we are being ahead and who and in English the the opposite word of agrees which is regrets get word to red. Regret.
+But interestingly, we also use **host** to mean:
+- Someone we expect from outside (a guest)
+- **Hospitality** (welcoming the outsider)
 
-Okay so when you regret something that you have done or that have that has happened.
+Same word, different context.
 
-Okay so when you are gray and then you regret okay there would be the origin of the of these two words okay and these two words I am just explaining them because we have to understand that sometimes we become aggressive when we are trying to be loving or yeah loving.
+### Lucha: To Bend
 
-So as I was saying aggression is something that we usually do when we invade the space of others trying to convince them that what we see is the right thing and that what we are doing is a good way to do things.
+The Spanish/Latin word **Lucha** (struggle/fight) comes from **Léoq**, meaning **to bend**.
+
+**Léoq** → **Luctatio** (bending one another)
+
+Related words:
+- **Luxation**: when bones separate and don't connect (they bend apart)
+- **Laxus**: easily bending, flexible
+
+**Lucha** describes how people fought: **bending one another with their bodies**.
+
+### Why Sex and Fight Share Etymology
+
+In very ancient times (before "love" as we know it today), both **sex and fighting** involved similar physical movements:
+- Grabbing
+- Bending
+- Rough physical engagement
+
+Sex was not gentle and romantic—it was about **reproduction as survival**.
+
+So **struggle** and **reproduction** were energetically and physically similar: both involved **bending, flexibility, and force**.
+
+### Struggle: Fixed vs. Flexible
+
+The English word **struggle** comes from **stréo**, meaning **fixed** or **standing still**.
+
+**Struggle** = something so fixed it needs to break.
+
+**The Difference:**
+- **Lucha** (Latin/Spanish): The problem is **being too flexible** (bending too much)
+- **Struggle** (English): The problem is **being too rigid** (can't bend)
+
+Two perspectives on the same challenge.
+
+---
+
+## Flexibility: The Key to Survival
+
+### Laxus → Flexible → Survival
+
+The word **Laxus** (flexible, easily bending) is key.
+
+**To survive struggle, you must be flexible.**
+
+If you're too rigid (struggle), you break.
+
+If you're too flexible (lucha), you collapse.
+
+**Balance between the two** = strength.
+
+### The Sacral Chakra and Struggle
+
+The sacral chakra governs:
+- **Creativity**
+- **Reproduction**
+- **Sexuality**
+- **Adaptability**
+
+Struggle lives here because:
+- Reproduction requires **flexibility** (bending to create new life)
+- Creativity requires **flexibility** (adapting to new forms)
+- Survival requires **flexibility** (bending without breaking)
+
+---
+
+## Struggle in Spiritual Context
+
+### The Misunderstanding
+
+Modern spirituality often teaches:
+- "Don't fight"
+- "Let go of struggle"
+- "Be at peace always"
+
+**This denies a fundamental life force.**
+
+### The Truth
+
+Struggle is:
+- **Natural**
+- **Necessary**
+- **Creative**
+
+The question is not: "How do I eliminate struggle?"
+
+The question is: **"How do I struggle with wisdom?"**
+
+### Creative Wisdom (Day 256 Statement)
+
+**"I Am Creative Wisdom"**
+
+Wisdom in struggle means:
+- Knowing when to be flexible (bend)
+- Knowing when to be firm (stand)
+- Using the force of struggle to **create**, not destroy
+- Fighting for **life** (reproduction, defense) not for **ego**
+
+---
+
+## Reflection on Beliefs and Struggle
+
+### The Practice Question
+
+"What is my biggest struggle regarding my beliefs?"
+
+This connects to the **root** of struggle:
+- What am I defending? (belief system)
+- What am I trying to reproduce? (spread my truth)
+- What territory am I protecting? (my worldview)
+
+### Inflection and Reflection
+
+**Inflection** = bending inward (examining)
+
+**Reflection** = bending outward (expressing)
+
+The practice asks you to:
+1. Inflect (bend inward to examine your struggle)
+2. Reflect (bend outward to express/release it)
+
+This is **Lucha**—the sacred bending.
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortably. Become aware of your breath, body, and space.
+
+### Sacral Activation
+
+Visualize a light—your soul as divine spark.
+
+Bring this light to your **sacral chakra**.
+
+### Crown - Beliefs
+
+Think about your **biggest struggle regarding your beliefs**.
+
+Do you fight for them? Defend them? Try to spread them?
+
+**Inflect** (bend inward): Examine this struggle.
+
+**Reflect** (bend outward): Release it to the crown.
+
+### Third Eye - Thoughts
+
+What is your **biggest struggle regarding your thoughts**?
+
+Do they bend too much (confusion)? Too little (rigidity)?
+
+Inflect and reflect this struggle.
+
+### Throat - Truth
+
+What is your **biggest struggle regarding your truth**?
+
+Are you fighting to be heard? Defending against others' truths?
+
+Inflect and reflect.
+
+### Heart - Feelings
+
+What is your **biggest struggle regarding your feelings**?
+
+Are you defending your heart? Fighting to feel safe?
+
+Inflect and reflect.
+
+### Solar Plexus - Being
+
+What is your **biggest struggle regarding who you are**?
+
+Are you fighting for identity? Defending your sense of self?
+
+Inflect and reflect.
+
+### Sacral - Creation
+
+What is your **biggest struggle regarding your creativity**?
+
+Are you fighting to create? Defending your creations?
+
+This is the center of struggle—**reproduction and creation**.
+
+Inflect and reflect.
+
+### Root - Reality
+
+What is your **biggest struggle regarding your reality**?
+
+Are you fighting for survival? Defending your existence?
+
+Inflect and reflect.
+
+### Knees - Path
+
+What is your **biggest struggle regarding your path**?
+
+Are you fighting for your direction? Defending your choices?
+
+Inflect and reflect.
+
+### Ankles - Purpose
+
+What is your **biggest struggle regarding your mission**?
+
+Are you fighting to fulfill it? Defending it from obstacles?
+
+Inflect and reflect.
+
+### Sound Practice
+
+Sound: **Ry**
+
+**I am creative wisdom. I am creative wisdom. I am creative wisdom.**
+
+**I am. I am. I am.**
+
+### Integration
+
+Recognize that **struggle is not wrong**.
+
+Struggle is the force of **life fighting to survive, reproduce, and thrive**.
+
+The question is not "Do I struggle?" (you do, by nature).
+
+The question is: **"Do I struggle with wisdom?"**
+
+### Closing
+
+Take a deep breath. Stretch. Yawn. Return here and now at your own time.
+
+---
+
+## Key Insights
+
+- Struggle is universal in all nature—insects, plants, animals, humans all struggle to survive.
+- Two drives create struggle: reproduction (transcendence) and defense (survival).
+- Territory expansion is natural—beings fight for space, food, security, reproduction.
+- Hostile (host) = foreigners, originally those threatening from outside.
+- Lucha (Latin) comes from Léoq = to bend; describes fighting as bending one another.
+- Sex and fight share etymology because both involved bending, grabbing, rough physical engagement.
+- Struggle (English) comes from stréo = fixed; the problem is being too rigid to bend.
+- Lucha vs. Struggle: One problem is too flexible (collapse), the other too rigid (break).
+- Laxus = flexible, easily bending; key to surviving struggle.
+- Sacral chakra governs creativity, reproduction, sexuality, adaptability—the center of struggle.
+- Spiritual misunderstanding: "Don't fight" denies a fundamental life force.
+- The real question: Not "How to eliminate struggle?" but "How to struggle with wisdom?"
+- Inflection = bending inward (examine); Reflection = bending outward (express).
+
+---
+
+## Integration
+
+### Daily Awareness
+
+Notice where you struggle today.
+
+Don't judge it as "not spiritual."
+
+Ask: "What am I defending? What am I trying to create/reproduce? What territory am I protecting?"
+
+Then ask: **"Am I too rigid (can't bend) or too flexible (collapsing)?"**
+
+Find the balance.
+
+### The Wisdom in Struggle
+
+When you feel yourself fighting for something, pause:
+
+1. **Is this defense?** (Protecting what I need to survive)
+2. **Is this reproduction?** (Creating/spreading what I value)
+3. **Is this territory?** (Establishing my space in the world)
+
+If yes to any—**the struggle is natural and right**.
+
+The question becomes: **"Am I struggling wisely or reactively?"**
+
+### Flexibility Practice
+
+In one area where you're struggling:
+- If you're too **rigid**: Practice bending (consider other perspectives, adapt)
+- If you're too **flexible**: Practice standing firm (set boundaries, hold your ground)
+
+Wisdom knows when to do which.
+
+---
+
+## Week Context
+
+Aries Emotional Week - Wisdom Theme:
+
+- Day 1 (Crown): Answer - spiritual wisdom
+- Day 2 (Third Eye): Intention - conscious wisdom
+- Day 3 (Throat): Set Free - coherent wisdom
+- Day 4 (Heart): Impetus - loving wisdom
+- Day 5 (Solar Plexus): Problem - unified wisdom
+- **Day 6 (Sacral): Struggle - creative wisdom**
+- Days 7-10 continuing...
+
+We're deep into Aries emotional territory now—the raw, primal forces of life. Struggle is where **creation** meets **survival**. This is sacred work.
+
+---
 
 ## Q&A
 
-So what we usually do when we try to help someone without the other person asking for help first or ask in the question that 's also a kind aggression even if we are lovely and we are trying to help the other person what we are doing in the space of the other one if the other did n't do the question that 's aggression too.
+### Q: Isn't struggle a sign I'm not aligned spiritually?
 
-So just wanted to explain this because sometimes we do this thinking that is good for the other while we are doing but it 's not. This is another kind of aggression.
+No. Struggle is a sign you're **alive**. Every living thing struggles. The question is whether you struggle with wisdom (creative) or reactivity (destructive).
 
-So this is why we have to do aggression. Regression is something that helps us to understand what we have done good , what have we done bad , so on and the process we usually regret what we have done.
+### Q: How is struggle different from suffering?
 
-So these are the two types of struggle that we have. La Lucha at the active struggle in a lucha asia and passive struggle. What we have here with the active struggle is that this struggle is related to the outside , to the exterior. This means that it 's for to hear and now this place and now.
+Struggle is natural effort to survive and thrive. Suffering is resistance to what is. You can struggle without suffering if you accept that struggle is part of life.
 
-Okay and the goal of this here and now is the transformation the transformation of the environment.
+### Q: Why does the sacral chakra govern struggle?
 
-Okay.
+Because sacral governs **creation and reproduction**—the two main reasons beings struggle. We fight to create, to reproduce, to bring forth new life.
 
-So the passive struggle is related with the inside with interior of the being , an interior of the being which is related to beyond is to look beyond this reality and that 's why the purpose of this , the goal is that illumination illumination.
+### Q: What if I'm too flexible and keep collapsing in struggles?
 
-Okay.
+Practice **standing firm**. Set boundaries. Learn when to say "no." Flexibility without structure is collapse.
 
-So the people that are willing to transform the world to live here to live in this reality and to transform this environment , the world , society , everything that we have here , these people that are trying to live here and now in this world , in this time , will be working for the transformation.
+### Q: What if I'm too rigid and keep breaking in struggles?
 
-So we 'll be facing a lot of problems struggling in this reality , a lot of struggles from the outside that I have faced every day.
+Practice **bending**. Consider other perspectives. Adapt. Rigidity without flexibility is brittleness.
 
-Okay. And then we have the passive struggle which is the one that says , I am not going to waste any energy in the outer world. I am not going to fight in this world anymore because I need this this energy.
+### Q: Is all fighting justified as "natural struggle"?
 
-So the only thing that I 'm going to do is to go within , to stay in silence and to have the struggles facing my ego , seeing my soul , my darkness and all these things in order to be able to illuminate myself , to enlighten my being and from there to expand beyond this reality and this world.
+No. Wisdom distinguishes between: (1) Fighting for survival/creation (natural), and (2) Fighting for ego/power over others (destructive). Know the difference.
 
-So in order to not judge things before we judge one of them , both are good , both bad , are okay , it 's perfect. It does n't matter which one you choose. When this are to good path , you can do them , of course. But when it happened , we start to have some problems with this , when we are only fighting the outside and when we deny the inside struggle or the other way around , when we struggle in the inside and we deny the fighting the outside , both of them are needed in order to be coherent.
+### Q: How do I know if my struggle is wise or reactive?
 
-In order to have a perfect harmony of ourselves , we need these two kind of struggles. Because when you face this struggles in the outside to solve the problems , if you do n't face the struggles within or you do outside , one have any sense and meaning. And the same way around , when you expand yourself to the universe , if you did n't do anything here , will also be worthless.
-
-So for example , if I get the inner fight , sorry , the inner struggle , I go to the universe , the whole , the enlightenment , I become illuminated. What happens when I become illuminated is that everything is spurred , you can not see the ambulance of this part of their universe is impossible to see.
-
-So what we have is a lack of justice or a lack of balance , because we do n't understand what it is meant to be corrected.
-
-So what happened is that when there is an injustice , like someone killed somebody or raped somebody from that point of view from the universe , it was just another sale transcluding. It was not a problem.
-
-So that would be , I do n't know if you get this example. In another way , in another hand , the ones that are fighting outside , like the activist or for the rights of whatever , for the or , I do n't know , climate change , all good causes , all good things that you are fighting for , to change , okay , the world. But if you do n't do this inner work within this inner struggle with yourself , you will become that fight once and again , becoming the war itself.
-
-Okay , so once again , you will be repeating exactly the same pattern , because the only thing that completes you is fight.
-
-So for example , what is happening now is that the world is in an active struggle all the time , because the world is fighting for everything. Does n't matter what word you say immediately , the world will say , oh , that 's genius , that 's , I do n't know , that 's racist , that 's , I do n't know , everything can be something that you can judge and why , because we are constantly in the outer , active struggle , okay , so the people can not see now the different points of view that maybe other person has the different point of view , and that does n't mean that it 's a game , it 's just a different point of view.
-
-So without the inner struggle , we 're going to be in balance never , because we will always see the problem in the other one.
-
-So let 's remember how we can become a wise fighter , there 's no word in English for this , the wise struggle , I do n't know , it 's weird , but let 's say , to have a wise struggle , let 's say that.
-
-So a wise struggle must be done from three points of view , from the mind , the emotion and the physical , the physical.
-
-So remember , what is the struggle is to learn how to bend , okay , so the task here is to be flexible.
-
-So struggle means to know how to bend to be flexible.
-
-So that 's why from the mind we will call the wise fight as reflection. To an English is not exactly a reflection , it 's to reflect things to to think about the things , you know , when you think better about the things , emotion is inflection , and the physical is reflection.
-
-So to have the image , if I will fight , if I will face this struggle with this with the fist in front , okay , in the fist , in order to have the strength in the fist , I have to go back and be flexible to flex the arm coming back and to have the power to move forward again , okay , so that 's the image that we can have.
-
-So flex , go back and have the strength.
-
-So this teaches that in order to face something in front , to move forward , we should not always keep moving ahead.
-
-Sometimes we have to move backwards to to go away in order to see a different perspective.
-
-So in the level of the mind , this facing the struggle would be to mind the things , to do a reflection.
-
-So to do a reflection is to stop for a while and to think many times about the things that happened and will happen. To have an idea before I say I act , I do something.
-
-So we have to think about the things before we have to feature all the points of view , the perspectives before we say something , that 's the reflection , that 's the thinking about to be aware of , okay , that would be the flexibility of the mind.
-
-So in order to not to react to something from my own point of view , the reflection thinking about it in the mind will take me to to maximize the mind , the brain and how that before I say something by reaction , I just to sit down and think about the point of view of all the people involved.
-
-So I can have a whole idea of what I 'm going to do next. From the passive point of view of the struggle , what would we do? See down , observe and stay in silence. And from the active way , we should think about see the point of view of all the people and then to manifest an idea , a word that helps the others to see a different point of view , a different perspective , so we can work the transformation of something outside.
-
-Why this is complicated because we have been taught to fight from what we believe and not to fight for what it is. This is why our realities , our life are awful of this fights because we are fighting because of beliefs , not of the things as they are. In the emotional aspect , we have inflection. Infection is a flexibility that you will do within inside , in reflection.
-
-So what this means that what we have to do is to bend ourselves and to change the path of what we have to do in our life. The point of inflection is when you realize that everything that you have done or you have failed until now is wrong or it could be different.
-
-So you change that into another path into another action. And it 's really difficult because it 's emotional because in emotion has been storage all the preconceps of our path and how we think and feel and leave.
-
-So this is why the inflection is also treated a point of crisis in our life. It 's a moment in which we bend ourselves and we struggle with the change of our entire perspective. Physically , what it means , reflection. If I would say all the things that I say like this , the information that I am saying wo n't reach it in the same way.
-
-So as I said , in a physical way , if I do like this , information wo n't reach you. But if I start to do this and to speak and I am open constantly and I move and speak with a person and I do the gestures of flexibility , the energy would be different and then the standing will be also different.
-
-So when I am flexible when I speak , I 'm not fighting in what I say. But if I am like this , like military , I will be immediately doing the gestures of fight of going against. But when you start to be flexible with the body , you ensure yourself what you do , what you transmit that you are aware of what you are saying. Basically , what I am here describing is the struggle of the wise one.
-
-So the wise struggle would be the one that speaking outside will light the other ones to think about the things , the reflection , to reflect about the things. We 'll be the one inviting the others to make a point of inflection to change the way they live. I will be the one inviting the others to move , flex with flexibility.
-
-So it can break barriers that others have. But in order to change that in the outer world , the wise one has to do this in the inner world first. This would be the inner struggle in order to face the outer struggle.
-
-So what I can take from here is that it is our own decision to decide if we are going to shut up and not say anything when there is a struggle or if I am going to say something to try to change what is outside. When there is a struggle outside , when there is a problem projected in the outside , it means that there is something that we must learn , that we must try and in order to evolve. This means that if that thing is there , it means that we have the tools to face that.
-
-So this means that if we are here for transformation , we should not shut up when we see something that is unfair , something injustice. But it means that when we do the answer , we have first to make a reflection , an inflection , an inflection in order for it not to be a reaction. Yesterday for example , and with this I finished , I saw a comment that made me a moment ago , and I wanted to answer back immediately to that. But there was a moment that I said , no , I want answer like this.
-
-I will have to make a thinking about this before.
-
-So I will do this example. I will use this example.
-
-So I wanted to say something about this thing , this thing , was the rubbed idea , that yesterday I saw a comment that was bothering me , and that I felt like I had to answer back , because it was an awful comment. And sadly , I thought to myself , wait , I have to think about this. And because immediately what came to my mind was all this ideas , these thoughts that usually a lot of people were sharing to me , and I agree with that , is that do n't waste your energy , trying to answer to people that just do this kind of comments or whatever.
-
-So I agree with that. It 's like , I do n't want to give this energy , my energy , to just try to talk to one person and try to solve a problem or to say something that would be waste energy , of course. And suddenly when I started to reflect about this , would to think about this , I said , wait a moment , there are two ways of using this energy. I would waste the energy if I answered back as a reaction to this person for what that person said.
-
-So I would be wasting that energy , because I would be just throwing all the effort , the effort to to try to answer back to only one person. But what I can do is the opposite. What I can do is just to think to make a mind or reflection of what that person said , think about do this reflection and then make a point of inflection in which I decide to share a new idea of to answer back , but not to the person , but to all of you or to all of people. Like using the energy of that conflict in order to teach something that is productive.
-
-So you change that , which is the point of inflection of thing. And then you make the move , the reflection of sharing it in a different way , relaxed.
-
-So that would be an example of how to manage that energy , and not to think that you 're wasting your time when you answer back.
-
-So I 'm one of those persons that usually do n't answer do n't do those things , answer back or fight or whatever.
-
-So if you have follow , I never do those things. I only did this week to answer back to some things , because I was asked to by my higher self to do it in order to practice this. To practice that is not a waste of time to put this energy in the others when you take it in order to educate and to share the point of you and to make an inflection of this. I just , I just know that I spoke too much , but I guess that this is something that it really was needed to be spoken , because the time is all about this.
-
-This time that we are leaving is all about judging everything , everyone , all the time , once or another. We are losing ourselves because of this. I 've been I 've been reading right now here in some of the comments that there 's so many ego , a lot of ego here and it 's like , yes , otherwise it would be without ego.
-
-So it 's okay to have ego , do n't worry.
-
-So there was someone , yes , they also said that what my reaction from yesterday was showing my Argentinian ego.
-
-So that was a bit synophobious from that person , but to qualify a whole nation of being selfish , but yeah , we have that. But anyway , the thing is that we are doing that. We are judging all the time each one of us about whatever. And I guess that is important to understand to know that we have to learn to do this reflection , inflection , and reflection in order to have the proper fight.
-
-Let 's say. , so I know that I speak too much , but just you have to know that in in three months , I just disappear and I stopped doing this.
-
-## Daily Practice Elements
-
-So , so no more. The vibration for today is Rui. The statement for today is I am the creator with them. The code for today is Earth.
-
-The next planet is the Earth. The same size as Venus , but it has oceans of water and mobile contexts , where each bios here develops. It 's name indicates its name indicates its main characteristic from a human point of view. Life comes from the mix of water and clay , the fertile mud , where all things grow from the Latin human , origin of the word human , it comes from fertile land , our world is the only one capable of hosting life in our system and is the seed of the potential of the galaxy.
-
-## Energy Work
-
-I become aware of the space , find myself in the body that I inhabit on my freedoms. I observe in front of me the light of my consciousness , my soul in the shape of a divine spark. You can I. I attract this light to my crown chapter , and I ignite it in my crown.
-
-I think about the biggest struggle that I have regarding my beliefs. I recognize reflect on it to the inflection and the flex to the outside , taking this part to my third eye. I take a moment to think about the greatest , biggest , strong that I have regarding my thoughts. I make a reflection about it.
-
-I do the inflection within and expand this part with reflection. I descend this part to my third chapter. I think a moment about my biggest struggle related to my truth. I do reflect about this.
-
-I reflect within and I expand this part to the outside fleeing. I descend this part to my heart. I take in moments of thinking about my biggest struggle regarding my feelings. I do a reflection about this.
-
-I make an inner reflection and I do the reflection expanding this part to the outside. I descend this part to my flees. I recognize for the moment what the biggest struggle with myself. I do a reflection about this.
-
-Then an inner reflection. I expand fleeing towards the outside. I descend this part to my second. I take a moment to think about my biggest struggle to be able to create.
-
-I make a reflection of this and inner inflection. I descend this part to the outside fleeing myself. I descend this part to my root chara. I think about the biggest of the struggles regarding the reality that is around me.
-
-I reflect about this. I do a tiny reflection and expand the balance part to the outside with a sledge suit. I descend this joint to my knees. I recognize the biggest of the struggles related to my family.
-
-I do a reflection about this. A tiny lecture within. And I expand to the world 's advanced part with a legion. I descend this device apart to my feet.
-
-And I think about what is the biggest of most struggles to be able to follow my path to be free. I make a reflection about this. I realize an inflection. I expand this device apart to the world by.
-
-I take a deep breath , expand the device apart towards all directions of my being. I developed a forecast on the forest and trail. Oiieiited this I am the creator of Wisdom. I am the creator of Wisdom.
-
-I am the creator of Wisdom. I am. I am. I am.
-
-I am. I am. I am. Thank you everybody for being here as always.
-
-See you tomorrow. I am the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+Ask: "Am I defending what I truly need? Am I creating something valuable? Am I protecting necessary territory?" If yes, it's wise. If it's just ego protection or power games, it's reactive.
 
 ---
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

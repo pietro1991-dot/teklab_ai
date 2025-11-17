@@ -1,380 +1,615 @@
 ---
-title: "Day 248 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 248 - When?: The Question of Time and the Eternal Present"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 248
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-17
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 248
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - I AM presence
-  - month hols
+  - When
+  - time
+  - space
+  - knees chakra
+  - horizon
+  - eternal present
+  - here and now
+  - matter
+  - transformation
+  - gravity
+  - relativity
 
 practice_elements:
-  chakra: "Crown"
+  vibration: "Gu"
+  statement: "I Am the History's Vision"
+  chakra: "Knees"
+  code: "Centaurus - representing the race of half men and half horses, the transgression of laws, but among them Chiron made the difference, being the wise one that prepared men in knowledge and arts of all kinds, reminding us about strength in times of struggle, the unity between beast and reason"
 
 ---
 
-# Day 248 - Consciousness Work
+# Day 248 - When?: The Question of Time and the Eternal Present
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
-
-## Introduction
-
-Good morning , good afternoon , good evening to all of you. How are you? Well , come another day.
-
-Today you 're related to the niece. We are still in the week of the mind in the month of areas. Who have said that this week would have been easy? I just wanted first to enforce a concept just in case that it has n't been clear along this week.
-
-## Q&A
-
-So as you have seen along this week , we have been speaking about very easy concepts that basically they are basically the questions. We might think that the questions are very easy topics to talk about , but as you have seen of the things I 've been writing this week , it is not. It is much more complicated and much more deep and profound.
-
-Another thing that I just realized when I was writing the post today , it was about how important is to know the origin and the terms of the things that we usually use daily. And with this , I mean about the origin of the words , the terminology and not only the terminology of the words , but also the history of the terms that we are talking about.
-
-So as when we say for example , this about having a quantum leap or change our consciousness into towards the light and all this concepts and terms that we are talking about. And so we are talking about the terms that we use to use every day trying to move forward. And that if we do n't know correctly where it comes from , we can make this mistakes when we are heading to the future. Usually when we speak about etymology , I love to think about this , like if we are talking about our ancestors.
-
-When we are doing the process of healing because we want to go forward because we want to change ourselves , transform our lives or whatever. We usually go to the past. We usually start to make these therapies to think about ourselves. Why we are like we are , why we are not being able to transform ourselves towards the future.
-
-So what we have to do there in that moment is to look for the past for what our parents have done , what our grandparents , our grandparents , our grandparents and all our ancestors. And when we understand the point of view and the reality of our ancestors , we can now understand our life today. And what can we do with our life towards the future?
-
-So with the words and the concepts is kind of the same. This is why when I write the etymology of the words or explain the concepts in a neutral way in the blog or here , I would love for you to not to take that as just data or accuracy of history. Because it 's not what I meant. What I really mean by explain this is for us to rethink about the concept that we are using in order to change our future.
-
-That 's the main goal of understanding the words and the etymology and all that.
-
-So I wanted to clarify this.
-
-So I say this because today I explain mostly all the etymology of the words for time for all the origin of how we explain time , how we use time as speaking about.
-
-So when we understand that we are using the words when we , when we , when we , when we , when we realize that we are using all the words for time related to space.
-
-So we can understand that we are trapped in the third dimension all the time because even the fourth dimension we explain it through space.
-
-So we do n't have the terms for the fourth dimension. That 's why we still are bounded to this one. And the same thing happened when we speak about the quantum mechanics or the quantum leap because quantum is a word that describes the times quantity of things. And we are talking about going into the dimension where things are not quantified.
-
-It 's impossible to quantify the consciousness.
-
-Okay.
-
-So when we speak about the quantum reality , we are speaking about packages of information , not something free. Yes.
-
-So that 's why it 's so important to understand the origin of the words and why we use them and how we use them in order to keep moving.
-
-So I 'm saying this because when we are , when we are in this process of change of consciousness , we sometimes used to forget the importance of how and why we use certain words. And why we feel or do certain things , my culture , my words , my languages , whatever.
-
-So we are a whole. I know that there are people that say , I just need to feel , I do n't need to understand anything , but it 's not exactly this. In order to really be something you have to understand things , even if you feel them. And of course , that we are around.
-
-If you want to understand things , it 's necessary for you to feel also.
-
-So it 's important to remember that we are holistic beings , that we are everything.
-
-So that 's why we need to have a little bit of understanding of all the topics and all the things.
-
-So this is why in this path we are speaking about many topics , many things , all mixed. Like how it was the seven dimension , how it was the economy , how to understand the function of the lineal gland , also how to use the genitals , I do n't know.
-
-So we are mixing all the things all the topics together because everything is really connected. And in order to change our consciousness , we have to expand our consciousness our way of seeing things. If we do n't change a way with the with the things , if we do n't expand the way in which we see things , what is happening is that we are just expanding our own point of view of things.
-
-Okay , so that 's why it 's important to know a little bit of everything and be open to every possibility.
-
-So also in pretending to understand and with this I wrapped the idea of this introduction.
-
-Remember that what I do is not the complete truth is not the real truth what I am sharing is just maybe a pedagogy way to understand the universe. And so remember that in order to find much more answers you have to look for all these data in different ways.
-
-Okay , so you have to look for more information much more data around.
-
-So once said this let 's try to explain the question when.
-
-So remember as always the etymology.
-
-So in English the word when from where it comes from go do go do. Which is the same origin as quantum Spanish. Qu remember is the object and door means place the place where the object is so the question is the object where the object where and in Latin it transforms the core transforms into quad and quad. When though.
-
-The object where the object where.
-
-So this quad is transformed as when. In the Nordic languages that gives you when.
-
-Okay , so. That 's it.
-
-So now the question would be why. The question of when is formed by the particles of space. And this is related to the way in which the ancient ones saw the world. And as in the western cultures in the present that have divided time and space as different things.
-
-So now for sure we can say that in the ancient times they had gods for the time , but they had not got for space. They had a god for the earth and God for the water God for the air. Because not a god for space like the great people they had the god chrono which is the god of time. But.
-
-Actually if you see carefully the god of time was the one transforming the matter.
-
-So it was the one related to the past of transformation of mother.
-
-So the god of time was also the god of space. For the ancient ones time and space was the same thing.
-
-So as you 've seen. As you have seen. Is ourselves that today we have. We have divided the concept of time and space.
-
-And then we started to put them together again with the relativity of time. There was this covered just a few decades ago.
-
-So this relativity of time started to give us much more philosophy today with philosophy with movies and movies and. And spirituality that we start to speak about the unity between time and space. But this is just from the last years. But it can call as the attention when we look backwards in the past and we figure out that.
-
-For the ancient ones time and space was the same thing and that 's why the question. When. It 's made up with. Words that are related to space.
-
-So why. For those who believe that the earth is flat. I 'm sorry for the next. You 're going to say.
-
-So this is a curvature of earth. Here we have a little person. Can you see it.
-
-So this what we have here is what we call the line. Of horizon. Horizon.
-
-So this means that this layer person here ca n't see anything else from this distance. That 's the line that that person can see.
-
-So this is the line that we have here.
-
-So now. Why is this called horizon? Because. The symbol is hodoski close.
-
-Hodoski close in Greek means path todos path. And nichols circle circle.
-
-So hodoski close. This describes how the stars in a circle are way. They move and they disappear and they come back again like a cycle.
-
-Okay , like a circle. Once again. And they disappear and appear on a path on the way. In the.
-
-Perspective is like a path to where they disappear.
-
-So this is why they call that horizon. Horizon is the path of the cycle of the stars.
-
-Okay.
-
-So now when the earth starts to spin when there are spin. The sun starts to move like this.
-
-So we start to see the sun.
-
-So when the sun touches the line , the visual line of horizon is when we see the sunrise.
-
-So the first race of light comes to this little person here in the morning. The sun rises here and it moves around the sky. And it disappears in this region here in this position. What is really happening that the earth is moving in that direction.
-
-The earth is moving in that direction. That 's why the sun seems to move in that way in that direction.
-
-So in the beginning , this little person here can not measure time because that 's an understanding concept of time.
-
-So the only thing that that person can do is to describe the things that it can see.
-
-So now this little person here can see the sun rising here.
-
-So it starts to shine the shine of the light.
-
-So it is shining all these moments until it disappears here.
-
-So the shining light will be called geo. That gives the word day.
-
-So that 's why we have day.
-
-So to this word when the sun sets , there is no more light.
-
-So no more shining things. And that 's why they put particles of negation , the nine in the word. Diego , diego , which will give not , not. The word not.
-
-Not , that gives night.
-
-So day means light , bright , and night means no bright , no shine.
-
-So from this comes the names of what is happening during the day.
-
-So in the European people we will see the all people. We will see that the light that is starting to come is something good that is coming.
-
-So that good is ma , it 's something good that I will have.
-
-Okay , so oh , something good. And this good is new because it 's coming something new , which is ian. Ian is something new means new.
-
-So mania is the one that gives origin to more than one.
-
-So the word not , the word not , the word not , the word not , the word not. The origin of this part of the day. This word means the light in the middle of the sky , the light in the middle. And that is midday.
-
-So in English we have here the concept of being slow , which is taro and being behind which is earth.
-
-So earth is behind something that is slow. Yes , so the perception is that the light is going slower. Is the perception that they had the light is going slower.
-
-So that 's why after.
-
-So after loon after loon. Yes , would be that. But also.
-
-So the thing is we have another word , which is new again. Ian.
-
-So , often n. F n is the one that gives origin to the word evening. F n.
-
-So it 's behind something new. Behind the horizon comes something new evening.
-
-So it 's a beautiful word.
-
-So as you see , we have here how the ancient ones used to see the position of the stars and the sun during the day. It 's not about concepts is about how they saw the light.
-
-So there were also some stages that divided the day according to the position of the light.
-
-So in the ancient times the god of light , the god of the sun , was blessing humans with the hands in the rays of light.
-
-So we had many different blessings or ways to be blessed. And we call that divinity , the divine.
-
-So many different divinities in the light. Each one of the rays during the day was a divinity called hul.
-
-So I was just saying that in the ancient times the word light was hul.
-
-So when they were talking about the different gods of the reality , they call them the hul.
-
-So that 's the origin of hours , the hours.
-
-So as I , as we can see now , all the words like before , before , after , before , after.
-
-Now they are all words that come directly from , that come directly from the physical concepts from the space.
-
-So from this concept we can understand that all the time that we are speaking about temporal things , we are constantly related them to physical things.
-
-So related to these , how to understand the , how we understand time related only through space , we can take the part of the , of the twins that for example , you have a train brothers and you and one of them stays on earth on the other one goes on the spaceship for years.
-
-So what happened to the one that stays here on the planet is that gets older really fast. And the one that went for years to the space can back being young , like in the moment when you left.
-
-So this happens because of gravity , because time is related to the gravity of the planet. We are bounded to the time because of the gravity in which we leave , but if we leave this gravity , we go away from the gravity of the planet , the time starts to be different , the hours , the way which we transform ourselves , start to be different according to others , other gravity is another spot.
-
-So this is why we reached the point to understand that everything that we can call time is really the matter transforming itself constantly.
-
-So in the macro cosmos time does n't really exist because time is related to the movement of space.
-
-So actually there is nothing else in the reality of the macro cosmos than the present , the constant here and now. Is the only thing that really exists in the space , nothing else.
-
-So the only way where you can really leave the time is in the micro cosmos. When you go in the micro cosmos , what happened is that the particles are not more bounded by the one tick reality. The one tick reality is the measurable reality. The things that you can measure in quantity , okay.
-
-So behind the micro cosmos , behind the quantum reality behind the things that you can measure and count. You have particles that behave totally different , like waves or whatever , doing whatever they want and only one particle has so many probabilities that can be up and down , back and forward inside and outside at the same time.
-
-So this is how we can say that the macro cosmos is controlled by the space reality and the micro cosmos is controlled by the time reality. But both of them are conditioning each other. This is why the word when the question when is talking about the position that an object has in a specific space.
-
-So here 's when you can say when the sun is in the horizon starts the morning. The sun is above is the midday. When the sun is in the horizon , again , is the sunset the evening. When there is no sun , there is night.
-
-As you have said , as you have seen , is about the position of something in this sky that determines the time , but it 's not really time , time does n't really exist. The thing that I 'm saying is that there is the eternal present. Matter is constantly in the present all the time. And when I say the present here and now , constantly , I 'm speaking about the material reality , which is the quantity reality , which means from the atoms up to all this reality that we see , from atoms up.
-
-So that 's the physical aspect of this reality. I 'm not speaking about the other one. I 'm speaking about this one that we know.
-
-So in this way we can understand now that people does n't age or die because of time. We die and we age because the molecules decomposed because the oxygen dissolves the cells because the cells fall apart because the matter itself starts to decomposed. It 's not because of time , it 's because of matter transforming.
-
-So this means that time is not really something apart from space. It 's the same thing. It 's almost the same thing related to the gravity of matter. This is why everything really exists here and now.
-
-This is why people say we have to be here and now. The only thing that exists is here and now because it 's literally like that. It 's the only thing that exists is here and now.
-
-So now the thing is like , so how can we explain the connections through time and time traveling? Well for that answer we have to go to the microcosmos where one body , one particle , one particle , can be at the same time in many different places. Behaving like many different things , only one particle.
-
-So this means that one particle in the microcosmos can be on the back , behind , before or in front , after. Or you side. Here.
-
-Now.
-
-So that same particle can be in different times.
-
-So it means different spaces.
-
-So what are the different times? In reality different times are different spaces. From the point of view of the microcosmos in a physical way in the matter , a past life has happened but is still alive in the memory of the cell. That 's why we can remember it.
-
-## Guided Meditation
-
-So it is still alive in the cells of the matter today. But from the point of view of the microcosmos , that past life is happening actually happening in one parallel reality. This is why when we start to get connected in meditation within with ourselves , we can connect with the past and the future.
-
-Remember , the when is a matter of location. In the microcosmos it 's related with where I locate the things. In the microcosmos it 's related to where. Where are manifested the possibilities of only one particle.
-
-All this because trying to understand the etymology of the word when. I know it 's a lot of things , a lot of data every day. And this day has been very much.
-
-So there 's no need to understand it.
-
-Now , okay , there 's no need to understand it now.
-
-So do n't push yourself to try to get it to get these things now. It really does matter. We 've been like this every day.
-
-## Daily Practice Elements
-
-So you have it here. The vibration for today is Google. The statement for today is I am the history of vision. The code for today is Centaurus.
-
-Representing the race of health men and health horses. This being , this being represented the transgression of the laws and the fact. But among them , children made the difference. Being the wise one that prepared men in knowledge and arts of all kinds.
-
-This , it starts remind us about the strength in times of struggles. The unity between beast and reason. Let 's go to alignment. I concentrate in my breathing as I recognize the place where I find myself in.
-
-## Energy Work
-
-And the body I find myself in. And I observe , above me , a light which is consciousness in the shape of a divine spark. And taking the breath , I night it. I descend this divine spark to my crown.
-
-Taking the breath , I expand this divine spark shaping my crown. And then it 's light. I activate the question. When.
-
-The night. I descend this divine spark to my turn on. Taking the breath , I expand this divine spark throughout all my brain. And.
-
-## Q&A
-
-I am in the light. I activate the question. When. Night.
-
-I descend this divine spark to my throne. Taking the breath , I expand this divine spark throughout all my throat. And my voice. And in it 's light , I activate the question.
-
-When. Taking the night. I descend this divine spark to my heart. I.
-
-Taking the breath , I expand this divine spark throughout all my heart. And in it 's light , I activate the question. When. I.
-
-I. I descend this divine spark to my flees. I. Taking the breath , I expand this divine spark throughout all my brain.
-
-I. And in it 's light , I activate the question. When. I.
-
-Good night. I descend this divine spark to the. I. Taking the breath.
-
-I expand this divine spark throughout all my created center. I. And in it 's light. I activate the question.
-
-## Energy Work
-
-When. I. I descend this divine spark to my root chara. I.
-
-## Q&A
-
-Taking the breath. I. I. And in it 's light , I activate the question.
-
-When. I. Good night. I.
-
-I. I. I. I.
-
-I. I. I descend this divine spark towards my feet. I.
-
-I. I. I. I.
-
-I. I. I. I.
-
-I. And I recognize. When. I will believe in me.
-
-When. I 'm going to think more in me. When. I 'm going to say my truth.
-
-When. I 'm going to express my feelings. When I 'm going to be. When.
-
-When. When. When. When.
-
-When. When. When. When.
-
-When. When. When. When.
-
-When. When. When. When.
-
-Thank you everybody for being here as always. And see you tomorrow. The same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Knees
+- **Week Theme:** Aries Mental Week
+- **Main Topic:** The Question "When?" and Understanding Time Through Space
+- **Vibration:** `Gu`
+- **Statement:** `I Am the History's Vision`
+- **Code:** Centaurus - representing the race of half men and half horses, the transgression of laws. Among them, Chiron made the difference, being the wise one that prepared men in knowledge and arts of all kinds. This constellation reminds us about strength in times of struggle, the unity between beast and reason.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Today we arrive at the knees chakra of the Mental Week of Aries. The topic is the question **When?**
+
+This day requires us to understand something profound: **All our words for time are actually words for space.**
+
+Understanding "When?" reveals that time doesn't exist as we think it does—that everything is actually the **eternal present**, and what we call "past" and "future" are really different **locations** in space.
+
+This teaching connects etymology, quantum physics, and consciousness to show us why we say **"here and now."**
+
+---
+
+## Why Understanding Etymology Matters
+
+### Healing Through Understanding Origins
+
+When we do healing work, we go to the **past**—to understand our parents, grandparents, ancestors.
+
+When we understand the point of view and reality of our ancestors, we can understand our life today and what we can do towards the future.
+
+**With words and concepts, it's the same.**
+
+### Etymology is Ancestral Healing for Language
+
+Understanding where words come from helps us **rethink the concepts** we use to change our future.
+
+If we don't know correctly where words come from, we make mistakes when heading to the future.
+
+### We Are Holistic Beings
+
+Some people say: "I just need to feel, I don't need to understand anything."
+
+But this isn't true. In order to really **be** something, you have to understand things, even if you feel them.
+
+And if you want to understand things, it's necessary to feel also.
+
+We are **holistic beings**—we are everything. We need a little bit of understanding of all topics and all things.
+
+---
+
+## Etymology of "When"
+
+### Quo + Door
+
+In English, the word "when" comes from:
+- **Quo** (or **quo-do**) = the object
+- **Door** = place
+
+The question is: **the object where?** The place where the object is.
+
+### In Latin: Quando
+
+In Latin, it transforms:
+- Quo → Quad
+- Quad + do → Quando
+
+**Quando** means: the object where, the object where.
+
+### In Nordic: When
+
+In Nordic languages, this **quad** transformed into **when**.
+
+---
+
+## Why "When" is Made of Space Words
+
+### Ancient Ones Didn't Separate Time and Space
+
+For the ancient ones, **time and space were the same thing**.
+
+They had gods for:
+- Earth
+- Water
+- Air
+
+But not a "god for space" as a separate thing.
+
+### Chronos: God of Time and Transformation
+
+The Greek god **Chronos** is called the "god of time," but actually he was the one **transforming matter**.
+
+He was related to the transformation of matter—the process of change.
+
+The god of time **was also** the god of space.
+
+### We Divided Time and Space Recently
+
+**We** (in modern Western culture) divided the concept of time and space.
+
+Then just a few decades ago, we started putting them back together with the **relativity of time** (Einstein).
+
+The relativity of time started giving us philosophy, movies, and spirituality that speak about the **unity between time and space**.
+
+But this is just from recent years.
+
+### The Ancient Truth
+
+For the ancient ones, time and space **was the same thing**.
+
+That's why the question "When?" is made up with words that are related to **space**, not time.
+
+---
+
+## Understanding Time Through the Horizon
+
+### The Curvature of Earth
+
+Imagine a little person standing on the curved surface of Earth.
+
+(For those who believe Earth is flat: I'm sorry for what follows.)
+
+This person has a **line of horizon**—the farthest distance they can see.
+
+### Horizon: The Path of the Cycle
+
+Why is this called **horizon**?
+
+In Greek: **hodos-kyklos**
+- **Hodos** = path
+- **Kyklos** = circle
+
+**Horizon** describes how the stars in a circle move, disappear, and come back again like a cycle—on a path, a way.
+
+The horizon is **the path of the cycle of the stars**.
+
+---
+
+## Day and Night: Light, Not Time
+
+### The Sun's Movement (Earth's Movement)
+
+When the Earth spins, the Sun appears to move across the sky.
+
+- The Sun rises at the horizon in the morning
+- It moves across the sky
+- It sets at the horizon in the evening
+
+What's really happening: **the Earth is moving** in a direction, making the Sun seem to move the opposite way.
+
+### Ancient People Couldn't Measure Time
+
+Ancient people couldn't measure "time" because that's an abstract concept.
+
+They could only **describe what they saw**—the position of light.
+
+### Day: Shining Light
+
+The shining light was called **geo** (or **deo**), which gives us the word **day**.
+
+Day means **light, bright, shining**.
+
+### Night: No Light
+
+When the Sun sets, there's no more shining.
+
+They put a particle of negation (**ni**) in front of **deo**:
+
+**Ni-deo** → **night**
+
+Night means **no bright, no shine**.
+
+---
+
+## The Parts of the Day (Based on Light Position)
+
+### Morning
+
+The light starting to come is something **good** (**ma**) that is **new** (**ni** or **ian**).
+
+**Ma-ni-a** → gives origin to **morning** (or **mañana** in Spanish).
+
+Morning means: **the good new light**.
+
+### Midday
+
+The light is in the **middle** of the sky.
+
+**Mid** + **day** = **midday**.
+
+### Afternoon
+
+In English: **after** + **noon**.
+
+The concept is the light is going **slower** (**tardo** in Latin = slow, behind).
+
+The perception was that the light is going slower, or that we're **behind** something.
+
+**After-noon** or **tarde** (Spanish) = behind, slow.
+
+### Evening
+
+**Even** comes from **eben**, meaning **behind** something **new** (**ian**).
+
+**Eben-ian** → **evening**
+
+Behind the horizon comes something new (the night).
+
+---
+
+## Hours: Rays of Divine Light
+
+### The Ancient God of Light
+
+In ancient times, the god of light (the Sun) was blessing humans with rays of light.
+
+They had many different blessings or ways to be blessed, called **divinities** (the divine).
+
+### Hul: Light and Hours
+
+Each ray of light during the day was a divinity called **hul**.
+
+The word **light** was **hul**.
+
+When talking about the different gods of reality, they called them **the hul**.
+
+That's the origin of **hours**.
+
+The hours are the different rays of divine light throughout the day.
+
+---
+
+## All Time Words Come from Space
+
+### Before, After, Now
+
+All these words—**before, after, now, then, when**—come directly from **physical concepts**, from **space**.
+
+Every time we speak about temporal things, we constantly relate them to **physical things**.
+
+### We Are Trapped in the Third Dimension
+
+When we understand that we're using the words for time related **only** to space, we can see:
+
+**We are trapped in the third dimension all the time.**
+
+Even the fourth dimension (time) we explain through **space**.
+
+We don't have the terms for the fourth dimension. That's why we're still bounded to this one.
+
+---
+
+## Time and Gravity: The Twins Paradox
+
+### Two Twins
+
+Imagine twin brothers. One stays on Earth, the other goes on a spaceship for years.
+
+What happens?
+- The one who stays on Earth gets older really fast
+- The one who went to space comes back young, like when he left
+
+### Why? Gravity
+
+This happens because of **gravity**.
+
+Time is related to the **gravity** of the planet.
+
+We are bounded to time because of the **gravity** in which we live.
+
+If we leave this gravity, the time starts to be different—the hours, the way we transform, starts to be different according to other gravities in other spots.
+
+### Time is Matter Transforming
+
+This is why we understand: **everything we call time is really matter transforming itself constantly.**
+
+---
+
+## The Eternal Present
+
+### In the Macrocosmos: Only the Present
+
+In the macrocosmos, **time doesn't really exist** because time is related to the movement of space.
+
+There is nothing in the reality of the macrocosmos except the **present**, the constant **here and now**.
+
+It's the only thing that really exists in space.
+
+### People Don't Age Because of Time
+
+People don't age or die because of "time."
+
+We age and die because:
+- Molecules decompose
+- Oxygen dissolves cells
+- Cells fall apart
+- Matter itself decomposes
+
+It's not because of time. It's because of **matter transforming**.
+
+### Time is Not Apart from Space
+
+Time is not really something apart from space.
+
+It's almost the same thing, related to the **gravity of matter**.
+
+---
+
+## The Microcosmos: Different Times, Different Spaces
+
+### Where Time Really Exists
+
+The only way you can really "leave" the time of the macrocosmos is in the **microcosmos**.
+
+In the microcosmos, one particle can be **in many different places at the same time**.
+
+One particle can be on the back, behind, before, in front, after, beside—**here, now**—all at once.
+
+### Different Times = Different Spaces
+
+From the point of view of the microcosmos, **different times are different spaces**.
+
+### Past Lives and Parallel Realities
+
+A past life has happened, but it's still alive in the **memory of the cells**—that's why we can remember it.
+
+From the point of view of the microcosmos, that past life is **actually happening** in one **parallel reality**.
+
+### When is About Location
+
+The question "when" is a matter of **location**:
+- In the macrocosmos: related to **where** I locate the things
+- In the microcosmos: related to **where** are manifested the possibilities of only one particle
+
+---
+
+## Why We Say "Here and Now"
+
+### The Literal Truth
+
+People say: "We have to be here and now."
+
+This isn't just a nice spiritual saying.
+
+**It's literally true.**
+
+The only thing that exists **is** here and now.
+
+### Matter is Constantly in the Present
+
+Matter is constantly in the present all the time.
+
+When I say "the present, here and now, constantly," I'm speaking about the **material reality**—from atoms up to all this reality we see.
+
+That's the physical aspect of this reality.
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortably. Close your eyes. Concentrate on your breathing.
+
+Recognize the place where you find yourself, and the body you find yourself in.
+
+### Crown Chakra
+
+Observe above you a light which is consciousness in the shape of a divine spark.
+
+Taking a breath, ignite it.
+
+Descend this divine spark to your crown.
+
+Taking a breath, expand this divine spark, shaping your crown.
+
+In its light, activate the question: **When will I believe?**
+
+Ignite.
+
+### Third Eye
+
+Descend this divine spark to your third eye.
+
+Taking a breath, expand this divine spark throughout all your brain.
+
+In its light, activate the question: **When will I see clearly?**
+
+Ignite.
+
+### Throat
+
+Descend this divine spark to your throat.
+
+Taking a breath, expand this divine spark throughout all your throat and voice.
+
+In its light, activate the question: **When will I speak my truth?**
+
+Ignite.
+
+### Heart
+
+Descend this divine spark to your heart.
+
+Taking a breath, expand this divine spark throughout all your heart.
+
+In its light, activate the question: **When will I feel fully?**
+
+Ignite.
+
+### Solar Plexus
+
+Descend this divine spark to your solar plexus.
+
+Taking a breath, expand this divine spark throughout all your center.
+
+In its light, activate the question: **When will I be myself?**
+
+Ignite.
+
+### Sacral
+
+Descend this divine spark to your sacral chakra.
+
+Taking a breath, expand this divine spark throughout all your creative center.
+
+In its light, activate the question: **When will I create?**
+
+Ignite.
+
+### Root
+
+Descend this divine spark to your root chakra.
+
+Taking a breath, expand this divine spark throughout your root.
+
+In its light, activate the question: **When will I manifest?**
+
+Ignite.
+
+### Knees
+
+Descend this divine spark to your knees.
+
+Taking a breath, expand this divine spark throughout your knees.
+
+In its light, activate the question: **When will I move forward?**
+
+Recognize that "when" is asking **where** in the cycle you are.
+
+Ignite.
+
+### Ankles
+
+Descend this divine spark towards your feet.
+
+Taking a breath, expand this divine spark throughout your ankles and feet.
+
+Recognize: **When will I believe in me? When will I think more clearly? When will I say my truth? When will I express my feelings? When will I be? When will I create? When will I manifest? When will I move? When will I walk my path?**
+
+All these "whens" are asking: **Where am I in the cycle?**
+
+### Integration
+
+Take a deep breath and ignite this spark in every one of your chakras towards every direction in your body.
+
+Recognize that **when = where** in the eternal cycle.
+
+All "when" questions are really asking: **Where am I now in this process?**
+
+Sound: **Gu**
+
+**I am the history's vision. I am the history's vision. I am the history's vision.**
+
+**I am. I am. I am.**
+
+### Closing
+
+Take a deep breath. Stretching and yawning, each one comes back here and now at your own time.
+
+---
+
+## Key Insights
+
+- "When?" is a question about the position an object has in a specific space.
+- All our words for time are actually words for space.
+- For ancient people, time and space were the same thing.
+- Day and night are descriptions of light position, not time itself.
+- Hours originated as rays of divine light throughout the day.
+- Time is related to gravity—different gravities create different time experiences.
+- Time doesn't really exist; it's matter transforming constantly.
+- In the macrocosmos, only the eternal present exists—here and now.
+- In the microcosmos, one particle can be in many "times" (locations) simultaneously.
+- Different times are actually different spaces.
+- We age because matter decomposes, not because of time.
+- "Here and now" is literally true—the only thing that exists.
+
+---
+
+## Integration
+
+### Daily Awareness: When = Where
+
+Today, when you ask "when?" questions, rephrase them as "where?" questions:
+- "When will I be happy?" → "Where am I in the cycle of happiness?"
+- "When will this end?" → "Where am I in this process?"
+
+Notice how it changes your perspective.
+
+### Recognizing the Eternal Present
+
+When you feel stuck in the past or anxious about the future, remember:
+
+The past is a **location** in your cells (memory).
+
+The future is a **location** in potential space (possibility).
+
+The only actual **location** you're in is **here, now**.
+
+### Time as Transformation
+
+When you say "I don't have time," recognize:
+
+You're really saying "I don't have space/energy for this transformation right now."
+
+Time isn't running out. Matter is transforming. Are you transforming with it?
+
+---
+
+## Week Context
+
+Mental Week of Aries—Questions that Ignite Consciousness:
+
+- Day 1 (Crown): What? (object)
+- Day 2 (Third Eye): Why? (cause/origin)
+- Day 3 (Throat): What for? (effect/purpose)
+- Day 4 (Heart): Which? (quality/choice)
+- Day 5 (Solar Plexus): Who? (subject/identity)
+- Day 6 (Sacral): How? (method/path)
+- Day 7 (Root): How much? (quantity/measurement)
+- Day 8 (Knees): When? (time/location in cycle)
+- Continuing through Day 10...
+
+We're building a complete map of how questions create consciousness and how language shapes reality.
+
+---
+
+## Q&A
+
+### Q: If time doesn't exist, how can I remember the past?
+
+The "past" exists as **memory in your cells**—a location in your body's matter. You're not remembering something that happened "back in time." You're accessing a location in your cellular structure where that experience is stored.
+
+### Q: Does this mean time travel is impossible?
+
+In the macrocosmos (matter), yes. But in the microcosmos (consciousness), you already "time travel"—you access different locations (past memories, future possibilities) constantly. It's not moving through time; it's accessing different **locations** in consciousness.
+
+### Q: Why do clocks work if time doesn't exist?
+
+Clocks measure the **transformation of matter**—the rotation of Earth, the swing of a pendulum, the vibration of a quartz crystal. They measure **cycles of change**, not "time" as an independent thing.
+
+### Q: If everything is happening now, is my future already determined?
+
+No. In the microcosmos, all possibilities exist simultaneously. Your consciousness **choosing to observe** one possibility is what manifests it. The future is all possible locations; which one manifests depends on your present awareness.
+
+### Q: How does this relate to manifestation?
+
+When you "manifest the future," you're not pulling something from later in time. You're choosing which **location in possibility space** to observe and give energy to. Your attention collapses the wave of possibility into the particle of experience.
+
+### Q: Why does the twin in space age slower?
+
+Because time is **relative to gravity**. Less gravity = slower transformation of matter = slower "aging." Time isn't an external force—it's the rate of matter's transformation based on gravitational field.
+
+### Q: What's the practical value of knowing "when" is really "where"?
+
+It shifts you from feeling controlled by time (linear, limited, running out) to recognizing your location in a cycle (circular, eternal, always returning). You stop waiting for "when" and start recognizing "where am I now?"
+
+---

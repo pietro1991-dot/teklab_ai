@@ -1,348 +1,404 @@
 ---
-title: "Day 240 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 240 - Dream: The Eternal Manifestation"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 240
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-17
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 240
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - I AM presence
-  - I CAN affirmation
-  - month hold
+  - dream
+  - sleeping
+  - brain
+  - neurons
+  - toroid chakra
+  - Pisces
+  - physical dream
+  - emotional dream
+  - spiritual dream
+  - consciousness cycles
+  - wake and sleep
+  - lucid dreaming
+  - astral projection
+  - intelligence
+  - manifestation
+
+practice_elements:
+  vibration: "Th"
+  statement: "I Am the Eternal Manifestation"
+  chakra: "Toroid"
+  code: "Pisces - after knowing all histories and cultures, feeling them all, giving everything to share all possible love, upmerging in the intensity of all things like an ocean where the fish see themselves contained in infinity"
 
 ---
 
-# Day 240 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
-
-## Introduction
-
-Hi everyone , good morning , good afternoon and good evening. As you can tell by my face , I 've been trying to sleep for a while , because I have like this hangover of sleep of dreaming. I need to rest more because it 's been like 15 days running up and down through pyramids and temples since early in the morning.
-
-So that 's my face. And of course , having this face , this tire face , it could n't be another topic than dream for the end of biases.
-
-So my physical and emotional state of tireless has been a key for sure to understand today in the pyramid why was the topic for this last day.
-
-So of course , that the dream , the concept of dream will be , will have to be spoken through three different aspects , which kind of can show the three main parts of the storyid , which is the day for today.
-
-So one going up to the spiritual level , the other one going down to the physical level and the other one in the center in the soul. Because I 'm a little bit sleepy , I would take the board , so I do n't lose the point. This days , I was n't using the board because I had no idea why to use it.
-
-So we will have three concepts of dream.
-
-So here we have the storyid and remember the upper part is the spiritual dream , okay , the idea of the spiritual. Then in the middle the soul , the dreams of the soul and then the dreams which is related to sleep is the physical aspect of dreaming.
-
-So now put your mind into the physical aspect.
-
-So take the idea of the dreams of the soul , the dreams of the spirit , we will take that later.
-
-So now we will just have in mind the dreams of the body.
-
-So once I explain the importance of sleeping for the body and what is the importance. It 's important because when we live our daily life , we are wasting a lot of energy. We use too much energy all the day , all the time. Why?
-
-Because when we are awake , when we are living our daily life , we are living through our five senses. And the five senses are constantly trying to reach information to take data from the entire environment where we are moving through in order to survive in that environment to know where we are to have an idea of the space we are moving through.
-
-So because this , the body needs a lot of energy and this self I work in so much trying to reach that information to be aware of everything that is happening. That there is a moment that the body needs to rest in order to help the cells to regenerate to transform and to keep going.
-
-So that 's the moment of sleeping.
-
-So we explain a few times ago that everything the universe is moving through ways. It 's constantly moving in ways.
-
-So positive negative positive negative , it is like kind of an spiral where the energy moves up and down , up and down , once again. And why is like this? Because if we move the energy in a straight line , the thing that puts all this strength in order to move forward , it will have the force at the beginning , but then it starts to lose the energy until it stops. There 's no way to follow because the main push was at the beginning.
-
-But when something has the push to the positive and then goes down into the negative , it suddenly has strength to move again , like a pulse , okay , to move to the next one. And the next one and so on.
-
-So we need the negative in order to keep moving faster to keep the constant of movement movement in the universe. That 's why the light moves like in a spiral , that 's why the particles moves like this.
-
-So now when we speak about time , time will be also moved like in a wave , but in an eternal cycle.
-
-So it 's constant. The other constant , the quality , the passive , the continuous , the continuous , the passive.
-
-So we have two constants. One is time , the other one is space.
-
-So when we have this positive and negative , positive and negative , positive and negative , in between time and space , where we have here is that we will have always positive and the negative between time and space , creating something in the middle , like if it is NA with a genes inside.
-
-So this is a third dimensional being living between the polarity.
-
-So now this is a constant movement of energy , okay , so because of this constant movement of energy , each one of these beings living between the positive and the negative , we have to move forward into the next one , into the next part of the wheel.
-
-So because of this , one of these things have to die and when it dies , it burns again and dies and burns again and dies and burns again.
-
-So it 's like a wheel constantly moving of many beings that die and resurrect and so on , die , born , die , born , die , born.
-
-So this movement of time and space is the one that explains why we have to die and to be born again. Also why we have lived periods of consciousness and periods of consciousness. Why we have sometimes that we are aware of things and why we are living times where we have no idea of anything. Is it constant?
-
-Of this process.
-
-## Q&A
-
-So the other day I was talking with someone about this idea of positive and negative positive and negative. That , , you may need the question why? Why did that , that land civilization , if it was so aware and has so much evolution , it fell down. And what about us , if we are now rising up in consciousness again , this means that it will happen exactly the same to us in the future.
-
-So the answer is this is natural. Is n't about if we do it right or we do it wrong. Is about the cycles.
-
-Sometimes you wake up sometimes you go to sleep. It 's natural.
-
-Sometimes you are aware sometimes you are unconscious. This is a plant here and plant is raising up the falling of a plant. This is the first year in the process going up falling. Egyptians falling.
-
-Roman Empire , the fall of Roman Empire. And now.
-
-So this is constant. This is natural. This is not about if you did it wrong or bad. This is natural.
-
-So this explains that our goal is not to be constantly up there in the consciousness. Our goal is to learn how to sleep properly and not to have a nightmare. Our goal is to flow with the process. Not to be stuck in one idea.
-
-So the reason why this. Empires have felt down. It 's because they do n't respect the time of going to sleep. Basically.
-
-So. If we know how to go to sleep. There 's no need for suffering or nightmare. This is an example to understand that there 's no need for us to stay constantly here and believe that we have to attach ourselves to the moment of consciousness.
-
-That we have to learn also the importance of consciousness.
-
-The reason why usually we suffer this part of here. The negativity going down is because we are still attached to be here up in the positive in the consciousness trying to live like that constantly living in the past. But if we allow ourselves to rest. We will enjoy this part.
-
-And not to sleep well is basically to be attached to the past. Being positive here does n't mean that this is good. This means that we are attached to the idea of. The.
-
-Today , the idea of something should be permanent like for example , if I like summer. Many parts of the planet. They ca n't stand. Being.
-
-Summer all the time.
-
-So the plants needs to rest.
-
-So autumn winter. Are the key. For many beings and plants to survive. Another summer.
-
-We need the process of going to sleep in order to wake up.
-
-So nature works always by cycles. Even it has it has two positive negative positive negative or many of them. Thousands of them through generations.
-
-So this is why so need it 's so important to sleep because when we go down to sleep. We take the energy to go up to wake up ghost sleep wake up. If we do n't go to sleep we never wake up. If we are constantly waking up.
-
-It 's terrible for ourselves. We do n't have the time to generate our bodies.
-
-So when we understand this process of. Going up going down wake up going to sleep. We will now understand that the cells are everyday using its energy to understand everything that happens around.
-
-So it reaches one point that the body says I ca n't get this anymore.
-
-So I need to regenerate the cells so they can keep going.
-
-So that 's why the brain starts to shut up the system.
-
-So we stop at being concentrated. Into the outside through the senses. And we go to sleep so the cells can work to regenerate. And to make the organs.
-
-Work for themselves to think. To the inside inside the body tries to to regenerate the strength and the energy of the body.
-
-So we can wake up again.
-
-So now when this moment of. Going to sleep. Happens every cell is trying to. Share information to restore the data of the body for the next day.
-
-So the brain is not an exception. The brain is doing exactly the same.
-
-Remember that the brain is storage in data information. Throughout the entire day. Even data that we are not aware of. The brain is receiving all that data.
-
-Through the five senses.
-
-So when the brain shut up the system.
-
-So we go to sleep.
-
-So the five senses go to sleep from the outside. The brain is exchanging data information from the cells. Which are the neurons. The neurons.
-
-Are sharing data information to try to organize all the data that was. That was storage. That was storage in during. The day.
-
-So. It was capturing all this information during the day and during the night. It organized in in different. Layers in different folders.
-
-All this information. And then we have a lot of information. In this in this sense. What happens is that the neurons.
-
-Creates this. Electrical pulses that shares this data while we are sleeping.
-
-So it can restore this information for the next day.
-
-So. The next day.
-
-So so the brain as as every cell in the body are generating energy for the next day. The brain does the same trying to take the information from the cells from the data of the brain.
-
-So it could be useful for the next day. And that 's what we call dreams. It 's a parallel reality within.
-
-So now remember this. We have spoken about the senses.
-
-Remember that the senses. Our. The way in which the senses work is by capturing information by pulses electrical pulses that are. Translated by the brain to understand environment.
-
-So actually nothing. Nothing actually is real outside. But is only the interpretation of your brain.
-
-Okay.
-
-So so it 's your brain interpretation the reality. If we take this idea that the brain is the only one that really perceives the reality from the outside.
-
-Now when we go to sleep we can understand this. The logic of dreams. The brain is still working. Even if the senses are shut down.
-
-The brain is still working.
-
-So this means that the perception of the reality is still awake. And all the information that is inside of the brain is still working. Trying to organize data.
-
-So if my brain is the one that. Proceeds the. The reality. Is the only one that is in the brain.
-
-The reality. Is the only one that can perceive the reality and the brain is still working. Well , while I sleep.
-
-So I can live that reality that the brain is feeling.
-
-Okay.
-
-So that 's the dream. The dream is that we can feel perceive sense. Leave the reality that the brain is is organizing. And the reason why it there are so weird is because the brain is not aware of what is happening outside.
-
-It 's just exchanging data for the future. For stuff that maybe are useful for the future.
-
-Okay.
-
-So it organized all this data. And in the moment when we dream is when the neurons are like doing the connections of a changing information.
-
-So that 's why I do n't know. We meet. Cleaning the house with an elephant and suddenly we have an elephant inside the house.
-
-So we 're weird dreams because our brain is trying to organize the data that we saw that day or that we are thinking about that day.
-
-So once we understand. This process of the physical dream , this physical sleeping process. We can see how the brain in order to storage that information sends signals to the body to react. Because the hormones are the ones that will storage that information for the cells.
-
-So once the brain had organized this information , shares this information with the glands.
-
-So the glands can tell to the rest of the body. This data we will need. This data is needed and so on.
-
-So this awakens what we call the dream of the soul. The dream of the soul is the moment when the emotion comes in.
-
-So the hormones , the ones that produce the emotions in our body , start to determine the dreams that we have in our brain. They shape the idea of the dreams because we take that information from the cells. And all that data that we have been storage in the subconscious and the unconscious. Is show up in the brain.
-
-All the information that is in every one of the cells are brought again to us.
-
-Okay.
-
-So that 's why when we sleep , the dreams can tell us about many things that we are not aware doing our daily life. Like emotions in our unconscious information from many lives , from many from our family connections in the emotional way in the energy , body from many dimensions and so on. Is the soul that is showing us the information that we have within many different layers.
-
-So as you see , it 's not exactly like thinking that the soul is going away from the body and that 's what we dream. The realities that are around in other dimensions is all the same. It 's all connected.
-
-So it 's like it 's when the brain , or there 's organized information , shares that data , the hormones , shares that organized information , and so on. We have this , this connection. During all this process of of the day , we storage data when we receive the information , but during all this time , we are storageing so much data that we do n't even know. About basically , during our days , we are aware of less than the 10 % of all information that we are receiving in our brain.
-
-The rest , we are not even aware of that. We have no idea of it.
-
-So the brain during the night tries to organize all that data , combine all this information. And by doing that , it creates calculations of probabilities , just case , something could happen.
-
-So all this data is tried to organize somehow , so it can tell you , be aware of this , be aware of what could happen in the future. And that 's what you , when you have this dreams that tells you about the future. I do n't know how to say an English , but a money dojo , a permonition , maybe dreams. When you have this , permonitions of the future , when you sleep is like this different timelines and spaces that we do n't even think about , and they are all.
-
-Trying to organize in your brain.
-
-So also , in this process of connection and storage in data , we can also expand ourselves remembering that we have these connections with many others that we are all connected in a network.
-
-So we can start to download information from the environment , not only us. And this way is when we may maybe start to feel an invasion of information like the body tries to protect and that 's the , the dream paralysis when you like kind of move is like the body trying to protect itself from the outer things.
-
-So also when I start to connect to this reality inside of me and I realize that I am dreaming , I can also start to control the information inside and organize that information aside would love to.
-
-So that 's the lucid dreams when you connect with with your own ideas and you and you know how to handle them in dreams.
-
-So when we start to practice this like for example going to when we go to sleep think very much in the idea that you want to work on or to find or to do.
-
-So your brain starts to program for sleeping to show you that information.
-
-So you can move freely inside your mind. When we of course we of course can go beyond that and when we practice the conscience dreaming. We can also start to manage to open the soul to other dimensions in the fourth dimension no time no space.
-
-So we can open to the astral levels.
-
-So going into the astral levels would be like managing to go to sleep without sleeping being aware of the senses but not letting the brain to sleep at all.
-
-So in that moment. You can , yeah your brain can open up to the other realities of the soul so you can use your connection to the network of the brain into different realities around and that 's. An astral.
-
-So the soul. Projection.
-
-Okay the astral projection would be. Using this ability of the brain to help to to storage and to organize information but spread that information to others to other astral planes.
-
-So this is kind of the main explanation of course , but if you want to practice this to know how to do it to maybe know steps to how to practice this. There are many people that first for will help you because they work with this they do workshops they teach how to do it so just look for this.
-
-So we have these two concepts of the physical dream , the emotional dream.
-
-Okay you have the idea kind of.
-
-So now the brain. Talking about the spiritual way of dreaming. The brain is a constant machine of organizing data.
-
-So when all this data is being organized it creates a synapses of information that we call intelligence. Intelligence comes from the word inter that means between and the agent that means to read.
-
-So to read in between lines that 's the meaning of intelligent so the brain is constantly creating intelligent links. And this means that the brain through the dreaming gives us tools to see the reality in a very different way from which we see it in our daily life. It shows us different options that we could n't see when we were awakened.
-
-So the dreams shows us ways in which we can bring the ideas from our head to the outside and manifest our dreams. The spiritual level of dream is when we can interpret the dream. Making it into an idea and projected to the outside making it happen making our dreams true.
-
-So the spiritual world , the spiritual aspect of the dreaming is the one that says , I have a dream. Is the one that says , inside of me , I have an idea , I have something inside , a clear idea of what I expect for it to be. And I am willing to manifest it outside.
-
-So that 's the concept of having a dream , of having a dream for your life. This is why for good or for bad , a lot of people in history has changed the history because of a dream. They , they spoke with the pillow kind of to take a decision.
-
-So the information from the outside is so much that you have no idea how to organize it.
-
-So you go to sleep , so your brain can show you at different ways.
-
-So the importance of this kind of dreaming is basically because without it we would n't be here.
-
-The reason why we exist , we are humans is because of the dream. We became different from other animals in this planet because we had the ability to manifest our dreams , the dreams that we have within. We started to manifest it outside.
-
-So that made us create cultures , civilizations , religions , arts , science , technology. All the things that we have today that we are was because of the intelligence of the brain , creating dreams. The dream is the result of the interpretation of the outer world by our brain.
-
-So this is why a dream can also transform the outer world.
-
-So the last thing we 've read message from Pieces to close this day , this month of Pieces , is that basically we live in a dream. Everything is a dream because we interpret the world through our brain.
-
-So everything is a dream and we are dreamer and we project the future because of our dreams.
-
-So this is why the message for this entire month in order to integrate all the senses of empathy , to integrate all the emotions that makes us be who we are. To understand the multi-dimensionality that we have within , we need to learn how to dream. We have to stop being the dream of others and become the dreamer of our own reality. We have to learn how to dream being awakened.
-
-So with this we give thanks to the month of Pieces or reminding us the importance of dreaming. The vibration for today is tea.
+# Day 240 - Dream: The Eternal Manifestation
+
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-So it 's the sound. This is the sound tea first. The statement for today is I am the eternal manifestation. The code for today of course as if we planned that but it is n't , it 's Pieces.
-
-And it says , after knowing all the histories , cultures and people by filling them all , things itself to love them without any judgment over their own stories. Their connections , given everything it has to share all the possible love , upmerging in the intensity of all things like a notion where the fish see themselves contained in infinity. And the service of love nothing really matters. More than letting themselves go on the currents of love for everything , over the idea of being one with a cosmos.
-
-Call 1 For Travel , Close Your Eyes and Be. I concentrate on the breathing. I write and write everything. I started to massage and carry a small body from my feet to my head.
-
-I acknowledge each part of it. I begin by my feet and legs. I follow by the genitals , keep and waste. By the back chest , hands , arms and shoulders.
-
-I connect , face and head. Take a deep breath , set in pressure in your body , hold in the breath and let it go relaxing. I start to yarn as much as possible. I start to yarn as much as possible all you can and feel with each yarn.
-
-The energy moving around which parts relax , which part is the charge of energy when you do it. I feel how my body relates when I am. I become aware of the dreams that I used to dream. I bring them with my imagination.
-
-When I perceive these dreams that repeat themselves once again to my life , I recognize that they are showing me something. The must have ordered within me. What do I feel when I remember them? Take a deep breath and try to think about what is your dream for your life.
-
-What is the dream that you want to make true and be treated , imagine it become real. And I become aware that I am a dreamer that I can manifest my dream for I am a manifest dream. I become aware of my physical and emotional and spiritual dreams. And I have turned them in this torus around setting the intention to manifest them.
-
-I very great. I am a dreamer that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream.
-
-I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream.
-
-I become aware that I can manifest my dream for I am a manifest dream. I am the eternal manifestation. I believe I am the dream and the dreamer. I am the manifest dream to dream.
-
-I am the manifest dream. I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream.
-
-I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream. I become aware that I can manifest my dream for I am a manifest dream.
-
-I become aware that I can manifest my dream for I am a manifest dream. Thank you everybody for having accompanied me another month in the path of the area. Thank you and see you tomorrow at the same time to begin with the moment of the areas.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Toroid
+- **Week Theme:** Pisces - Final Day
+- **Main Topic:** The Three Aspects of Dream and the Importance of Dreaming
+- **Vibration:** `Th`
+- **Statement:** `I Am the Eternal Manifestation`
+- **Code:** Pisces - after knowing all the histories, cultures and people, by feeling them all, giving everything it has to share all the possible love, upmerging in the intensity of all things like an ocean where the fish see themselves contained in infinity. And in the service of love, nothing really matters more than letting themselves go on the currents of love for everything, over the idea of being one with the cosmos.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Today is the toroid chakra of Pisces—the last day of the month of Pisces. Tomorrow we begin with the month of Aries.
+
+The topic for today is **dream**.
+
+Matias is visibly tired after 15 days running up and down through pyramids and temples since early in the morning. This physical and emotional state of tiredness has been a key to understand today in the pyramid why the topic is dream.
+
+The concept of dream will be spoken through **three different aspects**, which show the three main parts of the toroid:
+1. **Spiritual level** - going up
+2. **Physical level** - going down  
+3. **Soul level** - in the center
+
+---
+
+## The Physical Dream: Sleeping
+
+### Why We Need to Sleep
+
+When we live our daily life, we are wasting a lot of energy. We use too much energy all the day, all the time.
+
+Why? Because when we are awake, when we are living our daily life, we are living through our **five senses**. The five senses are constantly trying to reach information, to take data from the entire environment where we are moving through, in order to survive in that environment, to know where we are, to have an idea of the space we are moving through.
+
+Because of this, the body needs a lot of energy. The cells work so much trying to reach that information, to be aware of everything that is happening, that there is a moment that the body needs to rest in order to help the cells to regenerate, to transform, and to keep going.
+
+**That's the moment of sleeping.**
+
+---
+
+## The Universal Wave
+
+Everything in the universe moves through waves—positive, negative, positive, negative, like a spiral moving up and down.
+
+Why? Because if energy moves in a straight line, it has force at the beginning but then loses energy until it stops. But when something has the push to the positive and then goes down into the negative, it suddenly has strength to move again, like a pulse.
+
+**We need the negative in order to keep moving faster.** That's why light and particles move in spirals.
+
+Time and space are the two constants. Between them, positive and negative create third dimensional beings living between the polarity. This constant movement of energy explains why we have to die and be born again, why we have periods of consciousness and unconsciousness.
+
+---
+
+## The Natural Cycles of Consciousness
+
+The question: why did Atlantean civilization, if it was so aware and had so much evolution, fall down? And what about us, if we are now rising up in consciousness again, will the same happen to us?
+
+**The answer is: this is natural.** It isn't about doing it right or wrong. It's about the cycles. Sometimes you wake up, sometimes you go to sleep. It's natural. Sometimes you are aware, sometimes you are unconscious.
+
+This is like a plant raising up, then falling. Atlanteans, falling. Egyptians, falling. Roman Empire, falling. And now, rising again. This is constant. This is natural. **This is not about right or wrong. This is natural.**
+
+Our goal is not to be constantly up there in the consciousness. **Our goal is to learn how to sleep properly and not to have a nightmare.** Our goal is to flow with the process, not to be stuck in one idea.
+
+The reason why empires have fallen is because they don't respect the time of going to sleep. If we know how to go to sleep, there's no need for suffering or nightmare.
+
+The reason why we suffer the negativity going down is because we are still attached to the positive, trying to live like that constantly, living in the past. But if we allow ourselves to rest, we will enjoy this part. **Not to sleep well is basically to be attached to the past.**
+
+---
+
+## Nature Works in Cycles
+
+Being positive doesn't mean good—it means we're attached to permanence. If I like summer, many parts of the planet can't stand being summer all the time. The plants need to rest. Autumn, winter are the key for many beings and plants to survive another summer.
+
+**We need the process of going to sleep in order to wake up.** Nature works by cycles. This is why sleep is so important—when we go down to sleep, we take the energy to go up, to wake up. If we don't go to sleep, we never wake up. If we are constantly waking up, we don't have time to regenerate our bodies.
+
+---
+
+## The Brain Organizing Data
+
+The cells use their energy all day to understand everything around. They reach a point where the body says, "I can't do this anymore. I need to regenerate." That's why the brain shuts down the system so we go to sleep and cells can work to regenerate.
+
+**The brain is not an exception.** It stores data throughout the entire day—even data we're not aware of. When we sleep, the five senses shut down, but the brain is exchanging data between neurons, organizing all the information into different layers, different folders. The neurons create electrical pulses that share this data while we're sleeping.
+
+**That's what we call dreams**—a parallel reality within. The brain is still working even if the senses are shut down, so we can live the reality that the brain is perceiving.
+
+---
+
+## Dreams: The Brain's Interpretation
+
+Remember that the senses work by capturing electrical pulses that are translated by the brain to understand the environment. Actually, nothing is real outside—it's only the interpretation of your brain.
+
+If the brain is the only one that perceives reality, and the brain is still working while we sleep, then we can live that reality that the brain is feeling. **That's the dream.**
+
+The reason why dreams are so weird is because the brain is not aware of what's happening outside. It's just exchanging data for the future. The neurons are doing the connections, exchanging information. That's why we might be cleaning the house with an elephant—the brain is organizing the data we saw or thought about that day.
+
+---
+
+## The Emotional Dream: The Soul
+
+Once the brain has organized information, it shares it with the **glands**. The glands tell the rest of the body what data is needed. This awakens **the dream of the soul**—when **emotion** comes in. The hormones that produce emotions start to determine the dreams we have, shaping the idea of the dreams.
+
+All data stored in the subconscious and unconscious is shown in the brain—information from every cell. That's why when we sleep, dreams can tell us about emotions in our unconscious, information from many lives, family connections in the emotional way, the energy body from many dimensions. The soul shows us information we have within many different layers.
+
+It's not that the soul leaves the body—the realities in other dimensions are all connected. It's when the brain organizes information and shares it with the hormones.
+
+---
+
+## Dreams of the Future and Beyond
+
+During our days, we're aware of less than 10% of all information our brain receives. The brain at night tries to organize all that data, creating **calculations of probabilities** for what could happen. That's when you have **premonition dreams**—different timelines and spaces organizing in your brain.
+
+In this process, we can expand ourselves, remembering we're connected in a network. We can download information from the environment, not just from ourselves. This is when we may feel an invasion of information, and the body protects itself—that's **sleep paralysis**.
+
+When we realize we're dreaming and can control the information inside, that's **lucid dreaming**. We can practice this by thinking about what we want to work on before sleep—the brain will show us that information.
+
+**Astral projection** is managing to go to sleep without sleeping, being aware of the senses but not letting the brain sleep. Your brain can then access other dimensional realities of the soul.
+
+---
+
+## The Spiritual Dream: Manifesting Dreams
+
+### Intelligence: Reading Between the Lines
+
+The brain is a constant machine of organizing data.
+
+When all this data is being organized, it creates synapses of information that we call **intelligence**.
+
+Intelligence comes from the word:
+- **Inter** = between
+- **Legere** = to read
+
+**To read in between lines**—that's the meaning of intelligent.
+
+### Showing Different Options
+
+The brain, through dreaming, gives us tools to see the reality in a very different way from which we see it in our daily life. It shows us different options that we couldn't see when we were awakened.
+
+The dreams show us ways in which we can bring the ideas from our head to the outside and **manifest our dreams**.
+
+### I Have a Dream
+
+The spiritual level of dream is when we can interpret the dream, making it into an idea and projecting it to the outside, making it happen, making our dreams true.
+
+The spiritual aspect of the dreaming is the one that says, **"I have a dream."**
+
+It's the one that says: inside of me, I have an idea. I have something inside, a clear idea of what I expect it to be. And I am willing to manifest it outside.
+
+---
+
+## Dreams Changed History
+
+### Making Decisions
+
+This is why, for good or for bad, a lot of people in history have changed the history because of a dream.
+
+They spoke with the pillow to take a decision. The information from the outside is so much that you have no idea how to organize it. So you go to sleep so your brain can show you different ways.
+
+### The Importance of Dreaming
+
+The importance of this kind of dreaming is basically because **without it we wouldn't be here**.
+
+The reason why we exist, we are humans, is because of the dream.
+
+### Manifest Our Dreams
+
+We became different from other animals in this planet because we had the ability to **manifest our dreams**—the dreams that we have within. We started to manifest it outside.
+
+That made us create:
+- Cultures
+- Civilizations
+- Religions
+- Arts
+- Science
+- Technology
+
+All the things that we have today that we are was because of the intelligence of the brain creating dreams.
+
+---
+
+## We Live in a Dream
+
+### Interpretation of the Outer World
+
+The dream is the result of the interpretation of the outer world by our brain.
+
+This is why a dream can also transform the outer world.
+
+### The Message of Pisces
+
+The last message from Pisces to close this day, this month of Pisces, is that basically **we live in a dream**.
+
+Everything is a dream because we interpret the world through our brain.
+
+Everything is a dream and we are the dreamer, and we project the future because of our dreams.
+
+### Learning to Dream
+
+This is why the message for this entire month, in order to integrate:
+- All the senses of empathy
+- All the emotions that make us be who we are
+- The multidimensionality that we have within
+
+**We need to learn how to dream.**
+
+We have to stop being the dream of others and become the dreamer of our own reality.
+
+**We have to learn how to dream being awakened.**
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortable. Close your eyes and concentrate in the breathing. Breathe deeply.
+
+Start to massage your body from your feet to your head. Acknowledge each part of it.
+
+Begin by your feet and legs. Follow by the genitals, hips and waist, by the back, chest, hands, arms and shoulders. Connect with your face and head.
+
+### Releasing Tension
+
+Take a deep breath, setting pressure in your body. Hold the breath and let it go, relaxing.
+
+### Yawning
+
+Start to yawn as much as possible, all you can. Feel with each yawn the energy moving around. Which parts relax? Which part is discharged of energy when you do it?
+
+Feel how your body relaxes when you yawn.
+
+### Remembering Your Dreams
+
+I become aware of the dreams that I used to dream. I bring them with my imagination.
+
+When I perceive these dreams that repeat themselves once again in my life, I recognize that they are showing me something that must have order within me.
+
+What do I feel when I remember them?
+
+### Your Dream for Your Life
+
+Take a deep breath and try to think about: **what is your dream for your life?**
+
+What is the dream that you want to make true? Imagine it becoming real.
+
+### I Am a Manifest Dream
+
+I become aware that I am a dreamer, that I can manifest my dream, for **I am a manifest dream**.
+
+I become aware of my physical and emotional and spiritual dreams. I have them in this toroid around, setting the intention to manifest them.
+
+**Th. Th. Th.**
+
+**I am the eternal manifestation.**
+
+**I am the dream and the dreamer.**
+
+**I am the manifested dream.**
+
+### Closing
+
+Take your breath and start to bring all the consciousness through your body, stretching and warming.
+
+Each one at some time, come back here and now.
+
+---
+
+## Key Insights
+
+- Dreams exist in three levels: physical (brain organizing data), emotional (soul's information), spiritual (manifesting ideas).
+- Sleep is necessary because the body uses enormous energy through the five senses and needs to regenerate.
+- The universe moves in waves—positive, negative, up, down—this is natural and necessary.
+- We need the negative (rest, sleep, unconsciousness) to have energy for the positive (activity, waking, consciousness).
+- Civilizations rise and fall naturally—Atlantis, Egypt, Rome, now—this is the cycle, not failure.
+- Our goal is not to stay conscious forever but to learn how to sleep properly without nightmares.
+- The brain never sleeps—it organizes data while we sleep, creating dreams.
+- Dreams are the brain's electrical pulses sharing information between neurons.
+- We are only aware of less than 10% of information our brain receives daily.
+- Hormones (emotions) shape our dreams, bringing unconscious and subconscious data to awareness.
+- Premonition dreams are the brain calculating probabilities from organized data.
+- Lucid dreaming is controlling the information within your dreams.
+- Astral projection is staying aware while the brain accesses other dimensional realities.
+- Intelligence means "to read between the lines"—the synapses created from organized data.
+- Spiritual dreaming is manifesting the ideas from your dreams into reality.
+- We became human because we learned to manifest our dreams outside ourselves.
+- Everything is a dream—our brain interprets reality, so we live in our interpretation.
+- The message of Pisces: learn how to dream while awakened.
+
+---
+
+## Integration
+
+### Honoring Sleep
+
+Tonight, as you go to sleep, acknowledge: "My brain is about to organize the day's information. My body is about to regenerate. This is sacred work."
+
+### Dream Journaling
+
+Keep a journal by your bed. Upon waking, immediately write what you remember from dreams. Over time, you'll see patterns, messages, probabilities.
+
+### Setting Dream Intentions
+
+Before sleep, clearly state what you want your brain to work on: "Tonight I want to understand ___" or "Show me possibilities for ___."
+
+### Lucid Dreaming Practice
+
+Throughout the day, ask yourself: "Am I dreaming right now?" This habit will carry into sleep, helping you recognize when you're dreaming.
+
+### Manifesting Your Dreams
+
+What is your **spiritual dream**—the vision you have for your life?
+
+Write it down. Speak it. Make it real. Remember: we became human by learning to manifest our inner dreams outside.
+
+---
+
+## Closing Pisces
+
+We have completed the month of Pisces—the sign of unity, dissolution of boundaries, empathy, multidimensionality, and dreams.
+
+Pisces taught us:
+- To feel with all our senses
+- To connect with all dimensions
+- To remember we are one ocean
+- To dream consciously
+
+Tomorrow we enter Aries—the fire of will, action, and manifestation. We will take all we've learned in these eight months of soul and spirit work, and we will manifest it in the physical world for the next four months.
+
+Thank you for walking this path with us through Pisces.
+
+**See you tomorrow at the same time to begin the month of Aries.**
+
+---
+
+## Q&A
+
+### Q: How do I remember my dreams better?
+
+Keep a journal by your bed. The moment you wake, before moving, write anything you remember. Over time, your brain learns this is important and will retain more dream memory.
+
+### Q: Are all dreams meaningful?
+
+Yes and no. Some dreams are just data organization (the elephant in the house). But even those can show you what your brain is trying to process. Pay attention to recurring themes or strong emotions.
+
+### Q: How do I have lucid dreams?
+
+Practice reality checks during the day ("Am I dreaming?"). Set intention before sleep. When you realize you're dreaming, stay calm—excitement can wake you. Start small (moving a hand in a dream, changing a color).
+
+### Q: Is astral projection safe?
+
+Yes, but it requires practice and grounding. Your body naturally protects you (sleep paralysis). Start with lucid dreaming before attempting full astral projection.
+
+### Q: Why do civilizations have to fall? Can't we break the cycle?
+
+The cycle of up and down is natural, not bad. The teaching is to learn how to "sleep properly"—meaning, to rest, renew, and rise again without suffering. We don't break the cycle; we flow with it consciously.
+
+### Q: What if my dream for my life feels impossible?
+
+Remember: birds learned to fly because thousands of beings across millions of years kept trying. Your dream might not manifest in this lifetime of your personality, but your essence is eternal. Keep dreaming. Keep manifesting. It's a matter of time.
+
+### Q: How do I "dream while awakened"?
+
+Stay conscious while living—don't go through life on autopilot. Recognize that your brain is interpreting reality right now. You are dreaming this moment. What do you choose to dream into being?
+
+---
