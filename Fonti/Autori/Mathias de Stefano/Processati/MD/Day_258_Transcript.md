@@ -57,249 +57,112 @@ This teaching connects **personal independence** with **national independence** 
 
 ---
 
-## Etymology of Independence
+## Core Teaching
 
-### Breaking Down the Word
+### Etymology of Independence
 
-**Independence** has four components:
+Independence has four components:
 
-1. **In** = from particle "nec" = no, without, not
-2. **De** = from up to below (something above coming down)
-3. **Pend** = to hang from someplace
-4. **Ence** = concept
+1. In = from particle "nec" = no, without, not
+2. De = from up to below (something above coming down)
+3. Pend = to hang from someplace
+4. Ence = concept
 
-**Independence means: the concept of NOT hanging from something that is above.**
+Independence means: the concept of NOT hanging from something that is above.
 
-### Dependence vs. Independence
+Dependence: Someone or something hanging below something or hanging from something that is above.
 
-**Dependence**: Someone or something **hanging below** something or **hanging from** something that is above.
+Independence: Not hanging from above. Not relying on something external for support.
 
-**Independence**: **Not** hanging from above. Not relying on something external for support.
+### Independence Related to Knees: History and Ancestors
 
----
+The knees chakra represents history (personal and collective), ancestors (lineage, family tree), and the path walked (steps taken through time).
 
-## Independence Related to Knees: History and Ancestors
-
-### Why Knees Represent History
-
-The **knees chakra** represents:
-- **History** (personal and collective)
-- **Ancestors** (lineage, family tree)
-- **The path walked** (steps taken through time)
-
-When we talk about independence in relation to the knees, we're talking about:
-
-**Independence from the past, from ancestors, from the history that shaped us.**
+When we talk about independence in relation to the knees, we're talking about independence from the past, from ancestors, from the history that shaped us.
 
 ### The Big Picture: Nations
 
-The most visible example of independence is **national independence**:
+The most visible example of independence is national independence.
 
-A country wants to be independent because:
-- Another country took power over their **territory**
-- Another country dominated their **culture**
-- They want **freedom of choice**, **self-government**
+A country wants to be independent because another country took power over their territory, dominated their culture, and they want freedom of choice and self-government.
 
-They **fight back** to:
-- Push away the empire/crown
-- Gain back their power
-- **Not hang from** the power of others
-- Be their **own source** instead of a part hanging from a main source
+They fight back to push away the empire/crown, gain back their power, not hang from the power of others, and be their own source instead of a part hanging from a main source.
 
-**Independence = Taking back the power of self-government.**
+Independence equals taking back the power of self-government.
 
----
-
-## The Paradox of Independence
-
-### Nations Within Nations
-
-Here's where it gets complicated:
+### The Paradox of Independence
 
 Once a country gains independence, what often happens inside?
 
-The new country has:
-- Different regions
-- Different cultures
-- Different languages
-- Different ideas
+The new country has different regions, cultures, languages, and ideas. Some of these regions want their own independence from the new government. But the new government denies it.
 
-Some of these regions want **their own independence** from the new government.
+The same pattern repeats: Region A fights for independence from Empire B. Region A wins, becomes Nation A. Region C (inside Nation A) wants independence from Nation A. Nation A says no.
 
-**But the new government denies it.**
-
-### The Repetition
-
-The same pattern repeats:
-1. Region A fights for independence from Empire B
-2. Region A wins, becomes Nation A
-3. Region C (inside Nation A) wants independence from Nation A
-4. Nation A says no
-
-**The same oppression, just a smaller scale.**
+The same oppression, just a smaller scale.
 
 ### From Nations to Families to Individuals
 
-This pattern continues down through levels:
-- Nations deny regions' independence
-- Regions deny cities' independence
-- Cities deny communities' independence
-- **Families deny individuals' independence**
+This pattern continues down through levels: Nations deny regions' independence, regions deny cities' independence, cities deny communities' independence, families deny individuals' independence.
 
-Until we arrive at **one individual** who wants to separate, to do something different, something new.
+Until we arrive at one individual who wants to separate, to do something different, something new. But the others don't accept their freedom because they don't understand what they want to do.
 
-**But the others don't accept their freedom because they don't understand what they want to do.**
-
----
-
-## Why Does This Happen?
-
-### The Question
+### Why Does This Happen?
 
 "Why is some independence good and some independence not?"
 
-Examples throughout history:
-- **1776**: United States gains independence from Britain
-  - **Then**: States fight each other (Civil War)
-  - North forces South to stay united
-- **Brazil**: Part wants to stay with Portugal, part wants Republic
-  - Republicans **force** the others to join the new republic
-- **Scotland, Catalonia** (modern day): Want independence
-  - Denied by larger nations
+Examples throughout history: 1776 United States gains independence from Britain, then states fight each other (Civil War) and North forces South to stay united. Brazil: Part wants to stay with Portugal, part wants Republic—Republicans force the others to join the new republic. Scotland, Catalonia (modern day) want independence but are denied by larger nations.
 
 ### Nationalism: The Illusion of Protection
 
-**Nationalism** was created to:
-- Make people believe they **belong to a territory**
-- Make people believe they're part of a **group that protects them**
-- Keep the **government in power**
+Nationalism was created to make people believe they belong to a territory, make people believe they're part of a group that protects them, and keep the government in power.
 
-The government creates the idea:
-- "Everyone outside is an enemy"
-- "All enemies must be pushed out"
-- "This territory is yours, you belong here"
-- "We will protect you if you stay loyal"
+The government creates the idea: "Everyone outside is an enemy," "All enemies must be pushed out," "This territory is yours, you belong here," "We will protect you if you stay loyal."
 
-**This is brainwashing to maintain governmental power.**
+This is brainwashing to maintain governmental power.
 
 ### The Purpose of Nations: A Bigger Family
 
-Nations exist to create **a bigger family**—an extended protection system.
+Nations exist to create a bigger family—an extended protection system.
 
-But in the age of:
-- **Networks**
-- **Globalization**
-- **Constant exchange**
+But in the age of networks, globalization, and constant exchange, nationalism doesn't make sense anymore.
 
-...nationalism **doesn't make sense anymore**.
+Why should one capital control many territories that think differently? In a networked world, why hold territories by force?
 
-Why should one capital control many territories that think differently?
+### Individual Independence: The Core Issue
 
-**In a networked world, why hold territories by force?**
+The reason nations exist is because we wanted to make a bigger family. But we lost our own individual independence in the process.
 
----
-
-## Individual Independence: The Core Issue
-
-### The Real Independence
-
-The reason nations exist is because we wanted to make a bigger family.
-
-But **we lost our own individual independence** in the process.
-
-**The real question isn't national independence.**
-
-**The real question is: Can I be independent as an individual?**
+The real question isn't national independence. The real question is: Can I be independent as an individual?
 
 ### What Individual Independence Means
 
-**Independence is conscious choice of dependence.**
+Independence is conscious choice of dependence.
 
-Let me explain:
+You will always depend on something (food, water, air, community). The question is: Do you consciously choose what you depend on?
 
-- You will **always** depend on something (food, water, air, community)
-- The question is: **Do you consciously choose what you depend on?**
+Dependence by default equals slavery, unconsciousness. Dependence by choice equals independence, freedom.
 
-**Dependence by default** = Slavery, unconsciousness
+You can never be fully independent (you need air, water, food, others). But you can be independent in the choice of what you depend on.
 
-**Dependence by choice** = Independence, freedom
+Independence equals the freedom to choose your dependencies.
 
-### The Paradox Resolved
+### The Three Levels of Consciousness
 
-You can never be **fully** independent (you need air, water, food, others).
+Subconscious Dependencies: Things you cannot control—breathing, eating, sleeping, biological functions. These are given by your biology, your genealogical tree. You depend on your physical/biological history.
 
-But you can be independent in the **choice** of what you depend on.
+Unconscious Dependencies: Things controlled by emotions and attachments—fear, attachments to people/places/things, emotional bonds from your family/ancestors, traumatic patterns. These come from your emotional history and genealogical emotional tree. You don't realize you're dependent because emotions are unconscious.
 
-**Independence = The freedom to choose your dependencies.**
+Conscious Dependencies: Things you think about and choose—beliefs, values, worldviews, decisions based on what you've been taught. To be conscious does not equal to be enlightened. To be conscious equals to think and determine your reality based on what you believe. Example: A religious person who says "You will go to hell for sinning" is conscious—they know what they believe and apply it. Consciousness can be wise or unwise. The point is: it's aware and chosen.
 
----
+### Applied Wisdom: Making Independence Real
 
-## The Three Levels of Consciousness
+The statement for today is: "I Am Applied Wisdom."
 
-### Subconscious Dependencies
+Applied wisdom means not just understanding independence conceptually, but living it, making conscious choices about dependencies, and acting from freedom, not unconscious attachment.
 
-Things you **cannot control**:
-- Breathing
-- Eating
-- Sleeping
-- Biological functions
+In each chakra, examine: "In which of my [beliefs/thoughts/feelings/etc.] am I dependent, and in which sense independent?"
 
-These are **given** by your biology, your genealogical tree.
-
-You depend on your **physical/biological history**.
-
-### Unconscious Dependencies
-
-Things controlled by **emotions and attachments**:
-- Fear
-- Attachments to people/places/things
-- Emotional bonds from your family/ancestors
-- Traumatic patterns
-
-These come from your **emotional history** and **genealogical emotional tree**.
-
-You don't realize you're dependent because emotions are **unconscious**.
-
-### Conscious Dependencies
-
-Things you **think about and choose**:
-- Beliefs
-- Values
-- Worldviews
-- Decisions based on what you've been taught
-
-**To be conscious ≠ to be enlightened.**
-
-**To be conscious = to think and determine your reality based on what you believe.**
-
-Example: A religious person who says "You will go to hell for sinning" is **conscious**—they know what they believe and apply it.
-
-Consciousness can be **wise or unwise**. The point is: it's **aware and chosen**.
-
----
-
-## Applied Wisdom: Making Independence Real
-
-### "I Am Applied Wisdom"
-
-The statement for today is: **"I Am Applied Wisdom."**
-
-**Applied wisdom** means:
-- Not just understanding independence conceptually
-- **Living it**
-- Making **conscious choices** about dependencies
-- Acting from freedom, not unconscious attachment
-
-### The Practice
-
-In each chakra, examine:
-
-**"In which of my [beliefs/thoughts/feelings/etc.] am I dependent, and in which sense independent?"**
-
-This reveals:
-- Where you're **unconsciously hanging from** the past
-- Where you've **consciously chosen** what to rely on
-- Where you need to **shift from default dependence to chosen independence**
+This reveals where you're unconsciously hanging from the past, where you've consciously chosen what to rely on, and where you need to shift from default dependence to chosen independence.
 
 ---
 
@@ -309,83 +172,39 @@ This reveals:
 
 Sit comfortably. Become aware of breath, body, and space.
 
-### Knees Activation
+Visualize a light—your soul as divine spark. Bring this light to your knees.
 
-Visualize a light—your soul as divine spark.
+### Main Practice
 
-Bring this light to your **knees**.
+Crown - Beliefs: "In which of my beliefs am I dependent? In which am I independent?" Are your beliefs chosen consciously, or inherited unconsciously?
 
-### Crown - Beliefs
+Third Eye - Thoughts: "In which of my thoughts am I dependent? In which am I independent?" Do you think for yourself, or repeat what you were taught?
 
-**"In which of my beliefs am I dependent? In which am I independent?"**
+Throat - Truth: "In which of my truths am I dependent? In which am I independent?" Can you speak your truth, or must you conform to others' truths?
 
-Are your beliefs chosen consciously, or inherited unconsciously?
+Heart - Feelings: "In which of my feelings am I dependent? In which am I independent?" Are your emotions your own, or absorbed from family/culture?
 
-### Third Eye - Thoughts
+Solar Plexus - Being: "In which aspects of who I am am I dependent? In which am I independent?" Is your identity self-chosen, or imposed by others?
 
-**"In which of my thoughts am I dependent? In which am I independent?"**
+Sacral - Creation: "In which of my creations am I dependent? In which am I independent?" Do you create what you want, or what's expected?
 
-Do you think for yourself, or repeat what you were taught?
+Root - Reality: "In which aspects of my reality am I dependent? In which am I independent?" What parts of your life are chosen vs. inherited?
 
-### Throat - Truth
+Knees - Ancestors: "From which ancestors am I dependent? From which have I become independent?" What patterns have you broken? What patterns still control you?
 
-**"In which of my truths am I dependent? In which am I independent?"**
+Ankles - Purpose: "In my purpose, where am I dependent? Where am I independent?" Is your mission yours, or someone else's expectation?
 
-Can you speak your truth, or must you conform to others' truths?
+Sound: Ru
 
-### Heart - Feelings
+I am applied wisdom. I am applied wisdom. I am applied wisdom.
 
-**"In which of my feelings am I dependent? In which am I independent?"**
-
-Are your emotions your own, or absorbed from family/culture?
-
-### Solar Plexus - Being
-
-**"In which aspects of who I am am I dependent? In which am I independent?"**
-
-Is your identity self-chosen, or imposed by others?
-
-### Sacral - Creation
-
-**"In which of my creations am I dependent? In which am I independent?"**
-
-Do you create what you want, or what's expected?
-
-### Root - Reality
-
-**"In which aspects of my reality am I dependent? In which am I independent?"**
-
-What parts of your life are chosen vs. inherited?
-
-### Knees - Ancestors
-
-**"From which ancestors am I dependent? From which have I become independent?"**
-
-What patterns have you broken? What patterns still control you?
-
-### Ankles - Purpose
-
-**"In my purpose, where am I dependent? Where am I independent?"**
-
-Is your mission yours, or someone else's expectation?
-
-### Sound Practice
-
-Sound: **Ru**
-
-**I am applied wisdom. I am applied wisdom. I am applied wisdom.**
-
-**I am. I am. I am.**
-
-### Integration
-
-Recognize: You will always depend on something.
-
-**The question is: Do you consciously choose what you depend on?**
-
-**That choice = Independence.**
+I am. I am. I am.
 
 ### Closing
+
+Recognize: You will always depend on something. The question is: Do you consciously choose what you depend on?
+
+That choice equals independence.
 
 Breathe. Stretch. Yawn. Return to here and now.
 
@@ -393,18 +212,18 @@ Breathe. Stretch. Yawn. Return to here and now.
 
 ## Key Insights
 
-- Independence (in+de+pend+ence) = the concept of NOT hanging from something above.
-- Dependence = hanging from/relying on something external for support.
-- Knees represent history, ancestors, the path walked—independence from the past.
-- Nations fight for independence (self-government), then deny independence to regions within them.
-- The pattern repeats: nations → regions → cities → families → individuals.
-- Nationalism was created to maintain governmental power by making people believe enemies are outside.
-- In a networked, globalized world, nationalism (one capital controlling diverse territories) doesn't make sense.
-- The real question isn't national independence but individual independence.
-- Independence ≠ no dependencies (impossible); Independence = conscious choice of dependencies.
-- Three levels: Subconscious (biological needs), Unconscious (emotional attachments), Conscious (chosen beliefs/values).
-- To be conscious ≠ enlightened; to be conscious = aware of what you believe and applying it.
-- Applied wisdom = living independence, making conscious choices about dependencies, acting from freedom.
+- Independence (in+de+pend+ence) = the concept of NOT hanging from something above
+- Dependence = hanging from/relying on something external for support
+- Knees represent history, ancestors, the path walked—independence from the past
+- Nations fight for independence (self-government), then deny independence to regions within them
+- The pattern repeats: nations, regions, cities, families, individuals
+- Nationalism was created to maintain governmental power by making people believe enemies are outside
+- In a networked, globalized world, nationalism (one capital controlling diverse territories) doesn't make sense
+- The real question isn't national independence but individual independence
+- Independence does not equal no dependencies (impossible); Independence = conscious choice of dependencies
+- Three levels: Subconscious (biological needs), Unconscious (emotional attachments), Conscious (chosen beliefs/values)
+- To be conscious does not equal enlightened; to be conscious = aware of what you believe and applying it
+- Applied wisdom = living independence, making conscious choices about dependencies, acting from freedom
 
 ---
 
@@ -412,7 +231,7 @@ Breathe. Stretch. Yawn. Return to here and now.
 
 ### Daily Awareness
 
-Notice today: **What am I depending on unconsciously?**
+Notice today: What am I depending on unconsciously?
 
 Then ask: **"If I were to choose consciously, would I still choose this dependency?"**
 

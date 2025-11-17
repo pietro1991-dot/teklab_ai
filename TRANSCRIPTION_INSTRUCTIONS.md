@@ -63,6 +63,27 @@ Analyze the transcript to locate these typical sections:
 
 ## Step 3: Markdown Structure Template
 
+### CRITICAL: Optimal Structure for RAG/Chunking Systems
+
+**Why This Structure Matters:**
+This specific organizational pattern is optimized for semantic search, vector embeddings, and RAG (Retrieval-Augmented Generation) systems. The structure ensures:
+
+1. **Hierarchical Clarity**: Single main content container ("Core Teaching") with logical subsections allows chunking algorithms to identify semantic boundaries and maintain context across related concepts.
+
+2. **Semantic Cohesion**: Grouping all teaching content under one H2 section prevents fragmentation. When RAG systems retrieve information, they can capture complete conceptual frameworks rather than isolated fragments.
+
+3. **Predictable Section Flow**: Consistent placement of Overview → Core Teaching → Practice → Key Insights → Integration → Q&A trains better embeddings and allows retrieval systems to apply uniform strategies across all documents.
+
+4. **Optimal Chunk Size**: H3 subsections within "Core Teaching" create natural chunking points at ideal sizes (3-6 paragraphs), balancing context preservation with retrieval precision.
+
+5. **Context Preservation**: Related subsections under the same H2 parent maintain semantic relationships in vector space, improving retrieval accuracy for complex spiritual concepts.
+
+**Do NOT deviate from this structure.** Fragmenting content across multiple H2 sections reduces chunking efficiency and retrieval accuracy.
+
+---
+
+### Template Structure
+
 ```markdown
 ---
 title: "Day [X] - [Main Theme/Topic]"
@@ -112,7 +133,7 @@ practice_elements:
 
 ## Core Teaching
 
-[Organize teachings into logical subsections using H3 headers]
+[ALL conceptual/teaching content goes in this single H2 section, organized into logical H3 subsections]
 
 ### [Subsection 1 - Main Concept]
 
@@ -122,7 +143,13 @@ practice_elements:
 
 [Continue with full content, no summarizing]
 
-### [Continue with additional subsections as needed]
+### [Subsection 3 - Supporting Concept]
+
+[Each subsection should flow logically from the previous one]
+
+### [Continue with additional subsections as needed - typically 5-10 total]
+
+[Historical context, etymology, examples, metaphors - ALL go under "Core Teaching" as H3 subsections]
 
 ---
 
@@ -134,7 +161,7 @@ practice_elements:
 
 [Setup instructions, posture, breathing]
 
-### [Main Practice Steps]
+### Main Practice
 
 [COMPLETE step-by-step instructions - every single step preserved]
 
@@ -146,10 +173,10 @@ practice_elements:
 
 ## Key Insights
 
-[Extract 8-15 direct quotes or key teachings as bullet points]
+[Extract 8-15 direct quotes or key teachings as bullet points - NO bold formatting on these]
 
-- **"[Quote 1 - impactful phrase from the teaching]"**
-- **"[Quote 2]"**
+- "Quote 1 - impactful phrase from the teaching"
+- "Quote 2"
 - [Continue...]
 
 ---
@@ -187,19 +214,23 @@ practice_elements:
 ## Step 4: Writing Guidelines
 
 ### Core Teaching Section
-- **Break into logical subsections** based on topic shifts
-- **Use H3 headers** (###) for each subsection
+- **Use ONLY ONE H2 section titled "Core Teaching"** - do NOT create multiple H2 sections like "Etymology," "Historical Context," "Modern Application," etc.
+- **All teaching content must be organized as H3 subsections under "Core Teaching"**
+- **Break into logical subsections** based on topic shifts using H3 headers (###)
 - **Preserve 100% of content** - reorganize but don't cut
 - **Add paragraph breaks** every 3-5 sentences
-- **Bold important terms** on first use
+- **Minimize bold formatting** - use sparingly only for critical terms on first mention
 - **Maintain conversational tone** of original speaker
+- **Typical structure**: 5-10 H3 subsections covering etymology, history, examples, metaphors, applications - ALL under the single "Core Teaching" H2
 
 ### Practice Section
-- **Number steps** if sequential (1, 2, 3...)
+- **Keep subsection names simple**: "Preparation," "Main Practice," "Closing" (not overly specific titles)
+- **Number steps** if sequential (1, 2, 3...) within the practice flow
 - **Use clear action verbs**: "Close your eyes," "Breathe in," "Recognize"
 - **Preserve exact meditation language** including repetitions
 - **Keep mantras/statements** exactly as spoken
 - **Include all sensory details** (colors, feelings, visualizations)
+- **Minimize bold formatting** in practice instructions
 
 ### Q&A Generation Rules
 1. Look for rhetorical questions in the transcript
@@ -215,6 +246,12 @@ practice_elements:
 - Use both single words and short phrases
 - Prioritize terms someone might search for
 - Include names, locations, dates if significant
+
+### Key Insights Formatting
+- **Do NOT use bold formatting** in the Key Insights bullet points
+- Extract 8-15 direct quotes or impactful phrases
+- Present as simple bullet list without quotation marks unless part of the original quote
+- Keep insights concise (1-2 lines each)
 
 ---
 

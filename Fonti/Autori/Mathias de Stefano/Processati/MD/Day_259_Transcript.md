@@ -57,230 +57,108 @@ Today we discover that **advancement** is the constant process of releasing depe
 
 ---
 
-## Connection to Independence
+## Core Teaching
 
-### The Foundation from Day 258
+### The Foundation from Independence
 
-Yesterday we established:
+Yesterday we established: Independence equals not hanging from above.
 
-**Independence = not hanging from above**
+Someone is dependent when attached to people, conditioned by past events, hanging from previous situations, or when energy depends on external sources.
 
-Someone is **dependent** when:
-- Attached to people
-- Conditioned by past events
-- Hanging from previous situations
-- Energy depends on external sources
+Someone becomes independent when they transcend connections from the past, move forward, transform, and evolve.
 
-Someone becomes **independent** when:
-- They transcend connections from the past
-- They move forward
-- They transform
-- They evolve
+But here's the truth: We will always be dependent on something.
 
-### Today's Expansion
+Even when we become independent, we immediately depend on new things: food, sleep, water when thirsty, air, environment, interaction with others.
 
-**But here's the truth: We will always be dependent on something.**
+The entire creation is a network. Everything is connected. The only way something can exist is because it's held by the environment.
 
-Even when we become independent, we immediately depend on new things:
-- Food
-- Sleep
-- Water when thirsty
-- Air
-- Environment
-- Interaction with others
+In essence, we are dependent on something. Always.
 
-**The entire creation is a network. Everything is connected.**
+### Etymology of Advance
 
-The only way something can exist is because it's **held by the environment**.
+Advance comes from Latin:
 
-**In essence, we are dependent on something. Always.**
+Ad = to, toward
 
----
+Ante = in front, before something
 
-## Etymology of Advance
+Advance equals to move toward what's in front, toward what's before something.
 
-### Breaking Down the Word
+It shows us the next step, the future.
 
-**Advance** comes from Latin:
-- **Ad** = to, toward
-- **Ante** = in front, before something
+### The Timeline: Past, Present, Future
 
-**Advance = to move toward what's in front, toward what's before something.**
+Imagine a timeline: [PAST] <---- [PRESENT (You)] ----> [FUTURE]
 
-It shows us **the next step**, the future.
+From present toward future: Seeking independence (moving forward, evolving)
 
----
+From present toward past: Living in dependence (attached to what was)
 
-## The Timeline: Past, Present, Future
+Everything we are physically, emotionally, and mentally is a projection of everything that happened before. We are hanging from the past.
 
-### Visualizing Your Position
+Physical body: Dependent on genealogical/biological history (cells evolved over thousands of years)
 
-Imagine a timeline:
+Emotional body: Dependent on emotional history (family bonds, traumas, experiences)
 
-**[PAST] ←—— [PRESENT (You)] ——→ [FUTURE]**
+Mental body: Dependent on mental history (beliefs, education, conditioning)
 
-### Direction Determines Dependence
+We hang from that tree.
 
-- **From present toward future**: Seeking **independence** (moving forward, evolving)
-- **From present toward past**: Living in **dependence** (attached to what was)
+### Three Levels of Dependence on the Past
 
-### Why We're Dependent on the Past
+Subconscious - Physical: Your body's biological design. Whatever you want to do with your body depends on your physical and biological history. Your cells have been improving through thousands of years to develop eating, sleeping, all biological processes. You are hanging from the genealogical/biological tree in your subconscious.
 
-**Everything we are physically, emotionally, and mentally is a projection of everything that happened before.**
+Unconscious - Emotional: Your emotional patterns and bonds. Your emotions depend on things you've lived throughout your family, your emotional bonds with people, traumatic experiences, happy experiences, feelings from your genealogical tree. All of this is in the unconscious. Your emotions depend on what you and your ancestors have felt. You are hanging from the emotional tree in your unconscious.
 
-We are **hanging from the past**.
+Conscious - Mental: Your beliefs, thoughts, and perspectives. Your mind depends on ancestors' beliefs, your own life experiences, and what you've been taught. Important clarification: To be conscious does not equal to be enlightened. To be conscious equals to think about something and determine the environment according to what you believe. Example: A very religious person who says "You committed a sin, you'll go to hell" is also conscious—they believe it, think about it, and apply it. Consciousness can be wise or unwise. It just means you're aware and choosing based on what you know. You are hanging from the mental tree in your consciousness.
 
-- **Physical body**: Dependent on genealogical/biological history (cells evolved over thousands of years)
-- **Emotional body**: Dependent on emotional history (family bonds, traumas, experiences)
-- **Mental body**: Dependent on mental history (beliefs, education, conditioning)
+### Seeking Independence = Working for Consciousness
 
-**We hang from that tree.**
+When we say "We're working for the consciousness of the planet," it doesn't mean we're working to enlighten the planet.
 
----
+It means we're working so the planet can THINK and DETERMINE its own future based on awareness.
 
-## Three Levels of Dependence on the Past
+Consciousness is the capacity to think, decide, and act based on awareness.
 
-### 1. Subconscious - Physical
+Whether that awareness is "spiritual" or "religious" or "scientific"—it's still consciousness if it's aware and choosing.
 
-**What**: Your body's biological design
+To become independent equals to become conscious of what you're dependent on, so you can choose your dependencies rather than unconsciously hang from them.
 
-**Dependency**: Whatever you want to do with your body **depends on your physical and biological history**.
+### Advance: The Constant Movement
 
-Your cells have been improving through thousands of years to develop:
-- Eating
-- Sleeping
-- All biological processes
+"It depends" is something we say constantly without understanding what it means.
 
-**You are hanging from the genealogical/biological tree** in your subconscious.
+When you say "It depends," you're saying something you do is related to a specific structure, and the answer depends on a reality, emotion, or decision.
 
-### 2. Unconscious - Emotional
-
-**What**: Your emotional patterns and bonds
-
-**Dependency**: Your emotions depend on things you've lived throughout:
-- Your family
-- Your emotional bonds with people
-- Traumatic experiences
-- Happy experiences
-- Feelings from your genealogical tree
-
-**All of this is in the unconscious.**
-
-Your emotions depend on what you and your ancestors have felt.
-
-**You are hanging from the emotional tree** in your unconscious.
-
-### 3. Conscious - Mental
-
-**What**: Your beliefs, thoughts, and perspectives
-
-**Dependency**: Your mind depends on:
-- Ancestors' beliefs
-- Your own life experiences
-- What you've been taught
-
-Important clarification:
-
-**To be conscious ≠ to be enlightened.**
-
-**To be conscious = to think about something and determine the environment according to what you believe.**
-
-Example: A very religious person who says "You committed a sin, you'll go to hell" is also **conscious**—they believe it, think about it, and apply it.
-
-**Consciousness can be wise or unwise.** It just means you're **aware** and **choosing** based on what you know.
-
-**You are hanging from the mental tree** in your consciousness.
-
----
-
-## Seeking Independence = Working for Consciousness
-
-### The Planetary Work
-
-When we say "We're working for the consciousness of the planet," it doesn't mean we're working to **enlighten** the planet.
-
-**It means we're working so the planet can THINK and DETERMINE its own future based on awareness.**
-
-### Consciousness = Capacity to Choose
-
-**Consciousness is the capacity to think, decide, and act based on awareness.**
-
-Whether that awareness is "spiritual" or "religious" or "scientific"—it's still **consciousness** if it's **aware and choosing**.
-
-### The Goal
-
-To become **independent** = to become **conscious** of what you're dependent on, so you can **choose** your dependencies rather than unconsciously hang from them.
-
----
-
-## Advance: The Constant Movement
-
-### The Universal Constant
-
-**"It depends"** is something we say constantly without understanding what it means.
-
-When you say "It depends," you're saying:
-- Something you do is **related to a specific structure**
-- The answer **depends on** a reality, emotion, or decision
-
-**The difference between dependence and independence is the DECISION you make on those things that depend.**
-
-### If Independence is Impossible, What's the Answer?
+The difference between dependence and independence is the DECISION you make on those things that depend.
 
 If we'll always be dependent on something, what word helps us understand why we follow the concept of independence?
 
-**ADVANCE.**
+ADVANCE.
 
-**The process of getting independent from something is the constant.**
+The process of getting independent from something is the constant. We need to advance. We need to move forward.
 
-We need to **advance**. We need to **move forward**.
+### Subconscious, Unconscious, Conscious: How Each Advances
 
----
+Subconscious (Physical): Dependence on biology, genetics, cellular programming. You cannot fully control this. But you can become aware of how your body works, what it needs, and work with it rather than against it. Hard work in yourself can shift some subconscious patterns to conscious choice.
 
-## Subconscious, Unconscious, Conscious: How Each Advances
+Unconscious (Emotional): Dependence on emotions, attachments, fears. Emotional attachments link you to the past. When you don't feel able to transcend, you get stuck. To advance: Become aware of the emotions, recognize the attachments, and consciously choose to transcend. You may still have the emotion, but you're not controlled by it.
 
-### Subconscious (Physical)
+Conscious (Mental): Dependence on beliefs, thoughts, conditioning. How to advance: Choice. When you know you can let something go, you move forward, evolve, change, transform, transcend.
 
-**Dependence**: Biology, genetics, cellular programming
+### The Practice: Keep Moving Forward
 
-**How to advance**: You **cannot** fully control this. But you can become **aware** of how your body works, what it needs, and work **with** it rather than against it.
+"The only thing that makes us believe we are not moving forward is that we are watching behind."
 
-Hard work in yourself can shift some subconscious patterns to conscious choice.
+Life is always advancing. Time doesn't stop. Space expands.
 
-### Unconscious (Emotional)
-
-**Dependence**: Emotions, attachments, fears
-
-**How to advance**: Emotional attachments link you to the past. When you don't feel able to transcend, you get **stuck**.
-
-**To advance**: Become **aware** of the emotions, recognize the attachments, and consciously **choose** to transcend.
-
-You may still have the emotion, but you're **not controlled** by it.
-
-### Conscious (Mental)
-
-**Dependence**: Beliefs, thoughts, conditioning
-
-**How to advance**: **Choice.**
-
-When you know you can let something go, you **move forward**, **evolve**, **change**, **transform**, **transcend**.
-
----
-
-## The Practice: Keep Moving Forward
-
-### Don't Look Backward
-
-**"The only thing that makes us believe we are not moving forward is that we are watching behind."**
-
-Life is **always** advancing. Time doesn't stop. Space expands.
-
-**Advancing is a constant in the universe—like time and space.**
+Advancing is a constant in the universe—like time and space.
 
 When things change, we have two choices:
 
-1. **Attach to the forms of what it was** → Live in the past (dependence)
-2. **Adapt to the things that come ahead** → Live in the future (independence through advancement)
+1. Attach to the forms of what it was (live in the past - dependence)
+2. Adapt to the things that come ahead (live in the future - independence through advancement)
 
 ### Matias' Personal Example
 
@@ -288,7 +166,7 @@ Matias describes how his entire schedule for the year was planned (traveling the
 
 Then everything changed. He had to adapt in 3 days to a completely different reality: staying home, teaching online daily.
 
-**"Sometimes the biggest things are made with the simple things. You just have to keep moving by adapting to the new forms."**
+"Sometimes the biggest things are made with the simple things. You just have to keep moving by adapting to the new forms."
 
 ---
 
@@ -298,66 +176,47 @@ Then everything changed. He had to adapt in 3 days to a completely different rea
 
 Sit comfortably. Become aware of breath, body, space.
 
-### Ankles Activation
+Visualize a light—your soul as divine spark. Bring this light to your ankles.
 
-Visualize a light—your soul as divine spark.
+### Main Practice
 
-Bring this light to your **ankles**.
+See the timeline: [PAST] <---- [YOU] ----> [FUTURE]
 
-### The Timeline Visualization
+Feel yourself hanging from the past: physical dependencies (body, genetics), emotional dependencies (attachments, fears), mental dependencies (beliefs, conditioning).
 
-See the timeline:
+Now consciously turn toward the future. Not because the past is bad—but because life moves forward. Choose to advance.
 
-**[PAST] ←—— [YOU] ——→ [FUTURE]**
+Sound: Rü
 
-### Releasing Dependence on the Past
+I am free wisdom. I am free wisdom. I am free wisdom.
 
-Feel yourself **hanging from the past**:
-- Physical dependencies (body, genetics)
-- Emotional dependencies (attachments, fears)
-- Mental dependencies (beliefs, conditioning)
+I am. I am. I am.
 
-### Choosing to Advance
+Crown Through Ankles: In each chakra, feel: "I release dependence on the past. I choose to advance."
 
-Now consciously **turn toward the future**.
+Crown: Advance in ideas
 
-Not because the past is bad—but because **life moves forward**.
+Third Eye: Advance in perception
 
-Choose to **advance**.
+Throat: Advance in truth
 
-### Sound Practice
+Heart: Advance in feeling
 
-Sound: **Rü**
+Solar Plexus: Advance in being
 
-**I am free wisdom. I am free wisdom. I am free wisdom.**
+Sacral: Advance in creation
 
-**I am. I am. I am.**
+Root: Advance in reality
 
-### Crown Through Ankles
+Knees: Advance beyond ancestral patterns
 
-In each chakra, feel:
-
-**"I release dependence on the past. I choose to advance."**
-
-- **Crown**: Advance in ideas
-- **Third Eye**: Advance in perception
-- **Throat**: Advance in truth
-- **Heart**: Advance in feeling
-- **Solar Plexus**: Advance in being
-- **Sacral**: Advance in creation
-- **Root**: Advance in reality
-- **Knees**: Advance beyond ancestral patterns
-- **Ankles**: Advance on the path
-
-### Integration
-
-Recognize: **Life is always advancing.**
-
-The universe expands. Time moves forward. Evolution continues.
-
-**You are free when you advance with it**, rather than clinging to what was.
+Ankles: Advance on the path
 
 ### Closing
+
+Recognize: Life is always advancing. The universe expands. Time moves forward. Evolution continues.
+
+You are free when you advance with it, rather than clinging to what was.
 
 Breathe deeply. Stretch. Yawn. Return to here and now.
 
@@ -365,20 +224,20 @@ Breathe deeply. Stretch. Yawn. Return to here and now.
 
 ## Key Insights
 
-- Advance (ad+ante) = to move toward what's in front, toward the future.
-- Independence (from yesterday) = conscious choice of dependencies; but we'll always depend on something.
-- From present toward future = seeking independence (evolution); from present toward past = living in dependence (attachment).
-- We are physically, emotionally, and mentally projections of the past—we hang from that history.
-- Three levels of past dependence: Subconscious (biological/physical), Unconscious (emotional/bonds), Conscious (mental/beliefs).
-- Subconscious: Body depends on genealogical/biological tree (cells, eating, sleeping).
-- Unconscious: Emotions depend on family history, bonds, traumas, experiences from ancestors.
-- Conscious ≠ enlightened; Conscious = aware and choosing based on what you believe/think.
-- "Working for consciousness of planet" = working so planet can THINK and DECIDE its future based on awareness.
-- "It depends" = acknowledging that decisions are related to specific structures/realities.
-- The process of getting independent (the constant) = ADVANCE.
-- Advancing is a universal constant like time and space—life always moves forward.
-- Attachment to forms of the past = living in past; Adaptation to what comes ahead = living in future.
-- Matias' example: Had to adapt entire year's plan in 3 days—advancement through adaptation.
+- Advance (ad+ante) = to move toward what's in front, toward the future
+- Independence (from yesterday) = conscious choice of dependencies; but we'll always depend on something
+- From present toward future = seeking independence (evolution); from present toward past = living in dependence (attachment)
+- We are physically, emotionally, and mentally projections of the past—we hang from that history
+- Three levels of past dependence: Subconscious (biological/physical), Unconscious (emotional/bonds), Conscious (mental/beliefs)
+- Subconscious: Body depends on genealogical/biological tree (cells, eating, sleeping)
+- Unconscious: Emotions depend on family history, bonds, traumas, experiences from ancestors
+- Conscious does not equal enlightened; Conscious = aware and choosing based on what you believe/think
+- "Working for consciousness of planet" = working so planet can THINK and DECIDE its future based on awareness
+- "It depends" = acknowledging that decisions are related to specific structures/realities
+- The process of getting independent (the constant) = ADVANCE
+- Advancing is a universal constant like time and space—life always moves forward
+- Attachment to forms of the past = living in past; Adaptation to what comes ahead = living in future
+- Matias' example: Had to adapt entire year's plan in 3 days—advancement through adaptation
 
 ---
 
@@ -388,9 +247,9 @@ Breathe deeply. Stretch. Yawn. Return to here and now.
 
 When you face change today, notice your reaction:
 
-**Do you cling to "how it was"?** (Looking backward, dependence)
+Do you cling to "how it was"? (Looking backward, dependence)
 
-**Or do you adapt to "how it is becoming"?** (Looking forward, advancement)
+Or do you adapt to "how it is becoming"? (Looking forward, advancement)
 
 ### The Adaptation Practice
 

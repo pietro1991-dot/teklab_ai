@@ -1,310 +1,253 @@
 ---
-title: "Day 261 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 261 - Initiation"
+author: "Matias De Stefano"
+series: "365 Days - The Path Of I Am"
 day_number: 261
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days - The Path Of I Am"
+date_processed: 2025-01-17
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 261
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - third eye
-  - I AM presence
+  - initiation
+  - education
+  - hermeticism
+  - occultism
+  - Kabbalah
+  - free masons
+  - universities
+  - learning
+  - secret societies
+  - Nile path
+  - chakra activation
+  - physical week
+  - Aries
+  - sacred geometry
+  - spiritual path
 
 practice_elements:
+  vibration: "KHa"
+  statement: "I Am the Universal Designer"
+  code: "Saturn - The god of time who tests us and brings transformation through karma"
   chakra: "Crown"
 
 ---
 
-# Day 261 - Consciousness Work
+# Day 261 - Initiation
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days - The Path Of I Am  
+**Source:** 365 Days - The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
-
-## Introduction
-
-I have a good morning , good afternoon , good evening. I hope this will be well to begin with our physical week of areas. I hope all of you will be able to read the post for today , which it is topic is initiation , initiation.
-
-So I know that for that many of you know me from the serious initiation in Gain and how no idea about what it was before , just to let you know when we were talking with the people from Gain , what would be the name for the series. I said some words and eventually one of the words that they said it was the best one was initiation because actually that is what we are doing. I guess that is the summary of everything that we do every day of all information. That 's why is it topic we are going to talk about today.
-
-So first of all what initiation means. Initiation comes from the word in Ide in Latin. That is two words one is in which is inside and the other one is Ide that means to go.
-
-So Ide means to start to move to start to move forward. Basically is that the concept.
-
-So initiation talks about the concept , the action of starting to move forward. That would be the key of this.
-
-So in our cultures today we have this word in initiation related to to main concepts. One of them is in educational aspects and the other one is related to.
-
-So we have this word in a language that is related to the concept.
-
-So let 's go to understand both of them so we can understand the rest of the information.
-
-So regarding the first topic which is in the case. We use the word initiation to refer the moment when we begin or the introduction of topics of.
-
-So we are starting to learn. Like initiation on mathematics initiation of music initiation on medicine.
-
-So we speak about initiation. We speak about the initiation of things that we are going to learn from or going to learn about.
-
-So basically that 's an initiation in terms of education to start to do something that you did n't know before.
-
-So the other way besides the educational way is the romantic concept that we have. And the romantic initiation. And it 's related with the education because romantic is not something that is closed. That 's how we see it today.
-
-Something that is. That is close to others. But romantic comes from the name Heroes. Heroes is the name of the Greek god of communication of teaching.
-
-So he was the one given information to everybody that Heroes that we know in Egypt as thought. And we know in the Roman culture as Mercury.
-
-So Heroes was the one that gave information to the people to teach for them to learn everything.
-
-So when the monotistic arrives to Europe and the Mediterranean. The older regions starts to persecuted to go behind these free thinkers and these people that we 're studying in public squares.
-
-So they consider them wrong.
-
-Something that was against God. That 's why the Heretic Heroes information start to be close. Occultism.
-
-So they were hiding. That 's what it means.
-
-So not to get killed basically.
-
-So that 's why from that moment they started to be like dairy , closed societies and and starting that they did these kind of associations that most of the religions called like satanic. The Christians start to call them that they were doing things for the devil because they could n't get what they were doing exactly. And that 's why the ceremonies of associations started to be from our point of view today like something really weird.
-
-Something from the devil kind of.
-
-So I hope that you got the idea of how it came. But as you see both of them are related with the process of learning with education.
-
-So the process of indications has been a long story.
-
-So we have to go way behind in time to understand the process of how how initiation became to be what we know today.
-
-So as I said today we have initiation to or in according to issues topics that we are going to learn about.
-
-So going back in the in history the initiation to something to the studies. Where something really forbidden during a long time in our history.
-
-So what they had to do was to organize this kind of. And so that the people had to to solve in order to show that they really had the attributes to or the will to go and study this information that it was not someone like an enemy hiding to kill them.
-
-So that 's why they did this kind of test that were like following clues so they could really get into this occultism. Studies.
-
-So basically in the last centuries the idea of doing this kind of test for initiation are related to.
-
-So this test to protect the universities that were hidden in the underground in the shadows.
-
-## Q&A
-
-So this kind of associations were brought by the cavalistics philosophy in the Judaism. Because inside the great religions of the of monotism the naval was one of the teachings that we 're making questions that we 're telling people to doubt about all the things even to doubt about the creation.
-
-So this is totally against what the main religions like Islam or christians we 're talking about these two others were about certainty and faith in God and the cabal was about. We do n't know I do n't know maybe perhaps you know so so because of these questions the main religions started to take cabal as something really wrong. And that is from the devil.
-
-So that 's why they started to the the the the hidden universities the heretic university started to use the cabal. The cabalistic as a way to create this hidden map so the people could find the the hidden universities.
-
-So that 's why also in England they started to call all these. But societies that were hidden as the cabal cabal because of the cabal.
-
-So today we have a mis understanding of what is really the cabal because a lot of people are saying that they are the bad ones but this is an idea from the christians. That 's started to call like this the people that were starting in the underground.
-
-So in the in the past 500 years when the renaissance started we were also still in the acquisition.
-
-So in Europe the acquisition was so strong that. They were persecution all these free thinkers and in that same situation the renaissance started again as a way to look for something different. They brought all the concept from the Middle East from Greece in ours philosophy the way of thinking so they started to change everything but they also were persecuted.
-
-So this is why they started to hide themselves until they were able to show their truth because remember in the renaissance one of the main things that we can know or remember about is how they started to do all these statues again.
-
-So it was like in Greece and of course in the acquisition they were persecuted so it was impossible to do it until the the culture began so strong but. The whole thing during the renaissance created the idea that these students were doing realism they were hiding and that was kind of the same as paganism for the religion okay. In the last 300 years late 1700s the aluminium started to also spread in Europe but they were persecuted again again and that created the idea of the illuminate okay in the in. The time so they were persecuted and they were hidden doing these studies until racism started in the states after revolutions.
-
-Before the aluminium way much before we have also the free maidens the free maidens the. Rosacros you say like this. The people from Malta the Template they were all parallel movements of the christians that kept the traditions of the imitations from way before. Rosacroscence thank you until just 200 years ago there was no universities there were mostly.
-
-The. Religious teachings but there was no there were not really universities as we know them today that we have public universities private universities we have all this kind of knowledge. Of all the many things.
-
-So but before the universities were prohibited so they were. He did n't that 's why in order for a student to reach the universal knowledge they had to go through tests. Of the sessions before and test and in the sessions after.
-
-So the most known university that was hidden in Europe and also in the world in America was the free maidens the free maidens we 're following 33. In the sessions to reach the 33 degree.
-
-So what they were what they were doing was exams to pass the test in each level.
-
-So now think about the universities the same you have to study you have a test and exam and you have to. Do it right in order to go. In order to go to the next level the next year and so on you go learning so you go through these 33 steps. And in each one you have an initiation to tell you that you.
-
-Have gone through the next level.
-
-So this this basically was that but of course that the. That then they they started to use it for power for positions in politics and so on. But basically this all was made in order to learn to. Access to the universal knowledge.
-
-So of course that. That today is really easy to go to university. For the countries that has public university of course. The ones who does n't have maybe you have to become maidens to to pay it to play for it but.
-
-But the countries that we have. And free university public university.
-
-Sometimes we have to remember. How important was. How important is to have that because just 200 years ago. This was an impossible.
-
-There was almost impossible to reach the universal knowledge as we can do today. In initiation is basically basically to learn something new that 's what it really means to learn something new.
-
-So to initiate in something new but when we listen this word in the spiritual world. Usually related to. Usually related to weird stuff because the institutions are done. In an environment related to a culture or religion a tradition.
-
-By history.
-
-So that 's why for example if now we. We naturalized the the the concept that Christian people. Every Sunday they go and drink and eat the blood and the body of their savior. When someone from the outside.
-
-Listen to that is like. Who , what are you telling to me you know it 's like. Why the eat him you know so it 's really weird.
-
-So the maidens they had an initiation also with this call where the wine was inside this call. Instead of a cup like in the Christianity so they had the skull to drink the knowledge of the person. We can say which one is we 're there I do n't know it 's the culture it 's just a tradition.
-
-So. In initiation is not about the shape of the things is about the content of the things the rest is just tradition is like if you go to another country and you judge the traditions of other countries just because. You was n't born there so no. There are many ways to celebrate an initiation.
-
-That 's that 's it.
-
-So when we speak about the. Concepts of the traditions of initiation we have to remember that the. The traditions are related to things that happened before in the common days with the common tools for that moment.
-
-So a tradition is that you still use something that in that time was normal that 's why in some traditions of initiation they use. The use source the use caves the use candles and these kind of things but because in that time when those ceremonies generations were done. Those were the normal tools okay so of course then now by tradition some of us keep doing that but actually it 's just tradition to hold the idea from where it become it became that tradition but. That 's it it 's only that.
-
-So from Africa Asia Middle East Europe America Australia from all this territories many traditions kept from this in static process.
-
-So all this in static traditions came from the old civilizations in the past that they were built with the idea that they had to know. God and understand the creator and the way to understand to know create the creator is through the knowledge of the things that the creator has created.
-
-So it was not through the thing. To the creator it was by knowing the things that the creator has done. The body the knowledge of the body the knowledge of the soul the knowledge of the spirit so they created these kind of path and universities where they could. Go through tests to extends to prove their bodies the knowledge of their bodies the knowledge of their souls the knowledge of their spirits.
-
-So they could get closer to the knowledge of God and to God itself to the creator itself.
-
-So this is why an in static path was created in the in the ancient civilizations like Egypt like Mesopotamia like the plants and civilizations.
-
-So now from where this initiation path began in the civilizations it came from much older from very in another time which is the first time when humans started to spread along the world following the animals in the migrations.
-
-So when they were moments when we were moments and we started to move through the planet we did it because of the change of the weather we were following the animals in their migrations and so on.
-
-So usually the animals were following lakes or wells inside the the ground or the flow of the rivers.
-
-So so we humans we also were following this rivers and this was the reason why we started to. I understand that by moving ahead we were learning new things we were knowing many other places we were reaching the divine we were knowing about the stars about the earth so. The cultures of that time understood that when they were moving through this kind of path they were learning about the planet the world the nature the animals and also about themselves.
-
-So they could teach others and that 's why every year they would send the new ones to this kind of natural path in forest the desert rivers the mountains they would send this young people to have this in ishactic. And then they would process in which they would understand the nature of the world that 's how it began the tradition of learning of acknowledging the world and then of course to create the civilizations and this kind of inherit path that develop into universities.
-
-So all this to try to understand what is an initiation basically an initiation is the things that we do every day when we wake up. We wake up we are initiating something a new day something new okay so something new to learn every time that we learn something. We are tiny that it could be is an initiative process every time that we are moving forward to do something new to learn something new to share something new we are doing an initiative process.
-
-So whenever so the good thing about the initiation is that it 's not reactive is active this means that reactive would be if something is pushing me to do it so I react and I do it. But an initiation process is acting is n't it 's taking action because it 's something that I am willing to do is something that I am willing to learn that 's why that 's an initiation. What we are doing in this path the path of the I am is an is inherit process we are doing an initiation which is day by day we are learning something new.
-
-So throughout all this long process of the year two years we are learning something every day and the initiative process will be the 22 of February 2022 so that would be the moment of the initiation to end with this. With this process so I said the date not in place so it does n't matter we can not come to Egypt you will be also connected life streaming we are going to be sharing all of this online to okay.
-
-So the week the physical week invites us to make an initiative path even if we are doing the lockdown inside our home. It 's just to practice during this days what it is to do an initiative path.
-
-So the task for this week will be to create our own initiative path.
-
-So it does n't matter if you do it inside your home in the garden or in the neighborhood or in the entire village or city you are in or in entire range region it does n't matter whatever it 's better for you to be adapted to. This is just the practice okay so what we are going to do is to decide for which size will be our initiative path. And we will we will attach in our concepts. We chara will be related to which place.
-
-In our in our.
-
-So I can choose whether a church a school etc or the bathroom the kitchen okay so.
-
-## Practice Structure
-
-So whatever you feel. To connect with the chara we are going to work in this path.
-
-So in the post for today I wrote at the end in each chara which places could be.
-
-So we have to choose. To choose. Nine places we have nine charts so nine places within our house. In the neighborhood or in city whatever you just choose the place and.
-
-Whether it is inside your house or in entire city you pick these nine places and then you put in each one of them the attribute of one chara.
-
-## Energy Work
-
-So for example if it is a home I would say the hard chara is the kitchen. The chara is the bathroom the root chara is the. The bed. For example hmm.
-
-Do n't do it on a paper and think about I 'm doing my path on a paper okay or on a table I put stones on I decide each one of the stones is a chara and I do my path mentally. No we are not doing that we are we need to walk the path so we have to even if you want to put I do n't know glass of water stone and plant whatever to refer to that chara. But it should be separated in different places because you have to walk to those places you have to practice it by walking okay so.
-
-So just to let you know. Every day we are going to go to specific place just specific spot hmm tomorrow is the day of the third.
-
-So tomorrow. We go to the third. Everyone we go there to this to the spot that refers to the third eye hmm.
-
-So do n't follow. Do n't make the mistake here I 'm not. I what I said in the blog is that that the alignments would be in the other side this week hmm the alignment but the days. Are going exactly as I explained it okay.
-
-Third eye tomorrow is the third eye hmm.
-
-So tomorrow. We start the third eye we go we do the task there the task I will say tomorrow of course we go to the the task there the next day the throw chara the next day the heart okay so according to the day and the crown chara. We 'll be done the 10th day in the in the stores because the stores come back to the crown chara hmm so each day we 're going to go and do a different task. All together.
-
-Everyone together.
-
-So this this week will be a practice for what we are going to do then in the blue moon in August.
-
-So remember that. Alignment will be. This week will be from. Below.
-
-Above. Down going up. Hmm.
-
-So that 's the change that we are going to do during the alignments but the days are the same the days. Tomorrow.
-
-So. There. I. That the day.
-
-Throw chara and so on. Hmm.
-
-Okay.
-
-So let 's go to the information for today.
-
-## Daily Practice Elements
-
-Today we changed vibration the vibration for today is. Huh. The statement for today is I am the universal designer.
-
-So the reason why is I am universal designer is because the sound. Huh. In the in the. The length and alphabet means the signer the one that the science the reality.
-
-Hmm. And the letter. Ah. The sound.
-
-Means the universe. The beginning. The code for today is Saturn. The second greatest dashes plane is the most characteristic one of our solar system for its rings.
-
-This rings made of rock and ice that give it its beautiful form. It 's considered. Immunology as the father of several gods called the god of time. Chrono.
-
-It 's considered to consume the energy of everything. Bring in it to death so that it can resurrect in a new life.
-
-So it 's known as the karma master. Who tests us. For this it 's weight. Turns our waist into fertilizer for a new harvest.
-
-Satish from satisfied. Or Saturn from sewing. Let 's go to alignment. I become aware of the space that surrounds me.
-
-The body I inhabit on my own braviness. And I picture the low my feet. A light representing the anchor of my body in the shape of a divine spark. And I ignited like a fire.
-
-I feel this divine spark as sand to my ankles. I observe this fire in my body. This fire in my feet surrounded by two legs. One in each foot.
-
-Rising up as two strings of water. One white and the other one blue. A nude , nude , nude , nude. It 's too favours in me.
-
-I feel this spark going up to the knees with a water. I feel this two rivers wide and do get together in my knees , feminine and masculine , learning with a fire , the heat of the sand around. I am created by these two forces. I night is fire in my history.
-
-## Energy Work
-
-I feel this snake of light , this part of fire rising up to my root chara. I feel both forces , the mother creator , and the father creator , both together in me , the fire and water , the two forces , ignite me , I ignite this part , activating this snake of light. With deep breath , I ascend this snake to the circle. I feel this strength of creation , the islands in the river of light , the womb of the mother , this is creating the entire humanity.
-
-Its force lives within me , I recognize its power of creation within , and I ignite the temple of creation within me. I arise this force of the fire to the places between the shadows and the lights. Following the light of the fire snake , the river Nile within me , I activate the temples for the self , the light of who I am. I ignite the being that I am with its shadows and its lights.
-
-I erase it. I ascend with this river of light to the heart. I ignite within me the temple of creation of love , the cube , the house of light , half poor. I threw the love and beauty , I radiate the flower of life through the waters of this flow.
-
-I ignite the life in me. I ignite the life in me. Through my voice , the 12 rays of light and truth shines from the sun that is me radiating the truth of the universe. I ignite the light in the process of learning and teaching what I am.
-
-Rise up the light and water of this divine river to my third eye. I ignite the light through my eyes reflecting the eyes of the things watching staring at me watching deep to my real truth to whom to go and really are. I ignite the light in the keeper of my consciousness. I ignite the light in this river in the delta of light.
-
-I activate the crown in this delta with all the rivers that enlarge the crown of my inner nile and within the pyramids. The octa-yadlands that connect me with all the dimensions of my being. I ignite the seed of my spirit. I recognize now that this is the initiative path of entire world of all humanity living within me.
-
-I am the secret path of the nile. I am the universal designer. I am the universal designer. I am I am I am I am.
-
-Take your deep breath and start to massage. I recognize the path that I go through. I activate the initiative path of the nile within ourselves. Thank you for being here and I see you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Crown
+- **Week Theme:** Physical Week of Aries
+- **Main Topic:** Initiation
+- **Vibration:** `KHa`
+- **Statement:** `I Am the Universal Designer`
+- **Code:** Saturn - The second greatest gas planet, most characteristic for its rings made of rock and ice. In mythology, considered the father of several gods, called the god of time (Chronos). It consumes the energy of everything, bringing it to death so it can resurrect in new life. Known as the karma master who tests us, turning our waste into fertilizer for new harvest.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Today marks the beginning of the physical week of Aries, introducing the fundamental concept of initiation. This word, which many know from the series "Initiation" on Gaia, represents the core of what we do every day in this path. The topic encompasses not only the historical evolution of initiation practices but also their practical application in our daily spiritual journey.
+
+Initiation comes from the Latin "in-ire," meaning to start moving forward from within. It represents the action of beginning something new, of stepping into unknown territory with the intention to learn and grow. Throughout history, this concept has been central to both educational systems and spiritual traditions.
+
+The week ahead focuses on establishing our own initiatory path, creating a physical map of sacred spaces that correspond to the nine chakras. Whether inside our homes or spread across our neighborhoods or cities, we will walk this path daily, visiting different chakra locations according to the day's focus.
+
+---
+
+## Core Teaching
+
+### The Etymology and Meaning of Initiation
+
+Initiation derives from two Latin words: "in" (inside) and "ire" (to go). Together, "ire" means to start moving, to begin moving forward. The concept fundamentally speaks to the action of starting to move forward from within oneself.
+
+In modern culture, we use "initiation" in two main contexts. First, in education, referring to the introduction or beginning of learning about new topics like mathematics, music, or medicine. It represents starting to do something we didn't know before. Second, in what we now call esoteric or hermetic traditions, though this connection also relates deeply to education.
+
+### The Hermetic Tradition and Hidden Knowledge
+
+The hermetic concept comes from Hermes, the Greek god of communication and teaching, known in Egypt as Thoth and in Roman culture as Mercury. Hermes gave information to people, teaching them about everything. When monotheistic religions arrived in Europe and the Mediterranean, they began persecuting these free thinkers who studied in public squares, considering them wrong and against God.
+
+This persecution forced hermetic (Hermes-related) information into hiding, creating occultism. The word "occult" simply means hidden. These students weren't doing satanic practices; they were hiding to avoid being killed. From that moment, secret societies and closed associations emerged. Christians labeled their ceremonies as satanic because they couldn't understand what was happening, which is why initiation ceremonies came to seem weird or devilish from certain perspectives.
+
+Both educational and hermetic uses of initiation relate fundamentally to the process of learning and education.
+
+### Historical Development of Initiatory Tests
+
+Going back in history, initiation into studies was forbidden for a long time. Those who wanted to preserve and share knowledge had to organize tests and trials that seekers would solve to prove they truly had the attributes and will to study this protected information, ensuring they weren't enemies in disguise.
+
+These tests protected universities hidden underground, in the shadows. The Kabbalistic philosophy in Judaism particularly contributed to this system. Within the great monotheistic religions, Kabbalah was unique in making questions, telling people to doubt all things, even to doubt creation itself. This was totally against what mainstream religions like Islam and Christianity taught, which emphasized certainty and faith in God.
+
+Because of these questions, main religions considered Kabbalah wrong and devilish. Hidden universities and hermetic schools started using Kabbalistic systems to create hidden maps so seekers could find the underground universities. This is why in England, these hidden societies were called "the cabal."
+
+Today we have a misunderstanding of what Kabbalah really is. Many people say "they are the bad ones," but this idea comes from Christians who labeled underground seekers this way. In reality, these were free thinkers preserving knowledge.
+
+### Renaissance to Enlightenment
+
+During the past 500 years, when the Renaissance started, Europe was still under the Inquisition. The Inquisition was so strong that it persecuted all free thinkers. Renaissance thinkers brought back concepts from the Middle East, Greece, and ancient philosophy, starting to change everything, but they were also persecuted.
+
+This is why they hid themselves until they were strong enough to show their truth. Renaissance culture created the idea that students were doing hermeticism in hiding, which seemed like paganism to the religious authorities.
+
+In the last 300 years, starting in the late 1700s, the Illuminati also spread in Europe but were persecuted. This created the modern idea of "the Illuminati." They were persecuted and hidden, doing these studies until rationalism started in the states after revolutions.
+
+Before the Illuminati, there were also the Freemasons, the Rosicrucians, the Knights of Malta, and the Templars. These were all parallel movements within Christianity that kept the traditions of initiation from way before.
+
+### The University System and the 33 Degrees
+
+Until just 200 years ago, there were no universities as we know them today with public and private institutions teaching all kinds of knowledge. Universities were prohibited, existing only as religious teachings. To reach universal knowledge, students had to go through tests, sessions before and sessions after.
+
+The most known hidden university in Europe and also in America was the Freemasons. They followed 33 initiatory sessions to reach the 33rd degree. They conducted exams to pass tests at each level. Think about universities today: you study, take a test or exam, and must do it correctly to advance to the next level, the next year. You go through these steps, and in each one you have an initiation telling you that you've reached the next level.
+
+This was originally created to learn and access universal knowledge. Of course, later they started using it for power and political positions, but fundamentally, this was all made to learn and access universal knowledge.
+
+### Initiatory Traditions Across Civilizations
+
+Initiatory traditions from Africa, Asia, the Middle East, Europe, America, and Australia all kept these processes from old civilizations. These ancient civilizations were built with the idea that people had to know God and understand the Creator. The way to understand the Creator is through knowledge of the things the Creator has created.
+
+It wasn't through blind faith in the Creator but by knowing the things the Creator has done: the body, the soul, the spirit. They created paths and universities where people could go through tests to prove their knowledge of their bodies, souls, and spirits, getting closer to the knowledge of God and to God itself.
+
+This is why initiatory paths were created in ancient civilizations like Egypt, Mesopotamia, and Atlantean civilizations.
+
+### The Original Nomadic Initiation
+
+These civilizations' initiatory paths came from much older times, from when humans first spread along the world following animals in their migrations. As nomads, we moved through the planet because of weather changes, following animals in their migrations. Animals followed lakes, wells inside the ground, or the flow of rivers.
+
+Humans also followed these rivers, and this is how we started to understand that by moving ahead, we were learning new things, knowing many other places, reaching the divine, knowing about the stars and the earth. Cultures of that time understood that when they moved through these natural paths, they were learning about the planet, the world, nature, animals, and also about themselves so they could teach others.
+
+Every year they would send young people on this kind of natural path through forests, deserts, rivers, and mountains. These young people would have this initiatory process in which they would understand the nature of the world. That's how the tradition of learning and acknowledging the world began, eventually developing into civilizations with initiatory paths that became universities.
+
+### Initiation in Daily Life
+
+An initiation is basically the thing we do every day when we wake up. We wake up and initiate something: a new day, something new to learn. Every time we learn something, we are in an initiatory process. Every time we move forward to do something new, to learn something new, to share something new, we are doing an initiatory process.
+
+The good thing about initiation is that it's not reactive but active. Reactive would be if something pushes me to do it, so I react. But an initiatory process is acting, taking action because it's something I am willing to do, something I am willing to learn.
+
+What we are doing in this path, the Path of the I Am, is an initiatory process. We are doing an initiation where day by day we learn something new. Throughout this long process of the year or two years, we are learning something every day. The initiatory process will culminate on February 22, 2022. That will be the moment of initiation to end this process.
+
+### Creating Your Personal Initiatory Path
+
+The physical week invites us to make an initiatory path even if we are in lockdown inside our homes. The task for this week is to create our own initiatory path. It doesn't matter if you do it inside your home, in the garden, in the neighborhood, in the entire village or city, or in an entire region. Whatever is best for you to adapt to.
+
+We will decide the size of our initiatory path and attach chakra concepts to specific places. You can choose a church, school, bathroom, kitchen, whatever you feel connects with each chakra. In today's post, there are suggestions for which places could represent each chakra.
+
+Choose nine places within your house, neighborhood, or city. Pick these nine places and put the attribute of one chakra in each. For example, if it's a home: the heart chakra is the kitchen, the throat chakra is the bathroom, the root chakra is the bed.
+
+Don't do this on paper, thinking about walking the path mentally. We are not doing that. We need to walk the path physically. Even if you want to put a glass of water, a stone, a plant, or whatever to refer to that chakra, it should be separated in different places because you have to walk to those places. You have to practice it by walking.
+
+### Daily Practice Structure
+
+Every day we will go to a specific spot according to the day's chakra. Tomorrow is the day of the third eye, so tomorrow we go to the spot that refers to the third eye. The alignments will be done in a different order this week (going upward from below), but the daily tasks follow the normal chakra sequence.
+
+According to the day and chakra, we'll go and do a different task. The crown chakra will be done on the 10th day (Taurus), as Taurus comes back to the crown chakra. Each day we're going to go and do a different task, all together, everyone together.
+
+This week will be practice for what we will do during the blue moon in August. Remember that alignments this week will be from below going up, ascending. That's the change during the alignments, but the days remain the same: tomorrow third eye, then throat chakra, then heart, and so on.
+
+---
+
+## Practice
+
+### Preparation
+
+Become aware of the space that surrounds you, the body you inhabit, and your own breathing. Below your feet, observe a divine spark, light representing your body's consciousness. Breathe and ignite the spark.
+
+### Ascending the Inner Nile
+
+Ascend this divine spark to your feet. Observe this divine spark arriving at your feet, recognizing the two sacred lakes that give birth to the White Nile and Blue Nile rivers coming out through your legs. And in its waters, ignite this fire like sand.
+
+Feel this divine spark as sand ascending to your ankles. Observe this fire in your body, this fire in your feet surrounded by two rivers, one in each foot, rising up as two strings of water, one white and the other blue. Feel these two rivers, white and blue, rising within you.
+
+Feel these two rivers getting together in your knees, feminine and masculine, joining with the fire, the heat of the sand around. You are created by these two forces.
+
+Ignite this fire in your history. Feel this snake of light, this spark of fire rising up to your root chakra. Feel both forces: the mother creator and the father creator, both together in you, the fire and water, the two forces igniting you. Ignite this spark, activating this snake of light.
+
+With deep breath, ascend this snake to the sacral chakra. Feel this strength of creation, the island in the river of light, the womb of the mother that is creating entire humanity. Its force lives within you. Recognize its power of creation within, and ignite the temple of creation within you.
+
+Arise this force of fire to the plexus, between the shadows and the lights. Following the light of the fire snake, the river Nile within you, activate the temples for the self, the light of who you are. Ignite the being that you are with its shadows and its lights. Arise it.
+
+Ascend with this river of light to the heart. Ignite within you the temple of creation of love, the cube, the house of light, Hathor. Through the love and beauty, radiate the flower of life through the waters of this flow. Ignite the life in you.
+
+Through your voice, the 12 rays of light and truth shine from the sun that is you, radiating the truth of the universe. Ignite the light in the process of learning and teaching what you are.
+
+Rise up the light and water of this divine river to your third eye. Ignite the light through your eyes, reflecting the eyes of things watching, staring at you, watching deep to your real truth, to whom you really are. Ignite the light in the keeper of your consciousness.
+
+Ignite the light in this river, in the delta of light. Activate the crown in this delta with all the rivers that enlarge the crown of your inner Nile, and within the pyramids, the octahedrons that connect you with all the dimensions of your being. Ignite the seed of your spirit.
+
+### Closing Integration
+
+Recognize now that this is the initiatory path of the entire world, of all humanity living within you. You are the secret path of the Nile. You are the universal designer.
+
+Take a deep breath and start to massage your body. Recognize the path that you go through. Activate the initiatory path of the Nile within yourself.
+
+---
+
+## Key Insights
+
+- Initiation means to start moving forward from within, combining "in" (inside) and "ire" (to go)
+- Both educational and hermetic traditions of initiation fundamentally relate to learning and growth
+- Hidden schools and secret societies emerged not from evil intent but from persecution by religious authorities
+- The Kabbalah and hermetic traditions were about questioning and seeking knowledge, not devil worship
+- Freemasons' 33 degrees were essentially an underground university system before public education existed
+- Original initiatory paths were literal walking paths following rivers and natural features
+- Every day when we wake up and choose to learn something new, we engage in an initiatory process
+- Initiation is active (chosen) rather than reactive (forced upon us)
+- The physical initiatory path we create this week should involve actual walking to different locations
+- Each chakra location becomes a temple for daily practice and contemplation
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Create your personal initiatory path by choosing nine physical locations that will represent each of the nine chakras. These can be inside your home, in your neighborhood, or spread across your city. Mark each location in a way that reminds you which chakra it represents (a stone, plant, glass of water, or any meaningful object).
+
+Tomorrow, visit the location you've designated for the third eye chakra and perform the practice there. Each subsequent day, visit the corresponding chakra location according to the daily focus.
+
+### Applying This Teaching
+
+Remember that you engage in initiatory processes constantly. Every time you choose to learn something new, step outside your comfort zone, or deliberately grow, you are initiating. Honor these moments as sacred acts of conscious evolution.
+
+Consider your entire life as one long initiatory path, with each challenge and learning opportunity as a waypoint bringing you closer to understanding yourself and the divine. The external initiatory path you create this week mirrors the internal initiatory journey you walk every day.
+
+---
+
+## Q&A
+
+### Q: What is the real meaning of initiation beyond the mysterious associations?
+
+Initiation simply means to start moving forward from within. It's the action of beginning to learn something new, whether that's mathematics, music, spiritual practices, or self-knowledge. The mysterious associations came from historical persecution that forced educational societies underground.
+
+### Q: Why were initiatory societies and schools forced to hide?
+
+When monotheistic religions gained power in Europe and the Mediterranean, they persecuted free thinkers who questioned religious dogma and studied openly. To avoid being killed, these students and teachers went underground, creating what we call occultism (which simply means "hidden"). They weren't doing satanic practices; they were preserving knowledge and the freedom to question.
+
+### Q: What is the true nature of Kabbalah and why was it considered dangerous?
+
+Kabbalah is a philosophical tradition within Judaism that encourages questioning everything, even doubting creation itself. This was revolutionary because mainstream religions emphasized certainty and faith without question. Kabbalah's approach of saying "we don't know, maybe, perhaps" threatened religious authority, so it was labeled as evil and from the devil.
+
+### Q: How do the Freemasons' 33 degrees relate to modern universities?
+
+The 33 degrees of Freemasonry were essentially an underground university system. Before public universities existed (only about 200 years ago), knowledge was restricted to religious teachings. The Freemasons created a structured learning path with tests at each level, very similar to how modern universities have grades and exams you must pass to advance.
+
+### Q: What is the connection between ancient river paths and spiritual initiation?
+
+When humans were nomadic, we followed animals along rivers, learning about the world, nature, stars, and ourselves. Ancient cultures recognized that walking these paths brought knowledge and divine understanding. They formalized this into initiatory practices, sending young people on journeys through forests, deserts, and mountains to gain wisdom. This became the foundation for later temple-based initiatory paths.
+
+### Q: How do I practice initiation in my daily life?
+
+Recognize that every morning when you wake up and choose to learn something new, you're engaging in initiation. It's about actively choosing growth rather than reactively responding to life. Make conscious decisions to step into the unknown, to learn, to transform. This path we're walking together is itself an initiatory process, learning something new each day.
+
+### Q: Why must the initiatory path be physical rather than mental or on paper?
+
+The body needs to experience the journey. Walking physically engages your entire being—body, mind, and spirit—in a way that mental visualization cannot replicate. The act of moving through space, visiting different locations, and physically performing practices at each spot creates real transformation. Your cells, your nervous system, your entire being registers the experience as real.
+
+### Q: What should I do if I cannot walk due to physical limitations?
+
+You can use your hands to touch different parts of your body, creating steps along your own physical form. However, if you can walk at all, even with assistance, do walk the path. The point is to engage the body in movement and physical practice, not to stay purely in the mental realm.
+
+---
+

@@ -1,270 +1,278 @@
 ---
-title: "Day 263 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 263 - Expressiveness"
+author: "Matias De Stefano"
+series: "365 Days - The Path Of I Am"
 day_number: 263
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days - The Path Of I Am"
+date_processed: 2025-01-17
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 263
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - crown chakra
-  - root chakra
-  - heart chakra
-  - third eye
-  - I AM presence
-  - breathing exercises
+  - expressiveness
+  - expression
+  - pressure release
+  - culture
+  - morality
+  - theater
+  - artistic action
+  - humors
+  - emotional release
+  - body tension
+  - sacred expression
+  - acting
+  - creativity
+  - fear of judgment
+  - cultural traditions
 
 practice_elements:
-  chakra: "Crown"
+  vibration: "KHe"
+  statement: "I Am the Designer of Music"
+  code: "Neptune - The ocean of emotional consciousness and subconscious where foundations of feelings are saved"
+  chakra: "Throat"
 
 ---
 
-# Day 263 - Consciousness Work
+# Day 263 - Expressiveness
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days - The Path Of I Am  
+**Source:** 365 Days - The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
-
-## Introduction
-
-Hi everyone. Good morning , good afternoon , good evening. How are you?
-
-So today I was doing the exercise that I wrote in the blog and I was trying to take out the training of the things that I had inside , all expressions and so on. And suddenly I needed the whole day this pain in my mouth like in the teeth. Like I needed to bite something like anger and something like this.
-
-So I was like with a lot of pain in my teeth like I needed to release it somehow.
-
-So a few moments before I just took some wood , the palosanto , I do n't know how it 's called in English.
-
-So I took that , is the only thing that I just grabbed in the table and I was beating and biting it like if it was meat. And it 's been years without eating meat but it 's kind of my teeth needed that feeling of biting something really hard. And I did it a lot and like in a honeymoon and now I 'm feel fine. I 'm feeling fine so nice.
-
-So yes , I had to bite like an animal , biting something , biting something to release all the tension out the body.
-
-Okay.
-
-So let 's begin with information for today.
-
-So you can understand why I 'm beating and biting wood.
-
-So talking topic for today is how do you say , specificity or forgiveness? It 's a specificity. It 's a specificness. Thank you.
-
-So remember this about the word for today. That , X means out and pressed means pressure.
-
-So expression means to get out of pressure.
-
-So what is expressiveness is the ability or the quality to get out of the pressure.
-
-So remember that we have said that expression is related to the energy that we create in our bodies. Whenever we do an action , we take action in something , we do things in our day to life. We are generating energy all the time.
-
-So if we start that energy for ourselves , if we keep , storage in that energy within not being able to get it out , we can get sick. We can get frustrated. We will have so much pressure that we will leave under pressure. We will leave like this , like with many problems in our body , in ourselves , that we can not manifest.
-
-So what we have to do is to let this energy go out to express that energy that we have within many different ways.
-
-So the concept to give away this pressure of energy is expression. Expression is the way in which we can really that tension and manifest that energy that we have within into the outside. Expressiveness , expressiveness , it 's nice. Never said this word before.
-
-Expressiveness is the quality of those who express.
-
-So it means that we know the ways , the tools we can , we know the different ways in which we can manifest this energy in the outside.
-
-So it 's the quality that each one of us have in order to let this pressure that is within to be released into the outside.
-
-So today in the block I wrote about why it 's so hard for us , the topic of expression and how to express the ways in which we express things.
-
-The reason why it 's so difficult for a lot of people to express themselves is because of culture and the morals. Topics that we already spoke in other months before.
-
-So if you want to go deeper into those topics , you have to look for those topics.
-
-So remember these two concepts. The first one culture , culture comes from the word color that means to harvest. It 's related to the cultures. And moral comes from morris that means inhabit.
-
-Like for example the word morale , a place where you leave.
-
-So these two concepts are straight related to expression.
-
-So let 's go to the past first.
-
-So we can understand as always what we are today.
-
-So going back to the past and as a summary of what we have spoken in another moment , remember that we were nomads at the beginning of humanity.
-
-So as nomads we were traveling around in the planet. And basically we kept the communication by traditions. Traditions come from the word trade that is to speak between. To say something between.
-
-So this means that everything was set and the information was set through the. . . The tribes and well going around the planet.
-
-So it was all oral. But once we discover the agriculture , we started to settle.
-
-So that 's why we became sedentary.
-
-So when we became sedentary in one spot , we started to leave according to that region and according to the food that we can grow in that region. That 's why we started to adapt our way of understanding the world according to a place where we leave and according to what we eat in that place. That 's what gave us the culture of our region. And that 's what also gave us the way in which we will leave that culture which is moral , the morality.
-
-So remember that in the past we were not allowed to do something different from this culture or moral because if we do that it could bring us problems , even dead.
-
-So they kept the tradition of this culture and moral morality.
-
-So we could understand how to live properly in that region. Whoever wanted to change that , it put in jeopardy in conflict , all the culture and all the morality.
-
-So everything that was expressed that kept the tradition , the things that we speak about , had to be related with the culture and the morality.
-
-So what happened with this , that the people that thought that had a different way of thinking in these cultures , they just shut up and did n't express all the things that they had within.
-
-So the reason why we shut up was because of fear of not being accepted by this culture or morality or fear to make this culture and morality being jeopardy. This is why even today we have a lot of problems trying to express what we feel what we think , trying to express what we have within , because we are a threat of what others might think about us , what others might say about what we do. And this is because of tradition. Tell me , if you never have gone through this sensation of being a threat to say what I feel , to say you 're expressed what I have inside.
-
-And the reason why we all have gone through that is because of culture , because of the environment that surrounds us.
-
-So now it 's easy to set ourselves in the victim position to say why this happens to me , there are so many bullies around and so on. But let 's give some credit to the society that is like this. Why society attack and judge the things that are different? Because they are a threat , culture and morality were were created because of being a threat of the environment.
-
-They were created to protect from the different things.
-
-So they are a threat , they are not aggressive , they are scared. Looking at this in this way , we can understand that there 's no bad people , there 's people that is care. And basically , if I am attacked by them , is because I 'm scaring them , because what I do is express in things that maybe they do n't like , because they are scared about what I say , or what I do , what I am. And I 'm sorry , as a tiny example , of course that at school , I was the target all the time.
-
-So I was bullied by that. And there was ones that this guy , he was telling me like many bad things and one of the silly things he was like , who would like , who you like and blah blah. And I actually liked him.
-
-So I told him you and that was the last day that anyone said anything to me.
-
-So just because I expressed the truth that was the end.
-
-So what happens here , that expression is a tool for culture and morality.
-
-So eventually , eventually , some of these people that had these expressions that they needed to release , they found out a way in which they were able to express all this , but not. Not offending the culture , not being aggressive to morality. And that place was a spot of security where they could seat and observe all these expressions without being a threat.
-
-So they created what they call a place where you seat and observe the expression. And that 's the theater. Theater means theater observation and there comes from tron that means tron a place where you seat.
-
-So a place where you seat to observe theater , theater and so the theater was one of the hours. Of the arts that allowed the people to express whatever not offending the culture.
-
-So now , this here , this place of expression , the theater theater is the one that allows us to have artistic action.
-
-So this is the artistic arts comes from the Latin arts which is like to order to set to put order on something. And are is action , are action , which means to move forward to move and do something. Yeah , to move something ahead , that would be to move something ahead. To move some to move the order ahead is like putting order into something.
-
-So where is going to put order within in our own expression.
-
-So what what this action , this artistic action will try to order by movement , the humor , we have spoken about humor in another videos.
-
-So remember why the humor , why it will order the humor. Well , let 's go to the idea humor comes from the word human that means wet land. The origin , the origin is humidity and remember that in the ancient times , the people believed that our interior of our body was made with different humor with different liquids. And those liquids were the ones that controlled the water , the soil , the spirit , the emotions and so on.
-
-So that 's why with the time we started to call humor to our states of emotion.
-
-So the artistic action , what it was meant to do is to order the humor within our beings.
-
-So these humor were suppressed , were oppressed in the inside.
-
-So they needed to be expressed through arts.
-
-So there were people in the past that started to be the ones representing how to order these humor within.
-
-So they were the representative of the action and that 's why we call the actors and the actress , which are the people that represent the artistic action in order to express.
-
-So these people were the ones able to show the reality through show the reality through the humor.
-
-So that 's why they started to use humor in order to show stuff that in the reality you would never do. Like love of the king , love of the normal people , do weird things with the gods. You could do whatever you wanted and in that specific spot everything was art. And nobody , nobody , no one could judge that because it was only expression.
-
-So the theater was the place where the actors and actresses were helping the people to live for a while. All the emotions , the hunger , the sadness , the laughter , the judgments , all the different things that you were never never able to do in the normal life. There you could express it , you could see it become reality.
-
-So through history , the theater , now cinema , all the kinds of action of acting skills , would be done as a way to measure the humor of a population to show by fake stories. What is happening in the inside of a society? It 's like the way in which the theaters were used in order to show all these stories outside. To measure how the people were thinking really , but they were scared to do it in the real life.
-
-So for example , something that I was watching the few months ago was this situation like 20 years ago , until 20 years ago , everyone has really clear the difference between the superhero and the villain. And everyone wanted to be the superhero because we knew that the villain was someone doing bad things to the life , to our life to the system.
-
-So suddenly , so we were like all willing to be the one that protects everything the life , the system and so on. The last decade , the theaters , the arts , the cinema , started to show a very different humor of society in which the villain became much more accepted than the actual hero. And in which people started to feel much more related with the villain than with a superhero. Because the villain was against the system.
-
-And the people today is so tired of politicians , of the system and so on. And now we honor the villains that overcome , that go over the system.
-
-So this kind of , of feelings are the ones that the theater , the action is trying to show from the humor of the people. Nobody would go and kill politicians because that 's not something that the people that lives kind of in the center or repressed would do. But in the arts , they show it and everyone 's minds when you see that is like , why? Because usually they are showing a kind of the society humor.
-
-So this means that we have so many things to say that arts repressed or pressed in our inner world. That we do n't know how to tell them or to express them in the real world , but maybe we can do that acting. When we can not do it in the outer world and we take action and we want to take action on that , when we can do is to act to take a part , a role in action.
-
-So this , remember that the body , the soul , the spirit , see the brain , sees everything as an illusion. For the brain is everything in the illusion.
-
-So what you can do is to do that situation as if it is a play in an artistically talking , as if it is a play in which you , in which you do that action , making believe your brain that it is really happening.
-
-So you 're releasing the tension and the energy. That 's a , see-comagic expression in which you just take out all these energies that you have inside and your brain , your brain , your cells , interpreted as real.
-
-So when you have this , this things inside , this repression inside , sometimes the things that you want to say , the person that you want to tell to , there is not very more , maybe that person died , or maybe I would love to bite that person and I do n't , and my culture would say , you do n't do that , that 's weird.
-
-So like I did today.
-
-So what is the solution?
-
-So the solution would be to act that , to make any imagination around acting that situation and taking a part on that.
-
-So your brain and your body will be really thankful for that , because for the body is true.
-
-So for example , you can , you can just let out whatever you have inside , like maybe you just have the need to act like a dog , barking and walking in for pause and , I do n't know , scream like a crazy act your situation.
-
-So the things that usually , you would n't do in front of other people. This is the concept of expressiveness , which is to do whatever you have within and you say , I 'm not good enough to do this , or I 'm scared to do this , but you just do it , it does n't really matter. Just act that , for example , I did n't know to play with piano , I have no idea how.
-
-So I just sit down and do whatever , just play like a kid. And that 's it. Just leave your energy move , that 's the quality of expression , of expression.
-
-So in this way , we can actually let out all the potentials that we have within that by fear , we are not allowing it to go out. I would just recommend you to do this , even if it is a tiny thing , because for some people is easier for some others is really difficult , but do n't redress yourself. If it 's aggression , would you want to express , is aggression , does that matter? If it 's sexuality , it 's sexuality , do n't judge yourself , just do it.
-
-So it 's all about letting , get out the things that you do n't usually would do with other people or in front of other people.
-
-So when you are alone , it does n't really matter , you can do whatever you want , because there is truth that you must know. God is everywhere , so God does n't have morality.
-
-## Q&A
-
-So the task for today is to look for that sacred spot for you that represents the learning , the expression and just do it. Whatever.
-
-So for those who does n't know me , maybe does n't make any sense , but for those who really know me , so they I did it , I was dancing in between the palm trees dancing me dancing. I would never do that , never.
-
-So I was dancing there , and I was screaming to one of the palm trees , saying a lot of that words , thinking about someone , and that 's why it 's all. And so some people were passing by like the nomen and it 's all good , yes , it was all fine.
-
-So that would be expressivity , expressiveness that 's I never said the word. The vibration for today is hey , the same in for today is I am the signer of the music. The code for today is Neptune , and under the sky , the ocean of the emotional consciousness subconscious is found , where all the foundations of our feelings are saved , what makes us be a we can not control. From the indurapian never meaning cloud , where the rains come from.
-
-This is the Latin relation for Poseidon , since sensitivity , the souls deepest , the chaos of the artist with its erratic creativity , the deepest aspect of the circus , are the keys of this world that recalls the depth of the oceans. I become aware of the space that surrounds me , the body that I inhabit , and my own breathing. Below my feet , I observe a divine spark , light that represents my body , and see and die knighted. I bring this divine spark to my feet.
-
-## Guided Meditation
-
-Softly I start to move my feet in circles , activated in the two legs , then move the energy of the two rivers , the white Nile and the blue Nile. From my legs , I send the attention to express the path that inhabits within me. I breathe in the night , this path. I send this spark to my knees.
-
-By unifying these two rivers here , the two stories of the feminine and the masculine that makes me be who I am right now. And I send the attention to express all the history that brought me to hear the heritage that I have within. I breathe in the night my knees is spending them. My rise up is spark to the great lake in my root chara.
-
-With the fighting and vital energy. I recognize this lake , the energy that originates the Kundalini , the origin of the Nile within me. I set the attention to express my word pressed sexuality. I breathe in the night , the root chara expanding it.
-
-I ascended this divine spark to my creative center in the scrum. I observe within me the power of the wound , of the mother of creation , E. C. With the darkness and the lights that makes me be who I am.
-
-And I set the attention to express my darkness and my lights to express my creativity. I breathe in the night the scrum expanding. I rise up my divine spark to the plexus. I contemplate within me the temples of the body of the light , the consciousness of myself.
-
-And I set the attention to express what I am really , what I really am. I breathe in the night the sun , the night the sun. I rise up the divine spark to me through the Nile in me , to the heart. I realize the temple of life and love in my heart , irritating to every living creature.
-
-And I set the attention to express all my emotions and feelings were pressed within me. I express my service to the world. I breathe with night and expand my heart. I ascend this divine spark throughout my throat.
-
-I feel here the temple of the truth , the one that the radiated with the 12 rays , these truths to the entire world. And I set the attention to express my truth to the world. I ascend this spark to my third eye. I am observing the temple of the eyes of the saints contemplating.
-
-I recognize this strength to see beyond. I set the attention to express to the world my ideas. I breathe and expand my ideas to the night in the brain. I ascend this divine spark to my crown.
-
-## Energy Work
-
-I observe the delta of my inner Nile opening with different strains shining with light and in the center the pyramids. I set the attention here to express my beliefs , my philosophy , my spirit to the world. I expand the night in the crown. I recognize that these expressions are the ways that expands the sound , my music to the universe.
-
-Every expression is like a note of violates , creating the music that I am. I am the sign of my music. I take the breath and I take this consciousness throughout my body , stretch it and aside. It is one at the time , come back here and now.
-
-Thank you everybody for being here and another day and see you tomorrow on the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Throat
+- **Week Theme:** Physical Week of Aries
+- **Main Topic:** Expressiveness
+- **Vibration:** `KHe`
+- **Statement:** `I Am the Designer of Music`
+- **Code:** Neptune - Under the sky, the ocean of emotional consciousness and subconscious is found, where all foundations of our feelings are saved, what makes us be what we cannot control. From Indra-Apam Napat, meaning cloud where rains come from. This is the Latin relation for Poseidon. Sensitivity, the soul's deepest, the chaos of the artist with its erratic creativity, the deepest aspect of Pisces are keys of this world that recalls the depth of the oceans.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Today's teaching begins with a personal example of the power of expression. While doing the expressiveness exercise, intense pain developed in the teeth, like needing to bite something with anger. The solution? Grabbing palo santo wood and biting it like an animal biting meat. After years without eating meat, the teeth needed that feeling of biting something really hard. After releasing this primal energy through biting and acting like an animal, the pain disappeared.
+
+This demonstrates the core principle: when we store energy and pressure within ourselves without expressing it, we can become sick, frustrated, and live under constant pressure. Expression is the way we release this tension and manifest the energy we have within into the outside world.
+
+Expressiveness is the quality or ability to get out of pressure. It's knowing the different ways we can manifest energy in the outside world. Today we explore why expression is so difficult for many people, tracing this difficulty back to culture and morality.
+
+---
+
+## Core Teaching
+
+### The Etymology of Expression and Expressiveness
+
+Expression comes from "ex" (out) and "pressed" (pressure). Expression means to get out of pressure. Expressiveness is the ability or quality to get out of the pressure.
+
+Expression relates to energy we create in our bodies. Whenever we take action, do things in daily life, we generate energy all the time. If we store that energy for ourselves, keeping it within, not able to get it out, we can get sick, frustrated, live under pressure with many problems in our body and ourselves that we cannot manifest.
+
+We have to let this energy go out, to express the energy we have within in many different ways. Expression is the way we release tension and manifest energy from within into the outside.
+
+Expressiveness is the quality of those who express. It means we know the ways, the tools, the different ways we can manifest this energy outside. It's the quality each one of us has to let pressure from within be released to the outside.
+
+### Culture and Morality: The Roots of Expression Difficulty
+
+Why is expression so hard for many people? Because of culture and morals. These two concepts are directly related to expression.
+
+Culture comes from the word "colere" (to harvest). It's related to agriculture. Moral comes from "moris" (to inhabit), like the word "morada" (a place where you live).
+
+Going back to the past, we were nomads at the beginning of humanity, traveling around the planet. We kept communication through traditions. "Tradition" comes from "tradere" (to speak between, to say something between). Everything was oral, information passed through tribes traveling around the planet.
+
+Once we discovered agriculture, we started to settle, becoming sedentary. When we became sedentary in one spot, we started living according to that region and the food we could grow there. We adapted our way of understanding the world according to a place where we live and what we eat in that place. That gave us the culture of our region and the morality—the way we live that culture.
+
+### The Price of Cultural Conformity
+
+In the past, we were not allowed to do anything different from culture or morality because doing so could bring problems, even death. They kept the tradition of culture and morality so we could understand how to live properly in that region. Whoever wanted to change that put in jeopardy the entire culture and morality.
+
+Everything expressed that kept the tradition had to be related with culture and morality. People who thought differently in these cultures just shut up and didn't express what they had within.
+
+Why did we shut up? Fear of not being accepted by culture or morality, or fear of making culture and morality be in jeopardy. This is why even today we have problems trying to express what we feel, what we think, what we have within. We're afraid of what others might think about us, what others might say about what we do. This is because of tradition.
+
+### Understanding the Cultural Threat Response
+
+It's easy to set ourselves in the victim position, saying "Why does this happen to me? There are so many bullies around." But let's give some credit to society. Why does society attack and judge things that are different? Because they are afraid. Culture and morality were created to protect from the environment. They are afraid, not aggressive. They are scared.
+
+Looking at it this way, we can understand that there are no bad people, only scared people. If I am attacked by them, it's because I'm scaring them. What I do expresses things that maybe they don't like because they're scared about what I say, what I do, what I am.
+
+A personal example: At school, being bullied constantly, one guy was saying bad things. He asked, "Who do you like?" I actually liked him. So I told him "You." That was the last day anyone said anything to me. Just because I expressed the truth, that was the end.
+
+### Theater: The Safe Space for Expression
+
+Expression is a tool for culture and morality. Eventually, some people who had expressions they needed to release found a way to express all this without offending culture or being aggressive to morality. They created a place of security where they could sit and observe expressions without being a threat.
+
+They created "theater" (from "theatron"—observation, and "thron"—a place where you sit). A place where you sit to observe. Theater is one of the arts that allowed people to express whatever they wanted without offending culture.
+
+This place of expression, the theater, allows us to have artistic action. "Art" comes from Latin "ars" (to order, to set, to put order on something). "Action" means to move forward, to move something. To move the order ahead is like putting order into something.
+
+Where are we going to put order? Within our own expression. This artistic action will try to order by movement the humors.
+
+### Humors and Emotional States
+
+Humor comes from the word "humus" (wet land). The origin is humidity. In ancient times, people believed our body's interior was made with different humors, different liquids. These liquids controlled water, soil, spirit, emotions.
+
+With time, we started calling our states of emotion "humors." Artistic action was meant to order the humors within our beings. These humors were suppressed, oppressed inside. They needed to be expressed through arts.
+
+People in the past started to be representatives of how to order these humors within. They were representatives of the action—that's why we call them actors and actresses. These people were able to show reality through humor.
+
+They started using humor to show things that in reality you would never do: mock the king, show love between different classes, do weird things with gods. You could do whatever you wanted, and in that specific spot, everything was art. Nobody could judge that because it was only expression.
+
+### Theater as Cultural Measurement
+
+The theater was the place where actors and actresses helped people live for a while all the emotions: hunger, sadness, laughter, judgments—all different things you were never able to do in normal life. There you could express it, see it become reality.
+
+Through history, theater and now cinema have been used as a way to measure the humor of a population, to show by fake stories what is happening inside a society. It's the way theaters show these stories outside, measuring how people are really thinking when they're scared to do it in real life.
+
+For example, 20 years ago, everyone clearly knew the difference between superhero and villain. Everyone wanted to be the superhero because we knew the villain was doing bad things to life and the system. We all wanted to be the one protecting everything.
+
+In the last decade, theater, arts, and cinema started showing a very different humor of society in which the villain became much more accepted than the actual hero. People started feeling much more related with the villain than with the superhero because the villain was against the system. People today are so tired of politicians and the system that now we honor villains that go over the system.
+
+This kind of feeling is what theater and action try to show from the humor of the people. Nobody would go kill politicians because people living in repressed centers wouldn't do that. But in arts, they show it, and everyone's mind resonates with "Why?" because usually they're showing society's humor.
+
+### Acting as Emotional Release
+
+We have so many things repressed or pressed in our inner world. We don't know how to tell them or express them in the real world, but maybe we can do that by acting. When we cannot take action in the outer world but want to take action on something, we can act, take a role in action.
+
+Remember: the body, soul, spirit—the brain sees everything as illusion. For the brain, everything is illusion. What you can do is create that situation as if it's a play, artistically speaking, as if it's a play in which you do that action, making believe your brain that it's really happening. You're releasing the tension and energy.
+
+This is psychomagic expression, where you just take out all these energies you have inside, and your brain and cells interpret it as real.
+
+### Practical Expression Techniques
+
+When you have things inside, this repression, sometimes the things you want to say or the person you want to tell is no longer there. Maybe that person died. Maybe you'd love to bite that person, but your culture says you don't do that—that's weird.
+
+The solution? Act that. Make an imagination around acting that situation and taking part in it. Your brain and body will be really thankful because for the body, it's true.
+
+You can let out whatever you have inside. Maybe you have the need to act like a dog, barking and walking on all fours. Scream like crazy, act your situation. Things you usually wouldn't do in front of other people.
+
+This is the concept of expressiveness: doing whatever you have within. "I'm not good enough to do this" or "I'm scared to do this"—but you just do it. It doesn't really matter. Just act that.
+
+For example, I didn't know how to play piano. I have no idea how. So I just sit down and do whatever, just play like a kid. That's it. Just let your energy move. That's the quality of expression, of expressiveness.
+
+This way, we can let out all the potentials we have within that by fear we're not allowing to go out. I recommend you do this, even if it's a tiny thing. For some people it's easier, for others really difficult, but don't repress yourself.
+
+### Embracing All Forms of Expression
+
+If it's aggression you want to express, it's aggression. Doesn't matter. If it's sexuality, it's sexuality. Don't judge yourself. Just do it. It's all about letting get out the things you don't usually would do with other people or in front of other people.
+
+When you are alone, it doesn't really matter. You can do whatever you want because there's truth you must know: God is everywhere, so God doesn't have morality.
+
+---
+
+## Practice
+
+### Finding Your Sacred Expression Spot
+
+The task for today is to look for that sacred spot for you that represents learning and expression, and just do it. Whatever. For those who know me, they know I did it—I was dancing between palm trees. I would never do that, never. So I was dancing there, screaming to one of the palm trees, saying bad words, thinking about someone. Some people were passing by, and it's all good.
+
+That would be expressivity, expressiveness.
+
+### Alignment Practice
+
+Become aware of the space that surrounds you, the body you inhabit, and your own breathing. Below your feet, observe a divine spark, light representing your body's consciousness. Breathe and ignite the spark.
+
+Bring this divine spark to your feet. Softly start to move your feet in circles, activating the two rivers—the White Nile and Blue Nile. From your legs, send the attention to express the path that inhabits within you. Breathe and ignite this path.
+
+Send this spark to your knees, unifying these two rivers here, the two stories of feminine and masculine that make you be who you are right now. Send the attention to express all the history that brought you here, the heritage you have within. Breathe and ignite your knees, expanding them.
+
+Rise up this spark to the great lake in your root chakra with fighting and vital energy. Recognize this lake, the energy that originates the Kundalini, the origin of the Nile within you. Set the attention to express your repressed sexuality. Breathe and ignite the root chakra, expanding it.
+
+Ascend this divine spark to your creative center in the sacrum. Observe within you the power of the womb, of the mother of creation, Isis, with the darkness and lights that make you be who you are. Set the attention to express your darkness and lights, to express your creativity. Breathe and ignite the sacrum, expanding.
+
+Rise up your divine spark through the Nile to the plexus. Contemplate within you the temples of the body, the light, the consciousness of yourself. Set the attention to express what you really are. Breathe and ignite the sun.
+
+Rise up the divine spark through the Nile to the heart. Realize the temple of life and love in your heart, radiating to every living creature. Set the attention to express all your emotions and feelings repressed within you. Express your service to the world. Breathe, ignite, and expand your heart.
+
+Ascend this divine spark through your throat. Feel here the temple of truth, radiating with 12 rays these truths to the entire world. Set the attention to express your truth to the world.
+
+Ascend this spark to your third eye. Observe the temple of the eyes of saints contemplating. Recognize this strength to see beyond. Set the attention to express to the world your ideas. Breathe and expand your ideas, igniting the brain.
+
+Ascend this divine spark to your crown. Observe the delta of your inner Nile opening with different streams shining with light, and in the center, the pyramids. Set the attention here to express your beliefs, your philosophy, your spirit to the world. Expand and ignite the crown.
+
+Recognize that these expressions are the ways that expand the sound, your music to the universe. Every expression is like a note of vibration, creating the music that you are.
+
+You are the designer of your music.
+
+Take the breath and take this consciousness throughout your body. Stretch it aside. Come back here and now, one at a time.
+
+---
+
+## Key Insights
+
+- Expression literally means to get out from pressure—releasing stored energy prevents illness and frustration
+- Culture and morality evolved to protect communities but now often restrict authentic expression
+- People who judge or attack different expressions are usually afraid, not malicious
+- Theater was created as a safe space to express what culture wouldn't allow in daily life
+- Actors and actresses represent artistic action—ordering internal humors through external performance
+- The brain perceives acted experiences as real, making psychomagic expression genuinely healing
+- God has no morality—when alone, you are free to express anything without judgment
+- Physical expression (dancing, screaming, biting, moving like an animal) releases tension the body stores
+- What we repress inside doesn't disappear—it manifests as pain, illness, or emotional blocks
+- Expressiveness is a quality that can be developed by practicing releasing energy in safe, private spaces
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Find your sacred spot that represents learning and expression. This could be in nature, a private room, anywhere you feel safe and alone. In this space, allow yourself to express whatever is repressed within you without judgment or fear.
+
+This might mean:
+- Dancing wildly when you normally feel self-conscious
+- Screaming or saying things you'd never say in public
+- Moving like an animal, biting something (safely), acting out primal urges
+- Playing an instrument badly, singing terribly, creating "ugly" art
+- Acting out scenarios you wish you could live but can't
+
+The key is doing what you normally wouldn't do, especially in front of others. Let the energy move. Don't judge yourself. Your brain and body will interpret this as real release.
+
+### Applying This Teaching
+
+Notice throughout your day when you're suppressing expression. Feel the pressure building in your body. Where does it accumulate? Jaw? Shoulders? Stomach?
+
+Remember that what seems "weird" or "wrong" to express is often exactly what needs to be expressed. Your culture and morality trained you to repress these things, but repression creates illness.
+
+Create regular private time for unrestricted expression. This isn't self-indulgence; it's necessary maintenance for your physical and emotional health.
+
+When you feel judged by others for expressing yourself, remember: they are afraid, not evil. Your authentic expression scares them because it challenges their cultural security. This doesn't mean you should stop—it means you should understand the dynamic and continue with compassion.
+
+---
+
+## Q&A
+
+### Q: Why is it so difficult for most people to express themselves authentically?
+
+Because of culture and morality. When humans became sedentary and agricultural, we adapted to specific regions with specific ways of living. These cultural patterns were enforced strictly—deviation could mean death. We inherited this fear of expressing anything different from cultural norms. Even today, we're terrified of what others might think or say about what we do.
+
+### Q: If society attacks my authentic expression, does that make society bad?
+
+No. Society is afraid, not evil. Culture and morality were created to protect communities from environmental threats. When you express something different, it scares people because it challenges their security system. They're not attacking you out of malice but out of fear. Understanding this helps you continue expressing with compassion rather than resentment.
+
+### Q: How did theater become a safe space for expression?
+
+People needed a way to express what culture and morality forbade without actually threatening the social order. Theater became a designated space where you could sit and observe expressions without them being a threat. In that specific spot, everything was art, and nobody could judge it as real action. This allowed expression of forbidden emotions, ideas, and actions.
+
+### Q: What are "humors" and why do they need to be ordered?
+
+Humors (from "humus," wet land) are what ancient people called the different liquids in our bodies that control emotions, spirit, and states of being. We still use "humor" to describe emotional states. Artistic action was meant to order these humors within us—to organize and express the chaotic emotional energies we carry inside.
+
+### Q: Why does acting or psychomagic expression actually work for healing?
+
+Because the brain, body, soul, and spirit see everything as illusion. The brain cannot fully distinguish between lived reality and vividly acted experience. When you act out a scenario—even knowing it's "not real"—your cells, nervous system, and subconscious interpret it as real. This creates genuine release and healing.
+
+### Q: What if what I need to express feels violent or inappropriate?
+
+Express it anyway, but in your private sacred space, not harming anyone. If you need to express aggression, it's aggression. If sexuality, it's sexuality. Don't judge yourself. The point is releasing what's repressed. You might bite wood like an animal, scream at a tree, dance wildly, or act out scenarios that would be socially unacceptable. Alone, in your sacred space, God has no morality—you're free.
+
+### Q: I don't know what I need to express. How do I discover it?
+
+Your body knows. Notice where you hold tension—jaw, shoulders, stomach, fists. Notice what you absolutely would never do in front of others. That's probably what needs expressing. Start moving, making sounds, letting your body lead without your mind controlling. What emerges might surprise you. Trust it.
+
+### Q: Won't unrestricted expression make me lose control or become dangerous?
+
+No. Regular private expression prevents loss of control. It's the constant repression that eventually explodes dangerously. By creating safe containers for authentic expression, you release pressure gradually and healthily. This makes you more balanced, not less controlled, in daily life.
+
+---
+
