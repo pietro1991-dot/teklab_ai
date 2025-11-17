@@ -1,464 +1,386 @@
 ---
-title: "Day 226 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 226 - Empathy: Feeling the Pain of Others in the Pisces Era"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 226
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 226
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - portals
-  - consciousness work
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hole
+  - empathy
+  - sympathy
+  - apathy
+  - Pisces
+  - sacrifice
+  - suffering
+  - Jesus Christ
+  - Pisces era
+  - 2000 years
+  - compassion
+  - Age of Aquarius
+  - freedom
+  - sacral chakra
 
 practice_elements:
-  chakra: "Heart"
+  vibration: "Huge"
+  statement: "I Am the Will that Creates"
+  chakra: "Sacral"
+  code: "To Use - learning to use the tools acquired by feelings, power, desire to develop and transcend ourselves"
 
 ---
 
-# Day 226 - Consciousness Work
+# Day 226 - Empathy: Feeling the Pain of Others in the Pisces Era
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
+- **Chakra Focus:** Sacral
+- **Week Theme:** Pisces Physical Week
+- **Main Topic:** Empathy, Sacrifice, and the 2000-Year Pisces Era
+- **Vibration:** `Huge`
+- **Statement:** `I Am the Will that Creates`
+- **Code:** To Use - to achieve our life's mission, we must learn to use the tools acquired by the feelings, the power, the desire, all the things that constitute us. This attitude of using teaches us to develop our own tools, remaining ourselves, developing and getting better after trial and error, transcending ourselves in every attitude.
 
-## Introduction
+---
 
-Hi , hello everybody , how are you? Good morning , good afternoon , good evening. Hope this fun you will. Let 's talk about the topic for today , which is regarding empathy.
+## Overview
 
-So empathy.
+Today we explore empathy from its deepest etymological roots and understand why it has been the key concept for the last 2,000 years of human history—the Pisces era.
 
-Remember that we had spoken about empathy in another video.
+This is not just about feeling what others feel. It's about understanding the pain of existence, the weight of suffering, and how humanity learned to distribute that weight through empathy and sacrifice.
 
-So we will try to talk about it again , but deeper.
+We are closing the Pisces era and entering Aquarius, the age of freedom. Understanding empathy in its historical context helps us transition from sacrifice based on suffering to sacrifice based on liberation.
 
-Now let 's understand the concept of empathy from where it comes from.
+---
 
-So empathy comes from N and Baths. N meaning inside. And Baths meaning pain.
+## Etymology: Empathy vs. Sympathy vs. Apathy
 
-Okay , so empathy is not why we usually call today as something that means to feel what the other one is feeling. But specifically , specifically what we are talking about from the very beginning of this word. This word is how you can feel the pain of others. That 's the origin of this word.
+### Empathy: To Be In the Pain
 
-When you feel the pain of others.
+**Empathy** comes from two Greek words:
+- **Em** = inside, in
+- **Pathos** = pain, suffering
 
-So basically empathy means to be in the pain.
+Empathy specifically means to be in the pain of others. To perceive the pain, to feel it as if it were your own.
 
-So remember , do n't get confused with sympathy.
+This is not just understanding intellectually—it's feeling the pain directly.
 
-So remember the difference between these two words. And empathy is to be in the pain of others. To perceive the pain of others to be in the pain of others. Sympathy means with.
+### Sympathy: To Accompany the Pain
 
-So sympathy means to accompany the pain of others. To share to go with.
+**Sympathy** comes from:
+- **Sym** = with, together
+- **Pathos** = pain
 
-So remember empathy is to be in and sympathy is to go with to accompany.
+Sympathy means to accompany the pain of others, to share it, to go with them through their suffering.
 
-So for example myself , Matias , I am much more sympathetic than empathy. Because I do n't understand the pain or the suffering of others. I do n't really understand it. I can go with.
+Matias describes himself as more sympathetic than empathic: "I don't understand the pain or suffering of others. I don't really understand it. I can go with, share with. But I will try to make them laugh or whatever to help them feel better. Because I can't understand why they suffer."
 
-Share with. But I will try to make them laugh or whatever something like this to for them to feel them better. Because I can understand why.
+Each person has different attributes. It's okay to be empathic, sympathetic, or somewhere in between.
 
-So. Yeah.
+### Apathy: To Not Feel
 
-So I am not very much empathy.
+**Apathy** is the opposite of empathy:
+- **A** = without, not
+- **Pathos** = pain
 
-So each one can relate and know how it is.
+Apathy means the inability to relate or feel. Apathetic people cannot connect with others' emotions or accompany them. They simply withdraw from contact.
 
-So it does n't matter if you are sympathetic or empathy. It 's just attributes of different people.
+### Antipathy: To Be Against
 
-So it 's okay. We are in the month of crisis.
+**Antipathy** means:
+- **Anti** = against
+- **Pathos** = pain
 
-So we are going to speak about empathy and not sympathy. And of course there is a third one that is apathy.
+Antipathetic people don't just avoid feeling—they actively work against connection, often provoking pain because they don't care.
 
-So the apathy people are the ones that can not relate can not feel. But neither can I accompany. They can not know that what. How to accompany someone that is feeling fine.
+---
 
-But so it is even if they are good or bad. The apathy people will just go away and not to be in touch with anyone. And of course we have the other one that is the antipathic. The anti-man 's against.
+## Why Pisces Is the Empathy Sign
 
-So anti-patic is the ones that they do n't want to know anything about anyone.
+### The Last Sign of the Zodiac Wheel
 
-So they just kind of provoke the pain because they are like , I do n't care. I do n't want an anti-patic.
+Pisces is the 12th and final sign in the zodiac wheel. This means Pisces is the one who has walked the entire circle, experiencing all that the other 11 signs have gone through.
 
-So the apathy is the one that does n't care because they do n't feel anything. And the anti-patic would be the ones that are against everything. Even if it is good or even if it is bad.
+Because Pisces has been through all the experiences, Pisces can understand what each sign feels. Pisces can perceive, feel, and be in the pain of others because they were there already.
 
-So the other opposition is empathy and apathy.
+### Pisces Loves Everyone
 
-So the empathy is the one that can be in the shoes of the other one. That can feel and perceive everything and become feeling that pain of the other one. And of course apathy is the one that can not feel anything and does n't even care about feeling or not feeling.
+The Pisces archetype loves everyone because they know what everyone has to go through. This creates deep intuition—Pisces can feel what others are feeling even when they're hiding it.
 
-Remember why pieces is the empathy sign. Because when you take the sodium wheel , you will see the 12th sodium signs around. And pieces is the last one. Is the one that ends the whole turn around the sodium signs.
+This is why Pisces people are:
+- Good listeners
+- Excellent advisors on deep matters of the mind and soul
+- Connected to the spiritual world
+- Drawn to psychology and psychiatry
+- Sensitive to hidden realities and dreams
 
-So this means that a person that has taken all the path and walks around the whole entire circle. They end up in pieces. That 's the last step.
+### Connecting to Trauma and Pain
 
-So this means that the last one , pieces is the one that can understand what each one is in the same way. What each one of the other signs have gone through. The other 11 has gone through many different things.
+Pisces is so sensitive and open to inner realities that they naturally connect with the deepest, hidden parts of ourselves—the trauma, the conflicts, the pains we carry within.
 
-So that 's why the pieces one can perceive can feel can be in the pain of the others because they wear there already.
+They can relate to painful memories and go to the specific painful aspects of the self that are awakened inside.
 
-So that 's why they are able to connect to the feelings of the others. They can hack all of them as one. And the pieces archetype is the one that love everyone because they know what they have to go through.
+This creates the concept of empathy related to Pisces: feeling the suffering, connecting to pain.
 
-So this is why the pieces aspect of empathy are way can stay intuition because the pieces perception is the one that allows them to or this archetype to feel what the others are feeling. Even if they are hiding it because they know what was happening there. They ca n't relate with what they were living through.
+---
 
-So this is why the patient pieces concept is very good listening to the others. Giving advice to the others sharing with others about the deepest part of the mind and so this is why the pieces people are also related with the spiritual world the ones that can perceive that can that are sensible to what the other people are feeling. There are the lover ones that the loving ones that are unconditionally and they are related a lot with the psychology and psychiatrist because they know how to connect how to feel the other.
+## The Pisces Era: 2,000 Years of Suffering
 
-So this archetype of pieces is so sensitive so open to the therein realities living this dream that usually they connect with the deepest part the hidden part which is subtlety inside of ourselves related with the trauma related with the conflicts with all the pains that we have within. This is why they can relate to the pain of the people they can perceive the pain a lot of the of the other on the painful memories and they go to the specific painful aspects of the self which are much more awakened in the inside.
+### The Age of Pisces
 
-So this is what creates the concept of empathy related to the pieces concept. The empathy is very close related with suffering in this meaning talking about pain which is something that was really used as concepts. During the last two thousand to hundred years in our history because during that time we were in the pieces era.
+The Pisces era began approximately 2,000-2,200 years ago and will end in the next 100-150 years.
 
-So the era of pieces began like two hundred years By around two thousand to hundred years ago. And we 'll end in the next hundred hundred hundred fifty years approximately.
+The civilization and humanity we've experienced these past 2,000 years has been defined by suffering. Suffering was the main key during all this time.
 
-So the civilization. The humanity that we had this past two thousand years has been defined by the suffering. The suffering was like the main key during all this to. Two thousand years approximately.
+### Etymology of Suffering
 
-So during all this time when we have been living. Was this process of. Of suffering constantly which.
+**Suffering** comes from Latin **super-ferre**:
+- **Super** = under, below
+- **Ferre** = to bear, to carry (iron)
 
-Remember the etymology of suffering is super fair in Latin that means under the iron so a lot of weight.
+Suffering means to carry a lot of weight, like iron on the heart of a person.
 
-So in the heart of the person.
+### Distributing the Weight
 
-So in the contemplation to the suffering of this time the religions and the cultures were trying to look for something that we call empathy. In order to contrast the. The suffering and this empathy. Means to share the weight.
+During this time of contemplating suffering, religions and cultures looked for empathy to contrast the suffering.
 
-To share the readiness of this iron over our heads so we can distribute the weight and we can all keep moving keep going. This two thousand years that has passed. It was not about. To get rid of the suffering but to distribute the suffering.
+Empathy meant to share the weight, to distribute the heaviness of this iron over our heads so we could all keep moving, keep going.
 
-So we can. Overcommit.
+The 2,000 years of the Pisces era were not about getting rid of suffering but about distributing the suffering so we could overcome it together.
 
-So the concept of this. Two thousand years was to. Share distribute the pain the suffering.
+The way to do this was by offering yourself—to help others hold the weight.
 
-So the way which you can do this is by offering yourself.
+---
 
-So you have to offer yourself. To help others to be whole to hold the weight. And the first person that we have the registry that did that offering by. It 's own person.
+## Jesus and the Transformation of Sacrifice
 
-To try to hold. All the rest of the people and the suffering of others was. The teacher the master. Jesus Christ.
+### The First Recorded Self-Sacrifice
 
-So what the master Jesus had done. Was to take a concept of. Sacrifice from the past which was. A ceremony done for the divine.
+The first person we have recorded who offered himself to hold the suffering of all others was the teacher, the master: Jesus Christ.
 
-Using animals. And he take that idea and use it with humans. But offering himself. Instead of offering an animal.
+What Jesus did was take the ancient concept of sacrifice (ceremonies using animals to make offerings to the divine) and transform it completely.
 
-He offers himself. And that changed. The concept for the next two thousand years. Starting at new time.
+Instead of offering an animal, he offered himself.
 
-Which is. A symbolism of the beginning of the pieces era.
+This changed the concept for the next 2,000 years, symbolizing the beginning of the Pisces era.
 
-So let 's go into the. The entomology of sacrifice so we can understand why then the empathy.
+### Etymology of Sacrifice
 
-So sacrifice comes from two words that in English when I say it sounds really bad , which is. Sac and fuck.
+**Sacrifice** comes from two European roots that sound unfortunate in English:
+- **Sac** (or **Sacro**) = to channel the divine into the physical
+- **Fic** (from **facere**) = to do, to make
 
-So sorry. But but those are the it 's the in the etymology them. In the European etymology of these two words.
+**Sacrifice** originally meant to do something holy, to channel the divine into matter through action—a ceremony.
 
-So the word suck means means to channel is what we today call channel basically it means to download the divine into the physical.
+In ancient times, these ceremonies used blood. They killed animals to make offerings to the gods, to the ground, to the earth.
 
-So a person was channeling the divine was representing the divine in the matter.
+This is why we relate sacrifice with suffering, killing, pouring blood. But not all sacrifices required blood—it was just a common tradition.
 
-So that 's suck.
+### Jesus Changes the Paradigm
 
-Sorry. It 's it 's fine English. But that 's that 's suck.
+When Jesus appeared, he stopped the idea of sacrificing external things (animals) to the gods.
 
-So so that 's the origin of the word suck and suck. And suck. Roo. Suck.
+He turned it inward: the sacrifice is to offer yourself as an aware being for the good of everyone, becoming a portal as a child of God.
 
-Which is. Suck.
+This shifted from the Age of Aries ("kill them all") to the Age of Pisces ("I offer myself for the rest").
 
-So suck. Is the word for channel the divine into a priest into a matter.
+He said:
+- Don't take the blood of animals—drink my blood
+- Don't eat those animals—eat my flesh, my body
 
-Okay. Suck.
+This concept of drinking Jesus's blood and eating his body represented the idea that the only being that must be offered to God is yourself, because you are God.
 
-So that 's the origin of the word. Suck. And suck. And suck.
+It's not giving something unaware (like an animal) as a gift. It's giving yourself as proof that you are holy.
 
-In the other word we have fuck. Fuck means to do.
+### The Message Spreads and Changes
 
-So it means to do something.
+Jesus's messengers (Evangelists—"new message" in Greek) spread the teachings, but each region adapted the message to their own cultures and religions.
 
-So when you basically when you do something that is channeling the divine , you might say in the ancient language. You might say. Suck. Fuck.
+The Nordic people changed the idea. Mediterranean people changed it. They mixed in images of solstices and equinoxes, blending all religions and cultures.
 
-Suck.
+The story we hear today about Jesus is probably 80-90% wrong because most of it is other stories mixed into his image.
 
-Okay.
+But one thing is certain: it's been 2,000 years and we're still talking about him.
 
-So it 's to do something that is holy to do something that is channeling the divine into the matter. Suck. Fuck.
+### The Name "Jesus"
 
-So. Suck. Fikium. Suck.
+The name "Jesus" comes from **Yeshua**, which means "the Savior" in Hebrew.
 
-Fuck. Is what gives the word sacrifice in English.
+"Jesus Christ" means:
+- **Jesus** (Yeshua) = the salvation
+- **Christ** (Greek: Christos) = the chosen one, the anointed
 
-Okay. Sacrifice.
+These aren't personal names—they're titles, concepts. They describe what this person represented to people of that time.
 
-So as sacrifice as you see is to do something holy to download the divine into the matter by doing things. Which is a ceremony.
+---
 
-So a sacrifice is the action the act of doing something that is holy that is divine.
+## Empathy and Christianity
 
-Okay.
+### 2,000 Years of Empathy as Survival
 
-So what happened that in the all times during the ceremonies of sacrifice they used to use blood.
+The concept of empathy became fundamental to the 2,000 years of the Pisces era.
 
-So they kill animals to make offerings to the god to the ground , to the earth and so they used to kill animals they used to use the blood and the different parts of the animal for this ceremonies.
+Suffering was so immense that we needed to hold it through empathy:
+- Helping others
+- Being servants to other humans
+- Serving others
+- Loving others as you would love to be loved
 
-So that 's why we relate to the concept of sacrifice with suffering. We relate the killing of the animal with the sacrifice which is the ceremony.
+This distributed the pain and helped those suffering the most to carry the burden of their own crosses.
 
-So as you see you have. You have that in the sacrifice which is this holy ceremony they used to kill animals.
+### We Are the New Sacrifice
 
-So that 's why we relate the concept of sacrifice with killing with suffering.
+Throughout history, when Christianity started, we took the idea that we have to suffer to make a sacrifice.
 
-Okay. With this concept of pouring blood. But it does n't mean that all the sacrifice were used in blood.
+We became the new sacrificial animals. We are the new lambs.
 
-So of course that we can not judge what was killing this animals because it 's something that we overcome. And we are trying to go over it now. But we can not judge the history. In that time they were just doing something that for them were was holy because they were giving back to the earth something that the earth gave them.
+We must sacrifice (suffer) to show others that we're willing to help them by our suffering.
 
-So we eat because of the earth.
+This concept of empathy is born from Christianity—empathy as pain, empathy as sacrifice through suffering.
 
-## Energy Work
+---
 
-So we give something back to the earth. We the animals were opening a portal to the divine.
+## The Shift: From Pisces to Aquarius
 
-So that was their tradition. We can exchange that.
+### Empathy No Longer Means Suffering
 
-Okay. We just understand this as a tradition.
+Now this concept of empathy, born from Christianity and the Pisces era, no longer has the same meaning.
 
-Now we can overcome this with our awareness.
+We are entering the **Age of Aquarius**, the age of freedom.
 
-So when Jesus appears in the middle of this process. He changed the whole concept. It stops the idea of the sacrifice as a ceremony where you offer things to the gods and the goddesses from sky or from the earth. You stop doing that.
+We are no longer like Pisces, willing to feel everyone's pain and hold everyone's weight.
 
-And he stops doing that. And he turns it in a different way. The sacrifice is to offer yourself as a being and a where being for the good of everyone becoming straight that portal as a son of God. And this is what changed the concept.
+We are entering the age of freedom.
 
-So this pass from the age of areas to the age of faces can be set in the way of in the time of areas. This they would say kill them. You know , like kill them all. And in the time of prices he says do n't kill them.
+### The New Sacrifice: Freedom
 
-I offer myself for the rest.
+Now the concept of empathy must be taught not by the sacrifice of pain and suffering, but by the **sacrifice of freedom**.
 
-So that 's why he starts to say do n't take the blood of the animals. Drink my blood. Do n't eat those animals. Eat my flesh.
+The sacrifice is to give everything to help people set themselves free from the weight of the cross.
 
-Eat my body. But this concept of drinking the blood of Jesus of eating the body of Jesus is the concept that he wanted to live. That is oneself. The only being that must be offered to a god because you are God.
+This is the new time.
 
-So it 's not giving something that is unaware of itself like an animal as a gift for others for the gods. It 's budget to you give yourself as a proof that you are holy.
+### Learning from the Pisces Era
 
-So this is what makes that the people stop using the sacrifices of animals. And they start to make another sacrifice which is to sharing the wine and the bread.
+The 2,000 years of the Pisces era taught us about empathy:
+- How to understand the suffering of others
+- How to go into the depth and darkness of the soul
+- How to be in the place of others
+- How to relate to others through wars, conflicts, pain
 
-Something that the Christians started to do.
+We needed to understand how it feels, to live all that, to be in that place—so we could now become free.
 
-So now let 's go to this idea. 2000 years ago this person Jesus said. We have to offer ourselves to hold the pain of so much and awareness.
+### The Message of Jesus for the Pisces Era
 
-So much consciousness that so many other people in the past have been making mistakes. And because of this we have to help the humanity to overcome all these mistakes. Because the next time that we are going to leave the 2000 years that we 're after Jesus Christ are going to be one of the most terrible and horrible times.
+The teachings of Jesus were how to be empathic in the time of Pisces.
 
-So we need to offer ourselves in order to hold and transcend this time of darkness. You know the concept of what 's the message here. We need to help to this humanity to hold all the suffering that they will feel.
+His teachings are still useful for those who need to learn empathy in the Pisces age. Because we will not be able to enter the freedom of the new time without being empathic to the suffering of the previous era.
 
-So if we hold each other we are going to be able to transcend these 2000 years that are coming that are very heavy.
+The teachings from 2,000 years ago were for the environment of 2,000 years ago—for an era that needed to be very empathic.
 
-So what the idea of the sacrifice was that he offered himself to sacrifice to be sacrificed as an animal.
+### Looking 2,000 Years Ahead
 
-So everyone could remember that idea was to sacrifice oneself to sacrifice oneself in order to transcend oneself. No need to sacrifice something else that is unaware. We need to do this.
+The question now is: how will they see us in 2,000 years more?
 
-So then the messengers that he had left spread to the world to bring the messages , the new messages that this master has said. New message in Greek language you may say Evangelist.
+Are we doing our sacrifice right?
 
-So now what happened with all these people that started to spread. They give the messages. But the messages were started to be adopted to the people in the different regions.
+---
 
-So every region started to interpret the messages according to their own cultures and religions to their own spirituality.
+## Practice
 
-So this is how it was re-adapting constantly once and again.
+Close your eyes. Breathe deeply. Feel the energy moving through your entire body—to each organ, muscle, each cell.
 
-So everything started to be changed. The Nordic changed the idea. The Mediterranean people changed the idea. They started to put the images of the solstice and equinox.
+Feel the magnetism, the hot and cold expanding energy. Recognize this energy as your emotions.
 
-They started to mix all the religions and cultures creating a hyper image of Jesus that was never like this.
+Take a deep breath. Allow these emotions to expand throughout your entire body, dissolving to the infinite like drops of water filling an ocean.
 
-So all this story that we get today about Jesus was not like this. Maybe it 's 80 or 90 % wrong when we get today. Because what they what you were doing there is nothing related to what we hear today. But only one thing we can say about him that it 's been 2000 years already and we are here speaking about him.
+Perceive in this ocean the pain, the conflicts, all that you carry.
 
-And he sacrificed. Practically the history of Jesus is only the 10 % of what we hear today. Because most of what we listen today is many other stories that were put in the image of Jesus. But it was not his story.
+Open yourself to feel—to perceive the textures, smells, colors, flavors. Feel the emotions connected to these senses, the people connected to these emotions.
 
-The entire history is all mixed with many different things. Which are not important things because most of them are just stories that not even him has lived.
+Take a deep breath and become aware that all of this that you feel, that you perceive, is a part of yourself.
 
-So the important thing here is the essence of the message that sometimes you can not even explain. That they went through the history through many religions and that you maybe can only feel not read about it. And one of those changes is the sacrifice of the external changed into the sacrifice of empathy. One point about all this because sometimes we even from the negative or the positive we stop talking about Jesus all the time.
+As wider you open yourself to feel, the more you expand, connected to the network.
 
-And it does n't matter if he existed or not existed. It does n't matter even his name. Jesus was the name that people gave to him. Maybe he was called baby.
+Recognize that this sensitivity, this capacity, allows you to take all that is expanded of you throughout the cosmos and manifest it here and now.
 
-I do n't know. It does n't matter what really important is the message that survived through him. Not if he existed or not. He 's a concept beyond a person.
+Take a deep breath, bringing all this sensitivity, this capacity of manifestation, and put your sensitivity toward yourself. Activate it within with your vibration.
 
-Remember that the names are not important is a concept.
+Sound the vibration **Huge** from your sacral chakra.
 
-So it 's not his name , Jesus. Jesus comes from the word Yehuda. Yehuda means the Savior.
+**I am the will that creates. I am the will that creates.**
 
-So the people called the one that came to save was called Messiah.
+**I believe in what I feel.**
 
-So Messiah was the one that came to save and he was the salvation which is Yehuda.
+Breathe deeply. Bring this consciousness to each part of your body.
 
-So the salvation.
+---
 
-So that 's the origin of the name Jesus. Yes? And then the people said he is the chosen one. The chosen one in Greek language you say , He 's the Savior who was chosen.
+## Key Insights
 
-So basically , basically , when we have of him , it 's not names. Is the ways how people used to call him.
+- Empathy (em-pathos) means to be in the pain of others, not just understand intellectually.
+- Sympathy means to accompany the pain; apathy means to not feel; antipathy means to be against.
+- Pisces is the empathy sign because it's walked the entire zodiac wheel and knows what all signs experience.
+- The Pisces era (last 2,000 years) was defined by suffering and distributing that suffering through empathy.
+- Suffering (super-ferre) means to carry heavy weight, like iron on the heart.
+- Jesus transformed sacrifice from offering animals to offering oneself as an aware, divine being.
+- The name "Jesus Christ" is a title meaning "the Savior who is chosen," not a personal name.
+- Christianity spread empathy as the way to hold and distribute suffering together.
+- We are transitioning from the Age of Pisces (empathy through suffering) to the Age of Aquarius (freedom).
+- The new sacrifice is not suffering but helping others become free from the weight.
+- We cannot enter the age of freedom without first being empathic to the suffering of the Pisces era.
 
-So I do n't know his name. That 's why I used to say this person instead of just Jesus. Because Jesus is a concept of people in that time.
+---
 
-So now imagine this concept , Jesus Christ , was the fundamental of the 2000 years of the pieces era in which the empathy was the key of survival of suffering.
+## Integration
 
-So the suffering was so much that we needed to hold this suffering by empathy , by helping the others , being servants of the other humans , serve to others , love the others as you would love to be loved. And so distribute the pain and to help the few that are suffering a lot to take the burden of their own crosses.
+Today, reflect on how you relate to others' pain. Are you empathic (feeling their pain directly), sympathetic (accompanying them), apathic (disconnected), or antipathic (against)?
 
-So this concept of empathy of helping others is the key during this 2000 years. And we inherit all these concepts through these centuries behind us from this master , from the concept of Jesus Christ , this person that offered himself in order to help us understand the importance of helping others of being in service to others. And now from that point of view , from the point of view of sacrifice , remember that we have inside the suffering which was this idea from the animals being killed during the ceremonies of sacrifice. And this animals that were killed for the gods was to kill a goat in order to have to be loved.
+There's no right answer—each has its place. But understanding your natural tendency helps you know how to serve others and when to protect your own energy.
 
-And so we wanted to have more goats as an offering.
+As we transition from Pisces to Aquarius, ask yourself: How can I help others become free rather than just sharing their suffering?
 
-So that was the whole idea.
+The old paradigm was: "I will suffer with you." The new paradigm is: "I will help you become free from suffering."
 
-So throughout the history and when the Christianity started , we took this idea that we have to suffer in order to make a sacrifice. Because we are the new goats , basically. And we have to help the sheep , how they say lambs.
+---
 
-So we are the new ones that must sacrifice in order to show the others by suffering that we are willing to help the others.
+## Week Context
 
-So this concept of empathy is related with Christianity.
+We are in the Physical Week of Pisces, working with the body's relationship to empathy, sacrifice, and the transition from the age of suffering to the age of freedom.
 
-So now pay attention to this. All this concept of empathy , which is born from the Christianityism , this concept of empathy as the pain.
+The sacral chakra (today's focus) is where we create, where we channel divine energy into physical manifestation—the original meaning of sacrifice.
 
-Now it does n't have any meaning. Because we are now entering the age of Aquarium. And entering the age of Aquarium means that we are not like in pieces willing to feel everyone and holding everyone. We are entering the age of freedom.
-
-Aquarium is freedom.
-
-So now the concept of empathy must be taught not by the sacrifice of pain and suffering , but the sacrifice of freedom. The sacrifice is to give everything in order to help the people to set free from the weight of the cross. This is the new time.
-
-So all these 2000 years was n't just about suffering because it was like this.
-
-Now the age of pieces was to teach us about empathy. Was the one that taught us how we can understand the suffering of others , how to go into the depth of the darkness of the soul. How can we be in the place of others? How can we relate with others to live the wars to live the conflicts?
-
-We needed to understand how it is to feel all that , to be in the place , living all that in order to now become free.
-
-So the message of Jesus was how to be empathy in the time of pieces. And his teachings are still good for those who need , like us , to learn still how to be empathy with age of pieces. Because we are not going to be able to get inside in the freedom of a new time without being empathy with the suffering of the previous era.
+---
 
 ## Q&A
 
-Remember that the teachings from 12 , 2000 years ago were according to the environment of 2000 years ago. For an era that we knew it would have to be very empathy. The question could be now , how are they going to see us in 2000 years more? Are we doing right , I will sacrifice?
+### Q: If empathy means feeling others' pain, isn't that exhausting?
 
-## Daily Practice Elements
+Yes, which is why the Pisces era was defined by suffering. But we're transitioning to Aquarius, where the goal is not to feel everyone's pain but to help everyone become free. You can help without absorbing all suffering.
 
-The vibration for today is huge. The statement for today is , I am the will that creates the code for today is to use. To achieve that purpose , our life 's mission , we must learn to use the tools acquired by the feelings , the power , the side , the desire , all the things that constitute me have a logic. Are you to teach you full-filit?
+### Q: Is sympathy better than empathy?
 
-For that , the attitude of use in is the ability to develop our own tools of remaining ourselves , of developing and getting better after trial and error , over and over , transcend in ourselves in every attitude.
+Neither is better—they're different tools. Empathy allows deep understanding. Sympathy allows companionship without overwhelm. Know which you naturally are and use it consciously.
 
-So let 's go to the alignment.
+### Q: Why did Jesus have to suffer to change the sacrifice paradigm?
 
-We are going to do this.
+He didn't have to suffer—he chose to demonstrate that sacrifice is offering yourself (your awareness, your divinity) not external things. The suffering came from the resistance of the old paradigm.
 
-We are going to do this.
+### Q: How do we sacrifice for freedom instead of suffering?
 
-We are going to do this.
+Give your energy, your wisdom, your presence to help others wake up and become free. Don't just share their pain—show them the way out of it.
 
-We are going to do this.
+### Q: If most of the Jesus story is mixed with other traditions, what's true?
 
-We are going to do this.
+The essence: offering yourself as divine, distributing the weight of suffering through love, teaching empathy. The details may be mixed, but the core message survived 2,000 years.
 
-We are going to do this.
+### Q: How do I know if I'm ready for the Age of Aquarius?
 
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-We are going to do this.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+If you can be empathic to the Pisces era's suffering without getting lost in it, and if you're focused on freedom rather than just sharing pain, you're transitioning well.
 
 ---
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

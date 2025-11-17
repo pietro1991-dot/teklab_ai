@@ -1,304 +1,519 @@
 ---
-title: "Day 171 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 171 - Religion"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 171
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 171
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - chakras
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
+  - religion
+  - re-ligare
+  - tie back
   - crown chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
+  - hierarchy
+  - tree of life
+  - faith
+  - hope
+  - dogma
+  - preconception
+  - forgiveness
+  - understanding the past
+  - spiritual systems
+  - essence
 
 practice_elements:
+  vibration: "DHa"
+  statement: "I Am the Divine Essence"
   chakra: "Crown"
+  code: "Religion as the system to tie back to the divine, to reconnect with the source, to remember the eternal tree of life that humanity has sought since leaving the forest in search of hope."
 
 ---
 
-# Day 171 - Consciousness Work
+# Day 171 - Religion
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Crown`
-
-## Introduction
-
-Hello everyone. Good morning , good afternoon , good evening , wherever you are. I 'm not in the boat yet , because for the reason that there is no tourism , the flights are being cancelled. They just put us all in a new flight tomorrow.
-
-New times.
-
-So I welcome all of you to this beginning of the physical week of Capricorn.
-
-Today we start.
-
-We are going to speak about the systems , the structure , systems from the point of view of Capricorn in the society.
-
-## Energy Work
-
-So we are going to talk today related to the Crown Chakra , which is the topic of religion. As we usually say with family in a meal , family meal , we do n't speak about religion , about politics or economics. Well , we are going to talk about all of it together.
-
-So first of all , we like to say that talking about me , you have your own story , but talking about me , for example , I do n't have a religion. I do n't have a political idea. I do n't have this concept in my life. I 'm going to share a little bit of everything.
-
-So because of this , sometimes can be easier for me , for people like me that does n't have these specifics , documents to think or to speak about all these things in a way that is how to say that is not related to straight directly to me.
-
-So what I would say is that for many people that maybe will listen this or whatever , for many people , maybe it 's difficult to talk about these issues , but not because they believe in a religion , but because they have a culture inside and a preconcept of what things are.
-
-So just for you to have this idea , to have this concept , try to be open to see a different perception , to see a different option.
-
-So I would like to share first of all the idea , my own idea of religion. I was born in a context of a country that is Catholic.
-
-So I was born in an environment that people were mainly Catholic. I recognize the religions through the Catholicism. Of course , but my home , my family was not religious. My grandfather was agnostic.
-
-My entire environment in the family was not religion at all.
-
-So we were kind of this things far away is better. It 's better not to speak about this things or we do n't want to talk about religions. And I am pointing this out because sometimes when we start to talk about the topic of religions , we might say religions are a bad thing because most of the people were inside our religion. And they want to go out from it and the people that lived in a religion , they say , I do n't want this anymore.
-
-So they have this preconcept of religion. Because of this , we have this preconceptions of religions like something bad. But for example , in my own case during my whole life , I was not related to religion. And I had a preconcept of religions from the point of view of being superior to religion , people , religious people.
-
-Because it was like they are still attached to one idea. But sometimes that belief is also a religion. Because we are connected , we have a bond with the concept of being superior because you do n't have a religion.
-
-So it 's important also to understand that when we are not religion at all also , we can also be attached to dogma or misconception about what a religion is. And I guess it 's important to point this because usually when we speak about these topics , we use to criticize religion like trying to say that it 's not good. But this is not the point for today 's topic.
-
-So the topic for today is about from where the religions came from , why they are important in our process and where they started to get lost in the distortion of reality.
-
-So first of all to understand religion , what it means religion. Religion comes from the word re ligase in Latin that means to raise to come back to. And ligase means to tie something , connect something with another thing , okay , to tie.
-
-So the concept is to tie again , to tie it back another time.
-
-Okay.
-
-So now let 's go to the history of religion , how it started. Because our religion did n't start it just in the concept that we have of religion from 3000 or 5000 years ago when human history started to be registered. The human history is way much longer.
-
-So we should not stay attached to the concept that we have of the things from our point of view of how they were created in history. We have to go deeper and even more behind all the things to understand the basis if we want to create something different.
-
-So important to know when we are trying to build something new in the future related to love , related to evolution , to compassion. As I said in Rome in 2014 , we should not build something in the future. We are thinking against the things of the past. Like if something in the past was wrong and we are the good ones.
-
-And saying that if we erase this part of the past , we are going to heal the future. No , it 's not like this. It 's through forgiveness that you heal the future. For forgiveness means that you have to understand the past.
-
-We have to understand the reasons of the past in order to heal the future. If we start to judge things for the things that happen now , it 's a loss battle. Because we are wasting time because we are not understanding why they 're happening.
-
-So we are not being able to heal it for it not to happen.
-
-So I invited you to do this exercise of the idea that we used to speak about the past about thousands of years ago. But what would happen if we tried to think as someone in a thousand years ahead in the future?
-
-So if they see backwards to us , they will see like we are a religion that we are like a sect , like a cult. And that everything that we are just speaking right now here is just the concept of people believing that they are aware. And working with consciousness.
-
-So they thought they were superior to others because they were working with the world in consciousness. They would think about this. They would also maybe say they thought they were doing good things but they were n't doing anything. They were doing bad things for example.
-
-Because from the point of view of the future , maybe we are doing everything wrong for sure. Because everything is about evolving in the future.
-
-So it 's important to understand that when we try to get the idea of what happened in the past , we should not judge the things from the eyes of the future. Because maybe the people that are doing wrong today , the things , they were trying to do the best in the beginning. But they had no idea how.
-
-So they ended up doing it wrong.
-
-## Q&A
-
-So I would invite you to not lose time trying to go against the old systems. Because here comes the questions , yes , but the Vatican does this or this people does that and whatever. Yes , of course. But why?
-
-Because they are the last part of a system that was created for hundreds of years. And now it 's our time.
-
-Now we have to think in our future , in our new time.
-
-So if we waste our time trying to blame what happened or what they did in the past. We are not going to heal the past. The only way you can heal the past is by forgiving the past because they gave us the tools to understand , oh , look at this. That was wrong.
-
-So I had no idea that I would be wrong.
-
-So now I know that it 's wrong.
-
-So I would do it better. Thank you. System from the ancient times to teach me what is wrong.
-
-So I can do it better in the future. That 's the way you go into the future and not lose time in the past.
-
-So this is why here we are not going to criticize their religions.
-
-We are going to give them a meaning.
-
-So I 'm much to read the blog , but I will try to make a summary of the blog.
-
-So remember that in this past month , I guess it was in Sagittarius during the trip that we did from the history. Everything for us began in the moment when we as animals in the beginning of our history as humans , we were living in the forest in Africa , in the trees. And we were eating the fruits of the trees. And there was one day that there was no fruits on the tree.
-
-So we said , where can we find more food? And some of them commented , said in their language kind of , they said , I heard that beyond there is more trees with much more food.
-
-So one of them left the forest with faith in that tree to find something beyond.
-
-So we 've been this animals before we became like from the human kingdom. We started to look at it for that tree every day with faith. And we were hoping to find it.
-
-So we were having hope. That 's how we discovered hope.
-
-So from the first moment of this path , this path created our intelligence that tried to find that tree in which I put my faith in. And I had the hope to find it. From that moment every home in it that came from Africa , looking for this food , started to have faith in to find that big tree of food that was called the tree of life. From that moment on every religion has a holy tree , a secret tree , what it 's going to.
-
-So these cultures from the very past , they started to follow the trees , they started to follow and try to understand where is this tree. And as much they were traveling expecting to find this tree , the tree was even bigger because they started to make the idea of the tree being like so huge , so big that this tree should be like , I do n't know animals must must grow from this tree. Different fruits must must grow from this tree should be so , so big that you can not see the horizon , I do n't know , they touches the sky , it 's so , so big.
-
-So every day was so difficult to find this huge tree that they started to get comfortable with the trees that they found. And I was making a comparison with our cultures today. For example , for all of us , this name has done a very good job making us believe that there is the prince or the princess that we have to find in our life. The perfect person that we have to find and all we will be good and will be the perfect person and so on.
-
-So we are our whole life expecting for that person that is the perfect person that is our soul mate , our twin flame , but always the prince , the most beautiful person or the most beautiful woman. And until you find that person , you start to find like many frogs in the middle , okay?
-
-So you start to find many other people and some of them are good , some of them are bad , I do n't know , but you will start to find other people and get comfortable with other people. And you never find the prince or the princess. And why is that? Why you do n't find the best person ever because as much you look for it , your imagination starts to design this person in a way that it does n't exist is impossible for someone so perfect to exist.
-
-Okay , so that 's why we start to to create this idea and that 's why we never find it.
-
-So the same thing happened with a tree. The tree was so , so big in the head of the people as they were trying to look for it that they could n't understand it , they could n't understand that that tree did n't exist.
-
-So , so they said , okay , this this tree should be so , so big and so incredible that it must be big as the sky so suddenly they said , oh , maybe the tree is the sky.
-
-So the branches are all over the sky and the stars are the fruits of the tree. And that 's how they created the idea of the tree of knowledge , the tree of the divine. Suddenly this tree was so big and they were observing it every night. That suddenly they understood the skies and how they move.
-
-They understood the seasons , the cycles of the moon. They understood the constellations , the calendar , fastest equinox.
-
-So they knew how went to so went to harvest. They understood from the sky how to handle the matter in the earth. And the sky started to give to the humans a gift which is rain.
-
-So they could so and harvest.
-
-So they started to get enlightened by the water. This is the way in which the nomads discover that they can also sew the plants and the trees. They do n't have to look for it.
-
-So they become sedentary.
-
-So this is how the sedentary people start to protect the fields , the seeds. And they understood that if they are all together they can survive. If one of them goes away , they can be lost.
-
-So they need to get all together. United.
-
-So the way in which they started to hold these people together. It was the person that saw the skies , interpret the sky and brought the idea to the people as an advice. And that was the priest , the chairman.
-
-So this priest that understood the concepts of the sky put everyone together by advice in this country. The specific moments of the year because he understood or she understood everything.
-
-So in the solstice the equinox in the phases of the moon. Every 28 days in the new years. In the constellations the houses of the constellations. They called everyone to put together.
-
-To share and to receive the blessing for this new stage coming.
-
-So they got united once and again , once and again every season and every change of the sky. And how do we call to get united again and again and again in ceremonies. We call that re ligase re legend. This is how a religion starts.
-
-Following the skis of the sky. To put together all the individuals of a family. For them to survive through time. Is n't this beautiful?
-
-The system , the religion , beautiful. The natural religion is beautiful. The origin of everything. It 's just to pay attention to the skies in order to know how to live.
-
-In order to know how to move.
-
-So that 's what we all do. In specific moments of the time of the calendar. We get together all the family. But to celebrate something to share.
-
-Food mainly. And it 's perfect. It 's so beautiful.
-
-So now what happened? A lot of people start to be born.
-
-So many people , a lot of people.
-
-So they start to separate to create many other villages.
-
-So they go to the north.
-
-So they go to the desert. They go to the rainforest. And the shaman starts to interpretive. Starting to interpretive.
-
-The environment , the divine. According to their environment , the geography and the weather.
-
-So whoever went to the north for example. Where is to call. And you have a winter , a very long winter with three months of night. There 's no way for them to survive with plants.
-
-So they needed to hunt.
-
-So that 's why their religion was related to the blood. For the people of the desert , it was related to the will of water. The wells. Inside the ground.
-
-So the water was holy. For the people in the rainforest , it was all about the animals and the sacred plants. For the people like to bet. They had no much oxygen.
-
-So they needed to talk slowly for them not to die because of a heart talk. Because they do n't have oxygen.
-
-So what they had to do was to seat and mediate. To take it to breath.
-
-So from that moment on , what happens is that they do n't have to be a human. There 's no money in the mind. There are only shaman trying to interpret the divine through the geography where they live in.
-
-So in this way , starts to grow many interpretations of the divinity according to the geography and the weather.
-
-So what happened in the past in the past? That there is so much people in the world that they start to migrate and suddenly they migrate from one branch and then with a lot of people they find again in another moment. And they kind of look similar. But they have so many different ways to interpret it the similar.
-
-So if this one went to the rainforest and this one to the mountain when they find again each other. We 'll be different in the interpretation of the divine.
-
-So what happened in that moment is that one of the shaman say , let 's try to protect our people.
-
-So hey , remember that our truth in the rainforest is better and is the truth for us.
-
-So that 's the only one truth that you can survive with. Do n't believe the people from the mountain because they do n't know how to make you leave in the rainforest.
-
-So the shaman and the priests stop with interpretation and with the will to interpret the skies and they start to put all their energies in protecting the earth.
-
-So when I say protect the earth , I am saying to protect their own vision. The people.
-
-So what they started to do is to try to convince the rest of the people that their truth , their speech , was the best. This is the moment when religion stopped being something that unites and starts to become something that divide us and type people to other people. And this is what makes a system of belief , a system , a spiritual system become , to become a system of faith , which is faith to trust , to trust in the other speech , the other opinion. And that is a dogma.
-
-We say dogma. In Greek to opinion.
-
-So the question would be , how many of us are here trying to convince the others with our opinion on things and how many of us are here trying to share that opinion to whoever needs it? The problem are not religions. Religions are not bad. Religions are a system that helps us to be united.
-
-The problem here is not religion. Is the people that is afraid to lose control. As the higher self said today , a garden can not have only one flower. The only way we can download the light is with diversity.
-
-And that 's why we are here to try to open our lotus flower to find our inner light. Is 21 21 of the day 21 year 21. Take a deep breath. And we begin with the alignment.
-
-## Daily Practice Elements
-
-The vibration for today is the , the , the , the statement for today is I am the divine. And I 'm going to mention it. The code for today is oxygen. This is the third basic element of creation and the most important one for life in our world.
-
-This mean. That , this means the most present in the atmosphere. The chemical process performed by the vegetable world during the photosynthesis. Parts oxygen , which is used by the rest of living beings for breathing and circulation.
-
-Turning nutrients into energy , relating this way , the element air. The one that connects us all on a unique connection.
-
-## Guided Meditation
-
-Remember that breathing in Latin is similaré , which is the origin of the word spiritual. The ability to breathe is spiritual.
-
-So we are connected today with the chemical element oxygen that is related to our spiritual world.
-
-Okay? Let 's go to the elements. It 's comfortable and we focus on our breathing. Take a deep breath.
-
-And think , pay attention to all your body , to your feet , your legs , hip , twist , your chest , arms , arms , shoulders , neck , face and head until your hair. Take a deep breath and start to make a soft massage from your feet to your head. Come in aware of each part of it. Take a deep breath and discharge the energy through the mouth.
-
-If you are interested in hearing , please come and check any more details on this test. I 've become aware from the inside of my body. The heartbeat of my heart , the blood , my veins and arteries , how it goes to each one of the organs , muscles. Take a deep breath , fill in the air , the oxygen coming inside , filling it in your lungs , how it goes to the blood , bringing this fresh air to the brain , relaxing , the entire nervous system.
-
-Remember , each time that I breathe , I activate this spirit within me , so I recognize that my body is a temple. I use my imagination to feel myself like this spirit that lives within me inside my heart on lungs , a side breath , and I use imagination to see how this temple looks like from within. And I recognize that beyond the forms , the shapes , the ways , all of them were looking for the same thing. They were looking for the essence , the light.
-
-They were all looking for the only one in great spirit.
-
-So I invite them all to sit around in my temple. As I see them around , I remind them that the great spirit lives within us and is called breathing. I take a deep breath and invite them to this sok , breathing whole exile. And in my breathing , I activate the vibration of my essence.
-
-I am the divine essence. I am the divine essence. I am the tree of light and knowledge. I am the consciousness.
-
-I am the universe. I am the light. I am life. I am the path.
-
-I am the religion that unites spirit , soul , and body. I am God. I am the path of the world. Take a breath and each one with some time.
-
-## Q&A
-
-Come back here and now Margin ' all your body. The task for today , write down what are the basis of your own religion. I 'm not saying about the religion you are in culturally , I 'm saying about your own religion. What are the basis , the laws of your own dogma?
-
-Thank you everybody for being there and see you tomorrow the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Crown (connection to divine, higher consciousness, spiritual systems)
+- **Week Theme:** BODY 'ESSENCE' - CAPRICORN - I Use (Beginning of Physical Week)
+- **Main Topic:** Religion
+- **Vibration:** `DHa`
+- **Statement:** `I Am the Divine Essence`
+- **Code:** Religion as the system to tie back to the divine, to reconnect with the source, to remember the eternal tree of life that humanity has sought since leaving the forest in search of hope.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+On January 21st, Matias begins the **Physical Week** of Capricorn with one of the most sensitive topics in human history: **Religion**. This teaching is not about criticizing or defending any particular religious system, but about **understanding where religion came from, why it was important, and where it got lost in the distortion of reality**.
+
+The word **religion** comes from Latin **"re-ligare"**—**"to tie back,"** to connect again, to bind once more to the source. Religion was meant to be the **system through which humanity reconnects with the divine**, remembers the eternal truth, and finds its way back to the **Tree of Life** that we've been seeking since our ancestors left the African forest with **faith and hope** in finding something greater.
+
+Matias speaks with profound humility and vulnerability, acknowledging that he was born in a Catholic country (Argentina) but raised in an agnostic family, giving him a unique perspective: **neither attached to religion nor superior to it**. He warns that even those who reject religion can become **attached to the dogma of being "above" religious people**—which is itself a form of religious thinking.
+
+The teaching emphasizes **forgiveness and understanding of the past** rather than judgment. If we want to create something new in the future, we cannot build it **against** the past, trying to erase what was "wrong." We must **understand the reasons** why things happened, **forgive** what was done with incomplete understanding, and **use those lessons** to build something better. **The only way to heal the future is through understanding and forgiving the past.**
+
+---
+
+## Core Teaching
+
+### A Note on Discussing Difficult Topics
+
+Matias begins with an important disclaimer about discussing **religion, politics, and economics**—the three topics traditionally avoided at family dinners.
+
+**He shares his personal context:**
+- Born in Argentina, a Catholic country
+- Raised in an agnostic family (grandfather was agnostic)
+- Never personally religious
+- No attachment to specific political ideology
+- No fixed economic doctrine
+
+**Why this matters:** Because he doesn't have these "specific documents to think," it's sometimes easier for him to speak about these things **objectively**, not directly tied to his personal identity.
+
+**The warning:** For many people, discussing these issues is difficult **not because they believe in a religion**, but because they have a **culture inside and preconceptions** of what things are.
+
+**The invitation:** Try to be **open to see a different perception**, to see a different option.
+
+### The Preconception Problem (Both Sides)
+
+Matias identifies a critical issue that affects **both** religious and non-religious people:
+
+**1. People who lived in a religion:**
+- Many want to leave it
+- They say "I don't want this anymore"
+- They have **preconceptions of religion as something bad**
+- They experienced something they want to escape
+
+**2. People who were never religious (like Matias):**
+- Can have a **preconception of being SUPERIOR** to religious people
+- "They are still attached to one idea" (superiority thinking)
+- **This belief of superiority is ALSO a religion**
+- Being attached to the concept of being superior **because** you don't have a religion
+
+**Key insight:** Even when we're not religious, we can be **attached to dogma or misconception** about what religion is.
+
+**Both positions can be forms of dogma.** This is important to recognize before entering the teaching.
+
+### The Purpose of Today's Teaching
+
+**What this teaching is NOT:**
+- Criticizing religion
+- Trying to say religion is bad
+- Attacking religious systems or people
+
+**What this teaching IS:**
+- Understanding **where religions came from**
+- Understanding **why they are important in our process**
+- Understanding **where they started to get lost** in the distortion of reality
+
+**The goal:** To give religion **meaning**, not to judge it.
+
+### Etymology: Re-Ligare (To Tie Back)
+
+**Religion** comes from Latin:
+- **"Re"** = back, again
+- **"Ligare"** = to tie, to bind, to connect
+
+**Religion = to tie back, to tie again, to connect back**
+
+**To what are we tying back?**
+- To the **source**
+- To the **divine**
+- To the **origin**
+- To the **Tree of Life**
+- To the **truth** we've been seeking
+
+**Religion was meant to be the system through which humanity reconnects with what it lost when it left the garden, the forest, the state of unity.**
+
+### The Origin Story: Leaving the Forest
+
+To understand religion, we must go back **much further than 3,000 or 5,000 years**—back to when **human history began**, even before it was registered in writing.
+
+**The story Matias tells:**
+
+**In the beginning**, we were **animals living in the forest in Africa**, living in the trees, eating the fruits of the trees.
+
+**One day**, there were **no fruits on the tree**.
+
+**The question arose:** "Where can we find more food?"
+
+**Someone said** (in their primitive language): "I heard that **beyond there**, there are more trees with much more food."
+
+**One of them left the forest** with **faith** in that promise—faith that there was something beyond, something better, something worth seeking.
+
+### Faith and Hope: The Beginning of Human Consciousness
+
+**This was the moment we became human:**
+
+**We became beings who:**
+- Have **faith** (trust in something unseen)
+- Have **hope** (expectation of finding something better)
+- Seek something **beyond** what we can see right now
+
+**From that first moment**, every human that came from Africa, looking for food, **started to have faith in finding that big tree of food**—the **Tree of Life**.
+
+**This is why every religion has:**
+- A **holy tree**
+- A **sacred tree**
+- A **Tree of Life**
+- A **tree of knowledge**
+
+**The tree is the original symbol of what we're seeking.**
+
+### The Growing Tree of Expectation
+
+As humans traveled, **seeking the tree**, something happened:
+
+**The more they traveled, the bigger the tree became in their imagination.**
+
+They started to make the idea of the tree **so huge, so big**:
+- "This tree must grow animals!"
+- "Different fruits must grow from this tree!"
+- "It should be so big you cannot see the horizon!"
+- "It touches the sky!"
+
+**Every day it was so difficult to find this huge tree** that they started to **get comfortable with the trees they found**.
+
+**They settled for smaller trees**, but **never forgot the original promise**—the eternal Tree of Life.
+
+### The Parallel to Modern Relationships
+
+Matias makes a brilliant comparison to modern culture:
+
+**Disney and fairy tales** have done a very good job making us believe that there is **the prince or the princess** we have to find in our life.
+
+**The perfect partner**, the soulmate, the one who completes us.
+
+**But what happens?**
+- We keep searching for this "perfect one"
+- We get comfortable with the people we find
+- We never quite find the Disney ideal
+- But we never stop believing it exists
+
+**This is the same pattern as the Tree of Life:**
+- We're seeking something eternal, perfect, complete
+- We find approximations, temporary satisfactions
+- We settle for what we can find
+- But we never forget the original promise
+
+**This is human nature—and this is where religion was born.**
+
+### Religion: The System to Tie Us Back
+
+**After thousands of years of seeking the Tree of Life**, humans began to create **systems** to:
+- **Remember** the original promise
+- **Connect back** to what we lost
+- **Tie ourselves** to the eternal truth
+- **Guide the search** so we don't get completely lost in smaller trees
+
+**These systems became RELIGION:**
+- Rituals to remember
+- Teachings to guide
+- Communities to support the search
+- Symbols (like the tree) to keep the vision alive
+
+**Religion was not meant to control.** Religion was meant to **help us remember what we're seeking and tie us back to the source.**
+
+### Where Religion Got Lost
+
+Matias doesn't detail this extensively in this particular day (likely saving it for later discussions), but he mentions:
+
+**Religion started to get lost in the distortion of reality** when:
+- The system became more important than the search
+- The institution became more important than the connection
+- The control became more important than the liberation
+- The smaller trees (temporary teachings) became confused with the eternal Tree (ultimate truth)
+
+**This is the tragedy:** The thing meant to **tie us back** became the thing that **ties us down**.
+
+### Understanding the Past, Not Judging It
+
+**Critical teaching on how to approach history:**
+
+**The wrong approach:**
+- "Something in the past was wrong, and we are the good ones."
+- "If we erase this part of the past, we will heal the future."
+- Judging things from our current perspective
+- Building the future **against** the past
+
+**Why this doesn't work:**
+- We waste time **not understanding why things happened**
+- We cannot heal what we don't understand
+- We repeat the same mistakes in new forms
+
+**The right approach:**
+- **Forgiveness** heals the future
+- **Understanding the reasons** of the past allows healing
+- **Gratitude** for the lessons learned (even from mistakes)
+- Building the future **with wisdom from** the past
+
+**Matias's powerful statement:**
+
+**"The only way you can heal the past is by forgiving the past, because they gave us the tools to understand: 'Oh, look at this—that was wrong. So I had no idea that would be wrong. Now I know it's wrong, so I will do it better. Thank you, ancient systems, for teaching me what is wrong, so I can do it better in the future.'"**
+
+**That's the way you go into the future—not losing time in the past.**
+
+### The Future Looking Back at Us
+
+**A profound thought experiment:**
+
+**What if we tried to think as someone a thousand years ahead in the future?**
+
+If they look backwards at us, they will see:
+- We are like a **religion**, like a **sect**, like a **cult**
+- Everything we're doing now (including this spiritual work) is just "people believing they are aware"
+- We thought we were "superior to others because we were working with consciousness"
+- We thought we were doing good things, but we were doing bad things
+
+**From the future's perspective, we are probably doing everything wrong.**
+
+**Why? Because everything is about evolving in the future.**
+
+**The lesson:** When we try to understand what happened in the past, **we should not judge things from the eyes of the future**.
+
+**Maybe the people doing things "wrong" today were trying to do the best in the beginning, but they had no idea how, so they ended up doing it wrong.**
+
+**This applies to religion, politics, economics, education—everything.**
+
+### Not Wasting Time Blaming
+
+**The temptation:** "Yes, but the Vatican does this, or this person does that, or whatever..."
+
+**The response:** "Yes, of course."
+
+**But why?**
+
+**Because they are the last part of a system that was created for hundreds of years.**
+
+**And now it's our time. Now we have to think in our future, in our new time.**
+
+**If we waste our time trying to blame what happened or what they did in the past, we are not going to heal the past.**
+
+**We heal by:**
+- Forgiving
+- Understanding
+- Learning
+- Moving forward with wisdom
+
+**Not by:**
+- Blaming
+- Judging
+- Fighting against
+- Trying to erase
+
+### Religion as Divine Essence (Crown Chakra)
+
+**The Crown Chakra** is the connection to the **divine**, to higher consciousness, to the source.
+
+**Religion is the Crown Chakra** of human civilization:
+- The system meant to **connect us to the divine**
+- The structure meant to **remember the eternal**
+- The teaching meant to **guide us back to source**
+
+**"I Am the Divine Essence"** means:
+- You ARE the connection to the divine
+- You don't need an external system to tie you back—**you ARE the tie**
+- You are the **essence** that religion was meant to help you remember
+
+**Religion was meant to point to YOU, not replace you.**
+
+### The Physical Week Context
+
+This is the **first day of the Physical Week**—the week about **embodying, manifesting, grounding** spiritual understanding into **material reality**.
+
+**Why start with Religion?**
+
+Because **religion is the physical system** (institutions, rituals, teachings, communities) through which **spiritual essence** (connection to divine) is meant to be **grounded into human society**.
+
+**The Physical Week will explore all the systems** through which consciousness tries to manifest in the world:
+- Religion (spiritual system)
+- Politics (governance system)
+- Education (knowledge system)
+- Economy (resource system)
+- Technology (creation system)
+- Culture (meaning system)
+- Agriculture (sustenance system)
+
+**All are attempts to ground divine essence into material form.**
+
+---
+
+## Practice
+
+### Meditation: Remembering the Divine Essence
+
+**Note:** Matias doesn't include a formal meditation in this particular transcript, but based on the teaching, here's an aligned practice:
+
+**Setup:** Sit comfortably, close your eyes, take deep breaths.
+
+**Part 1: Remember the Forest**
+
+1. **Imagine yourself as one of the first humans**, living in the forest, eating from the trees.
+
+2. **Feel the safety and abundance** of living in unity with nature.
+
+3. **Then feel the moment of lack**—no fruit on the tree.
+
+4. **Hear the promise:** "Beyond there, there are more trees with much more food."
+
+**Part 2: Feel Faith and Hope Arise**
+
+5. **Feel the birth of faith**—trust in something you haven't seen yet.
+
+6. **Feel the birth of hope**—expectation that you will find something better.
+
+7. **Recognize:** This is the moment you became **conscious**, became **human**, began **seeking**.
+
+**Part 3: See the Tree of Life**
+
+8. **In your imagination, see the eternal Tree of Life**—the one you've been seeking.
+
+9. **See it as huge, magnificent, eternal**—touching the sky, growing infinite fruits.
+
+10. **Recognize:** Every religion, every spiritual system, every teaching is **pointing to this tree**.
+
+**Part 4: Tie Back (Re-Ligare)**
+
+11. **Feel a cord of light** from your **Crown Chakra** extending upward.
+
+12. **This cord ties you back** to the source, to the divine, to the Tree of Life.
+
+13. **You don't need an institution to make this connection**—the connection **is you**.
+
+14. **"Re-ligare"**—tie yourself back, right now, consciously.
+
+**Part 5: Affirm Divine Essence**
+
+15. **"I Am the Divine Essence"** (repeat three times)
+    - You are not **seeking** the divine—you **ARE** the divine
+    - You are not **separated** from the source—you **ARE** the source manifesting
+    - You are not **trying to connect**—you **ARE** the connection
+
+**Part 6: Forgive the Past Systems**
+
+16. **Bring to mind any religious system** (or any system) that hurt you, controlled you, or distorted truth.
+
+17. **Recognize:** They were created by humans **trying to find the Tree of Life**, trying to help others connect, but **getting lost** in the distortion.
+
+18. **Forgive them**—not because what they did was right, but because **understanding and forgiveness heal the future**.
+
+19. **Thank them** for showing you what **not** to do, so you can do better.
+
+**Closing:**
+
+20. **Breathe deeply** and return to the present moment.
+
+21. **Place your hand on your Crown Chakra** (top of your head) and feel the **divine essence** that you are.
+
+22. **Know:** You don't need to **find** the Tree of Life—**you ARE the tree**, rooted in earth, reaching to heaven, bearing the fruits of consciousness.
+
+---
+
+## Key Insights
+
+- **"Religion comes from 're-ligare'—to tie back, to connect again to the source."**
+- **"Even when we're not religious, we can be attached to the dogma of being superior to religious people—which is also a religion."**
+- **"We should not judge the past from the eyes of the future, because from the future's perspective, we are probably doing everything wrong too."**
+- **"The people doing things 'wrong' were often trying to do the best in the beginning, but had no idea how, so they ended up doing it wrong."**
+- **"The only way to heal the future is through forgiveness and understanding of the past, not by erasing or judging it."**
+- **"We left the forest as animals seeking food, and someone said 'beyond there, there are more trees'—and we left with FAITH in that promise."**
+- **"This was the birth of faith and hope—the moment we became human, seeking something beyond what we can see."**
+- **"Every religion has a holy tree, a sacred tree, a Tree of Life—because that's what we've been seeking since the beginning."**
+- **"The more we traveled seeking the tree, the bigger it became in our imagination—so huge it touches the sky."**
+- **"We started to get comfortable with the trees we found, but never forgot the original promise."**
+- **"Religion was meant to help us remember what we're seeking and tie us back to the source—not to control us."**
+- **"If we waste time blaming what happened in the past, we are not healing. We heal by understanding, forgiving, and moving forward with wisdom."**
+- **"The Vatican and religious institutions are the last part of systems created hundreds of years ago. Now it's our time to think in our future."**
+- **"Thank you, ancient systems, for teaching me what is wrong, so I can do it better in the future. That's how you go into the future."**
+- **"I Am the Divine Essence—you ARE the connection to the divine, not seeking it."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Throughout the day, practice conscious re-ligare:**
+
+1. **Notice when you judge** religious systems, people, or the past.
+   - Pause and ask: "Am I understanding, or just judging?"
+   - Can I forgive this, knowing they were trying their best with incomplete understanding?
+
+2. **Notice when you feel superior** for being "spiritual but not religious."
+   - Pause and ask: "Is this superiority also a form of dogma?"
+   - Am I attached to being 'above' religion?
+
+3. **Practice tying back** (re-ligare) throughout the day:
+   - When you feel disconnected, consciously **connect** through your Crown Chakra
+   - You don't need a ritual or institution—just **conscious reconnection**
+
+4. **Thank the past** for its lessons:
+   - Even the "wrong" things taught you what not to do
+   - Gratitude transforms judgment into wisdom
+
+5. **Remember you ARE the Tree of Life:**
+   - You are not seeking something external
+   - You are the **divine essence** manifesting
+   - Your roots go deep, your branches reach high, your fruits feed others
+
+### Applying This Teaching
+
+- **Stop fighting against** old religious systems and **start building** new conscious connections
+- **Forgive the distortions** of religion while **honoring the original intention** (to tie back to source)
+- **Recognize your own dogmas**—even non-religious people have beliefs they're attached to
+- **Understand before judging**—ask "why did this happen?" instead of "how could they do this?"
+- **Use your Crown Chakra** to connect directly to the divine, knowing **you are the divine essence**
+
+### Physical Week Context
+
+This week is about **ESSENCE**—the fundamental nature of things when grounded into physical reality.
+
+**Religion is the physical manifestation** (institutions, rituals, communities) **of the spiritual essence** (connection to divine).
+
+**The question for this week:** How do we **embody** divine essence in **material systems** without losing the essence in the structure?
+
+**Tomorrow:** Politics (governance system) and the **Essence of Consciousness**
+
+---
+
+## Questions for Reflection
+
+### Q: Why does Matias say even non-religious people can have a "religion"?
+
+Because **being attached to the dogma of superiority**—thinking "I'm above religious people because I don't have a religion"—**is itself a form of religious thinking**. It's a **preconception**, a **fixed belief**, a **dogma** that you're better than others. **Any attachment to a concept of superiority is a form of religion**, even if it's not traditional religion. True freedom is **not being attached** to either religion OR the superiority of being non-religious.
+
+### Q: What does "re-ligare" (religion) actually mean?
+
+**"Re-ligare"** means **"to tie back"** or **"to connect again."** **"Re"** = back/again, **"ligare"** = to tie/bind/connect. **Religion was meant to be the system that ties humanity back to the source**, reconnects us with the divine, helps us remember the eternal truth we've been seeking since we left the forest. It's about **reconnection**, not control or separation.
+
+### Q: What is the story of leaving the forest and the Tree of Life?
+
+**In the beginning**, humans were animals living in African forests, eating fruit from trees. **One day there was no fruit**, and someone said "beyond there, there are more trees with more food." **One human left with FAITH** in that promise—this was **the birth of faith and hope**, the moment we became **conscious beings seeking something beyond**. We've been seeking the eternal **Tree of Life** ever since, and **every religion has a sacred tree** because this is humanity's original quest.
+
+### Q: Why is it important to forgive and understand the past rather than judge it?
+
+Because **judgment doesn't heal—understanding heals**. If we build the future **against** the past, trying to erase "wrong" things, we **don't understand why they happened**, so we **can't prevent repeating them in new forms**. But if we **understand** the reasons things happened and **forgive** people who were doing their best with incomplete knowledge, we **gain wisdom** to do better. **"Thank you for showing me what's wrong, so I can do it better"—that's how you move into the future.**
+
+### Q: How should we view religious systems from the past (like the Vatican)?
+
+**Not as enemies to fight**, but as **"the last part of systems created hundreds of years ago."** People in those systems were **trying to do the best** they could with the understanding they had. Many things went wrong, but **wasting time blaming them doesn't heal anything**. Instead: **understand why** things went wrong, **forgive** the people involved, **learn** from the mistakes, and **focus on building** something better now. **It's our time to think about our future**, not fight against the past.
+
+### Q: What does "I Am the Divine Essence" mean in relation to religion?
+
+It means **you ARE the connection to the divine**—you don't need an external system to **tie you back** because **you ARE the tie**. Religion was meant to **point to this truth**, to help you **remember** you are divine essence, but **you are not separate from the source**. The **Crown Chakra** is your direct connection. **You are not seeking the divine—you ARE the divine manifesting in material form.** Religion was meant to help you remember this, not replace it with external authority.
+
+### Q: Why does Matias compare the Tree of Life to Disney's "perfect partner"?
+
+To show **the pattern of human seeking**: We create an **ideal in our imagination** (Tree of Life / perfect soulmate) that becomes **bigger and more perfect** the more we seek it. We **get comfortable with approximations** (smaller trees / imperfect partners) but **never forget the original promise** of something eternal and complete. **This is human nature**—we're seeking something beyond what we currently have, something transcendent. **Religion emerged from this pattern**, as a system to guide the eternal search.
+
+### Q: What is the difference between the tree we're seeking and the trees we find?
+
+**The Tree of Life** we're seeking is **eternal, perfect, infinite**—it touches the sky, grows infinite fruits, provides complete abundance. **The trees we find** along the way are **temporary, partial, limited**—they provide some sustenance but not complete fulfillment. **We settle for the trees we find** (temporary religions, systems, teachings) while **keeping the vision of the eternal Tree alive** (the ultimate truth, the divine source). **Religion was meant to keep us oriented toward the eternal Tree**, not make us worship the temporary ones.
+
+---

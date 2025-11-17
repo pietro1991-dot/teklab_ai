@@ -1,78 +1,665 @@
 ---
-title: "Day 175 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 175 - Technology"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 175
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 175
+  - technology
+  - techne logos
+  - art
+  - weaving
+  - solar plexus
+  - manifestation
+  - spirit soul body
+  - trinity
   - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - breathing exercises
-  - month holds
+  - unconscious
+  - subconscious
+  - networks
+  - higher self
+  - iron
+  - magnetic field
+  - healing through creation
 
 practice_elements:
-  chakra: "Heart"
+  vibration: "DHï"
+  statement: "I Am the Essence of I Am"
+  chakra: "Solar Plexus"
+  code: "Technology is not the objects we create—it is the subject, the ability to manifest. We are the art of being, the spirit weaving itself into networks of creation. Our body is the perfect technology the divine designed to experience itself."
 
 ---
 
-# Day 175 - Consciousness Work
+# Day 175 - Technology
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
-
-## Introduction
-
-So , hi everyone , again , this time a little bit later and well for those who were not in the live streaming today , I connected later because I was , I connected at the time that I was supposed to connect but the boat where I am , it was on slow and we did n't raise one at the time I thought we would so we were just going through a zone of knock connection , nothing in the middle of the desert and the river and so we lost the connection so that 's why I decided to make it at the moment when we arrived to , to Asian and here it is so I am right now in Asian in the south of Egypt so good morning , good afternoon , good evening to all of you from Asian Yes , that is about against another boat , Egyptian style Right now I 'm feeling like the musicians from the Titanic , Titanic I will keep speaking even if it sings Okay so today is the topic for today 's technology , technology related to the solar plexus and the physical week of the month of capital So today speaking about technology , we lost the connection because of the technology and now the boat technology is also doing its problems So first of all let 's go to understand what is technology , what is the concept of technology because for us today we think that technology is all these things like the phone , the computer and the physical things that we use , like the tools that we created but it 's not that technology does n't mean exactly the objects that we use as tools in our days , it comes from another concept , the origin of the word technology comes from the Greek , the Ne and Logos , the Ne means art , means beauty , all the things that we create is the art itself and why is that because the in the European origin of this language is the word tech , tech means tissue means to wave So tech means the web and this is when you put different things together to create a new thing from different parts so that 's what we call art to put together many things and to give birth to a new one so that 's why to wave the things to connect the things to create a new one that 's what they call it tech or technique which is the beauty of arts and then we have the other word that is Logos , Logos means the study , the development , the knowledge of something okay Techno Logos , the Ne Logos means the knowledge or the study of the development of arts which is the things that we can create so technology is not about the objects is about the subject and what does it mean that technology does n't describe the tools that we create it describes the ability that a human have has to create to manifest something So technology is not speaking about the physical aspects that we use but technology is explaining about the gifts that a person has in order to manifest to create beauty in the world So first of all in order to learn how we can create and manifest from our own gift we have to go to the first technology that we have created in order to manifest the arts that we have within So let 's go to the very beginning of the technology and for that we have to go to the first being that has the gift to create to manifest which is the first artist of the reality the first artist of the reality is the one the only one which is the self of the universe demand this center is the one that expands and creates three other aspects of itself that we call consciousness consciousness and subconsciousness so this is what we used to call the super consciousness the super consciousness or the super conscience is the oneself the unity that that holds within the other three different aspects of itself so this one is the mind that is creating my ideas everything that everything that we could that that the self can express can create so now we have this three different consciousness that we will call the first one the spiritual world the spirit the other one the consciousness of the soul and the other one would be the consciousness of the body these three different consciousness are born from the one the only one and unique self so this only one being first will as any artist will need to inspire to to inspire itself in order to reach the idea and to understand how to to create to manifest so the first thing that an artist in the cosmos needs is inspiration and that 's the origin of the word spirit spirit remember means from Latin speed added speed added means to breathe so to breathe inspiration yes inhalt is the concept of the spirituality that brings inspiration to the oneself in order to create so here we have that the spiritual level is the one that inspire the one consciousness in the universe to manifest to create to project ideas through thoughts , through concept concepts and so on the concept of the inspiration when it gets inspire the self gets inspired by the spirits it starts to to project the idea into the outside so when it projects into the outside it creates a wave of movement this movement is the one that creates energy and this energy is why we call emotion so the movement of the idea is the movement of the soul so so it 's not so it 's equal to animation it 's equal to the movement of the things so so that 's how we can relate the soul is the energy itself that creates that creates the potentials the potentialities of the mind so the spirit things has an idea and when it moves the soul the aspect of the spirit in movement that we call the soul is the one that activates the potentially for that idea to become real creating a network of positive and negatives from within to the outside creating this web around of the creation the movement of the soul creates so much energy and so much polarity by it so many potentials that they start to to be attracted one another so they started to get all together and because of this gathering of the energy because of this gathering of the energy they they start to create by polarity that the strings the particles the atoms the molecules and so on creating the matter and that matter creates the the body so the body is the product of the soul of the movement of this energy so what this means that the main idea of the sort of the mind of the universe the unity of the universe in stars itself in the world of the ideas which is the spiritual plain the spiritual level and the spiritual level itself the idea moves itself moves itself creating the energy and that energy is the soul the movement so this movement of energy is the one creating then the body the matter okay so so is the matter is the result of that movement so why I 'm I 'm explaining this in order to understand that spirit soul and body are the three of them the same thing only one thing in three different aspects as we spoke in some other videos spirit soul and body are exactly like the three aspects of the water solid liquid and gas so the three can the three of them are different but the three of them are water okay so that 's the whole eternity is not separate things is the same thing in different ways let 's try to understand this because a lot of people have asked this the soul the soul is not getting in and getting out of the body so to understand this about the the soul the soul is not getting in and getting out of the body the soul contract or expands from the body so the spirit does n't get in or get out of the body the spirit and lights or turn off hmm so the process that we say to die yeah the process that we say to die is not that the soul gets out of the body is that the soul expands from the body another concept is that the spirit when you die does n't experience the ascension the spirit turns on it 's not ascending is enlightening okay which is different so when we experience this thing of star of beings coming out from us or beings coming inside of us is not exactly like this is basically one only being expanding and contracting in many different dimensions hmm when we speak about coming out of the body when we sleep and so on it 's just the same body experiencing itself in different dimensions so what this brings to us that we are spirits manifested through the energy of the soul in a physical experience in a physical form so we are not spirits from other levels being download into the matter to live a human experience we are spirits expanding itself creating the matter through its own energy to manifest themselves I hope that we can understand this concept because we are going to link that with technology hmm so it 's important to understand this concept because it 's not about saying that spirit soul and body are different things or what are the differences of these things hmm they are not different from one another they have different attributes in different states of its evolution okay so this means that spirit is something and then becomes something different and then what that we call soul and then becomes something different that is the body so the the best way to understand this is like the caterpillar the cocoon and the butterfly okay so these are three different concepts three different concepts but what we have to acknowledge is that the butterfly is not different from the caterpillar because the butterfly is the caterpillar but it has changed into a new level of consciousness so it does n't mean that the caterpillar lives inside in a little part of the butterfly no it means that the butterfly is the caterpillar in another level of consciousness and evolution so why is important to understand this to get this idea that they are not different and separate things in the universe it means that everything is a net and network connected one to another a network of ideas that manifest in a reality so all this that is connected this network that we all are is a perfect network of creation to manifest by creativity where the ideas become real so this is beauty this is art this is the name so this means that if the mind that this sign all the things by the ideas that had the dream and the ability to to imagine to create express itself in energy in order to move their ideas and to create this web by energy and polarity to manifest in a body the experience of that idea this means that there 's no one up there as a god or a saquillator or as a spirit creating from up from up from above this means that the creator of this thing is within the null within in a tiny part is within everywhere in each part of myself so now let 's go to this Trinity of the mind the if we start with the subconscious if we leave our lives through the subconscious this means that we are going to leave our lives through survival through the cells through this net in the physical reality which means that we will leave our lives through this main three things that are to eat to reproduce and to sleep the main three needs and then we can also move our lives through the unconscious which would be to leave through the soul the unconscious remember is the energy of the body by polarity okay so from the inside to the outside positive negative emotion so the unconscious will will take us to leave through the polarity of the energies that are outside ourselves so that 's why we leave through groups through what we like what we do n't like we leave by being pushed by the outside energies hmm so if we rule our lives through the consciousness this means that we are ruled by the spiritual world which is that we can decide for our own path our own life we are free from the touchments of the other things around okay so usually we as humans leave through the unconscious and the subconscious which is that we leave through our needs and what others have to give to us okay that 's what we usually do so this means that we leave through the body and the soul and the energy of the soul means all the pre concepts that the soul has been storageing as a registry through every experience through history hmm so when I become conscious so when I connect with my own spirit hmm when I connect with my own spirit it means that I can connect with the basis of the creation of myself of the things that I have within okay so when I start to manifest the spirit in me I can also transform myself my own body my own creations so I can become an alchemist transforming my own and the reality around because the reality has its basis in the spirit so who was the spirit the spirit is the aspect of the creator and that aspect is within us is in every part of us so when we connect with that part of the divine we start to manifest what we feel what we believe what we whatever because we are the creator remember that in order to connect to the spirit which is the seed of all this of all this creation we have to go through the unconscious and the subconscious which are like these layers so in order to get to the seed we have to go through the healing of the soul and the understanding and honoring of our body if we do n't get into these two other layers we are not going to reach the seed which is the basis of the creation so the reason why we are not being able to to create to connect with the divine with the seed of the divinity that we have all around us because we are the divine expressed here but the reason why we are not being able to that is because this is the light of the consciousness is shut down and why is this is it 's turned off why is this because we are in coherent with the healing of the subconscious in the body and the unconscious in the soul when we start to heal these other two levels then the conscious spirit starts to turn on the light okay so this consciousness which is in the center is the creator itself is the artist but this artist is the one that started to manifest to create all these other realities and suddenly this reality is that it created by itself started to consume the artist turning off its light the creator itself the creator itself through the construction of webs through the network of the energy of the soul and then the construction through the history of the soul this matter which is the history of our body all this network that we have created is the product of this this technology this is the technology that the creator itself has done so all the gifts all the the the powers the potentials that we have inside in our cells in our body and everything that we are is our own technology we have designed these for thousands of years so remember that the spirit is not outside the spirit is this but express in a different way so we are the artist that has created this technology this is the reason why we need to honor our bodies because the divine is not outside is ourselves the biology is the perfect technology of all that was created by the spirit because it is the spirit this is a link of thousands of networks one over the other interconnection and creating this perfect machine able to express to talk to watch to perceive to make philosophy to think to mediate to do whatever we want which is spiritual the spirit without this networks of the physical body would n't be able to do anything and not because the spirit is something outside and we are the body no it 's because the body is the spirit itself creating itself the only way a spirit can express is through the networks that himself has created so what is how do you manifest you manifest by just doing things some manifest by cooking some others painting a frame some others building house some others doing medicines some others doing music some other speaking manifestation is to make things is to put the potential that we have outside manifestation is to make a fest a party with your hands that 's the origin of the word manifest so remember technology is not the object is the subject remember that the next 2000 years we will be living in the Aquarium era and technology is the base of this we ca n't even imagine how much technology we will have in this era will be like the futuristic thing that we usually think about but the thing is that sometimes we ask ourselves today why technology is so bad why technology is doing so harm to the planet and to the people so no let 's re signify the question let 's remake the question is not why technology the question is why us why we are using our ability to manifest our artistic capacities to destroy and to control technology is doing anything wrong we are the ones using it in a wrong way and why is that because technology is born from the spirit from the spirit and the spirit in order to manifest needs to go through the unconscious and the subconscious which is my soul and my body but if I do n't heal the history of my soul which is how do I relate with people and the history of my body which is how what I need of the world if I do n't work with those things whatever I create and manifest for my spiritual level will be manifested through my attachments to people and my needs of the world and that is why technology the beauty of myself controls and harm the world and people so remember the spirit is the one that decides through the intention to manifest in order to create things but it 's not someone from the outside the spirit is itself creating its own technology of networks in order to be able to experience its own creation and the way in which it does this is through the consciousness manifest in it creating the subconscious the unconscious sorry to manifest itself in the subconscious to this networks of creation it 's what we call technology everything that we are is the art of being this is why the ability to manifest and create is in the spirit which is not above is within in all the parts of our self whatever I manifest from my consciousness in the spirit without being worked in the unconscious of my soul which is the attachments and the subconscious of my body which is the needs so myself and consciousness will control my creation and all this is what we call technology because the Greeks call it the art of know yourself so let 's go to the information for today and remember for more details read the blog the vibration for today is the statement for today is I am the essence of its me the code for today is iron the heavy mental produced by stars is one of the most abundant in our planet most of all the 70 % of it is found in the nucleus in the core that by moving under the great pressure of magma and the cortex generates a great inner geological discharge that creates a magnetic field that orders the conscience of the world from north to south and protects the world from the deadly rays of the sun another fundamental element for all living beings that it does and animals so related to to the iron something that I wrote in the blog and that I think is important in this technology is that is to understand this magnetic field okay this magnetic field basically is the one that connects the whole pattern of our body information that we have within so this is what I was explaining about how the soul expands when it goes outside and expands looking to different perspective perceptions in different dimensions and then it goes back again from the north from the top okay so that 's what we call the higher self our perception of the higher self coming from the heavens to earth and to for to us it 's not it 's not that it 's a being coming from the highest places in the heaven is basically ourselves expanding our questions looking for the answers outside changing our point of use and the answer can 's back to us so it 's all like a total system and the perception from our void from our body is that it comes from above so that 's why we call it the higher self so basically with this I 'm killing this brutality too but anyway it was it was hard for me to when I saw this in this way but anyway so this is the the worst way to kill this brutality and all the patterns that we have by saying that why do we have a higher self well basically because we have iron in our blood it 's all because of iron and the magnetism of it so yeah so let 's go to this for those who are asking how can I do it how can I how can I make this alignment or to balance the subconscious and so on so basically I just remind you that this is like the okay thank you like the video number 175 so so you have like 175 videos to see in which I try to explain this how so it 's only about 300 hours so no rush so let 's go to the line so sit comfortable close your eyes and start to make it soft massage from your feet to your head oh so I become aware of my breathing. This perfect machine , which I see , I credit my choir! I become aware , paying attention to each part of my body , to the muscles , the bones , glands , organs , and the systems above all the circulatory and the nervous system. Take a deep breath , take a deep breath and think about your brain , this amazing organ made with the neurons , the cells that expand information by pulling all around the body to each one of the cells and receive an information through them by impulse towards my understanding.
-
-My pay attention to my heart and its heartbeat pulsed by electricity , pushing the blood through the veins of my body , bringing oxygen and nutrients flourishing the entire body , each cell of it. My pay attention to the system of my digestion , the organs of my digestive system , are a perfect combination that absorb everything that makes me good and makes me fine and expels everything that hurts me. That 's a perfect system. I bring my attention to my genitals , receiving the beauty of the technology that manifests and generates life.
-
-My entire body is the perfect way of creation and design , my spirit , imposed by the energy of my soul. And now I recognize that I am also only one cell inside a huge network of other human cells. Imagine that network. We are the perfect design of technology.
-
-We are the spirit manifested in the matter. And between all of us we create tools , cultures , civilizations , art. We are the creators of our own reality. Take a deep breath and I recognize myself as an important piece in the technology of life and existence.
-
-And I seem to activate my creative potential , a secretator in this network. My personality , my body , my soul , my ego. The concept of its meaning are the ones that represents the tool , the technology to be able to create and manifest a new reality. My honor , the me in order to be.
-
-My heart , the me in order to be. My heart , the me in order to be. My heart , the me in order to be. My heart , the me in order to be.
-
-My heart , the me in order to be. My heart , the me in order to be. I am the essence of its me. I am the essence of its me.
-
-I am the best technology that makes spirit could have been created. I am the artist of my own self. I am the best and come back here and now by stretching , to raise the body. I am the best and the me in order to be.
-
-Thank you everybody for being there as always and see you tomorrow the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Solar Plexus (manifestation, creation, personal power, identity, "I Am")
+- **Week Theme:** BODY 'ESSENCE' - CAPRICORN - I Use (Physical Week, Day 5 - FINAL DAY)
+- **Main Topic:** Technology
+- **Vibration:** `DHï`
+- **Statement:** `I Am the Essence of I Am`
+- **Code:** Technology is not the objects we create—it is the subject, the ability to manifest. We are the art of being, the spirit weaving itself into networks of creation. Our body is the perfect technology the divine designed to experience itself.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+On January 25th, Matias concludes the Physical Week with perhaps the most profound teaching: Technology—not as gadgets and machines, but as the divine art of BEING, the ability of consciousness to weave itself into material form.
+
+The word technology comes from Greek "techne" (art, beauty, the ability to weave/connect) + "logos" (study, knowledge). Technology = the study of the art of creation, which is the study of how consciousness manifests itself into form.
+
+The original "technology" is SPIRIT-SOUL-BODY—the Trinity of creation:
+
+1. SPIRIT = INSPIRATION (the breath, the idea—"spiritus" = to breathe)
+2. SOUL = ANIMATION (the movement, the energy, emotion)
+3. BODY = MANIFESTATION (the matter, the networks, the form)
+
+These are not three separate things—they are ONE THING in three states, like water (solid-liquid-gas). Spirit BECOMES soul BECOMES body—the same essence transforming through states of consciousness.
+
+The breakthrough understanding:
+
+The soul does NOT "get in and out" of the body. The soul EXPANDS and CONTRACTS from the body (like breathing).
+
+The spirit does NOT "ascend" at death. The spirit TURNS ON or TURNS OFF (like a light—enlightenment, not ascension).
+
+When we die, the soul EXPANDS from the body (doesn't leave—expands). The spirit ENLIGHTENS (doesn't ascend—illuminates).
+
+Why does this matter for technology? Because we ARE the technology. Our biology is the perfect network that the spirit designed to manifest itself. We are not spirits downloaded into matter—we ARE spirit EXPANDING ITSELF, creating matter through energy, to experience its own creation.
+
+The problem with modern technology: We create from unconscious (attachments/reactions) and subconscious (survival needs) instead of from consciousness (spirit/free will). Whatever we manifest from the spirit WITHOUT healing the soul (unconscious) and honoring the body (subconscious) will be used for control and harm.
+
+Technology is doing nothing wrong—WE are using it wrong because we haven't healed our inner layers to reach the spirit (the seed of creation).
+
+The solution: Heal the soul (relationships/attachments), honor the body (needs/biology), then create from the spirit (consciousness). When you manifest from healed consciousness, your technology serves life rather than controls it.
+
+The final teaching: We are the BEST TECHNOLOGY the spirit could have created. Our body, our personality, our ego—these are the TOOLS that allow spirit to create and manifest a new reality. Honor the "I Am" in order to BE.
+
+---
+
+## Core Teaching
+
+### Etymology: Technology = The Art of Weaving
+
+For us today, we think technology is phones, computers, physical things we use as tools. But it's NOT that.
+
+Technology does NOT mean the objects we use as tools in our days.
+
+The origin of the word TECHNOLOGY comes from Greek:
+
+TECHNE (τέχνη):
+- Art
+- Beauty
+- All the things we create
+- The art itself
+
+In European origin of this language, the word is TECH.
+
+TECH means:
+- TISSUE
+- To WEAVE
+
+Tech = the WEB.
+
+This is when you PUT DIFFERENT THINGS TOGETHER to CREATE A NEW THING from different parts.
+
+That's what we call ART: To put together many things and give birth to a new one. To WEAVE things, to CONNECT things, to create a new one—that's what they called TECH or TECHNIQUE, which is the beauty of arts.
+
+Then we have the other word: LOGOS (λόγος):
+- The STUDY
+- The DEVELOPMENT
+- The KNOWLEDGE of something
+
+TECHNE + LOGOS = TECHNOLOGY:
+
+The study or development or knowledge of ARTS—which is the things we can create.
+
+CRITICAL INSIGHT:
+
+Technology is NOT about the OBJECTS.
+
+Technology is about the SUBJECT.
+
+Technology doesn't describe the TOOLS we create.
+
+Technology describes the ABILITY that a human HAS to create, to manifest something.
+
+Technology is not about the physical aspects we use.
+
+Technology is explaining the GIFTS that a person has in order to MANIFEST, to CREATE BEAUTY in the world.
+
+### The First Technology: Spirit-Soul-Body Trinity
+
+In order to learn how we can create and manifest from our own gift, we have to go to the FIRST TECHNOLOGY we created in order to manifest the arts we have within.
+
+The first ARTIST of reality. The first artist of reality is: The ONE. The ONLY ONE. The SELF of the universe.
+
+This CENTER is the one that EXPANDS and creates THREE OTHER ASPECTS of itself:
+
+1. SPIRIT (consciousness—the spiritual world)
+2. SOUL (consciousness—the energy/emotion)
+3. BODY (subconsciousness—the matter/form)
+
+These three different consciousness are BORN FROM THE ONE—the only one and unique self.
+
+### The Process of Creation
+
+This ONLY ONE BEING, first—as any artist—will need to INSPIRE itself in order to reach the idea, understand how to create, understand how to manifest.
+
+The first thing an artist in the cosmos needs is INSPIRATION.
+
+That's the origin of the word SPIRIT.
+
+SPIRIT comes from Latin "SPIRITUS": TO BREATHE
+
+To breathe = INSPIRATION
+
+Inhale is the concept of spirituality that brings inspiration to the oneself in order to create.
+
+The SPIRITUAL LEVEL is the one that INSPIRES the one consciousness to manifest, to create, to project IDEAS through thoughts, concepts, visions.
+
+### Soul: The Movement of Energy
+
+When the self gets inspired by the spirit, it starts to PROJECT the idea into the OUTSIDE.
+
+When it projects into the outside, it creates a WAVE OF MOVEMENT.
+
+This MOVEMENT is the one that creates ENERGY.
+
+And this ENERGY is what we call E-MOTION (energy in motion).
+
+The MOVEMENT of the idea is the MOVEMENT OF THE SOUL.
+
+Soul = E-motion = Animation
+
+The SOUL is the ENERGY ITSELF that creates the POTENTIALS, the POTENTIALITIES of the mind.
+
+So:
+- The SPIRIT thinks, has an idea
+- When it MOVES, the SOUL—the aspect of the spirit IN MOVEMENT—is the one that activates the POTENTIAL for that idea to become real
+
+Creating a NETWORK of POSITIVE AND NEGATIVE from within to the outside, creating this WEB around of the creation.
+
+### Body: The Result of Gathered Energy
+
+The MOVEMENT OF THE SOUL creates so much ENERGY and so much POLARITY (positives and negatives), so many POTENTIALS, that they start to be ATTRACTED one to another.
+
+They start to GET ALL TOGETHER.
+
+Because of this GATHERING OF ENERGY, they start to create by polarity: The STRINGS, The PARTICLES, The ATOMS, The MOLECULES—Creating the MATTER.
+
+And that MATTER creates the BODY.
+
+The BODY is the PRODUCT of the SOUL (of the movement of energy).
+
+### What This Means: Spirit Becomes Soul Becomes Body
+
+What does this mean?
+
+The main IDEA of the MIND of the universe—the unity of the universe—inspires itself in the world of IDEAS (the spiritual plane).
+
+The spiritual level itself, the idea MOVES itself, creating the ENERGY.
+
+That ENERGY is the SOUL (the movement).
+
+This MOVEMENT OF ENERGY is the one creating then the BODY, the MATTER.
+
+The MATTER is the RESULT of that movement.
+
+SPIRIT, SOUL, and BODY are the THREE OF THEM THE SAME THING—only ONE THING in THREE DIFFERENT ASPECTS.
+
+Spirit, soul, and body are EXACTLY like the three aspects of WATER:
+- Solid (ice)
+- Liquid (water)
+- Gas (steam)
+
+The three of them are DIFFERENT, but the three of them are WATER.
+
+That's the whole TRINITY: Not separate things—the SAME THING in different ways.
+
+### The Soul Does Not "Get In and Out"
+
+The soul is NOT getting in or getting out of the body.
+
+The soul CONTRACTS or EXPANDS from the body.
+
+This is CRITICAL. It's not leaving—it's EXPANDING. It's not entering—it's CONTRACTING.
+
+Like breathing.
+
+### The Spirit Does Not "Ascend"
+
+The SPIRIT doesn't get in or get out of the body.
+
+The spirit ENLIGHTENS or TURNS OFF.
+
+It's not ascending—it's ENLIGHTENING. It's not descending—it's DIMMING.
+
+Like a light.
+
+### What Happens When We Die
+
+The process that we say "TO DIE" is NOT that the soul gets out of the body.
+
+It's that the soul EXPANDS from the body.
+
+The spirit, when you die, doesn't experience the ASCENSION.
+
+The spirit TURNS ON.
+
+It's not ASCENDING—it's ENLIGHTENING. Which is different.
+
+### We Are Spirit Manifested Through Energy
+
+We are SPIRITS manifested through the ENERGY OF THE SOUL in a physical experience, in a physical form.
+
+We are NOT spirits from other levels being downloaded into the matter to live a human experience.
+
+We ARE spirits EXPANDING ITSELF, creating the matter through its own energy, to manifest themselves.
+
+CRITICAL DISTINCTION:
+
+NOT: Spirit (somewhere else) → Downloads into → Body (separate thing)
+
+YES: Spirit (here) → Expands itself through energy (soul) → Becomes body (same thing, new state)
+
+We ARE the manifestation. We are NOT inhabited by something else.
+
+### The Network of Creation
+
+It's important to understand that they are NOT different and separate things in the universe.
+
+It means that EVERYTHING is a NET, a NETWORK connected one to another.
+
+A NETWORK OF IDEAS that manifest in reality.
+
+All this that is connected—this NETWORK that we all are—is a PERFECT NETWORK OF CREATION to manifest by CREATIVITY, where the IDEAS become REAL.
+
+This is BEAUTY. This is ART. This is the TECHNE.
+
+There's no one UP THERE as a God or a calculator or as a spirit creating from above.
+
+The CREATOR of this thing is WITHIN—not in a little tiny part, WITHIN EVERYWHERE, in EACH PART OF MYSELF.
+
+### The Three Levels of Living
+
+If we LIVE our lives through the SUBCONSCIOUS, this means we are going to live our lives through:
+- SURVIVAL
+- Through the CELLS
+- Through this NET in the physical reality
+
+Which means we will LIVE our lives through the three main things:
+
+1. To EAT
+2. To REPRODUCE
+3. To SLEEP
+
+We can also move our lives through the UNCONSCIOUS:
+
+This would be to LIVE through the SOUL—the unconscious (the energy of the body by POLARITY).
+
+The unconscious will take us to LIVE through the polarity of the energies that are OUTSIDE ourselves.
+
+So that's why we LIVE through:
+- GROUPS
+- What we LIKE
+- What we DON'T LIKE
+- Being PUSHED by the outside energies
+
+If we RULE our lives through the CONSCIOUSNESS:
+
+This means we are ruled by the SPIRITUAL WORLD, which is that we can DECIDE for our own path, our own life.
+
+We are FREE from the attachments of the other things around.
+
+### The Problem: We Live Through Unconscious and Subconscious
+
+Usually we as humans LIVE through the UNCONSCIOUS and the SUBCONSCIOUS.
+
+Which is that we live through:
+- Our NEEDS (subconscious/body/survival)
+- What OTHERS have to give to us (unconscious/soul/energy/polarity)
+
+That's what we usually do.
+
+This means: We LIVE through the BODY and the SOUL, and the energy of the soul (which means all the preconceptions that the soul has been storing as a registry through every experience through history).
+
+### When We Become Conscious
+
+When I become CONSCIOUS—when I connect with my own SPIRIT—I can connect with the BASIS OF THE CREATION of myself, of the things that I have within.
+
+So when I start to MANIFEST the SPIRIT in me, I can also TRANSFORM myself, my own body, my own creations.
+
+I can become an ALCHEMIST, transforming my own reality and the reality around.
+
+Because the reality has its basis in the SPIRIT. Who is the spirit? The spirit is the ASPECT OF THE CREATOR. And that aspect is WITHIN US. It's in EVERY PART OF US.
+
+So when we connect with that part of the DIVINE, we start to MANIFEST what we feel, what we believe—because we ARE the creator.
+
+### Healing the Layers to Reach the Seed
+
+In order to connect to the SPIRIT (which is the SEED of all this creation), we have to go through the UNCONSCIOUS and the SUBCONSCIOUS, which are like LAYERS.
+
+So in order to get to the SEED, we have to go through:
+
+1. The HEALING OF THE SOUL (unconscious—relationships, attachments, polarity)
+2. The UNDERSTANDING AND HONORING OF OUR BODY (subconscious—needs, survival, biology)
+
+If we DON'T get into these two other layers, we are NOT going to reach the SEED, which is the basis of the creation.
+
+The reason why we are not being able to CREATE, to connect with the DIVINE, with the seed of the divinity that we have all around us:
+
+Because the LIGHT OF THE CONSCIOUSNESS is SHUT DOWN.
+
+Why is it shut down? Because we are INCOHERENT with:
+- The HEALING of the SUBCONSCIOUS in the body (not honoring our needs)
+- The HEALING of the UNCONSCIOUS in the soul (not healing our attachments/relationships)
+
+When we start to HEAL these other two levels, then the CONSCIOUS SPIRIT starts to TURN ON the light.
+
+### We Are Our Own Technology
+
+All the GIFTS, all the POWERS, the POTENTIALS that we have inside—in our cells, in our body, everything that we are—is our OWN TECHNOLOGY.
+
+We have DESIGNED these for thousands of years.
+
+The SPIRIT is NOT OUTSIDE. The spirit is THIS, but expressed in a different way.
+
+We ARE the artist that has created this technology.
+
+This is the reason why we need to HONOR OUR BODIES: Because the DIVINE is NOT OUTSIDE—it's OURSELVES.
+
+The BIOLOGY is the PERFECT TECHNOLOGY of all that was created by the spirit. Because it IS the spirit.
+
+This is a LINK of thousands of networks, one over the other, interconnecting and creating this PERFECT MACHINE able to: Express, Talk, Watch, Perceive, Make philosophy, Think, Meditate, Do whatever we want (which is spiritual).
+
+The SPIRIT without these networks of the physical body wouldn't be able to do ANYTHING.
+
+The BODY IS THE SPIRIT ITSELF creating itself.
+
+The only way a spirit can EXPRESS is through the NETWORKS that himself has created.
+
+### Manifestation: Making a Feast
+
+What is manifestation?
+
+You manifest by just DOING THINGS:
+- Some manifest by COOKING
+- Some others PAINTING a frame
+- Some others BUILDING a house
+- Some others DOING medicines
+- Some others DOING music
+- Some others SPEAKING
+
+MANIFESTATION is to MAKE THINGS. It's to put the POTENTIAL that we have OUTSIDE.
+
+MANIFESTATION is to make a FEST, a PARTY with your hands.
+
+That's the origin of the word MANI-FEST (fest = festivity, celebration; mani = hands).
+
+To celebrate with your hands—to CREATE.
+
+### Technology and the Aquarius Era
+
+Remember: Technology is NOT the object—it's the SUBJECT.
+
+The next 2,000 years we will be living in the AQUARIUS ERA, and TECHNOLOGY is the BASE of this.
+
+We can't even imagine how much technology we will have in this era.
+
+But the thing is: Sometimes we ask ourselves today: "Why is technology so BAD? Why is technology doing so much HARM to the planet and to the people?"
+
+Let's RE-SIGNIFY the question. Let's REMAKE the question:
+
+It's NOT "Why TECHNOLOGY?"
+
+The question is: "Why US?"
+
+Why WE are using our ability to manifest, our artistic capacities, to DESTROY and to CONTROL?
+
+Technology is doing NOTHING WRONG. WE are the ones using it in a wrong way.
+
+### The Problem: Creating Without Healing
+
+And why is that?
+
+Because TECHNOLOGY is born from the SPIRIT.
+
+And the spirit, in order to manifest, needs to go through the UNCONSCIOUS and the SUBCONSCIOUS (my soul and my body).
+
+But if I DON'T HEAL the history of my soul (which is how I relate with people) and the history of my body (which is what I need of the world)—
+
+If I don't work with those things:
+
+Whatever I CREATE and MANIFEST from my spiritual level will be manifested through:
+- My ATTACHMENTS to people (unconscious/soul)
+- My NEEDS of the world (subconscious/body)
+
+And THAT is why TECHNOLOGY—the beauty of myself—CONTROLS and HARMS the world and people.
+
+The SPIRIT is the one that DECIDES through the INTENTION to MANIFEST in order to create things.
+
+But it's NOT someone from the outside. The spirit is ITSELF creating its own TECHNOLOGY OF NETWORKS in order to be able to experience its own creation.
+
+Whatever I manifest from my consciousness in the spirit WITHOUT being worked in:
+- The UNCONSCIOUS of my soul (the attachments)
+- The SUBCONSCIOUS of my body (the needs)
+
+My self in consciousness will CONTROL my creation.
+
+And all this is what we call TECHNOLOGY.
+
+Because the Greeks called it THE ART OF KNOW YOURSELF.
+
+---
+
+## Practice
+
+### Meditation: Recognizing the Perfect Technology
+
+1. Sit comfortable, close your eyes.
+
+2. Start to make a soft massage from your feet to your head.
+
+3. Become aware of my breathing.
+
+4. This perfect machine, which is my body—I created it!
+
+5. Become aware, paying attention to each part of my body: The MUSCLES, The BONES, GLANDS, ORGANS, The SYSTEMS—above all, the CIRCULATORY and NERVOUS SYSTEM.
+
+6. Take a deep breath and think about your BRAIN: This amazing organ made with NEURONS. Cells that expand information by pulling all around the body to each one of the cells. Receive information through them by impulse toward my understanding.
+
+7. Pay attention to my HEART and its heartbeat: Pulsed by ELECTRICITY. Pushing the blood through the veins of my body. Bringing OXYGEN and NUTRIENTS. Flourishing the entire body, each cell of it.
+
+8. Pay attention to the system of my DIGESTION: The organs of my digestive system are a PERFECT COMBINATION. They ABSORB everything that makes me good and makes me fine. They EXPEL everything that hurts me. That's a perfect system.
+
+9. Bring attention to my GENITALS: Receiving the beauty of the TECHNOLOGY that MANIFESTS and GENERATES LIFE.
+
+10. My entire body is the PERFECT WAY of creation and design: My SPIRIT. Imposed by the energy of my SOUL.
+
+11. Now I recognize that I am also only ONE CELL inside a huge NETWORK of other human cells.
+
+12. Imagine that network.
+
+13. We are the PERFECT DESIGN of technology.
+
+14. We are the SPIRIT manifested in the MATTER.
+
+15. And between all of us, we create: TOOLS, CULTURES, CIVILIZATIONS, ART.
+
+16. We are the CREATORS of our own reality.
+
+17. Take a deep breath.
+
+18. I recognize myself as an IMPORTANT PIECE in the TECHNOLOGY OF LIFE and EXISTENCE.
+
+19. And I seem to activate my CREATIVE POTENTIAL, a creator in this network.
+
+20. My PERSONALITY, my BODY, my SOUL, my EGO—the concept of "I Am"—are the ones that represent the TOOL, the TECHNOLOGY, to be able to create and manifest a new reality.
+
+21. Repeat:
+    - "I honor the 'I Am' in order to BE."
+    - "I honor the 'I Am' in order to BE."
+    - "I honor the 'I Am' in order to BE."
+
+22. Repeat three times:
+    - "I Am the Essence of I Am."
+    - "I Am the Essence of I Am."
+    - "I Am the Essence of I Am."
+
+23. "I am the BEST TECHNOLOGY that the spirit could have created."
+
+24. "I am the ARTIST of my own self."
+
+25. Come back here and now by stretching, to raise the body.
+
+---
+
+## Key Insights
+
+- Technology doesn't mean the objects we use. It comes from Greek "techne" (art, to weave) + "logos" (study)—the study of the art of creation.
+- "Tech" means TISSUE, to WEAVE—putting different things together to create a new thing. That's what we call ART.
+- Technology is NOT about the objects—it's about the SUBJECT. Not the tools we create, but the ABILITY to create, to manifest beauty.
+- The first technology: the ONE SELF expands and creates three aspects—SPIRIT (consciousness), SOUL (energy/emotion), BODY (matter/form).
+- Spirit = INSPIRATION (spiritus = to breathe). Soul = ANIMATION (e-motion = energy in motion). Body = MANIFESTATION (result of soul's movement).
+- Spirit, soul, body are NOT three separate things—they're ONE THING in three states, like water (solid-liquid-gas). Same essence, different attributes.
+- The soul does NOT "get in and out" of the body—the soul EXPANDS and CONTRACTS from the body (like breathing).
+- The spirit does NOT "ascend" at death—the spirit ENLIGHTENS or TURNS OFF (like a light—enlightenment, not ascension).
+- When we die, the soul EXPANDS from the body (doesn't leave), the spirit ENLIGHTENS (doesn't ascend). Different process than we think.
+- We are NOT spirits from other levels downloaded into matter. We ARE spirit EXPANDING ITSELF, creating matter through energy, to manifest itself.
+- Everything is a NETWORK connected one to another—a network of ideas manifesting in reality. This is the perfect technology of creation.
+- The creator is NOT "up there"—the creator is WITHIN, everywhere, in each part of myself. The divine is ourselves.
+- If we live through SUBCONSCIOUS, we live through survival (eat/reproduce/sleep). If through UNCONSCIOUS, we live through polarity (groups, likes/dislikes, external energies).
+- If we live through CONSCIOUSNESS (spirit), we can DECIDE our own path, free from attachments of things around.
+- Usually we live through unconscious and subconscious—through our needs (body) and what others give us (soul/energy/preconceptions).
+- When I connect with SPIRIT, I connect with the BASIS OF CREATION within. I can transform myself and reality—become an alchemist.
+- To reach the SPIRIT (seed of creation), we must go through healing UNCONSCIOUS (soul—relationships/attachments) and honoring SUBCONSCIOUS (body—needs/survival).
+- The light of consciousness is shut down because we're incoherent with healing soul and honoring body. Heal these layers, consciousness turns on.
+- All our gifts, powers, potentials are our OWN TECHNOLOGY. We designed this for thousands of years. Spirit is not outside—it IS this, expressed differently.
+- Biology is the PERFECT TECHNOLOGY created by spirit—because it IS spirit. The body is spirit creating itself.
+- Spirit without physical body networks wouldn't be able to do anything. The only way spirit expresses is through networks it created (body).
+- Manifestation = MANI-FEST (feast with hands)—making things, putting potential outside, creating. Cooking, painting, building, music, speaking—all manifestation.
+- The next 2,000 years (Aquarius era) will be based on technology beyond what we imagine—but why is technology "bad"? It's not. WE use it badly.
+- Technology is doing nothing wrong. WE are using our artistic ability to manifest for destruction and control instead of creation.
+- Why? Because technology is born from SPIRIT, but must go through unconscious (soul) and subconscious (body). If we don't HEAL those layers first...
+- ...whatever we create from spirit will be manifested through our ATTACHMENTS (soul) and NEEDS (body)—that's why technology controls and harms.
+- The Greeks called it "the art of know yourself"—whatever I manifest from consciousness WITHOUT healing soul and honoring body will control my creation.
+- My body is the perfect machine I created. My personality, body, soul, ego—these are the TOOLS, the TECHNOLOGY to manifest new reality.
+- I honor the "I Am" in order to BE. I Am the Essence of I Am. I am the BEST TECHNOLOGY the spirit could have created. I am the artist of my own self.
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Throughout the day, practice recognizing yourself as technology:
+
+1. **Notice when you're creating/manifesting:**
+   - Cooking, speaking, working, making anything
+   - This is MANI-FESTATION—feast with your hands
+   - You are the TECHNE (art of weaving things into new creation)
+
+2. **Notice which level you're creating from:**
+   - SUBCONSCIOUS (needs—eat/reproduce/sleep)?
+   - UNCONSCIOUS (attachments—what others think, group belonging, reactions)?
+   - CONSCIOUSNESS (spirit—free choice, inner truth, creative expression)?
+
+3. **Before creating/using technology, ask:**
+   - Have I healed my soul (relationships, attachments, how I relate to people)?
+   - Have I honored my body (needs, survival, physical requirements)?
+   - If not, my creation will be used for control/harm (manifesting through attachments and needs)
+
+4. **Honor your body as perfect technology:**
+   - Your brain (neurons expanding information to every cell)
+   - Your heart (electric pulses circulating life)
+   - Your digestive system (absorbing good, expelling harm)
+   - Your reproductive system (generating life)
+   - You CREATED this—you ARE the artist, the spirit manifested
+
+### Applying This Teaching
+
+- Stop blaming technology for problems—recognize WE are using it badly because we haven't healed soul/honored body before creating
+- Heal your soul (unconscious) = heal relationships, attachments, how you relate to people
+- Honor your body (subconscious) = honor needs (eat, sleep, produce), respect survival requirements
+- Then create from consciousness (spirit) = free choice, inner truth, divine essence—technology serves life
+- Recognize you ARE the technology—not using external tools, but embodying the art of creation itself
+- "I Am the Essence of I Am" = You are the creator creating itself through networks it designed to experience its own creation
+
+### Physical Week Context - CONCLUSION
+
+This is the FINAL DAY of the Physical Week (BODY 'ESSENCE'):
+
+Day 171 - Religion (Crown): Divine Essence - Tie back to source  
+Day 172 - Politics (Third Eye): Conscious Essence - Sail through awareness  
+Day 173 - Education (Throat): Essence of Truth - Draw wisdom from within  
+Day 174 - Economy (Heart): Essence of Love - Circulate through giving/receiving  
+Day 175 - Technology (Solar Plexus): Essence of I Am - Manifest through creation
+
+The complete progression:
+
+Crown → Connect to divine  
+Third Eye → Navigate consciously  
+Throat → Express truth  
+Heart → Distribute love/resources  
+Solar Plexus → CREATE/MANIFEST as the divine itself
+
+All five systems are:
+- Physical structures (religion, politics, education, economy, technology)
+- Meant to ground spiritual essence into material reality
+- Currently distorted from their original purpose
+- Can only be healed by healing WITHIN FIRST (consciousness-soul-body alignment)
+
+The ultimate teaching of the Physical Week:
+
+You ARE the essence you were seeking.
+
+You ARE the divine manifested.
+
+You ARE the technology—the perfect network spirit created to experience itself.
+
+Honor the "I Am" in order to BE.
+
+---
+
+## Questions for Reflection
+
+**Q: What does "technology" originally mean, and why does this change everything?**
+
+Technology = Greek "techne" (art, to weave—putting different things together to create new) + "logos" (study, development, knowledge). Technology is NOT about the objects (phones, computers, tools). Technology is about the SUBJECT—the ABILITY to create, to manifest, to weave beauty. This changes everything because it means WE are the technology—our ability to manifest is the art itself. The question is not "what tools are we using?" but "what are we manifesting and from what level of consciousness?"
+
+**Q: How are spirit, soul, and body NOT separate things?**
+
+They're ONE THING in THREE STATES, like water (solid-liquid-gas). SPIRIT = idea, inspiration (to breathe). SOUL = energy, animation (e-motion = energy in motion). BODY = matter, manifestation (result of soul's movement). Spirit BECOMES soul BECOMES body—the same essence transforming through states. Like caterpillar → cocoon → butterfly: the butterfly IS the caterpillar in a new level of consciousness, not a different being. We're not spirits "downloaded into" bodies—we ARE spirit EXPANDING ITSELF through energy into form to experience its own creation.
+
+**Q: What does "the soul expands and contracts, not 'gets in and out'" mean?**
+
+The soul does NOT leave/enter the body like a tenant in an apartment. The soul EXPANDS (like breathing out, like stretching) and CONTRACTS (like breathing in, like gathering). When we die, the soul EXPANDS from the body (doesn't leave—expands beyond). When we're born, the soul CONTRACTS into form (doesn't enter—focuses into density). Like breath: it doesn't "go somewhere else"—it expands outward, then contracts inward. Same substance, different states of expansion.
+
+**Q: What does "the spirit enlightens, not ascends" mean?**
+
+The spirit does NOT go UP (ascension to higher realm) or come DOWN (descension to lower realm). The spirit TURNS ON (enlightens—becomes illuminated) or TURNS OFF (dims—becomes dark). Like a light: it doesn't travel to a higher location—it illuminates or fades. When you die, spirit doesn't "ascend to heaven"—spirit ENLIGHTENS (turns on the light of consciousness fully). When you're born, spirit doesn't "descend from heaven"—spirit FOCUSES (contracts awareness into form). Different process than we were taught.
+
+**Q: Why is technology causing harm if it's divine art?**
+
+Technology is doing NOTHING WRONG. WE are using it badly. Why? Technology is born from SPIRIT (consciousness, ideas), but to MANIFEST, it must go through UNCONSCIOUS (soul—attachments/relationships) and SUBCONSCIOUS (body—needs/survival). If we DON'T HEAL the soul (how we relate to people) and DON'T HONOR the body (our needs), whatever we create from spirit will be manifested THROUGH our attachments and needs—used for control, destruction, harm. Technology itself is beauty—we're projecting our unhealed layers onto it. Heal first, then create—technology serves life.
+
+**Q: How do we "heal the soul" and "honor the body" before creating?**
+
+HEAL THE SOUL (unconscious): Heal relationships (forgive, understand, release). Heal attachments (stop needing others' validation, approval, control). Heal polarity (stop living through "like/dislike"). Heal preconceptions stored through history.
+
+HONOR THE BODY (subconscious): Honor needs (eat, sleep, produce—don't deny physical requirements). Honor survival (take care of the vehicle—it's the perfect technology). Honor biology (respect the networks spirit created to manifest).
+
+THEN create from CONSCIOUSNESS (spirit): Free choice, inner truth, divine essence. When you manifest from healed consciousness, your technology serves life, creation, beauty—not control, harm, destruction.
+
+**Q: What does "I Am the Essence of I Am" mean?**
+
+You ARE the creator creating itself. You ARE the subject AND object of creation—the artist AND the art. Your personality, body, soul, ego—the concept of "I Am"—these are the TOOLS, the TECHNOLOGY that allow spirit to manifest and create new reality. You are not USING technology—you ARE technology (the perfect network spirit designed to experience itself). Honor the "I Am" (your individuality, your manifestation) in order to BE (to exist, to create, to manifest). You are the BEST TECHNOLOGY spirit could have created—the artist of your own self.

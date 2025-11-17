@@ -1,324 +1,437 @@
 ---
-title: "Day 224 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 224 - Unconditional Love: Understanding the Process Beyond Tools"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 224
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 224
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - root chakra
+  - unconditional love
+  - conditions
+  - mandates
+  - family patterns
+  - conscious parenting
   - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month holds
-  - month hold
+  - Pisces Emotional Week
+  - burdens as tools
+  - transformation
+  - emotional network
+  - hammer metaphor
 
 practice_elements:
+  vibration: "B"
+  statement: "I Am the Will that Expands"
   chakra: "Heart"
+  code: "To Desire - giving meaning to what generates expansion, balancing wishes with reality"
 
 ---
 
-# Day 224 - Consciousness Work
+# Day 224 - Unconditional Love: Understanding the Process Beyond Tools
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
+- **Chakra Focus:** Heart
+- **Week Theme:** Pisces Emotional Week
+- **Main Topic:** Unconditional Love and Accepting the Eternal Process of Transformation
+- **Vibration:** `B`
+- **Statement:** `I Am the Will that Expands`
+- **Code:** To Desire - as universal energies I am, I will balance my wishes in relation to my reality. This is what gives meaning to what generates expansion. I will not stagnate or take things for granted. Instead, from the heart, I will embrace desire in a balanced way—experiencing the power of wanting, the yearning to continue, the willingness to long for and the ecstasy that desire brings. I will sustain wanting, to dream, to yearn, to feel the pull of my heart.
 
-## Introduction
+---
 
-Hello everyone , how are you? Good morning , good afternoon , good evening. To all of you and welcome to the day of the hard in the emotional week of Pieces. I hope this will be well.
+## Overview
 
-Sorry that I was , I just realized that I was dehydrated. And I forgot to buy water , so I went to take hour from the top and tap water. And you need to do , you are not supposed to do that.
+Today, **Day 224**, we arrive at the **heart chakra** of the Emotional Week of Pisces.
 
-So , if tomorrow I am not here at the time , so it 's because I got diarrhea.
+Our topic is **unconditional love**.
 
-So , something for you to know , you should not drink top water in each year , so do n't do what I do. But , the worry because the bacteria are so big and it will be that it 's like eating shrimp.
+When we hear "unconditional love," most of us think it means to **be there for everyone all the time**, to accept everything and everyone without question, to always be warm and lovely.
 
-So , they taste good. And after taking down the energy of the heart , let 's go straight to the energy of the heart.
+But today we will explore the **true meaning of unconditional love** through its etymology and what it really asks of us.
 
-So , let 's talk about the conditionality , which is a term that for sure we all have used , but that we do n't usually take in its whole aspect. When we speak about incognitality and most of it related to the concept of love and biases , we used to make this kind of mistake saying that incognitality means to be there for that person for whatever not other person needs. Here we are , or I am here for you or something like this. Speaking about biases , we used to relate the unconditional love and unconditional word with the love.
+Unconditional love is not about being nice all the time. It's about **understanding and accepting the process** that all beings are in—including yourself.
 
-And conditional love related to being there for everyone in service to all the people , given everything as possible from oneself to the rest.
+---
 
-So , that 's the unconditional love from our point of view. Also , culturally , in our daily cultures , we used to say that unconditional personal is that person that is always there that will never betray that is constantly there for us or you. And so , these concepts , even if they can be taken like this , they are not specifically speaking about what this word means.
+## The Misunderstanding of Unconditional Love
 
-So , let 's understand the word in order to understand the meaning.
+### What We Think It Means
 
-Okay , so , a bit of it , and a bit of this links here. The Nile , okay? The Nile. In is the Nile.
+When people hear "unconditional love," they often think:
+- I should love everyone no matter what they do
+- I should accept all behavior without boundaries
+- I should give endlessly without receiving
+- I should be warm, lovely, and supportive at all times
 
-Con means we 're together.
+### The Pressure This Creates
 
-So , Dec comes from the word Care , that means to say , or to point at something , to point. Lion , or then means action. And ali means an attribute , equality.
+This misunderstanding creates enormous pressure, especially for **Pisces energy**—which already wants to make everyone happy.
 
-So , the word Care , in Latin means say , comes from the European language , Dec. And Dec means to point at , okay?
+People exhaust themselves trying to be "unconditionally loving" according to this definition.
 
-So , this , I was writing to the blog , explained that the ancient ones , they did n't use many words to speak. They just used a few words to speak.
+They feel guilty when they:
+- Set boundaries
+- Say no
+- Feel frustrated with someone
+- Can't accept someone's harmful behavior
 
-So , they were most trying to , mostly trying to explain what was happening in the environment. They were trying to point at the prey. They were trying to point at the fruit. They were trying to point at the path and notify that there is someone coming or something like this.
+### The Truth Is Different
 
-So , they would say to the others what was happening. And they were not using much words. They were just punctualizing what was happening and where to go , what to do.
+**Unconditional love doesn't mean accepting all behavior**. It means **accepting the process** that all beings are in.
 
-Okay?
+It means understanding that everyone is learning, evolving, growing—and that includes making mistakes, being unconscious, and struggling.
 
-So , this concept is the one that makes the word say to appear , which is to express the idea of pointing at things. But we started to speak about it. We started to , to , to punctualize things by talking.
+---
 
-Okay?
+## Understanding Conditions
 
-So , so that 's why the word punctualized or to sign something is related to the word say to say something. From , from this concept of the Latin , we have Fiction.
+### What Are Conditions?
 
-Okay?
+To understand "unconditional," we first need to understand **conditions**.
 
-So , Fiction means to point or to try to say something to punctualize something , pointing at a concept.
+The word **condition** comes from:
+- **Con** = with, together
+- **Diction** = speaking, pointing
 
-Okay? Fiction is the action of saying something.
+**Condition** means "**with speaking**"—an agreement that is **spoken together**.
 
-So , then when we add corn , which is with , when we are doing like con diction condition , in that word where we are doing is that we are pointing at something that we are speaking about something. But then we had to be , that there has to be consensus between the different parts.
+### Conditions Are Conscious Agreements
 
-So , we have a condition when many of us are agree about what we are talking about.
+Originally, conditions were **conscious choices**:
+- "I will do this if you do that"
+- "We agree on these terms"
+- "These are the boundaries of our relationship"
 
-So , we have a contradiction when the different parts does n't agree in what we are speaking about. Here comes the moment when we all say that we agree in something that this is what we had agree. And we say we kind of change it because we already spoke that this is like this.
+Conditions are not inherently bad. They are **tools for organizing relationships and expectations**.
 
-So , it kind of becomes like a contract , okay? Like a contract of the things. And that 's how we transform the idea of speaking about something into a contract. And that 's how we understand the concept of condition.
+### When Conditions Become Unconscious
 
-So , now we have conditions in the terms of what was spoken. The word condition , even if we today take it as a contract kind of like an obligation that we have to do for sure. The origin really for the word condition is not something obligated is something that we all spoke about and we decide to do in that way.
+The problem arises when conditions become **unconscious**—when we don't even realize we're operating under them.
 
-Now to understand the idea from where it comes now a condition. A condition is something that we accept in order to have a perfect interaction with other people.
+These unconscious conditions are called **mandates**.
 
-So , we have a condition as human. We have a condition with our brothers and sisters with mom and dad , with the family , with the partner , a couple.
+---
 
-So , we all agree terms in that relation.
+## Mandates: The Burdens We Carry
 
-So , that 's a condition something that we speak about. But what happened that some of those conditions are also cultural that this mean that we have accepted that culturally and we do n't even wonder why.
+### Etymology of Mandate
 
-So , for example , we all know that when we have a couple , we can not be with other people. It 's like something like that.
+**Mandate** comes from:
+- **Manus** = hand
+- **Date** = given
 
-So , I can not be with other people because I am with someone. But that 's that it 's a condition of the culture.
+**Mandate** means "**given by hand**"—something **passed down through generations**, usually through family.
 
-Someone in the past made this condition , they all agree about that terms of you can only be with that person that you are with.
+### Family Mandates
 
-Okay , so through centuries of years , so centuries , we have been repeating the same.
+Mandates are the **unconscious burdens** passed from parents to children:
+- "You must be successful to be worthy"
+- "You must sacrifice yourself for the family"
+- "You must never show weakness"
+- "You must always be perfect"
 
-So , sadly , the condition has become something that we do n't even know from where it comes from.
+These are not spoken as rules. They are **absorbed** through watching, through the energy of the family, through what is praised and what is punished.
 
-So , that 's why the conditions became something negative because we do n't know how to how to handle it. How to from where it comes from.
+### Why We Accept Mandates
 
-So , we just think it as an obligation , something that just comes and we do n't know from where.
+We accept these mandates because of a deep, primal fear: **fear of expulsion from the family**.
 
-So , because of this cultural idea of the conditions , we start to have in our mind the idea that conditions are limiting us , that they just limit constantly.
+In ancient times, being expelled from the tribe meant death. So our biology still carries this fear: "If I don't obey, if I don't carry these burdens, **I will be rejected**."
 
-So , we start to take the conditions as agreements or packs , agreements , common agreements or conscious packs. And we start to take them as limited boundaries and conditions.
+This is why mandates are so powerful—they operate at the level of survival.
 
-So , we start to look for unconditionally as a way to go beyond the limits to move forward to transcend these limitations. This is how we start to create the idea that if we have so many conditions , the way in which we can go out of this is through unconditionally. And how can we understand unconditionally? Well , when we see conditions as a limitation , so we think that the limitations bound us to certain people.
+---
 
-So , these people are with us connected because of those conditions.
+## The Hammer Metaphor
 
-So , there are people that it does n't matter the forms , the shapes , the conflicts that we have , the differences that we have , it does n't matter the conditions that we had as people , those person are always there. Because those people are constantly there , we call them unconditional because they kept being besides the conditions.
+### Burdens as Tools
 
-So , just to make an example of us here right now.
+Matias offers a powerful metaphor:
 
-So , this chats that we are doing here , they are condition. We have a condition. The condition is that I speak in Spanish and English. Because those are the main languages that I speak.
+Imagine you are given a **hammer** when you are born. But no one tells you what it is. No one teaches you how to use it.
 
-And so , most of you speak Spanish and English.
+You carry this hammer your whole life, thinking: "**Why do I have to carry this heavy thing? It's a burden!**"
 
-So , because of this , we have done like kind of an agreement , a condition that I would speak in those two languages. My condition is that I speak only those two languages all the time and your condition is you have to speak these two languages for sure.
+But one day, someone shows you: "That's a hammer. You use it like this—to build, to create, to fix things."
 
-So , we have this condition in these videos to languages.
+Suddenly, **the burden becomes a tool**.
 
-So , what happened , even if most of the people speak Spanish and most of the people here in English , there are some people here that speak Portuguese , that 's big Italian , French , other languages. And they , even though they are here all the time.
+### Mandates Work the Same Way
 
-So , that 's unconditional because besides the conditions of these videos , they are here all the time doing their best.
+The mandates we carry—the family patterns, the unconscious agreements—**are hammers**.
 
-So , that 's an example of conditions and in conditionality.
+They feel like burdens because we don't understand them. We don't know why we carry them or what they're for.
 
-So , now for example , we reach the other level of the understanding of a condition. For example , for some of you maybe it is very heavy to listen to me into languages. Like , it 's too long or it makes me confused or whatever. I ca n't follow the line or anything.
+But when we **become conscious** of them, when we understand their function and their origin, they can become **tools for transformation**.
 
-I do n't know.
+### The Work of Consciousness
 
-So , maybe some can say that , but even though you are here , even though this condition.
+The work is not to **throw away the hammer**. The work is to:
+1. **Recognize you're carrying it** (awareness)
+2. **Understand where it came from** (family patterns)
+3. **Learn how to use it** (transformation)
+4. **Decide if you still need it** (choice)
 
-So , what we can understand from this is that a condition is a choice.
+---
 
-So , everyone is here by free will , by its own choice.
+## What Unconditional Really Means
 
-So , a condition is never something that is really obligated. A condition is basically something that we agree with somehow.
+### Going Beyond Conditions
 
-So , we can say , okay , if a condition is something that really is something that we agree with , which is an election that we do in our life.
+**Unconditional** means going **beyond the tools** to understand **the process**.
 
-So , this means that anything that we leave is a choice.
+It means:
+- Not judging someone for how they use their "hammer" (their conditions, their tools)
+- Understanding that everyone is at a different stage of learning
+- Accepting that others may not know yet that their burden is a tool
+- Respecting the **eternal process of transformation** that all beings are in
+
+### Unconditional Is Not About Being Lovely
+
+Unconditional love is not about being warm and lovely all the time.
+
+It's about **accepting reality as it is** while still working to transform it.
+
+It's like being a **conscious parent**: you accept that your child is a child, learning and growing. You don't hate them for not knowing. You **teach them** with love while accepting their current state.
+
+---
+
+## The World as a Baby Learning
+
+### The Baby Metaphor
+
+Imagine a baby learning to communicate.
+
+At first, all the baby can do is **cry**. Crying is their only tool.
+
+Do you hate the baby for crying? Do you reject them because they don't speak perfectly yet?
+
+No. You **accept** that crying is part of the process. You **teach** them better ways to communicate. You guide them with love.
+
+### Humanity Is the Baby
+
+The same is true for humanity.
+
+Right now, humanity is like a baby learning to communicate, learning to cooperate, learning to love.
+
+Sometimes humanity "cries"—there is violence, injustice, suffering.
+
+**Unconditional love means**: don't hate humanity for crying. Don't reject the world for not being perfect yet.
+
+**Teach. Guide. Transform.** But accept that this is the process.
+
+---
+
+## Conscious Parenting
+
+### Teaching Limits with Love
+
+Unconditional love does not mean **no boundaries**.
+
+A conscious parent teaches the child:
+- "You cannot hit your brother"
+- "You must learn to share"
+- "These are the limits"
+
+But they teach this **with love**, not with rejection.
+
+The boundary is not: "**You are bad.**" The boundary is: "**This behavior needs to change, and I will help you change it.**"
+
+### Helping Discover Potentialities
+
+Unconditional love means helping others (and yourself) **discover their potentialities**.
+
+Not forcing them to be what you want. Not rejecting them for who they are now.
+
+But **guiding them** to see what they can become.
+
+---
+
+## Unconditional Love Is Accepting the Eternal Process
+
+### Transformation Never Ends
+
+The key insight: **transformation is eternal**.
+
+There is no endpoint where everyone is "perfect" and we can finally rest.
+
+Unconditional love is accepting this: **there will always be more to learn, more to heal, more to transform**.
+
+### Not About the Destination
+
+People often think: "Once everyone is enlightened, then I can love unconditionally."
+
+But that's still conditional: "I'll accept you once you're perfect."
+
+**Unconditional means**: I accept you now, in this process, even as you are learning and struggling.
+
+### And This Includes Yourself
+
+This is crucial: **unconditional love includes yourself**.
+
+Accept that **you are also in process**. You are also learning. You also carry mandates, burdens, "hammers" you don't yet know how to use.
+
+Be gentle with yourself. You are the baby learning to speak.
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortably. Close your eyes. Breathe deeply.
+
+Feel your body—the sensations, the temperature, the energy moving through you.
+
+### Recognizing the Emotional Network
+
+Become aware that your emotions are not isolated—they are part of a **network**.
+
+The energy you feel connects to others. Your heart is part of a **web of hearts**.
+
+### Seeing the Reflections
+
+Now, bring to mind someone you struggle to accept—someone whose behavior frustrates you, hurts you, or angers you.
+
+Recognize: **this person is a reflection of you**.
+
+Not that they are you. But that they are showing you something—perhaps a part of yourself you don't want to see, or a lesson you need to learn.
+
+### Accepting the Process
+
+See this person as they are: **learning, struggling, carrying burdens they may not understand**.
+
+They are using their "hammer" the only way they know how.
+
+**Accept this.** Not the behavior. But the **process they are in**.
+
+### Extending to Yourself
+
+Now turn this acceptance toward yourself.
+
+See the burdens you carry—the mandates, the unconscious patterns, the ways you struggle.
+
+**Accept that you are in process.**
+
+You are learning. You are transforming. You are the baby learning to speak.
+
+### Sound the Vibration
+
+From your heart, sound the vibration **B**.
+
+**I am the will that expands. I am the will that expands.**
+
+**To desire. To desire. To desire.**
+
+### Integration
+
+Breathe deeply. Feel this acceptance expanding through your entire being.
+
+You accept the process—in yourself, in others, in the world.
+
+This is unconditional love.
+
+### Closing
+
+Bring your awareness back to the room. Open your eyes when you're ready.
+
+---
+
+## Key Insights
+
+- Unconditional love is not about being lovely and warm all the time—it's about accepting the eternal process of transformation.
+- Conditions are conscious agreements spoken together ("con-diction")—they are tools, not inherently bad.
+- Mandates are unconscious conditions passed down through families ("manus-dates" = given by hand).
+- We accept mandates because of fear of family/tribal expulsion, which feels like death to our biology.
+- The hammer metaphor: burdens become tools when we understand them.
+- Unconditional means going beyond the tools (conditions) to understand the process.
+- Don't judge others for how they use their "hammer"—they may not know it's a tool yet.
+- The world is like a baby learning to communicate—don't hate the crying, teach better communication.
+- Conscious parenting: teach limits with love, help discover potentialities, accept the current state while guiding transformation.
+- Unconditional love includes yourself—accept that you are also in process.
+- Transformation is eternal—there is no "perfect" endpoint, only continuous evolution.
+- You can work for a better future without hating the present.
+
+---
+
+## Integration
+
+### Daily Awareness
+
+Today, notice when you reject yourself or others for "not being there yet."
+
+When you notice this, pause and remember: **everyone is in process**.
+
+This doesn't mean accepting harmful behavior. It means accepting that **learning takes time**.
+
+### The Hammer Exercise
+
+Identify one "burden" you carry—a pattern, a belief, a mandate from your family.
+
+Ask yourself:
+- Where did this come from?
+- What is it trying to protect me from?
+- Could this burden actually be a tool if I understood it differently?
+
+### Practicing with Children
+
+If you interact with children (your own or others), practice **conscious parenting**:
+- Accept them as they are now
+- Teach limits with love, not rejection
+- Help them discover their potentialities
+- Don't force them to be what you want—guide them to become what they can be
+
+This is unconditional love in action.
+
+---
+
+## Week Context
+
+We are in the **Emotional Week of Pisces**, learning to feel, flow, and accept.
+
+Pisces wants everyone to be happy, everyone to be healed. But this creates exhaustion when we don't understand **unconditional love**.
+
+Today's teaching frees us: we don't have to accept all behavior. We have to accept **the process**.
+
+We can set boundaries, say no, and still love unconditionally—because unconditional love is about understanding, not enabling.
+
+---
 
 ## Q&A
 
-So , maybe you could ask , but what being poor is a choice is an election of myself to be poor for example , for people to be poor. And I can say , yes. Because the condition of being poor is a state that you are accepted to be because you have the opportunities to do different things. You can choose many ways to get out of that.
+### Q: If I accept people as they are, won't they just stay the same?
 
-If you are still there , is because you are not choosing or you are choosing to be like that. Or for example , maybe you can say , a war. How can a war not be a choice?
+Accepting the **process** doesn't mean enabling **harmful behavior**. You can set boundaries and still accept that they are learning. True acceptance actually creates space for change—because people grow when they feel understood, not when they feel judged.
 
-So , when there is a war , you have the choice to go out to go away , to escape.
+### Q: How do I love someone unconditionally when they hurt me?
 
-The reason why you stay there is because you condition yourself to be there is a choice. There is always ways of changing. Life is multiple , all the time changes. If we do n't change , it 's because we choose not to change.
+Unconditional love doesn't mean staying in harmful relationships. It means: "I understand you are in a process, you are learning, and you are struggling. And I also love myself enough to set boundaries and protect myself." You can accept their process from a distance.
 
-So , the reason why we leave our conditions of our life in unconscious way is because of the mandates of our plan of the family. The concept of why we have these conditions and we do n't even know about it is because of being unconscious. And we receive unconscious these conditions because of the mandates. Mandate come from the word , minus , dates , that in Latin means given by hand , minus , dates is given by hand.
+### Q: What if I can't recognize my family mandates?
 
-So , a mandate is something that my ancestors gave to me and I will give to the other ones.
+They're often invisible because you've carried them your whole life. Look for patterns: What beliefs do you have that you've never questioned? What would your family reject you for? These are clues to your mandates.
 
-So , this is like a maze , a maze , no , like a race.
+### Q: Isn't this just making excuses for bad behavior?
 
-So , we are running and you pass the torch to the next one and so on.
+No. Accepting the process is not excusing behavior. It's understanding the context. You can still hold people accountable, set consequences, and demand change—while also understanding that they are learning and evolving. Compassion and accountability can coexist.
 
-So , from one hand to the other hand , it keeps going in history.
+### Q: How does the hammer metaphor apply to collective trauma?
 
-So , that 's a mandate.
+Entire cultures carry "hammers"—collective mandates, shared traumas. When we recognize these as tools (understanding why they exist, what they protected us from), we can transform them. But first, we have to see them.
 
-So , the reason why I accept that mandate , which means why is a condition , why is a condition is because I am afraid as a human to be expelled by my family. And this is a fear that we have from the very first families in the planet that we are afraid of die because we do n't have the plan protecting us.
+### Q: What's the difference between conditional and unconditional love?
 
-So , we do n't have the family taking care of us.
+Conditional love says: "I will love you when you are perfect." Unconditional love says: "I love you now, in your imperfection, and I will help you transform." One waits for the destination. The other honors the journey.
 
-We are going to be starving if I have to do it alone.
+### Q: How do I practice unconditional love with myself?
 
-So , thousands and thousands of years ago , this fear of not being part of the family was something that molded humans.
-
-So , we receive the mandates , even if we do n't want them , even if we do n't like them , because somehow within we are afraid of being away of our family. That 's why even if we hate when we are receiving the burden of the family , we say , what can I do? Is my family?
-
-So , the reason why we accept this mandates is because we are afraid of not being accepted by the family.
-
-So , this is why in our consciousness , we are so conditioned by all the things that we accept , not even being aware of them. Only by fear.
-
-So , this was explained from the unconscious way , which is the most common , because that 's the burden that we have with conditions from the history of our family and so on. But when we become conscious , we start to realize that the conditions are not something wrong , but they are just tools that we choose to have in order to accomplish some missions and purposes.
-
-So , suddenly , the same condition that before was a weight burden for us becomes a tool to accomplish our mission , so that helps us to set ourselves free. I would use an example that I once did a use also , so we can get this somehow. Imagine that someone from our past gives us a hammer.
-
-So , we received the hammer by Mandate , which is given by hand , a mandate was given to us the hammer and we take the hammer. Because it 's the family I have to accept it. It 's natural. I receive the hammer because even if I do n't know what is that for , it 's something that I will take because it 's someone familiar.
-
-So , I want to respect them.
-
-So , I take that , I take the hammer and the other one , the other one , so suddenly this hammer is like a weight for me. In case it 's a burden , I do n't know how to use it. I do n't know why I have it , but even though I have it because it is for my family.
-
-So , I used the hammer to knock the walls and break someone 's head. I do n't know how to use it.
-
-So , I am unaware of why do I have this hammer.
-
-So , suddenly I become aware. I become conscious.
-
-So , I realize what is the hammer for.
-
-So , I start to put nails and to hang some frames and I do n't know to fix some furniture and suddenly I realize that the weight that I had now is the tool that I can use it. That I know how to use it.
-
-So , I do n't have to throw it away.
-
-Now , I know how to manage that condition that I received. When you became aware , when you really know what is that for , what is the hammer for , how to fix the furniture and so on , once you got all the information , suddenly you see around and you will see these people that , you will see these people that are using also the hammer in different stages. Like you see people that are receiving the hammer , you see people that are trying to use the hammer , but they do n't know are people that are suffering because they have the hammer.
-
-So , you see all the stages that you have been through and you can picture yourself in all these different stages of understanding the hammer and the tool that it was.
-
-So , suddenly you have this option of realizing that all the people around are just trying to use the hammer , they are just trying to understand how to handle the hammer.
-
-So , in that moment , when you understand that conditions are just the choices that you have done in order to understand the tools that you have , suddenly you will see , you will see that these conditions are not specifically things , but at process of the things.
-
-So , you will see the different processes that you had to go through to understand the tool.
-
-So , in that moment is when you become unconditional because you go beyond , you go beyond the hammer itself and you understand the process to understand the meaning of the hammer.
-
-So , that 's why you are unconditional with the people that are knocking someone 's head because they are learning how to use it.
-
-So , you do n't blame them for what they do , you try to go with them and help them understand how to use it. Inconitionality here , a person that is unconditional , is the one that accepts the process of other people that understand the stages where these people find themselves in trying to understand life.
-
-So , inconitionality is the person that goes beyond the tools , beyond the conditions and understand the process of those conditions.
-
-So , that 's respect , acceptance of the process of others. The conditions are aspects that helps us to move , to understand , to do things and so on.
-
-So , this is an eternal process because the universe is eternal.
-
-So , it 's something that we all do all the time constantly. It 's the process of learning is eternal.
-
-So , we needed to look for a concept that is eternal in order to translate how to do it , how to manifest that unconditionally.
-
-So , that eternity is translated in the concept of love. Love is the constant engine of transformation of energy , is the one that helps you to keep moving , keep going.
-
-So , that 's why we start to call this the unconditional love. And conditional love is something eternal that moves constantly and that , behold and that holds all the conditions itself.
-
-So , unconditional love is the one that tells you there 's no limits to respect and accept the processes of others. You must respect , accept the different processes of all the people that are living different realities , because this is eternal. The thing here is to understand that unconditional love is not to be lovely with one another. It 's not to be warm and tagging each other.
-
-No , it 's not that. To love unconditionally , it 's to accept one another , to accept everyone as they are. First of all , we have to accept ourselves , and then we can accept the whole world. And to accept the whole world is to accept how it is not expecting for it to be as we want.
-
-So , to love unconditionally , it 's not to say , I want for this world to be this beautiful or to be in peace or whatever. The person that is willing to think that the world can be better because today is a wrong place is not unconditional that person lives through conditions because is their own conditions.
-
-So , in order to transcend that we have to accept the world as it is , and we will transform the world as we accept ourselves and we change ourselves. I hope we can get the idea.
-
-## Daily Practice Elements
-
-So , let 's go to the information for today. The vibration for today is B. The statement for today is I am will that expands. The code for today is to desire.
-
-## Energy Work
-
-When the forces are balanced , the energy floats is aligned on a survival form , where the lower forces push the upper ones , which by expanding go back to the basis like nutrients. This , the highest ideas become fertilizer. And per a great quantity of potency to the roots of the being , that energy becomes the sire. The attribute that focus the energy in getting an objective.
-
-And so , this fine , the being as a whole. If the energy is not balanced , the sites will be negative. If it is balanced , the sire will lead to fulfill our will and dreams. I ca n't , I 'm conditional all of yet.
-
-I 'm practicing that. Maybe I will at the end of the year , I do n't know , but the weddings are my practice.
-
-So , I guess that eventually I will get to love them and conditional.
-
-Some days somehow.
-
-So , if you do n't listen to music , it 's better. I 'm going to try to close everything as much as possible.
-
-Okay.
-
-So , let 's begin. Sit comfortable. We close our eyes and concentrate now of great things. We close our eyes and concentrate.
-
-We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate.
-
-We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate. We close our eyes and concentrate.
-
-I take a deep breath. I start to perceive the energy that moves around my body. It goes through my muscles , my organs , and around my skin. I perceive the waves of this energy with its heat and cold in each part of my body.
-
-I become aware that this energy are my emotions. I pay attention to which emotions I feel now , which ones are activated right now in me. I recognize that these emotions are my energy. The energy is not my body.
-
-I 'm shaped. My atoms. And all this energy is my soul. I take all this energy and expand my soul into my body , exploding as a star in the cosmos.
-
-I make it each atom of myself , expand towards the infinite , fill in the void , fill in the expansion of my soul in the universe. I recognize I am just energy. I become aware that my soul is unconditional , is free. I need someone to connect each one of the particles , atoms , molecules themselves that represent each one of them.
-
-I have a sense of conditions that may be why I am all bounded and connected by the unconditional love of myself. I realize that each one of these conditions are my tools to be who I am. And that I have to put them all together in order to exist because of them that I am here. I recognize the thing of the conditionality that I feel in my soul is the one that gives a meaning to all of this atoms to be able to transform to evolve.
-
-It 's my inner and unconditionally that sets my body free. I recognize that each aspect of myself is in these conditions are the tools that help me be this being here and now. And it 's my unconditionally. The one that pushed me forward to transform to evolve to transform myself for the eternity.
-
-I recognize that each condition is an aspect , a step in my way of evolution and that by accepting it , I can become unconditional.
-
-So I put all that consciousness together and for my heart I enlighten each part of myself accepting each aspect of me accepting myself and the world around. I accept the process of my own transformation and the plants transformation. I accept the process of my own transformation and the world around. I accept the process of my own transformation and the world around.
-
-I accept the process of my own transformation and the world around. I am the wheel that expands. I am the wheel that expands. I am the wheel that expands.
-
-I believe. From my heart I take a deep breath and start to expand stretching the body all this consciousness around. And each one at some time come back here and now. I am the wheel that expands.
-
-Thank you everybody for being here as always. See you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+Stop waiting to be "fixed" before you love yourself. Accept that you are in process. Be gentle with your mistakes. Recognize your burdens and learn to use them as tools. Treat yourself as a conscious parent treats a child: with love, boundaries, and patience.
 
 ---
-
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*

@@ -1,17 +1,35 @@
-# Day 164 - Relations
+---
+title: "Day 164 - Relations"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
+day_number: 164
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
+document_type: "transcript"
+language: "en"
 
-## Metadata
-- **Date:** January 14, 2021
-- **Chakra:** Heart
-- **Topic:** Relations (Relationships)
-- **Month:** Capricorn (Dec 22 - Jan 20)
-- **Theme:** MIND 'STAIR' (Emotional Week)
-- **Mantra:** "I Use"
-- **Vibration Code:** Bi
-- **Statement:** "I Am the Heart's Home"
-- **Cosmic Key:** Creativity
+keywords:
+  - relationships
+  - expansion
+  - necessity
+  - matrimonio
+  - romance
+  - imperialism
+  - freedom
+  - heart chakra
+  - tribes
+  - kingdoms
+  - Capricorn
+
+practice_elements:
+  vibration: "Bi"
+  statement: "I Am the Heart's Home"
+  chakra: "Heart"
+  code: "Creativity. The constant expansion and transformation that relationships bring, pushing us to see ourselves differently, to grow beyond our boundaries, to become free through the necessity of connecting with others."
 
 ---
+
+# Day 164 - Relations
 
 ## Summary
 

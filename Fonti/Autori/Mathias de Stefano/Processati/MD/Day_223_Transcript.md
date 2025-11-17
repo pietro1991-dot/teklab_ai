@@ -1,271 +1,619 @@
 ---
-title: "Day 223 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 223 - Surrender: Saving Energy for the Right Moment"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 223
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 223
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - I AM presence
-  - I CAN affirmation
-  - month holds
-  - month hole
+  - surrender
+  - capitalism
+  - survival
+  - energy management
+  - warriors of light
+  - letting go
+  - balance
+  - throat chakra
+  - Pisces Emotional Week
+  - Asian philosophy
+  - Tao
+  - martial arts
+
+practice_elements:
+  vibration: "Pe"
+  statement: "I Am the Will that Completes"
+  chakra: "Throat"
+  code: "Balance - finding the axis of being, balancing positive and negative, recycling everything useful"
 
 ---
 
-# Day 223 - Consciousness Work
+# Day 223 - Surrender: Saving Energy for the Right Moment
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
-## Introduction
+## Daily Practice Elements
 
-Hello everyone. Good morning , good afternoon , good evening to all of you. How are you?
+- **Chakra Focus:** Throat
+- **Week Theme:** Pisces Emotional Week
+- **Main Topic:** Surrender, Energy Management, and the Wisdom of Letting Go
+- **Vibration:** `Pe`
+- **Statement:** `I Am the Will that Completes`
+- **Code:** Balance - as the universe I am, the order and schematization of everything that I am leads me to find the attribute of balance. This way begins the process of balancing the positive and negative, of placing coherence into priorities and strengthening the axis of my being. This axis, positioned in the center, is what will give generosity to my existing purpose. Nothing is thrown away by balance, for the key is recycling. Everything is useful to the almost axis of the being, the complete level.
 
-So let 's remember that today we are in the throw chara of the emotional week of pieces , the month of pieces. And today our topic is surrender.
+---
 
-So I hope that you have been able to read the post for today with information about what it means surrender. Because this topic is something that hurts us a little bit from the point of view of culture.
+## Overview
 
-So I would like to explain why we are going to speak about surrender during the pieces month. Because the archetype of pieces is to give everything to the others to do as possible to accomplish the dreams of others.
+Today we arrive at the throat chakra of the Emotional Week of Pisces, and our topic is **surrender**.
 
-So this ideal , this ideal , we of pieces have been everyone being happy.
+This topic hurts us a little from the point of view of culture because the archetype of Pisces is to **give everything to the others**, to do as much as possible to accomplish the dreams of others.
 
-Sometimes it 's really tough , really difficult and impossible to accomplish.
+This ideal of Pisces—everyone being happy—is sometimes really tough, really difficult, and impossible to accomplish. This is why this archetype usually gets frustrated.
 
-So this is why this archetype usually get frustrated. And because it does n't see how the dreams are very difficult to make real.
+Because Pisces doesn't see how the dreams are very difficult to make real, we need to learn **how to surrender** and what it means to surrender and how we can surrender.
 
-So this is why we need to learn how to surrender. And what it means to surrender and how we can surrender.
+The throat chakra is where we express truth, where we speak our reality. Today's teaching is about finding the truth that **surrender is not defeat**—it is wisdom.
 
-So let 's try to understand what this topic means to surrender from the point of view of our cultures today. And then we will go back in time. When we hear the term surrender in our cult today , it feels much more like had defeat , like something that is wrong. That is not good to do.
+---
 
-And that we have to overcome all our conflicts that we have to go till the bottom of the things that we have to earn our lives. That we have to fight for what we are looking for , we are willing to , you know , lies. And all this concepts makes surrender and a fail. But this comes from two different points from two versions in the present.
+## Surrender in Our Culture Today
 
-So from two versions , one in the present is related to the capitalism. And the other one which is the old one is related with agriculture.
+### The Negative Perception
 
-So from the point of view of capitalism , for sure many of you here have ideas , socialist ideas , communist ideas , feminism ideas. But even though if you believe in that , for sure all of you leave through capitalism. And this is because capitalism is the idea of the capital and is something really old that was designed according to the success. To have success in life means that you are able to survive in life.
+When we hear the term **surrender** in our culture today, it feels much more like defeat, like something that is wrong, that is not good to do.
 
-So capitalism is the concept of survival , the concept of having success in the things that you , so you can exit from one spot to another from being poor to be rich or whatever. Talking about this idea of the capitalism , we all are a bit capitalist because the idea of the capitalism comes from the survival. And when you need to survive , you need to storage things. You need to have things in order to keep you alive.
+We are told:
+- You have to overcome all your conflicts
+- You have to go to the bottom of things
+- You have to earn your life
+- You have to fight for what you are looking for
 
-So in such a way , somehow , the history of capitalism is the history of success of exiting one spot to go into a better one.
+All these concepts make surrender seem like a **failure**.
 
-So in to earning matter to allow you to survive more.
+### Two Cultural Roots
 
-So beyond the topic idea of living all as one and harmony , the basics of our biology is to survive , which is to take as much as we can from the environment so we can survive. And this makes that capitalism is the basics of our bodies which are trying to be successful by surviving.
+This negative perception comes from two different points, two versions:
 
-So somehow , somehow , every one of us , we have a capitalist body.
+1. **Capitalism** (present)
+2. **Agriculture** (old)
 
-So because of this idea of a capitalist body , we have to understand that this is a very basic thought. We can start to think much more deep about this and of course , many ways to explain this , but let 's go to the very basic thing of our biology or biology says , if I do n't eat today , I will die.
+Both systems taught us that **not fighting = losing = death**.
 
-So the body is about earning and absorbing things and storageing things because the body says , the only way in which I can earn time is if I earn space.
+---
 
-So , earning space means to storage matter.
+## Understanding Capitalism and Survival
 
-So the body says , if I storage food for a month , the body says , I can live for a month.
+### Capitalism Is Survival
 
-So if I storage a house and food for a year , I will sleep and eat for a year , that 's a basic thought. I 'm not saying here that this is like this , I 'm just saying that this is the thought of a body.
+From the point of view of capitalism, many of you might have socialist ideas, communist ideas, feminist ideas. But even though you believe in those, **all of you live through capitalism**.
 
-So the body needs to keep doing things , starting to get things , so it can live longer.
+Why? Because **capitalism is the concept of survival**.
 
-So , through thousands of years of this survival practice , what the body has been doing is to try to do as many things as possible to storage as much things as possible. But what I hear that if someone can not work enough in order to get the things , suddenly they do n't have more food , they do n't have house , they are not fighting to have those things.
+To have success in life means you are able to survive in life. So capitalism is the concept of success—of exiting from one spot to go into a better one.
 
-So the body interprets this , like , oh , so I 'm losing , I can die. And the other ones around are saying , if you do n't work hard , you wo n't get the resources to find the food , you will lose your house , you will lose everything.
+### Our Capitalist Bodies
 
-So if you stop doing this , the only way out is that 's the old way of seeing it , 2000s of years , we started to fail to see this reality like that.
+The history of capitalism is the history of success, of exiting one spot to go into a better one, of earning matter to allow you to survive more.
 
-So in this way , through thousands of years , humans started to expand in order to acquire things , to get things and not lose things.
+Beyond any ideology, **the basics of our biology is to survive**—to take as much as we can from the environment so we can survive.
 
-So the thought is at the beginning was only a tree with plants and I could have fruits from there and that 's it. But then we have more trees and then we grow as a family and we have a terrain and from that terrain , a big territory.
+This makes capitalism the basics of our bodies, which are trying to be successful by surviving.
 
-So there 's so many people that we need to protect all that territory for ourselves to ensure our future.
+**Somehow, every one of us has a capitalist body.**
 
-So we create an army to protect that territory from others that can take it away from us.
+### The Body's Logic
 
-So where we start to do is to defend the territories , creating a system of protection. And where we start to do is to create an army , defend the territory.
+This is a very basic thought: our biology says, "**If I don't eat today, I will die.**"
 
-So because we do n't want to lose anything , we start to defend that in order to not lose it. Because if we lose the matter in hands of other one , if we lose space , the territory , we are losing also time.
+The body is about earning and absorbing things and storing things because the body says: **"The only way I can earn time is if I earn space."**
 
-So if we lose the time , this means that we are dead.
+Earning space means to **store matter**.
 
-So through all thousands of years of history , where we have done is to create this idea , this cultural idea , that if we lose the matter and we are being defeated , we are losing everything our life.
+- If I store food for a month, I can live for a month.
+- If I store a house and food for a year, I will sleep and eat for a year.
 
-So this concept of losing things is born the idea of fighting for things.
+That's the basic thought.
 
-So to fight in order to defend the territory , we need to fight in order to defend to protect the food. We need to make a hard work in order to have the food in order to have the houses. We need to protect , we need to defend to fight for what we work for.
+---
 
-So as I was right now , it 's easy sitting here and speaking like this , three internet and being very , I would say , I 'm not a philosophical in this speaking , what about the love and all being won and why we should fight for this and so on. Yes , of course , that 's really easy to make philosophy about this speaking from beautiful place and being all three internet. You just cut all the electricity and suddenly we know system at all and everything just disappear the race from the system a race.
+## The History of Fighting for Survival
 
-So what we have to do is again to go back to the fields to see and harvest our own food and if someone comes and still 's dead. And it 's still the things that we were working for one year , we will defend. We will have to defend what we 've done , our hard work is natural , okay , so that 's basically like this. This is how capitalism and India is born in our entire societies because survival.
+### Thousands of Years of Storage
 
-And success in the survival.
+Through thousands of years of this survival practice, the body has been trying to do as many things as possible, to store as much as possible.
 
-So for example , when we. When we we can say yes , but there were communities like communism that worked. Why? Because the communities where also exchanging capitals , beings , things , sorry , the goods.
+But what happens if someone cannot work enough to get things? Suddenly they don't have food, they don't have a house, they are not fighting to have those things.
 
-And they were sharing all the things. It 's good , but they were sharing matter physical things , so that 's the capitals. The only different difference here is that you have not. Opportunities to success of compete.
+The body interprets this: "**Oh, so I'm losing. I can die.**"
 
-But not because it 's natural not to compete , but because whoever one compete was killed or it 's poor , except so basically not much freedom there. What I 'm saying here is that the capitalism is the best system because it 's the only one that works. I 'm describing here how the humanity used the capitalism throughout the story and how it was mold , it mold our way of understanding and living. Not because it 's the best system and the only one that works , but because the capitalism is aligned with our point of view of our consciousness.
+And others around say: "If you don't work hard, you won't get the resources, you will lose your house, you will lose everything."
 
-In our level of consciousness , we are thinking about stuff and things. And this is why the capitalism is the best system for all of us because of our level of consciousness. For sure , another system will come up. It 's easy like this.
+**If you stop doing this, the only way out is death.**
 
-So it was the capitalist idea that since the very beginning thousands of years ago , shaped the mind of humans to fight for that what we are willing for.
+That's the old way of seeing it—thousands of years of seeing reality like that.
 
-So during all this time of history , what we have done was not only to protect our food and territory. We started to protect also our families to protect the loved ones to protect an idea.
+### Expansion and Protection
 
-So we started to fight for our families for the loved ones to fight for an idea for philosophy. And by fighting for it , we created this concept that we should not surrender. That we must fight for what we want. That we should fight to get the love we want.
+Through thousands of years, humans started to expand in order to acquire things, to get things and not lose things.
 
-We should fight and do everything that we want. And then we can , in order to accomplish our philosophy , our ideals.
+At the beginning, it was only a tree with plants—I could have fruits from there, and that's it.
 
-So we started to create this concept of not to surrender because if you surrender you die. Is this how the engine way of surviving relates with the actual system which is the captain? And with this , what do I want to say? I 'm not criticizing any systems.
+But then we have more trees, then we grow as a family, we have terrain, from that terrain a big territory. There's so many people that we need to **protect all that territory** for ourselves to ensure our future.
 
-The only thing I 'm using here is that in the last 300,000 years of history , we only change the forms , but still having the same needs. We revolution.
+So we create an **army** to protect that territory from others who can take it away from us.
 
-So I 'm in the form of it.
+### Defending What We Have
 
-So what I want to point to lies here is not to criticize the system. Because the system is , but what I just want to show here is that in at least the last 300,000 years , humans had n't evolved nothing in their way of thinking. That 's from the very beginning until now we have exactly the same needs.
+Where we start to do is to defend the territories, creating a system of protection.
 
-So the reason why we keep doing exactly the same is because we have been using the system. That was really useful for our history , for our survival. But it did n't help us to evolve much as a beam , which is to fight him for something , fight for.
+Because we don't want to lose anything, we start to defend it in order not to lose it.
 
-So throughout this 300,000 years , we have been fighting for things , creating the idea that surrender is to lose , is to die. And this is why today people tell to us exactly the same as our ancestors , 300,000 years ago , which is if you want something you have to fight for it.
+Because if we lose the matter to another one, if we lose space (the territory), **we are losing time**. And if we lose time, this means we are dead.
 
-So now I will point into this , how many of you here consider yourself a warrior of light and why. There 's no need for you to answer , of course , it 's just an answer to give to yourself. If you are , or how many of you know people that consider themselves warriors of light , that are fighting in order to light the world.
+### Cultural Conditioning
 
-So I will explain from my point of view , some people say that I am a warrior of light and I am not. I am not a warrior of not such a thing. I do n't really care about what the other people is doing. I am not working for light , I am not working for the darkness.
+Through thousands of years of history, we created this cultural idea: **if we lose matter and are defeated, we are losing everything—our life**.
 
-I think that each one of them are doing their job. I am doing mine. I do n't care. You will never see me speaking about the work of other people.
+From this concept of losing things is born the idea of **fighting for things**.
 
-It 's one does its own part.
+- To fight to defend the territory
+- To fight to protect the food
+- To fight for what we work for
 
-So I do n't care. From where comes this concept of a light. It comes from the concept of you have to fight in order to overcome the opposite and to survive. Basically , I am also , I am not a worker of light because I do n't like to suffer.
+---
 
-So I do n't do a hard work. I do n't labor in the universe. I am basically a public employee of the universe.
+## The Problem with Modern Philosophy
 
-The reason all this explanation to understand , and we have been using the concept of surrender as something that is something that is wrong , that something you have to avoid in your life because you have to fight for something. What really is happening is that surrender does n't mean defeat is not related with that. It does n't mean to lose. And actually , the reason why we are not evolving enough is because we are not surrender.
+### Easy to Speak from Comfort
 
-We keep fighting in a fight that exists.
+Matias says: "It's easy sitting here speaking like this through internet, being very philosophical, saying 'What about love and all being one and why should we fight?'"
 
-So let 's analyze the word surrender. I am going to take notes of the concept so I do n't forget none of them. English we have here surrender. It comes from the same word in Spanish surrender.
+"Yes, of course, that's really easy to make philosophy about this, speaking from a beautiful place and being online through internet."
 
-Surrender comes from soup which is under the low. The means again , and the depth of the means to give. To give something.
+### When the System Fails
 
-So re , re , gives the surrender that surrender means to do something. Rendered is to master anything , do something to make a product of something to surrender.
+But you just cut all the electricity, and suddenly there's no system at all, everything disappears, erased from the system.
 
-So surrender is to do something under to do something below.
+What do we have to do? Again, go back to the fields to sow and harvest our own food. And if someone comes and steals that—steals the things we were working for one year—**we will defend**.
 
-So surrender , the third concept of surrender means to that something that you give comes back to you. It means to give something back. That 's surrender. To give something back.
+We will have to defend what we've done, our hard work. **It's natural.**
 
-And what is that something? The thing that you have done. The things that you have realized that you have accomplished in your life. You give them and then you surrender taking them back towards you.
+### Capitalism Is Born from Survival
 
-So when you surrender means that you are taking back all the things that you have given.
+This is how capitalism is born in our entire societies: because of **survival** and **success in survival**.
 
-Okay.
+---
 
-So understand now to wrap this idea. What is surrender? The thing is that we are constantly putting our energy gear away to the things. But what we normally do is to fight in order to have our assault with that energy.
+## The Cultural Idea of Never Surrendering
 
-So we are fighting constantly to get what we act , to get the emotions that we are looking for , to get the ideas , the feedback of the ideas that we are looking for. And we are fighting so much that we waste our own energy constantly.
+### Protecting More Than Food
 
-So when we are doing this basically fighting and losing energy all the time.
+During all this time of history, we have not only protected our food and territory. We started to protect also:
+- Our families
+- Our loved ones
+- Our ideas
+- Our philosophies
 
-So what it means to surrender. To surrender means to take that energy back to me. And to use it in another moment. To use it in a moment when you consider it would be better.
+We started to fight for our families, for loved ones, to fight for an idea, for philosophy.
 
-It 's not losing. It 's earning energy for the right moment. It 's not stop fighting. It 's to be intelligent in how you use your energy.
+By fighting for it, we created this concept: **we should not surrender**. We must fight for what we want.
 
-So when you surrender. You are just taking that energy back. It 's like for example going to sleep. Imagine if you think when you go to sleep.
+- We should fight to get the love we want
+- We should fight to accomplish our philosophy, our ideals
 
-You say , oh my god , I 'm losing. I 'm losing my life. Why should I sleep? I do n't want to do this because I 'm wasting time.
+### Surrender = Death
 
-And fight for my life. Imagine that you take every time , every night that you go to sleep as a surrender. Your body needs to earn energy for the next day.
+We started to create this concept of **not to surrender because if you surrender, you die**.
 
-So to surrender is not to lose. It 's to save. Save energy. It 's to learn how to manage to demonstrate the inner energy.
+This is how the ancient way of surviving relates with the actual system, which is capitalism.
 
-So as examples , you have the martial arts. All the Asian from the Buddhism , Tai Chi , Chi Kung Kung Fu. All that. To learn how to manage your energy.
+---
 
-How to save your energy and use it for the right thing in the room.
+## Humans Haven't Evolved in 300,000 Years
 
-So the Tao , all these teachings from Asia were about how to surrender. How to manage your own energy. This would be this Asian philosophies. Are telling us you should not fight.
+### Same Needs, Different Forms
 
-Do n't lose time on the fight. You should earn and save this energy for the right moments and the right things.
+Matias isn't criticizing any systems. The point he wants to make is this:
 
-So you are not fighting to get things. Things will come to you as you take care of your own energy.
+In the last **300,000 years** of history, we only changed the forms, but we're still having the **same needs**.
 
-So have you understand now that surrender is nothing wrong. That surrender is not losing a war. Surrender is saving the energy for the right moment. From the basic body , from the soul , in the motion , from the spiritual mind , we can surrender.
+What he wants to show here is that **in at least the last 300,000 years, humans haven't evolved nothing in their way of thinking**.
 
-And remember , surrender means to bring back the power to me.
+From the very beginning until now, we have exactly the same needs.
 
-So now for example , there 's a lot of people speaking about the power of surrender. And now from the etymology , we 'll understand what it really means. Why surrender more power than fighting for something. And I , today , I wrote in the post , I wrote about this example that someone that lost himself in the sea and that person knows that his house is 5 , 5000 kilometers ahead.
+### Why We Keep Repeating
 
-And he 's willing to get to his house , but just behind has an island 50 kilometers behind where the currents of the sea are taking this person. But this person is fighting so much that person does n't let go if that person does n't surrender. The current wo n't be able to bring that person to the shores of the island where there is an airport that can take you home. And that person by fighting with all the energy left that he had and drowns in the ocean.
+The reason we keep doing exactly the same is because we have been using the system that was really useful for our history, for our survival.
 
-Sometimes we do n't surrender because we believe we are not going to be able to survive unless we fight this battle that we have had. But sometimes when you surrender and you go behind , you will find a hundred different ways to overcome that battle.
+But **it didn't help us evolve much as a being**—which is to fight for something, to fight.
 
-So my advice for all the spiritual people willing to create an user 's society and new civilization. Do n't waste your energy on fighting against the old system , the old world , because the new one is coming anyway.
+### The Message Is the Same
 
-So it 's better if you keep your energy to live it.
+Throughout 300,000 years, we have been fighting for things, creating the idea that **surrender is to lose, is to die**.
 
-So just parenthesis from this. Next month we will start the battle , which is the month of areas. We will go into the battle. But in order to restart the will of that battle , of that energy , of the fight , we need to surrender so we can do it properly.
+This is why today people tell us exactly the same as our ancestors 300,000 years ago: **"If you want something, you have to fight for it."**
+
+---
+
+## Warriors of Light
+
+### A Question to Consider
+
+Matias now points to this: **How many of you consider yourself a warrior of light, and why?**
+
+There's no need to answer out loud—it's just an answer to give to yourself.
+
+How many of you know people who consider themselves **warriors of light**, fighting to light the world?
+
+### Matias Is Not a Warrior
+
+Matias explains from his point of view: some people say he is a warrior of light, and he says, **"I am not."**
+
+"I am not a warrior. No such thing. I don't really care about what other people are doing. I am not working for light. I am not working for the darkness. I think each one of them are doing their job. **I am doing mine. I don't care.**"
+
+"You will never see me speaking about the work of other people. Each one does its own part. I don't care."
+
+### Where Does "Warrior of Light" Come From?
+
+From where comes this concept of warrior of light?
+
+It comes from the concept: **you have to fight in order to overcome the opposite and to survive**.
+
+Matias is also not a worker of light because **he doesn't like to suffer**. "I don't do hard work. I don't labor in the universe. I am basically a **public employee** of the universe."
+
+---
+
+## The True Meaning of Surrender
+
+### Surrender Doesn't Mean Defeat
+
+The reason for all this explanation is to understand: we have been using the concept of surrender as something wrong, something to avoid in your life because you have to fight for something.
+
+But **surrender doesn't mean defeat**. It's not related to that. **It doesn't mean to lose.**
+
+Actually, the reason we are not evolving enough is because **we are not surrendering**. We keep fighting in a fight that doesn't exist.
+
+### Etymology of Surrender
+
+Let's analyze the word **surrender**.
+
+In English, we have "surrender." It comes from the same word in Spanish, "rendir" (to surrender).
+
+**Surrender** comes from:
+- **"Sur"** = under, below
+- **"Re"** = again
+- **"Dare"** (Latin) = to give
+
+To give something.
+
+**"Render"** is to master anything, to do something, to make a product of something.
+
+### To Give Something Back
+
+**Surrender** means **to do something under**, to do something below.
+
+The concept of surrender means that **something you give comes back to you**. It means **to give something back**.
+
+And what is that something? **The things that you have done**—the things you have realized, you have accomplished in your life.
+
+**You give them, and then you surrender, taking them back toward you.**
+
+### Taking Back Your Energy
+
+When you surrender, it means you are **taking back all the things that you have given**.
+
+---
+
+## How We Waste Energy
+
+### Fighting Constantly
+
+We are constantly putting our energy out there to things.
+
+But what we normally do is **fight in order to have our results** with that energy.
+
+We are fighting constantly to:
+- Get what we worked for
+- Get the emotions we are looking for
+- Get the ideas, the feedback of the ideas we are looking for
+
+We are fighting so much that **we waste our own energy constantly**.
+
+When we are doing this—basically fighting and losing energy all the time—**we exhaust ourselves**.
+
+---
+
+## What Surrender Really Means
+
+### Taking Energy Back
+
+What does it mean to surrender?
+
+**To surrender means to take that energy back to me and to use it in another moment**—to use it in a moment when you consider it would be better.
+
+**It's not losing. It's earning energy for the right moment.**
+
+It's not stop fighting. **It's to be intelligent in how you use your energy.**
+
+When you surrender, you are just **taking that energy back**.
+
+### The Example of Sleep
+
+It's like, for example, going to sleep.
+
+Imagine if every time you go to sleep, you think: "Oh my god, I'm losing! I'm losing my life! Why should I sleep? I don't want to do this because I'm wasting time!"
+
+Imagine you take every time, every night that you go to sleep, as a surrender.
+
+**Your body needs to earn energy for the next day.**
+
+To surrender is not to lose. **It's to save.** Save energy. It's to learn how to manage, to **demonstrate the inner energy**.
+
+---
+
+## Martial Arts and Energy Management
+
+### Asian Philosophies
+
+As examples, you have the martial arts—all the Asian from Buddhism: **Tai Chi**, **Chi Kung**, **Kung Fu**, all of that.
+
+They teach to learn how to manage your energy, how to save your energy and use it for the **right thing** in the **right moment**.
+
+The **Tao**, all these teachings from Asia, were about **how to surrender**, how to manage your own energy.
+
+### Asian Philosophy
+
+These Asian philosophies are telling us: **You should not fight.**
+
+Don't lose time on the fight. You should **earn and save this energy for the right moments and the right things**.
+
+So you are not fighting to get things. **Things will come to you as you take care of your own energy.**
+
+---
+
+## Surrender Is Not Wrong
+
+### Saving Energy
+
+Now you understand that surrender is nothing wrong.
+
+Surrender is not losing a war. **Surrender is saving the energy for the right moment.**
+
+From the basic body, from the soul, from the motion, from the spiritual mind, **we can surrender**.
+
+Remember: surrender means **to bring back the power to me**.
+
+### The Power of Surrender
+
+There's a lot of people speaking about the "power of surrender."
+
+Now, from the etymology, we understand what it really means.
+
+**Why surrender has more power than fighting for something?**
+
+---
+
+## The Example of the Ocean
+
+### Lost in the Sea
+
+Matias wrote in the post an example:
+
+Someone is lost in the sea, and that person knows that their house is **5,000 kilometers ahead**.
+
+They're willing to get to the house, but just behind there is an island **50 kilometers behind**, where the currents of the sea are taking this person.
+
+But this person is **fighting so much** that they don't let go.
+
+### The Island Behind
+
+If that person doesn't surrender, the current won't be able to bring them to the shores of the island, where there is an **airport** that can take them home.
+
+And that person, by fighting with all the energy left, **drowns in the ocean**.
+
+### Finding Other Ways
+
+Sometimes we don't surrender because we believe we are not going to be able to survive unless we fight this battle we have ahead.
+
+But sometimes when you surrender and you go behind, **you will find a hundred different ways** to overcome that battle.
+
+---
+
+## Advice for Spiritual People
+
+### Don't Waste Energy Fighting the Old
+
+Matias's advice for all the spiritual people willing to create a new society, a new civilization:
+
+**Don't waste your energy on fighting against the old system, the old world**, because the new one is coming anyway.
+
+It's better if you **keep your energy to live it**.
+
+---
+
+## Next Month: The Battle
+
+### Preparing for Aries
+
+Just a parenthesis from this: next month we will start the battle, which is the month of **Aries**.
+
+We will go into the battle. But in order to restart the will of that battle, of that energy, of the fight, **we need to surrender** so we can do it properly.
 
 So we can really do it when it is the right time.
 
-Okay , let 's go for the information for today. The vibration for today is pain. The code for today is balanced. And the certain reports as the universe I am , the order and the schematization of everything that I am , leads me to found the attributes of balance.
+---
 
-This way begins the process of balancing the positive and negative of placing coherence into priorities and strengthen the axis of my being. This axis position in the center is what will give me the generosity to my existing purpose. Nothing is thrown away by balance. For the key is recycling.
+## Practice
 
-Everything is useful. The almost axis of the being. The complete level. Close your eyes.
+### Preparation
 
-Concentration your breathing. Take a deep breath. And I feel the energy of my body , the heat and the cold. The place is where it moves.
+Sit comfortable. Close your eyes. Concentrate on your breathing. Take a deep breath.
 
-Two hours of my body around it and within it. I become aware that this energy is ocean. All the emotions that I can feel rain that are moving through my body in this moment. I watch them , fill them , recognize them.
+Feel the energy of your body—the heat and the cold, the places where it moves, all around your body, around it and within it.
 
-I recognize that my emotions are my energy. The moment is the magnetism that emerges from the particles that creates my electrons , my atoms.
+### Recognizing Emotions
 
-So I bring all this energy to the core and the side take a deep breath. I make it explode. Extending all my body towards the infinite. The solving all of it.
+Become aware that this energy is an ocean—all the emotions that you can feel right now that are moving through your body in this moment.
 
-Every atom. Like it starts floating in the cosmos. I can feel the energy of my soul expanding towards the infinite. I recognize that all this that exploded expanded.
+Watch them. Feel them. Recognize them.
 
-This all the things that I give to the universe. All the things that I deliver to the existence through my whole energy. As I see the expansion of myself , I can feel the feeling that around me there are barriers. There are things that enable me to expand.
+**Recognize that your emotions are your energy**, the magnetism that emerges from the particles that create your electrons, your atoms.
 
-So I picture them. They are the conflicts that holds me. The things that I am fighting against. I picture all of this battles of your life.
+### Bringing to the Core
 
-And I recognize that the reason why I ca n't fight them , I ca n't overcome them. It 's because I was all my energy , my power , on the expansion.
+Bring all this energy to the core. Take a deep breath. Make it explode.
 
-So I have to gain back all energy towards me to be able to radiate and go beyond.
+Extend all your body toward the infinite, dissolving all of it, every atom.
 
-So I take the breath and with my imagination , I start to bring back every atom , particle , towards me , bringing to energy that comes closer and the way I do it is by surrender for everything , for the energy and power to come back to a side to it , taking deep breath. I watch straight to the battles of my indies , surrender , I let myself surrender with the front of them. I take the breath and I stop expanding , making the retreat.
+Like a star floating in the cosmos.
 
-So I 'm in back to the bright , how we 've been , and with my singing , I start to pull back all the things that were apart from me. The soul around. I 'm in back to the battles of my indies , surrender for everything , surrender for everything , surrender for everything , surrender for everything. I 'm in back to the battles of my indies , surrender for everything , surrender for everything , surrender for everything.
+### Expansion and Barriers
 
-I 'm in back to the battles of my indies , surrender for everything , surrender for everything. I 'm in back to the battles of my indies , surrender for everything , surrender for everything. I 'm in back to the battles of my indies , surrender for everything , surrender for everything. I recognize that putting all my energy together , I restore the will to create again to manifest your coherence , to cooperate with you.
+Feel the energy of your soul expanding toward the infinite.
 
-I am the will that completes. I 'm in back to the battles of my indies , surrender for everything , surrender for everything. I believe. I believe.
+Recognize that all this that exploded, expanded—this is all the things that you give to the universe, all the things that you deliver to existence through your own energy.
 
-I believe. I believe. I believe. I believe.
+As you see the expansion of yourself, you can feel that around you, there are **barriers**—things that are enabling you, that are not allowing you to expand.
 
-Thank you everybody for being here with me and see you tomorrow at the same time.
+### Picturing the Battles
 
-## Frequently Asked Questions
+Picture them. They are the **conflicts that hold you**, the things that you are fighting against.
 
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
+Picture all the battles of your life.
 
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
+Recognize that the reason why you can't fight them, you can't overcome them, is because **you waste all your energy, your power, on the expansion**.
 
-### Q2: [Altra domanda]?
-[Risposta]
--->
+### Surrender to Gain Energy Back
+
+You have to **gain back all energy** toward you to be able to radiate and go beyond.
+
+Take a breath. With your imagination, start to bring back every atom, every particle, toward you, bringing the energy that comes closer.
+
+The way you do it is by **surrendering** for everything, for the energy and power to come back to you.
+
+### Letting Go
+
+Take a deep breath. Watch straight to the battles around you.
+
+**Surrender.** Let yourself surrender in front of them. Take a breath and stop expanding.
+
+Make the retreat.
+
+Breathe back to the bright heart within. With your will, start to pull back all the things that were apart from you.
+
+**Surrender for everything. Surrender for everything.**
+
+Bring all back to the center. Bring all back to the core.
+
+### Integration
+
+Recognize that putting all your energy together, you restore the will to create again, to manifest coherence, to cooperate with yourself.
+
+Sound the vibration **Pe** from your throat.
+
+**I am the will that completes. I am the will that completes.**
+
+**I believe. I believe. I believe.**
+
+### Closing
+
+Take a deep breath. Expand from your plexus all this consciousness throughout all the body, all yourself.
+
+Come back here again, each one at your own time.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Key Insights
+
+- Surrender is perceived negatively in our culture because of capitalism and survival conditioning.
+- Capitalism is aligned with our biological drive to survive—we all have a "capitalist body."
+- For 300,000 years, humans have been fighting for survival, creating the idea that surrender = death.
+- Warriors of light are still operating from the old paradigm: fight to overcome the opposite.
+- Surrender doesn't mean defeat—it means to give something back, to take your energy back.
+- We waste energy constantly by fighting instead of managing it intelligently.
+- Surrender is saving energy for the right moment—like going to sleep to restore energy.
+- Asian philosophies (Tao, Tai Chi, Kung Fu) teach energy management, not fighting.
+- The ocean example: sometimes surrendering (going backward to the island) is the only way to survive.
+- Don't waste energy fighting the old system—save it to live the new one.
+- Next month (Aries) we will battle, but first we must surrender to gather our energy.
+- Surrender means bringing power back to yourself.
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Today, identify one battle you are fighting where you are **wasting energy**.
+
+It could be:
+- Fighting against someone's opinion of you
+- Fighting against a situation you cannot control
+- Fighting against your own past
+
+**Practice surrendering**: stop pushing, stop fighting. Pull your energy back. Save it for something that truly matters.
+
+### Energy Audit
+
+Notice where your energy goes throughout the day.
+
+Are you fighting battles that don't need fighting? Are you expanding energy into conflicts that drain you?
+
+**Surrender** means recognizing: "This fight is costing more than it's worth. I will take my power back."
+
+### Sleep as Surrender
+
+Tonight, when you go to sleep, recognize it as an act of surrender.
+
+You are not losing time—you are **saving energy**. You are restoring yourself so you can be powerful tomorrow.
+
+This is the wisdom of surrender.
+
+---
+
+## Week Context
+
+We are in the **Emotional Week of Pisces**, where we learn to flow, to let go, to release control.
+
+Pisces teaches us that sometimes the most powerful thing we can do is **stop fighting**. Unconditional love includes loving ourselves enough to **not exhaust ourselves** in pointless battles.
+
+The throat chakra (today's focus) is where we speak our truth. Today's truth: **"I choose to save my energy. I surrender."**
+
+---
+
+## Q&A
+
+### Q: Isn't surrendering giving up on my dreams?
+
+No. Surrendering is **letting go of the fight** so you can approach your dreams with intelligence rather than exhaustion. You don't abandon the goal—you change the strategy from "fight" to "flow."
+
+### Q: How do I know when to fight and when to surrender?
+
+Ask yourself: "**Is this fight giving me energy or draining me?**" If it drains you more than it serves you, surrender. Save your energy for battles that truly matter and that you can actually win.
+
+### Q: What if I surrender and someone takes advantage of me?
+
+Surrendering is not about **letting others control you**. It's about **controlling your own energy**. You can set boundaries, say no, and protect yourself **without wasting energy in constant fighting**. Surrender the fight, not your power.
+
+### Q: How is surrender different from giving up?
+
+Giving up means **abandoning your goal**. Surrendering means **releasing the method** (fighting) while keeping the goal. You stop the exhausting battle and find a smarter way forward—like the person in the ocean surrendering to the current to reach the island with the airport.
+
+### Q: Why do Asian philosophies emphasize surrender when they also teach martial arts?
+
+Because true martial arts are about **energy management**, not fighting. A master doesn't waste energy fighting—they move with flow, use the opponent's energy against them, and strike only at the right moment. This **is** surrender: saving energy, waiting for the right time.
+
+### Q: If we all surrender, won't injustice continue?
+
+**Surrender the fight, not the action.** You can work for justice without exhausting yourself in constant battle. The new world comes not from fighting the old but from **embodying the new**. Save your energy to create, not to destroy.
+
+### Q: How does this relate to Pisces?
+
+Pisces tries to make everyone happy and often exhausts itself in the process. Surrender teaches Pisces: **you cannot save everyone by fighting their battles**. Sometimes the most loving thing is to let go, save your energy, and trust the process.
+
+---

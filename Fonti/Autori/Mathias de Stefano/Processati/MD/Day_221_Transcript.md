@@ -1,315 +1,483 @@
 ---
-title: "Day 221 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 221 - The Void: Empathy and the Ultimate Freedom"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 221
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 221
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - I AM presence
-  - I CAN affirmation
-  - month holds
-  - month hological
-  - month hole
-  - month hology
-  - month hold
+  - void
+  - empathy
+  - Pisces
+  - pareidolia
+  - nihilism
+  - freedom
+  - existential void
+  - conceptual demo
+  - spiritual will
+  - crown chakra
+  - Pisces Emotional Week
+  - nothingness
+  - cosmic freedom
+
+practice_elements:
+  vibration: "Pa"
+  statement: "I Am Spiritual Will"
+  chakra: "Crown"
+  code: "Power - recognizing inner potential and managing emotional energy consciously"
 
 ---
 
-# Day 221 - Consciousness Work
-
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
-
-## Introduction
-
-Four and a half hours before the Answer said warning. Here we go. Good morning , good afternoon , good evening.
-
-So today we begin with another week which is the emotional week of pieces. And perhaps we could have been waiting for something different to begin the emotional wake of pieces than devoid. But let 's see why.
-
-So let 's see this from the point of view of archetype. Not about the people that is of one sign or another. No , we will just speak about archetype.
-
-So from the point of view of a torus , for example , devoid would be not having anything. From the point of view of a scorpion , devoid would be to go to the deeper part of a soul , to the darkest part of the soul. From the point of view of a verge , it would be entropy. There is no order.
-
-From the point of view of a capricorn , there is no purpose. It 's so long. But from the point of view of pieces , that 's the real void. Because all the other void would be just from the point of view of aspects of that hole.
-
-For the pieces , it 's the void hole.
-
-So for pieces , the key in which we all know pieces is empathy. Empathy is the key for pieces.
-
-So we have to , even if we are going to talk about empathy in another moment , the concept of understanding the concept of empathy is the one that will help us to understand why the void of pieces is the real , bigger void. First of all , let 's try to understand what is empathy. Empathy comes from the Greek word. Then , that means to be in and paths.
-
-That means the cease pain conflict , like pathology , for example , pathology.
-
-So empathy , empathy means to be in pain , to be in the same harm , to be inside that conflict or that disease. We describe today empathy as the ability of someone of being able to put itself in the pain of the other one that can be inside the pain of the other one and to feel what the other one is feeling.
-
-So the concept of empathy is something that is saying that the brain is saying , hey , like for example , something is happening , someone is having some pains and conflict and you can feel that in your body , like someone 's hurt and you feel that hurt , that how it hurts within. That happens because your body , your mind , is programmed to survive.
-
-So when it sees something , the brain says , alert , alert , we need to protect ourselves.
-
-So the reaction of the brain is to make the same pain so we can feel it and we can protect ourselves. Just to make it a little bit , a little bit , comic , maybe , is that same situation that for sure many men have felt when you see someone kicking the balls of someone else and suddenly it does n't matter if it 's through To through the internet , your balls hurt too.
-
-So this goes a little bit more , much more in the psychological aspect. When you see someone crying for example , some people start to I2 and this feeling is because the brain is all the time trying to understand what is happening outside , not what is happening within. It 's trying to analyze all the time what is happening out there in order to perceive it to integrate the information.
-
-So that 's the moment when the brain says , should I cry too?
-
-So it turns everything to cry.
-
-So the body starts to react to that , we call that empathy.
-
-So eventually through many years of using this concept , we stop using it just for pain and the concept of empathy became something that could explain people that can feel what others are feeling. That 's much if it 's not pain , just feelings.
-
-So we 're saying the empathy in the contemporary time. We stop using the empathy as something describing the pain and we stop and we started to explain empathy like the one that can be feeling exactly the same as the other , being one with the other , which is very different from sympathy. We have empathy which is to be together as one , not together like feeling exactly what the other person is feeling and sympathy that means to be with a one that is in her pain. Sin comes from the weak word that means with.
-
-So with the one that is in pain.
-
-So having sympathy is that you can be a side person that is fine or in pain , but you do n't feel that. You can feel it. You just smile , you are fine , but you are there with the other person , accompany that person.
-
-Okay , that 's sympathy , but not empathy.
-
-Okay , we can say for example that a Gemini person and a Lithium person , they are sympathetic people , but a pious person and a Scorpio person , they would be empathy people. The cancer people , they are empathy. That 's it. They start to suffer before the others can suffer.
-
-So joke , but it 's kind of like a Scorpio and Pieces are very empathy. But Scorpio will be empathy mostly to go deeper into that empathy to know how to use it in its own benefit. Kind of play that.
-
-So it will take something from that empathy. The Pieces in the contrary will go into that empathy to set the other being free and everyone free and expand so we can heal the pathology.
-
-So as the other people in the other science , they are empathy with dread parts. Pieces is in watching with all the humans as equal. The plants , the animals , the minerals , the everything. The Pieces will be open to feel , to perceive what is happening even to a plant and to the whole planet.
-
-So this means that when Pieces starts to feel the planet and then the galaxy and then the cosmos and starts to connect with the void of everything with the emptiness of entire universe , in the same time that the other beings , the other archetype will be feeling , receiving their own way of the void. Pieces will be feeling the void of everyone. Regarding this , we have to understand that for us , for humans , the circle of the subject sign , ends in Pieces and this means that Pieces is one that gives the basis to begin a new cycle.
-
-So the month of Pieces is the last step but also the one that guides towards the first one.
-
-So this means that this part of areas wo n't be able to ignite unless Pieces does its job. Imagine what would happen if the path of the AM would really end in Pieces. In this expanded void of unconditionally , in the spirituality , what after that , what do we do? Because the next four months will be the ones to manifest a new thing.
-
-And we are not going to be able to manifest anything new. If we do n't transcend all the things that we have to do in Pieces , this is why we have to go through the dark night of the soul of Pieces. Before we can ignite Pieces.
-
-So that 's why in order to gain something new , we have to go to this very void , the void of Pieces which is really nothing is the empathy void. What is the biggest void you can imagine? The end of all forms and expectations.
-
-So let 's try to explain and void that usually , every one of us that is in a spiritual path , I 'm trying to avoid. Stripes explained.
-
-So I was explained in the blood today that we as humans , we live in a third dimension , so we live through the high , the weight and the death. That in a moral way , we call the good , the bad and the sense.
-
-Now this hide and weight are designed by our biology as good and bad , simple , because from biology we were designed to move forward looking ahead. That 's why we think that the future , everything that is coming , the good things are coming there in front and all the bad things we are trying to live behind.
-
-So that 's why , biologically , we were designed to understand that the good is in front and the bad is behind.
-
-So in such a way , we are organizing our morality according to how we move in our environment. From there , we have many other topics to discuss , but just take that seat and someday we will go to the end of the world. And then we have the death in the third dimension. The death is the sense of things.
-
-Not only related to the sensibility of things , but it 's related to the concept that we move as we sense , as we feel.
-
-So we are moving ahead , creating senses.
-
-So , the sense of a road , the sense of a path.
-
-We are going towards a sense of meaning of something.
-
-So we as humans in the third dimension , we may say that the sense of our life is marked by the good and the bad. And that 's the vision from the third dimension.
-
-So when we get into the fourth dimension , the sense of life , the sense of life , life , meaning where I am heading to , where the sense is moving to , is different. In the fourth dimension , it can be backwards , and even though you will be going to the future.
-
-So , the sense of all things they transform. They are not the same.
-
-So , when you go to the fifth dimension and the sixth dimension , suddenly , there are more senses , more directions , many directions.
-
-So , all around going everywhere , suddenly , you do n't have one sense on life. You have thousands , and each one of them is transforming them so , itself in many others.
-
-So , eventually , too much.
-
-So , that 's when you say , wow , in the fifth and the sixth dimension , everything has so much meaning , so much meaning. And yes , it has so much meaning , because everything has meaning , which is a sense of life , and direction.
-
-So , as far though you go into dimensions , you suddenly see that there are so many senses , so many meanings. That suddenly we say , oh , none of them is the real one. There 's no really sense , no really meaning.
-
-So , the crisis to the void comes in the moment when you see that everything has so , so much sense , suddenly it does n't have a correct direction.
-
-So , you lose the sense , and suddenly you realize that there are no sense , that there is only void , because nothing really makes sense. This is why this happens only in the last point , in the last moment , of the whole path , because the last one , so , this means that the other ones , the other eleven.
-
-So , from the places have gone through areas , it 's stores , Gemini , all of them.
-
-So , it 's recognized , it can be each one of them , position itself , and , practically , in each one of the others.
-
-So , that 's why it can feel the void of each one of them , the path , the senses of all of them , and recognize that all together , they do n't have any sense. They had so much sense , that there is no direction to go. What happened here is that when you take a dot or sphere , with many different paths , many different senses , directions , and you suddenly see that each one of the directions are heading to core in the dot or towards the sphere , and there is all the senses going to the same spot , suddenly you realize that there is no sense , because there is no direction , there is no specific point to where they are heading to.
-
-So , that takes the idea of the sense , the concept of the sense , ends.
-
-So , this means that all the things that we have been doing , feeling , believing , projecting , all of it , does n't really have any sense. Here comes this concept that for sure you have heard once , which is the nihilism. Nihilism , which was really loved by Nietzsche , nihilism comes from the word civil , that means nothing. And nihilism describes that nothing has really sense , that there is no meaning in anything that we do.
-
-Psychologically , this comes from the concept that humans are trying to give a meaning a sense to all the things that they really does n't have a sense by itself. As I was saying about nihilism , the basis of this belief , of this perception that there is nothing that we give a meaning comes from the idea of the Patagonia. The Patagonia is a function of our brain that helped us survive through thousands , billions of years as we were evolving in this planet. I do n't know if you have heard about the term , but Patagonia comes from Para , that means against two and eight-dollar , that means shape or shape , figure.
-
-This is something that our brain was used to do , which is to the code images and to put those images everywhere.
-
-So the brain can figure this space where they are moving , like for example a baby when the baby is born , can see the face of the mother and the dad and the brain captures that image. The person can , so the baby can understand what is the face of a human. The brain will try to look to eyes , nose , and try to shape the face of a person , and it will try to look for each everywhere so it feels safe with people. That 's why you can see faces everywhere in the stuff that they are not human.
-
-The brain was also designed to see the eyes of predators , so you can see it everywhere and you can be aware of how to protect you in case of a being that is trying to kill you. Patagonia is this biological design and our brain that helps us to identify faces and shapes objects and the things that they are not there.
-
-So now two other words come from this idea , from this word Patagonia. A colon from Patagonia , a colon means image form.
-
-So there are two words from a colon. One is idea , idea is a shape , a form and the other one is idol , two words that come from there.
-
-So an idea and an idol , what is an idol , a figure that we follow that we try to be like. The idea and the idol came together to create the image of God , of someone that we admire and idol that we are trying to get to because of an idea that makes us feel safe.
-
-So Patagonia is the concept that help humans to create spirituality , religion that made the idea of God 's goddess , beings around angels , archangels with human shape. This Patagonia idea makes us make the realism take much more power. Why? Because suddenly we can explain through the Patagonia that all the things in which we believe , all the things that we project out there , they do n't exist.
-
-They are just projections of our mind trying to look for figures that make us feel safe. And now let 's try to understand it from the physics.
-
-So from the point of view of physics , we can see here a body. We see here , it 's a physical body. But really what happens is that all this matter is made with atoms that are so tiny that when you try to measure the distance in between the systemic particles like electrons , neutrons , protons , it is so much space in between that suddenly you realize that the most of it is vacuum is void.
-
-So now just to understand the size of the things , in comparison to our reality to our work so we can see it. Imagine that a proton is like a tennis ball , for example , a tennis ball. And we put that tennis ball in the middle of a great , big football field. And you put it in the middle there.
-
-So you can picture the size of a football yard. And then you put a tiny glass ball like this , tiny outside the stadium. At the door of the stadium.
-
-So that 's the distance in between the two particles in the middle. There 's nothing.
-
-So we can say that the 99. 9 % of the reality is void and just the 0. 001 % is matter.
-
-So basically all the things that we perceive is just 99 % void and 0. 001 matter. Nothing.
-
-So what are we really? We are a cosmic paridolia. From the point of view of physics , we are nothing. From the point of view of psychology , we are nothing.
-
-So it 's really weird to understand then why do we exist? Why are we here? Why are we doing this here? Speaking.
-
-So we are here and we exist here because the void is freedom. It 's the biggest freedom that you could possibly imagine. There is no word in any human language to describe how it is to feel that. How it is to be that void to feel that eternity , to feel so fully playing aware of that freedom.
-
-And because we are so bounded to our beliefs , so slaves of our feelings.
-
-So attached to the physical history of our evolution , physical evolution. We are so attached to all those concepts that when we are trying to understand or feel the real freedom , we perceive it as a nonsense. Because there is nothing in our history of evolution that can explain how it feels , how fully you feel in that freedom. And we can not even describe it as the biggest freedom.
-
-Because when we speak about freedom , I have to escape a place in order to set myself free to go from one place to another in order to be. And in Latin , that you may say existence.
-
-So in order to exist , you have to escape from a place.
-
-So it does n't describe the void. Our entire being was designed to hold the life , to hold everything. That is why it is so difficult for us to let go towards nothing. When we realize about this , it does n't mean that we have to live behind all the things that we believe , all the things that we felt feel due.
-
-When we realize about this , it is when you understand that everything is a parodolia. That everything is a parodolia of the existence , is a parodolia of God , whatever you want to call it. We are an idea , an image manifested.
-
-So an angel , an archangel , an ascended master , they does n't exist. They are not real. But not because they does n't exist. Only them and I do exist.
-
-No. They does n't exist because neither. We does n't exist neither. We are just an idea.
-
-The reason why I 'm describing this existence of void that we are trying to live is because through this void is the only way in which we can give a meaning to all the things that exist. This is what we call a conceptual demo. A conceptual demo means that in order to create a new reality , I need to demo myself from the concepts , from the previous concepts of my life.
-
-So let 's make a human example about this demo. For example , when you start a diet , when you start a diet , the first thing that everyone will say to leave behind will be sugar. You need to live sugar behind. You should n't eat anymore sugar.
-
-You stop eating sugar so your body can clean up and purge and feel better , much more energetic with your own energy to do much things and so on. If you clean , you lose weight. Perfect.
-
-## Q&A
-
-So you have to live the sugar in order to feel better to make a new aspect of yourself. The question is here , did the sugar stop existing? I stopped eating it. If there is a birthday or someone invite me to chocolate , I will deny it , or we like to take some of it.
-
-I will enjoy it anyway , or I will say no sugar does n't exist. How do you take it? How do you take the diet? For example , when you start to , in this chocolate example , the body eats it because it needs to feel up a gap to feel it avoid.
-
-It 's attached to the thing. It needs it. When you say I can eat it anymore , that 's an addiction. When you grab and eat and have things or do things that you do n't know what would happen if you stop it , that 's an addiction.
-
-So when you definitely decide to stop , for sure some people will feel depressed , will feel like a void inside. What is happening to me? I am feeling so sad. Why?
-
-Because the body is trying to feel that void that you are feeling. That 's an addiction. When you feel sad or bad , feeling that void , it means that whatever you had before was an addiction , it was not real. It was an addiction.
-
-All addictions are based in things that are trying to feel the gaps of something that I am not being able to do it by myself.
-
-Sometimes we have these people that when they are in this kind of diets , living the chocolate , living the sugar , these people start to say , to blame the sugar. The sugar is the problem. The sugar was the bad thing.
-
-So blame the sugar and they start to say , I do n't want sugar. If everyone is eating sugar , you should n't eat that. That 's poison. That 's horrible.
-
-Throw that away. I do n't want to see it. Do you know people that does the same not only with chocolate , that does the same with religion , for example , they wear in a religion and suddenly religion is shit. It 's a poison.
-
-It does n't believe it 's not real , it 's all bullshit , it 's terrible. Take it away. I do n't want to know anything about it.
-
-So we can see here that many people are blaming the things that they wear attached to. When they wanted to wear taking those things , wear themselves. The sugar is there , the religion is there. Me being in a diet , not eating chocolate , it does n't make chocolate and sugar disappear of the entire systems.
-
-It does n't make that it does n't really exist. It 's there. It 's just that I 'm not eating that anymore in my diet. I 'm cleaning up myself , but the chocolate is there.
-
-And why can not share sugar chocolate with friends sometimes? That 's it. I can do it. But it does n't mean that it does n't exist.
-
-So when we discover this existential void , the nihilism of the entire universe , it does n't mean that you had to stop believing on the other things or that nothing really is there. What it means is that I am not attacking more to those concepts. That is me who I decide to live them. It 's me who I might to enjoy them.
-
-Everything is an idea and the only thing that tourism an idea is my will. I invite you this week to activate that will of demo of all these concepts. Really activate the unconditionally of pieces. We can not be unconditional beings.
-
-Having pre-concepts , this is why pieces is inviting us to demo all the pre-concepts in order to really be unconditionally in latex. For example , in my vision like a Leo person , my existential void would be to say , I am not important. I am not doing anything great. It does n't matter how great it is what I do in my life.
-
-It does n't have an meaning. It does n't matter.
-
-So for me it 's like I have been 12,000 years doing all this. I have a background and a story that tell me what to do. That I am doing this because of what I did before. That I have a goal that all my past lives , guides , masters , interdimensional beings , aliens , everyone is telling me what to do and I have so many things to do.
-
-And prove that prove that what I am doing is so important. But also there is this future voice that tells me the only way in which you will realize that this is important is if you remember that all of that that took you here is not important anymore. That it does not matter. And when I went through all this process myself , I realized that all the people that I have been all the beings that I hear from the past , from other dimensions , everywhere , aliens and that tells me what to do is really aspects of myself in different dimensions.
-
-So it is me telling to me what to do.
-
-So it 's there when I understood that is not that there is this beings in different times and spaces that it does n't exist. It means that it was me myself who pushed them to exist in order to tell me that I am important. Because if all those beings that I pushed , would n't have tell me that I am important , I would n't have done anything that I did.
-
-So it is in that moment that I recognize that all those beings really exist. And it was through the void that all of them as myself , are telling me what to do , but because I am the one choosing to do it.
-
-So this is why I did the experience that I am telling you now , sharing to you now , because I went through the experience of void to eliminate all these preconceptions.
-
-So I can now say , I am not important. I am really not important.
-
-So that 's why I choose to be important. And that 's why the entire universe pushed me to be so. That 's the key of void. I know that there are many concepts , but it does n't matter if you 're not getting it now , you will eventually.
-
-And you have it here in YouTube , so whenever you want.
-
-So I know that some people is new and making some questions. That I did n't answer because I already did in other videos.
-
-So there 's no rush. You can check it. Check the other 220 videos. Let 's go to the line.
+# Day 221 - The Void: Empathy and the Ultimate Freedom
+
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-The vibration for today is bad. The statement for today is I am spiritual will. The code for today is power. Power or to can.
-
-On filling , the cosmos is able to recognize what it 's capable of. Recognizes its inner potential , the energy that has the forces that are each native from its being and through the potency emerges. The vibration generates energy just like the movement generates emotions. And from energy , the inertia originates.
-
-That the greater potency leads to an unconscious action that by becoming conscious with the practice takes control of the energy and localized the potency call in power. This , to can , the power is the attribute of conscious management of emotional energy. I was just laughing because it 's like , I 'm working here for spirituality and at the same time , I 'm destroying it at all.
-
-So it 's funny that we start the emotional wake of biases and suddenly everything is like instead of magic , beauty and love we begin with this. This train , all of that.
-
-So anyway.
-
-So just this , the reason why is important to see the realism of this spirituality is so in the moment when we see a fairy when we see an angel , we can deeply see it fully understand what it means instead of just living it from the previous concepts.
-
-So from this point of view , there is nothing there.
-
-So even if we see a demon or an angel , good or bad , they do n't really exist. It does n't matter. We will see the coat of it. The coat behind that image , not only a demon or an angel , but also a person.
-
-You will see the coats behind it , the idea that holds. That 's the point. Yeah. We close our eyes and concentrate in the drinking.
-
-Take a deep breath and try to perceive the heat and the cold of your body , the energy that is within it. Feel the energy moving around. Outside and inside , like clouds , like the waves in a sea. I recognize that this heat , this energy is the flow of all the magnetic fields that hold the atoms of my body , the energy that is being expanded from the particles in its constant movement , dancing as the waves throughout my body.
-
-I recognize that this flow of energy movement is what I recognize as emotion. I become aware of the emotions that I can feel right now throughout my body , slowing. You want to have our present in me. I set the intention to bring all these flow of energy and emotions to the core of my body to the inner aspect of myself to my soul.
-
-As I take deep breath , I feel the energy of all these atoms in particles being absorbed by this black hole inside of my being treated in breath and make this black hole exposed with all its energy and power , making all your entire body explode , dissolving every molecule at some particles , extending all what you wear around the cosmos , dissolving what you are , break it nicely. All the pieces , like after an explosion of a sun , the star , become aware that you were really nothing , that you are void. And all those particles were shaping the idea that holds the nothingness that I am in joy. All the beliefs that I have , all the feelings that I felt , all the actions that I took , were just an idea , a shape and image , folding the nothing that I am.
-
-I am just a conjunction of concepts. And it 's this why becoming conscious , I ca n't complete myself again from a new concept.
-
-So I started to take a deep breath , bringing all these molecules out of these particles towards me again. But this time , organizing them according to the concepts , the new ones , the new idea of myself , I create my new concepts of why I am , I shape my body again. It 's the emotion , the soul , the wonder the loves , this idea , to manifest. This in this way , how I recognize that my entire existence is just my will to be.
-
-There are some kind of things , let 's just say this , I am spiritual will. I am spiritual will. I am the Alpha. I am the everything.
-
-I believe in me. I believe in me. Take it a breath and start to expand this energy this awareness through the soul to the energy of the body , no one will be able to expand it. And I smile to this nothing and to this everything that I am.
-
-Thank you everybody for being here as always. I see you tomorrow this same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Crown
+- **Week Theme:** Pisces Emotional Week
+- **Main Topic:** The Void, Empathy, Nihilism, and Cosmic Freedom
+- **Vibration:** `Pa`
+- **Statement:** `I Am Spiritual Will`
+- **Code:** Power (to can) - when filling the cosmos, the being is able to recognize what it is capable of. It recognizes its inner potential, the energy it has, the forces that are emanated from its being, and through potency emerges. The vibration generates energy just like movement generates emotions. From energy, inertia originates. The greater potency leads to unconscious action that by becoming conscious with practice takes control of the energy and localizes the potency, calling it power. This, "to can," is the attribute of conscious management of emotional energy.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Today we begin the **Emotional Week of Pisces**, and perhaps we were waiting for something different to begin this week than the void. But there is a reason why we start here.
+
+From the point of view of different archetypes, the void means different things. For Taurus, the void would be not having anything physical. For Scorpio, it would be going to the deepest, darkest part of the soul. For Virgo, it would be entropy—no order. For Capricorn, there is no purpose, no meaning.
+
+But from the point of view of **Pisces**, this is the **real void**—the complete, total void. All the other voids are just aspects of the whole. For Pisces, it is the void itself.
+
+The key to understanding Pisces is **empathy**. Empathy is what allows Pisces to feel the void of everyone, the emptiness of the entire universe. While other archetypes feel their own version of void, **Pisces feels the void of all beings simultaneously**.
+
+This teaching connects to the crown chakra, where we touch the spiritual realm and recognize that we are ultimately nothing and everything at once—pure consciousness experiencing the void.
+
+---
+
+## Understanding Empathy
+
+### The Origin of the Word
+
+**Empathy** comes from Greek: **"em"** (to be in) + **"pathos"** (pain, suffering, conflict). Empathy literally means **to be in pain**, to be inside the same conflict or disease as another.
+
+Pathology, for example, comes from the same root—the study of disease.
+
+### How Empathy Works
+
+We describe empathy today as the ability to put yourself in the pain of another, to feel what they are feeling.
+
+This happens because your brain is programmed to **survive**. When it sees something happening to someone else, the brain says: "Alert! We need to protect ourselves." So the brain creates the same pain in your body so you can feel it and protect yourself.
+
+A humorous example: many men have felt this when seeing someone kicked in the testicles. Suddenly, even through a screen, your body hurts too. This is your brain trying to understand and protect.
+
+### Empathy vs. Sympathy
+
+**Empathy** means feeling exactly what the other person is feeling—being one with them in their experience.
+
+**Sympathy** (from **"syn"** meaning "with") means being **with** someone in their pain but not necessarily feeling it yourself. You accompany them, you are there, but you maintain some separation.
+
+Gemini and Libra are sympathetic—they can be with you. Cancer, Scorpio, and Pisces are empathic—they actually feel your pain as their own.
+
+### Pisces: Universal Empathy
+
+While other signs are empathic with specific aspects, **Pisces is empathic with everything**: humans, animals, plants, minerals, the planet, the galaxy, the cosmos.
+
+Pisces will feel not just human pain but the suffering of a tree, the loneliness of a stone, the void of the entire universe.
+
+This is why when Pisces connects with the void of everything, feeling the emptiness of the entire universe, **Pisces feels the void of everyone**—all beings simultaneously.
+
+---
+
+## Pisces and the Zodiac Cycle
+
+### The Last Step and the First
+
+For humans, the circle of the zodiac signs ends in Pisces. This means **Pisces gives the basis to begin a new cycle**.
+
+The month of Pisces is the last step but also the one that guides toward Aries, the first. **Aries cannot ignite unless Pisces does its job**.
+
+### What Comes After?
+
+Imagine if the Path of I Am really ended in Pisces—in this expanded void of unconditional spirituality. What would we do after that?
+
+The next four months (Aries through Cancer) will be the ones to **manifest something new**. We cannot manifest anything new if we don't transcend everything we need to do in Pisces.
+
+This is why we must go through the **dark night of the soul** in Pisces before we can ignite the fire of Aries.
+
+### The Empathic Void
+
+In order to gain something new, we must go to this very void—**the void of Pisces**, which is the **empathic void**.
+
+What is the biggest void you can imagine? **The end of all forms and expectations.**
+
+This is the void that everyone on a spiritual path tries to avoid. But it is necessary.
+
+---
+
+## The Void from Different Dimensions
+
+### Third Dimension: Good, Bad, and Sense
+
+We as humans live in the third dimension through **height**, **width**, and **depth**. Morally, we call these **good**, **bad**, and **sense** (meaning, direction).
+
+Height and width are designed by our biology as good and bad because we are designed to move forward, looking ahead. We think good things are in front (the future) and bad things are behind (the past).
+
+This is biological—we organize our morality according to how we move in our environment.
+
+The **depth** (sense) is about meaning, direction, the sense of life—where we are heading.
+
+### Higher Dimensions: Too Many Meanings
+
+In the fourth dimension, the sense of life can be backwards, and you're still going to the future. Sense transforms.
+
+In the fifth and sixth dimensions, there are **thousands of senses**, thousands of directions, all at once.
+
+When you go high enough, you see that **everything has so much meaning** that suddenly **nothing has a correct direction**. You lose the sense because there is no one specific path.
+
+### The Void: No Sense
+
+The crisis of the void comes when you see that everything has so much sense that suddenly **it doesn't have a correct direction**. You realize there is **no sense**, only void, because nothing really makes sense.
+
+This happens only at the last point of the whole path because Pisces can position itself in each one of the other eleven signs. Pisces can feel the void of each of them, the paths and senses of all of them, and recognize that **all together, they don't have any sense**.
+
+They have so much sense that there is no direction to go.
+
+---
+
+## Nihilism: When Nothing Has Meaning
+
+### The Concept
+
+**Nihilism** comes from Latin **"nihil"** meaning **nothing**. Nihilism describes that **nothing has really meaning**—there is no sense in anything we do.
+
+Psychologically, this comes from the concept that humans try to give meaning to things that don't really have meaning by themselves.
+
+### Pareidolia: Seeing Patterns That Aren't There
+
+This connects to **pareidolia**—a function of our brain that helped us survive for millions of years.
+
+**Pareidolia** comes from **"para"** (against) + **"eidolon"** (shape, form). It is the brain's tendency to decode images and put them everywhere.
+
+A baby sees the face of the mother and father, and the brain captures that image. Forever after, the baby looks for that pattern—eyes, nose, mouth—to feel safe. This is why you can see faces everywhere in clouds, in wood grain, in objects.
+
+The brain was designed to see the eyes of predators so you could protect yourself. Pareidolia helped us survive.
+
+### Pareidolia Creates Spirituality
+
+From pareidolia come two words: **idea** (a shape, a form) and **idol** (a figure we follow, try to be like).
+
+The idea and the idol came together to create the image of God, of beings we admire—angels, archangels with human shapes.
+
+**Pareidolia is what helped humans create spirituality and religion**—the idea of gods, goddesses, divine beings.
+
+Nihilism says: all the things we believe, all the things we project out there, **they don't exist**. They are just projections of our mind trying to look for figures that make us feel safe.
+
+---
+
+## The Void from Physics
+
+### 99.9% Empty Space
+
+From the point of view of physics, we can see matter—a physical body. But really, all matter is made of **atoms** so tiny that when you measure the distance between subatomic particles (electrons, neutrons, protons), there is **so much space** between them that most of reality is **vacuum, void**.
+
+To understand the scale: imagine a proton is like a tennis ball in the middle of a football stadium. Now put a tiny glass ball outside the stadium at the door. That's the distance between particles.
+
+There's **nothing** in between.
+
+We can say that **99.9% of reality is void** and just **0.001% is matter**.
+
+### We Are Cosmic Pareidolia
+
+From physics: we are nothing.  
+From psychology: we are nothing.
+
+**What are we really? We are cosmic pareidolia.**
+
+From both perspectives—physics and psychology—we don't exist. We are patterns our minds create from emptiness.
+
+---
+
+## The Void Is Freedom
+
+### The Ultimate Liberation
+
+So why do we exist? Why are we here?
+
+We exist because **the void is freedom**—the biggest freedom you could possibly imagine.
+
+There is no word in any human language to describe how it feels to be that void, to feel that eternity, to feel so fully, playfully aware of that freedom.
+
+We are so bounded by our beliefs, so enslaved by our feelings, so attached to our physical history, that when we try to understand or feel the real freedom, **we perceive it as nonsense**.
+
+There is nothing in our history of evolution that can explain how it feels—how fully you feel in that freedom.
+
+### Not Describable
+
+We cannot even describe it as "the biggest freedom" because when we speak about freedom, we usually mean escaping from one place to go to another—to **exist** (ex-sistere: to be outside).
+
+But the void is not about going from one place to another. The void **is**.
+
+### The Liberation, Not Depression
+
+Our entire being was designed to hold life, to hold everything. That is why it is so difficult for us to let go toward nothing.
+
+But when we realize this, it doesn't mean we have to leave behind all the things we believe, all the things we feel.
+
+When we realize this, we understand that **everything is pareidolia**—angels, archangels, masters, **we ourselves** don't exist. They're not real. But not because only they don't exist—**we don't exist either**. We are all just ideas, images manifested.
+
+This is **conceptual demo**—in order to create a new reality, we must demo ourselves from the concepts of our previous life.
+
+---
+
+## Conceptual Demo: The Example of Sugar
+
+### Living Sugar Behind
+
+When you start a diet, the first thing people say is: leave sugar behind. Stop eating sugar so your body can clean up, feel better, have more energy.
+
+If you clean up, you lose weight. Perfect. You have to leave sugar to feel better, to make a new aspect of yourself.
+
+The question: **did sugar stop existing?**
+
+I stopped eating it. If there's a birthday with chocolate, I will deny it—or maybe take some and enjoy it. Will I say sugar doesn't exist?
+
+### Sugar Still Exists
+
+The body eats chocolate because it needs to fill a gap, to fill a void. It's attached. It **needs** it.
+
+When you say "I can't eat it anymore," that's an **addiction**. When you grab and eat things or do things and you don't know what would happen if you stopped, that's addiction.
+
+When you definitely decide to stop, some people feel depressed, feel a void inside: "What is happening to me? I am feeling so sad."
+
+Why? Because the body is trying to fill that void. That's an addiction. When you feel sad feeling that void, it means whatever you had before was an addiction, not real.
+
+### Blaming the Sugar
+
+Sometimes people who are dieting start to blame the sugar: "Sugar is the problem. Sugar is bad. I don't want sugar. If everyone is eating sugar, you shouldn't eat that. That's poison. Throw it away. I don't want to see it."
+
+Do you know people who do the same not only with chocolate but with **religion**? They were in a religion, and suddenly: "Religion is shit. It's poison. It doesn't exist. It's not real. It's all bullshit. Take it away. I don't want to know anything about it."
+
+Many people blame the things they were attached to when they wanted to stop. But **they were attaching themselves**.
+
+The sugar is there. The religion is there. Me being on a diet, not eating chocolate, doesn't make chocolate disappear from the system.
+
+### Chocolate Still Has Value
+
+I'm not eating it anymore in my diet. I'm cleaning up myself. But the chocolate is there. Why can't I share sugar and chocolate with friends sometimes?
+
+I can. It doesn't mean it doesn't exist.
+
+---
+
+## The Existential Void and Unconditional Pisces
+
+### Not Destroying Spirituality
+
+When we discover this existential void, the nihilism of the entire universe, it doesn't mean you have to stop believing in other things or that nothing really is there.
+
+What it means is: **I am not attached more to those concepts**. It is me who decides to live them. It is me who might enjoy them.
+
+**Everything is an idea**, and the only thing that transforms an idea is **my will**.
+
+### The Demo
+
+This week, activate that **will of demo** of all these concepts. Really activate the unconditional nature of Pisces.
+
+We cannot be unconditional beings having **pre-concepts**. This is why Pisces invites us to demo all pre-concepts in order to really be unconditional.
+
+For example, from Matias's vision as a Leo: his existential void would be to say, "I am not important. I am not doing anything great. It doesn't matter how great what I do is. It doesn't have any meaning."
+
+For him, with 12,000 years of background and stories telling him what to do, having goals, past lives, guides, masters, interdimensional beings, aliens telling him what to do—proving that what he's doing is important—the void teaches: **all of that is not important anymore. It does not matter.**
+
+### Realizing They Are Aspects of Yourself
+
+When Matias went through this process, he realized: all the people he has been, all the beings he hears from the past, from other dimensions, aliens telling him what to do—they are really **aspects of himself in different dimensions**.
+
+It is **him** telling himself what to do.
+
+So it's not that those beings in different times and spaces don't exist. It means it was him who pushed them to exist in order to tell him that he is important.
+
+Because if all those beings he pushed wouldn't have told him he is important, he wouldn't have done anything he did.
+
+### The Key
+
+In that moment, he recognizes that all those beings really exist. And it was through the void that all of them, as himself, are telling him what to do—**because he is the one choosing to do it**.
+
+This is why he did the experience he is sharing: because he went through the experience of void to eliminate all these preconceptions.
+
+So now he can say: **I am not important. I am really not important.**
+
+**That's why I choose to be important.**
+
+And that's why the entire universe pushed him to be so.
+
+**That's the key of void.**
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortably. Close your eyes and concentrate on your breathing. Take a deep breath. Become aware of the place where you are, and use your imagination to expand it toward the infinite, perceiving how the world vanishes into eternity.
+
+### Perceiving Energy
+
+Try to perceive the heat and the cold of your body, the energy that is within it. Feel the energy moving around—outside and inside, like clouds, like waves in the sea.
+
+Recognize that this heat, this energy, is the flow of all the magnetic fields that hold the atoms of your body. The energy is being expanded from the particles in their constant movement, dancing as waves throughout your body.
+
+### Energy as Emotion
+
+Recognize that this flow of energy movement is what you recognize as **emotion**.
+
+Become aware of the emotions you can feel right now throughout your body. Allow yourself to feel what is present in you.
+
+### Bringing to the Core
+
+Set the intention to bring all this flow of energy and emotions to the **core of your body**, to the inner aspect of yourself, to your soul.
+
+As you take a deep breath, feel the energy of all these atoms and particles being absorbed by this **black hole** inside of your being.
+
+### The Explosion
+
+Take a deep breath and make this black hole explode with all its energy and power, making your entire body explode.
+
+Dissolve every molecule, every atom, every particle, extending all that you were around the cosmos. Dissolve what you are. Break it into pieces, like after an explosion of a sun, a star.
+
+### Recognizing the Void
+
+Become aware that **you were really nothing**. You are void.
+
+All those particles were shaping the idea that holds the nothingness that you are.
+
+**Enjoy** all the beliefs you have, all the feelings you felt, all the actions you took—they were just an idea, a shape, an image holding the nothing that you are.
+
+"I am just a conjunction of concepts."
+
+### Creating from the Void
+
+It is this, by becoming conscious, why you can complete yourself again from a **new concept**.
+
+Start to take a deep breath, bringing all these molecules, all these particles, toward you again. But this time, organize them according to the **new concepts**, the new idea of yourself.
+
+**Create your new concepts of who you are. Shape your body again.**
+
+Use the emotion, the soul, the wonder, the love, the idea to manifest.
+
+### Recognizing Your Will
+
+This is how you recognize that your entire existence is just **your will to be**.
+
+Sound the vibration **Pa**.
+
+**I am spiritual will. I am spiritual will.**
+
+**I am the Alpha. I am the everything.**
+
+**I believe in me. I believe in me.**
+
+### Closing
+
+Take a deep breath and start to expand this energy, this awareness, through the soul to the energy of the body.
+
+Feel yourself able to expand it. Smile to this nothing and to this everything that you are.
+
+Each one in your own time, come back here and now.
+
+---
+
+## Key Insights
+
+- Empathy means to be in pain—to feel what another is feeling as if it were happening to you.
+- Pisces feels the void of everyone simultaneously—universal empathy with all beings.
+- The zodiac circle ends in Pisces, which gives the basis to begin a new cycle in Aries.
+- The empathic void is the end of all forms and expectations—the biggest void imaginable.
+- When you see too many meanings, you realize nothing has a correct direction—this is the void.
+- Nihilism: nothing has real meaning; we project meaning onto things that don't inherently have it.
+- Pareidolia: our brain's tendency to see patterns that aren't there, which helped us survive and created spirituality.
+- Physics: 99.9% of reality is void, only 0.001% is matter—we are cosmic pareidolia.
+- The void is the ultimate freedom, impossible to describe in human language.
+- Conceptual demo: releasing attachment to concepts to create something new (like stopping sugar to clean the body).
+- All beings we perceive (angels, guides, aliens) are aspects of ourselves in different dimensions.
+- Realizing nothing is important liberates us to choose what matters.
+- Your entire existence is your will to be—nothing more, nothing less.
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Today, contemplate this question: **What if nothing I do has ultimate meaning?**
+
+Don't let this depress you. Let it **liberate** you.
+
+If nothing has inherent meaning, then **you are free to create any meaning you choose**. You are not bound by cosmic obligation. You act from freedom, not from fear.
+
+### Releasing Attachment
+
+Notice what you are attached to:
+- Beliefs about yourself ("I am important," "I am spiritual," "I am a warrior of light")
+- Expectations of others
+- Needing things to have meaning
+
+Practice **conceptual demo**: release these attachments like you would stop eating sugar. The concepts don't disappear—you just stop being controlled by them.
+
+### Recognizing Pareidolia
+
+When you see an angel, a guide, a vision—recognize it as **pareidolia**: a pattern your mind creates from the void.
+
+This doesn't make it "not real." It makes it **your creation**. And that is more powerful.
+
+---
+
+## Week Context
+
+We are beginning the **Emotional Week of Pisces**, where we dissolve boundaries and feel the empathic connection with all beings.
+
+Pisces teaches us to feel **everything**, including the void itself. This week, we go through the dark night of the soul—the realization that nothing has inherent meaning—so we can be reborn in Aries with **true freedom and authentic will**.
+
+The crown chakra (today's focus) is where we touch the divine and realize: **we are nothing, and we are everything**. Pure consciousness experiencing the void.
+
+---
+
+## Q&A
+
+### Q: If everything is pareidolia and nothing exists, why do anything?
+
+Because **the void is freedom**, and from that freedom, you can **choose** to create, to act, to love. Not because you have to, but because you **want to**. That is true power—acting from freedom, not from obligation or fear.
+
+### Q: Isn't nihilism depressing?
+
+Nihilism can be depressing if you think it means "nothing matters, so why bother." But the void teaching is different: "Nothing has inherent meaning, **so I am free to create my own meaning**." That is liberating, not depressing.
+
+### Q: How can I feel empathy like Pisces without being overwhelmed?
+
+Recognize that the empathy you feel is **your own energy reflecting back to you**. When you feel someone's pain, you're not taking on their burden—you're recognizing that **you are them**. All beings are aspects of the one void. Surrender to the connection, don't fight it.
+
+### Q: If angels and guides don't exist, what was I experiencing?
+
+They **do** exist—as **aspects of yourself** in different dimensions. You created them by pushing consciousness into those forms. They are real manifestations of your will. The liberation comes from realizing: **you are the source**, not a powerless receiver.
+
+### Q: What is conceptual demo?
+
+It is the process of **releasing attachment to concepts** to create something new. Like stopping sugar to cleanse your body, you stop believing old concepts to cleanse your consciousness. The concepts don't disappear—you just stop being controlled by them.
+
+### Q: How is the void freedom when it feels like nothingness?
+
+Because in nothingness, there are **no limits, no obligations, no boundaries**. You are not trapped by anything. From that space, you can create anything. The void is not empty—it is **full of infinite potential**.
+
+### Q: If I'm not important, why does it matter what I do?
+
+You're **not important** from the cosmic perspective—and that frees you to **choose** to be important. The universe doesn't need you to do anything. **You choose** to do it. That choice, from freedom rather than obligation, is what gives your actions authentic power.
+
+---

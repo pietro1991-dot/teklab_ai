@@ -1,282 +1,428 @@
 ---
-title: "Day 203 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 203 - Mercury"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 203
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-02-03
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 203
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - I AM presence
-  - constellation work
-  - month hological
-  - month hole
-  - month hology
-  - month holds
+  - Mercury planet
+  - Hermes messenger
+  - merchants and travelers
+  - bringing the news
+  - social media of ancient times
+  - cairns on the path
+  - commerce and communication
+  - Thoth and Djehuti
+  - Mercury retrograde
+  - concept not person
+  - throat chakra
+  - Physical Week Aquarius
+  - Wednesday etymology
+  - channeling concepts
 
 practice_elements:
-  chakra: "Throat"
+  vibration: "He"
+  statement: "I Am the Life in Coherence"
+  code: "Mercury as the archetype of the messenger—the one who brings news, shares knowledge, connects cultures, understanding that Mercury is a CONCEPT (like 'the Pope') that many people embodied through history"
 
 ---
 
-# Day 203 - Consciousness Work
+# Day 203 - Mercury
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Throat`
-
-## Introduction
-
-Hello everyone , are you good morning , good afternoon , good evening , everyone.
-
-So today was a day of lots of communication because of the announcement that I did today and all related to this power of our star planet , which is in their career. And I say this because if you had n't noticed or had n't seen it yet , I have done video today , it 's really a live streaming. Speaking about the event , the gathering that will take place in February 22 , 2022.
-
-So if you had n't seen it , just look at here and watch it here in this YouTube channel.
-
-So let 's begin with the video for today explaining the video , the video explained the planet of Mercury. Let 's go to Mercury. I mean , provides an , so I do n't know , starting from the name or , or Mercury.
-
-So this is the name of the planet. According to Rome , it 's Mercury according to Greece is heroes.
-
-So remember , that it does n't matter which name we use , we are speaking about the same God , the same person. And now we are going to not destroy but to resigning what is really this God. God , God is another technology for the English , but just to , for you to know , the way in which God is explained is by the word divinity. Divinity has the same entomology like News.
-
-In Spanish News , like Latin Des , comes from News , which is the God , the Greek God , okay , of the skies. News is the origin.
-
-So and News comes from you , you means they in English.
-
-So it 's also related with light , they light.
-
-So yesterday I was explaining about how the concept of God comes from , okay , where it comes from and how it is created.
-
-Remember , as I said yesterday , that it 's not a God that creates the things is the unity of things that creates the image of God , okay. I 'm not speaking about beings from another dimensions. I 'm speaking about the concepts of God from our point of view in our humanity , in our , in our way of thinking.
-
-Okay.
-
-So once we understand this , we will know that this names and this God does n't appear to create things. They appear to unify certain objects on or certain people. But so let 's go to the ideology to see what are these God 's unifying.
-
-So in Latin and a true skin language , we have this that means commerce and use that means the one. Hmm.
-
-So this word here talks about the one that makes commerce , that sells , that buys.
-
-So the summary is the mere chance , mere chance.
-
-So mere crime means the merchant.
-
-So herman , this is the one and this means caring.
-
-So a caring is , is many stones one over the other one.
-
-So this means the one that is in the care in the pile of stones. And the care is where used to , the care is where used to to make signals on a path , on a way.
-
-So you do n't get lost. That 's the used for , for a caring. Who is , who are the ones that look by the parents in the path , following the parents , the merchants? And why is this?
-
-This is in the past , as always speaking about that time. The merchants , the merchants , where the people that used to , that used to , to travel all around , going to the markets. But , but , but they were not only selling things or buying things , exchanging things. They were also bringing the news.
-
-So the people , not only went to the market to buy , they were also to the market to know the news of what is happening in other places. And now the city is towns , what the king has said. Yes , they were the ones saying all the news to all the people. The merchant was the kind of messenger.
-
-They were the messenger of that time.
-
-So this is how , in Greece and Rome , Mercury and Heroes , is the concept of all those who gives the message. Because the merchant were not only the people who sell , they were used to bring messages from one town to another. And also used by the kings and the power people , the powerful people , to know what the people were thinking in the streets.
-
-So these merchants were the ones going to the market , listening what the people used to say. And then some of them would say to the king , what was the thought of the population.
-
-So the merchants and the travelers were basically out the all-social media , our social media of today , where the market were you of that time.
-
-So the merchant also were the ones bringing technology. Because they they found out the discovery in one town and they took that discovery to other towns.
-
-So they would bring the news , the new things , the innovation , they would bring new cultures , new ideas , new philosophies , new stories , new words. There would be the ones that brought all the new things to everyone. Because of this , the importance of these people , of the merchants , they took this idea of all this , this people , and together they created the concept of a god that protected them. And this would be the messenger and the merchant of the skies , from the kingdom of the sun.
-
-So they created the idea of the one that ate scare of the path , to take care of the ways , of whom , of the ones that sell , of the ones that brings the news , Mercury. Did you get how this idea come from? Not even Mercury , not even humans , where people , they where concepts. The same thing happens with jajutti , that the Greek people used to call taught.
-
-Also , this is the origin of , this is the same idea with jajutti. Jajutti is a Egyptian name of taught. But taught , the people calling taught , because the Greek people were n't able to say jajutti. It was impossible for them to say it.
-
-So they instead of saying jajutti , they said tāotto , tāotto. That 's why the name evolved into taught. But nobody said taught in Egypt. Everyone said jajutti.
-
-Okay.
-
-So the concept of taught is the same of heresy and their crew. It was not a real person. It is a concept. It 's a concept of the messengers , the ones that give the message.
-
-So a way to understand why this is a concept , a not real person , a way in which we can understand that this is a concept is with something that we have today , using the same concept , which is the name that Pope. The Pope , when I say the Pope , you think about the Pope that you have now , like the Pope Francis. But we can also say the Pope talking about rāttingen , or we can also say the Pope talking about jajutti. But it 's the Pope , always is the Pope.
-
-The Pope is the concept. The Pope is an entity that can be acquired by many people.
-
-So that 's why through the history , we have a lot of people that were permits. A lot of people that were born as taught. A lot of people that were born as mercenary , incarnation the concept of this being.
-
-So taught is not a person. Taught is a title that many people used through history. See? Perfect.
-
-So once we say this , this is not referring to a god , it 's referring to a concept. These kind of things are like , so these are concepts. Like for example , you ca n't say that there is hermistory magistus because it existed. But that 's an epitome of the person that was reincarnated the concept of hermit in that moment.
-
-Like when you say taught jajutti was the one that wrote the italian and several other universe. Yes , he did. But the concept was the one who did it. Maybe the person has another name , but he was reincarnated that concept.
-
-So someone said about merging to. Merging is also , it 's not the name of the magician. Merging is blackbird. It 's that kind of bird.
-
-It is in French , Merlin. That is blackbird. The person that is blackbird is like a name of that magician. This is why the long history we had many people.
-
-Many people named with the same name because they were reincarnated this concept. This is why so many of us can channel this concepts. We are not channeling the person. We are channeling the concept of this person.
-
-The information that they had.
-
-So in Spanish , the witness day , when the name of the day comes from merely , it 's the day of merely. In English , it 's also the name of a messenger. When the name of wording , which is odd in , they call it wood tongue. Wood tongue.
-
-Wood tongue.
-
-So odd in. And odd in , wood tongue was the messenger of the people because he brought the rooms.
-
-So we could learn from the rooms , the knowledge of the gods. It was the messenger also.
-
-So the Wednesday , Miraculous is the name of the messenger.
-
-So now , why they call merely to the planet? Venus , Mercury , Earth.
-
-So this is the or the Mercury 's orbit , the elliptic of the orbit of Mercury. Here is the orbit of Venus and then the Earth.
-
-Now check this. Mercury , it 's orbit is so short that it takes 88 Earth days to make a whole turn.
-
-So it 's so fast that Mercury gives one turn , second turn , third turn , when the Earth has done only one.
-
-So so.
-
-So of course that the year are not always like exactly like in Earth.
-
-So it takes like sometimes three whole turns and some other times it does four and some others three and a half and so on in one human in one Earth year.
-
-Okay.
-
-So what I want to say is that it gives like three complete turns inside an Earth year and usually but it shares a fourth one with some month in the next year. From our point of view of Earth , Mercury goes so fast because of the gravity of the sun and it 's so close that it pushes so fast that when it goes and moves around the sun taking this 88 days from our point of view we see Mercury moving like four times in that direction , four times in this direction , four times in that direction going out from the sun going into the sun. Once and again so in one year we see this star is planet moving so fast outside and inside outside and inside that the image is like this one is given a message outside and bring the answer back to the sun. In the ancient times when they saw how this planet was moving once again from one spot to another they saw like it was traveling and going back to the sun.
-
-So suddenly they said , who if it 's moving so much this means that this planet is a messenger.
-
-So this planet is the god Mercury.
-
-So this is why the ancient ones put all these concepts to the concepts of the messenger to this planet and that 's how we created the idea that this planet is the one that represents the communication , the innovation , the technology , the new things , the news that are coming , the ability to speak to communicate languages , the wisdom , the learning , the teachings.
-
-So for sure you have heard something that every planet usually do. But Mercury does it between three to four times a year which other planets does n't do. Which is to retrograde.
-
-So for sure you have heard about Mercury 's retrograde.
-
-So what does this mean?
-
-So first of all the word retrograde comes from the word retro and grandes. Retro means to come back to go back and grabs great means step or a stair.
-
-So retrograde means to walk backwards. That 's the meaning of retrograde. Here we have Mercury going that way and we have Earth going that way.
-
-So this means that the planet is direct. What it means to be direct that we are going in the same direction , the same direction.
-
-Okay but what happened? Mercury goes so fast that it turns around the sun faster than Earth.
-
-So in the moment that Mercury is coming is turning here , the Earth is still moving in that direction.
-
-So from our point of view it seems like if Mercury is not going straight in the circle it seems like it 's going backwards. It seems like if it is going back to the same spot.
-
-Okay now let 's see it from the psychological point of view.
-
-Now from the point of view of psychology in this planet as you perceive it in the skies. When you move in that direction you are moving ahead. You go forward.
-
-So you are heading to the future , you are taking action , you are willing to do something. But what happened when you see someone walking backwards? When instead of going ahead the person starts to walk backwards the concept is like oh I do n't know if I want to face this. I do n't want to speak this.
-
-I do n't want to see this. I just want to go away from this escape and disappear. And I go to the past. I go to the ideas that stuck me in the past.
-
-So psychologically we start to think to perceive like if this planet is telling us you can not move forward. The whole energy is pushing you backwards.
-
-## Q&A
-
-So now the question would be why this is affecting us if it is a psychological perception? Why it does n't affect just a few and affects the whole planet? The answer would be the reason why it affects us is because in the moment when this things were acknowledged by the people in the humanity we were only 10,000 people. All around the planet only 10,000 people.
-
-And most of the people all of them , all of us , are descendant from them.
-
-So from those from those 10,000 people the 8 billion people that we live today in the planet Earth we are family. We come from those people.
-
-So that 's why we share the sub-conscious we are all together. We are not disconnected thinking that it does n't affect us is thinking that we are all separated and it 's not like this.
-
-So now if we are moved by the stars and the planets when they are in the direct state or the retrograde state is because we are still living through the sub-conscious. Because if we live through the consciousness the planets and the stars are not ruling our lives they become tools for our life and how to rule that , how to use our lives.
-
-So this does n't take power to the astrology. This gives even much more power our responsibility because astrology is not only ruling our sub-conscious , it 's also giving us the tools to know how to handle our own life.
-
-So Mercury is the energy of the master , the energy of the teacher , the ones that gives the information that shares that brings that to every spot , the ones that brings the news.
-
-So to understand the planets and the constellations is kind of learning a language. If you do n't know the language it 's like if you are allowing others to use you because you do n't understand they can use you , they can laugh at you sometimes. But if you learn the language you can communicate , you wo n't be taken for granted. As a fool.
-
-So when we understand this language of the stars we can communicate in a different way and not be used by but using it for our own purposes. And this is the energy of Mercury. Is it one teaching us saying as you have to learn how to use it , you have to go and look for more that , take for more information , try to reach more in order to awake the potential that you have. Wisdom can only be taken in the moment when you look for something , you learn something , you discover something and then you allow yourself to doubt about it , to go back to review all the things and try to take another point of view and even change my perception of that thing that I 've learned.
-
-The direct position of Mercury is the one that says go , share , learn and when Mercury becomes retrograde is when they say stop , shut up. Let 's think about what we have learned now. Let 's try to go with them and think if this is good or this is not , if this is true or this is not and sick with them. Insistence.
-
-## Guided Meditation
-
-Is the moment to recignify to watch again from the subconscious that Mercury retrograde is hysterical because all of the things work horrible. We do n't like it because it faces to all the things that we do n't want to see. But when we are aware with consciousness , the retrogradation is a good process of meditation to see beyond , to try to understand better where we have done , is a process of revision. And this little planet will push us forward and take exam at least three times per year doing our whole life regarding our spirit , our soul , and our body.
-
-Nobody 's case from this exam.
-
-So I was doing the job sometimes that in this classes I will take exam but I 'm not going to take an in the exam of course but Mercury will.
-
-So I 'm doing this now because the next Mercury retrogradation , that would be the exam. There wo n't be any teacher doing human teacher doing the exam. It will be a planet.
-
-So the exam will be by yourself from today 22 till the next retrogradation of Mercury about our wisdom. How do we take this information? How are we going with this process?
-
-So I would do a post explaining the exam but it will be only for you.
-
-So let 's see how we do it. When? Let 's go to the information for today. The vibration for today is day.
-
-## Daily Practice Elements
-
-The statement for today is I am resonant balance. The goal for today is the east. This direction is interpreted as the place on the right side of the north or better said the direction from where the sun normally rises. In the rotation of the planet on its own axis by the north south magnetism.
-
-The direction towards the the world moves lets the stars appear on the horizon. Known this way for being the direction of light , a fire. It 's this way a direction of birth , rebirth , ascension , origin. Music Taking breath and start to become aware of your body like a resonant stretch in and your言 , sitting comfortable until your focus is only You 're ready I started to become aware of this place I find myself in the room and all the places that holds this room with me in it , it has the village in town , the country , the continent , and the entire world.
-
-I had taken it breath , becoming aware of my physical body here and now. I become aware of the room and I become the room taking a deep breath. I feel the house and I become the house taking a deep breath. I feel the village the town taking a deep breath , I become the town.
-
-I take a deep breath and I become the country and find myself in. I take a deep breath and I become the continent where I am. I become the planet where I find myself. I am the earth.
-
-I see this sun in front of me and it 's warm light over almost two. As I feel the room moving around. I wash in front of me and I pray close by the sun behind the windows and Mars around. Far away , I find Jupiter , Saturn , Neptune , drones , way back in the space , Pluto.
-
-I observe all of them. I am the solar system. I extend my arms towards the sun and with my hands I take the time in my brain and I bring it to my throat. I am the continent inside my voice.
-
-I feel the wisdom , the words , the sound , the knowledge , activating in the truth of my voice , feeling in my throat. I activate it potential to my voice , to my singing. I am the continent inside my voice. I am the continent inside my voice.
-
-## Q&A
-
-I am the continent inside my voice. I become a where questioning my truth. I am the continent inside my voice. I become aware that every step that I give in my life I am learning and teaching.
-
-## Guided Meditation
-
-I am teacher , master and apprentice. I recognize that is the process of teaching and learning. I recognize the process of teaching and learning. I am the scientist , the meditation , the one that breaks me with them.
-
-I am the scientist , the scientist of the voice. I am the resident balance. I take it to breath. With my hands I take this information , this consciousness from my throat all over my body , and I carry a strangeness and a young and each one at its own time come back here and now.
-
-Today we begin with our process of preparation for the connection of the entire mercato of our network.
-
-Today 22 February 22 is the wisdom and for the next days we will set the intention of that wisdom in our mercato. As we did today. The next six months we will do the other attributes. We will be loved the 22nd of April will be will the 22nd of May the form , the 22nd of June the sound and the 22nd of July the light.
-
-We can activate the entire mercato of the network in August 22nd in the blue moon.
-
-Today with the energy of mercato we activated the first pattern of wisdom. And now we will be working with this in the next days and weeks. Thank you everybody for being here and so always and see you tomorrow at the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Throat
+- **Week Theme:** Physical Week of Aquarius
+- **Main Topic:** Mercury (The Messenger, The Merchant, The Communicator)
+- **Vibration:** `He`
+- **Statement:** `I Am the Life in Coherence`
+- **Code:** Mercury as the archetype of the messenger—the one who brings news, shares knowledge, connects cultures, understanding that Mercury is a CONCEPT (like 'the Pope') that many people embodied through history
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Day 203. Big announcement day—Matias shared news about a major gathering event planned for **February 22, 2022** (2/22/22).
+
+The energy is buzzing with **communication, announcements, connections**—which is perfect, because today's planet is **Mercury.**
+
+We connect with the **throat chakra**—the center of **communication, expression, truth-speaking.**
+
+And we explore **Mercury**—the fastest-moving planet, the **messenger of the gods**, the archetype of **communication, travel, commerce, and the sharing of knowledge.**
+
+But as with Neptune, Matias emphasizes:
+
+**Mercury (Hermes in Greek, Thoth/Djehuti in Egyptian) is NOT a person. Mercury is a CONCEPT.**
+
+It's like **"the Pope"**—a title, a role, an archetype that many different people can embody throughout history.
+
+Many people **were** Mercury. Many people **were** Thoth. They incarnated the **concept** of the messenger, the one who brings knowledge, the one who connects cultures.
+
+And today, we're exploring what that archetype teaches us about **communication, coherence, and the power of sharing truth.**
+
+---
+
+## Core Teaching
+
+### The Etymology of Mercury: The Merchant
+
+In **Latin and Etruscan** languages, the name **Mercury** comes from:
+
+- **"Merx"** = commerce, trade, goods
+- **"-arius"** (or "-urius") = the one who does
+
+Put together: **"Mercurius" = "the merchant"—the one who trades, who buys and sells, who exchanges goods.**
+
+In **Greek**, the same god is called **Hermes** (Ἑρμῆς), which comes from:
+
+- **"Herma"** = a **cairn** (a pile of stones used as a marker on paths)
+- **"-es"** = the one
+
+So **"Hermes" = "the one who is in the cairn"—the one who marks the path, who guides travelers, who ensures people don't get lost.**
+
+### The Cairn: Guiding the Way
+
+A **cairn** is a stack of stones placed along a path—especially in mountains, deserts, or remote areas—to mark the route so travelers don't lose their way.
+
+**Who built these cairns? Merchants and travelers.**
+
+Why? Because **merchants traveled constantly**—from town to town, city to city, across dangerous terrain.
+
+They needed to know the paths. They needed to mark the way. They needed to make sure **others could follow.**
+
+So **Hermes (Mercury)** became the god who **protects travelers, guides the way, marks the path.**
+
+But merchants did MORE than just trade goods.
+
+### Merchants Were the Messengers
+
+In ancient times, **merchants were the social media, the news networks, the information highways.**
+
+People didn't just go to the market to **buy and sell**—they went to **hear the NEWS.**
+
+Merchants would bring:
+- **Stories** from other cities
+- **Rumors** about kings and wars
+- **New ideas** and philosophies
+- **Technology** and innovations
+- **Messages** from one town to another
+
+If a king wanted to know what the people were thinking, he would **ask the merchants**—because they listened to the conversations in the marketplace and reported back.
+
+**Merchants were spies, journalists, diplomats, and storytellers all in one.**
+
+That's why **Mercury/Hermes** became the god of **communication, messages, and travel**—because merchants **carried the word** from place to place.
+
+### Mercury in Greek and Roman Mythology
+
+In **Greek mythology**, **Hermes** is:
+- The **messenger of the gods** (especially Zeus)
+- The **guide of souls** to the underworld (psychopomp)
+- The **god of travelers, thieves, merchants, and communication**
+- Depicted with **winged sandals** (speed) and a **caduceus** (staff with two snakes)
+
+In **Roman mythology**, **Mercury** is the exact same figure—just with a Latin name.
+
+Mercury is **fast, clever, adaptable**—he moves between worlds, carries messages, facilitates exchanges.
+
+He's the **connector**, the **intermediary**, the one who **bridges gaps.**
+
+### Thoth/Djehuti: The Egyptian Mercury
+
+In **Egyptian tradition**, the same archetype is called **Thoth** (in Greek) or **Djehuti** (the original Egyptian pronunciation).
+
+The Greeks couldn't pronounce "Djehuti," so they said **"Thoth"** (like "thought").
+
+**Thoth/Djehuti** is:
+- The god of **writing, knowledge, wisdom, and magic**
+- The **scribe of the gods** (he records everything)
+- The **inventor of language, mathematics, and astronomy**
+- The **measurer of time** (he keeps the cosmic records)
+
+Thoth is depicted with the **head of an ibis** (a bird associated with wisdom and precision).
+
+He is the one who **brings divine knowledge to humanity**—just like Mercury brings messages from the gods.
+
+### Mercury is a CONCEPT, Not a Person
+
+Here's where Matias makes a critical clarification:
+
+**Mercury, Hermes, Thoth—these are NOT individual people.**
+
+**They are TITLES. They are ROLES. They are ARCHETYPES.**
+
+It's like **"the Pope."**
+
+When you say "the Pope," you might think of **Pope Francis** (the current one).
+
+But you could also say "the Pope" referring to **Pope Benedict**, or **Pope John Paul II**, or any of the popes throughout history.
+
+**"The Pope" is a CONCEPT—a role that many people have filled.**
+
+The same is true for **Mercury/Hermes/Thoth.**
+
+Throughout history, **many people** embodied the archetype of the messenger—the one who brings knowledge, the one who connects cultures, the one who channels divine wisdom.
+
+They were called **"Hermes"** or **"Thoth"** not because that was their birth name, but because they **incarnated the CONCEPT.**
+
+Matias says:
+
+**"Someone mentioned Hermes Trismegistus ('Hermes the Thrice-Great'). Yes, he existed. But 'Hermes' wasn't his name—it was his TITLE. He was embodying the concept of Hermes in that moment."**
+
+**"The same with Merlin. 'Merlin' means 'blackbird' in French. It's not a personal name—it's a title for the magician who embodied that concept."**
+
+**"Many people throughout history were named with the same name because they reincarnated the same CONCEPT."**
+
+### Channeling Mercury: Accessing the Concept
+
+This is why **so many people today can 'channel' Thoth or Hermes.**
+
+They're not channeling **a specific dead person.**
+
+They're channeling **the ARCHETYPE**—the information, the frequency, the concept of the messenger and the keeper of knowledge.
+
+Matias says:
+
+**"We are not channeling THE person. We are channeling the CONCEPT of this person. The information that they held."**
+
+This is powerful because it means:
+
+**You don't need to be "special" to access Mercury's wisdom.**
+
+**You just need to TUNE IN to the archetype—the frequency of communication, coherence, truth-sharing, and connection.**
+
+### Wednesday: Mercury's Day
+
+In many languages, **Wednesday** is named after Mercury:
+
+- **Spanish**: *Miércoles* (day of Mercury)
+- **French**: *Mercredi* (Mercury's day)
+- **Italian**: *Mercoledì* (Mercury's day)
+
+In **English**, Wednesday comes from **"Woden's Day"** (Woden = Odin in Norse mythology).
+
+**Odin** and **Mercury** are the same archetype—both are **messengers, bringers of knowledge, guides of souls, keepers of runes/writing.**
+
+So even in English, **Wednesday is Mercury's day**—it's just using the Norse name instead of the Roman one.
+
+### Mercury Retrograde: The Review Period
+
+Matias mentions that this year (from February to February), there will be **three periods of Mercury Retrograde**—each lasting about three weeks.
+
+**What is Mercury Retrograde?**
+
+It's when Mercury **appears** to move backward in the sky (from our perspective on Earth). It's an optical illusion caused by the relative speeds of Earth and Mercury's orbits.
+
+Astrologically, **Mercury Retrograde** is a time of:
+- **Review** (not moving forward, but looking back)
+- **Reflection** (reconsidering decisions, redoing tasks)
+- **Communication breakdowns** (misunderstandings, technology glitches, travel delays)
+
+Matias says the three retrogrades will focus on:
+1. **Physical review** (body, health, material world)
+2. **Emotional review** (feelings, relationships, patterns)
+3. **Spiritual review** (beliefs, practices, alignment)
+
+The suggestion: **Use these periods to REVIEW, not to launch new things.**
+
+---
+
+## Practice
+
+### Speaking with Coherence: Mercury's Gift
+
+Today's practice is about **honoring your throat chakra** and learning to **communicate with truth, clarity, and coherence.**
+
+**Step 1: Sit and Ground**  
+Sit comfortably. Place one hand on your **throat**—the center of communication.
+
+Feel your breath moving in and out through your throat. Notice the **vibration** of your breath.
+
+**Step 2: Acknowledge Mercury's Archetype**  
+Say (aloud or silently): **"Mercury, guide me to speak with truth. Help me communicate with clarity and coherence."**
+
+You're not praying to a being—you're **invoking the archetype**, the **principle** of clear communication.
+
+**Step 3: Check for Coherence**  
+Ask yourself: **"Do my words match my truth? Am I saying what I actually mean? Am I communicating clearly, or am I hiding/distorting?"**
+
+**Coherence = alignment** between what you think, what you feel, and what you say.
+
+**Incoherence = saying one thing while thinking/feeling another.**
+
+**Step 4: Speak One Truth**  
+Think of **one thing** you've been avoiding saying—to yourself or to someone else.
+
+It doesn't have to be dramatic. It could be:
+- "I need rest."
+- "I don't actually agree with that."
+- "I'm struggling."
+- "I love you."
+
+**Say it aloud.** Even if you're alone. **Practice speaking your truth.**
+
+**Step 5: Sound the Vibration**  
+With your hand still on your throat, sound the vibration **"He"** three times.
+
+Feel it resonate through your **throat chakra**, clearing any blockages, opening the channel of communication.
+
+**Step 6: Speak the Statement**  
+Say aloud: **"I Am the Life in Coherence."**
+
+Your life is **lived through coherence**—when what you think, feel, and say are ALIGNED.
+
+Mercury teaches: **Truth-speaking is life-giving.**
+
+**Step 7: Commit to One Communication**  
+Identify **one conversation** you need to have today or this week.
+
+Commit to having it **with coherence**—saying what you actually mean, clearly and honestly.
+
+---
+
+## Key Insights
+
+- **"Mercury comes from Latin 'Mercurius'—merx (commerce) + arius (the one who does). It means 'the merchant, the one who trades and exchanges.'"**
+
+- **"Hermes comes from 'herma'—a cairn (pile of stones marking a path). Hermes is 'the one who guides the way, who ensures travelers don't get lost.'"**
+
+- **"Merchants in ancient times were not just traders—they were the NEWS BRINGERS. They carried messages, stories, innovations, and rumors from town to town. They were the social media of that time."**
+
+- **"Mercury/Hermes is the messenger of the gods, the guide of souls, the god of travelers, thieves, merchants, and communication—depicted with winged sandals (speed) and a caduceus (staff)."**
+
+- **"Thoth (Djehuti in Egyptian) is the same archetype—the god of writing, knowledge, wisdom, magic. He's the scribe of the gods, the inventor of language and mathematics."**
+
+- **"Mercury, Hermes, Thoth—these are NOT individual people. They are TITLES, ROLES, ARCHETYPES. Like 'the Pope,' many people throughout history embodied this concept."**
+
+- **"Hermes Trismegistus existed, but 'Hermes' wasn't his name—it was his TITLE. He embodied the concept of the messenger and wisdom-keeper in that moment."**
+
+- **"When we 'channel' Thoth or Hermes, we're not channeling a specific dead person—we're channeling the ARCHETYPE, the frequency, the information that concept holds."**
+
+- **"Wednesday is named after Mercury in Romance languages (Miércoles, Mercredi) and after Odin/Woden in English—both are the same archetype of the messenger."**
+
+- **"I Am the Life in Coherence—coherence is alignment between what you think, feel, and say. Truth-speaking is life-giving."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**The Coherence Check:**  
+Throughout the day, before you speak, **pause** and ask: **"Is this coherent? Does this match my truth?"**
+
+If yes, **speak it clearly.**  
+If no, **either adjust what you say, or stay silent.**
+
+**Don't speak incoherently just to fill space.**
+
+**Become the Messenger:**  
+Today, **share something valuable** with someone:
+- A piece of knowledge
+- A helpful resource
+- An insight
+- A truth they need to hear
+
+**Be Mercury—the one who carries useful information from place to place.**
+
+**Throat Chakra Awareness:**  
+Several times today, touch your **throat** and say: **"I Am the Life in Coherence."**
+
+Feel the **vibration** of your voice. Notice when your throat feels **open** (truth-speaking) vs. **tight** (withholding/lying).
+
+### Applying This Teaching
+
+The teaching today is: **Communication is sacred. Words carry power. Speak with coherence.**
+
+In our modern world, we've **devalued communication**:
+
+- We say things we don't mean
+- We hide our truth to avoid conflict
+- We fill space with empty words
+- We lie casually
+- We communicate without thinking
+
+But **Mercury teaches**:
+
+**Words are MAGIC. Language is CREATION. Communication is how we BUILD REALITY.**
+
+When you speak **coherently** (aligned with truth), you create **clarity, trust, connection.**
+
+When you speak **incoherently** (misaligned with truth), you create **confusion, distrust, disconnection.**
+
+**Every word you speak is either building or destroying.**
+
+Mercury, the messenger, asks:
+
+**"What message are you carrying? What are you communicating to the world?"**
+
+Is it **truth**? Is it **coherence**? Is it **valuable**?
+
+Or is it just **noise**?
+
+**Be the cairn—mark the path clearly so others can follow.**
+
+**Be the merchant—bring valuable knowledge from place to place.**
+
+**Be the messenger—speak the truth that needs to be spoken.**
+
+---
+
+## Aquarius Physical Week Context
+
+We are in the **Physical Week of Aquarius**, connecting with the **throat chakra**—the center of communication and expression.
+
+Aquarius is the **networker**, the **communicator**, the one who **shares information across the web.**
+
+And Mercury teaches: **The network is only as strong as the CLARITY of communication.**
+
+If you communicate **incoherently**, the network breaks down.
+
+If you communicate **with truth**, the network THRIVES.
+
+**Aquarius is the network. Mercury is the messenger moving through the network.**
+
+Together, they say: **Speak truth. Share knowledge. Connect with coherence.**
+
+---
+
+## Questions for Reflection
+
+### Q: What does the name "Mercury" mean?
+
+**"Mercury" comes from Latin "Mercurius"**: merx (commerce, trade, goods) + arius (the one who does). It means **"the merchant"—the one who trades and exchanges.** In Greek, the same god is **Hermes**, which comes from "herma" (a cairn—pile of stones marking a path). **Hermes = "the one who guides the way."**
+
+### Q: Why were merchants associated with being messengers?
+
+Because **merchants traveled constantly** from town to town, and they didn't just trade goods—they **brought the NEWS.** People went to the market not only to buy things but to **hear what was happening** in other places. Merchants carried **stories, rumors, innovations, messages** from one place to another. They were the **social media, the news networks, the information highways of ancient times.**
+
+### Q: Who is Thoth, and how is he related to Mercury?
+
+**Thoth (Djehuti in Egyptian pronunciation)** is the Egyptian version of the messenger/wisdom-keeper archetype. He's the **god of writing, knowledge, wisdom, magic, mathematics, and astronomy**—the scribe of the gods who records everything. The Greeks called him **Thoth** because they couldn't pronounce "Djehuti." **Thoth = Mercury = Hermes—all the same archetype.**
+
+### Q: Are Mercury, Hermes, and Thoth actual people or concepts?
+
+**CONCEPTS.** They are **titles, roles, archetypes**—like "the Pope." Many people throughout history embodied the concept of the messenger and were called "Hermes" or "Thoth" not because that was their birth name, but because they **incarnated the archetype.** For example, **Hermes Trismegistus existed**, but "Hermes" was his TITLE (he embodied the messenger/wisdom concept), not his personal name.
+
+### Q: Can we "channel" Mercury or Thoth?
+
+**Yes, but you're not channeling a specific dead person—you're channeling the ARCHETYPE.** You're tuning in to **the frequency, the information, the concept** of the messenger and wisdom-keeper. This is why many people can access "Thoth's wisdom"—they're accessing the **archetypal field**, not a single entity.
+
+### Q: Why is Wednesday named after Mercury?
+
+In Romance languages, Wednesday is **Miércoles (Spanish), Mercredi (French), Mercoledì (Italian)**—all meaning **"Mercury's day."** In English, it's **"Wednesday" = "Woden's Day"** (Woden = Odin in Norse). **Odin and Mercury are the same archetype**—both messengers, bringers of knowledge, guides of souls, keepers of writing/runes.
+
+### Q: What does "I Am the Life in Coherence" mean?
+
+**Coherence = alignment** between what you think, what you feel, and what you say. When you live in coherence, your **words match your truth**—you say what you mean, you mean what you say. **Incoherence** = saying one thing while thinking/feeling another (lying, hiding, distorting). Mercury teaches: **Truth-speaking is life-giving. Coherence creates clarity and connection.**
+
+---
+

@@ -1,17 +1,35 @@
-# Day 161 - Reason
+---
+title: "Day 161 - Reason"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
+day_number: 161
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
+document_type: "transcript"
+language: "en"
 
-## Metadata
-- **Date:** January 11, 2021
-- **Chakra:** Crown
-- **Topic:** Reason
-- **Month:** Capricorn (Dec 22 - Jan 20)
-- **Theme:** MIND 'STAIR' (Emotional Week)
-- **Mantra:** "I Use"
-- **Vibration Code:** Ba
-- **Statement:** "I Am the Spirit's Home"
-- **Cosmic Key:** Freedom
+keywords:
+  - reason
+  - consciousness
+  - subconscious
+  - unconscious
+  - ego
+  - being right
+  - super consciousness
+  - freedom
+  - crown chakra
+  - emotional week
+  - Capricorn
+
+practice_elements:
+  vibration: "Ba"
+  statement: "I Am the Spirit's Home"
+  chakra: "Crown"
+  code: "Freedom is the ability to turn on and express without any limits other than those we create ourselves. It's a constant call to research for Freedom, which is acquired by becoming the creator of our own reality. Unconditional Freedom implies not only being freed, but letting others be free—equally those that I hate and those that I love. Be and let be."
 
 ---
+
+# Day 161 - Reason
 
 ## Summary
 

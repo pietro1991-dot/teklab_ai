@@ -1,296 +1,409 @@
 ---
-title: "Day 167 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 167 - Job/Work"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 167
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 167
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
+  - work
+  - job
+  - capitalism
+  - communism
+  - socialism
+  - dignity
+  - labor
   - root chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hole
+  - competition
+  - cooperation
+  - populism
+  - opera
+  - office
 
 practice_elements:
+  vibration: "Bo"
+  statement: "I Am the Home of Universal Children"
   chakra: "Root"
+  code: "Work as manifestation and creation in the material world, the dignification of both body and soul through conscious creation and contribution."
 
 ---
 
-# Day 167 - Consciousness Work
+# Day 167 - Job/Work
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Root`
-
-## Introduction
-
-Hello everyone , morning , noon , evening. I have been the whole day , seated in the same chair , in the same position , looking into the same screen that I 'm doing now.
-
-So a bit tired. I will try to make it short as I always say. Because I want to keep working , because it 's something that I like.
-
-## Energy Work
-
-So root chara today.
-
-So the reason why we are going to speak about work today is because related to the root chara , it means the manifestation. It means the matter , the action , the doing things here , and this reality.
-
-So I recommend you to read blog today , because it 's been so much and so many concepts of work that me and I was like kind of De when I was writing this. And there are so many concepts that I had to go once and again , once and again , to read what I was writing.
-
-So I thought it was amazing to go through the process of how all this works , connect one another and how they show you the origin of the things that we used today. We 're going to start talking about the concept of what work is for us today , because today we say that work is something that dignified the people. This is a concept that we have today , but the concept of work has been changing for so long through history that we need to understand every one of the steps.
-
-So I guess I 'm going to use the board. We 're going to start from the present and we are going to go backwards.
-
-## Q&A
-
-So first of all , let 's remember that today , even if you do n't like it , we are living in a capitalist society , which is global. I was just asking , do you remember why capitalism , but it would be easier if we were 30 people in a classroom with this question.
-
-So remember , capitalism comes from the word capital. Capital means the means city , but the origin of capital comes from capital that is head.
-
-So cap , the head is the one that organized the whole rest of the body.
-
-So the capitalism is the idea that there is one mind that tries to administrated all the resources around and distribute it according to a strategy.
-
-So the capitalism is related to a strategy of resources , an administration of resources.
-
-So for the capitalism , the work , the concept of work , is something that helps you as a tool to create your own resources and to administrated your own resources.
-
-So for the capitalism , the work is like the key of signifying the person to achieve , to have resources and to administrated it by freedom. I 'm not speaking about the capitalism as it works now. I 'm speaking about capitalism as an idea. How it would be better.
-
-So in the other hand , until really short period of time , we have the communism. In the hand of communism , remember that is a community , the origin is to live together to be in union. For the point of view of community , work is also very important , but not to produce resources to grow , but to dignity the soul. Which means that the communism is about understanding that the person is able to create , to manifest , to produce something by its own soul , by its own attributes , and creates the , create something outside.
-
-So it dignified the soul that is able to create , but for the communism that work is not to grow and expand yourself and administrated resources. For because here comes the state and states , I will take everything that you have produced , and I will divide it in equal parts between all the people. That 's not how much you work , you will get the same result always. But the communism say that work is just to dignity the soul of a human to be able to create and the stuff.
-
-So the capitalism is the one looking for the dignity of the body , and the communism is the one looking for the dignity of the soul.
-
-So both of them , both of them says the work to work is the way in which we reach that dignity.
-
-So the work in both systems will be the key to dignity the being , but the capitalism will use the work with competence , competition , and the communism will work it with equality , all being the same.
-
-So the communism ends because basically they work for the community , but they forget the important part of the system , which is that it 's the individual , the one willing to expand and grow , not the group.
-
-So the communism work for the community as something that is growing , all equals. But they missed the part that is the self , the being , the one that pushes the group.
-
-So that 's why all the people were trying to be themselves and communism you ca n't , because that 's not good.
-
-So that 's inner process makes that there 's no production , no growing , so the economic fails and steadily no communism does n't work.
-
-So basically between the capitalism and because the communism fails , the communism thinkers take the energy of the capitalism and they create a new branch that we would call socialism.
-
-So the socialism creates like this middle system in which there 's no competition , but neither , but also you allow the growth of the inner self , of the people. And again , you take the work as a key of dignity. I do n't know if you can see it , but I leave it here anyway so you can have the frame. Communism , souls , dignity , capitalism , bodies , dignity , socialism in the middle , try to find the balance between both of them.
-
-So what is the problem now , socialism does n't work neither , because we are in the 20 first century and this are systems from the 19th century.
-
-So two centuries before.
-
-So this system does n't work anymore for our society today. To have this idea , the communism takes care of the group.
-
-So it does n't care about the individual. I do n't care the individual , says the communism , I care about the group. We need to help all of them. And the capitalism says , I do n't care about , I just care about the individual.
-
-So be free individual , do whatever you want , I do n't care about the group. This is why neither of both of them work , because the capitalism is not taking care of the group and the group needs help , and the communism is not taking care of the individual and the individual needs to grow.
-
-So it does n't work , no matter. And the socialism is saying individuals be free. And let 's take care of the group. With the freedom , takes the wrong thing of both of them , trying to control the individual and to give freedom to the group.
-
-Freedom to the group that control the individual.
-
-So it 's like , so socialism has this conflict. Why?
-
-So why happens this? Because the three ideas are built by by concepts or philosophies that are published.
-
-So what is populism? Populism comes from the word populous Latin that means the people , okay? People.
-
-So what is populism? You have populism in the rights and left , because both of them , even if they are capitalism or communism , are just ideas , are just ideas of the population.
-
-Okay? A population , a big group of people.
-
-So a lot of people share an idea , a philosophy , and instead of taking care of their own philosophy inside , they just are pushed by the main idea of the group.
-
-So that is why they are pushed by the populist , okay? The movement of population is populism.
-
-So why is a populism? Why a populism is born? Because of the unconscious society. The society , the humanity is unconscious.
-
-Why? Because it needs to to survive. It 's looking for survival. Why?
-
-Because we need to eat , we need to deliver stuff.
-
-So we need the group , the family.
-
-Remember , we have been spoken about this. We need the group to take care of us.
-
-So that 's why , through thousands of years , we have created the idea that we need the others in order to survive.
-
-So that 's why when a group thinks in one way , everyone tries to think exactly as the group. Just in case they can die. And that 's how people create an idea. And we call that populism.
-
-Now , why a population a group exists? Because they need to survive in order to have food. They want food.
-
-So they need that food.
-
-So they start to figure out the way in which all this can survive. And the first thing that they do is we need food , something to eat.
-
-So we have to go and hunt. We have to go and so we have to harvest.
-
-So we have to do all the things. And in order to get those products , you have to do many things. Put your strength to work to to dig the ground , to hunt , to have wounds.
-
-So the body starts to hurt , to suffer. In Latin , this physical suffering is called labor. The first labor that we all experience in our lives is given birth. Being birth.
-
-Being born , sorry.
-
-So being born is the first suffering that we have. And that 's what we call the labor of being given birth.
-
-So from that moment on , everything that we have , everything for which we have to suffer to get food or a product for myself , will be called a labor , something that makes me suffer , that has pain on it.
-
-So from that moment , everything that starts to be created is all related to the suffering.
-
-So check the blog in just so you dot red. And there you will find all the explanations of the origin of the words , work , job and so on. First , we go to one of the main of all history , human civilization. The human civilization was divided in different stages.
-
-For sure , you have heard about the concept of the age of iron , the age of bronze when we speak about the human history. And this is because this is because the archaeologist before the carbon 14 tests existed , they could only interpret the times of history according to the metals that humans were using in that period of time.
-
-So the the blacksmith was the most important job in that period of time. And for us it 's really important because that 's how we knew the different ages of humanity in history. The blacksmith , the blacksmith is one of the most important words in history. Because everyone needed a blacksmith to do all their job.
-
-Because the words in the fields , the words in the castle , in the construction , in the kitchen , in the jewelry , all of them need and a blacksmith to do the tools.
-
-So that was the most important job that everyone could have.
-
-Okay.
-
-So that 's why also to be blacksmith is the one that 's with the iron. And iron in Latin is ferry.
-
-So the one that lives on the pressure of the ferry is the suffering , suffering.
-
-So suffering is under the ferry , under the iron , which is suffering. The concept of suffering is the one that is under the pressure of the whole society of the whole work. The blacksmith was the one using this tool in the ancient time that was called tripalium. Trillium is the concept of three pieces of wood , where they used to tie the horses and some animals to work on their pots.
-
-I do n't know the word in English for erasure. If you know like this iron thing that they put on the horses pot.
-
-So they would work with that and yeah horses shoes.
-
-Okay. The tripalium was a tool of blacksmith blacksmith to work with the animal.
-
-So in part times all the tools become weapons.
-
-So the tripalium was used for torture.
-
-So they used to tie people there and they would use the tools of the blacksmith to make bad things to the people.
-
-So now look into this. In the ancient times whoever was the blacksmith , had good job. Has a money and earning and it was good to be a blacksmith because you have many things to do. A lot of money.
-
-So that 's why to have a tripalium was good which creates the word trabalho , trabalho , inspiration and languages.
-
-So it was good to have a tripalium at home because that means that you have work.
-
-Okay. And but in the other hand the same thing the same tool was used to torture.
-
-So that 's why if you have a tripalium was also just for and to create suffering. They are the two origins of the word tripalium. Travailium.
-
-So the word tripalium or , , travail , a travail you say also , travail is something that matches the suffering and the ability to get resources. In English you may use the word travail , travail , , to describe something that is that really hurts , something that is that makes you suffer a lot.
-
-So in the subconscious for the population , the populism , the word , the word , travail , labor is related to the suffering of doing something to accomplish something that you need to work hard to sweat in order to get what you want. The word labor or travail in our substance is related to the concept of those things that I have to do obligated if I do n't want to die to make an effort. In the cultures we created the idea that the person who work who has a labor are the ones that are going to leave fine because they will have white , they will have work to sleep and they will be able to reproduce. This is why work starts to be like a synonym for dignity because because of the work , because of the labor 's I am able to survive.
-
-This is what is used by the communism for the soul and the capitalism for the body. This is the system , the one of the community and the one of the capital creates the concept , they only wait to have dignity , not only wait to have a body is through work , so if you do n't have work you do n't have dignity. You know how it starts to be created. Whoever does n't have a job is expelled from the capitalism slave for the communism.
-
-So there is a more in between these two systems that there is someone that just gets conscious and suddenly that person does n't look into the capitalism of the body and the communism of the soul , it starts to be connected with the unity of the spirit.
-
-So in that moment that person realized about something which is , oh , I am the creator so in that moment is when myself starts to say I can do exactly the same with no need of suffering just with pleasure. This is something that recognize that there 's no need for the soul to leave through others in the community or to compete with others in the capital of the body. The being that becomes aware recognize that there 's no need to survive because the body is eternal.
-
-So you get detached from physical things. You do n't need physical things anymore. You just use physical things for a moment and in the other side there 's no need to be accepted by a work for a group to be. I accept myself.
-
-So from the freedom of my being , I use both systems. When I recognize that I am not in the need of suffering , of survival , a labor , whatever it would be , is that I am the creator of that. I am not suffering anymore.
-
-So I realize that this is my own creation , that this is my design. I am the only one operator of my own reality and operate my own reality. Is the one that feeds the word office? Office comes from the word opus that means opera.
-
-A crap. To operate the master opera.
-
-So the office is the thing that you operate because of yourself because you realize who you are.
-
-So you will become the creator. You become the own creator of your things. When you are pushed by the environment to this something you work , you survive , you are in labor. When you do it by yourself , being aware of what you do.
-
-Your opera , that 's your own operation , your office.
-
-So to wrap this up , remember that to be spiritual is not to let the material world away to live all the physical things and does n't care about the money and all these things. No , to be spiritual is to be coherent , that you are using matter , not matter , is using you. When matter is you , all the weight of the world is on you , the iron of the planet and that 's suffering. But when you create your own reality , using the iron , create things , that 's what you call to have an office , to operate reality.
-
-That 's your opera.
-
-So , so , important this. When you connect with your divine , usually you will start to say , I do n't want to work with this anymore. I want to be free to do whatever I want. And sometimes we think that if we do whatever we want , we want to have the money driving the system or for the system that will be terrible.
-
-The end of the system. But no , when we become aware of ourselves and we do , when we have come to do in this world , when the system starts to work really. Because you are doing when you are supposed to do.
-
-So , that is helpful for the system. The only thing is that when you are supposed to do what you are supposed to do from your inner self , there is no more ideology. It is up here.
-
-So , now , if you ask yourself , well , maybe I want to do this different things. But I need the money , I need to work , I need to do this. In order to accomplish my goal , so if I do n't work , I wo n't have that.
-
-So , the thinking here would be , why do you think that you need to something that is not good for you in order to have things to buy things that are good for you? How is that?
-
-So , for example , myself , I am really well economically. I ca n't complain. But I do work , I have never worked in my life.
-
-Some people say , I am the worker. Never , because what I do is what I am. Since the moment I recognized who I was , I was just doing what I was. That 's it.
-
-And I seem people tell me , but this is not work. You never worked and you leave fine with no work. And I said , yes , because I choose not to suffer. I am all the day doing things , constantly managing , but they are not work.
-
-It 's me. And of course , that scares to be in the edge and saying , what do I do? I know reaching anything , what do I do? But remember , you are the creator.
-
-We are the creator.
-
-So , if you create fear , you will have fear. I spoke even more that I expected. And this is because I enjoyed. I 'm not working.
-
-## Daily Practice Elements
-
-And I 'm grateful for the day is both. The statement for today is I am the universal child 's home. The code for today is destiny. The extremes of this path or strings of the web are called destiny.
-
-In place it is in them , exist the word purpose. If we take a note , the string and another note , we can interpret that in geometry , exist an origin , a path , and a destiny. But that origin turns at the same time into another destiny in the patterns. This all become a purpose.
-
-Destiny is then not a final but part of an integration and comprehension process within the relative path.
-
-So let 's go to the lineman. We see it properly. We see it comfortable. And and I was going to say and pause your eyes.
-
-Sorry. It was suddenly I was thinking and it could n't speak English. Everybody is here this morning. Take a deep breath , and pay attention to the environment you find yourself in and use your imagination.
-
-To the sign , and very dark night , with a big dark sky , full of stars. It 's in front of you. In the center , there is a fire. I feel the fire in my hands.
-
-It 's heat. In my chest , on my face. And I feel surrounded by other people. I perceive the deep light of the fire , yellow or ancient red , and the flames moving like snakes.
-
-I observe the circle of people around the fire , all seated together under the stars. I recognize that the people around the fire are all those that represent my coworkers. I share the work with employees , bosses , friends , partners , patients , clients , all the people that represent the work. I recognize that when it comes to me , the fire is what connects me to all of them.
-
-## Q&A
-
-The workplace and the light , the flames represent my office , my own hobby. But I really love to do. Watch the fire and ask yourself , what is what I love to do the most? What is my attributes , my office , my profile?
-
-I am three. I am free from all this flames with all these people to do what I like , but I have come here to do. I am really free to manifest , to create , to do what I like. I recognize that all the people around you are the kids of the universe that go together here to find a way to get what they need.
-
-I am really happy to be able to do what I like , to be able to do what I like , to be able to do what I like. I am suffering , feeling trapped in your work , or you feel expanded and free growing through it. Is your job a condition of the work? Or it is your own creation?
-
-I observe again deep in the fire that office that is mine , where I find myself , free , expanded. And with my singing , I absorb this light inside of my body. I am really happy to be able to do what I like , to be able to do what I like , to be able to do what I like. And my office becomes my home , and the workers become free children of the cosmos.
-
-I am the home of the Universal Children. I am the home of the Universal Children. I am the home of the Universal Children. I am the children home to me , for I am freedom.
-
-I am the home of the Universal Children. I am the home of the Universal Children. I am the home of the Universal Children. I am the home of the Universal Children.
-
-Thank you for being here. See you tomorrow.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Root (manifestation, matter, action)
+- **Week Theme:** EMOTION 'HOME' - CAPRICORN - I Use
+- **Main Topic:** Work and Job
+- **Vibration:** `Bo`
+- **Statement:** `I Am the Home of Universal Children`
+- **Code:** Work as manifestation and creation in the material world, the dignification of both body and soul through conscious creation and contribution.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+On January 17th, Matias addresses the **Root Chakra** with a profound exploration of what **work** truly means—not just economically, but philosophically and spiritually. The Root Chakra represents manifestation, matter, action, and doing things in this reality. This teaching traces the evolution of work from feudalism through the Industrial Revolution to modern capitalism, communism, and socialism, revealing that **all three systems fail** because they're built on outdated 19th-century philosophies that don't serve 21st-century humanity.
+
+The core revelation: **Capitalism dignifies the body** (resources, administration, freedom), **Communism dignifies the soul** (ability to create, expression), and **Socialism tries to balance both but fails** because it controls the individual while giving freedom to the group. The teaching exposes how work has been weaponized through **populism**—using work as a political tool to manipulate people—and reveals the etymological origins of "work," "labor," "office," and "opera" to show how these concepts have been distorted over time.
+
+This is a call to **resign the philosophy of work itself**, not just switch between broken systems, and to understand that true work is about **conscious creation and contribution**, not competition or survival.
+
+---
+
+## Core Teaching
+
+### The Modern Context: Living in Global Capitalism
+
+Today, whether we like it or not, we live in a **capitalist society that is global**. To understand what this means, we must return to the origin of the word.
+
+**Capitalism** comes from **capital**, which means "head city"—but the origin comes from **caput** (Latin for "head"). The **cap/head** is the one that organizes the whole rest of the body.
+
+**Capitalism is the idea that there is one mind that tries to administer all the resources around and distribute them according to a strategy.** Capitalism is related to a **strategy of resources**, an **administration of resources**.
+
+### Capitalism's View of Work
+
+For capitalism, **work is a tool** that helps you create your own resources and administer your own resources.
+
+**Work is the key to dignifying the person to achieve, to have resources, and to administer them by freedom.**
+
+*Important note:* Matias clarifies, "I'm not speaking about capitalism as it works now. I'm speaking about capitalism as an idea—how it would be better."
+
+### Communism's View of Work
+
+Until a relatively short period of time, we had **communism**. Remember that communism comes from **community**—the origin is to **live together, to be in union**.
+
+From the point of view of community, **work is also very important, but not to produce resources to grow**—rather, **to dignify the soul**.
+
+Communism understands that the person is able to **create, to manifest, to produce something by its own soul, by its own attributes**, and create something outside. **Work dignifies the soul** that is able to create.
+
+**But for communism, that work is not to grow and expand yourself and administer resources.** The state comes and says: "I will take everything that you have produced, and I will divide it in equal parts between all the people." No matter how much you work, you will get the same result always.
+
+**Communism says work is to dignify the soul** of a human to be able to create and produce.
+
+### The Two Dignifications
+
+**Summary:**
+- **Capitalism** = dignity of the **body** (resources, growth, freedom)
+- **Communism** = dignity of the **soul** (creation, expression, manifestation)
+
+**Both systems say work is the way in which we reach that dignity.** Work, in both systems, is **the key to dignify the being**—but capitalism uses work with **competition**, and communism works with **equality** (all being the same).
+
+### Why Communism Failed
+
+Communism ends because they **work for the community but forget the individual**—the one willing to expand and grow. It's not the group that grows; it's **the self, the being, that pushes the group**.
+
+In communism, you can't be yourself because "that's not good." This inner process creates a situation where there's **no production, no growing**, so the economy fails. Steadily, communism doesn't work.
+
+### The Birth of Socialism
+
+Between capitalism (which won) and communism (which failed), communist thinkers took the energy of capitalism and created a new branch: **socialism**.
+
+Socialism creates a **middle system** in which:
+- There's no competition
+- But you also allow the growth of the inner self, of the people
+- Again, you take work as a key of dignity
+
+### The Problem with Socialism
+
+Socialism doesn't work either, because **we are in the 21st century and these are systems from the 19th century**—two centuries before. These systems don't work anymore for our society today.
+
+**The fundamental conflict:**
+- **Communism** takes care of the **group**: "I don't care about the individual, I care about the group. We need to help all of them."
+- **Capitalism** takes care of the **individual**: "I don't care about the group, I just care about the individual. Be free, individual, do whatever you want."
+
+**Neither works** because:
+- Capitalism is not taking care of the group, and the group needs help
+- Communism is not taking care of the individual, and the individual needs to grow
+
+**Socialism says:** "Individuals, be free. And let's take care of the group."
+
+But socialism **takes the wrong thing from both of them**—trying to **control the individual** and give **freedom to the group**. Freedom to the group that controls the individual. Socialism has this conflict.
+
+### Why This Happens: Populism
+
+**Why does this happen?** Because all three ideas are built by **populism**—concepts or philosophies that are populist.
+
+**What is populism?**
+
+Populism comes from **populus** (Latin for "people"). Populism is the philosophy or ideology that **tries to help people, tries to solve people's problems**.
+
+But the key problem with populism is: **it uses people's needs to make politics**. Populism takes what people need and uses it as a **political weapon** to manipulate and control them.
+
+**Populism is not about solving problems—it's about using problems to gain power.**
+
+All three systems—capitalism, communism, and socialism—are built on populist philosophies. They all **use work as a political tool** to control people rather than truly dignifying them.
+
+### The Etymology of Work
+
+To understand how work has been distorted, we must look at the **origin of the word**.
+
+**Work** comes from different roots:
+
+1. **Labor** (Latin "laborare") = to toil, to struggle, to suffer
+   - Related to the idea of **effort, pain, hardship**
+   - This is the root of "labor" in English and many Romance languages
+
+2. **Opera** (Latin) = work, effort, service, exertion
+   - **Opera = the action of creating something**
+   - This is where we get "operate," "operation," "opus"
+   - **Opera is creation, manifestation**
+
+3. **Office** (Latin "officium") = duty, service, function
+   - **Office comes from "opus" (work) + "facere" (to do)**
+   - **Officium = to do the work, to perform the function**
+   - Originally meant: the duty to serve, the function you perform for the community
+
+**The revelation:** The word **office** and the word **opera** come from the same root—**opus** (work as creation, as service, as contribution to the whole).
+
+### Work as Opera vs. Work as Labor
+
+There are **two ways to understand work:**
+
+**1. Work as Opera (Creation)**
+- Work is the **action of creating something**
+- Work is **manifestation of your soul's abilities**
+- Work is **contribution to the collective**
+- Work is **service to the community**
+- Work is **dignification through creation**
+
+**2. Work as Labor (Suffering)**
+- Work is **toil, struggle, pain**
+- Work is **something you must do to survive**
+- Work is **punishment or burden**
+- Work is **competition for resources**
+- Work is **forced by necessity**
+
+**The question becomes:** Are you working as **opera** (creating, serving, manifesting) or as **labor** (struggling, suffering, competing)?
+
+### The Distortion of Office
+
+Today, when we think of **office**, we think of:
+- A building where you work
+- A corporate job
+- A desk, a computer, paperwork
+- 9-to-5 routine
+- Bureaucracy
+
+**But the original meaning of office was:** the **duty to perform your function** for the community, the **service** you offer through your unique abilities.
+
+**Office was meant to be your opera**—your creative contribution, your service, your manifestation in the world.
+
+**Today, office has become labor**—a place of toil, struggle, competition, and survival.
+
+### The Root Chakra Connection
+
+The **Root Chakra** is about **manifestation, matter, action**—doing things here in this reality.
+
+**Work is the primary way we manifest in the material world.** Through work, we:
+- Create physical results
+- Contribute to the collective
+- Use our bodies and skills
+- Ground our spiritual abilities into matter
+- Participate in the web of exchange and contribution
+
+**This is why work is a Root Chakra topic.** It's about **how we ground our being into the world**, how we **manifest our soul's creativity** in physical form.
+
+### The 21st Century Crisis
+
+**We are in the 21st century using 19th-century philosophies.**
+
+All three systems—capitalism, communism, socialism—were created 150-200 years ago for a world that **no longer exists**.
+
+**The world has changed:**
+- We have technology
+- We have global connection
+- We have new forms of exchange
+- We have new understandings of consciousness
+- We have new possibilities for organization
+
+**But we're still using the same old philosophies of work**, the same old systems of economy, the same old ideas of competition vs. cooperation.
+
+**This doesn't work.**
+
+### What Must Change
+
+**Matias is clear:** We don't need to go back to communism systems of the past (which were related to fields and specific situations of that time). Today has changed—it's different.
+
+**We should not go back to old systems.**
+
+**What we have to do is resign/transform the CONCEPT of work**, not the system.
+
+**Resign the philosophies of the system.**
+
+It's not about choosing capitalism vs. communism vs. socialism. **It's about creating an entirely new understanding of what work means**, what contribution means, what creation means in the 21st century.
+
+### Humanism Beyond Systems
+
+Matias shares a personal reflection: Friends say he's very socialist. He responds: "No, I'm the least socialist of all. I'm a **humanist**, which is different—maybe socialism has some things there, but I'm neither capitalist."
+
+**We usually want to classify people into systems.** But the future is not about choosing a system—it's about **humanist understanding** that transcends all these broken philosophies.
+
+**Humanism means:** caring for both the **individual** (their growth, freedom, creativity) and the **collective** (their needs, support, connection)—not through control or competition, but through **conscious co-creation**.
+
+### The Call to Transformation
+
+This teaching is a call to **question everything we've been taught about work**:
+- Why do we work?
+- What is work for?
+- Who benefits from our work?
+- Are we working as opera (creation) or labor (suffering)?
+- Are we dignifying our body, our soul, or both?
+- Are we controlled by populist systems that use our needs against us?
+
+**The Root Chakra asks us to ground our consciousness into matter**—but **consciously**, not as slaves to broken systems.
+
+**Work can be our greatest expression of creation and service**, or it can be our greatest source of suffering and control.
+
+**The choice is ours to make.**
+
+---
+
+## Practice
+
+### Reflection on Your Work
+
+**Sit comfortably and close your eyes. Take deep breaths.**
+
+1. **Ask yourself:** What is my relationship with work?
+   - Do I see work as opera (creation, service, manifestation)?
+   - Or do I see work as labor (toil, struggle, survival)?
+
+2. **Notice your body's response** as you think about your work.
+   - Does your Root Chakra feel grounded and empowered?
+   - Or does it feel constricted and controlled?
+
+3. **Recognize the system** you've been living in.
+   - Have you been competing (capitalism)?
+   - Have you been suppressing yourself for the group (communism)?
+   - Have you been caught in the contradiction (socialism)?
+
+4. **Imagine a new way** of working.
+   - What would it feel like to work as **opera**—as creation, as service?
+   - What would it feel like to dignify both your **body** (through resources and freedom) and your **soul** (through creative expression)?
+
+5. **Affirm:** **"I Am the Home of Universal Children"**
+   - You are the **home** where new possibilities are born
+   - You are the **space** where universal creativity manifests
+   - You are the **ground** where new systems can grow
+
+6. **Ground this into your Root Chakra.**
+   - Feel the earth beneath you
+   - Feel your connection to matter, to manifestation, to physical reality
+   - Know that your work is your **contribution to the whole**
+
+7. **Breathe and return** to the present moment.
+
+---
+
+## Key Insights
+
+- **"Capitalism is the idea that there is one mind that tries to administer all the resources and distribute them according to a strategy."**
+- **"For capitalism, work is the key to dignifying the person to achieve, to have resources, and to administer them by freedom."**
+- **"For communism, work dignifies the soul that is able to create, to manifest, to produce something by its own soul."**
+- **"Capitalism dignifies the body, and communism dignifies the soul."**
+- **"Communism failed because they work for the community but forget the individual—the one willing to expand and grow."**
+- **"Socialism takes the wrong thing from both: trying to control the individual and give freedom to the group."**
+- **"All three systems are built on populism—using people's needs as a political weapon to manipulate and control them."**
+- **"We are in the 21st century using 19th-century philosophies. These systems don't work anymore."**
+- **"We should not go back to old systems. What we have to do is resign the CONCEPT of work, not the system."**
+- **"Office and opera come from the same root—opus—work as creation, as service, as contribution."**
+- **"Work can be opera (creation, manifestation, service) or labor (toil, struggle, suffering)."**
+- **"The Root Chakra is about manifestation—how we ground our consciousness into matter through our work."**
+- **"I'm not capitalist or socialist—I'm a humanist, which is different."**
+
+---
+
+## Integration
+
+### Daily Exercise
+
+**Throughout the day, observe your relationship with work:**
+
+1. **Notice when you feel like you're doing labor** (struggling, suffering, competing)
+   - What thoughts arise? What beliefs about work are you holding?
+
+2. **Notice when you feel like you're doing opera** (creating, serving, manifesting)
+   - What's different? How does your body feel? What shift has occurred?
+
+3. **Ask yourself:** "Am I working to dignify my body, my soul, or both?"
+
+4. **Recognize populist conditioning:**
+   - When do you feel manipulated by the need to work?
+   - When do you feel controlled by economic systems?
+   - When do you feel your work is being used against you?
+
+5. **Practice conscious choice:**
+   - Even in a broken system, can you choose to work as opera internally?
+   - Can you bring consciousness to your creation and contribution?
+   - Can you ground your spiritual understanding into your material actions?
+
+### Applying This Teaching
+
+- **Read the full blog post** at justsoy.red (choose your language) for deeper exploration of work, populism, and the evolution of economic systems
+- **Question the systems** you've inherited without accepting them blindly
+- **Recognize you are the home of universal children**—new possibilities for work and contribution are born through your consciousness
+- **Use your Root Chakra** to ground new understandings of work into your daily life
+- **Remember:** You don't have to choose between broken systems; you can create new ways of understanding work, creation, and contribution
+
+### Capricorn Emotional Week
+
+This is part of understanding how we **use** our emotions and relationships with the material world. Capricorn asks: **"What is this useful for?"** 
+
+Work is meant to be **useful**—but useful for what? For competition? For survival? For control?
+
+Or useful for **creation, service, and the dignification of both body and soul**?
+
+**The choice defines everything.**
+
+---
+
+## Questions for Reflection
+
+### Q: Why do all three systems—capitalism, communism, and socialism—fail?
+
+Because they're all built on **19th-century populist philosophies** that use work as a political weapon to manipulate people. Capitalism only cares for the individual and ignores the group. Communism only cares for the group and suppresses the individual. Socialism tries to balance both but ends up controlling the individual while giving freedom to the group. **None of them truly dignify both body and soul simultaneously.**
+
+### Q: What is the difference between work as "opera" and work as "labor"?
+
+**Opera** (from Latin "opus") means work as **creation, service, manifestation**—the dignification of the soul through creative contribution. **Labor** (from Latin "laborare") means work as **toil, struggle, suffering**—something you must do to survive. Opera dignifies both body and soul; labor creates suffering and competition.
+
+### Q: What is populism and why is it a problem?
+
+Populism comes from "populus" (people). It's a philosophy that **claims to help people and solve their problems, but actually uses people's needs as a political weapon** to manipulate and control them. All three economic systems—capitalism, communism, socialism—are built on populist foundations, which is why they all fail to truly serve humanity.
+
+### Q: If capitalism, communism, and socialism all fail, what's the alternative?
+
+**Not another system, but a transformation of the concept itself.** Matias calls for **resigning the philosophy of work**—not going back to old systems, but creating an entirely new 21st-century understanding of what work means. This understanding must dignify both the **individual** (growth, freedom, creativity) and the **collective** (needs, support, connection) through **conscious co-creation**, not control or competition. He identifies as a **humanist**, beyond all system classifications.
+
+### Q: How does the Root Chakra relate to work?
+
+The Root Chakra is about **manifestation, matter, action**—doing things in this reality. **Work is the primary way we manifest in the material world.** Through work, we ground our spiritual abilities into physical form, create results, contribute to the collective, and participate in the web of exchange. The question is: **Are we manifesting consciously (as opera) or unconsciously (as labor)?**
+
+### Q: What does "I Am the Home of Universal Children" mean?
+
+You are the **home** (the space, the ground, the foundation) where **universal children** (new possibilities, new creations, new systems) are born. You are not bound to the old systems; you are the **birthplace of new understanding**. Through your consciousness and your work, new ways of being, creating, and contributing can manifest in the world.
+
+### Q: Why does Matias say he's a "humanist" rather than capitalist or socialist?
+
+Because **classification into systems is part of the problem.** Being "humanist" means caring for both the **individual** and the **collective** without being trapped in the philosophical frameworks of capitalism, communism, or socialism. It's about **transcending broken systems** and creating new understanding based on what truly serves human consciousness, growth, and dignity—both body and soul.
+
+### Q: How can we practice this teaching in a world still dominated by capitalist systems?
+
+Even within broken systems, you can bring **consciousness** to your work:
+- Recognize when you're being manipulated by populist conditioning
+- Choose internally to work as **opera** (creation, service) rather than **labor** (suffering, competition)
+- Ground your spiritual understanding into material actions
+- Ask constantly: "Am I dignifying my body, my soul, or both?"
+- Be the **home** where new possibilities are born, even if you can't change the external system immediately
+
+**Consciousness transforms work from within, even before external systems change.**
+
+---

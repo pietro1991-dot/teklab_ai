@@ -1,17 +1,35 @@
-# Day 162 - Projects
+---
+title: "Day 162 - Projects"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
+day_number: 162
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
+document_type: "transcript"
+language: "en"
 
-## Metadata
-- **Date:** January 12, 2021
-- **Chakra:** Third Eye
-- **Topic:** Projects
-- **Month:** Capricorn (Dec 22 - Jan 20)
-- **Theme:** MIND 'STAIR' (Emotional Week)
-- **Mantra:** "I Use"
-- **Vibration Code:** Bae
-- **Statement:** "I Am the Home of Conscience"
-- **Cosmic Key:** Pulse
+keywords:
+  - projects
+  - purpose
+  - perception
+  - preconception
+  - past
+  - future
+  - expectations
+  - trust
+  - third eye
+  - Capricorn
+  - emotional week
+
+practice_elements:
+  vibration: "Bae"
+  statement: "I Am the Home of Conscience"
+  chakra: "Third Eye"
+  code: "Pulse. Connected within the rhythm law, the cosmic breathing generates echoes that are perceived as pulses or heartbeats. These pulses are fractalized into thousands, millions—like an infinite gear of universal clocks."
 
 ---
+
+# Day 162 - Projects
 
 ## Summary
 

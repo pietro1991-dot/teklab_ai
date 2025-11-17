@@ -1,230 +1,368 @@
 ---
-title: "Day 228 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 228 - Flow: Moving Between Structure and Current"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 228
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 228
+  - flow
+  - structure
+  - ocean
+  - currents
+  - universe
   - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - consciousness work
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month holding
-  - month holds
-  - month hole
+  - unconsciousness
+  - responsibility
+  - transformation
+  - vibrational wave
+  - circulatory system
+  - awakening
+  - equinox
 
 practice_elements:
-  chakra: "Heart"
+  vibration: "Who"
+  statement: "I Am the Will that Guides"
+  chakra: "Knees"
+  code: "To Believe - recognizing all attributes, all reality originated from a dream, believing is creating"
 
 ---
 
-# Day 228 - Consciousness Work
+# Day 228 - Flow: Moving Between Structure and Current
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
-
-## Introduction
-
-Hello everyone. Good morning , good afternoon , good evening to all of you who are there around the network. You see , there are many here.
-
-So as you see , there are not all people because we wake up early in the morning.
-
-So at 4am we go to the pyramid.
-
-So we have only a few hours to rest. Can you hear me?
-
-So we are outside in the garden in the other side. There 's a wedding , so there 's many things going on. And we are really close to the streets right now.
-
-So I do n't know if you can hear the mess. But I hope you can hear me closely.
-
-So I will try to go to the point , which is very difficult for me , of course , in Argentina. But today , since the early morning , I 've been doing all the things and speaking so much that I could n't really rest.
-
-So I 've been on the time I had was to ride the post for today. And I have a few hours to sleep only.
-
-So let 's go into this.
-
-So I just remind you that tomorrow , between 5am and 7am , we are going to be there 144 in the three pyramids at the same time.
-
-So remember , if you want to be connected with us , just think and mediate about the 104 and 44 aspects of the universe.
-
-Remember that 144 is this concept of the one being the oneself divided in many different parts , which is 104.
-
-So you can just take that in your mind and connect to the pyramids.
-
-So I will remind you this tomorrow , but remember that tomorrow around midday in each of it is the equinox of spring or the north. And the equinox of autumn for the south.
-
-So just think that I dead your mind because it 's a moment , a special moment , that starts something new to so new seats for a new time.
-
-So as every year , of course.
-
-So it 's good that we are going to do this. The first activation pyramids during the morning of the eponym.
-
-So today we are going to speak about the topic , which is for me one of the ones I love the most because it 's the one I use every day when I do n't know what to talk about , which is to flow.
-
-So this topic is related to the chara of the niece.
-
-So for most of their signs , this chara is related to the structure is related to the past , all the movement that we do in order to move forward towards the future.
-
-So it 's more related to the patterns , the pillars and those kind of structures. But for the month of pieces , of course , this movement should be by flow.
-
-So this is why our topic for today is flow.
-
-So the concept of flowing is very important in our spiritual awakening and you have heard this word for sure a lot during this process. Because we understand that the universe is like this vibrational wave , a constant vibrational wave that in which we are moving and like in this kind of waves.
-
-So if the entire universe is like this , this means that if we want to be connected to the universe , we also have to move like that.
-
-So stars start to flow , start to move flowing with the movements of the universe. This idea represents the real connection to the proper flowing of the universe , the movement of the vibrational movement of the universe.
-
-So remember that once I explain the universe as if it is an ocean and in the month of pieces , we have to take it really present. The whole universe is like this ocean that like this ocean that whole within many different types of water and that holds all this kind of currents.
-
-So for example in our planet , the currents of the oceans , I created because of the hot or cold pressures of the atmosphere. But that it is currents in the oceans and also because of orioles effect which is the spinning of the earth that also makes this movement of the oceans.
-
-So that we had explained once that even if we see the whole water as one ocean , the ocean is holding many different types of of waters like there is there are deserts in the middle of the oceans where nothing leaves. There are currents , there are seas , there are different types of waters in the different oceans.
-
-So we can call in this relation with the universe , we can call the entire ocean like the sub-conscious. We have the currents of positive and negative that we call the unconscious and then we have the animals that swim in those currents that are related to the conscious.
-
-So in this waters in this ocean , we have different types of waters that are some of them still like the move and we have in the other hand currents that are constantly moving.
-
-So billions of years ago when life was still ready to leave on the surface of the continents , all the living beings we used to live in the oceans.
-
-So through billions of years we have been kind of designed to use these currents to migrate , to look for food , to escape from weather change and so many things.
-
-So all the animals in the oceans got used to use these currents so they could travel along the world and spread along the world.
-
-So we all have within this idea of this flow of this current that helps us to move along and not only in the oceans but also then with the scorer that in the rivers.
-
-So basically this is related also in our subconscious like we have places where we can stay still where we can populate and other places where we can only move through.
-
-So this process is not only something that you can relate to the animals involving the oceans but also you can relate to the inner world , the microcosm where in the circulatory system.
-
-So through the veins through the arterial through the emphatic system all the waters of the body are flowing constantly through the blood and the lymph.
-
-So basically in our inner body we have this system of distribution that is flowing constantly. And the system of distribution is flourishing the cells which are these blocks that creates the structures , the patterns that fall all information.
-
-So because of this we can understand that in the entire universe , the microcosm exists these systems of flowing and the systems of structure.
-
-So in the entire universe the system of structure is the one that helps to manifest the ideas to have to create a reality. While the flux system is the one that helps to connection between the structures and the connection between the structures and that help to tourism in the evolution.
-
-Okay to improve with the information. As humans we have been using the system of structures a lot because of our fear to death. We do n't want to die so we started to attach ourselves to the structures that we create. The beliefs in our mind , the feelings in our emotions in our soul , the attitudes in our body.
-
-So we keep these traditions. We give these traditions. We do all what we do according to the systems that makes us feel secure.
-
-So that 's why we have been this past centuries and a few thousands of years living in this kind of structure system in which we attach to what we create.
-
-So through the process of awakening when we start to be aware.
-
-So we start to be there 's a wedding I told you.
-
-So pay attention to me. Through this process of awakening we start to realize that. We need to set ourselves free from those systems. We need to let these structures away if we want to transform to evolve to set ourselves free from the matter.
-
-And we start to look for different ways to heal our. To transcend our beliefs to transcend the all emotions to transcend the attitudes that that kills us and that pulls us back. When we are trying to do all the time , we do to set ourselves free.
-
-So this is why we in the path of setting ourselves free from the structures. We create the idea of flow as a way to escape from the structures. And we use the concept of the flowing.
-
-So we can get away to go away from the structures that we have created.
-
-So when we. When we. Try to. When we start to get out from the system of structures.
-
-We immediately as humans try to go to the opposite against.
-
-So we go against this in which in which way. We create the flow as something opposite to structure.
-
-So we start to say I flow I do n't care I just flow and I do n't it does n't matter and so on.
-
-So when we do that it 's like basically living in the current. It 's like all the time living flowing in this current. And what 's the problem with this that in the current you can only move and trust us information. Look for a better place with a better ground more fertile for my manifestations for my own projects.
-
-But if I never stop if I constantly flow so I will be never able to manifest anything. I will just be moving around.
-
-So when you leave your life through just flowing while what happens is that you do n't take any decision. You leave through the current and the current is the consciousness.
-
-So consciousness means that everyone. It 's ruling your direction. That the environment is the one that is pushing you to where to go.
-
-Okay , so you are basically relating all the decisions that you do to the group to the entire and just let yourself go not taking any decision.
-
-So basically living your entire life through just flowing against the systems. What happens to you is that you become an irresponsible. And you become irresponsible because you do n't take response to your own actions.
-
-Okay , you are just letting the others to move you.
-
-So in the other hand , what happens to us is that what happens to us is that if we get attached to the systems to the structures. We are not going to be able to transform ourselves into something transcendental.
-
-So we are not going to be able to improve to evolve.
-
-So we need to learn how to flow. How to flow it means to move ahead to let ourselves open to new possibilities. Not expecting anything.
-
-So just letting you go to new virtual terrain. And open yourself to receive whatever is coming. But remember , you have to learn to flow in order to allow yourself to transform. But if you rely all your life to transformation through flowing , you will never be able to manifest.
-
-So remember this that in order to flow properly , we have to become aware to become conscious of what is it is to flow. To flow is not to lay our life to the transformation. To flow is to understand that we build something. And when we are lack of tools in that space that we have that we created , we have to learn ourselves to lead.
-
-I let ourselves to flow to let it go to.
-
-So we can reach a new place is where we can build something new transcendental from before.
-
-So flowing is not a way of life. Flying is a tool of movement.
-
-Okay. If we let our lives in the hands of flow , we will never be responsible for our own reality. But if we do n't let ourselves to flow , we will always attach to the old structures and never evolve.
-
-## Daily Practice Elements
-
-So remember to flow with consciousness. If consciousness is not to let the others to move me towards a place , but to use the energy of the others to move me towards where I am heading to. The vibration for today is who the statement for today is I am the will that guides. The code for today is to believe.
-
-By awakening the inner wisdom , I recognize that all my attributes were always me and that I am the cosmos that I am and that everything originated from an idea that all reality and process was a dream. And that in my mind lay all the possibilities , the infinite potential beyond all the tools that now I know about. For all that the last attribute I 'm waking is believing. That takes us to the subconscious mind to the eternal dream and the divine being where believing is creating.
-
-So let 's go to the lineman.
-
-So we see comfortable , closer eyes and concentration of breathing.
-
-So let 's go to the lineman.
-
-So let 's go to the lineman.
-
-So let 's go to the lineman. Take a deep breath and allow yourself to feel all the energy that goes through your entire body. Feeling the heat and the cold in every part of the body. I perceive how this energy this flow moves towards through each one of the organs and muscles.
-
-From my atoms through myself. All this energy goes through every arterial and vein towards my heart. I feel all these emotions born from this heart and cold get united in the center of my heart.
-
-So I take deep breath. I can feel how all this energy from heart expands towards every direction. I can keep my body , extend , resolve , start to flow like clouds. Expanding in the universe.
-
-I feel the energy that goes through my heart. I recognize that here and now my being is a construction structure. We are able to build the flow of entire universe. The flow of the constant flow of time and the constant flow of space.
-
-I become aware now that I would n't be able to exist without the structure and I would n't be able to exist without the flow. I am the unity in this constant flow of the cosmos. I am the common aware that I am this flow. I set the intention to activate the will to guide myself , to guide this flow towards my intention.
-
-I am the one that guides my flow. Take any breath. I activate this flow. I am the one that guides my flow.
-
-I am the one that guides my flow. I am the one that guides my flow. I am the one that guides my flow. I am the one that guides my flow.
-
-I am the will that guides my will that guides. I believe in this is how I create. I am the one that guides my flow. Take a deep breath and start to bring this consciousness to each part of your body.
-
-I am the one that guides my flow. I am the one that guides my flow. Thank you.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Knees
+- **Week Theme:** Pisces Physical Week
+- **Main Topic:** Flow, Structure, Conscious Movement
+- **Vibration:** `Who`
+- **Statement:** `I Am the Will that Guides`
+- **Code:** To Believe - by awakening inner wisdom, I recognize that all my attributes were always me, that I am the cosmos that I am, that everything originated from an idea, that all reality and process was a dream, and that in my mind lay all the possibilities, the infinite potential beyond all the tools I now know. For all that, the last attribute I'm awakening is believing, which takes us to the subconscious mind, to the eternal dream and the divine being, where believing is creating.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Speaking from Egypt on the day before the spring/autumn equinox, Matias addresses one of his favorite topics: flow.
+
+Tomorrow (Day 229), the 144 gathered in Egypt will be in the three pyramids simultaneously between 5am-7am, activating the 144 aspects during the equinox—a moment that starts something new, sowing seeds for a new time.
+
+Today's teaching clarifies a common spiritual misunderstanding: flow is not the opposite of structure. Both are necessary. The key is learning to flow with consciousness, not irresponsibility.
+
+---
+
+## The Universe as Ocean
+
+### The Vibrational Wave
+
+The concept of flowing is very important in spiritual awakening. We hear this word constantly because we understand the universe as a vibrational wave—a constant vibrational wave in which we are moving, like waves.
+
+If the entire universe moves like this, it means that to be connected to the universe, we also have to move like that.
+
+We must start to flow, to move flowing with the movements of the universe. This represents the real connection to the proper flowing of the universe, the vibrational movement of the universe.
+
+### The Ocean Metaphor for Pisces
+
+In the month of Pisces, we must keep very present the idea that the whole universe is like an ocean—an ocean that holds many different types of water and many different currents.
+
+For example, on our planet, ocean currents are created because of hot or cold pressures of the atmosphere. But there are also currents in the oceans because of the Coriolis effect—the spinning of the Earth that makes the oceans move.
+
+Even if we see the whole water as one ocean, the ocean holds many different types of waters:
+- Deserts in the middle of oceans where nothing lives
+- Currents that move constantly
+- Seas with different characteristics
+- Different types of waters in different oceans
+
+---
+
+## Subconscious, Unconscious, and Conscious
+
+### Three Levels of the Ocean
+
+We can relate the universe to this ocean metaphor in three levels:
+
+1. **Subconscious** = the entire ocean
+2. **Unconscious** = the currents of positive and negative
+3. **Conscious** = the animals that swim in those currents
+
+In these waters, we have different types:
+- Some waters are still, where we can stay and populate
+- Other places have currents that are constantly moving, where we can only move through
+
+---
+
+## Billions of Years of Using Currents
+
+### Evolution in the Ocean
+
+Billions of years ago, when life was not yet ready to live on the surface of continents, all living beings lived in the oceans.
+
+Through billions of years, we were designed to use these currents to:
+- Migrate
+- Look for food
+- Escape from weather changes
+- Travel and spread along the world
+
+All animals in the oceans got used to using these currents so they could travel along the world and spread.
+
+We all have within us this idea of flow, of current, that helps us move along—not only in the oceans but also in the rivers.
+
+### Inner Ocean: The Circulatory System
+
+This process relates not only to animals in oceans but also to the inner world, the microcosm, where we have the circulatory system.
+
+Through the veins, the arteries, the lymphatic system, all the waters of the body are flowing constantly through the blood and the lymph.
+
+In our inner body, we have this system of distribution that is flowing constantly. The system of distribution nourishes the cells, which are the blocks that create the structures, the patterns that hold all information.
+
+---
+
+## Structure and Flow: Two Systems
+
+### Both Are Necessary
+
+In the entire universe and microcosm, there are two systems:
+
+1. **System of Structure** - helps to manifest ideas, to create reality
+2. **System of Flow** - helps connection between structures, helps transformation and evolution, improves information
+
+### How Humans Use Structure
+
+As humans, we have been using the system of structures a lot because of our fear of death.
+
+We don't want to die, so we started to attach ourselves to the structures we create:
+- Beliefs in our mind
+- Feelings in our emotions, in our soul
+- Attitudes in our body
+
+We keep these traditions. We pass these traditions. We do everything according to systems that make us feel secure.
+
+This is why we've been living the past centuries and thousands of years in this kind of structure system—attaching to what we create.
+
+---
+
+## The Awakening Process
+
+### Setting Ourselves Free
+
+Through the process of awakening, when we start to be aware, we realize:
+
+We need to set ourselves free from those systems. We need to let these structures go if we want to transform, to evolve, to set ourselves free from matter.
+
+We start looking for different ways to:
+- Heal ourselves
+- Transcend our beliefs
+- Transcend our emotions
+- Transcend the attitudes that kill us and pull us back
+
+### Creating Flow as Escape
+
+In the path of setting ourselves free from structures, we create the idea of flow as a way to escape from structures.
+
+We use the concept of flowing so we can get away from the structures we've created.
+
+---
+
+## The Problem with "Just Flowing"
+
+### Going to the Opposite Extreme
+
+When we start to get out from the system of structures, we immediately as humans try to go to the opposite extreme.
+
+We create flow as something opposite to structure.
+
+We start to say: "I flow. I don't care. I just flow and it doesn't matter."
+
+### Living Only in the Current
+
+When we do that, it's like living in the current all the time—constantly flowing in this current.
+
+What's the problem with this?
+
+In the current, you can only move and transfer information. You look for a better place, better ground, more fertile terrain for manifestations and projects.
+
+But if I never stop, if I constantly flow, I will never be able to manifest anything. I will just be moving around.
+
+### Becoming Irresponsible
+
+When you live your life through just flowing, what happens is you don't take any decision. You live through the current, and the current is the unconsciousness.
+
+Unconsciousness means everyone is ruling your direction. The environment is pushing you where to go.
+
+You're relating all decisions to the group, to the entire, and just letting yourself go, not taking any decision.
+
+Living your entire life through just flowing against systems makes you become irresponsible.
+
+You become irresponsible because you don't take response to your own actions. You're just letting others move you.
+
+---
+
+## The Balance
+
+### Structure Without Flow
+
+On the other hand, if we get attached to systems and structures, we will not be able to transform ourselves into something transcendental.
+
+We will not be able to improve, to evolve.
+
+### Flow With Consciousness
+
+We need to learn how to flow.
+
+How to flow means:
+- To move ahead
+- To let ourselves open to new possibilities
+- Not expecting anything
+- Letting yourself go to new, more fertile terrain
+- Opening yourself to receive whatever is coming
+
+**But remember:** you have to learn to flow to allow yourself to transform.
+
+But if you rely all your life on transformation through flowing, you will never be able to manifest.
+
+---
+
+## Flow as a Tool, Not a Way of Life
+
+### The Proper Understanding
+
+To flow properly, we have to become aware, to become conscious of what it is to flow.
+
+Flow is not to leave our life to transformation.
+
+Flow is to understand that:
+1. We build something
+2. When we lack tools in that space we created
+3. We have to let ourselves flow, let it go
+4. So we can reach a new place
+5. Where we can build something new, transcendental from before
+
+### Flow Is Movement, Not Lifestyle
+
+**Flowing is not a way of life. Flowing is a tool of movement.**
+
+If we leave our lives in the hands of flow, we will never be responsible for our own reality.
+
+But if we don't let ourselves flow, we will always attach to old structures and never evolve.
+
+### Flow With Consciousness
+
+Flow with consciousness.
+
+Consciousness is not to let others move me toward a place, but to use the energy of others to move me toward where I am heading.
+
+---
+
+## Practice
+
+Sit comfortably. Close your eyes. Concentrate on breathing.
+
+Take a deep breath. Allow yourself to feel all the energy that goes through your entire body. Feel the heat and the cold in every part of the body.
+
+Perceive how this energy, this flow, moves through each one of the organs and muscles, from your atoms through yourself.
+
+All this energy goes through every artery and vein toward your heart. Feel all these emotions born from heat and cold unite in the center of your heart.
+
+Take a deep breath. Feel how all this energy from heart expands toward every direction. Your body extends, dissolves, starts to flow like clouds expanding in the universe.
+
+Feel the energy that goes through your heart.
+
+Recognize that here and now, your being is a construction, a structure. You are able to build the flow of the entire universe—the constant flow of time and the constant flow of space.
+
+Become aware now that you wouldn't be able to exist without the structure, and you wouldn't be able to exist without the flow.
+
+You are the unity in this constant flow of the cosmos.
+
+Become aware that you are this flow. Set the intention to activate the will to guide yourself, to guide this flow toward your intention.
+
+**I am the one that guides my flow.**
+
+Take a deep breath. Activate this flow.
+
+Sound the vibration **Who** from your knees.
+
+**I am the will that guides. I am the will that guides.**
+
+**I believe. This is how I create.**
+
+**I am the one that guides my flow.**
+
+Take a deep breath and start to bring this consciousness to each part of your body.
+
+---
+
+## Key Insights
+
+- The universe is a vibrational wave; to connect with it, we must learn to flow.
+- The ocean metaphor: subconscious = entire ocean, unconscious = currents, conscious = animals swimming.
+- Life evolved using ocean currents to migrate, find food, and spread—we have this flow instinct within us.
+- The circulatory system is our inner ocean, flowing constantly to nourish the cells (structures).
+- Two necessary systems: structure (manifests reality) and flow (connects structures, enables evolution).
+- Humans attach to structures (beliefs, emotions, attitudes) because of fear of death.
+- Awakening means setting ourselves free from rigid structures.
+- The mistake: making flow the opposite of structure, living only in flow.
+- Living only in flow means never stopping to manifest, just moving around without responsibility.
+- When you "just flow," the unconscious (everyone else) rules your direction—you become irresponsible.
+- Flow is a tool of movement, not a way of life.
+- Proper flow: build something, when lacking tools let go and flow to new fertile ground, build again transcendentally.
+- Flow with consciousness means using others' energy to move toward where you are heading, not letting them move you randomly.
+
+---
+
+## Integration
+
+Today, examine your life. Are you:
+- Too attached to structures (rigid, unable to change)?
+- Too focused on flow (never manifesting, irresponsible)?
+- Balanced (building, then flowing to new ground, then building again)?
+
+Practice conscious flow: when you feel stuck in a structure that's no longer serving you, consciously choose to flow. But know where you're flowing toward. Use the current to reach new fertile ground, then build again.
+
+Don't let others move you. Use their energy to move yourself toward your intention.
+
+---
+
+## Week Context
+
+We are in the Physical Week of Pisces, learning to work with the body's relationship to flow and structure.
+
+The knees (today's chakra) are literally where we bend, where we flow. They allow us to move, to walk, to transition. Rigid knees cannot flow; locked knees cannot walk.
+
+Tomorrow is the equinox—a perfect day for the 144 to activate in the pyramids, for it's a moment of balance between structure (Earth's orbit) and flow (seasonal change).
+
+---
+
+## Q&A
+
+### Q: How do I know when to flow and when to build structure?
+
+When you feel stuck, when tools are lacking, when transformation is needed—flow. When you find fertile ground, when ideas want to manifest, when you have energy to create—build structure. It's a rhythm, not a choice between one or the other.
+
+### Q: Isn't "just flowing" spiritual freedom?
+
+No, it's spiritual irresponsibility. True freedom is conscious choice. Letting the current move you isn't freedom—it's unconsciousness. Freedom is using the current to go where you choose.
+
+### Q: What if I don't know where I'm heading?
+
+Then use flow to explore until you find direction. But don't mistake exploration for a lifestyle. Even exploration needs moments of structure (pausing to integrate what you've learned).
+
+### Q: How is this different from attachment vs. non-attachment?
+
+Attachment is clinging to old structures that no longer serve. Non-attachment is being able to flow when needed. But non-attachment doesn't mean never building—it means building without clinging.
+
+### Q: Can I flow and build simultaneously?
+
+Yes, like the circulatory system—constantly flowing while maintaining structure. The blood flows, the veins provide structure. The ocean currents flow, the seabed provides structure. Flow and structure dance together.
+
+### Q: What does "guide my flow" mean practically?
+
+It means: "I choose the direction. I use the energy available (from others, from circumstances) to move toward my chosen direction." You're the captain using the wind, not a leaf blown by the wind.
+
+---

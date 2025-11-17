@@ -1,17 +1,36 @@
-# Day 163 - Aid
+---
+title: "Day 163 - Aid"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
+day_number: 163
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
+document_type: "transcript"
+language: "en"
 
-## Metadata
-- **Date:** January 13, 2021
-- **Chakra:** Throat
-- **Topic:** Aid (Help)
-- **Month:** Capricorn (Dec 22 - Jan 20)
-- **Theme:** MIND 'STAIR' (Emotional Week)
-- **Mantra:** "I Use"
-- **Vibration Code:** Be
-- **Statement:** "I Am the Home of Truth"
-- **Cosmic Key:** Web
+keywords:
+  - help
+  - aid
+  - support
+  - learning
+  - teaching
+  - capitalism
+  - communism
+  - cooperation
+  - competition
+  - freedom
+  - throat chakra
+  - Capricorn
+
+practice_elements:
+  vibration: "Be"
+  statement: "I Am the Home of Truth"
+  chakra: "Throat"
+  code: "Web. The interconnected network of relationships and exchanges that form the fabric of existence, where help flows as teaching and learning, creating freedom through shared knowledge."
 
 ---
+
+# Day 163 - Aid
 
 ## Summary
 

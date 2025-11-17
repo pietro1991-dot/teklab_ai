@@ -1,348 +1,658 @@
 ---
-title: "Day 174 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 174 - Economy"
+author: "Matias de Stefano"
+series: "365 Days The Path Of I Am"
 day_number: 174
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 174
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - vibrational practice
-  - energetic alignment
-  - consciousness work
+  - economy
+  - oikos nomos
+  - home distribution
   - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hold
-  - month hole
+  - circulatory system
+  - giving and receiving
+  - value
+  - strength
+  - money
+  - rich vs poor
+  - power
+  - fertility
+  - debt
+  - abundance
+  - service
+  - calcium
+  - emotional economy
 
 practice_elements:
+  vibration: "DHi"
+  statement: "I Am the Essence of Love"
   chakra: "Heart"
+  code: "Economy is the distribution of resources in the home. Just as the heart circulates blood to every organ according to need, true economy is organic circulation—not accumulation, but flow."
 
 ---
 
-# Day 174 - Consciousness Work
+# Day 174 - Economy
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias de Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
-
-## Introduction
-
-Hi everyone , good morning , good afternoon , good evening.
-
-So , I hope you are all good.
-
-Today , well , right now , I am in the boat. I am in the , we are parked , I do n't know how to say it in the boats thing , language , but I am parked in the port of Espa.
-
-So , maybe if you listen some noises , city noises is because we are right by the city. It 's not dark here , but I do n't know why you maybe see me like in darkness. I kind of find the right light yet.
-
-So , that 's it. Just one point that I wanted to say about yesterday when we were speaking about the location and I forgot to say about this is that we are here learning in a process of learning and teaching. And because of this , we have two ways of doing this process of understanding. One is the location and the other one is teaching.
-
-Both of them are good if we are working in the consciousness. Because teaching is to show in you things and education is to allow in you to look the answers by yourself.
-
-So , both of them are good. The problem with the teachings today in education is that they usually say this is the truth and you have to learn about it.
-
-So what we are trying to do here is to teach because I am teaching things , I am sharing things with you. And to educate in order in the moment when I say now you look to your own answers and do your own things. Because to teach from the consciousness would be me saying this what I am saying is the truth and that 's only truth. And from the consciousness would be this is my truth and with this that I share do whatever we want.
-
-Okay , so there would be the different ways of teaching and education which are not bad or good as always is the opinion on how we share from where do we do it.
-
-Okay , so let 's begin with this concept of economy. Many humans usually think that the heart is something related with the spiritual but it 's not exactly like this even though the heart is spiritual. The the spiritual key of the heart is given and receiving.
-
-Okay , so from that point of view the heart is the one that gives and receive the resources that we have in our body which is the circulatory system sharing the blood to every organ , sharing the blood to every muscle. It helps the body to work.
-
-So that 's why the spiritual economy is to try to have balance distributing this resources throughout the whole body that we call home.
-
-So that 's the origin of the name economy. The economy comes from the Greek or because that means home house and names that means distribution.
-
-So this is the administration of the home.
-
-So we will try to see this economy concept from two point of view. One is the energy to one and the other one is the physical one.
-
-So we will go to the physical one because it 's the one that we understand the most.
-
-So once again we have this physical aspect that we 'll also divide into. One of them will be the biological organism , the organic and biological aspect and the other one will be the biological cultural aspect of the economy.
-
-So let 's go first into the biological organic concept of economy. As I said before we have the example for this in the heart.
-
-So the heart for us is like this organ that stimulates the distribution of the blood. The blood is created in the bones and then from the bones is started to move through the veins and the arteries through the heart.
-
-So the heart is pushing the blood all around the body in the circulatory system. Everything in nature needs to be distributed.
-
-So it needs to move around constantly , okay? All the things around.
-
-So every organ knows when needs something. Every organ at the ministry it 's own use of blood according to the day and the action that is taken. For example , the the stomach , the intestines when you eat every day , they need to rest. They need to , sorry they need to work.
-
-So they need a lot of blood to make the work going on.
-
-So that 's why the rest of the body , the blood that usually is in the head and other parts of the body , they all go to the intestines and the stomach to work in the digestive system. But once the digestion ends , all that blood starts to distribute again along the body. Also happens in the sexual relationship when you have all the blood in your genitals , okay? And then again when you release , it starts to spread all over again.
-
-So the key of the organic economy is that every organ is sharing the resources whenever they need it. Not because they expect to have it all for themselves.
-
-So there 's no organ that wants to have naturally the whole blood , okay? Naturally the body is distributing , helping to circulate this blood all around the body.
-
-So the key for this system is circulatory. That is the key of the natural economics. And for the mind is a little bit different.
-
-So let 's go into that. In the other path of the evolution , we have the cultural biology. The cultural biology is talking about our history as humanity.
-
-So from the first moment that we started to be these humans that expanded into the world and started to to understand the reality from the point of view of cultures , from the point of view of civilizations , everything that we have created was only for three things. The same three things that we all share in the animal kingdoms , which is to eat , to reproduce and to sleep. Those are the only three things that all of us in all the animal kingdom and everything that we as humans have created it was about. Only three things.
-
-The difference of us as a species decides all the rest of the animals in the animal kingdom is that we evolve through consciousness , through intelligence , through imagination using our mind.
-
-So because of this we created these species that we call humans. And that 's the only difference. But the rest of it is just three things. Just eating , reproducing and sleeping.
-
-We just evolve in our minds to solve these three problems.
-
-So remember , as humans develop these systems through the mind , to try to solve these three main problems that nature has for all of us. And the way we do it is by being in hurts. We work all together as groups. We share one another and we create these links , emotional links to hold us together.
-
-We start to create the religions , the cultures , all the different concepts that we already spoke about. But everything because we needed to eat , we needed to survive by sharing food.
-
-So this concept of sharing food is to distribute what we have hunt , what we have harvest and collect it in the trees , to share it with the members of the family. Where , in a cave , in a home.
-
-So here comes the first concept of economy , which is to distribute what we have accomplished to get. And then when we start to be sedentary as a civilization , we also administrated the rest that we had after we ate. Why? Because we need to survive the winter or the drop.
-
-Depending on the part of the planet where you live.
-
-So we took all that. And we started to administrated this food so we could survive the winter.
-
-So here comes the first concept of economy , which is to share food. Here comes the moment when once we have the food , we need to solve the other conflict which is to sleep. And to sleep is to be safe to feel that we can rest. Sleep is not something easy.
-
-For us today , maybe it 's easy because we have house. But in that moment to sleep was one of the most difficult things. We needed to sleep in order to get energy. We need to sleep to do that.
-
-But in that moment , anything could kill you.
-
-So someone , someone must protect you from everything. And who is the one that would protect you the strongest one? The one that has strength.
-
-So that one is the most valuable person. That 's why in European languages , to those people that were hunting , that were collecting that has strength to protect the herd was called the well. Well , value , sorry , well , is the origin of the word value. But the meaning is strength force.
-
-So the one that is strong is the person that has value.
-
-So this is how we started to create the concept of the value of things. The value of getting something.
-
-Something has a value because someone did something with strength to get that. This way is how we start to see how the system creates a scale of values.
-
-So we have the next level , which is , once we accomplished to have the sleeping and eating , sometimes we would have a lot of things. But we will be in a lack of another things.
-
-So we need to start to share with other people.
-
-So in this exchange , we create this new system of economy , which is exchange with other families. And here comes when we solve the reproduction and which is the transcendence of the family. Reproduction and production , which is , remember a few days ago , we spoke about the person that sale vegetables and the butcher.
-
-So both of them with the son , with the daughter , they got together. And with the baby , they united the whole family. Well , those people in order to get to that , they needed to exchange to share wealth , to share things. That 's the exchange.
-
-What happened when these two families get together and more families starts to get together , they create a civilization.
-
-So this civilization starts to grow and grow grow.
-
-So what happened with this civilization? That suddenly we have everything that we need. We do n't have lack of anything because we are all family. We share everything that we have.
-
-But what happened if we need something different , but the other person says , no , I can not exchange anything else with you because I have everything.
-
-So , so if you want to change something that I already had , so what 's the point?
-
-So here comes the moment in which someone really clever said , what if this weight that we were sharing of the things because the way in which we shared things , it was through the weight of the things.
-
-So what if we take the weight of something that we can not eat and we can not use for anything else , then just exchanging.
-
-So they created they took the minerals from the mountains and they said , okay , now we have something that we can exchange with no need to give wealth from our farms. And that 's how money has been created. The coins.
-
-So we started to change many minerals. The gold bronze , silver , diamonds , everything. But most of all , the salt. Why the salt?
-
-Because salt was useful for everything. Salt was so important for the food to heal the medicine for the wounds , for the storage element , meals. Salt was good for many things.
-
-So that 's why in the first moment they exchange salt as a way of payment because it was used for everyone. It was useful for everyone. And that 's why they started to call the payment to the people like salary that comes from salt. That 's why the salt was so useful.
-
-So now let 's understand this that remember that the salary was something really valuable because because everyone used it.
-
-So it was good. But they saw that it was very common and easy to get. And this is why they said that they started to look for minerals that were more difficult to get like gold like silver. And why these things has more much value.
-
-It 's not because the thing has value by itself. That 's in our minds. The value of things , as I was saying , this does n't have any value. This is just a paper.
-
-Value is strength , is force.
-
-So remember this. Force , strength , strength , value is what you have to work the hardest to get. And to get gold and silver is very difficult.
-
-So a lot of people had to work really hard to get the gold and the silver. This is why the gold and the silver has so much value. Because in the ancient times you had to work very hard to get it.
-
-So that 's why we give value to the things. It 's not the things itself is how hard it is to get it.
-
-So this does n't have value. This has the value of what I did in order to get it. Hmm.
-
-So this is how all the systems of creating coins , money , expand , expand through the world. Not because this has a value , but because this represents value , represents the value of the things that we do. Hmm.
-
-So we are still in the cultural biology.
-
-So now pay attention to this. In the ancient times they said , who has much more power and strength in the creation? No human at all. That one that has the power is that people from the heavens.
-
-Is the people from the sky? God.
-
-So that person that divine is the one that has the real power.
-
-So that 's why the priests and the kings and queens and priestess were the ones that had to have much more gold and much more silver because they had the power.
-
-Okay. You understand where I go? It 's because the strongest one has much more value. And the value is God.
-
-So this creates a pyramidal structure of of ref money , okay , of the gold and the silver that says the power is in those who are in the top. The king , the priest , the king , the priest , the king , the one that is on the top of the pyramid , is the one that rules that reign. That has the kingdom by the right of God.
-
-Okay.
-
-So so this is the origin for example of the word realm , realm , which in ancient languages from the north of Europe was called the rake. Rake is the one that has the right , which in Latin is a rake , which is to rule , okay. And in northern languages , rake , the one that has the power , okay. And that 's the origin of the word rake.
-
-So the people that is rich , the people that is rich , are the ones that has the power of God , like the king , is not the one that has the money. Talking about the divine , talking about the divine and how the system was created through the power of God. What we have created through the story , through the history is the idea that the one that has the rich people were never looking for money. The rich people look for power , okay.
-
-So remember , this thing does n't have power. This things come with power.
-
-So if you lose your power , you do n't have this. That 's why the rich people represent power , not money.
-
-So remember this , that for us , the common people , the common people , we believe that this has the power , that the money has the power , but money has no power. We believe that money is the one that creates corruption in people. Money is not corruption people. Is the power which is an illusion that corrupt people?
-
-It 's not the money.
-
-So now I will speak for the people that says that money is the one that corrupt , that money is is wrong and I hope money ends.
-
-So let 's just make this example. We have money and someday we all say let 's get rid of the money and just throw it away. We are free. We do n't have any more money.
-
-So we are free from the corruption and all the things.
-
-So now we have to change force. How many of you want to fork?
-
-So now you say if you do n't have a fork , you wo n't be able to eat because the only way you can eat is with a fork.
-
-So whoever has a fork is the best , how many of you want fork?
-
-So money is not the guilty of our capacity as humans. It 's not the one to blame for our anchor here. What is the real conflict here? It 's power.
-
-What is power is rectitude? It 's to be in the center. It 's to be coherent with yourself. It 's to know who you are and to know what you have.
-
-If you know what you have , you do n't eat anything outside. But if you do n't know who you are and you do n't know what you have within , you will look for things outside until you try to reach who you maybe are. I took it from the Arab side. Let 's go to this now.
-
-Let 's look for one. More new and this one. Whoever has 200 is rich. Whoever has 10 is poor.
-
-Let 's try to get into what is poor and what is rich. In order to understand one of the greatest Trump 's Trump 's , I do n't know how to say it , of the current world.
-
-So what is rich? Rich is the one that has the power because it 's commanded by the higher power of the divine.
-
-Someone that is rich does n't need money because has power. Before making some opinion , just wait for the whole explanation , please. Rich is the one that is aligned with its own power and it 's aligned with the divine. Poor comes from the topology paper in Latin that means with a lack of fertility.
-
-Someone that has not power. These are the two original concepts of the word rich and poor. We used to say that the poor people is unsure. It has a lack of fertility because they were working the fields.
-
-Whoever does n't grow anything in the fields , they are unsure. Or maybe they did n't work for this.
-
-So they do n't have fruits. The rich was considered the one that was aligned with the divine with the divine test.
-
-So when the civilization starts to grow and go on , there are some poor that get a lot of money. But the program still is poor. They are poor in Seoul , but they have lots of money , the new rich. And others that still are rich but has less than this one.
-
-So what happened with this new rich and the other one that was rich before? That this one starts to look for more because it has a lot of power of inner power.
-
-So it wants more and more.
-
-So what it does is to say , hey , do n't worry if you have a lack of something. I will share with you. I will give you something. But then you will have to give it to me back at the end of the year.
-
-That 's the first debt.
-
-So this is how they start to get a false power and this one starts to consider them themselves poor.
-
-So here comes the origin of the ones that give loans to people like a bank that store resources to share and to transfer it to hold it. But remember who were this ones? Where the poor , the poor people that started to accumulate more and more and they wanted more and more.
-
-## Q&A
-
-So what happened with this system that this new rich people started to create the idea that money is that that if someone needs something you just have to ask for it and I will give it to you. The church , the state , they start to give to the poor and they say , hey , it 's good to be poor. You just ask whatever you need and we are in service. Money is not good.
-
-Money is devil. We are in service.
-
-So by this , the system starts to take the power to the poor people , making it poor and poor from the soul.
-
-So the concept here is not to help the poor people. It 's to give to the poor people whatever they want so you can keep them poor from the soul.
-
-So they do n't get the development of the self and we hold a system of dependence. Looking for much more power. We are not here to try to blame anyone. Neither one president , neither anyone , a group of all people in some other countries or organization , whatever.
-
-We are not here to blame anyone because of this. We are here to take responsibility to understand that in the process of history , we the people give our power back. A way , sorry , we give our power away to others. Our responsibility is not to fight against those old people.
-
-Our responsibility is to get our power back from inside first to come back to be a rich of soul.
-
-Remember , economy was created at home. Economy means demonstration of the heart of home. We are not going to be able to heal the economy system of the world if we first do n't realize about our inner economy in given and receiving. All the economy systems of today are related to the living power to others.
-
-So now we start with the other one with the other branch which is the emotional. Why we lose the power of the economical system because we start to do it , losing the power of our own heart. We give our power to those who we love to someone in the family , to someone in the school , to a partner in a relationship. We give our power to others.
-
-It will be impossible for us to administrated our physical resources. If we are not even ready to administrated our own emotional resources. We have an emotional , an emotional , cultural economy and in the other side we have an emotional service economy.
-
-So in the cultural emotional economy we have to ask ourselves , how am I given and receiving? Am I given a lot? Am I receiving too much? I am controlling someone who I am giving the power to.
-
-You have to ask all these questions here. And then we have the emotional service economy which is all of those that has a gift inside that they have to share with the others. In this emotional economy of service , the question would be , am I given my gift to others , sharing my gift with others , or am I expecting something to come to me in order to give it? Because sometimes we wait for something for us to do it.
-
-But in order for everything to move , to flow we need to give to share. Here comes the concept of abundance. Abundance is when everything that I have within , I share it , I share it with everyone outside.
-
-So everything will come to me again. Abundance is not the ability to have things. Abundance is the ability to administrated all you have within. And now to wrap the idea , the great question of all of us.
-
-If you work with spirituality , why you charge for it?
-
-So where comes this concept of , you should not charge if you are spiritual? It comes from the church.
-
-Remember we said it before. It comes from the idea that those who come from the spiritual world must be in service must be servants of God. That 's why this here is from the devil , because this is for this planet , for this world.
-
-So if you are working for the spiritual world , you win the heaven , not this world of the devil.
-
-So you should not charge for your service , because you are spiritual. This is the concept of the Christian church in the middle ages to ensure that nobody would become rich. The answer to this , why you charge? Well , we are spirits that decided to be on this planet and this planet we are humans.
-
-And as human , I have a body. And what was the Trinity of the body? I have to sleep , I have to eat , and I have to reproduce or produce. If I do n't eat properly , I 'm not being able to survive.
-
-If I do n't sleep relaxed , I 'm not able to think and to give. If I can not produce or reproduce , I am not transcluding. And even if I am in another world with my mind , I am in a physical one in the matter. If I do n't take care of the physical aspect , how can I be in service?
-
-Remember , spiritual service has no value. Spiritual service has no value at all. What has value? The time that I need to survive and do my service.
-
-So you are never charging for your service. You are charging for the time that you need to survive in order to do your service.
-
-Okay?
-
-So whoever is going through this process of why you charge for this , just remember this , you are in the third dimension , you eat , you sleep and you reproduce.
-
-So remember , for some people , the value would be $ 1 for some people , the value would be $ 1,000 , what gives the value a group of thinking and need , and need is what creates the value of the things. Nothing has value by itself. We give the value to the things.
-
-## Daily Practice Elements
-
-So remember , what is the economy to come back to home and to order what we have within? And once we order our economy , we expand this economy outside as the circulatory system , the economy is in the heart. I spoke a lot , but I do n't care. The vibration for today is the statement for today is I am the essence of love.
-
-The code for today is calcium. This chemical element conforms one of the structural parts of creation of a great proportion of the biomass. It is the fifth element of the earth in quantity and it 's joined to the various other elements and minerals on a ionized form. Abundant in oceans was the base of the first vertebrates for the unification and the unification of this element , not only constitutes part of the NA , but also this skeletal system.
-
-Let 's go to the alignment. Let 's see what the earth is. Sit comfortable , close your eyes , take an in breath , and start to carry a massage softly all your body from the feet to the head. I recognize this body and I remember that my spirit and soul decided to create this body in order to be able to experience its ideas and emotions.
-
-I recognize everything that I have within me , all the tools , their sources , the gifts , I recognize that both of this is what I have to acknowledge who I am and the only way I will do this is by sharing what I have , by exchanging what I have with others. I recognize that at the same moment I open myself to give my strength. I am opening myself to receive. Take a deep breath.
-
-Exile. I think of my body as a house and within this house I find a mother called soul in the Father called spirit and both of them are the ones that me straightened their sources of my body. I become aware that the only way in which I can be abundant in their sources and use their resources of my body is if I find balance in between this Father and this mother is by the coherence of my inner self that I find abundance of their resources that I have. And the main force , the main resource that I need in order to create is based in the eternity that I call love.
-
-I take this infertile terrain , this poor land within me and I water it with the rain of consciousness of the rich spirit. I feel I imagine how this spirit is purging this water of consciousness to the draw one , the dry land of my body , helping to rise the flowers of the essence , the love of my soul and I activated with my singing. I am the essence of love. I am the essence of love.
-
-I am the essence of love. I am the home. I am the order of my own resources. I am the economy.
-
-For my heart , I expand my own abundance.
-
-So by resonance , I receive the same abundance. Take a deep breath and take this consciousness all over your body , expand in it , expand in this consciousness to each part of it. And each one helps on time come back here and now. Thank you everybody for being there as always and see you tomorrow at the same time.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Heart (giving and receiving, circulation, distribution, balance, love)
+- **Week Theme:** BODY 'ESSENCE' - CAPRICORN - I Use (Physical Week, Day 4)
+- **Main Topic:** Economy
+- **Vibration:** `DHi`
+- **Statement:** `I Am the Essence of Love`
+- **Code:** Economy is the distribution of resources in the home. Just as the heart circulates blood to every organ according to need, true economy is organic circulation—not accumulation, but flow.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+On January 24th, Matias addresses Economy—perhaps the most materially impactful of all Physical Week systems, yet fundamentally rooted in the Heart Chakra and the spiritual principle of giving and receiving.
+
+The word economy comes from Greek: "oikos" (home) + "nomos" (distribution). Economy = administration of the home. Not the nation, not the corporation—the home. The fundamental unit where resources are distributed among family members.
+
+The spiritual key of the heart is GIVING AND RECEIVING. The heart is the circulatory system sharing blood to every organ, distributing resources throughout the whole body (home). This is the origin of economy: organic distribution according to need, constant flow, no hoarding.
+
+Matias divides economy into two dimensions:
+
+**1. PHYSICAL ECONOMY:**
+   - Biological/Organic: How nature distributes resources (like the heart/blood)
+   - Cultural/Biological: How humanity evolved systems of exchange
+
+**2. EMOTIONAL ECONOMY:**
+   - Cultural/Emotional: How we give/receive power in relationships
+   - Service/Emotional: How we share our gifts with the world
+
+The teaching traces the evolution of economic systems: from sharing food in caves, to storage for winter, to creating value based on strength, to exchange between families, to the invention of money, to hierarchies of divine power, to modern systems of debt and dependency.
+
+The revolutionary insights:
+
+- Money has NO power—money represents power (the strength required to obtain it)
+- The rich seek POWER, not money
+- "Poor" originally meant "lack of fertility/power," not lack of money
+- "Rich" originally meant "aligned with divine power," not material wealth
+- Systems of debt were created to keep the "soul poor" dependent
+- Money is not the problem—the illusion of power outside yourself is the problem
+
+The core question: If you could govern yourself, know who you are, and know what you have within—would you need anything outside?
+
+We cannot heal the economic system of the world until we first realize our inner economy—how we give and receive within ourselves (spirit-soul-body balance) and in our relationships (emotional distribution).
+
+For spiritual workers: You're not charging for your spiritual service (which has no value). You're charging for the time you need to survive (eat, sleep, produce) in order to DO your service.
+
+The solution: Come back to the heart. Administer your own resources within (emotional and physical). Practice abundance: share everything you have within, and everything will come to you again.
+
+---
+
+## Core Teaching
+
+### Etymology: Economy = Administration of the Home
+
+Economy comes from Greek:
+
+"Oikos" (οἶκος) = home, house
+
+"Nomos" (νόμος) = distribution, administration, law
+
+Economy = administration of the home
+
+The fundamental economic unit is not the nation, not the corporation, not the market—it's the HOME.
+
+How do we distribute resources among those who live in the same house, the same family?
+
+That's economy in its original essence.
+
+### The Heart: Spiritual Giving and Receiving
+
+Many humans think the heart is only spiritual, but it's not exactly like this—even though the heart IS spiritual.
+
+The spiritual key of the heart is GIVING AND RECEIVING.
+
+From that point of view, the heart is the one that gives and receives the resources we have in our body—the circulatory system sharing blood to every organ.
+
+It helps the body work.
+
+That's why the spiritual economy is to have balance distributing resources throughout the whole body that we call HOME.
+
+The heart is the perfect model of economy:
+- Circulates resources (blood/oxygen/nutrients)
+- Distributes to every part according to need
+- Receives back from every part
+- Constant flow, no hoarding
+- Organic, responsive, balanced
+
+This is what economy was meant to be in human society.
+
+### Physical Economy: The Heart as Model
+
+The heart is the organ that stimulates the distribution of blood.
+
+Everything in nature needs to be distributed, needs to move around constantly.
+
+Every organ knows when it needs something.
+
+Every organ administers its own use of blood according to the day and the action being taken.
+
+When you eat, the stomach and intestines need blood to make the work happen. Blood goes to the digestive system. Once digestion ends, blood starts to distribute again along the body.
+
+When you have sex, you have all the blood in your genitals. Then when you release, it starts to spread all over again.
+
+The KEY of organic economy:
+
+Every organ is sharing the resources whenever they need it—NOT because they expect to have it all for themselves.
+
+There's no organ that naturally wants to have the whole blood for itself.
+
+Naturally, the body is distributing, helping to circulate blood all around the body.
+
+The key for this system is: CIRCULATORY.
+
+That is the key of natural economics: CIRCULATION, not accumulation.
+
+### The Evolution of Economic Systems
+
+From the first moment we started to be humans, everything we created was only for THREE THINGS:
+
+1. To EAT
+2. To REPRODUCE
+3. To SLEEP
+
+Those are the ONLY three things that all of us in the animal kingdom share.
+
+Everything humans have created was about solving these three things.
+
+The difference between us and all the rest of the animals: We evolved through CONSCIOUSNESS, through INTELLIGENCE, through IMAGINATION—using our MIND.
+
+**STAGE 1: SHARING FOOD**
+
+We work all together as groups. We share with one another. We create emotional links to hold us together through religions, cultures, concepts.
+
+Why? Because we needed to survive by sharing food.
+
+This concept of sharing food is to distribute what we have hunted, harvested, collected from the trees, to share it with members of the family in a cave, in a home.
+
+Here comes the FIRST concept of economy: To distribute what we have accomplished to get.
+
+**STAGE 2: STORING FOR SURVIVAL**
+
+When we started to be sedentary, we also administrated the rest that we had after we ate.
+
+Why? Because we needed to survive the winter or the drought.
+
+We took all that surplus and administrated this food so we could survive the winter.
+
+**STAGE 3: PROTECTION AND VALUE**
+
+Once we have food, we need to solve the other conflict: to SLEEP.
+
+Sleep is to be SAFE, to feel we can REST.
+
+Someone must protect you from everything.
+
+Who is the one that would protect you? The STRONGEST one. The one that has STRENGTH.
+
+That one is the most VALUABLE person.
+
+In European languages, those people who had strength to protect the herd were called "the WELL."
+
+WELL, VALUE (from Latin "valere"): "Well" is the origin of the word VALUE.
+
+The meaning is: STRENGTH, FORCE.
+
+The one that is STRONG is the person that has VALUE.
+
+This is how we started to create the concept of the VALUE of things:
+
+Something has VALUE because someone did something with STRENGTH to get that.
+
+VALUE = STRENGTH required to obtain something.
+
+**STAGE 4: EXCHANGE AND REPRODUCTION**
+
+Once we accomplished sleeping and eating, sometimes we would have a lot of some things, but we would be in lack of other things.
+
+We need to start to SHARE with other people.
+
+In this EXCHANGE, we create a new system of economy: EXCHANGE with other families.
+
+Here comes when we solve REPRODUCTION—which is the transcendence of the family.
+
+Reproduction and PRODUCTION are linked.
+
+**STAGE 5: THE INVENTION OF MONEY**
+
+When civilizations grow, a problem arises: "I have everything I need. Why should I exchange with you?"
+
+Someone really clever said: "What if we take this WEIGHT that we were sharing of things and use something that we cannot eat, we cannot use for anything else, except EXCHANGING?"
+
+They took MINERALS from the mountains.
+
+That's how MONEY was created: COINS.
+
+They started to exchange minerals: Gold, Bronze, Silver, Diamonds.
+
+But most of all: SALT.
+
+Why SALT? Because salt was useful for EVERYTHING: Food (flavor, preservation), Healing (medicine for wounds), Storage (preserving meals).
+
+That's why they started to call payment to people: SALARY (from SALT).
+
+Then they looked for minerals more DIFFICULT to get: Gold, Silver.
+
+Why do these have more value?
+
+It's NOT because the thing has value by itself.
+
+Value is STRENGTH, is FORCE.
+
+To get gold and silver is very DIFFICULT. A lot of people had to work REALLY HARD to get gold and silver.
+
+This is why gold and silver have so much value: Not the material itself, but because in ancient times you had to work VERY HARD to get it.
+
+CRITICAL INSIGHT:
+
+Money does NOT have value.
+
+Money has the VALUE of what I DID in order to get it.
+
+Money REPRESENTS value. Money IS NOT value.
+
+### The Divine Hierarchy of Wealth
+
+In ancient times they said: "Who has much more POWER and STRENGTH in creation? God."
+
+That's why: The PRIESTS, the KINGS and QUEENS were the ones that had to have MUCH MORE GOLD—because they had the POWER.
+
+The STRONGEST one has much more VALUE. And the VALUE is GOD.
+
+This creates a PYRAMIDAL STRUCTURE of money that says: "The POWER is in those who are at the TOP."
+
+### The Origin of "RICH" and "POOR"
+
+The word RICH (from northern European languages):
+
+"RAKE" in ancient languages = the one that has the RIGHT
+
+In Latin: "REX" = to rule
+
+In northern languages: "RAKE" = the one that has the POWER
+
+The RICH people, talking about the divine system, are: The ones that have the POWER OF GOD, like the king.
+
+NOT the ones that have the money.
+
+Throughout history: RICH PEOPLE were never looking for MONEY. RICH PEOPLE look for POWER.
+
+Money does NOT have power. Money COMES WITH power.
+
+If you lose your power, you don't have money.
+
+That's why rich people represent POWER, not money.
+
+For us, the COMMON PEOPLE: We believe that money has the power. But money has NO power.
+
+We believe that MONEY creates corruption in people. Money is NOT corruption.
+
+POWER—which is an ILLUSION—is what corrupts people. NOT the money.
+
+POOR: Comes from Latin "pauper" = with a LACK OF FERTILITY
+
+Someone that has NOT power.
+
+Poor = without fertility, without power to create.
+
+"Poor people" were considered to have a LACK OF FERTILITY because they were working the fields, and whoever doesn't grow anything in the fields, they are "poor" (not fertile).
+
+"Rich" was considered: The one aligned with the divine, aligned with divine power.
+
+### Understanding Power
+
+What is the REAL conflict? POWER.
+
+What is power? RECTITUDE. To be in the CENTER. To be COHERENT with yourself.
+
+To know WHO YOU ARE and to know WHAT YOU HAVE.
+
+If you know what you have, you don't need anything outside.
+
+But if you don't know who you are and you don't know what you have within, you will look for things outside until you try to reach who you maybe are.
+
+### The Creation of Debt
+
+When civilization starts to grow:
+
+There are some POOR that get a LOT OF MONEY. But they are STILL POOR. They are POOR IN SOUL, but they have lots of money—the "NEW RICH."
+
+What happens? This "new rich" (poor in soul with lots of money) starts to look for MORE. So it says: "Hey, don't worry if you have a lack of something. I will share with you. I will give you something. But then you will have to GIVE IT TO ME BACK at the end of the year."
+
+That's the FIRST DEBT.
+
+This is how they started to get a FALSE POWER.
+
+Here comes the origin of: The ones that give LOANS to people—like a BANK—that store, share, transfer, hold resources.
+
+Remember who these were? The POOR people (poor in soul) that started to accumulate more and more.
+
+### The System of Keeping People "Poor in Soul"
+
+What happened with this system?
+
+These "new rich" people started to create the idea that: "Money is DEBT."
+
+"If someone needs something, you just have to ASK for it, and I will GIVE it to you."
+
+The Church, the State started to give to the poor and said: "Hey, it's GOOD to be poor. You just ask whatever you need, and we are in service."
+
+"Money is not good. Money is devil. We are in service."
+
+By this, the system starts to: TAKE the POWER from the poor people, making them POOR and POOR from the SOUL.
+
+The concept here is NOT to help the poor people.
+
+The concept is: To GIVE to the poor people whatever they want, so you can KEEP THEM POOR FROM THE SOUL.
+
+So they DON'T get the development of the self, and we hold a system of DEPENDENCE.
+
+### Taking Responsibility
+
+We are NOT here to try to blame anyone. We are here to TAKE RESPONSIBILITY to understand that:
+
+In the process of history, WE THE PEOPLE gave our power away to others.
+
+Our responsibility is NOT to fight against those old people.
+
+Our responsibility is to GET OUR POWER BACK from inside first.
+
+To come back to be RICH OF SOUL.
+
+Remember: ECONOMY was created at HOME. Economy means administration of the heart, of home.
+
+We are NOT going to be able to heal the economy system of the world if we first don't realize about our INNER ECONOMY in GIVING AND RECEIVING.
+
+### Emotional Economy: The Real Solution
+
+All the economy systems of today are related to GIVING POWER to others.
+
+Why do we lose the power of the economical system? Because we started to do it by LOSING THE POWER OF OUR OWN HEART.
+
+We GIVE OUR POWER to: Those who we love, Someone in the family, Someone in school, A partner in a relationship.
+
+We give our power to others.
+
+It will be IMPOSSIBLE for us to administer our physical resources if we are not even ready to administer our own EMOTIONAL resources.
+
+**1. EMOTIONAL CULTURAL ECONOMY:**
+
+How am I giving and receiving emotionally/culturally?
+
+Questions to ask:
+- Am I giving a lot?
+- Am I receiving too much?
+- Am I controlling someone?
+- Who am I giving the power to?
+
+**2. EMOTIONAL SERVICE ECONOMY:**
+
+All those that have a GIFT inside that they have to share with others.
+
+Questions to ask:
+- Am I giving my gift to others, sharing my gift?
+- Or am I expecting something to come to me in order to give it?
+
+Because sometimes we WAIT for something for us to do it. But in order for everything to MOVE, to FLOW, we need to GIVE, to SHARE.
+
+Here comes the concept of ABUNDANCE.
+
+### Abundance: The True Concept
+
+ABUNDANCE is when: Everything that I have WITHIN, I SHARE IT, I share it with everyone OUTSIDE. So everything will come to me AGAIN.
+
+ABUNDANCE is NOT the ability to have things.
+
+ABUNDANCE is the ability to ADMINISTRATE all you have WITHIN.
+
+### The Question About Charging for Spiritual Work
+
+"If you work with spirituality, why do you charge for it?"
+
+Where does this concept come from—"you should not charge if you are spiritual"? It comes from the CHURCH.
+
+The idea is that those who come from the spiritual world must be IN SERVICE, must be SERVANTS OF GOD.
+
+"Money is for this world, from the devil. So if you are working for the spiritual world, you win HEAVEN, not this world. So you should NOT CHARGE for your service, because you are spiritual."
+
+This is the concept of the Christian church in the Middle Ages to ensure that nobody would become rich.
+
+### The Answer to "Why Do You Charge?"
+
+We are SPIRITS that decided to be on this planet. And on this planet we are HUMANS. And as HUMAN, I have a BODY.
+
+And what was the Trinity of the body?
+
+1. I have to SLEEP
+2. I have to EAT
+3. I have to REPRODUCE or PRODUCE
+
+If I don't eat properly, I'm not able to survive. If I don't sleep relaxed, I'm not able to think and to give. If I cannot produce or reproduce, I am not transcending.
+
+And even if I am in another world with my mind, I am in a PHYSICAL one in the matter.
+
+If I don't take care of the physical aspect, how can I be in service?
+
+Remember: SPIRITUAL SERVICE has NO VALUE. Spiritual service has NO VALUE at all.
+
+What has VALUE? The TIME that I need to SURVIVE and do my service.
+
+So you are NEVER charging for your service. You are charging for the TIME that you need to SURVIVE in order to do your service.
+
+For some people, the value would be $1. For some people, the value would be $1,000.
+
+What gives the value? Your OWN THINKING and NEED.
+
+Need is what creates the value of things. NOTHING has value by itself. WE GIVE the value to the things.
+
+So remember: What is economy? To come back to HOME and to ORDER what we have WITHIN.
+
+And once we ORDER our economy, we EXPAND this economy outside as the circulatory system.
+
+The economy is in the HEART.
+
+---
+
+## Practice
+
+### Meditation: The Home of the Heart
+
+1. Sit comfortable, close your eyes.
+
+2. Take a deep breath and start to make a soft massage from your feet to your head.
+
+3. Become aware of your breathing.
+
+4. This perfect machine, which is your body—you created it!
+
+5. Become aware, paying attention to each part of your body: The muscles, the bones, glands, organs. Above all, the CIRCULATORY and NERVOUS SYSTEM.
+
+6. Think about your BRAIN—this amazing organ made with neurons, cells that expand information by pulling all around the body to each cell.
+
+7. Pay attention to your HEART and its heartbeat—pulsed by electricity, pushing the blood through the veins of your body, bringing oxygen and nutrients, flourishing the entire body, each cell of it.
+
+8. Pay attention to your DIGESTIVE SYSTEM—the organs are a perfect combination that absorb everything that makes you good and expel everything that hurts you.
+
+9. Bring attention to your GENITALS—receiving the beauty of the technology that manifests and generates life.
+
+10. My entire body is the PERFECT WAY of creation and design—my spirit, imposed by the energy of my soul.
+
+11. Now I recognize that I am also only one cell inside a huge network of other human cells.
+
+12. Imagine that network.
+
+13. We are the perfect design of technology. We are the spirit manifested in the matter.
+
+14. Between all of us, we create: Tools, Cultures, Civilizations, Art.
+
+15. We are the CREATORS of our own reality.
+
+16. Take a deep breath. Think of your body as a HOUSE.
+
+17. Within this house, I find: A MOTHER called SOUL, A FATHER called SPIRIT. Both of them are the ones that administrate the resources of my body.
+
+18. I become aware that the only way I can be abundant in the resources and use of my body is if I find BALANCE between this Father and Mother—by the COHERENCE of my inner self, I find abundance of the resources I have.
+
+19. The MAIN FORCE, the main RESOURCE that I need in order to create is based in the ETERNITY that I call LOVE.
+
+20. I take this INFERTILE TERRAIN, this POOR LAND within me, and I water it with the RAIN OF CONSCIOUSNESS of the RICH SPIRIT.
+
+21. I feel, I imagine how this spirit is pouring this water of consciousness to the dry land of my body, helping to rise the FLOWERS of the ESSENCE, the LOVE of my SOUL.
+
+22. Repeat:
+    - "I Am the Essence of Love."
+    - "I Am the Essence of Love."
+    - "I Am the Essence of Love."
+
+23. "I Am the HOME. I Am the ORDER of my own resources. I Am the ECONOMY."
+
+24. "From my HEART, I expand my own ABUNDANCE."
+
+25. "So by RESONANCE, I receive the same abundance."
+
+26. Take a deep breath and take this consciousness all over your body, expand it, expand this consciousness to each part of it.
+
+27. In your own time, come back here and now.
+
+---
+
+## Key Insights
+
+- Economy comes from Greek "oikos" (home) + "nomos" (distribution)—economy = administration of the home.
+- The spiritual key of the heart is GIVING AND RECEIVING. The heart circulates blood to every organ—this is the origin of economy.
+- In organic economy, every organ shares resources whenever needed, NOT expecting to have it all for themselves. The key is CIRCULATORY, not accumulation.
+- Everything humans created was for three things: to EAT, to REPRODUCE, to SLEEP—same as all animals, but we evolved through consciousness, intelligence, imagination.
+- VALUE = STRENGTH, FORCE. Something has value because someone did something with STRENGTH to get it.
+- Money was invented as minerals (salt, gold, silver) for neutral exchange. Salt became salary because it was useful for everyone.
+- Money does NOT have value. Money REPRESENTS the value of what I DID to get it. Money is NOT power—money COMES WITH power.
+- RICH originally meant "aligned with own power, aligned with divine"—someone who doesn't NEED money because has power.
+- POOR originally meant "lack of fertility/power to create"—not lack of money, but lack of inner creative power.
+- The "new rich" (poor in soul with money) created DEBT to keep people poor in soul through dependence.
+- Money is NOT corruption. POWER (the illusion of it outside yourself) corrupts people. If you know who you are and what you have within, you don't need anything outside.
+- We gave our power away throughout history. Our responsibility is to GET POWER BACK from inside first, become rich of soul.
+- We cannot heal the world's economic system until we realize our INNER ECONOMY—how we give and receive within ourselves.
+- We lose economic power because we lost the power of our own HEART. Cannot administer physical resources if can't administer emotional resources.
+- ABUNDANCE is NOT having things. Abundance is ADMINISTRATING all you have WITHIN—share everything within, everything comes to you again.
+- "You shouldn't charge if you're spiritual" comes from the Church keeping people dependent.
+- Spiritual service has NO VALUE. What has value? The TIME I need to SURVIVE to do my service. You're charging for survival time, not for service.
+- Value is relative: YOUR thinking and NEED create value. Nothing has value by itself—WE give value to things.
+- Economy is: Come back to HOME, ORDER what you have WITHIN, then EXPAND that economy outside like the circulatory system. Economy is in the HEART.
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Throughout the day, practice the economy of the heart:
+
+1. **Notice your inner economy (giving/receiving within yourself):**
+   - Is your spirit (Father) giving ideas to your soul (Mother)?
+   - Is your soul giving energy to your body (child)?
+   - Is the system circulating (balanced flow) or blocked (hoarding/lack)?
+
+2. **Notice your emotional economy (giving/receiving with others):**
+   - Are you giving too much (depleting yourself)?
+   - Are you receiving too much (becoming dependent)?
+   - Are you hoarding (withholding your gifts, waiting for payment first)?
+   - Are you giving power away (to partner, family, authority)?
+
+3. **Practice abundance:**
+   - Share what you have within—your gifts, ideas, presence, love
+   - Notice: Does this create flow? Does more come to you?
+   - Trust the circulatory system: What you give circulates back
+
+4. **Question your relationship with money:**
+   - Do you think money has power, or do you recognize money represents the strength you used to get it?
+   - Are you seeking money (which has no power) or developing your own power (which attracts resources)?
+   - Do you know who you are and what you have within? If yes, do you need anything outside?
+
+5. **Honor your physical needs:**
+   - If you're in spiritual service, are you taking care of your body (eat, sleep, produce)?
+   - Are you charging for time to survive to do your service, or feeling guilty about having needs?
+
+### Applying This Teaching
+
+- Stop blaming external economic systems—start administering your own inner economy (spirit-soul-body balance, emotional giving/receiving)
+- Recognize: Money is not the problem—the illusion that power is outside yourself is the problem
+- Develop your own power—know who you are, know what you have within—then you won't need to seek outside yourself
+- Practice circulation, not accumulation—like the heart distributes blood to all organs according to need
+- If you're spiritual and charging for services: You're not charging for spirit (no value)—you're charging for time to survive (eat, sleep, produce) to DO your service
+
+### Physical Week Context
+
+This is the fourth day of the Physical Week (BODY 'ESSENCE'):
+
+Day 171 - Religion (Crown): Tie back to divine essence  
+Day 172 - Politics (Third Eye): Sail through conscious essence  
+Day 173 - Education (Throat): Draw truth essence from within  
+Day 174 - Economy (Heart): Circulate love essence through giving/receiving
+
+The progression:
+- Crown → Connect to source
+- Third Eye → Navigate consciously
+- Throat → Express truth
+- Heart → DISTRIBUTE RESOURCES
+
+All are systems where spiritual essence manifests in physical structures.
+
+Economy is the Heart Chakra of civilization—how we circulate resources (physical and emotional) throughout the body (home, family, society).
+
+Tomorrow: Technology (Solar Plexus)—the creation system and the Essence of "I Am."
+
+---
+
+## Questions for Reflection
+
+**Q: What does "economy" originally mean, and why is that significant?**
+
+Economy = Greek "oikos" (home) + "nomos" (distribution)—"administration of the home." This is significant because the fundamental economic unit is the HOME, not the nation or corporation. Economy is about how we distribute resources among those who live together as family. Just like the heart circulates blood to every organ in the body (home), true economy is organic circulation according to need—constant flow, no hoarding.
+
+**Q: How does the heart model the perfect economy?**
+
+The heart circulates blood to every organ, distributing resources according to need. When you eat, blood goes to digestive system. When you have sex, blood goes to genitals. Then it redistributes. Every organ shares resources when needed, NOT expecting to have it all for themselves. No organ hoards blood. The key is CIRCULATORY—constant flow, responsive distribution, organic balance. Accumulation in one place would kill the body—just as economic hoarding kills society.
+
+**Q: What are the three things all human economic systems were created to solve?**
+
+To EAT (survival, sustenance), To REPRODUCE (transcendence, family), To SLEEP (safety, protection). These are the SAME three things all animals need. The ONLY difference with humans: we evolved through CONSCIOUSNESS, INTELLIGENCE, IMAGINATION—using our MIND to solve these problems. Everything we created was about solving these three needs.
+
+**Q: What does "value" originally mean?**
+
+VALUE = STRENGTH, FORCE (from Latin "valere" = to be strong/well). The one that is STRONG has VALUE. In early societies, the strongest protected the herd—they had the most value. Something has value because someone did something with STRENGTH to get it. Gold and silver have value NOT because of the material, but because in ancient times you had to work VERY HARD to get them. Money does NOT have value—money REPRESENTS the value of what you DID to get it.
+
+**Q: What is the difference between "rich" and "poor" in their original meanings?**
+
+RICH = aligned with own power, aligned with the divine. Someone who doesn't NEED money because has power. Originally referred to those with God's power, but the essence is inner alignment with power/divinity.
+
+POOR = lack of fertility, lack of power to create (from Latin "pauper"). Not lack of money, but lack of inner creative power/fertility.
+
+The key: Poor/rich is about SOUL STATE (inner power/creativity), not material wealth. You can be "poor in soul" with lots of money, or "rich in soul" with little money.
+
+**Q: Why does Matias say "money is not the problem, power is"?**
+
+Because money has NO power—money REPRESENTS power (the strength used to get it). People think money corrupts, but money is neutral. POWER (the ILLUSION that it's outside yourself) corrupts people. What is power? COHERENCE with yourself, knowing WHO YOU ARE and WHAT YOU HAVE WITHIN. If you know who you are and what you have within, you don't NEED anything outside. The problem is we don't know ourselves, so we seek external power/money to fill the void.
+
+**Q: How were systems of debt created to keep people "poor in soul"?**
+
+The "new rich" (poor in soul with money) wanted more power, so they created DEBT: "I'll give you something, but give it back later." The Church/State said: "It's GOOD to be poor—just ask what you need, we'll give it. Money is devil." By GIVING people what they want, the system keeps them POOR IN SOUL—they never develop self-power, they remain DEPENDENT. The concept is NOT to help the poor—it's to KEEP them poor (in soul) so they depend on the system.
+
+**Q: How do we heal the economic system?**
+
+NOT by fighting external systems, but by healing INNER ECONOMY first: Spirit-soul-body balance (giving/receiving within yourself), and emotional economy (how we give/receive in relationships). Until we administrate our OWN emotional resources, we cannot administrate physical resources. Come back to HOME (heart), ORDER what you have WITHIN, then EXPAND that economy outside like the circulatory system.
+
+**Q: Why is it okay to charge for spiritual work?**
+
+Because spiritual service has NO VALUE—but what HAS value is the TIME you need to SURVIVE (eat, sleep, produce) to DO your service. You're NEVER charging for your service—you're charging for the TIME to survive in order to do it. We are spirits on this planet as HUMANS with BODIES. We must eat, sleep, produce. If I don't take care of the physical aspect, how can I be in service? Honor your body's needs—you're in the third dimension with physical requirements.

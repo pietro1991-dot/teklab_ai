@@ -1,432 +1,279 @@
 ---
-title: "Day 217 - Consciousness Work"
-author: Mathias de Stefano
-series: "360 Days Consciousness Journey"
+title: "Day 217 - The Seventh Dimension: The Core of Light"
+author: Matias De Stefano
+series: "365 Days The Path Of I Am"
 day_number: 217
-source: "360 Days Consciousness Journey"
-date_processed: 2025-11-14
+source: "365 Days The Path Of I Am"
+date_processed: 2025-11-16
 document_type: "transcript"
 language: "en"
 
 keywords:
-  - Mathias de Stefano
-  - 360 days
-  - Day 217
-  - consciousness
-  - spiritual practice
-  - meditation
-  - pyramid
-  - mantras
-  - vibrational practice
+  - seventh dimension
+  - light
+  - core
+  - 12 rays
+  - enlightenment
+  - archangels
+  - pressure
+  - nectar
+  - flower metaphor
+  - trinity
+  - tetrahedron
+  - sphere
   - root chakra
-  - heart chakra
-  - I AM presence
-  - I CAN affirmation
-  - month hole
-  - month holding
+  - Pisces Emotional Week
 
 practice_elements:
-  chakra: "Heart"
+  vibration: "Mo"
+  statement: "I Am Love in All Creation"
+  chakra: "Root"
+  code: "To be - the first act of the universe, giving sense to existence itself"
 
 ---
 
-# Day 217 - Consciousness Work
+# Day 217 - The Seventh Dimension: The Core of Light
 
-**Author:** Mathias de Stefano  
-**Series:** 360 Days Consciousness Journey  
-**Source:** 360 Days Consciousness Journey  
+**Author:** Matias De Stefano  
+**Series:** 365 Days The Path Of I Am  
+**Source:** 365 Days The Path Of I Am  
 
 ## Daily Practice Elements
 
-- **Chakra:** `Heart`
-
-## Introduction
-
-Hi everyone , how are you? Good morning , good afternoon , good evening to all of you. First of all , happy women 's day to all of you that are many around here. And also happy day to all the women that we men have within.
-
-So let 's speak today with our topic for today. That I was saying Spanish that I 'm getting crazy a little bit trying to explain the dimensions. I guess it 's easier when I channel some beings sometimes.
-
-## Q&A
-
-So some people were asking about why was the channel yesterday. I have no idea which language that was never asked. But it was not something for everyone was just a part of me in the sixth dimension that when I was just entering that. Concepts and energy suddenly appeared and is a part of me in the sixth dimension that just show me things about myself.
-
-Protected and what I should not miss in what I do. And basically to put me in the to give me the idea of why I should be coherent with all of you doing this. And also here she it gave me a seed of that hypercube to put it in the energy of the loose stones that I have. And the earth so it could be there as a code.
-
-And I can see that there is much more light in the room. Maybe it 's because we are in the seventh dimension today I do n't know but it 's much more clear and nothing changed is all the same. I did n't touch anything so.
-
-## Energy Work
-
-Today our topic is the seventh dimension related to the root chara so the weird thing the weird thing is maybe for some of you. Why to connect the seventh dimension which is like a very until and light it dimension related to the genitals so that 's what we are going to see today.
-
-So it 's getting me crazy because explaining multidimensionality with this. It breaks my head to try to find the ways from where you can touch it. Guys just a moment that I am organized and they 've yes in my head.
-
-So now let 's begin with the. Origin points for those who does n't have the. The idea of the constant of time and space I explained this yesterday so you can check the video from yesterday.
-
-So remember the constant the constant of time and space so here we have the lines of time and space and we will have here the different lines of time and the different lines of space.
-
-Remember that this line here is called. The first dimension.
-
-So this lines like this is what we call the second dimension. Then we will have here this other line that will make the third dimension. See.
-
-So. This crossing lines. Of the first dimension the second dimension and the third dimension will be. The lines create an a node.
-
-A node of time and space. Let 's see if I can draw it this.
-
-So now coming from the first dimension this. Ending here this curvature. The corners from one to another will be the fourth dimension which is the bending of the time and space.
-
-So this bending is the ones that we will call pass present and future.
-
-So now we go to another thing.
-
-So all this structure is being whole and observed by its angles. Can you see the eyes of the angles. Hmm.
-
-So each one of these angles will be called the fifth dimension.
-
-So the fifth dimension will be the one whole logic of everything that is happening here.
-
-So where is the sixth dimension. Is in the fractalization of this of this.
-
-So the time and space lines are moving. Orlando.
-
-So this starts to fractalization. And it goes multiply once and again once and again. Multiple once and again once and again multiplying creating different structures.
-
-Okay. Can you see how many we start to create. We start to have. We have to do three four because before we have only eight as a cube one two three four five six seven and eight in the other side we have eight.
-
-Crosses of time and space. But when we go into the six dimension. Multiple. By many starts to replicate the shape.
-
-So it starts to. To have much more process of time and space.
-
-So we have. One two three four five seven nine ten and eleven. Many options of time and space.
-
-Okay.
-
-So where is the seventh dimension.
-
-So we have to do this in the center of the entire structure connecting each one of these notes to the core to the center of the structure. Can you see.
-
-So what is in here is that. Each one of the notes of time and space.
-
-Now they put all the per in the center.
-
-Okay. See.
-
-So you have it because I 'm going to raise it.
-
-So do you remember what happened when. Times of the crosses the lines of time and space starts to.
-
-So when you start to turn and to make pressure. Spinning.
-
-So.
-
-So.
-
-So.
-
-So.
-
-So.
-
-So.
-
-So.
-
-So.
-
-So from the point of view of the six dimension , there are a sense of probability of probabilities. Of matter. Many of them. But from the point of view of the fifth dimension.
-
-They 're all connected to the center.
-
-So this is a sphere. What is this here is a fact. Tally. Um.
-
-Expression of a titre. Hydra in the sixth dimension. Let 's do it with a circle. Why a triangle is the basic shape of the universe.
-
-Well , not other because when you want to shape anything the first. Figure is always. Why is that because when you have. In the first dimension , a positive and the negative.
-
-These two are willing to get in touch , but they can not because this one must bend towards the other one.
-
-So it creates the second dimension.
-
-Okay , here we have the second dimension. But what happened with the second dimension that these are not touching. This does n't have any. Logic.
-
-So that 's why they need a third option to connect them as one. That 's why the. Trinity. Is the base of everything.
-
-The triangle is a base of all the platonic solids.
-
-So from all the figures and all the systems.
-
-Okay.
-
-So all the cultures in all systems. They. They talk about the Trinity the Holy Trinity. And this is what explains the Holy Trinity.
-
-It 's not the. Holy Ghost and the father and the son or the mother. No , this is just an interpretation of this , but this takes all the metrics of it. Of course , but basically all.
-
-All the. All the religions are based in this triangle.
-
-So how does this triangle. And so what is the.
-
-So how it is.
-
-So how it is.
-
-So it is the square.
-
-So it creates the square.
-
-So again , it will multiply by. In five.
-
-So it 's a five. If you want to go into the.
-
-So from the.
-
-So from the trial. To from the triangle. Goes to the square from the square to the pentagon. From the pentagon to the.
-
-Oregon.
-
-So now from this triangle goes to the square from the square to the pentagon from the integral to the x-agon and from the x-agon it goes to eight phases , sorry eight lines , ten lines and it starts to multiply and multiply and multiply more and more and more and more and more until suddenly you have a circle.
-
-So a circle is only in two dimensions.
-
-So a triangle multiplied by thousand creates a circle. But a circle multiplied by thousands creates a sphere.
-
-So if a triangle multiply by thousands will create a circle , a tetrahedron multiplied by thousands will create a sphere. Where they multiply in the six dimensions by flexibility.
-
-So if I am in a triangle willing to find the point of balance , I will have to trace in from each one of the corners to the center.
-
-So I can have a powerful basis.
-
-So that 's what creates the concept of a tetrahedron. That starting to be multiplied will create a sphere. If this triangle was multiplied by thousands , so that means that there will be thousands of crosses.
-
-So this in this multiplication of the triangles by thousands , now there 's not only three that will hold the pattern. There will be billions and thousands of crosses all around. And that will create a point of tension called the core. The core.
-
-So if this is a sphere , this will be the core of a sphere. Meaning that the billions of angles of a sphere will be setting its pressure towards the core. As much more pressure , this means that the basis of the of the matter , the electrons starts to violate faster and faster because of friction pressure that it that they are having.
-
-So this is why it starts to get hotter inside. When they move faster , they start to heat.
-
-So this means that when much pressure as sphere is having , this means much more atmosphere , it has. It will create so much pressure that the electron will create a lot of heat like in the core of the sun or in the core of the planet of earth.
-
-So as much more energy or much more pressure , the electrons create much more energy. And that 's why they start to expand so much that they create light.
-
-So this is why when we see lava , the magma of volcano , pouring out of the mountain of the volcano , we see light , the rocks , they melt and they produce light. How can a rock produce light is because of the pressure and the electrons trying to get out.
-
-So they have heat that they produce energy and light.
-
-Okay.
-
-So this means that the pressure of a star of a planet in the universe , the planet is so much that creates so much energy inside by the friction that it enlighten.
-
-So the core of the sun , the core of the star , the core of a planet is light.
-
-Now we have seen this from the point of view of the third dimension. Let 's see it from the point of the sixth dimension.
-
-So now from the sixth dimension , this is not just matter , this is options of time and space.
-
-So many options , thousands of options of possibilities , the big day all quite cysts.
-
-So let 's say that every time space line that are holding a reality in the sixth dimension creating many options , they hold so much pressure to the core of this transformation that inside we have light. This pressure , this fold from here that in the third dimension we call energy. In the sixth dimension we call it illumination. What is the friction of all the forces of three dimensions?
-
-What is illumination? Is the joint of the forces of six dimensions? In the third dimension , these three there is create fixed points of direction. This one here , one and two , this one here , one , two , this one here , one and two , so six.
-
-Or create energy , we need the six directions of the third dimension. That 's from the that we spoke about them , the six directions many times ago. Do you remember this six vibration , energy and matter , love , wisdom and will? The six directions.
-
-So in the sixth dimension in order to get in light enlightenment illumination , we need to go through six dimensions.
-
-So the six dimensions gives us 12 directions. 12 directions.
-
-## Daily Practice Elements
-
-So now this 12 , what are they , are the attributes , 12 sodium signs that we are using? I can , I see , I believe , I use , I create , okay , the different attributes of me. In the 12 sodium signs , the ones we are using as mantra every month.
-
-Okay , so now , when I get to go through all the path and integrate all the attributes of the self , I can , I see , I , know , I believe , I use , when I activate this 12 attributes , I light myself in the center. And that 's the moment when you go to the seventh dimension.
-
-So what this means is that if you want to light yourself from the third dimension , you will have to integrate all the aspects of all the possibilities of your times in spaces and from the sentence as one.
-
-So a little bit complicated , but we can do it. This does n't mean that we can not do it , we can do it.
-
-So the seventh dimension is the path of enlightenment. It 's all to get into this energy , you need a lot of pressure. That 's why it 's so heavy , so complicated to reach it.
-
-So now what happened? That is very difficult , and it takes a lot of pressure to get to the core to the enlightenment. But once you reach there , what happened that all the forces that are pressing you suddenly disappear , because all the forces together equals zero.
-
-So in order to reach the enlightenment of the seventh dimension , I need to go through the process of the pressure of all the timelines and all the spaces.
-
-So when I go there , when I do that , when I go straight to the center to the point , I do n't feel much pressure , I do n't feel the pressure anymore. I said a free from that. I said here that we have 12 paths that activate the attributes of the mean of I.
-
-So as you see here , we have this 12 path. And this 12 path , that 's what we call the seventh race. The white ray , the blue ray , the pink ray , the orange ray , golden ray , all the rays that we used to call. From where the masters talked to us , like the masters from the white ray or like that.
-
-So the masters takes the power from the archangels. Their archangels are 12 , the main ones. And they are not beings of , they are not beings of the exactly like people being like archangels. They are attributes of the one is the potential of the enlightenment within.
-
-And we have 12 rays around coming from the six dimension projected from the six dimension that are the potentials. That 's why they are called the protest that. The potentials.
-
-Okay.
-
-So the archangels are not real beings with human aspect. The , the archangels are attributes of light of the seventh race. That 's why we call the Oriel , which means the light of God. El is God.
-
-Gabriel , the power of God , Michael , who like God. And so on. Graf , El , the physician of God.
-
-So those are the attributes.
-
-Okay. The attributes of the divine.
-
-So those are the 12 rays that create what we do know in spirituality. The 12 rays. And this 12 rays come from the seventh dimension. Oh.
-
-All right.
-
-## Q&A
-
-So when we ask to the archangels , we are not asking to an outer being outside. We are talking to an attribute of our , of ourselves in the seventh dimension that project us here.
-
-So basically we can say for example that this us , we are a projection.
-
-So here we have the divine potential , the protests , the archangels , the angels , the masters , the guides and us.
-
-So with this picture here , we can say that there are not different beings. There are different echoes. Different echoes of myself.
-
-So I would be like the last echo of many other beings.
-
-Okay.
-
-So now we go to this vision here.
-
-So now. What. Why are we looking for elimination? Why do we look for that?
-
-In order to understand why we are looking for enlightenment , we have to compare ourselves with.
-
-So I wrote about that today in the blog.
-
-So if you want to go deep on it , you can check it.
-
-The reason why we go. We are willing to go to the. The seventh dimension to the enlightenment is because. Seven dimension is the one that holds the potential of creation itself is the seed , the nectar of it.
-
-So if we are willing to become creators ourselves. What we have to do is to go into the seventh dimension to reach the power that allows us to create.
-
-So see enlightenment is not an end. A goal is a part of the process.
-
-So let 's compare this with something very earthly. Ert.
-
-So in order to.
-
-So we will see all these dimensions from here like if they were a flower.
-
-So what is the flower? A flower is a factor of the sphere. But. In the third dimension.
-
-We are going to be channeling. One information specifically for one ray.
-
-So in order to understand this , we will compare it with all the thing.
-
-So I think that today I 'm going to speak too much. I will speak too much , but. Is a seventh dimension in the surface. And remember about the curvature time and space.
-
-Hmm. You remember about this. Of the curvature time and space. Time space.
-
-When time and space bend , they create gravity. And that gives matter.
-
-So the strength of this. To connect to one of the race of the seventh dimension. If this weight is by by vibration connected to the seventh ray to the to the. Seventy mentioned through the.
-
-The. The purple ray.
-
-So that planet or that star will have the attributes of. The purple ray. The violet. Hmm.
-
-Do you remember that there are other notes here. Like planet around this weight is readiness.
-
-So imagine that this planet. This is a sun.
-
-So we are taking the energy of the sun. Like here. We have earth. Venus Mars Mercury.
-
-So how do we get the energy. We take its energy to create life.
-
-So we storage that light on earth. In our planet in earth. The plants are the best ones on doing this by photosynthesis. They absorb the information of the sun.
-
-They storage its energy and distribute the race of light.
-
-So we have different flowers , different colors. In the nature. We are coming from the seventh dimension. Hmm.
-
-So our planet is using the energy of the sun. In order to create and manifest things.
-
-So we would say that we are using the nectar of the sun. Create. Honey.
-
-So now let 's replicate this shape here.
-
-So , now , look at this like the light from the seven dimension which is also processed by the leaves in a plant , my photosynthesis , they create the potential of the flower , else and space. And here , around we have the nectar and the bees , the bees are common to pick up the nectar and will lay do it , they take with them the pollen and with the pollen they create , they pollinise the flowers and with the nectar they create the honey.
-
-So now imagine this , a flower is basically light. The insects see the flowers like we see the light of cities , they can see in ultraviolet light.
-
-So a flower in nature that for us is just beautiful for an insect is like shining like his star.
-
-So they are attracted to that shining and they start to smell the sugar and they just go to the light , they follow the light and they are attracted by the perfume of the light.
-
-So they take the nectar , they absorb the elicit with ecstasists with all the energy that it gives to them and by doing that they take the pollen with them and they start to pollinise all the flowers and with the nectar they create the honey and while they do that they are pollinise all forest creating many other options of flowers of light by experience.
-
-So now translate this into our human experiences.
-
-So in our view of humans we can say that we are looking for light , we are looking for enlightenment and in order to find enlightenment we have to drink the nectar. That means death in Greek which is nectar is near. Near is death.
-
-So nectar is the word for death.
-
-So in the traditions and ancient traditions they said whoever drink the sweet death becomes eternal and mortal. That 's why the gods eat only nectar. The sweet death. And by filling that by filling that filling we are following that light which is the eternity.
-
-So we are attracted by the light of the seven dimension because the beings of the dimension need to expand in order to feel the pleasure that is the experience. The seven dimension everything is organic. It 's so powerful everything that they need to expand this orgasm throughout the whole universe. It 's like the trees , the plants , the earth , the spring.
-
-This is why we are at the powerful of enlightenment , the ecstasy of enlightenment.
-
-So when we reach the light what we do is to become that to make that are into the honey , to use this pollen as attributes.
-
-So we start to have our gifts. The person that has the gift of music from the very moment of the birth , the writers from the heart , I do n't know any gift that you could possibly imagine in a human is the honey. The crystal is the same of the night , of the nectar. Our donors are like a crystallization of the eternity.
-
-Our gifts are the crystallization of eternity. The divine rays are not something external. They are projecting us. When we understand how a flower works in our world , we can understand how our reality plays in the quantity universe of the seven dimension.
-
-I feel that there is so many things to say. They are rather being science. Let 's go step by step with this.
-
-## Daily Practice Elements
-
-So now let 's go to study botanist. If you want to light only once that we are able to explain how are the plants. The vibration for today is low. This statement for today is I am love in all creation.
-
-The code for today is to be the first act of the universe , the birth , to be. It 's the one that gives a sense to existence itself. Everything is part of the same being of an entity that it is. That expresses from within this way.
-
-The first name of the divine is I am , attribute that makes it be acknowledged as a singularity. The only one from where everything originates and where everything returns to. At the same time , everything that has developed from it is still a part of a projected body. The greatest attribute is being who you are without pretending to be someone else.
-
-Did you get it? I do n't know why. I have a thousand million things more to say. I guess that with this you will have a base.
-
-It 's really late. I do not know how you do it. Thank you. Everybody that is here.
-
-I guess that as we are going deeper into the higher dimension , the things start to be so complicated.
-
-So much that is complicated to just put in your words in the tiny explanation.
-
-So we see it comfortable , closer eyes , and concentrate in the breathing. I take a deep breath , becoming aware of my body and the space I find myself in. I have a deep breath , becoming aware of my body and the space I find myself in. I have a deep breath , becoming aware of my body and the space I find myself in.
-
-I find imagination to expand the room where I am. The walls , the roof , the floor , all of it expanded towards the infinite. Letting myself floating in the term , in the middle of the universal void. I have a deep breath , becoming aware of my body and the space I find myself in.
-
-I take a deep breath , and I recognize myself as the center of my own world. My things , people , stuff. My thoughts , my feelings , my experiences , all of them around me create a sphere from which I am its core. I recognize that this world around me , my own world , is setting all its pressure upon me.
-
-All my beliefs , my mind , emotions , my life itself , my history , my relationships , my bounds , attachments , projects and future , my intentions , all of it at the same distance. Push towards me , and I feel the pressure of my entire world. Take a deep breath , and I start to feel how this pressure creates power , strength , energy. The friction starts to create the heat that turns all my body into the fire that ignites , expanding light.
-
-I start to feel how this light becomes in colors , the 12th rays of light shine towards every direction , and lightning , my world from within , ignite in the power of my being. I am light , and it 's my light , the one that feeds all the things , the one that feeds my world. I start to perceive myself , lost something as a flower , a huge and beautiful flower , radiating all these lights , these rays. Recognizing that in each process of death there is a rebirth that within me , I have the potential of the eternal love.
-
-I am the creator of all things. I am the light. I am the life. I am the love.
-
-This light that I have is the potential of my gift , and I use this potential to crystalline manifest all of them in what I can become in all my beings. I am the love in all creation. I am the life. I am the life.
-
-I am the seed and the liters of all creation. I am the love in all creation. I am the life. I am the life.
-
-I am the life. I am the life. I am the life. I am the life.
-
-I am the life. I am the life. I am the life. I am the life.
-
-I am the life. I am the life. I am the life. I am the life.
-
-I am the life. Take a deep breath. Take a deep breath.
-
-## Frequently Asked Questions
-
-<!-- TODO: Aggiungi FAQ rilevanti per questo giorno -->
-<!-- Formato consigliato:
-
-### Q1: [Domanda principale]?
-[Risposta dettagliata basata sul contenuto del giorno]
-
-### Q2: [Altra domanda]?
-[Risposta]
--->
+- **Chakra Focus:** Root
+- **Week Theme:** Pisces Emotional Week
+- **Main Topic:** The Seventh Dimension - The Core, the 12 Rays, and the Path to Enlightenment
+- **Vibration:** `Mo`
+- **Statement:** `I Am Love in All Creation`
+- **Code:** To be - the first act of the universe, to be. It is the one that gives sense to existence itself. Everything is part of the same being, of an entity that it is, that expresses from within. The first name of the divine is "I Am"—attribute that makes it be acknowledged as a singularity, the only one from where everything originates and where everything returns to. At the same time, everything that has developed from it is still a part of a projected body. The greatest attribute is being who you are without pretending to be someone else.
 
 ---
 
-*Transcript processed for RAG embeddings*
-*Processing date: 2025-11-14 15:19*
+## Overview
+
+Today we explore the seventh dimension—the core of all creation, the center point where light is born. This is the dimension of enlightenment, but not enlightenment as an end goal. Enlightenment in the seventh dimension is a part of the process, a seed, a nectar that allows us to become creators ourselves.
+
+Why connect the seventh dimension, which seems so ethereal and light, with the root chakra, the genitals, the most earthy and sexual part of the body? Because the seventh dimension is the seed, the generative power, the orgasm of the universe that expands throughout all creation. It is the most fundamental, primal force—just as the root chakra is the foundation of life force in the body.
+
+---
+
+## Building the Seventh Dimension: The Trinity
+
+### The First Dimension: The Line
+
+In the first dimension, we have positive and negative. These two are willing to get in touch, but they cannot, because one must bend toward the other. This creates the second dimension.
+
+### The Second Dimension: The Need for a Third
+
+In the second dimension, we have two points connected by a line, but they are not touching directly. This does not have logic. They need a third option to connect them as one.
+
+That is why the trinity is the base of everything. The triangle is the base of all the platonic solids, all figures, all systems. All cultures and religions speak about the Holy Trinity—not just the Father, Son, and Holy Ghost, but the fundamental geometric truth: positive, negative, and the connection that unites them.
+
+### From Triangle to Sphere
+
+From the triangle, it goes to the square. From the square to the pentagon. From the pentagon to the hexagon. It multiplies: eight lines, ten lines, more and more, until suddenly you have a circle.
+
+A circle is a triangle multiplied by thousands in two dimensions. A sphere is a circle multiplied by thousands in three dimensions.
+
+If a triangle multiplied by thousands creates a circle, then a tetrahedron multiplied by thousands creates a sphere. And where do they multiply? In the sixth dimension, through fractalization.
+
+### The Core: Where All Angles Meet
+
+If this is a triangle willing to find the point of balance, you trace lines from each corner to the center. That creates a tetrahedron—a three-dimensional structure with a core.
+
+When this triangle is multiplied by thousands, there are no longer only three lines holding the pattern. There are billions and thousands of crosses all around, creating a point of tension called the core.
+
+The core of a sphere is where the billions of angles set their pressure toward the center. As much more pressure, the electrons start to vibrate faster and faster because of friction. This creates heat, which creates energy and light.
+
+This is why when we see lava from a volcano, we see light. The rocks melt and produce light. How can a rock produce light? Because of the pressure—the electrons trying to get out create heat, energy, and light.
+
+The core of a star, the core of a planet—the pressure is so much that it creates enlightenment. The core is light.
+
+---
+
+## The Sixth and Seventh Dimensions Together
+
+From the sixth dimension, we see many options, thousands of possibilities of time and space creating options. In the third dimension, these three directions create fixed points. To create energy, we need the six directions of the third dimension.
+
+In the sixth dimension, to get enlightenment, illumination, we need to go through six dimensions. The six dimensions give us 12 directions.
+
+### The 12 Rays and the 12 Zodiac Signs
+
+These 12 directions are the attributes we use in the zodiac signs: I Can, I See, I Believe, I Use, I Create, etc.—the different attributes of the self, the mantras we use each month.
+
+When I go through all the path and integrate all the attributes of the self (I Can, I See, I Know, I Believe, I Use...), when I activate these 12 attributes, I light myself in the center. That is the moment when I go to the seventh dimension.
+
+To light myself from the third dimension, I have to integrate all the aspects of all the possibilities of my times and spaces, integrating them as one. It is complicated, but we can do it. The seventh dimension is the path of enlightenment.
+
+It is very difficult. It takes a lot of pressure to get there. But once you reach the center, all the forces that were pressing you suddenly disappear, because all the forces together equal zero.
+
+In order to reach the enlightenment of the seventh dimension, I need to go through the pressure of all timelines and all spaces. But when I arrive at the core, at the point, I do not feel pressure anymore. I am free from that. I am here.
+
+---
+
+## The 12 Rays and the Archangels
+
+We have 12 paths that activate the attributes of the "I." These 12 paths are what we call the 12 rays: the white ray, the blue ray, the pink ray, the orange ray, the golden ray—all the rays that masters speak about.
+
+The masters take power from the archangels. The archangels are 12—the main ones. But they are not beings with human forms. They are attributes of light from the seventh dimension. They are potentials. That is why they are called potestates—the potentials.
+
+The archangels are attributes of the divine:
+- Uriel: the light of God (El = God)
+- Gabriel: the power of God
+- Michael: who like God
+- Raphael: the physician of God
+
+These are the 12 rays from the seventh dimension.
+
+When we ask the archangels, we are not asking an outer being outside. We are talking to an attribute of ourselves in the seventh dimension that projects us here.
+
+We are a projection. We have the divine potential (potestates), the archangels, the angels, the masters, the guides, and us. With this picture, we can say there are not different beings. They are different echoes—different echoes of myself. I would be the last echo of many other beings.
+
+---
+
+## Why Seek Enlightenment? The Flower Metaphor
+
+Why are we looking for enlightenment? Why do we seek to go to the seventh dimension?
+
+Because the seventh dimension holds the potential of creation itself. It is the seed, the nectar. If we are willing to become creators ourselves, we must go to the seventh dimension to reach the power that allows us to create.
+
+Enlightenment is not an end, a goal. It is a part of the process.
+
+### The Sun, the Earth, and Photosynthesis
+
+Imagine a star, a sun, radiating light through one of the 12 rays—let us say the seventh ray, the violet ray. That planet or star has the attributes of the violet ray.
+
+Around this sun, we have Earth, Venus, Mars, Mercury. How do we get the energy from the sun? We take its energy to create life.
+
+On Earth, plants are the best at this, through photosynthesis. They absorb the information of the sun. They store its energy and distribute the rays of light. We have different flowers, different colors in nature, all coming from the seventh dimension.
+
+Our planet uses the energy of the sun to create and manifest things. We use the nectar of the sun to create honey.
+
+### The Flower, the Bees, and the Nectar
+
+The light from the seventh dimension is processed by the leaves of a plant through photosynthesis. They create the potential of the flower. The flower radiates light, time, and space. Around it, we have the nectar, and the bees come to pick up the nectar. They take the pollen with them, and with the pollen they pollinate flowers. With the nectar, they create honey.
+
+A flower is light. Insects see flowers like we see the light of cities—they can see in ultraviolet light. A flower shining in nature is like a star to an insect. They are attracted to that shining, they smell the sugar, they go to the light, attracted by the perfume of the light.
+
+They take the nectar, they absorb it, ecstatic with all the energy it gives them. By doing that, they take the pollen and pollinate all the flowers. With the nectar, they create honey. While they do this, they pollinate the whole forest, creating many other options of flowers of light through experience.
+
+### Translating to Human Experience
+
+We are looking for light, for enlightenment. To find enlightenment, we have to drink the nectar. Nectar means death in Greek. In ancient traditions, they said whoever drinks the sweet death becomes eternal, immortal. That is why the gods eat only nectar—the sweet death.
+
+By feeling that, we are attracted by the light of the seventh dimension because the beings of this dimension need to expand to feel the pleasure that is the experience. The seventh dimension is so powerful, so orgasmic, that it needs to expand this orgasm throughout the whole universe.
+
+It is like the trees, the plants, the Earth in spring. This is why we are attracted to the power of enlightenment—the ecstasy of enlightenment.
+
+When we reach the light, we transform it into honey, to use pollen as attributes. We start to have our gifts. A person with the gift of music from birth, writers from the heart, any gift you can imagine—these are the honey, the crystallization of the nectar. Our talents are like a crystallization of eternity. Our gifts are the crystallization of eternity.
+
+The divine rays are not something external. They are projecting us.
+
+---
+
+## Practice
+
+### Preparation
+
+Sit comfortably, close your eyes, and concentrate on your breathing.
+
+### Expanding Into the Void
+
+Take a deep breath, becoming aware of your body and the space you are in. Use your imagination to expand the room—the walls, the roof, the floor—all of it expanding toward the infinite, letting yourself float in the middle of the universal void.
+
+### Recognizing Yourself as the Core
+
+Take a deep breath and recognize yourself as the center of your own world. Your things, people, thoughts, feelings, experiences—all of them around you create a sphere from which you are the core.
+
+Recognize that this world around you is setting all its pressure upon you. All your beliefs, your mind, emotions, your life, your history, relationships, attachments, projects, future, intentions—all of it at the same distance, pushing toward you. Feel the pressure of your entire world.
+
+### Igniting the Light
+
+Take a deep breath and start to feel how this pressure creates power, strength, energy. The friction starts to create heat that turns your body into fire that ignites, expanding light.
+
+Feel how this light becomes colors—the 12 rays of light shining toward every direction, lightning your world from within. Ignite the power of your being.
+
+### The Vibration Mo
+
+Sound the vibration Mo from your root chakra, feeling the generative power of creation.
+
+I am light.  
+I am the creator of all things.  
+I am the light, I am the life, I am the love.  
+
+This light that I have is the potential of my gift. I use this potential to crystallize, to manifest all of them in what I can become, in all my beings.
+
+I Am love in all creation.  
+I Am the seed and the nectar of all creation.  
+I Am love in all creation.
+
+### Closing
+
+Take a deep breath and gently return to here and now.
+
+---
+
+## Key Insights
+
+- The seventh dimension is the core of all creation, where light is born from the pressure of all possibilities.
+- The trinity (triangle) is the foundation of all existence—positive, negative, and the connection that unites them.
+- A sphere is created by fractalizing a triangle thousands of times, creating billions of crossing points all pressing toward the core.
+- Pressure creates heat, heat creates energy, energy creates light—this is how enlightenment is born.
+- The 12 rays of creation correspond to the 12 zodiac attributes and the 12 archangels.
+- Archangels are not separate beings but attributes of light, potentials of our own seventh-dimensional self.
+- Enlightenment is not an end goal but a part of the process—the seed and nectar that allows us to become creators.
+- The flower metaphor: flowers radiate light, bees take nectar (sweet death) and pollen (gifts), creating honey (crystallized talents).
+- Our talents and gifts are the crystallization of the nectar of the seventh dimension.
+- The root chakra connects to the seventh dimension because both represent the generative, orgasmic power of creation.
+
+---
+
+## Integration
+
+### Daily Exercise
+
+Today, meditate on your gifts and talents. See them not as random abilities but as the crystallization of light from the seventh dimension. What nectar have you drunk? What pollen are you spreading?
+
+Practice feeling the pressure of your life not as burden but as the friction that creates your inner light. Every challenge, every relationship, every experience is pressing toward your core, creating the heat that will ignite your enlightenment.
+
+### Applying This Teaching
+
+When you feel overwhelmed by life's pressures, remember: you are at the core of a sphere where all forces press equally, and at the center, they cancel out to zero. The more pressure, the more potential for light.
+
+When you seek enlightenment, remember: it is not about escaping the world but about integrating all 12 attributes, all possibilities, all timelines, until you ignite from within.
+
+When you call on archangels or guides, remember: you are calling on attributes of your own seventh-dimensional self. They are not outside you. They are echoes of your highest potential.
+
+---
+
+## Q&A
+
+### Q: Why is the seventh dimension connected to the root chakra and not the crown?
+
+Because the seventh dimension is the seed, the generative power, the orgasmic expansion of creation. The root chakra is where life force originates, where sexuality and creation reside. Both are about fundamental, primal generative power. The crown receives; the root generates.
+
+### Q: If archangels are just attributes, not beings, does that mean prayers to them are meaningless?
+
+No. Attributes are real. When you pray to Archangel Michael, you are invoking the attribute of "who like God"—divine protection and strength. You are activating that quality within your own seventh-dimensional self. The prayer is not to an external being but to an aspect of your own divine nature.
+
+### Q: How can I reach the seventh dimension if it requires integrating all 12 attributes?
+
+Through the journey of life, through the zodiac year, through experiencing and embodying each quality: I Can, I See, I Believe, I Use, I Create, I Feel, I Know, I Want, I Analyze, I Transcend, I Transform, I Am. As you live fully, you naturally integrate them all.
+
+### Q: What is the nectar, practically speaking?
+
+The nectar is the sweet death—the willingness to die to the ego, to limitations, to separation. When you drink this (accept transformation), you become immortal (realize your eternal nature). Practically, it is every moment of surrender, every letting go, every acceptance of change.
+
+### Q: If all forces cancel out to zero at the core, does that mean enlightenment is nothingness?
+
+It is freedom from pressure, but it is not empty. It is the zero point from which all creation springs. It is the still point where infinite potential resides. Zero is not nothing—it is everything before it manifests.
+
+### Q: How do I know which ray or attribute I am working with?
+
+Look at your life focus. If you are learning power and will, you may be on the red ray. If you are developing wisdom and vision, the blue ray. Your challenges and gifts show you which ray you are crystallizing into honey.
+
+### Q: Can I work with multiple rays at once?
+
+Yes. You contain all 12. But usually, one or two are dominant in a particular lifetime or phase. The goal is not to pick one but to integrate all 12 through the journey of your soul's evolution.
+
+---
